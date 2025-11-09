@@ -5,6 +5,8 @@
 	quest.0328E5E416D0F785.title: "&cFogo"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remédio&r é feito Fundindo uma Raiz Grande. \\n\\nÉ um Item que pode ser dado a um &cPokemon&r dentro ou fora da Batalha para restaurar Vida (não em troca de &dAmizade&r). \\n\\nVocê pode Criar com ele para fazer &6Remédios&r ainda melhores!"]
 	quest.0338E3A881A6DD98.title: "&6Remédio"
+	quest.0EE5B550E4752CF2.quest_desc: ["O Ditto é um verdadeiro casanova, todos o amam! \\n\\nO Ditto pode ser usado para &dCruzar&r com qualquer &cPokemon&r que possa &dCruzar&r, como um substituto para um &cPokemon&r ausente. Ele pode até &dCruzar&r com alguns &cPokemon&r que normalmente não podem &dCruzar&r! \\n\\nQuando você usa um Ditto, o &cOvo&r será da mesma Espécie que o &cPokemon&r com o qual o Ditto &dcruzou&r."]
+	quest.0EE5B550E4752CF2.title: "&dCruzamento&r com Ditto"
 	quest.0FAAA8628228ABA4.quest_desc: ["&nForte&r \\n\\n&8Sombrio&r \\n&2Grama&r \\n&dPsíquico&r \\n\\n&nVulnerável&r \\n\\n&cFogo&r \\n&9Voador&r \\n&6Pedra&r"]
 	quest.0FAAA8628228ABA4.title: "&aInseto"
 	quest.10C1718C792F3ABB.quest_desc: [
@@ -28,6 +30,9 @@
 	quest.22FCEAECFBC734DD.title: "&6Apricorn"
 	quest.23DAF5129F244C2C.quest_desc: ["&nForte&r \\n\\n&cFogo&r \\n&6Terra&r \\n&6Pedra&r \\n\\n&nVulnerável&r \\n\\n&eElétrico&r \\n&2Grama&r"]
 	quest.23DAF5129F244C2C.title: "&bÁgua"
+	quest.25CDC402800CA4D1.quest_desc: ["Ei, os &cPokemon&r têm que vir de algum lugar! \\n\\nSe 2 &cPokemon&r estão vagando em um &6Pasto&r, eles podem &dCruzar&r. Mas, há muitos requisitos antes que possam. \\n\\nPrimeiro, precisaremos de um &bMacho &fe uma &fêmea&r para &dCruzar&r. O &cPokemon&r Bebê virá de um &cOvo de Pokemon&r, e será da mesma Espécie que a &dMãe&r. \\n\\nAmbos os &cPokemons&r precisarão estar no mesmo \"Grupo de Ovos\". Use a Wiki, não vou listar cada &cPokemon&r! \\n\\nPor último, existem alguns Atributos e &cPokemon&r que não podem &dCruzar&r... \\n\\nSe você atender a todos os Requisitos, então a &fêmea &cPokemon&r colocará um &cOvo&r de vez em quando!"]
+	quest.25CDC402800CA4D1.quest_subtitle: "Os Delibirds e Beedrills"
+	quest.25CDC402800CA4D1.title: "&dCruzamento&r de &cPokemon"
 	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &bÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\" \\n\\n(&bMudkip&r é o meu favorito!)"]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nForte&r \\n\\n&9Voador&r \\n&bÁgua&r \\n\\n&nVulnerável&r \\n\\n&6Terra&r"]
