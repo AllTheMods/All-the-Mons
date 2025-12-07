@@ -1,116 +1,117 @@
 {
-	quest.051E0C85E7B71CE0.quest_desc: ["I'm going to assume you've been out mining, right? It is MINEcraft after all.\\n\\nYou'll find a ton of new ores that might confuse you, but you can stick to the vanilla materials to get you started!\\n\\nCopper is abundant and has plenty of uses for things like &aOre Hammers&r or &eDrawer Upgrades&r, so make sure to grab plenty of it!\\n\\nIron is probably one of the most important ores you'll want to get every time you run into it. The world of modded MC pretty much runs on Iron."]
-	quest.051E0C85E7B71CE0.title: "The &9Metal&r Age"
-	quest.0F026D5A17CCCF51.quest_desc: ["&dNetherite&r items are even better overall, and won't burn in lava! You still will though, even wearing the armor. Don't try it out.\\n\\nThis items can be used to make some of the best tools and armor in the game."]
-	quest.0F026D5A17CCCF51.title: "&dNetherite Tier"
-	quest.0F3D51FFD2FE8DCB.quest_desc: [
-		"With a Diamond tier pickaxe, you'll be able to mine &dObsidian&r. Obsidian can be used to create a portal to the &cNether&r.\\n\\nThe portal frame can be many different sizes, but most go with the basic 'Door' shape. This is a hollow 4x5 shape using a minimum of 10 Obsidian. You don't have to use Obsidian for the corners, just the portal frame itself!\\n"
-		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
-	]
-	quest.0F3D51FFD2FE8DCB.title: "&cTo The Nether&r!"
+	quest.06B182C3FCCA6C02.quest_desc: ["&cNetherite&r is unique for all the &2&lMinecraft&r Ores. \\n\\nFirst, Mine &cAncient Debris&r. These spawn all over &c&lThe Nether&r, but it is safest to Mine deep below the surface because of &cLava Lakes&r. \\n\\nThen, Smelt &cAncient Debris&r to get &cAncient Scrap&r. Combine 4 &cAncient Scraps&r with 4 &eGold Ingots&r to make a &cNetherite Ingot&r! \\n\\nWait, our job isn't done yet. We need the &cNetherite Upgrade Template&r. These spawn in Chests in Piglin Bastions..."]
+	quest.06B182C3FCCA6C02.title: "Getting &cNetherite"
+	quest.0AC4ACDF3D6B9BC2.quest_desc: ["These Mods use their own unique ways of &cPower&r and &eItem Logistics&r! \\n\\n&6&lCreate&r is focused on Rotational Power. You'll need Generators like Windmills or Waterwheels to create some in order to &cPower&r Machines. \\n\\n&7&lPneumaticCraft&r uses Air Pressure for most Machines and Processing. &eItems&r move around normally, just all need Air Pressure to work. \\n\\n&8&lImmersive Engineering&r is another Multiblock Mod. Just these Multiblocks are powered by Wires and Connectors instead of Pipes or just putting 2 Blocks close to each other."]
+	quest.0AC4ACDF3D6B9BC2.quest_subtitle: ""
+	quest.0AC4ACDF3D6B9BC2.title: ""
+	quest.10605FEAF8C94237.quest_desc: ["How do I define a &dMagic&r Mod? \\n\\nThey all start differently, they all have different purposes, and end games... \\n\\nWell... they're all around &dMagic&r! \\n\\nSome about accessing the &dMagic&r through Nature like &a&lNature's Aura&r and &c&lReliquary&r. Others with Rituals like &6&lForbidden \\& Arcanus&r or &b&lOccultism&r! "]
+	quest.10605FEAF8C94237.quest_subtitle: ""
+	quest.10605FEAF8C94237.title: "&dMagic"
+	quest.109953B8F559AE06.quest_desc: ["Now this is Material \"Farming\"! \\n\\nUnderground you can find &aInferium Essence&r. These are the backbone of &2&lMystical Agriculture&r. So you'll need billion of them. \\n\\nWith &aInferium Essence&r and other Items, we can make &2Seeds&r. &2Seeds&r that Grow what? Practically everything!"]
+	quest.109953B8F559AE06.title: "&2&lMystical Agriculture"
 	quest.110BF3A2BE85F911.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.1E1EB7DC19DDCFB7.quest_desc: ["To create Netherite tools and armor you'll need to find the &6Netherite Smithing Template&r in chests found inside of Bastions.\\n\\nThese can be combined with a &cNetherite&r ingot and a Diamond tool or armor in a &aSmithing Table&r to upgrade it to &cNetherite&r.\\n\\nTip: Don't use all of your templates in one go! You can create duplicates by using the recipe to create another."]
-	quest.1E1EB7DC19DDCFB7.title: "&6Netherite Template&r"
-	quest.24C9BA6DC32CFAD9.quest_desc: ["Coal is your first real source of power. If you are running low and cant find any Coal a better alternative for you will be Charcoal. "]
-	quest.24C9BA6DC32CFAD9.quest_subtitle: "Smelt your logs"
-	quest.282CE3A088AE5CFB.quest_desc: ["I'm going to assume you've been crafting, right? It is MineCRAFT after all.\\n\\nSure, you could craft in your inventory using the 2x2 crafting grid, but that won't get you far. We need to upgrade by making a Crafting Table!"]
-	quest.282CE3A088AE5CFB.title: "Putting the Craft in Minecraft"
-	quest.2AEBE3F28996A6ED.quest_desc: ["With our new metals, we can upgrade our Furnace using the mod &aIron Furnaces&r!\\n\\nIron Furnaces (furnaces from the mod itself, not just the Iron version) allow you to add &aAugments&r to upgrade its speed, change the function of the furnace, and more!\\n\\nThese furnaces make automation easier by allowing you to auto-pull or push from the sides using the config on the left of the interface."]
-	quest.2AEBE3F28996A6ED.title: "&aFurnace Upgrades&r!"
-	quest.2CCAA7C0FEDEB573.quest_desc: ["If you are like most this is the power you are after. All you do is place it as high as you can and get free power. "]
-	quest.2CCAA7C0FEDEB573.title: "Wind Power"
-	quest.2EC9668ED4EA47CB.quest_desc: ["This quest only requires you to make one Diamond tool or armor piece, but it's probably good to get a full set!\\n\\nDiamond tools boast high durability, and the armor offers great protection overall.\\n\\nTo make the better tools and armor in the game, you'll need Diamond stuff as a base!"]
-	quest.2EC9668ED4EA47CB.title: "&9Gearing Up"
-	quest.346860B8EBC4C28C.quest_desc: ["Now that you have all this lava what will you do with it? More early game power! "]
-	quest.346860B8EBC4C28C.title: "Lava Power"
-	quest.378BF828DC931F0C.quest_desc: ["Personally, I hate having to run to a block just to craft. That's where the &2Crafting Table on a Stick&r comes in!\\n\\nThis item works as a &aPortable Crafting Table&r!\\n\\nTip: You can also put this in your &aCurios&r slot and set a &bKeybind&r to open it!"]
-	quest.378BF828DC931F0C.title: "Crafting, but on a Stick"
-	quest.3ADCAD65EA6900BA.quest_desc: ["&2Achaeology&r allows players to find items inside of &aSuspicious&r blocks like Sand and Gravel.\\n\\nThese blocks can be found in various structures like Warm Ocean Ruins, Desert Pyramids, Desert Wells, and &eTrail Ruins&r.\\n\\nTo uncover an item from a Suspicious block, you need to create a &aBrush&r to brush away the block to unveil an item."]
-	quest.3ADCAD65EA6900BA.title: "&2Archaeology&r!"
-	quest.3B6F1BD64C0C570F.quest_desc: ["Just like wind generation this will give you lots of power without giving it any resources. The only downside here is it has to be daytime. "]
-	quest.3B6F1BD64C0C570F.title: "Solar Power"
-	quest.4869C413646CC4CC.quest_desc: [
-		"Transferring power out of your generators is probably a good idea, but how can you do it? "
-		""
-		"To start, you can use &cEnergy Pipes&r from the &aPipez&r mod, or you can use the &9Powah&r &cEnergy Cables&r if you have already started using that mod. "
-		""
-		"Or if you want a throwback, this pack has &6EnderIO&r and you can use the &6Energy Conduits&r from it."
+	quest.180D7DB1038D3C03.quest_desc: ["Archeology is still important, even in &c&lAll&7The&fMons&r. \\n\\nCraft a Brush with a Stick, Feather, and &6Copper Ingot&r! \\n\\nWith the Brush you can Hold Right Click with it on an Item to Brush the Item. When done on certain Suspiscious Blocks, Items will come out."]
+	quest.180D7DB1038D3C03.title: "Archeology"
+	quest.19DB78FD215E07A7.quest_desc: ["Storing &eItems&r is important. Please don't just leave them on the ground! \\n\\nInstead place &eItems &finto &eChests&r! Not enough room? Make &lIron Chests&r or &eDrawers&r! \\n\\nPrefer to have all your &eItems&r accessible in one Storage Network? Use &b&lAE2&r! \\n\\nIf you need &eItems&r on the go, don't look for &dShulkers&r. Instead use &eBackpacks&r or &l&7Pocket Storage&r."]
+	quest.19DB78FD215E07A7.title: "&eItem Storage"
+	quest.2103BA3C535DF02A.quest_desc: ["The &aEyes of Ender&r can be thrown and followed to find the &7Stronghold&r! \\n\\n&7Strongholds&r are Structures below the ground, labyrinths of prison cells, library, and the portal room. \\n\\nThe portal room holds the &aEnd Portal&r. Once you put &aEyes of Ender&r into every &aEnd Portal Frame&r, the Portal will be ready. \\n\\nJust jump on in!"]
+	quest.2103BA3C535DF02A.quest_subtitle: ""
+	quest.2103BA3C535DF02A.title: "&l&dThe End"
+	quest.21D1EA9F80823BF2.quest_desc: ["I'm going to assume you've been Crafting, right? It is &2&lMineCRAFT&r after all.\\n\\nSure, you could craft in your Inventory using the 2x2 Crafting Grid, but that won't get you far. We need to upgrade by making a &6Crafting Table&r!"]
+	quest.21D1EA9F80823BF2.title: "Putting the Craft in &2&lMinecraft"
+	quest.2587D8B0BE7FE584.quest_desc: ["The only reason I say \"simple\" is due to how the Machines get &cPower&r and &eItems&r. \\n\\nAll &eItems&r and &cEnergy&r can be Piped in like normal. \\n\\n&6&lOritech&r, &5&lMekanism&r, and &lIndustrial Foregoing&r are all unique Technology Mods. \\n\\n&6&lOritech&r focuses on designing Multiblocks and processing &eItems&r through them. \\n\\n&5&lMekanism&r focuses on processing &eItems&r to the limit with multiple different Machines and combinations. \\n\\n&lIndustrial Foregoing&r gives us Machines each with different ways to interact with the World."]
+	quest.2587D8B0BE7FE584.quest_subtitle: ""
+	quest.2587D8B0BE7FE584.title: ""
+	quest.28AE1D7D659E55D4.quest_desc: ["With our &6Wooden Pick&r we'll need to Mine some &7Stone&r! \\n\\nYeah, we're going to immediately replace our &6Wooden Pickaxe&r... \\n\\nI'd recommend collecting 18 &7Cobble&r with it before you ditch it. That's enough to make a &cFurance&r, Sword, Axe, Pickaxe, and Hoe!"]
+	quest.28AE1D7D659E55D4.title: "&7Cobblestone"
+	quest.315FEAAAFDC05139.quest_desc: [
+		"10 &5Obsidian&r in this pattern (2 on top and bottom, 3 for sides). "
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:150 height:200 align:center}"
+		"Then, light it on &cFire&r and we'll light up &cThe Nether Portal&r. Walking through it will Teleport us to &c&lThe Nether&r. \\n\\nA Dimension full of &cLava&f, &cFire&r, and angry Mobs. "
 	]
-	quest.4A4C71C43519D5FE.quest_desc: [
-		"To summon the boss of the Nether, we need to gather a few items first. "
-		""
-		"We'll need to get at least 3 &5Wither Skeleton Skulls&r. These are rare drops from killing &7Wither Skeletons&r, or can be crafted with the more common drop, the &3Wither Skull Fragments&r. "
-		""
-		"You'll also need at least 4 pieces of Soul Sand, and probably some pretty good armor."
-	]
-	quest.4A4C71C43519D5FE.title: "&6Summoning The &5Wither"
-	quest.4DE1158931F84F22.quest_desc: [
-		"Once you have an Iron or better tier Pickaxe, you'll be able to mine &cRedstone&r. "
-		""
-		"Redstone starts your journey into many technical mods, like creating power or making fancy gadgets. "
-		""
-		"This is a resource you will want a lot of!"
-	]
-	quest.4DE1158931F84F22.title: "&cRedstone&r"
-	quest.4E5238F00CEED8B2.quest_desc: ["Smelting down raw ores in the beginning is necessary, but you are missing out on extra resources!\\n\\nThere are several ways to double your output per raw ore, but one of the easiest ways is by creating and using an &eOre Hammer&r.\\n\\nThese will break down 1 raw ore into 2 dusts which can be smelting into ingots, effectively doubling your ingot output!\\n\\nWant more per raw ore? Check out the mod &5Occultism&r!"]
-	quest.4E5238F00CEED8B2.title: "&eBasic Ore Doubling"
-	quest.5792CC9E3AFAB229.quest_desc: ["We also have the mod called &aGenerators Galore&r! This mod adds unique generators that use coal or other items."]
-	quest.5CF320E9C4C1B1E1.quest_desc: ["ATM10 is a &aKitchensink&r pack, meaning you are free to explore and play the modpack any way that you want!\\n\\nHowever, there is an endgame goal: Making the &6ATM Star&r!\\n\\nThis questline serves as a guide for all players, whether you are brand new to Minecraft or you've played through previous ATM packs.\\n\\nJust like almost every modpack, gather some wood to get started!"]
-	quest.5CF320E9C4C1B1E1.title: "&eWelcome to Getting Started&r!"
-	quest.5E799B92358A8732.quest_desc: ["In the &cNether&r, you'll run into &6Ancient Debris&r. This can be smelted down into Scraps that can be combined with Gold to create &6Netherite Ingots&r, which is an endgame metal use to craft some of the strongest tools and armor in the game."]
-	quest.5E799B92358A8732.title: "&dAncient Metals"
-	quest.61C49BC2B384FB80.quest_desc: ["Once you've gathered enough Ender Pearls and Blaze Powders, you can make your way to the End Portal in the Overworld.\\n\\nTo do this, craft some &dEyes of Ender&r and right click to throw them in the sky. These will point in the direction of the closest End Portal.\\n\\nMake your way to the Stronghold, find the End Portal, and complete the frame using the Eyes of Ender to create the portal to &dThe End&r."]
-	quest.61C49BC2B384FB80.title: "&aFinding &dThe End"
-	quest.672134A1A620EEAB.quest_desc: [
-		"There are many ways to store power! "
-		""
-		"&9Powah&r offers great storage using &aEnergy Cells&r that can be upgraded, or you can always go with the multiblock style of &aRFTools&r using &aPowercells&r! The choice is yours. "
-		""
-		"Note: You only have to make one of the items to complete the quest."
-	]
-	quest.698A959C9E449592.quest_desc: ["The next step of progression is to make an Iron Pickaxe.\\n\\nThis pickaxe can mine some of the rarer ores in the game, including Diamond!"]
-	quest.698A959C9E449592.title: "An &aIron&r Pick"
-	quest.69A517AB8A801939.quest_desc: ["The &5Wither&r is one of the hardest bosses to kill in Minecraft. Mainly because it flies. And explodes. And is fast. You get the picture.\\n\\nTo summon it, place down the 4 Soul Sand in the shape of a T. Place the 3 Wither Skeleton Skulls on the top of the 'T' and the &5Wither&r will spawn.\\n\\nTip: It explodes. A lot. Don't do this near your base."]
-	quest.69A517AB8A801939.title: "&6Kill The &5Wither"
-	quest.6D09511D64DDC282.quest_desc: ["The &dWarden&r can be summoned by setting off a &5Sculk Sensor&r that is near a &3Sculk Shrieker&r at least 3 times.\\n\\nFun Fact: The Warden is blind! It can only find you if it hears you, so either fly around or sneak!\\n\\nTip: It doesn't matter if you use Ranged or Melee attacks, because it will find you. And it will hit you. If you go too far, it'll burrow into the ground and come up next to you! Good luck :D"]
-	quest.6D09511D64DDC282.title: "&5Kill The Warden"
-	quest.6EDAB29FBD3C60A3.quest_desc: ["This biome was introduced in the Wild Update!\\n\\nBe careful! You might accidentally summon a new friend.\\n\\nP.S. - He's not friendly."]
-	quest.6EDAB29FBD3C60A3.title: "&6Visit The &dDeep Dark&r!"
-	quest.6EE5BE5693E8ACE4.quest_desc: ["In &dThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r.\\n\\nAt the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!\\n\\nOnce defeated, a &dDragon Egg&r spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."]
-	quest.6EE5BE5693E8ACE4.title: "&5The End"
-	quest.72989212DD45DC10.quest_desc: ["To find this egg, you'll need to brush away &aSuspicious Sand&r in Warm Ocean Ruins.\\n\\nYou can place the Egg into the world and it will slowly hatch into a &dSnifflet&r. This takes around 20 minutes to hatch normally, but can be placed on a Moss block to double the hatch speed, taking only 10 minutes to hatch.\\n\\nThe Snifflet will eventually grow into an adult &dSniffer&r that can sniff up items like &2Torchflower Seeds&r or &2Pitcher Pods&r when they wander over blocks they can dig in.\\n\\nYou can breed 2 adult Sniffers by using Torchflowers."]
-	quest.72989212DD45DC10.quest_subtitle: "Scruff McGruff's Distant Cousin"
-	quest.72989212DD45DC10.title: "&aThe &5Sniffer"
-	quest.72E1C19156633391.quest_desc: ["Buckets and Tanks are a great early way to move around lava."]
-	quest.72E1C19156633391.title: "Lava Bucket"
-	quest.76406EFFF8CBA6B4.quest_desc: ["Diamonds are one of the best materials to use for tool crafting, but also allows you to visit new dimensions like the Nether!"]
-	quest.76406EFFF8CBA6B4.title: "We've Struck &bDiamonds&r!"
-	quest.7741905EA8380B25.quest_desc: ["&aArmor Trims&r are items used to add trims to your armor! This can be done in Smithing Tables.\\n\\nWhile they do have a recipe, most of the trims are rare finds in from loot chests or archaeology digs. Once you find one, you can dupe the Template by using the recipe to create more!"]
-	quest.7741905EA8380B25.title: "&dArmor Trims"
-	quest.790EC3EDC2DB1FB0.quest_desc: ["Like it was mentioned before. This mod adds a ton of fun ways to generate power that require specific builds."]
-	quest.790EC3EDC2DB1FB0.title: "Generators Galore"
-	quest.7975C7145572C438.quest_desc: ["Whether you are an experienced modded player, or a complete noob to MC, everyone has to make a &2Wooden Pickaxe&r.\\n\\nPickaxes allow you to break most stone and metal blocks. This wooden one won't last long, so make sure to gather some &3Cobblestone&r with it!"]
-	quest.7975C7145572C438.title: "Our First Pick"
-	quest.7D38BC3DB3406F51.quest_desc: ["With our Wooden Pickaxe, stone shouldn't be a problem to break!\\n\\n&3Cobblestone&r unlocks the next part of the progression by using it to craft a Furnace to smelt our ores.\\n\\nYou'll also want to upgrade your pickaxe to stone to mine better ores like &bIron&r!"]
-	quest.7D38BC3DB3406F51.title: "Stone Age"
-	quest.7EC01E7DB045DB05.quest_desc: ["&aAugments&r are Furnace upgrades that can either change or upgrade the function of a Furnace.\\n\\n - Blasting: Converts the Furnace to only allow for Blasting recipes.\\n\\n - Smoking: Converts the Furnace to only allow for Smoking recipes.\\n\\n - Factory: Converts the Furnace to use power instead of fuel, and upgrades it to a factory, allowing it to smelt multiple items at once. This increases depending on the tier of Furnace.\\n\\n - Speed: Doubles the speed of the furnace at the cost of double the fuel.\\n\\n - Fuel Efficiency: Doubles the amount of items smelted per fuel, but reduces the speed by 25%"]
-	quest.7EC01E7DB045DB05.title: "Furnace &aAugments"
-	task.0AFA64F1025569A2.title: "Netherite Gear"
-	task.1693B07767081FB3.title: "Armor Trims"
-	task.173044E1C1134A80.title: "Cobblestone"
-	task.1869893A4F8E9E9C.title: "Ore Hammers"
-	task.1960B985B54B9FBD.title: "Power Cables"
-	task.26CDA4EADF919D5C.title: "Generators"
-	task.285A53DB9D54595D.title: "Logs"
-	task.2CE553B282962E01.title: "Buckets"
-	task.2E49798B39BAA192.title: "Solar Power"
-	task.3209E46C9B05C163.title: "Diamond Gear"
-	task.3BEA6C6A41D5ABEA.title: "Furnace Augments"
-	task.3C95552D03C16F3D.title: "Power Storage"
+	quest.315FEAAAFDC05139.quest_subtitle: ""
+	quest.315FEAAAFDC05139.title: "&c&lThe Nether"
+	quest.32826A0DCA65AB2B.quest_desc: ["Whether you are an experienced modded player, or a complete noob to &2&lMC&r, everyone has to make a &6Wooden Pickaxe&r.\\n\\nPickaxes allow you to break most &7Stone &fand &7Metal&r blocks. This &6Wooden&r one won't last long, so make sure to gather some &7Cobblestone&r with it!"]
+	quest.32826A0DCA65AB2B.title: "Our First Pick"
+	quest.346860B8EBC4C28C.quest_desc: ["&cEnergy&r creation starts with something very simple. \\n\\nUsually a Generator that uses &0Coal&r or &cLava&r to make FE. \\n\\nAll of these Generators do exactly that!"]
+	quest.346860B8EBC4C28C.quest_subtitle: ""
+	quest.346860B8EBC4C28C.title: ""
+	quest.3C84F6C08BC4C74E.quest_desc: ["These are 3 whole Categories of Mods! How did I put them all in just a few Quests? \\n\\nBy barely scraping the barrel of what they all have to offer! \\n\\nYou've got to find the rest."]
+	quest.3C84F6C08BC4C74E.title: "&lExploration, Combat, and Magic"
+	quest.46581A7015C7AD87.quest_desc: ["The &3Deep Dark&r is the most dangerous Biome in &2&lMinecraft&r. It spawns deep under &8Deepslate&r, usually below Mountains and Hills. \\n\\nWhat makes a Biome so dangerous? &3Sculk&r. \\n\\n&3Sculk&r comes with &3Sculk Sensors &fand &3Shriekers&r. &3Sensors&r pick up any Sound within a certain area. Mining Blocks, Shooting Arrows, Eating Food all make Sound. \\n\\nIf a &3Sensor&r picks up a Sound it will alert nearby &3Sculk Shriekers&r. If &3Sculk Shriekers&r go off 3 times in a row they will Spawn..."]
+	quest.46581A7015C7AD87.quest_subtitle: ""
+	quest.46581A7015C7AD87.title: "&3Deep Dark&r Biome"
+	quest.4869C413646CC4CC.quest_desc: ["Not every Mod is like &5&lMekanism&r where Machines just share &cEnergy&r. Some will need you to move it instead! \\n\\nPipez, Cables, Condiuts it doesn't matter all can move &cEnergy&r from one Machine to another. \\n\\nEach Machine and Pipe has their own Configurations for where &cEnergy&r goes in and out of. To change it for &cEnergy&r Pipes you'll need some sort of Wrench on each end to change which Pushes and which Pulls."]
+	quest.4869C413646CC4CC.quest_subtitle: ""
+	quest.4869C413646CC4CC.title: ""
+	quest.4967CD7D2701C594.quest_desc: ["A whole 6 update versions ago and &6Bees&r still barely do anything! \\n\\nUnless you use &6&lProductive Bees&r, then they do everything! \\n\\nFrom making &6Honey Combs&r, to free &6AllTheModium&r, to duplicating &6Logs &fand &7Stone&r. These little &6Bee&r buddies do whatever you need them to. \\n\\nAll they need is the Flowering Block and a &6Hive&r. The Upgrades and Genes are optional."]
+	quest.4967CD7D2701C594.title: "&6&lProductive Bees"
+	quest.51CE19706BB6B2A1.quest_desc: ["&bDiamonds&r, the heart and soul of &2&lMinecraft&r. \\n\\nFound below Y Level 16, most common right above Bedrock! \\n\\nYou'll need an Iron Pickaxe (preferably with Looting) to Mine them. Then, you can make even better Tools and Armor! \\n\\nThese used to be the best in &2&lVanilla&r, now that's &cNetherite&r. And now that there's Mods, there is even better than &cNetherite&r."]
+	quest.51CE19706BB6B2A1.title: "A Player's Bestfriend"
+	quest.53B00024E5493C96.quest_desc: ["Once we have the &3Ingot&r and &3Template&r, use a &8Smithing Table&r to combine the &cIngot &fand &cTemplate&r with a piece of &bDiamond&r Gear to upgrade it to &cNetherite&r. \\n\\n&cNetherite&r has the most Damage, Durability, and Protection of all &2&lMinecraft&r Gear! It is also entirely &cFireproof&r (it won't make you Fire Resistant, just the Items won't burn in &cLava&r). \\n\\nWe'll need the strength &cNetherite&r gives in order to have a chance in the..."]
+	quest.53B00024E5493C96.title: "&cNetherite&r Tools and Gear"
+	quest.544893F746387EC8.quest_desc: ["Now with &cRedstone&r we gain access to &cEnergy&r! \\n\\nJust about every Machine in &c&lModded Minecraft&r needs &cEnergy&r. Most is in the form of FE (Forge Energy). \\n\\nSome are in similar forms like AE, these can work with FE or be translated to AE. Other Mods use their own form of Energy which is unique to theirs."]
+	quest.544893F746387EC8.title: "&cPower"
+	quest.5480C9F72052ECAD.quest_desc: ["Combat is an important part of all Survival &2&lMinecraft&r. \\n\\nIf you want difficulties or not it all matters to your Combat. \\n\\n&5Enchanting&r is entirely different (and better) with Mods like &5&lApotheosis&r changing how we do it. Plus other Mods adding even more &5Enchantments&r. \\n\\nSome Mods give little &6&lRelics&r or &3&lArtifacts&r which you can Wear and Hold to get Effects! "]
+	quest.5480C9F72052ECAD.quest_subtitle: ""
+	quest.5480C9F72052ECAD.title: "Combat"
+	quest.588D4017A5FEB45B.quest_desc: ["Is &5&lDraconic Evolution&r and &3&lJust Dire Things&r even Technology Mods? \\n\\n&5&lDraconic Evolution&r uses Machines and... Magic? To merge and upgrade different Blocks. It is all based on &d&lThe End&r. \\n\\n&3&lJust Dire Things&r revolves around using Goo, to convert and create new Blocks and &eItems&r. To make new Machines and even Tools!"]
+	quest.588D4017A5FEB45B.quest_subtitle: ""
+	quest.588D4017A5FEB45B.title: ""
+	quest.5BA5B2670890EAFE.quest_desc: ["Personally, I hate having to run to a block just to craft. That's where the &2Crafting Table on a Stick&r comes in!\\n\\nThis item works as a Portable &6Crafting Table&r!\\n\\nTip: You can also put this in your &aCurios&r slot and set a &bKeybind&r to open it!"]
+	quest.5BA5B2670890EAFE.title: "Crafting, but on a Stick"
+	quest.5E84A58C2EC65240.quest_desc: ["&8Steel&r is entirely &cModded&r. Not at all &2&lVanilla&r, just made from the &2&lVanilla&r Items of Iron and &0Coal&r. \\n\\nHow do we make it? Just pick a Mod! \\n\\nMetallurgic Infuser - &5&lMekanism&r \\nAlloy Smelter - &a&lEnderIO&r \\nAlloy Kin or Blast Furnace - &8&lImmersive Engineering&r \\nFoundry - &6&lOritech&r \\nThe Foundry - &c&lProductive Metalworks&r \\nBlast Furnace - &6&lRailCraft Reborn&r \\n\\nAll of these work!"]
+	quest.5E84A58C2EC65240.title: "&8Steel"
+	quest.616AE66BE7812E09.quest_desc: ["There's soooo many different Mods to explore! \\n\\nFrom ones in the &2&lOverworld&r like Repurposed Structures to &4&lCataclysm&r. \\nThere's even more in their own Dimensions, like &9&lTwilight Forest&r, &2&lUndergarden&r, &6&lBumblezone&r, and &5&lEternal Starlight&r. \\n\\nAll of these Mods require Collecting new Blocks, Fighting unique Mobs, and best part is the awesome Weapons!"]
+	quest.616AE66BE7812E09.quest_subtitle: ""
+	quest.616AE66BE7812E09.title: "Exploration"
+	quest.62527F657474DD91.quest_desc: ["&c&lModded Minecraft&r isn't cheap, you're going to need LOTS of Items. \\n\\nSo let's learn how to Farm Items!"]
+	quest.62527F657474DD91.title: "&lMaterial Farming"
+	quest.6300278B00A0FB50.quest_desc: ["It's in the name. \\n\\nTons of Items are found underground, we'll need to Mine them to Collect them! \\n\\nEach Item needs a certain Pickaxe Tier to Mine. &7Cobblestone&r needs atleast a &6Wooden Pickaxe&r. Iron needs atleast a &7Stone Pickaxe&r. \\n\\nBasic Tools explains this in more depth, but you can look at the top of your screen when viewing a Block to know what Pickaxe Tier you need to Mine it!"]
+	quest.6300278B00A0FB50.title: "&lMining"
+	quest.672134A1A620EEAB.quest_desc: ["There are many ways to store power! \\n\\nWe got &c&lPowah&r Energy Cells. \\n&5&lMekanism&r Energy Cubes. \\n&3&lIntegrated Dynamics&r Energy Batteries. \\n&b&lAE2&r Energy Cells. \\n\\nEach of these can be upgraded to hold even more &cEnergy&r! \\n\\nIf these aren't enough check out &5&lMekanism&r or &5&lDraconic Evolution&r for Multiblock Energy Storage."]
+	quest.672134A1A620EEAB.quest_subtitle: ""
+	quest.672134A1A620EEAB.title: ""
+	quest.672CE0EC2DD0E704.quest_desc: ["With &bDiamonds&r we can make a &bDiamond Pickaxe&r! This can Mine all &2&lVanilla&r Blocks, including &5Obsidian&r and &cAncient Debris&r. \\n\\nYou can also Craft Armor and Weapons... those too."]
+	quest.672CE0EC2DD0E704.title: "&bDiamond&r Tools and Gear"
+	quest.69A517AB8A801939.quest_desc: ["&0&lThe Wither&r is one of the hardest bosses to kill in &2&lMinecraft&r. Mainly because it flies. And explodes. And is fast. You get the picture. \\n\\nTo summon it, place down the 4 Soul Sand in the shape of a T. Place the 3 Wither Skeleton Skulls on the top of the 'T' and the &5Wither&r will spawn. \\n\\nHe'll have 300 &4Hearts&r at full Health, which then he'll start Flying and Shooting &0Wither Skulls&r at you! \\n\\nIf you get him down to half Health, he'll become invulnerable to Projectiles like the &d&lEnder Dragon&r. Here you'll need to start Hitting him. \\n\\nWhen you Kill him he'll Drop a Nether Star! \\n\\n(P.S. If &0&lThe Wither&r Kills a Mob, they'll Drop a &0Wither Rose&r!)"]
+	quest.69A517AB8A801939.quest_subtitle: ""
+	quest.69A517AB8A801939.title: "&l&8The Wither"
+	quest.6BEBE739EB97082A.quest_desc: ["What does Iron make? \\n\\nArmor, more Tools like Buckets and Shears, new Blocks like Hoppers and Cauldrons. \\n\\nIron is pretty important. What you should go for first is an Iron Pickaxe though, in order to Mine &bDiamonds&r!"]
+	quest.6BEBE739EB97082A.title: "Iron Age"
+	quest.6D09511D64DDC282.quest_desc: ["The &3&lWarden&r. The strongest Boss of &2&lMinecraft&r. You know the one the creators explicitly stated you aren't meant to Kill? \\n\\nThe &3&lWarden&r has 500 &4Hearts&r. He can two shot Players in full &cNetherite Armor&r. \\n\\nIf Players are near him, he'll simply crush them with his arms. If detected much farther he'll Shoot them with his &3Sonic Beam&r. \\n\\nThankfully he is nerfed by being Blind (unlike Daredevil). He works solely off Sound and Smell. Yeah, if you're too close he'll always be able to find you. \\n\\nIf you make Sounds he can hear them and go to where you made Sound. Even with &3Sculk Sensors&r if they go off he can find you! If he hears a noise far away he may sink into &3Sculk&r to teleport closer to the Sound! \\n\\nSo how do we Kill him? You can always try Building 23 Blocks above him and Hitting him with Arrows. 23 Blocks up is too far for his Sonic Beam! \\n\\nIf you can Kill him he'll Drop a bunch of &3Sculk&r and &3&lDeeper and Darker&r Items!"]
+	quest.6D09511D64DDC282.quest_subtitle: ""
+	quest.6D09511D64DDC282.title: "&3&lWarden"
+	quest.6EE5BE5693E8ACE4.quest_desc: ["In &d&lThe End&r, you'll find the final boss of &2&lVanilla Minecraft&r: The &d&lEnder Dragon&r. \\n\\nThe &d&lEnder Dragon&r has 150 &4Hearts&r. Plus it Regenerates Health from the &dEnd Crystals&r on top of each &5Obsidian&r Pillar. Break them while she's Healing from them to deal a ton of Damage. \\n\\nThe &d&lDragon&r has 2 modes. Flying and Perching. \\n\\nWhen Flying, she will Shoot &dDragon Fire Balls&r at you. When they Hit something, they will Spawn &dDragon's Breath&r on that spot. She might also ram into you to toss you far far away! \\n\\nWhen Perching she will sit above her Bedrock Nest. Here she is invulnerable to Projectiles so Arrows won't do Damage, only Melee Attacks! She might also spew &dDragon's Breath&r in front of her when Perching. \\n\\nOnce slain, the &dDragon Egg&r will Spawn above her Nest! Strange things happen when you Right Click it and have it Drop onto a non-full Block."]
+	quest.6EE5BE5693E8ACE4.quest_subtitle: ""
+	quest.6EE5BE5693E8ACE4.title: "&d&lEnder Dragon"
+	quest.7045F1A0E409CB8C.quest_desc: ["&lIron Furnaces&r is a Mod that improves &cFurnaces&r. \\n\\nWith &c&lModded Minecraft&r you're going to be Smelting a ton! To save time (and TPS) use better &cFurnaces&r instead of more. \\n\\nThe better the &cFurnace&r the faster they Smelt and more they Smelt. \\n\\nThey also have Augments which can change everything from Fuel to Energy, to what they Smelt, to Efficiency."]
+	quest.7045F1A0E409CB8C.quest_subtitle: ""
+	quest.7045F1A0E409CB8C.title: "&lIron Furnaces"
+	quest.715EC1B06585C141.quest_desc: ["&l&cAll&7The&fMons&r is an &6&lATM Modpack&r based around &l&cCobble&fmon&r! \\n\\nThe goal will still be the &6&lATM Star&r like usual, but this time you'll need to play through &l&cCobble&fmon&r. \\n\\nSince &c&lCobble&fmon&r (and its Addons) is such a big and important Mod, it gets its own Chapter! \\n\\nIf you need to learn how to go through &c&lCobble&fmon&r then check out that Chapter, this one will lead you through everything else. From &2&lVanilla&r to the &6&lATM Star&r!"]
+	quest.715EC1B06585C141.quest_subtitle: ""
+	quest.715EC1B06585C141.title: "&2&lMinecraft"
+	quest.78099189ADEBE4B3.quest_desc: ["The &cNether Fortress&r is a Structure obviously in &c&lThe Nether&r. \\n\\nIt is the only natural Spawn for &0Wither Skeletons&r and &cBlazes&r. \\n\\nWe'll need the &cBlazes&r to make &cBlaze Powder&r for &aEyes of Ender&r. \\n\\nThe &0Wither Skeletons&r we need to summon &0&lThe Wither&r with their &0Skulls&r."]
+	quest.78099189ADEBE4B3.quest_subtitle: ""
+	quest.78099189ADEBE4B3.title: "&cNether Fortress"
+	quest.7B8811333BF8FAD4.quest_desc: ["&6Copper&r is an &7Ore&r like Iron. Just cheaper and more Common! \\n\\nYou'll need a &7Stone Pickaxe&r to Mine it. \\n\\nI only put it here instead of after the &7Stone Pickaxe&r for aesthetic purposes."]
+	quest.7B8811333BF8FAD4.title: "&6Copper Age"
+	quest.7DC8D8CAE84A7541.quest_desc: ["&b&lHostile Neural Networks&r is a perfect Mod for those who need to easily Farm Mob Drops. \\n\\nIt starts out with a &9Deep Learner&r and &bModel Frameworks&r. The &bModel Framework&r needs to be set to a Mob by Right Clicking the Mob with it. \\n\\nThen, put the set &bFramework&r into the &9Deep Learner&r and start Killing!"]
+	quest.7DC8D8CAE84A7541.title: "&b&lHostile Neural Networks"
+	quest.7F53544DE1ED4C2A.quest_desc: ["The &cFurnace&r is the 2nd most important Block in &2&lMinecraft&r. The &6Crafting Table&r is more important duhhh. \\n\\nThe &cFurnace&r can Smelt Items to make new (usually better) Items! It can Cook Food, turn &7Ores&r to Ingots, and make whole new Blocks. \\n\\nThe &cFurnace&r needs Fuel in its Bottom Slot. Stuff like &6Wood&r, &0Coal&r, Crops, and even &6Wooden Swords&r."]
+	quest.7F53544DE1ED4C2A.title: "&cFurnace"
+	task.06EBCF560231620B.title: "Energy Cables"
+	task.0CD12198ACDE6CA3.title: "Any #minecraft:logs"
+	task.17D0D74341039621.title: "Barely even Technology"
+	task.22E61039582EC71B.title: "Energy Storage"
+	task.252110AC59A6D14B.title: "Early Generators"
+	task.370E9F4F33E18278.title: "Iron Furnaces"
+	task.39E4B29492C4AD74.title: "\"Simple\" Technology"
 	task.44CEA28EBD6C0898.title: "AllRightsReserved"
-	task.539C6F64C251543B.title: "Coal"
+	task.494C0EECD07B0C04.title: "\"Complicated\" Technology"
+	task.57F2C03FE201A491.title: "Netherite Gear"
 	task.6CAD0E4CF3577BEB.title: "Kill 1 Warden"
 	task.76C41881A02F2098.title: "Kill 1 Wither"
+	task.7B31FC110DE606D9.title: "Diamond Tools"
 	task.7C6F7EF2B3AC2824.title: "AllRightsReserved"
-	task.7C88F80D05E62AC7.title: "Iron Furnaces"
 }
