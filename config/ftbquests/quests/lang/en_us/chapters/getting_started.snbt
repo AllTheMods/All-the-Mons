@@ -5,6 +5,8 @@
 	quest.0328E5E416D0F785.title: "&cFire"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remedy&r is made from Smelting a Big Root. \\n\\nIt is an Item that can be Fed to a &cPokemon&r in or out of Battle to restore Health (not at the exchange for &dFriendship&r). \\n\\nYou can Craft with it to make even better &6Remedies&r!"]
 	quest.0338E3A881A6DD98.title: "&6Remedy"
+	quest.0EE5B550E4752CF2.quest_desc: ["Ditto is a true casanova, everyone loves him! \\n\\nDitto can be used to &dBreed&r with any &cPokemon&r that can &dBreed&r, as a substitute for a missing &cPokemon&r. He can even &dBreed&r with some &cPokemon&r that can't normally &dBreed&r! \\n\\nWhen you use a Ditto, the &cEgg&r will be the same Species as the &cPokemon&r the Ditto &dbred&r with."]
+	quest.0EE5B550E4752CF2.title: "Ditto &dBreeding"
 	quest.0FAAA8628228ABA4.quest_desc: ["&nStrong&r \\n\\n&8Dark&r \\n&2Grass&r \\n&dPsychic&r \\n\\n&nVunerable&r \\n\\n&cFire&r \\n&9Flying&r \\n&6Rock&r"]
 	quest.0FAAA8628228ABA4.title: "&aBug"
 	quest.10C1718C792F3ABB.quest_desc: [
@@ -28,6 +30,9 @@
 	quest.22FCEAECFBC734DD.title: "&6Apricorn"
 	quest.23DAF5129F244C2C.quest_desc: ["&nStrong&r \\n\\n&cFire&r \\n&6Ground&r \\n&6Rock&r \\n\\n&nVunerable&r \\n\\n&eElectric&r \\n&2Grass&r"]
 	quest.23DAF5129F244C2C.title: "&bWater"
+	quest.25CDC402800CA4D1.quest_desc: ["Hey, &cPokemon&r got to come from somewhere! \\n\\nIf 2 &cPokemon&r are roaming in a &6Pasture&r, they can &dBreed&r. But, there are many requirements before they can. \\n\\nFirst, we'll need a &bMale &fand &dFemale&r in order to &dBreed&r. The Baby &cPokemon&r will come from a &cPokemon Egg&r, it will be the same Species as the &dMother&r. \\n\\nBoth &cPokemons&r will need to be in the same \"Egg Group\". Use the Wiki, I'm not listing every single &cPokemon&r! \\n\\nLastly there are some Attributes and &cPokemon&r themselves, which can't &dBreed&r... \\n\\nIf you meet all the Requirements, then the &dFemale &cPokemon&r will lay an &cEgg&r every once in awhile!"]
+	quest.25CDC402800CA4D1.quest_subtitle: "The Delibirds and Beedrills"
+	quest.25CDC402800CA4D1.title: "&cPokemon &dBreeding"
 	quest.270BEFADE842144B.quest_desc: ["Welcome to &l&cAll&7The&fMons&r! \\n\\nNope that wasn't a typo! This is a &c&lCobble&fmon&r centered Modpack made by yours truly, the &6&lATM Team&r. \\n\\nTo get started you'll need a Starter &cPokemon&r. To get it, Default is (M) \\n\\nEach Region has 3 Starters: &2Grass&f, &bWater&f, and &cFire&r. You can Click the Icons or move the Arrows to choose. \\n\\nThe &2Grass type&r has a &2Green&r Background with a &2Leaf Icon&r. &bWater type&r has a &bBlue Background&r with a &bWater Drop Icon&r. &cFire&r has the &cOrange Background&r with a &cFlame Icon&r. \\n\\nEach &cPokemon&r will have their Name and Description above them. Once you find one you like, hit the \"I choose you!\" Button! \\n\\n(&bMudkip&r is my favorite!)"]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nStrong&r \\n\\n&9Flying&r \\n&bWater&r \\n\\n&nVunerable&r \\n\\n&6Ground&r"]

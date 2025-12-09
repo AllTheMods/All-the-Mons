@@ -41,15 +41,9 @@
 			dependencies: ["270BEFADE842144B"]
 			id: "4E943465A0F727A9"
 			rewards: [{
-				id: "23AC8E2A0E40806A"
-				item: {
-					components: {
-						"patchouli:book": "cobblepedia:cobblepedia"
-					}
-					count: 1
-					id: "patchouli:guide_book"
-				}
-				type: "item"
+				id: "64C7EB67CD7596B8"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			shape: "diamond"
 			size: 2.0d
@@ -66,10 +60,11 @@
 			icon_scale: 1.5d
 			id: "22FCEAECFBC734DD"
 			rewards: [{
-				id: "72C82518FCE6E8DA"
+				count: 4
+				id: "2388099C3284E263"
 				item: {
 					count: 1
-					id: "cobblemon:pokedex_red"
+					id: "cobblemon:red_apricorn"
 				}
 				type: "item"
 			}]
@@ -88,42 +83,65 @@
 			id: "7B758074DB4BD138"
 			rewards: [
 				{
-					id: "6324F6BA992C679C"
+					count: 3
+					id: "200A4CB1ABA28B74"
 					item: {
 						count: 1
-						id: "cobblemon:red_apricorn_seed"
+						id: "cobblemon:red_apricorn"
 					}
 					type: "item"
 				}
 				{
-					id: "3429F61E4433F3AE"
+					count: 3
+					id: "14AB2E86690ECD26"
 					item: {
 						count: 1
-						id: "cobblemon:yellow_apricorn_seed"
+						id: "cobblemon:yellow_apricorn"
 					}
 					type: "item"
 				}
 				{
-					id: "06885F57FB2C96B1"
+					count: 3
+					id: "41505CF9592CF53B"
 					item: {
 						count: 1
-						id: "cobblemon:green_apricorn_seed"
+						id: "cobblemon:green_apricorn"
 					}
 					type: "item"
 				}
 				{
-					id: "02472CC7F4C9EBF7"
+					count: 3
+					id: "5768F9329291AF84"
 					item: {
 						count: 1
-						id: "cobblemon:blue_apricorn_seed"
+						id: "cobblemon:blue_apricorn"
 					}
 					type: "item"
 				}
 				{
-					id: "12D412380FA3E618"
+					count: 3
+					id: "363DE3224B43E08C"
 					item: {
 						count: 1
-						id: "cobblemon:pink_apricorn_seed"
+						id: "cobblemon:pink_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "29D84FBC17CEC64F"
+					item: {
+						count: 1
+						id: "cobblemon:black_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "096D0504EBC82074"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn"
 					}
 					type: "item"
 				}
@@ -1321,6 +1339,58 @@
 			}]
 			x: -1.0d
 			y: -9.0d
+		}
+		{
+			dependencies: ["447F3DCAB7F60641"]
+			id: "25CDC402800CA4D1"
+			rewards: [{
+				id: "57295E23FF0932C4"
+				item: {
+					count: 1
+					id: "simpletms:tm_blank"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4305BA273407FC3A"
+				item: { count: 1, id: "allthemons:pokemon_egg" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25CDC402800CA4D1"]
+			hide_until_deps_complete: true
+			id: "0EE5B550E4752CF2"
+			rewards: [{
+				id: "1B7060930DBD829A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5B0B010CE3AB414B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:ditto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.5d
+			y: -2.5d
 		}
 	]
 }
