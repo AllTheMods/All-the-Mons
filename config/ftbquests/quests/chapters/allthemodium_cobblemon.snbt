@@ -1,0 +1,1231 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "allthemodium_cobblemon"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "104EBB4FE371302E"
+	images: [
+		{
+			height: 14.0d
+			image: "cobblemon:item/poke_balls/allthemodium_ball"
+			rotation: 0.0d
+			width: 14.0d
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			height: 14.0d
+			image: "cobblemon:item/poke_balls/master_ball"
+			rotation: 0.0d
+			width: 14.0d
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			height: 9.0d
+			image: "cobblemon:item/poke_balls/soul_lava_ball"
+			rotation: 0.0d
+			width: 9.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 12.0d
+			image: "cobblemon:item/poke_balls/ultra_ball"
+			rotation: 0.0d
+			width: 12.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pokemon/master_title1.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/pokemon/master_title2.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 5.5d
+			y: 6.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5EEEB61899F66962"]
+			id: "6294AFDD1123C127"
+			rewards: [
+				{
+					count: 3
+					id: "740F998DFC9143F5"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "151723310D25FB87"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "05319B1FFE57656F"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6294AFDD1123C127"]
+			id: "37F71E88EDF6BA2D"
+			rewards: [{
+				count: 4
+				id: "6ADB9CDB29CBAAC7"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "0C5A61D2FABC7C9D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:half_red_apricorn)item(createmonballsoverhaul:half_yellow_apricorn)item(createmonballsoverhaul:half_green_apricorn)item(createmonballsoverhaul:half_blue_apricorn)item(createmonballsoverhaul:half_pink_apricorn)item(createmonballsoverhaul:half_black_apricorn)item(createmonballsoverhaul:half_white_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["37F71E88EDF6BA2D"]
+			id: "46ABFEAF723C7057"
+			rewards: [{
+				id: "70A9D369FD849761"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "405D246B42F2807F"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["46ABFEAF723C7057"]
+			id: "015EC0ACDA0BB5F8"
+			rewards: [
+				{
+					id: "07B064C9C10C547A"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:red_ball_lid"
+					}
+					type: "item"
+				}
+				{
+					id: "2F3B7E1194CE7BC5"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:blank_ball_lid"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [
+				{
+					id: "36E25BD0A9C9F256"
+					item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:red_ball_lid)item(createmonballsoverhaul:yellow_ball_lid)item(createmonballsoverhaul:green_ball_lid)item(createmonballsoverhaul:blue_ball_lid)item(createmonballsoverhaul:pink_ball_lid)item(createmonballsoverhaul:black_ball_lid)item(createmonballsoverhaul:white_ball_lid))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "123EABB0B74BB5B6"
+					item: { count: 1, id: "createmonballsoverhaul:blank_ball_lid" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3C8522C5E8CA5629"]
+			id: "3F769D575AF8C3CC"
+			rewards: [
+				{
+					count: 3
+					id: "19EFA57F9D8D22B4"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:yellow_apricorn_bits"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "65E6028257550E3D"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:black_apricorn_bits"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "72A812162203AFAE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:red_apricorn_bits)item(createmonballsoverhaul:yellow_apricorn_bits)item(createmonballsoverhaul:green_apricorn_bits)item(createmonballsoverhaul:blue_apricorn_bits)item(createmonballsoverhaul:pink_apricorn_bits)item(createmonballsoverhaul:black_apricorn_bits)item(createmonballsoverhaul:white_apricorn_bits))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5EEEB61899F66962"]
+			id: "7BFF76B27D398E62"
+			rewards: [{
+				id: "070787F819DBFB77"
+				item: {
+					count: 1
+					id: "create:deployer"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F4B89518902ADFA"
+				item: { count: 1, id: "createmonballsoverhaul:rubber_stamp_lid" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			id: "4A4CD38007804B1C"
+			rewards: [{
+				count: 3
+				id: "253D722EA684011F"
+				item: {
+					count: 1
+					id: "mysticalagradditions:imperium_apple"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				dimension: "allthemodium:the_other"
+				id: "7C77C42D9746DDC8"
+				type: "dimension"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4A4CD38007804B1C"]
+			id: "6A6CD8024A4E9075"
+			rewards: [
+				{
+					id: "62C92ED3FF5B4631"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "753A78729217ECF2"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "2FBF5602E97D8FAF"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_apricorn"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "2D41E9AF59EC8761"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_apricorn)item(allthemons:vibranium_apricorn)item(allthemons:unobtainium_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4A4CD38007804B1C"]
+			id: "19B6649B049A402A"
+			rewards: [{
+				id: "253606C95CFE5813"
+				item: {
+					count: 1
+					id: "productivemetalworks:plate_cast"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "711831515BEC4995"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_ingot)item(allthemodium:vibranium_ingot)item(allthemodium:unobtainium_ingot))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0785CE63067DBE78"
+				"411EA1CAD3BF6D3C"
+				"668E99B93D0BC405"
+			]
+			id: "550464B5F7F4F699"
+			rewards: [
+				{
+					id: "4F484157FDED8653"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2753A0F541FD4658"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "4680F594B9BE8034"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "0A091F144CB57A0D"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			size: 4.0d
+			tasks: [
+				{
+					id: "502E1A561839211F"
+					item: { count: 1, id: "allthemons:allthemodium_ball" }
+					type: "item"
+				}
+				{
+					id: "30BF4B7674288CE0"
+					item: { count: 1, id: "allthemons:vibranium_ball" }
+					type: "item"
+				}
+				{
+					id: "18FF9863B9E4A2FC"
+					item: { count: 1, id: "allthemons:unobtainium_ball" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["738022A90A534871"]
+			id: "411EA1CAD3BF6D3C"
+			rewards: [
+				{
+					id: "7B3A0882031EBCC1"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7C17C415B03BECC3"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "234D9FBBE0E5A938"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "2E6A83C5AAD05858"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_ball_lid)item(allthemons:vibranium_ball_lid)item(allthemons:unobtainium_ball_lid))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5B947A01CB2FA378"]
+			id: "0785CE63067DBE78"
+			rewards: [
+				{
+					id: "31F4C48A086B06B3"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "38C0E5545A3EE9D4"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "453A4B1C0C7BEF28"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_nugget"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "3C8B3E7B28D3BC2D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_ball_mechanism)item(allthemons:vibranium_ball_mechanism)item(allthemons:unobtainium_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6CC2B540EE37079E"]
+			id: "1F81408C55EFC5DB"
+			rewards: [
+				{
+					id: "2167464D2B312E74"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7A6CFDDAB3ABEF09"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1238638ADAC325EC"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "707B96130E3A0026"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_stamped_plate_lid)item(allthemons:vibranium_stamped_plate_lid)item(allthemons:unobtainium_stamped_plate_lid)item(allthemodium:allthemodium_plate)item(allthemodium:vibranium_plate)item(allthemodium:unobtainium_plate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07F142663892007B"]
+			id: "427A28BB6FEAAC6C"
+			rewards: [
+				{
+					id: "7F8B51A94F5E0478"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_apricorn_bits"
+					}
+					type: "item"
+				}
+				{
+					id: "586B7E8411880825"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_apricorn_bits"
+					}
+					type: "item"
+				}
+				{
+					id: "53CEDEF4A73AF592"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_apricorn_bits"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "2444CD1A3A139F25"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_apricorn_bits)item(allthemons:vibranium_apricorn_bits)item(allthemons:unobtainium_apricorn_bits))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"173DE446B07004C8"
+				"550464B5F7F4F699"
+			]
+			hide_dependency_lines: true
+			id: "71436F63681DC98D"
+			rewards: [
+				{
+					count: 2
+					id: "3475DD41717F2D66"
+					item: {
+						count: 1
+						id: "allthemons:soul_lava_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3DD82C6B0D691FE4"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2F0C7EC29AF4F42D"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "794404674D77E240"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "4814E7CE19DFDD9D"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				id: "189E13F4EE2AD79E"
+				item: { count: 1, id: "cobblemon:master_ball" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"3F769D575AF8C3CC"
+				"7DE2BE7BE664635D"
+			]
+			id: "162955874B77F4F6"
+			rewards: [{
+				id: "383D2A446870440B"
+				item: {
+					count: 1
+					id: "createmonballsoverhaul:blank_ball_lid"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E5C41919D0C25E8"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3EC2877B9018FF02"]
+			id: "04212A285952402C"
+			rewards: [
+				{
+					id: "461765B2B0031509"
+					item: {
+						count: 1
+						id: "allthemons:half_allthemodium_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "7E92475C586F1B6B"
+					item: {
+						count: 1
+						id: "allthemons:half_vibranium_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "2BD1F3432671AA9A"
+					item: {
+						count: 1
+						id: "allthemons:half_unobtainium_apricorn"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "4FAED006939CFA76"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:half_allthemodium_apricorn)item(allthemons:half_vibranium_apricorn)item(allthemons:half_unobtainium_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A6CD8024A4E9075"]
+			id: "3EC2877B9018FF02"
+			rewards: [{
+				count: 5
+				id: "20D32F4EAB89D4EF"
+				item: {
+					count: 1
+					id: "minecraft:iron_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CA10BC8DFEC267E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_saw)item(ars_nouveau:glyph_cut)item(mekanism:precision_sawmill)item(oritech:fragment_forge_block)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["04212A285952402C"]
+			id: "07F142663892007B"
+			rewards: [{
+				count: 5
+				id: "3608B118BB46B632"
+				item: {
+					count: 1
+					id: "minecraft:iron_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1488109EDE4976CA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_saw)item(ars_nouveau:glyph_cut)item(mekanism:precision_sawmill)item(pneumaticcraft:assembly_controller)item(oritech:atomic_forge_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["427A28BB6FEAAC6C"]
+			id: "738022A90A534871"
+			rewards: [
+				{
+					id: "4D421DD7D2730409"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "251D54294C0A4649"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7ABA4D58523037A3"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3CF29F07EC67E0C3"
+				item: { components: { "ftbfiltersystem:filter": "or(item(pneumaticcraft:assembly_controller)item(pneumaticcraft:pressure_chamber_interface)item(create:spout))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["19B6649B049A402A"]
+			id: "6CC2B540EE37079E"
+			rewards: [{
+				id: "5F1D73F4CE14D767"
+				item: {
+					count: 1
+					id: "createmonballsoverhaul:rubber_stamp_lid"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E044F505C894D55"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(mekmm:cnc_stamper))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1F81408C55EFC5DB"]
+			id: "077216EA10FA4AA4"
+			rewards: [{
+				count: 5
+				id: "6ABF188927A80040"
+				item: {
+					count: 1
+					id: "minecraft:iron_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A53CCA1A4B2C0EB"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:mechanical_press)item(oritech:atomic_forge_block)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["077216EA10FA4AA4"]
+			id: "442227B0C475A142"
+			rewards: [
+				{
+					id: "3E59B407B954F4FF"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_ball_base"
+					}
+					type: "item"
+				}
+				{
+					id: "7218A04ACBF370FE"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_ball_base"
+					}
+					type: "item"
+				}
+				{
+					id: "35C2520367B6DF6A"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_ball_base"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "288F69BFE9DBC8DD"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_ball_base)item(allthemons:vibranium_ball_base)item(allthemons:unobtainium_ball_base))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["442227B0C475A142"]
+			id: "5B947A01CB2FA378"
+			rewards: [{
+				count: 5
+				id: "608AF3F7A970678C"
+				item: {
+					count: 1
+					id: "minecraft:copper_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6360546CFC9063DE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(pneumaticcraft:pressure_chamber_interface)item(oritech:assembler_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0785CE63067DBE78"
+				"411EA1CAD3BF6D3C"
+			]
+			id: "668E99B93D0BC405"
+			rewards: [
+				{
+					count: 3
+					id: "3A99DEA9387E0E3A"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:blank_ball_lid"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2E769D5CB5D79B2F"
+					item: {
+						count: 1
+						id: "alltheores:iron_rod"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6EF7ED974421B69D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(pneumaticcraft:pressure_chamber_interface)item(pneumaticcraft:assembly_controller))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["17FFBED5CC92ACF0"]
+			id: "369913246ECA136C"
+			rewards: [
+				{
+					count: 3
+					id: "4436E1B2F6759D4F"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					type: "item"
+				}
+				{
+					id: "7B374583FCAFB84F"
+					item: {
+						count: 1
+						id: "create:depot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "499F9A666AC910A6"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7BFF76B27D398E62"]
+			id: "17FFBED5CC92ACF0"
+			rewards: [
+				{
+					id: "4D520C8D3550FCC9"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1CB19F682777157E"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "7647017DAA0B54D5"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "319EDB30E4661EBC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:stamped_copper_nugget_lid)item(createmonballsoverhaul:stamped_iron_nugget_lid)item(createmonballsoverhaul:stamped_zinc_nugget_lid)item(createmonballsoverhaul:stamped_brass_nugget_lid)item(createmonballsoverhaul:stamped_sturdy_sheet_lid))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["369913246ECA136C"]
+			id: "2CE9AB9D08F1BF37"
+			rewards: [
+				{
+					id: "4E2997F13B77C813"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:copper_ball_base"
+					}
+					type: "item"
+				}
+				{
+					id: "4D4414C445C6467A"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:iron_ball_base"
+					}
+					type: "item"
+				}
+				{
+					id: "56113815144953F7"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:brass_ball_base"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "44EC46F0A12902A8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:copper_ball_base)item(createmonballsoverhaul:iron_ball_base)item(createmonballsoverhaul:brass_ball_base)item(createmonballsoverhaul:sturdy_ball_base))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["015EC0ACDA0BB5F8"]
+			id: "3C8522C5E8CA5629"
+			rewards: [
+				{
+					count: 3
+					id: "21A3974F7BB9B6AC"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:red_ball_lid"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "21D55FEBE90FB1C6"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:blue_ball_lid"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "48A59CED61131EE2"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2CE9AB9D08F1BF37"]
+			id: "0CE62B46FD2C48FE"
+			rewards: [
+				{
+					count: 3
+					id: "50369EF4BE0A5231"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "04C8CA8E34152E57"
+					item: {
+						count: 1
+						id: "create:rose_quartz"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "579AE6EA6DAB4719"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0CE62B46FD2C48FE"]
+			id: "7DE2BE7BE664635D"
+			rewards: [
+				{
+					count: 4
+					id: "40951BFE8426E19E"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3108C11DE2BF989F"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "510FE97082C4E600"
+					item: {
+						count: 1
+						id: "alltheores:brass_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "570B0CD67CEBCDA4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:copper_ball_mechanism)item(createmonballsoverhaul:iron_ball_mechanism)item(createmonballsoverhaul:brass_ball_mechanism)item(createmonballsoverhaul:sturdy_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7DE2BE7BE664635D"
+				"3F769D575AF8C3CC"
+				"162955874B77F4F6"
+			]
+			id: "11742FC5C5EDBCBD"
+			rewards: [{
+				id: "6CC4B2B172A925A1"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "0F92799F023ADC68"
+				item: { components: { "ftbfiltersystem:filter": "and(or(item_tag(cobblemon:poke_balls))not(item_tag(cobblemon:tier_5_poke_balls))not(item(allthemons:allthemodium_ball))not(item(allthemons:vibranium_ball))not(item(allthemons:unobtainium_ball))not(item(allthemons:soul_lava_ball))not(item(allthemons:ancient_allthemodium_ball))not(item(allthemons:ancient_vibranium_ball))not(item(allthemons:ancient_unobtainium_ball))not(item(allthemons:ancient_soul_lava_ball)))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52B1A935EBCFA6D0"]
+			id: "173DE446B07004C8"
+			rewards: [
+				{
+					id: "62F45E8BE70C48DD"
+					item: {
+						count: 1
+						id: "allthemons:soul_lava_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "1B5D071908E8CBD7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "28A03C16A59C94A9"
+				item: { count: 1, id: "allthemons:soul_lava_ball" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["179C2D15E2E93CB6"]
+			id: "52B1A935EBCFA6D0"
+			rewards: [
+				{
+					id: "730916BB764B5019"
+					item: {
+						count: 1
+						id: "createmonballsoverhaul:blank_ball_lid"
+					}
+					type: "item"
+				}
+				{
+					id: "69F56B3F87346916"
+					item: {
+						count: 1
+						id: "alltheores:iron_rod"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "7BFD456AF26F90D8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:deployer)item(pneumaticcraft:pressure_chamber_interface)item(oritech:assembler_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["719739C46C9296DB"]
+			id: "179C2D15E2E93CB6"
+			rewards: [{
+				id: "14EE548E11CF060A"
+				item: {
+					count: 1
+					id: "allthemons:soul_lava_ball_lid"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "373F433800469B90"
+				item: { count: 1, id: "allthemons:soul_lava_ball_lid" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4A4CD38007804B1C"]
+			hide_dependency_lines: true
+			id: "5600FEC956AA3752"
+			rewards: [{
+				id: "1672F6804DAFFDDB"
+				item: {
+					count: 1
+					id: "mekanism:ultimate_fluid_tank"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E18E5D355B443FC"
+				item: { count: 1, id: "allthemodium:soul_lava_bucket" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["3F769D575AF8C3CC"]
+			hide_dependency_lines: true
+			id: "655FA86A410CE27B"
+			rewards: [{
+				count: 3
+				id: "280EC33BD9A54949"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "03E9429A7DA205C3"
+				item: { count: 1, id: "createmonballsoverhaul:great_ball_lid" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"5600FEC956AA3752"
+				"655FA86A410CE27B"
+			]
+			id: "719739C46C9296DB"
+			rewards: [{
+				id: "01D187111EDA0035"
+				item: {
+					count: 1
+					id: "allthemodium:soul_lava_bucket"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "193A87741AB9481E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create:spout)item(oritech:refinery_block)item(pneumaticcraft:pressure_chamber_interface))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			id: "5EEEB61899F66962"
+			rewards: [{
+				count: 3
+				id: "5C1E251A37640744"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "53C69C407870FA00"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+	]
+}

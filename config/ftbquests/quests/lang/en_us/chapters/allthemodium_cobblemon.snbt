@@ -1,0 +1,140 @@
+{
+	quest.015EC0ACDA0BB5F8.quest_desc: ["The Color of the &6Half Apricorn&r determines which &bLid&r we get. Plus we get Dye from it! \\n\\nIf we Smelt a &bBall Lid&r we can get a Blank Ball Lid. These can be Dyed into other &bLids&r. "]
+	quest.015EC0ACDA0BB5F8.title: "&bBall Lids"
+	quest.04212A285952402C.quest_desc: ["Cut it by throwing it through the &6Mechanical Saw&r, powering and working a &eSawmill&r or &cFragment Forge&r. Or even process it through a whole &8Assembly Line&r! Plus there's Magic, Magic is always cool. \\n\\nWhatever you do, take your &6Apricorns&r and cut them in half."]
+	quest.04212A285952402C.title: "Half &6&lAllthemodium&r Metal &6Apricorns"
+	quest.077216EA10FA4AA4.quest_desc: [
+		"Depending if your Plates are Stamped or not determines which Machine you can use. \\n\\nIf it is Stamped you can use the &6Mechanical Press&r to make the &7Ball Bases&r. \\n\\nIf not, try these!"
+		"{@pagebreak}"
+		"The &8Assembly Line&r connects different Assembly Machines together to work together at processing Items. \\n\\nPlace down the Assembly Controller, Assembly Drill, and Input and Export Units to create our Assembly Line. \\n\\nYou'll also need Chests next to the Input and Export Units for Items. \\n\\nOnce ready, give the Assembly Controller some Pressure and it'll start right up. "
+		"{@pagebreak}"
+		"The &5Atomic Forge&r is a very fancy &6&lOritech&r Machine. \\n\\nPlace down the &5Forge&r and surround it with Machine Casings. Then Right Click the &5Forge&r to Build it. \\n\\nThe &5Atomic Forge&r doesn't get &cEnergy&r a normal way, because why would it be easy? Instead you'll need &2Enderic Lasers&r! \\n\\nBuild an &2Enderic Laser&r, Power it up, then use a Target Designator to Shift Right Click both the &5Forge&r and the &2Laser&r to set it."
+	]
+	quest.0785CE63067DBE78.quest_desc: ["&6Allthemodium&f, &3Vibranium&f, and &5Unobtainium&r &cPoke&rballs are special &cBalls&r, so we'll need special &7Mechanisms&r for them! "]
+	quest.0785CE63067DBE78.title: "&6&lAllthemodium&r Metal &7Mechanisms"
+	quest.07F142663892007B.quest_desc: [
+		"4 of the ways to cut up the Halves are the same. The only new one is the..."
+		"{@pagebreak}"
+		"&5Atomic Forge&r! A very cool and flat Machine. \\n\\nNow needing 8 Machine Casings. \\n\\nThe &5Atomic Forge&r doesn't get Energy like normal Machines, instead it needs it Laser-ed into it! \\n\\nWith &2Enderic Lasers&r. Power up an &2Enderic Laser&r then use the Target Designator to Shift Right Click the &5Atomic Forge&r then the &2Enderic Laser&r. \\n\\n(If) It works, you can toss your &6Apricorn Halves&r in to get some &6Bits&r out."
+	]
+	quest.0CE62B46FD2C48FE.quest_desc: ["Each &7Ball Base&r will need to get Processed through &6Deployers&r. \\n\\nFirst, with either a &7Nugget&r from the same Material the &7Ball Base&r is made of (or an &7Andesite Alloy&r). \\n\\nThen, with a &8Shaft&r. \\n\\nLast, with the second &7Ball Base&r! \\n\\nUnless you're using the &5Sturdy Sheet&r which uses &cRose Quartz&r instead of a &7Nugget&r."]
+	quest.0CE62B46FD2C48FE.title: "Deploying"
+	quest.11742FC5C5EDBCBD.quest_desc: ["Now you can &l&6Create&r just about any &cBall&r you want to. Some might be more expensive! \\n\\nIf you want &cAncient Balls&r you'll need to use &8Ancient Ball Mechanisms&r and &6Apricorn Wood Lids&r. \\n\\nAll of these &cBalls&r are also entirely identical to normal &cBalls&r, just you made them instead of finding them!"]
+	quest.11742FC5C5EDBCBD.quest_subtitle: ""
+	quest.11742FC5C5EDBCBD.title: "&cPoke&rballs!"
+	quest.162955874B77F4F6.quest_desc: ["We have &bLids&r and &7Mechanisms&r, now we just have to combine! \\n\\nThe &7Ball Mechanisms&r represent each Ball Tier. &6Copper&r is the cheapest so it makes the lowest Tier, &5Sturdy&r is the most expensive so it makes the highest Tier. \\n\\nThen, we need to throw the top &bLid&r on first. Usually the one named after the &cPoke&rball. \\n\\nAnd finally the bottom &bLid&r, which is usually a Blank Ball Lid."]
+	quest.162955874B77F4F6.title: "Combing everything to make our..."
+	quest.173DE446B07004C8.quest_desc: ["The &bGreat Ball of Fire&r will need its &bLid&r, a Blank Lid, a &5Sturdy Mechanism&r, and an &7Iron Rod&r to be created. \\n\\nOnce all are combined through whichever process you choose, you'll finally have it. \\n\\nThis Ball has a 2x Chance at almost every &cPokemon&r Type, except for 50x for &cFire Types&r and 0x for &bWater Types&r. \\n\\nYeah, not the best for Catching &bMudkips&r..."]
+	quest.173DE446B07004C8.quest_subtitle: ""
+	quest.173DE446B07004C8.title: "&bGreat Ball of Fire"
+	quest.179C2D15E2E93CB6.quest_desc: ["It kinda looks like it has two eyes... \\n\\nTwo angry eyes..."]
+	quest.179C2D15E2E93CB6.quest_subtitle: ""
+	quest.179C2D15E2E93CB6.title: "&bGreat Ball of Fire Lid"
+	quest.17FFBED5CC92ACF0.quest_desc: ["By using a &6Deployer&r, we can push the &8Rubber Stamps&r on some &7Nuggets&r to Stamp them! \\n\\nThis will be necessary to make the &7Mechanisms&r. \\n\\nThe &5Sturdy Sheet&r is made by processing &5Obsidian Dust&r first by Spouting &cLava&r over it, then Pressing it, twice!"]
+	quest.17FFBED5CC92ACF0.title: "&7Stamped Nuggets"
+	quest.19B6649B049A402A.quest_desc: ["&6Allthemodium&r, &3Vibranium&r, and &5Unobtainium&r. The three &6AllTheModium&r Metals. \\n\\nHopefully you've gone through their own Quest Chapter before using these Quests... \\n\\nIn order to make the &cPoke&rBalls we'll need quite a few of these Ingots. Yeah, it is expensive. \\n\\nFor &7Mechanisms&r, you'll need to turn a few of these Ingots into Plates in order to..."]
+	quest.19B6649B049A402A.title: "&6&lAllthemodium&r Metals"
+	quest.1F81408C55EFC5DB.quest_desc: ["Okay technically you don't have to Stamp them. \\n\\nSome can just stay like normal Plates."]
+	quest.1F81408C55EFC5DB.title: "&6&lAllthemodium&r Metal Plates"
+	quest.2CE9AB9D08F1BF37.quest_desc: ["&7Ball Bases&r! Yeah I should have told you the &7Zinc&r will make the &7Iron Ball Base&r, I apologize. \\n\\nWe'll need 2 &7Ball Bases&r for each &7Mechanisms&r. \\n\\nPlus more Items with the &6Deployers&r to create the &7Mechanisms&r."]
+	quest.2CE9AB9D08F1BF37.title: "&7Ball Bases"
+	quest.369913246ECA136C.quest_desc: ["In order to process the &7Stamped Nuggets&r into &7Ball Bases&r, we have to Press them. \\n\\nThe &6Mechanical Press&r will squish Items below it on a &6Belt&r. It will just take a lot of Stress in order to do so. \\n\\nToss those &7Stamped Nuggets&r beneath the &6Press&r and let it rip to get our..."]
+	quest.369913246ECA136C.title: "Pressing"
+	quest.37F71E88EDF6BA2D.quest_desc: ["&6Half Apricorns&r! Which don't do much but make &bLids&r... \\n\\nSorry if you were expecting much from them."]
+	quest.37F71E88EDF6BA2D.title: "&6Half Apricorns"
+	quest.3C8522C5E8CA5629.quest_desc: ["Sometimes we need a special &bBall Lid&r in order to make a certain &cPoke&rball we want. \\n\\nTo get those we'll need to chop up some &bBall Lids&r in order to get &6Apricorn Bits&r. \\n\\nSo toss those &bBall Lids&r through the &6Saw&r!"]
+	quest.3C8522C5E8CA5629.title: "Sawing (again)"
+	quest.3EC2877B9018FF02.quest_desc: [
+		"The &6Mechanical Saw&r works like most &6&lCreate&r Machines. \\n\\nGive it &dRotational Power&r, and any Items that go through will be sliced in half."
+		"{@pagebreak}"
+		"The &ePrecision Sawmill&r is a Factory Machine from &5&lMekanism&r. \\n\\nIt is very easy to use! Throw some &cEnergy&r into it, then place the &6Apricorn&r into the Machine, and it will slice and dice them into &6Half Apricorns&r!"
+		"{@pagebreak}"
+		"The &8Assembly Line&r will need quite a few Machines to get working: Assembly Controller, Laser, Input Unit, Export Unit, and the Assembly Platform. \\n\\nAll Machines will need to be sitting next to each other connected to work. \\n\\nThe Controller is the one that takes Pressure. The Input Unit will need an Inventory near it to take from, and the Export Unit will need a Chest to place Items in. If everything is working it'll say it is running. If not, the Controller will state the problem!"
+		"{@pagebreak}"
+		"The &cFragment Forge&r, like all greedy &6&lOritech&r Factories, will need Machine Casings to be made. \\n\\n3 to be exact. Once you have the 3 Machine Casings and the &cFragment Forge&r placed down, Right Click the Forge to Build it. \\n\\nThen, it becomes much easier, just power it up and toss your &6Apricorns&r in!"
+		"{@pagebreak}"
+		"Last is the &dCut Glyph&r. \\n\\nFirst, use whatever Spell Form you'd like. Touch, Ray, Projectile, Missile, whatever! \\n\\nThen, select the &dCut Glyph&r and add Sensitive to it. This will allow &dCut&r to work on Items Dropped. \\n\\nSo now you can toss your &6Apricorns&r on the flow, hit them with the Spell, and it'll magically cut them up."
+	]
+	quest.3F769D575AF8C3CC.quest_desc: ["&6Apricorn Bits&r don't do much. Can't eat them or give them to &cPokemon&r. \\n\\nYou can only use &6Deployers&r to mix &6Apricorn Bits&r and Dyes with &bBall Lids&r to make other &bLids&r. "]
+	quest.3F769D575AF8C3CC.title: "&6Apricorn Bits"
+	quest.411EA1CAD3BF6D3C.quest_desc: ["After spending our &6Bit&r, Blank Lid, and Blocks worth of Ingot, we can Craft our Ball Lids. \\n\\nI think the &6Allthemodium&r one looks coolest!"]
+	quest.411EA1CAD3BF6D3C.title: "&6&lAllthemodium&r Metal Lids"
+	quest.427A28BB6FEAAC6C.quest_desc: ["Fun sized pieces of &6Apricorns&r perfect for snacking and Crafting our &6&lAllTheModium&r Metal Lids!"]
+	quest.427A28BB6FEAAC6C.title: "&6&lAllthemodium&r Metal &6Apricorn Bits"
+	quest.442227B0C475A142.quest_desc: ["However you get them... you'll need 2. \\n\\nSorry! I should have warned you beforehand."]
+	quest.442227B0C475A142.title: "&6&lAllthemodium&r Metal &7Ball Bases"
+	quest.46ABFEAF723C7057.quest_desc: ["The &6Encased Fan&r is a fun &6&lCreate&r Machine. \\n\\nWhen given &dRotational Power&r Clockwise, it will blow Items and Mobs away from it. When Rotated Counterclockwise it will suck the Items and Mobs closer to it. \\n\\nDon't worry, it just gets better! We can put &9Water&r in front of the &6Encased Fan&r to Wash Items Dropped in front of the &6Fan&r. \\n\\nWe can Wash our &6Half Apricorns&r to make our &bBall Lids&r."]
+	quest.46ABFEAF723C7057.title: "Bulk Washing"
+	quest.4A4CD38007804B1C.quest_desc: ["In order to get our &5Master Ball&r, we're going to need the &6AllTheModium&r Metal &cPoke&rballs. \\n\\nIn order to get the &6AllTheModium&r Metal &cPoke&rballs, we're going to need &6AllTheModium&r Metal &6Apricorns&r. \\n\\nIn order to get those we'll need to visit &b&lThe Other&r."]
+	quest.4A4CD38007804B1C.quest_subtitle: "The Other"
+	quest.4A4CD38007804B1C.title: "The best &cPoke&rballs start in"
+	quest.52B1A935EBCFA6D0.quest_desc: ["To make our &bGreat Ball of Fire&r we can use our &7Pressure Chamber&r from before, &6Deployers&r, or an &cAssembler&r. \\n\\nYou know about the &7Pressure Chamber&r and &6Deployers&r. \\n\\nThe &cAssembler&r will need 3 Machine Casings with it in a 1x2x2 shape to start it up. Just power it up and toss in the Items."]
+	quest.52B1A935EBCFA6D0.quest_subtitle: ""
+	quest.52B1A935EBCFA6D0.title: "Creating our firey &cBall"
+	quest.550464B5F7F4F699.quest_desc: ["The &6Allthemodium Pokeball&r has a 4x Chance at Catching any &cPokemon&r. No strings attached! 4x is the highest most &cPoke&rballs will go to besides the &aQuick&f, &dLove&f, and &9Beast Ball&r. \\n\\nThe &3Vibranium Pokeball&r has a 6x Chance with 50x Chance at Catching Legendaries. Legendaries are the best of the best &cPokemon&r, also the rarest of course. \\n\\nThe &5Unobtainium Pokeball&r has a 10x Chance with 100x Chance for Legendaries. The only &cPokeballs&r that are better are the &4Origin Ball&r and..."]
+	quest.550464B5F7F4F699.quest_subtitle: ""
+	quest.550464B5F7F4F699.title: "&6Allthemodium &3Vibranium &fand &5Unobtainium&r Balls"
+	quest.5600FEC956AA3752.quest_desc: ["Don't worry &9Soul Lava&r hasn't moved in any recent updates! \\n\\nCheck deep underground in &b&lThe Other&r or in Piglin Villages in &b&lThe Other&r."]
+	quest.5600FEC956AA3752.quest_subtitle: ""
+	quest.5600FEC956AA3752.title: "&9Soul Lava"
+	quest.5B947A01CB2FA378.quest_desc: [
+		"Like literally every other step, there's multiple ways to form our &7Mechanisms&r. \\n\\nYou can use &6Deployers&r to smack a &7Ball Base&r with first a Nugget, then a &8Shaft&r, then the other &7Ball Base&r to create a full &7Mechanism&r. "
+		"{@pagebreak}"
+		"We also have &8&lPneumaticCraft's&r &7Pressure Chamber&r. \\n\\nYou'll need a Pressure Chamber Interface, 2 Valves, and either Pressure Chamber Walls or Glass. \\n\\nThe Interface is how you get Pressure into the Pressure Chamber, yes it will need Pressure to Craft it. \\n\\nThe Valves are how Items go in (through the Blue Side) and out (through the Orange Side). \\n\\nThe Walls or Glass will fill up the rest of the structure besides the center. That needs to be hollow."
+		"{@pagebreak}"
+		"The &cAssembler&r (different from the &8Assembly Line&r) is perfect for our detailed 2x2 Crafting Recipes. \\n\\nFirst, we'll need to make our Machine. Place down the &cAssembler&r with 3 Machine Casings in a 1x2x2 design. Then, Right Click the &cAssembler&r to assemble it. \\n\\nNow we can give it some &cEnergy&r and it will make us our &7Mechanisms&r!"
+	]
+	quest.5EEEB61899F66962.quest_desc: ["If we want to create our favorite &cPoke&rballs, we'll need to use &6&lCreate&r! \\n\\nAnd that all starts with the &7Andesite Alloy&r! \\n\\nFollow through &6&lCreates&r own Quest Page to better understand how the Mod works."]
+	quest.5EEEB61899F66962.quest_subtitle: ""
+	quest.5EEEB61899F66962.title: "Creating &cPoke&fballs"
+	quest.6294AFDD1123C127.quest_desc: ["The &6Mechanical Saw&r, when given &dRotational Power&r, can be used to chop up different Items. \\n\\nPlanks to Fences, Stone into Bricks, and &6Apricorns&r into &6Half Apricorns&r!"]
+	quest.6294AFDD1123C127.title: "Sawing"
+	quest.655FA86A410CE27B.quest_desc: ["By taking one of our &9Blue Lids&r from the previous Quests, we can make a &9Great Ball Lid&r. \\n\\nDeploy 2 &cRed Apricorn Bits&r on top of that &9Blue Lid&r to make a &9Great Ball Lid&r. \\n\\nObviously we can use that to make a &9Great Ball&r, but why not an even greater &cBall&r than that! \\n\\nI'm talking about the &bGreat Ball of Fire&r, not a Greater Ball..."]
+	quest.655FA86A410CE27B.quest_subtitle: ""
+	quest.655FA86A410CE27B.title: ""
+	quest.668E99B93D0BC405.quest_desc: ["We got our &bLids&r and our &7Mechanisms&r, let's finally make our &cPoke&rballs! \\n\\nThe only extra Items we'll need is a Blank Lid and an &7Iron Rod&r. \\n\\nWe can use &6Deployers&r, a &7Pressure Chamber&r, or an &8Assembly Line&r to put it all together. Come on, by now you should know how to use them!"]
+	quest.668E99B93D0BC405.title: "Finishing our &cPoke&rballs"
+	quest.6A6CD8024A4E9075.quest_desc: ["In &b&lThe Other&r you'll find &6Apricorn Trees&r, just these come with a different type of &6Apricorn&r! \\n\\n&6Allthemodium&f, &3Vibranium&f, and &5Unobtainium &6Apricorns&r! \\n\\nThe &6Trees&r act just like normal &6Apricorn Trees&r, you can pluck the shiny &6Apricorns &foff the &6Tree&r, chop it down for the Wood, and replant them for more &6Apricorn Trees&r."]
+	quest.6A6CD8024A4E9075.title: "&6&lAllthemodium&r Metal &6Apricorns"
+	quest.6CC2B540EE37079E.quest_desc: ["Stamp them! \\n\\nCheck out the Quests for all &cPoke&rballs to see about the Rubber Stamp. \\n\\nYou can Right Click the top or the hand of the &6Deployer&r to give it an Item, like the Rubber Stamp. Then, when at work, it will use that Stamp on Items below it. \\n\\nOr you can use the &7CNC Stamper&r! A &5&lMekanism&r Machine that uses &cEnergy&r to do the same exact thing, just easier."]
+	quest.71436F63681DC98D.quest_desc: ["3 &bGreat Balls of Fire&r, 3 &6Allthemodium Balls&r, 2 &3Vibranium Balls&r, and 1 &5Unobtainium Ball&r we can Craft only the greatest &cPoke&rball to exist... the &5&lMaster Ball&r! \\n\\nNo matter the &cPokemons&r Level, Type, Rarity, ETC. the &5&lMaster Ball&r will Catch them (if they aren't already Caught). \\n\\nIt is also essential to Crafting the &6&lATM Star&r!"]
+	quest.71436F63681DC98D.quest_subtitle: ""
+	quest.71436F63681DC98D.title: "&5&lMaster Ball"
+	quest.719739C46C9296DB.quest_desc: ["There's 3 ways to make the &bGreat Ball of Fire Lid&r. Simplest is using &6&lCreate&r. \\n\\nPlace the &9Great Ball Lid&r under a &bSpout&r to pour a Buckets worth of &9Soul Lava&r over it. \\n\\nWe can also Build a &dRefinery&r by placing down the &dRefinery&r with 9 Machine Casings in the pattern shown by highlights. \\n\\nJust Right Click the &dRefinery&r to start it up. Then, once &cEnergy&r is cabled in, &9Soul Lava&r piped in, and a &9Great Ball Lid&r is put in, we can make our &bGreat Ball of Fire Lid&r. \\n\\nIf counting Buckets worth of Fluid is too difficult, make a Pressure Chamber instead. There you can just combine the &9Bucket of Soul Lava&r with the &9Great Ball Lid&r to make the &bGreat Ball of Fire Lid&r."]
+	quest.719739C46C9296DB.quest_subtitle: ""
+	quest.719739C46C9296DB.title: "Burning our &9Great Ball Lid"
+	quest.738022A90A534871.quest_desc: [
+		"To Craft our &bLids&r we need Blank Lids, &6Apricorn Bits&r, and a Blocks worth of the Ingot. \\n\\nAs well as using the &8Assembly Line&r from the previous Quest, or &bSpouts&r and &6Deployers&r with &6&lCreate&r, or a &7Pressure Chamber&r."
+		"{@pagebreak}"
+		"With &6&lCreate&r we need to use a &bSpout&r to pour 810mB of the Ingot onto the Blank Lid. That is 9 Ingots worth. \\n\\nThen, use the &6Deployer&r to smack the Lid with the &6Apricorn Bit&r to make our Lid!"
+		"{@pagebreak}"
+		"The &7Pressure Chamber&r is from &8&lPneumatic Craft&r, just like the &8Assembly Line&r. \\n\\nThe &7Pressure Chamber&r is a Multiblock Machine. It uses either Pressure Chamber Walls or Glass to make up most of it. While the Valves are what take in Pressure and the Interfaces take in and out Items from Inventories. \\nIf the Blue Face is out of the &7Pressure Chamber&r, this is the Input. If it is Orange, then it is Output!"
+	]
+	quest.7BFF76B27D398E62.quest_desc: ["With a very strange Item selection we can Craft the &8Rubber Stamp&r! \\n\\nFunny enough, you don't need &6&lCreate&r to Craft it, just to use it. \\n\\nI wonder what the symbol is that we are stamping onto stuff though..."]
+	quest.7DE2BE7BE664635D.quest_desc: ["Each &7Mechanism&r makes a different Tier of &cPoke&rBall. \\n\\n&6Copper&r makes the default &cPoke&rBalls and the &aSafari&r and &dHeal Ball&r. \\n\\n&7Iron&r makes &9Great Balls&r and a few others like the &3Net&r and &bDive Balls&r. \\n\\n&eBrass&r makes &eUltra Balls&r, &dLove&r and &6Luxury Balls&r and a bit more. \\n\\n&5Sturdy Ball Mechanism&r will make &cDream&r and &9Beast Balls&r!"]
+	quest.7DE2BE7BE664635D.title: "&7Mechanisms"
+	task.0C5A61D2FABC7C9D.title: "Half Apricorns"
+	task.0CA10BC8DFEC267E.title: "Saws, Cutters, ETC"
+	task.0F92799F023ADC68.title: "Pokeballs"
+	task.1488109EDE4976CA.title: "Saws, Cutters, and Atomic Forges?"
+	task.193A87741AB9481E.title: "Burning our Great Ball Lid"
+	task.2444CD1A3A139F25.title: "Allthemodium Metal Apricorn Bits"
+	task.288F69BFE9DBC8DD.title: "Allthemodium Metal Ball Bases"
+	task.2A53CCA1A4B2C0EB.title: "Presses, Drills, and Atomic Forge?"
+	task.2D41E9AF59EC8761.title: "Allthemodium Metal Apricorns"
+	task.2E6A83C5AAD05858.title: "Allthemodium Metal Lids"
+	task.319EDB30E4661EBC.title: "Stamped Nuggets"
+	task.36E25BD0A9C9F256.title: "Ball Lids"
+	task.3C8B3E7B28D3BC2D.title: "Allthemodium Metal Mechanisms"
+	task.3CF29F07EC67E0C3.title: "Ways to put it all together"
+	task.44EC46F0A12902A8.title: "Ball Bases"
+	task.4FAED006939CFA76.title: "Half Allthemodium Metal Apricorns"
+	task.570B0CD67CEBCDA4.title: "Mechanisms"
+	task.6360546CFC9063DE.title: "Ways to assemble everything"
+	task.6E044F505C894D55.title: "Stampers"
+	task.6EF7ED974421B69D.title: "Finishing our Pokeballs"
+	task.707B96130E3A0026.title: "Allthemodium Metal Plates"
+	task.711831515BEC4995.title: "Allthemodium Metals"
+	task.72A812162203AFAE.title: "Apricorn Bits"
+	task.7BFD456AF26F90D8.title: "Creating our firey Ball"
+}
