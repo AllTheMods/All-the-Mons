@@ -1,0 +1,140 @@
+{
+	quest.015EC0ACDA0BB5F8.quest_desc: ["A cor da &6Metade de Bolota&r determina qual &bTampa&r recebemos. Além disso, ganhamos Corante dela! \\n\\nSe fundirmos uma &bTampa de Bola&r, podemos obter uma Tampa de Bola Vazia. Estas podem ser tingidas em outras &bTampas&r. "]
+	quest.015EC0ACDA0BB5F8.title: "&bTampas de Bola"
+	quest.04212A285952402C.quest_desc: ["Corte-a jogando-a através da &6Serra Mecânica&r, operando uma &eSerraria&r ou &cForja de Fragmentos&r. Ou até processe através de uma &8Linha de Montagem&r completa! Além disso, tem Magia, Magia é sempre legal. \\n\\nO que quer que você faça, pegue suas &6Bolotas&r e corte-as ao meio."]
+	quest.04212A285952402C.title: "Metade de &6Bolotas&r de Metal &6&lAllthemodium&r"
+	quest.077216EA10FA4AA4.quest_desc: [
+		"Dependendo se suas Chapas estão Carimbadas ou não determina qual Máquina você pode usar. \\n\\nSe estiver Carimbada, você pode usar a &6Prensa Mecânica&r para fazer as &7Bases de Bola&r. \\n\\nSe não, tente estas!"
+		"{@pagebreak}"
+		"A &8Linha de Montagem&r conecta diferentes Máquinas de Montagem para trabalharem juntas no processamento de Itens. \\n\\nColoque o Controlador de Montagem, Broca de Montagem e as Unidades de Entrada e Exportação para criar nossa Linha de Montagem. \\n\\nVocê também precisará de Baús ao lado das Unidades de Entrada e Exportação para os Itens. \\n\\nQuando estiver pronto, dê um pouco de Pressão ao Controlador de Montagem e ele começará a funcionar. "
+		"{@pagebreak}"
+		"A &5Forja Atômica&r é uma máquina da &6&lOritech&r muito chique. \\n\\nColoque a &5Forja&r e cerque-a com Estruturas de Máquina. Então, clique com o Botão Direito na &5Forja&r para construí-la. \\n\\nA &5Forja Atômica&r não recebe &cEnergia&r de forma normal, porque por que seria fácil? Em vez disso, você precisará de &2Lasers Enderic&r! \\n\\nConstrua um &2Laser Enderic&r, ligue-o, então use um Designador de Alvo com Shift + Botão Direito tanto na &5Forja&r quanto no &2Laser&r para configurá-lo."
+	]
+	quest.0785CE63067DBE78.quest_desc: ["&6Allthemodium&f, &3Vibranium&f, e &5Unobtainium&r &cPoke&rbolas são &cBolas&r especiais, então precisaremos de &7Mecanismos&r especiais para elas! "]
+	quest.0785CE63067DBE78.title: "Mecanismos de Metal &6&lAllthemodium&r"
+	quest.07F142663892007B.quest_desc: [
+		"4 das formas de cortar as Metades são as mesmas. A única nova é a..."
+		"{@pagebreak}"
+		"&5Forja Atômica&r! Uma máquina muito legal e plana. \\n\\nAgora precisando de 8 Estruturas de Máquina. \\n\\nA &5Forja Atômica&r não recebe Energia como máquinas normais, em vez disso, ela precisa que seja enviada via Laser! \\n\\nCom &2Lasers Enderic&r. Ligue um &2Laser Enderic&r e use o Designador de Alvo com Shift + Botão Direito na &5Forja Atômica&r e depois no &2Laser Enderic&r. \\n\\n(Se) funcionar, você pode jogar suas &6Metades de Bolotas&r para obter alguns &6Fragmentos&r."
+	]
+	quest.0CE62B46FD2C48FE.quest_desc: ["Cada &7Base de Bola&r precisará ser processada através de &6Implantadores&r. \\n\\nPrimeiro, com uma &7Pepita&r do mesmo material de que a &7Base de Bola&r é feita (ou uma &7Liga de Andesito&r). \\n\\nDepois, com um &8Eixo&r. \\n\\nPor último, com a segunda &7Base de Bola&r! \\n\\nA menos que você esteja usando a &5Chapa Robusta&r, que usa &cQuartzo Rosa&r em vez de uma &7Pepita&r."]
+	quest.0CE62B46FD2C48FE.title: "Implantando"
+	quest.11742FC5C5EDBCBD.quest_desc: ["Agora você pode &l&6Fabricar&r quase qualquer &cBola&r que quiser. Algumas podem ser mais caras! \\n\\nSe você quiser &cBolas Ancestrais&r, precisará usar &8Mecanismos de Bola Ancestral&r e &6Tampas de Bolota de Madeira&r. \\n\\nTodas essas &cBolas&r também são inteiramente idênticas às &cBolas&r normais, apenas você as fez em vez de encontrá-las!"]
+	quest.11742FC5C5EDBCBD.quest_subtitle: ""
+	quest.11742FC5C5EDBCBD.title: "&cPoke&rbolas!"
+	quest.162955874B77F4F6.quest_desc: ["Temos as &bTampas&r e os &7Mecanismos&r, agora só precisamos combinar! \\n\\nOs &7Mecanismos de Bola&r representam cada Nível de Bola. &6Cobre&r é o mais barato, então faz o nível mais baixo, &5Robusto&r é o mais caro, então faz o nível mais alto. \\n\\nDepois, precisamos colocar a &bTampa&r superior primeiro. Geralmente a que tem o nome da &cPoke&rbola. \\n\\nE finalmente a &bTampa&r inferior, que geralmente é uma Tampa de Bola Vazia."]
+	quest.162955874B77F4F6.title: "Combinando tudo para fazer nossa..."
+	quest.173DE446B07004C8.quest_desc: ["A &bGrande Bola de Fogo&r precisará de sua &bTampa&r, uma Tampa Vazia, um &5Mecanismo Robusto&r e uma &7Vara de Ferro&r para ser criada. \\n\\nUma vez que todos sejam combinados através de qualquer processo que você escolher, você finalmente a terá. \\n\\nEsta Bola tem uma Chance de 2x em quase todos os tipos de &cPokemon&r, exceto por 50x para &cTipos Fogo&r e 0x para &bTipos Água&r. \\n\\nÉ, não é a melhor para capturar &bMudkips&r..."]
+	quest.173DE446B07004C8.quest_subtitle: ""
+	quest.173DE446B07004C8.title: "&bGrande Bola de Fogo"
+	quest.179C2D15E2E93CB6.quest_desc: ["Meio que parece que tem dois olhos... \\n\\nDois olhos furiosos..."]
+	quest.179C2D15E2E93CB6.quest_subtitle: ""
+	quest.179C2D15E2E93CB6.title: "&bTampa da Grande Bola de Fogo"
+	quest.17FFBED5CC92ACF0.quest_desc: ["Usando um &6Implantador&r, podemos empurrar os &8Carimbos de Borracha&r em algumas &7Pepitas&r para carimbá-las! \\n\\nIsso será necessário para fazer os &7Mecanismos&r. \\n\\nA &5Chapa Robusta&r é feita processando &5Pó de Obsidiana&r primeiro despejando &cLava&r sobre ele e depois prensando-o, duas vezes!"]
+	quest.17FFBED5CC92ACF0.title: "&7Pepitas Carimbadas"
+	quest.19B6649B049A402A.quest_desc: ["&6Allthemodium&r, &3Vibranium&r, e &5Unobtainium&r. Os três metais &6AllTheModium&r. \\n\\nEspero que você tenha passado pelo capítulo de missões deles antes de usar estas missões... \\n\\nPara fazer as &cPoke&rBolas, precisaremos de bastante desses Lingotes. Sim, é caro. \\n\\nPara os &7Mecanismos&r, você precisará transformar alguns desses Lingotes em Chapas para..."]
+	quest.19B6649B049A402A.title: "Metais &6&lAllthemodium&r"
+	quest.1F81408C55EFC5DB.quest_desc: ["Ok, tecnicamente você não precisa carimbá-los. \\n\\nAlguns podem apenas ficar como Chapas normais."]
+	quest.1F81408C55EFC5DB.title: "Chapas de Metal &6&lAllthemodium&r"
+	quest.2CE9AB9D08F1BF37.quest_desc: ["&7Bases de Bola&r! É, eu deveria ter te dito que o &7Zinco&r fará a &7Base de Bola de Ferro&r, peço desculpas. \\n\\nPrecisaremos de 2 &7Bases de Bola&r para cada &7Mecanismo&r. \\n\\nAlém de mais itens com os &6Implantadores&r para criar os &7Mecanismos&r."]
+	quest.2CE9AB9D08F1BF37.title: "&7Bases de Bola"
+	quest.369913246ECA136C.quest_desc: ["Para processar as &7Pepitas Carimbadas&r em &7Bases de Bola&r, temos que prensá-las. \\n\\nA &6Prensa Mecânica&r esmagará os itens abaixo dela em uma &6Esteira&r. Só vai levar muito Estresse para fazer isso. \\n\\nJogue aquelas &7Pepitas Carimbadas&r abaixo da &6Prensa&r e deixe acontecer para obter nossas..."]
+	quest.369913246ECA136C.title: "Prensagem"
+	quest.37F71E88EDF6BA2D.quest_desc: ["&6Metades de Bolotas&r! Que não fazem muito além de criar &bTampas&r... \\n\\nDesculpe se você estava esperando muito delas."]
+	quest.37F71E88EDF6BA2D.title: "&6Metades de Bolotas"
+	quest.3C8522C5E8CA5629.quest_desc: ["Às vezes precisamos de uma &bTampa de Bola&r especial para fazer uma certa &cPoke&rbola que queremos. \\n\\nPara obtê-las, precisaremos picar algumas &bTampas de Bola&r para obter &6Fragmentos de Bolota&r. \\n\\nEntão jogue essas &bTampas de Bola&r através da &6Serra&r!"]
+	quest.3C8522C5E8CA5629.title: "Serrando (novamente)"
+	quest.3EC2877B9018FF02.quest_desc: [
+		"A &6Serra Mecânica&r funciona como a maioria das máquinas do &6&lCreate&r. \\n\\nDê a ela &dEnergia Rotacional&r, e quaisquer itens que passarem serão fatiados ao meio."
+		"{@pagebreak}"
+		"A &eSerraria de Precisão&r é uma máquina de fábrica do &5&lMekanism&r. \\n\\nÉ muito fácil de usar! Jogue um pouco de &cEnergia&r nela, depois coloque a &6Bolota&r na máquina, e ela irá fatiar e picar em &6Metades de Bolotas&r!"
+		"{@pagebreak}"
+		"A &8Linha de Montagem&r precisará de algumas máquinas para funcionar: Controlador de Montagem, Laser, Unidade de Entrada, Unidade de Exportação e a Plataforma de Montagem. \\n\\nTodas as máquinas precisarão estar sentadas uma ao lado da outra conectadas para funcionar. \\n\\nO Controlador é o que recebe Pressão. A Unidade de Entrada precisará de um inventário perto dela para retirar, e a Unidade de Exportação precisará de um baú para colocar os itens. Se tudo estiver funcionando, dirá que está rodando. Se não, o Controlador declarará o problema!"
+		"{@pagebreak}"
+		"A &cForja de Fragmentos&r, como todas as fábricas gananciosas da &6&lOritech&r, precisará de Estruturas de Máquina para ser feita. \\n\\n3 para ser exato. Uma vez que você tenha as 3 Estruturas de Máquina e a &cForja de Fragmentos&r posicionada, clique com o botão direito na Forja para construí-la. \\n\\nEntão, fica muito mais fácil, apenas ligue-a e jogue suas &6Bolotas&r nela!"
+		"{@pagebreak}"
+		"Por último está o &dGlifo de Corte&r. \\n\\nPrimeiro, use qualquer Forma de Feitiço que desejar. Toque, Raio, Projétil, Míssil, o que for! \\n\\nEntão, selecione o &dGlifo de Corte&r e adicione Sensível a ele. Isso permitirá que o &dCorte&r funcione em itens dropados. \\n\\nEntão agora você pode jogar suas &6Bolotas&r no fluxo, atingi-las com o feitiço, e ele magicamente as cortará."
+	]
+	quest.3F769D575AF8C3CC.quest_desc: ["&6Fragmentos de Bolota&r não fazem muito. Não pode comê-los nem dá-los a &cPokemon&r. \\n\\nVocê só pode usar &6Implantadores&r para misturar &6Fragmentos de Bolota&r e Corantes com &bTampas de Bola&r para fazer outras &bTampas&r. "]
+	quest.3F769D575AF8C3CC.title: "&6Fragmentos de Bolota"
+	quest.411EA1CAD3BF6D3C.quest_desc: ["Depois de gastar nosso &6Fragmento&r, Tampa Vazia e o equivalente a blocos de Lingote, podemos Fabricar nossas Tampas de Bola. \\n\\nEu acho que a de &6Allthemodium&r parece a mais legal!"]
+	quest.411EA1CAD3BF6D3C.title: "Tampas de Metal &6&lAllthemodium&r"
+	quest.427A28BB6FEAAC6C.quest_desc: ["Pedaços de tamanho divertido de &6Bolotas&r perfeitos para lanchar e Fabricar nossas Tampas de Metal &6&lAllTheModium&r!"]
+	quest.427A28BB6FEAAC6C.title: "&6Fragmentos de Bolota&r de Metal &6&lAllthemodium&r"
+	quest.442227B0C475A142.quest_desc: ["Como quer que você as consiga... você precisará de 2. \\n\\nDesculpe! Eu deveria ter avisado antes."]
+	quest.442227B0C475A142.title: "&7Bases de Bola&r de Metal &6&lAllthemodium&r"
+	quest.46ABFEAF723C7057.quest_desc: ["O &6Ventilador Encapsulado&r é uma máquina divertida do &6&lCreate&r. \\n\\nQuando recebe &dEnergia Rotacional&r no sentido horário, ele soprará itens e criaturas para longe dele. Quando girado no sentido anti-horário, ele sugará os itens e criaturas para mais perto. \\n\\nNão se preocupe, só melhora! Podemos colocar &9Água&r na frente do &6Ventilador Encapsulado&r para Lavar itens dropados na frente do &6Ventilador&r. \\n\\nPodemos Lavar nossas &6Metades de Bolotas&r para fazer nossas &bTampas de Bola&r."]
+	quest.46ABFEAF723C7057.title: "Lavagem em Lote"
+	quest.4A4CD38007804B1C.quest_desc: ["Para obter nossa &5Bola Mestra&r, vamos precisar das &cPoke&rbolas de Metal &6AllTheModium&r. \\n\\nPara obter as &cPoke&rbolas de Metal &6AllTheModium&r, vamos precisar de &6Bolotas&r de Metal &6AllTheModium&r. \\n\\nPara obter essas, precisaremos visitar &b&lOutro Mundo&r."]
+	quest.4A4CD38007804B1C.quest_subtitle: "O Outro Mundo"
+	quest.4A4CD38007804B1C.title: "As melhores &cPoke&rbolas começam em"
+	quest.52B1A935EBCFA6D0.quest_desc: ["Para fazer nossa &bGrande Bola de Fogo&r, podemos usar nossa &7Câmara de Pressão&r de antes, &6Implantadores&r ou um &cMontador&r. \\n\\nVocê já conhece a &7Câmara de Pressão&r e os &6Implantadores&r. \\n\\nO &cMontador&r precisará de 3 Estruturas de Máquina com ele em um formato 1x2x2 para ligá-lo. Apenas ligue-o e jogue os itens."]
+	quest.52B1A935EBCFA6D0.quest_subtitle: ""
+	quest.52B1A935EBCFA6D0.title: "Fabricando nossa &cBola Fogo"
+	quest.550464B5F7F4F699.quest_desc: ["A &6Pokebola de Allthemodium&r tem uma chance de 4x de capturar qualquer &cPokemon&r. Sem pegadinhas! 4x é o máximo que a maioria das &cPoke&rbolas chega, além da &aQuick&f, &dLove&f e &9Bola Criatura&r. \\n\\nA &3Pokebola de Vibranium&r tem uma chance de 6x com 50x de chance de capturar Lendários. Lendários são o melhor dos melhores &cPokemon&r, também os mais raros, claro. \\n\\nA &5Pokebola de Unobtainium&r tem uma chance de 10x com 100x de chance para Lendários. As únicas &cPokebolas&r que são melhores são a &4Bola Origem&r e..."]
+	quest.550464B5F7F4F699.quest_subtitle: ""
+	quest.550464B5F7F4F699.title: "Bolas de &6Allthemodium &3Vibranium &fe &5Unobtainium&r"
+	quest.5600FEC956AA3752.quest_desc: ["Não se preocupe, a &9Lava da Alma&r não mudou em nenhuma atualização recente! \\n\\nVerifique nas profundezas do subsolo em &b&lOutro Mundo&r ou em Vilas Piglin em &b&lOutro Mundo&r."]
+	quest.5600FEC956AA3752.quest_subtitle: ""
+	quest.5600FEC956AA3752.title: "&9Lava da Alma"
+	quest.5B947A01CB2FA378.quest_desc: [
+		"Como literalmente todos os outros passos, há várias maneiras de formar nossos &7Mecanismos&r. \\n\\nVocê pode usar &6Implantadores&r para bater em uma &7Base de Bola&r primeiro com uma Pepita, depois um &8Eixo&r, depois a outra &7Base de Bola&r para criar um &7Mecanismo&r completo. "
+		"{@pagebreak}"
+		"Também temos a &7Câmara de Pressão&r do &8&lPneumaticCraft&r. \\n\\nVocê precisará de uma Interface de Câmara de Pressão, 2 Válvulas e Paredes ou Vidro de Câmara de Pressão. \\n\\nA Interface é como você coloca pressão na Câmara de Pressão, sim, precisará de Pressão para fabricá-la. \\n\\nAs Válvulas são como os itens entram (pelo lado azul) e saem (pelo lado laranja). \\n\\nAs Paredes ou Vidro preencherão o resto da estrutura, exceto o centro. Esse precisa ser oco."
+		"{@pagebreak}"
+		"O &cMontador&r (diferente da &8Linha de Montagem&r) é perfeito para nossas receitas detalhadas de fabricação 2x2. \\n\\nPrimeiro, precisaremos fazer nossa máquina. Coloque o &cMontador&r com 3 Estruturas de Máquina em um design 1x2x2. Então, clique com o botão direito no &cMontador&r para montá-lo. \\n\\nAgora podemos dar a ele um pouco de &cEnergia&r e ele nos fará nossos &7Mecanismos&r!"
+	]
+	quest.5EEEB61899F66962.quest_desc: ["Se quisermos criar nossas &cPoke&rbolas favoritas, precisaremos usar o &6&lCreate&r! \\n\\nE tudo isso começa com a &7Liga de Andesito&r! \\n\\nSiga a própria página de missões do &6&lCreate&r para entender melhor como o mod funciona."]
+	quest.5EEEB61899F66962.quest_subtitle: ""
+	quest.5EEEB61899F66962.title: "Fabricando &cPoke&fbolas"
+	quest.6294AFDD1123C127.quest_desc: ["A &6Serra Mecânica&r, quando recebe &dEnergia Rotacional&r, pode ser usada para picar diferentes itens. \\n\\nTábuas em Cercas, Pedra em Tijolos, e &6Bolotas&r em &6Metades de Bolotas&r!"]
+	quest.6294AFDD1123C127.title: "Serrando"
+	quest.655FA86A410CE27B.quest_desc: ["Pegando uma de nossas &9Tampas Azuis&r das missões anteriores, podemos fazer uma &9Tampa de Grande Bola&r. \\n\\nImplante 2 &cFragmentos de Bolota Vermelha&r em cima daquela &9Tampa Azul&r para fazer uma &9Tampa de Grande Bola&r. \\n\\nObviamente podemos usar isso para fazer uma &9Grande Bola&r, mas por que não uma &cBola&r ainda melhor que essa! \\n\\nEstou falando da &bGrande Bola de Fogo&r, não de uma Bola Maior..."]
+	quest.655FA86A410CE27B.quest_subtitle: ""
+	quest.655FA86A410CE27B.title: ""
+	quest.668E99B93D0BC405.quest_desc: ["Temos nossas &bTampas&r e nossos &7Mecanismos&r, vamos finalmente fazer nossas &cPoke&rbolas! \\n\\nOs únicos itens extras que precisaremos são uma Tampa Vazia e uma &7Vara de Ferro&r. \\n\\nPodemos usar &6Implantadores&r, uma &7Câmara de Pressão&r ou uma &8Linha de Montagem&r para juntar tudo. Vamos lá, a essa altura você já deve saber como usá-los!"]
+	quest.668E99B93D0BC405.title: "Finalizando nossas &cPoke&rbolas"
+	quest.6A6CD8024A4E9075.quest_desc: ["Em &b&lOutro Mundo&r você encontrará &6Árvores de Bolota&r, só que estas vêm com um tipo diferente de &6Bolota&r! \\n\\n&6Bolotas&r de &6Allthemodium&f, &3Vibranium&f e &5Unobtainium&r! \\n\\nAs &6Árvores&r agem como &6Árvores de Bolota&r normais, você pode colher as &6Bolotas&r brilhantes da &6Árvore&r, cortá-la para obter a madeira e replantá-las para ter mais &6Árvores de Bolota&r."]
+	quest.6A6CD8024A4E9075.title: "&6Bolotas&r de Metal &6&lAllthemodium&r"
+	quest.6CC2B540EE37079E.quest_desc: ["Carimbe-as! \\n\\nConfira as missões de todas as &cPoke&rbolas para ver sobre o Carimbo de Borracha. \\n\\nVocê pode clicar com o botão direito no topo ou na mão do &6Implantador&r para dar a ele um item, como o Carimbo de Borracha. Então, quando estiver trabalhando, ele usará esse carimbo nos itens abaixo dele. \\n\\nOu você pode usar o &7Carimbador CNC&r! Uma máquina do &5&lMekanism&r que usa &cEnergia&r para fazer exatamente a mesma coisa, só que mais fácil."]
+	quest.71436F63681DC98D.quest_desc: ["Com 3 &bGrandes Bolas de Fogo&r, 3 &6Bolas de Allthemodium&r, 2 &6Bolas de Vibranium&r e 1 &6Bola de Unobtainium&r, podemos Fabricar apenas a melhor &cPoke&rbola que existe... a &5&lBola Mestra&r! \\n\\nNão importa o nível, tipo, raridade, etc. do &cPokemon&r, a &5&lBola Mestra&r irá capturá-lo (se ele já não tiver sido capturado). \\n\\nTambém é essencial para fabricar a &6&lATM Star&r!"]
+	quest.71436F63681DC98D.quest_subtitle: ""
+	quest.71436F63681DC98D.title: "&5&lBola Mestra"
+	quest.719739C46C9296DB.quest_desc: ["Existem 3 maneiras de fazer a &bTampa da Grande Bola de Fogo&r. A mais simples é usando o &6&lCreate&r. \\n\\nColoque a &9Tampa de Grande Bola&r sob um &bBico&r para despejar o equivalente a um balde de &9Lava da Alma&r sobre ela. \\n\\nTambém podemos construir uma &dRefinaria&r colocando a &dRefinaria&r com 9 Estruturas de Máquina no padrão mostrado pelos destaques. \\n\\nApenas clique com o botão direito na &dRefinaria&r para ligá-la. Então, uma vez que a &cEnergia&r esteja ligada, a &9Lava da Alma&r tubulada e uma &9Tampa de Grande Bola&r seja colocada, poderemos fazer nossa &bTampa da Grande Bola de Fogo&r. \\n\\nSe contar baldes de fluido for muito difícil, faça uma Câmara de Pressão em vez disso. Lá você pode apenas combinar o &9Balde de Lava da Alma&r com a &9Tampa de Grande Bola&r para fazer a &bTampa da Grande Bola de Fogo&r."]
+	quest.719739C46C9296DB.quest_subtitle: ""
+	quest.719739C46C9296DB.title: "Queimando nossa &9Tampa de Grande Bola"
+	quest.738022A90A534871.quest_desc: [
+		"Para Fabricar nossas &bTampas&r, precisamos de Tampas Vazias, &6Fragmentos de Bolota&r e o equivalente a blocos do Lingote. \\n\\nAssim como usar a &8Linha de Montagem&r da missão anterior, ou &bBicos&r e &6Implantadores&r com o &6&lCreate&r, ou uma &7Câmara de Pressão&r."
+		"{@pagebreak}"
+		"Com o &6&lCreate&r, precisamos usar um &bBico&r para despejar 810mB do Lingote na Tampa Vazia. Isso equivale a 9 Lingotes. \\n\\nDepois, use o &6Implantador&r para bater na tampa com o &6Fragmento de Bolota&r para fazer nossa tampa!"
+		"{@pagebreak}"
+		"A &7Câmara de Pressão&r é do &8&lPneumatic Craft&r, assim como a &8Linha de Montagem&r. \\n\\nA &7Câmara de Pressão&r é uma máquina multibloco. Ela usa Paredes ou Vidro de Câmara de Pressão para compor a maior parte dela. Enquanto as Válvulas são o que recebe Pressão e as Interfaces inserem e retiram itens dos inventários. \\nSe a face Azul estiver fora da &7Câmara de Pressão&r, esta é a Entrada. Se for Laranja, então é a Saída!"
+	]
+	quest.7BFF76B27D398E62.quest_desc: ["Com uma seleção de itens muito estranha, podemos Fabricar o &8Carimbo de Borracha&r! \\n\\nCuriosamente, você não precisa do &6&lCreate&r para fabricá-lo, apenas para usá-lo. \\n\\nEu me pergunto qual é o símbolo que estamos carimbando nas coisas..."]
+	quest.7DE2BE7BE664635D.quest_desc: ["Cada &7Mecanismo&r faz um nível diferente de &cPoke&rbola. \\n\\n&6Cobre&r faz as &cPoke&rbolas padrão, a &aSafari&r e a &dBola Cura&r. \\n\\n&7Ferro&r faz &9Grande Bolas&r e algumas outras como a &3Net&r e &bBola Mergulho&r. \\n\\n&eLatão&r faz &eUltra Bolas&r, &dBolas Amor&r e &6Luxo&r e um pouco mais. \\n\\nO &5Mecanismo de Bola Robusto&r fará &cBolas Sonho&r e &9Criatura&r!"]
+	quest.7DE2BE7BE664635D.title: "&7Mecanismos"
+	task.0C5A61D2FABC7C9D.title: "Metades de Bolotas"
+	task.0CA10BC8DFEC267E.title: "Serras, Cortadores, ETC"
+	task.0F92799F023ADC68.title: "Pokebolas"
+	task.1488109EDE4976CA.title: "Serras, Cortadores e Forjas Atômicas?"
+	task.193A87741AB9481E.title: "Queimando nossa Tampa de Grande Bola"
+	task.2444CD1A3A139F25.title: "Fragmentos de Bolota de Metal Allthemodium"
+	task.288F69BFE9DBC8DD.title: "Bases de Bola de Metal Allthemodium"
+	task.2A53CCA1A4B2C0EB.title: "Prensas, Brocas e Forja Atômica?"
+	task.2D41E9AF59EC8761.title: "Bolotas de Metal Allthemodium"
+	task.2E6A83C5AAD05858.title: "Tampas de Metal Allthemodium"
+	task.319EDB30E4661EBC.title: "Pepitas Carimbadas"
+	task.36E25BD0A9C9F256.title: "Tampas de Bola"
+	task.3C8B3E7B28D3BC2D.title: "Mecanismos de Metal Allthemodium"
+	task.3CF29F07EC67E0C3.title: "Formas de juntar tudo"
+	task.44EC46F0A12902A8.title: "Bases de Bola"
+	task.4FAED006939CFA76.title: "Metades de Bolotas de Metal Allthemodium"
+	task.570B0CD67CEBCDA4.title: "Mecanismos"
+	task.6360546CFC9063DE.title: "Formas de montar tudo"
+	task.6E044F505C894D55.title: "Carimbadores"
+	task.6EF7ED974421B69D.title: "Finalizando nossas Pokebolas"
+	task.707B96130E3A0026.title: "Chapas de Metal Allthemodium"
+	task.711831515BEC4995.title: "Metais Allthemodium"
+	task.72A812162203AFAE.title: "Fragmentos de Bolota"
+	task.7BFD456AF26F90D8.title: "Fabricando nossa Bola Fogo"
+}
