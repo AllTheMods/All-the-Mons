@@ -20,15 +20,12 @@
 	quest.0CE62B46FD2C48FE.quest_desc: ["Cada &7Base de Bola&r precisará ser processada através de &6Implantadores&r. \\n\\nPrimeiro, com uma &7Pepita&r do mesmo material de que a &7Base de Bola&r é feita (ou uma &7Liga de Andesito&r). \\n\\nDepois, com um &8Eixo&r. \\n\\nPor último, com a segunda &7Base de Bola&r! \\n\\nA menos que você esteja usando a &5Chapa Robusta&r, que usa &cQuartzo Rosa&r em vez de uma &7Pepita&r."]
 	quest.0CE62B46FD2C48FE.title: "Implantando"
 	quest.11742FC5C5EDBCBD.quest_desc: ["Agora você pode &l&6Fabricar&r quase qualquer &cBola&r que quiser. Algumas podem ser mais caras! \\n\\nSe você quiser &cBolas Ancestrais&r, precisará usar &8Mecanismos de Bola Ancestral&r e &6Tampas de Bolota de Madeira&r. \\n\\nTodas essas &cBolas&r também são inteiramente idênticas às &cBolas&r normais, apenas você as fez em vez de encontrá-las!"]
-	quest.11742FC5C5EDBCBD.quest_subtitle: ""
 	quest.11742FC5C5EDBCBD.title: "&cPoke&rbolas!"
 	quest.162955874B77F4F6.quest_desc: ["Temos as &bTampas&r e os &7Mecanismos&r, agora só precisamos combinar! \\n\\nOs &7Mecanismos de Bola&r representam cada Nível de Bola. &6Cobre&r é o mais barato, então faz o nível mais baixo, &5Robusto&r é o mais caro, então faz o nível mais alto. \\n\\nDepois, precisamos colocar a &bTampa&r superior primeiro. Geralmente a que tem o nome da &cPoke&rbola. \\n\\nE finalmente a &bTampa&r inferior, que geralmente é uma Tampa de Bola Vazia."]
 	quest.162955874B77F4F6.title: "Combinando tudo para fazer nossa..."
 	quest.173DE446B07004C8.quest_desc: ["A &bGrande Bola de Fogo&r precisará de sua &bTampa&r, uma Tampa Vazia, um &5Mecanismo Robusto&r e uma &7Vara de Ferro&r para ser criada. \\n\\nUma vez que todos sejam combinados através de qualquer processo que você escolher, você finalmente a terá. \\n\\nEsta Bola tem uma Chance de 2x em quase todos os tipos de &cPokemon&r, exceto por 50x para &cTipos Fogo&r e 0x para &bTipos Água&r. \\n\\nÉ, não é a melhor para capturar &bMudkips&r..."]
-	quest.173DE446B07004C8.quest_subtitle: ""
 	quest.173DE446B07004C8.title: "&bGrande Bola de Fogo"
 	quest.179C2D15E2E93CB6.quest_desc: ["Meio que parece que tem dois olhos... \\n\\nDois olhos furiosos..."]
-	quest.179C2D15E2E93CB6.quest_subtitle: ""
 	quest.179C2D15E2E93CB6.title: "&bTampa da Grande Bola de Fogo"
 	quest.17FFBED5CC92ACF0.quest_desc: ["Usando um &6Implantador&r, podemos empurrar os &8Carimbos de Borracha&r em algumas &7Pepitas&r para carimbá-las! \\n\\nIsso será necessário para fazer os &7Mecanismos&r. \\n\\nA &5Chapa Robusta&r é feita processando &5Pó de Obsidiana&r primeiro despejando &cLava&r sobre ele e depois prensando-o, duas vezes!"]
 	quest.17FFBED5CC92ACF0.title: "&7Pepitas Carimbadas"
@@ -69,13 +66,10 @@
 	quest.4A4CD38007804B1C.quest_subtitle: "O Outro Mundo"
 	quest.4A4CD38007804B1C.title: "As melhores &cPoke&rbolas começam em"
 	quest.52B1A935EBCFA6D0.quest_desc: ["Para fazer nossa &bGrande Bola de Fogo&r, podemos usar nossa &7Câmara de Pressão&r de antes, &6Implantadores&r ou um &cMontador&r. \\n\\nVocê já conhece a &7Câmara de Pressão&r e os &6Implantadores&r. \\n\\nO &cMontador&r precisará de 3 Estruturas de Máquina com ele em um formato 1x2x2 para ligá-lo. Apenas ligue-o e jogue os itens."]
-	quest.52B1A935EBCFA6D0.quest_subtitle: ""
 	quest.52B1A935EBCFA6D0.title: "Fabricando nossa &cBola Fogo"
 	quest.550464B5F7F4F699.quest_desc: ["A &6Pokebola de Allthemodium&r tem uma chance de 4x de capturar qualquer &cPokemon&r. Sem pegadinhas! 4x é o máximo que a maioria das &cPoke&rbolas chega, além da &aQuick&f, &dLove&f e &9Bola Criatura&r. \\n\\nA &3Pokebola de Vibranium&r tem uma chance de 6x com 50x de chance de capturar Lendários. Lendários são o melhor dos melhores &cPokemon&r, também os mais raros, claro. \\n\\nA &5Pokebola de Unobtainium&r tem uma chance de 10x com 100x de chance para Lendários. As únicas &cPokebolas&r que são melhores são a &4Bola Origem&r e..."]
-	quest.550464B5F7F4F699.quest_subtitle: ""
 	quest.550464B5F7F4F699.title: "Bolas de &6Allthemodium &3Vibranium &fe &5Unobtainium&r"
 	quest.5600FEC956AA3752.quest_desc: ["Não se preocupe, a &9Lava da Alma&r não mudou em nenhuma atualização recente! \\n\\nVerifique nas profundezas do subsolo em &b&lOutro Mundo&r ou em Vilas Piglin em &b&lOutro Mundo&r."]
-	quest.5600FEC956AA3752.quest_subtitle: ""
 	quest.5600FEC956AA3752.title: "&9Lava da Alma"
 	quest.5B947A01CB2FA378.quest_desc: [
 		"Como literalmente todos os outros passos, há várias maneiras de formar nossos &7Mecanismos&r. \\n\\nVocê pode usar &6Implantadores&r para bater em uma &7Base de Bola&r primeiro com uma Pepita, depois um &8Eixo&r, depois a outra &7Base de Bola&r para criar um &7Mecanismo&r completo. "
@@ -85,23 +79,18 @@
 		"O &cMontador&r (diferente da &8Linha de Montagem&r) é perfeito para nossas receitas detalhadas de fabricação 2x2. \\n\\nPrimeiro, precisaremos fazer nossa máquina. Coloque o &cMontador&r com 3 Estruturas de Máquina em um design 1x2x2. Então, clique com o botão direito no &cMontador&r para montá-lo. \\n\\nAgora podemos dar a ele um pouco de &cEnergia&r e ele nos fará nossos &7Mecanismos&r!"
 	]
 	quest.5EEEB61899F66962.quest_desc: ["Se quisermos criar nossas &cPoke&rbolas favoritas, precisaremos usar o &6&lCreate&r! \\n\\nE tudo isso começa com a &7Liga de Andesito&r! \\n\\nSiga a própria página de missões do &6&lCreate&r para entender melhor como o mod funciona."]
-	quest.5EEEB61899F66962.quest_subtitle: ""
 	quest.5EEEB61899F66962.title: "Fabricando &cPoke&fbolas"
 	quest.6294AFDD1123C127.quest_desc: ["A &6Serra Mecânica&r, quando recebe &dEnergia Rotacional&r, pode ser usada para picar diferentes itens. \\n\\nTábuas em Cercas, Pedra em Tijolos, e &6Bolotas&r em &6Metades de Bolotas&r!"]
 	quest.6294AFDD1123C127.title: "Serrando"
 	quest.655FA86A410CE27B.quest_desc: ["Pegando uma de nossas &9Tampas Azuis&r das missões anteriores, podemos fazer uma &9Tampa de Grande Bola&r. \\n\\nImplante 2 &cFragmentos de Bolota Vermelha&r em cima daquela &9Tampa Azul&r para fazer uma &9Tampa de Grande Bola&r. \\n\\nObviamente podemos usar isso para fazer uma &9Grande Bola&r, mas por que não uma &cBola&r ainda melhor que essa! \\n\\nEstou falando da &bGrande Bola de Fogo&r, não de uma Bola Maior..."]
-	quest.655FA86A410CE27B.quest_subtitle: ""
-	quest.655FA86A410CE27B.title: ""
 	quest.668E99B93D0BC405.quest_desc: ["Temos nossas &bTampas&r e nossos &7Mecanismos&r, vamos finalmente fazer nossas &cPoke&rbolas! \\n\\nOs únicos itens extras que precisaremos são uma Tampa Vazia e uma &7Vara de Ferro&r. \\n\\nPodemos usar &6Implantadores&r, uma &7Câmara de Pressão&r ou uma &8Linha de Montagem&r para juntar tudo. Vamos lá, a essa altura você já deve saber como usá-los!"]
 	quest.668E99B93D0BC405.title: "Finalizando nossas &cPoke&rbolas"
 	quest.6A6CD8024A4E9075.quest_desc: ["Em &b&lOutro Mundo&r você encontrará &6Árvores de Bolota&r, só que estas vêm com um tipo diferente de &6Bolota&r! \\n\\n&6Bolotas&r de &6Allthemodium&f, &3Vibranium&f e &5Unobtainium&r! \\n\\nAs &6Árvores&r agem como &6Árvores de Bolota&r normais, você pode colher as &6Bolotas&r brilhantes da &6Árvore&r, cortá-la para obter a madeira e replantá-las para ter mais &6Árvores de Bolota&r."]
 	quest.6A6CD8024A4E9075.title: "&6Bolotas&r de Metal &6&lAllthemodium&r"
 	quest.6CC2B540EE37079E.quest_desc: ["Carimbe-as! \\n\\nConfira as missões de todas as &cPoke&rbolas para ver sobre o Carimbo de Borracha. \\n\\nVocê pode clicar com o botão direito no topo ou na mão do &6Implantador&r para dar a ele um item, como o Carimbo de Borracha. Então, quando estiver trabalhando, ele usará esse carimbo nos itens abaixo dele. \\n\\nOu você pode usar o &7Carimbador CNC&r! Uma máquina do &5&lMekanism&r que usa &cEnergia&r para fazer exatamente a mesma coisa, só que mais fácil."]
-	quest.71436F63681DC98D.quest_desc: ["Com 3 &bGrandes Bolas de Fogo&r, 3 &6Bolas de Allthemodium&r, 2 &6Bolas de Vibranium&r e 1 &6Bola de Unobtainium&r, podemos Fabricar apenas a melhor &cPoke&rbola que existe... a &5&lBola Mestra&r! \\n\\nNão importa o nível, tipo, raridade, etc. do &cPokemon&r, a &5&lBola Mestra&r irá capturá-lo (se ele já não tiver sido capturado). \\n\\nTambém é essencial para fabricar a &6&lATM Star&r!"]
-	quest.71436F63681DC98D.quest_subtitle: ""
+	quest.71436F63681DC98D.quest_desc: ["Não importa o nível, tipo, raridade, etc. do &cPokemon&r, a &5&lBola Mestra&r irá capturá-lo (se ele já não tiver sido capturado). \\n\\nTambém é essencial para fabricar a &6&lATM Star&r!"]
 	quest.71436F63681DC98D.title: "&5&lBola Mestra"
 	quest.719739C46C9296DB.quest_desc: ["Existem 3 maneiras de fazer a &bTampa da Grande Bola de Fogo&r. A mais simples é usando o &6&lCreate&r. \\n\\nColoque a &9Tampa de Grande Bola&r sob um &bBico&r para despejar o equivalente a um balde de &9Lava da Alma&r sobre ela. \\n\\nTambém podemos construir uma &dRefinaria&r colocando a &dRefinaria&r com 9 Estruturas de Máquina no padrão mostrado pelos destaques. \\n\\nApenas clique com o botão direito na &dRefinaria&r para ligá-la. Então, uma vez que a &cEnergia&r esteja ligada, a &9Lava da Alma&r tubulada e uma &9Tampa de Grande Bola&r seja colocada, poderemos fazer nossa &bTampa da Grande Bola de Fogo&r. \\n\\nSe contar baldes de fluido for muito difícil, faça uma Câmara de Pressão em vez disso. Lá você pode apenas combinar o &9Balde de Lava da Alma&r com a &9Tampa de Grande Bola&r para fazer a &bTampa da Grande Bola de Fogo&r."]
-	quest.719739C46C9296DB.quest_subtitle: ""
 	quest.719739C46C9296DB.title: "Queimando nossa &9Tampa de Grande Bola"
 	quest.738022A90A534871.quest_desc: [
 		"Para Fabricar nossas &bTampas&r, precisamos de Tampas Vazias, &6Fragmentos de Bolota&r e o equivalente a blocos do Lingote. \\n\\nAssim como usar a &8Linha de Montagem&r da missão anterior, ou &bBicos&r e &6Implantadores&r com o &6&lCreate&r, ou uma &7Câmara de Pressão&r."

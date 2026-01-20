@@ -62,8 +62,10 @@
 	quest.6E780D295717056D.title: "&cPedra do Fogo"
 	quest.7A4A07325C00A238.quest_desc: ["&9Slow&dpoke&r é muito similar ao &cCharcadet&r, ambos têm 2 &bEvoluções&r diferentes que podem obter com Itens. \\n\\Dando ao &9Slow&dpoke&r um &6Glarica Cuff&r, você obterá um &9Slow&dbro&r. \\n\\nUse uma &6Glarica Wreath&r em vez disso e você obterá um &9Slow&dking&r!"]
 	quest.7A4A07325C00A238.title: "Itens de &bEvolução&r do &9Slow&dpoke"
+	task.09E7D93E692CB782.title: "Suba para o nível 15"
 	task.2FF61E9EBBEDE7EF.title: "Itens de &3Troca&r"
 	task.47E6E6B51447C8DC.title: "Itens de &bEvolução&r do Slowpoke"
 	task.48230014D8628136.title: "Itens de &bEvolução&r de Milcrey"
 	task.6097F6DEBA79FDF0.title: "Itens de &bEvolução&r do Charcadet"
+	task.6D8B0FFD3F4C0BCB.title: "Evolua um Pokémon"
 }
