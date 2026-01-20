@@ -1,0 +1,200 @@
+{
+  "name": "Joeychin01",
+  "identity": "Joeychin01",
+  "battleFormat":"GEN_9_DOUBLES",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "timid",
+      "ability": "solarpower",
+      "moveset": [
+        "solarbeam",
+        "heatwave",
+        "tailwind",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "mega_showdown:charizardite_y",
+        "leftovers"
+      ]
+    }, 
+    {
+      "species": "fluttermane",
+      "gender": "GENDERLESS",
+      "level": 95,
+      "nature": "timid",
+      "ability": "protosynthesis",
+      "moveset": [
+        "moonblast",
+        "dazzlinggleam",
+        "shadowball",
+        "icywind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "choice_specs"
+      ]
+    }, 
+    {
+      "species": "rillaboom",
+      "gender": "MALE",
+      "level": 95,
+      "nature": "adamant",
+      "ability": "grassysurge",
+      "moveset": [
+        "fakeout",
+        "grassyglide",
+        "woodhammer",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "hp": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    }, 
+    {
+      "species": "ragingbolt",
+      "gender": "GENDERLESS",
+      "level": 95,
+      "nature": "modest",
+      "ability": "protosynthesis",
+      "moveset": [
+        "thunderbolt",
+        "thunderclap",
+        "dracometeor",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }, 
+    {
+      "species": "ogerpon",
+      "gender": "FEMALE",
+      "aspects": [
+        "hearthflame-mask"
+      ],
+      "level": 95,
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "followme",
+        "ivycudgel",
+        "grassyglide",
+        "spikyshield"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "mega_showdown:hearthflame_mask"
+      ]
+    }, 
+    {
+      "species": "greattusk",
+      "gender": "GENDERLESS",
+      "level": 95,
+      "nature": "adamant",
+      "ability": "protosynthesis",
+      "moveset": [
+        "headlongrush",
+        "closecombat",
+        "roar",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    }
+  ]
+}
