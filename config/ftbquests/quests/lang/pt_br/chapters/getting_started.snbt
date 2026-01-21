@@ -26,7 +26,7 @@
 	quest.22B99F88295EC967.quest_desc: ["&9Subir o Nível&r dos &cPokemon&r os tornará mais fortes em múltiplos atributos e será necessário para certos Golpes e Evoluções. \\n\\n&cPokemon&r ganham &9Experiência&r toda vez que Vencem uma Batalha, mais contra &4Treinadores&r. Também ao Capturar outros &cPokemons&r. \\n\\nVocê pode verificar quanta &9Experiência&r o &cPokemon&r tem ou precisa para Subir de Nível no Menu da Equipe!"]
 	quest.22B99F88295EC967.title: "Subindo o nível do seu &cPokemon"
 	quest.22FCEAECFBC734DD.quest_desc: ["Árvores de &6Bolotas&r aparecem em toda parte! Apenas bem raras. \\n\\nElas são do mesmo tamanho que Carvalhos, com Folhas &eAmarelas &6Amarronzadas&r e Troncos &6Marrons&r. \\n\\nNas Folhas, &6Bolotas&r irão Brotar. Uma vez Maduros, você pode Clicar com o Botão Direito neles para Colher. \\n\\nExistem 7 &6Bolotas&r: &cVermelho&f, &eAmarelo&f, &aVerde&f, &bAzul&f, &dRosa&f, &0Preto&r, e Branco. A Cor importa para outras Receitas."]
-	quest.22FCEAECFBC734DD.quest_subtitle: "Não Apricot, isso é diferente!"
+	quest.22FCEAECFBC734DD.quest_subtitle: "Não Bolota, isso é diferente!"
 	quest.22FCEAECFBC734DD.title: "&6Bolota"
 	quest.23DAF5129F244C2C.quest_desc: ["&nForte&r \\n\\n&cFogo&r \\n&6Terra&r \\n&6Pedra&r \\n\\n&nVulnerável&r \\n\\n&eElétrico&r \\n&2Grama&r"]
 	quest.23DAF5129F244C2C.title: "&bÁgua"
