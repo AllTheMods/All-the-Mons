@@ -5,6 +5,8 @@
 	quest.0328E5E416D0F785.title: "&cFogo"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remédio&r é feito Fundindo uma Raiz Grande. \\n\\nÉ um Item que pode ser dado a um &cPokemon&r dentro ou fora da Batalha para restaurar Vida (não em troca de &dAmizade&r). \\n\\nVocê pode Criar com ele para fazer &6Remédios&r ainda melhores!"]
 	quest.0338E3A881A6DD98.title: "&6Remédio"
+	quest.0EE5B550E4752CF2.quest_desc: ["O Ditto é um verdadeiro casanova, todos o amam! \\n\\nO Ditto pode ser usado para &dCruzar&r com qualquer &cPokemon&r que possa &dCruzar&r, servindo como substituto para um &cPokemon&r ausente. Ele pode até &dCruzar&r com alguns &cPokemon&r que normalmente não podem! \\n\\nQuando você usa um Ditto, o &cOvo&r será da mesma espécie que o &cPokemon&r com o qual o Ditto &dcruzou&r."]
+	quest.0EE5B550E4752CF2.title: "&dCruzamento&r com Ditto"
 	quest.0FAAA8628228ABA4.quest_desc: ["&nForte&r \\n\\n&8Sombrio&r \\n&2Grama&r \\n&dPsíquico&r \\n\\n&nVulnerável&r \\n\\n&cFogo&r \\n&9Voador&r \\n&6Pedra&r"]
 	quest.0FAAA8628228ABA4.title: "&aInseto"
 	quest.10C1718C792F3ABB.quest_desc: [
@@ -23,11 +25,14 @@
 	quest.211A39A0881A4E1A.title: "&cPokemon&r Ancestral"
 	quest.22B99F88295EC967.quest_desc: ["&9Subir o Nível&r dos &cPokemon&r os tornará mais fortes em múltiplos atributos e será necessário para certos Golpes e Evoluções. \\n\\n&cPokemon&r ganham &9Experiência&r toda vez que Vencem uma Batalha, mais contra &4Treinadores&r. Também ao Capturar outros &cPokemons&r. \\n\\nVocê pode verificar quanta &9Experiência&r o &cPokemon&r tem ou precisa para Subir de Nível no Menu da Equipe!"]
 	quest.22B99F88295EC967.title: "Subindo o nível do seu &cPokemon"
-	quest.22FCEAECFBC734DD.quest_desc: ["Árvores de &6Apricorn&r aparecem em toda parte! Apenas bem raras. \\n\\nElas são do mesmo tamanho que Carvalhos, com Folhas &eAmarelas &6Amarronzadas&r e Troncos &6Marrons&r. \\n\\nNas Folhas, &6Apricorns&r irão Brotar. Uma vez Maduros, você pode Clicar com o Botão Direito neles para Colher. \\n\\nExistem 7 &6Apricorns&r: &cVermelho&f, &eAmarelo&f, &aVerde&f, &bAzul&f, &dRosa&f, &0Preto&r, e Branco. A Cor importa para outras Receitas."]
+	quest.22FCEAECFBC734DD.quest_desc: ["Árvores de &6Bolotas&r aparecem em toda parte! Apenas bem raras. \\n\\nElas são do mesmo tamanho que Carvalhos, com Folhas &eAmarelas &6Amarronzadas&r e Troncos &6Marrons&r. \\n\\nNas Folhas, &6Bolotas&r irão Brotar. Uma vez Maduros, você pode Clicar com o Botão Direito neles para Colher. \\n\\nExistem 7 &6Bolotas&r: &cVermelho&f, &eAmarelo&f, &aVerde&f, &bAzul&f, &dRosa&f, &0Preto&r, e Branco. A Cor importa para outras Receitas."]
 	quest.22FCEAECFBC734DD.quest_subtitle: "Não Apricot, isso é diferente!"
-	quest.22FCEAECFBC734DD.title: "&6Apricorn"
+	quest.22FCEAECFBC734DD.title: "&6Bolota"
 	quest.23DAF5129F244C2C.quest_desc: ["&nForte&r \\n\\n&cFogo&r \\n&6Terra&r \\n&6Pedra&r \\n\\n&nVulnerável&r \\n\\n&eElétrico&r \\n&2Grama&r"]
 	quest.23DAF5129F244C2C.title: "&bÁgua"
+	quest.25CDC402800CA4D1.quest_desc: ["Ei, os &cPokemon&r têm que vir de algum lugar! \\n\\nSe 2 &cPokemon&r estiverem vagando em um &6Pasto&r, eles podem &dCruzar&r. Mas existem muitos requisitos antes que possam fazer isso. \\n\\nPrimeiro, precisaremos de um &bMacho &fe uma &dFêmea&r para &dCruzar&r. O bebê &cPokemon&r virá de um &cOvo Pokemon&r e será da mesma espécie que a &dMãe&r. \\n\\nAmbos os &cPokemons&r precisarão estar no mesmo \"Grupo de Ovos\". Use a Wiki, eu não vou listar cada &cPokemon&r um por um! \\n\\nPor último, existem alguns atributos e &cPokemon&r específicos que não podem &dCruzar&r... \\n\\nSe você cumprir todos os requisitos, a &cPokemon &dFêmea&r botará um &cOvo&r de vez em quando!"]
+	quest.25CDC402800CA4D1.quest_subtitle: "Os Delibirds e os Beedrills"
+	quest.25CDC402800CA4D1.title: "&dCruzamento&r de &cPokemon&r"
 	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &bÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\" \\n\\n(&bMudkip&r é o meu favorito!)"]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nForte&r \\n\\n&9Voador&r \\n&bÁgua&r \\n\\n&nVulnerável&r \\n\\n&6Terra&r"]
@@ -94,7 +99,7 @@
 	quest.7B758074DB4BD138.title: "&cPok&fe&cdex"
 	quest.7D0F4EF83BA40D66.quest_desc: ["&nForte&r \\n\\n&9Dragão&r \\n&9Voador&r \\n&2Grama&r \\n&6Terra&r \\n\\n&nVulnerável&r \\n\\n&4Lutador&r \\n&cFogo&r \\n&6Pedra&r \\n&7Aço&r"]
 	quest.7D0F4EF83BA40D66.title: "&bGelo"
-	task.06D7446522B1CF78.title: "Apricorns"
+	task.06D7446522B1CF78.title: "Bolotas"
 	task.4E9620F93F7144CB.title: "Pokedex"
 	task.55EC49744EF03C63.title: "Pokebolas"
 }
