@@ -24,7 +24,7 @@
 	quest.47043AF7D1FABC43.quest_desc: ["A &bMesa de Desencantamento&r é provavelmente a Dica mais útil aqui. \\n\\nSimplesmente coloque um Item Encantado no Slot Esquerdo e um Livro no Slot do Meio. Então, os Encantamentos irão para o Slot Direito em forma de Livro! \\n\\nVocê também pode usar Livros Encantados em vez do Item para dividir seus Encantamentos."]
 	quest.47043AF7D1FABC43.title: "&l&bMesa de Desencantamento"
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adiciona &7Gavetas&r que podem conter várias pilhas de um item. Elas podem ser aprimoradas para conter ainda mais pilhas!\\n\\nIsso é ótimo para itens que você obtém em grande quantidade, como Pedregulho ou Sementes!"]
-	quest.5EE945A1185E8336.quest_subtitle: "Storage Gavetas?"
+	quest.5EE945A1185E8336.quest_subtitle: "Armazenamento em Gavetas?"
 	quest.5EE945A1185E8336.title: "&l&7Functional Storage&r"
 	quest.637981B64BBE0D92.quest_desc: ["A &aEstação de Carregamento&r é um Bloco muito útil no início do jogo. \\n\\nÉ claramente usada para carregar Itens. Ou canalize Energia ou use Combustível de Fornalha para gerar Energia na forma de FE. \\n\\nEntão, você pode colocar qualquer Item que precise ser carregado no Slot mais à direita."]
 	quest.637981B64BBE0D92.title: "&l&aCarregando Dispositivos"
