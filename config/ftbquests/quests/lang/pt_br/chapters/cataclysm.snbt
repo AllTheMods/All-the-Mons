@@ -53,7 +53,7 @@
 	quest.2011638351B67396.quest_desc: ["Com 2 &9Essência da Tempestade&r e 3 &9Lacrima&r podemos criar &9Astrape&r. \\n\\n&9Astrape&r é uma combinação das Armas usadas pelo &9Hippocamtus&r e &9Cindaria&r. \\n\\nEla pode esfaquear como um Tridente, só que com mais Dano e Alcance. Além disso, você pode Segurar o Clique Direito para lançar &9Lanças de Raios&r, assim como o &9Cindaria&r! \\n\\nAs &9Lanças de Raios&r ainda ricocheteiam nas Paredes! Só que agora com um Tempo de Recarga..."]
 	quest.2011638351B67396.title: "&9Astrape"
 	quest.21A0FD474FBB49F7.quest_desc: [
-		"Outra estrutura para cobrir a aridez do &5Fim&r, a &dCidadela em Ruínas&r. \\n\\nA &dCidadela em Ruínas&r é um palácio de &5Obsidiana&r, Pedra do End e &dPurpur&r. \\n\\nNo palácio, você encontrará Baús, Caixas de Shulker, Shulkers e até a única &dPedra do Vazio&r! \\n\\nSó tome cuidado com os já mencionados Shulkers, &dEndermaptera&r e &dGolems do End&r."
+		"Outra estrutura para cobrir a aridez do &5End&r, a &dCidadela em Ruínas&r. \\n\\nA &dCidadela em Ruínas&r é um palácio de &5Obsidiana&r, Pedra do End e &dPurpur&r. \\n\\nNo palácio, você encontrará Baús, Caixas de Shulker, Shulkers e até a única &dPedra do Vazio&r! \\n\\nSó tome cuidado com os já mencionados Shulkers, &dEndermaptera&r e &dGolems do End&r."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_citadel.png width:200 height:100 align:center}"
 	]
 	quest.21A0FD474FBB49F7.title: "&dCidadela em Ruínas&r: Lar do &d&lGuardião do End&r"

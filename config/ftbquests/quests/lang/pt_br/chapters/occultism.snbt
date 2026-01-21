@@ -326,9 +326,9 @@
 	quest.690B89D23134B624.quest_desc: [
 		"Pegue seus Gizes, desenhe seu ritual de &dContato de Ronaza&r e prepare-se para criar o GIZ DEFINITIVO!"
 		""
-		"Em vez de ter que carregar um conjunto completo de 16 Gizes, você pode usar o Giz Arco-Íris para pintar uma Runa que muda de cor e que conta como qualquer um deles! "
+		"Em vez de ter que carregar um conjunto completo de 16 Gizes, você pode usar o &zGiz Arco-Íris&r para pintar uma Runa que muda de cor e que conta como qualquer um deles! "
 	]
-	quest.690B89D23134B624.title: "&fGiz &cAr&6c&eo-&aí&9r&5i&ds&r"
+	quest.690B89D23134B624.title: "O &zGiz Arco-Íris&r"
 	quest.6C1BBA559963B3DF.quest_desc: [
 		"O &aDicionário dos Espíritos&r serve como o Livro Guia para o &dOccultism&r. Você absolutamente precisará fazer isso se quiser continuar com o mod!"
 		""
