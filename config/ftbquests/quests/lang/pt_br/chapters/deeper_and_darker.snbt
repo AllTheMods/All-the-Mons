@@ -18,7 +18,7 @@
 		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
 	]
 	quest.0B11EAB8D76529E0.title: "Visite uma &6Cidade Ancestral&r"
-	quest.0B718FC37699B822.quest_desc: ["As &aToras de Eco&r são feitas de &aÁrvores de Eco&r que aparecem na &5Floresta Ecoante&r... há um eco aqui, por que ouço tanto isso? \\n\\nAs &aÁrvores de Eco&r têm &5Folhas Roxas&r e Brilho de Sculk dentro delas. Enquanto suas Toras têm uma &7Casca Cinza Clara&r e uma cor de &aTora Verde muito Clara&r. \\n\\nTodas as Tábuas e Itens de Madeira feitos a partir dela são todos da &aCor Verde Clara&r, quase como Menta. \\n\\nOs Alçapões e as Portas têm padrões únicos e legais!"]
+	quest.0B718FC37699B822.quest_desc: ["Os &aTroncos de Eco&r são feitas de &aÁrvores de Eco&r que aparecem na &5Floresta Ecoante&r... há um eco aqui, por que ouço tanto isso? \\n\\nAs &aÁrvores de Eco&r têm &5Folhas Roxas&r e Brilho de Sculk dentro delas. Enquanto suas Toras têm uma &7Casca Cinza Clara&r e uma cor de &aTronco Verde muito Clara&r. \\n\\nTodas as Tábuas e Itens de Madeira feitos a partir dela são todos da &aCor Verde Clara&r, quase como Menta. \\n\\nOs Alçapões e as Portas têm padrões únicos e legais!"]
 	quest.0B718FC37699B822.title: "&aÁrvores de Eco"
 	quest.10E025288BB00657.quest_desc: [
 		"Os &bLodos&r aparecem nas &bCavernas Floridas&r e agem como Slimes! \\n\\nSua maior forma tem 8 &4Corações&r e causa muito Dano. Ao morrer, eles gerarão 2-4 &bLodos&r Médios. \\n\\nSuas formas médias têm 2 &4Corações&r e causam muito menos Dano. Ao morrer, eles gerarão 2-4 &bLodos&r pequenos. \\n\\nA forma pequena tem apenas meio &4Coração de Vida&r e não causará nenhum Dano."

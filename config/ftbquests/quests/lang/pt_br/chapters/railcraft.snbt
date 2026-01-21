@@ -69,7 +69,7 @@
 	quest.365D4B1DC953D406.quest_desc: ["O Dispensador de &7Carrinhos&r fará o que o nome sugere. Ele pode dispensar quaisquer &7Carrinhos&r nos &6Trilhos&r à sua frente. Precisa de um sinal de Redstone para dispensar."]
 	quest.365D4B1DC953D406.title: "Dispensador de &7Carrinhos&r"
 	quest.38451B61E3FC075B.quest_desc: [
-		"Espere, temos Aço novamente, isso também significa que temos nosso Coque (de Carvão) de volta? Sim! \\nPara obter Coque (de Carvão), você precisará de um Forno de Coque. Para fazer um, você precisará de 26 Tijolos de Forno de Coque e colocá-los em 3x3x3 com 1 bloco oco no centro. Você saberá que está pronto quando puder acessar a INTERFACE e for tudo uma única textura. \\n\\nColoque Carvão ou Blocos de Carvão para obter Coque (de Carvão) e Creosoto Líquido! Você sempre pode colocar qualquer tora para obter Carvão Vegetal e Creosoto."
+		"Espere, temos Aço novamente, isso também significa que temos nosso Coque (de Carvão) de volta? Sim! \\nPara obter Coque (de Carvão), você precisará de um Forno de Coque. Para fazer um, você precisará de 26 Tijolos de Forno de Coque e colocá-los em 3x3x3 com 1 bloco oco no centro. Você saberá que está pronto quando puder acessar a INTERFACE e for tudo uma única textura. \\n\\nColoque Carvão ou Blocos de Carvão para obter Coque (de Carvão) e Creosoto Líquido! Você sempre pode colocar qualquer tronco para obter Carvão Vegetal e Creosoto."
 		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
 	]
 	quest.38451B61E3FC075B.title: "Forno de Coque"
