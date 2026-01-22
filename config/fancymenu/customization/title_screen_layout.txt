@@ -149,7 +149,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 938df502-06c9-4499-a6ea-42aef4483028-1756739563497
-  [executable_action_instance:ad0c6c54-a51c-4e7b-85b2-5016bf1a4e93-1756739645241][action_type:openlink] = http://akliz.net/allthemods
+  [executable_action_instance:ad0c6c54-a51c-4e7b-85b2-5016bf1a4e93-1756739645241][action_type:openlink] = http://akliz.net/allthemons
   [executable_block:938df502-06c9-4499-a6ea-42aef4483028-1756739563497][type:generic] = [executables:ad0c6c54-a51c-4e7b-85b2-5016bf1a4e93-1756739645241;]
   backgroundnormal = [source:local]/config/fancymenu/assets/akliz_gray.png
   backgroundhovered = [source:local]/config/fancymenu/assets/akliz_color.png

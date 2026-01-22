@@ -1,6 +1,7 @@
 {
   "name": "Joeychin01",
   "identity": "Joeychin01",
+  "battleFormat": "GEN_9_DOUBLES",
   "ai": {
     "type": "rct",
     "data": {

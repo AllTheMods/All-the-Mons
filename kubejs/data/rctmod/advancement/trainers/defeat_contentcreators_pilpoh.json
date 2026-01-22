@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "defeat_contentcreators_pilpoh": {
+      "conditions": {
+        "count": 1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [
+          "contentcreators_pilpoh"
+        ],
+        "trainer_type": null
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_contentcreators_pilpoh.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_contentcreators_pilpoh.title"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_contentcreators_mitinhoplayer",
+  "requirements": [
+    [
+      "defeat_contentcreators_pilpoh"
+    ]
+  ]
+}

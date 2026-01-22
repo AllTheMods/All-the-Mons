@@ -17,29 +17,185 @@
     }
   ],
   "team": [
-  {
-    "species": "magikarp",
-    "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "splash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "sceptile",
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": [
+        "leafstorm",
+        "gigadrain",
+        "focusblast",
+        "hiddenpower"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 30,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "tyranitar",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "stoneedge",
+        "crunch",
+        "earthquake",
+        "dragondance"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "lum_berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "heldItem": "choice_specs"
-  }
-]
+    {
+      "species": "salamence",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "outrage",
+        "earthquake",
+        "roost"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "milotic",
+      "nature": "bold",
+      "ability": "competitive",
+      "moveset": [
+        "scald",
+        "recover",
+        "icebeam",
+        "toxic"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "shedinja",
+      "nature": "adamant",
+      "ability": "wonderguard",
+      "moveset": [
+        "shadowclaw",
+        "xscissor",
+        "willowisp",
+        "protect"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 0,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "wailord",
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": [
+        "waterspout",
+        "hydropump",
+        "icebeam",
+        "hiddenpower"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 0,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_specs",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 30,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
 }

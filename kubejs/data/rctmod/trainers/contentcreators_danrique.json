@@ -18,13 +18,16 @@
   ],
   "team": [
   {
-    "species": "magikarp",
+    "species": "arcanine",
     "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
+    "level": 100,
+    "nature": "jolly",
+    "ability": "rockhead",
     "moveset": [
-      "splash"
+      "headsmash",
+      "flareblitz",
+      "extremespeed",
+      "closecombat"
     ],
     "ivs": {
       "hp": 31,
@@ -35,11 +38,154 @@
       "spe": 31
     },
     "evs": {
-      "hp": 4,
-      "spa": 252,
+      "atk": 252,
+      "spd": 4,
       "spe": 252
     },
-    "heldItem": "choice_specs"
+    "heldItem": "life_orb",
+    "aspects": ["hisuian"],
+    "gimmicks": {"tera": "normal"}
+  },
+  {
+    "species": "toxapex",
+    "gender": "FEMALE",
+    "level": 100,
+    "nature": "calm",
+    "ability": "regenerator",
+    "moveset": [
+      "scald",
+      "knockoff",
+      "banefulbunker",
+      "recover"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spd": 220,
+      "def": 36
+    },
+    "heldItem": "black_sludge",
+    "gimmicks": {"tera": "poison"}
+  },
+  {
+    "species": "metagross",
+    "gender": "GENDERLESS",
+    "level": 100,
+    "nature": "adamant",
+    "ability": "clearbody",
+    "moveset": [
+      "heavyslam",
+      "earthquake",
+      "thunderpunch",
+      "bulletpunch"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "atk": 252,
+      "spd": 4,
+      "spe": 252
+    },
+    "heldItem": "choice_band",
+    "gimmicks": {"tera": "steel"}
+  },
+  {
+    "species": "rotom",
+    "gender": "GENDERLESS",
+    "level": 100,
+    "nature": "bold",
+    "ability": "levitate",
+    "moveset": [
+      "hydropump",
+      "voltswitch",
+      "defog",
+      "willowisp"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 248,
+      "def": 204,
+      "spe": 56
+    },
+    "heldItem": "leftovers",
+    "aspects": ["wash"],
+    "gimmicks": {"tera": "electric"}
+  },
+  {
+    "species": "ferrothorn",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "sassy",
+    "ability": "ironbarbs",
+    "moveset": [
+      "powerwhip",
+      "spikes",
+      "leechseed",
+      "knockoff"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 248,
+      "def": 8,
+      "spd": 252
+    },
+    "heldItem": "rocky_helmet",
+    "gimmicks": {"tera": "water"}
+  },
+  {
+    "species": "dragapult",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "timid",
+    "ability": "infiltrator",
+    "moveset": [
+      "dracometeor",
+      "shadowball",
+      "flamethrower",
+      "thunderbolt"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "spa": 252,
+      "def": 4,
+      "spe": 252
+    },
+    "heldItem": "choice_specs",
+    "gimmicks": {"tera": "dragon"}
   }
 ]
 }

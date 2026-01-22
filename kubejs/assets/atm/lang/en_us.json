@@ -11,5 +11,21 @@
 	"series.rctmod.contentcreators.title": "Content Creators Team",	
 	"kubejs.atm.click_here": "Click here to dismiss",
 	"announcements.atm.dismiss_up_to_version": "[Dismiss announcements up to version %s]",
-	"announcements.atm.dismissed_up_to_version": "Dismissed announcements up to version %s!"
+	"announcements.atm.dismissed_up_to_version": "Dismissed announcements up to version %s!",
+	"advancements.rctmod.defeat_contentcreators_chosenarchitect.description": "Defeat ChosenArchitect",
+	"advancements.rctmod.defeat_contentcreators_chosenarchitect.title": "Defeat ChosenArchitect",
+	"advancements.rctmod.defeat_contentcreators_danrique.description": "Defeat Danrique",
+	"advancements.rctmod.defeat_contentcreators_danrique.title": "Defeat Danrique",
+	"advancements.rctmod.defeat_contentcreators_direwolf20.description": "Defeat Direwolf20",
+	"advancements.rctmod.defeat_contentcreators_direwolf20.title": "Defeat Direwolf20",
+	"advancements.rctmod.defeat_contentcreators_joeychin01.description": "Defeat Joeychin01",
+	"advancements.rctmod.defeat_contentcreators_joeychin01.title": "Defeat Joeychin01",
+	"advancements.rctmod.defeat_contentcreators_mitinhoplayer.description": "Defeat MitinhoPlayer",
+	"advancements.rctmod.defeat_contentcreators_mitinhoplayer.title": "Defeat MitinhoPlayer",
+	"advancements.rctmod.defeat_contentcreators_nofaxu.description": "Defeat Nofaxu",
+	"advancements.rctmod.defeat_contentcreators_nofaxu.title": "Defeat Nofaxu",
+	"advancements.rctmod.defeat_contentcreators_pilpoh.description": "Defeat Pilpoh",
+	"advancements.rctmod.defeat_contentcreators_pilpoh.title": "Defeat Pilpoh",
+	"advancements.rctmod.defeat_contentcreators_virtuositas.description": "Defeat Virtuositas",
+	"advancements.rctmod.defeat_contentcreators_virtuositas.title": "Defeat Virtuositas"
 }

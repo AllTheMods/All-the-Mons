@@ -17,29 +17,185 @@
     }
   ],
   "team": [
-  {
-    "species": "magikarp",
-    "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "splash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "metagross",
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "earthquake",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "assault_vest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "dragapult",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "shadowball",
+        "dracometeor",
+        "flamethrower",
+        "uturn"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_specs",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "heldItem": "choice_specs"
-  }
-]
+    {
+      "species": "toxapex",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "recover",
+        "haze",
+        "toxicspikes"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "black_sludge",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "sceptile",
+      "nature": "timid",
+      "ability": "overgrow",
+      "moveset": [
+        "leafstorm",
+        "gigadrain",
+        "focusblast",
+        "hiddenpower"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 30,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "vikavolt",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "bugbuzz",
+        "energyball",
+        "voltswitch"
+      ],
+      "evs": {
+        "hp": 248,
+        "spa": 252,
+        "spe": 0,
+        "spd": 8,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_specs",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "grimmsnarl",
+      "nature": "careful",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "spiritbreak",
+        "partingshot"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 252,
+        "def": 4,
+        "atk": 0
+      },
+      "heldItem": "light_clay",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
 }

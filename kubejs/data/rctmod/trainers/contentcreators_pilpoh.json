@@ -17,29 +17,185 @@
     }
   ],
   "team": [
-  {
-    "species": "magikarp",
-    "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "splash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "charizard",
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "fireblast",
+        "airslash",
+        "scorchingsands",
+        "roost"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "butterfree",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "quiverdance",
+        "sleeppowder",
+        "bugbuzz",
+        "hurricane"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "focus_sash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "heldItem": "choice_specs"
-  }
-]
+    {
+      "species": "pidgeot",
+      "nature": "timid",
+      "ability": "noguard",
+      "moveset": [
+        "hurricane",
+        "heatwave",
+        "uturn",
+        "roost"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "mega_showdown:pidgeotite",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "alakazam",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "focusblast",
+        "encore"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "focus_sash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "gengar",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowball",
+        "sludgewave",
+        "focusblast",
+        "nastyplot"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "zapdos",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "heatwave",
+        "roost",
+        "defog"
+      ],
+      "evs": {
+        "hp": 248,
+        "spa": 0,
+        "spe": 0,
+        "spd": 8,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
 }

@@ -17,29 +17,186 @@
     }
   ],
   "team": [
-  {
-    "species": "magikarp",
-    "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "splash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "lycanroc",
+      "aspects": ["dusk"],
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "stoneedge",
+        "accelerock",
+        "closecombat",
+        "swordsdance"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "arcanine",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "extremespeed",
+        "wildcharge",
+        "morningsun"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "heldItem": "choice_specs"
-  }
-]
+    {
+      "species": "zoroark",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "flamethrower",
+        "focusblast"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "mightyena",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "crunch",
+        "playrough",
+        "suckerpunch",
+        "icefang"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "choice_scarf",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "manectric",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "overheat",
+        "hiddenpower"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "zamazenta",
+      "nature": "jolly",
+      "ability": "dauntlessshield",
+      "moveset": [
+        "closecombat",
+        "crunch",
+        "wildcharge",
+        "psychicfangs"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "mega_showdown:rusted_shield",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
 }

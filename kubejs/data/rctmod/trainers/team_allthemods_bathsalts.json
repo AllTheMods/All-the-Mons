@@ -17,167 +17,185 @@
     }
   ],
   "team": [
-  {
-    "species": "armarouge",
-    "gender": "FEMALE",
-    "level": 90,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "psyshock",
-      "armorcannon",
-      "shadowball",
-      "energyball"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "toxapex",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "recover",
+        "haze",
+        "toxicspikes"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "black_sludge",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "blissey",
+      "nature": "calm",
+      "ability": "naturalcure",
+      "moveset": [
+        "seismictoss",
+        "softboiled",
+        "toxic",
+        "teleport"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 252,
+        "def": 4,
+        "atk": 0
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
     },
-    "heldItem": "choice_specs"
-  },
-  {
-    "species": "umbreon",
-    "gender": "FEMALE",
-    "level": 90,
-    "nature": "calm",
-    "ability": "synchronize",
-    "moveset": [
-      "darkpulse",
-      "babydolleyes",
-      "confuseray",
-      "doubleedge"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 31,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "corviknight",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "roost",
+        "defog",
+        "bodypress",
+        "uturn"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
     },
-    "evs": {
-      "hp": 252,
-      "spd": 252,
-      "def": 4
+    {
+      "species": "clefable",
+      "nature": "bold",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "softboiled",
+        "calmmind",
+        "storedpower"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
     },
-    "heldItem": "leftovers"
-  },
-  {
-    "species": "greninja",
-    "gender": "MALE",
-    "level": 90,
-    "nature": "timid",
-    "ability": "protean",
-    "moveset": [
-      "watershuriken",
-      "nightslash",
-      "extrasensory",
-      "doubleteam"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 31,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "gliscor",
+      "nature": "impish",
+      "ability": "poisontouch",
+      "moveset": [
+        "earthquake",
+        "roost",
+        "toxic",
+        "protect"
+      ],
+      "evs": {
+        "hp": 244,
+        "spa": 0,
+        "spe": 0,
+        "spd": 12,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "toxic_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
     },
-    "evs": {
-      "spa": 252,
-      "spe": 252,
-      "hp": 4
-    },
-    "heldItem": "life_orb"
-  },
-  {
-    "species": "suicune",
-    "gender": "GENDERLESS",
-    "level": 90,
-    "nature": "bold",
-    "ability": "pressure",
-    "moveset": [
-      "icefang",
-      "raindance",
-      "crunch",
-      "rocksmash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 31,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
-    },
-    "evs": {
-      "hp": 252,
-      "def": 252,
-      "spd": 4
-    },
-    "heldItem": "leftovers"
-  },
-  {
-    "species": "regigigas",
-    "gender": "GENDERLESS",
-    "level": 90,
-    "nature": "adamant",
-    "ability": "slowstart",
-    "moveset": [
-      "gigaimpact",
-      "zenheadbutt",
-      "ironhead",
-      "knockoff"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 31,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
-    },
-    "evs": {
-      "hp": 252,
-      "atk": 252,
-      "spe": 4
-    },
-    "heldItem": "assault_vest"
-  },
-  {
-    "species": "squirtle",
-    "gender": "MALE",
-    "level": 90,
-    "nature": "bold",
-    "ability": "torrent",
-    "moveset": [
-      "waterpledge",
-      "brickbreak",
-      "mirrorcoat",
-      "terablast"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
-    },
-    "evs": {
-      "hp": 252,
-      "def": 252,
-      "spd": 4
-    },
-    "heldItem": "eviolite"
-  }
-]
+    {
+      "species": "ferrothorn",
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "moveset": [
+        "stealthrock",
+        "leechseed",
+        "gyroball",
+        "protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 168,
+        "def": 88,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    }
+  ]
 }

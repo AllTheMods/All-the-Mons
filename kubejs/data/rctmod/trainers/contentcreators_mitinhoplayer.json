@@ -18,13 +18,151 @@
   ],
   "team": [
   {
-    "species": "magikarp",
+    "species": "pelipper",
     "gender": "FEMALE",
-    "level": 15,
+    "level": 100,
     "nature": "modest",
-    "ability": "flashfire",
+    "ability": "drizzle",
     "moveset": [
-      "splash"
+      "hydropump",
+      "hurricane",
+      "uturn",
+      "roost"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 4,
+      "spa": 252
+    },
+    "heldItem": "damp_rock"
+  },
+  {
+    "species": "lanturn",
+    "gender": "FEMALE",
+    "level": 100,
+    "nature": "bold",
+    "ability": "voltabsorb",
+    "moveset": [
+      "scald",
+      "thunder",
+      "voltswitch",
+      "protect"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spd": 4,
+      "spa": 252
+    },
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "dracovish",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "jolly",
+    "ability": "strongjaw",
+    "moveset": [
+      "fishiousrend",
+      "crunch",
+      "psychicfangs",
+      "dragondance"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "atk": 252,
+      "def": 4,
+      "spe": 252
+    },
+    "heldItem": "mystic_water"
+  },
+  {
+    "species": "blastoise",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "modest",
+    "ability": "raindish",
+    "moveset": [
+      "hydropump",
+      "darkpulse",
+      "aurasphere",
+      "shellsmash"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "spa": 252,
+      "def": 4,
+      "spe": 252
+    },
+    "heldItem": "white_herb"
+  },
+  {
+    "species": "froslass",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "timid",
+    "ability": "snowcloak",
+    "moveset": [
+      "icebeam",
+      "shadowball",
+      "thunderwave",
+      "taunt"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spa": 4,
+      "spe": 252
+    },
+    "heldItem": "focus_sash"
+  },
+  {
+    "species": "swampert",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "adamant",
+    "ability": "torrent",
+    "moveset": [
+      "waterfall",
+      "earthquake",
+      "icepunch",
+      "rockslide"
     ],
     "ivs": {
       "hp": 31,
@@ -35,11 +173,11 @@
       "spe": 31
     },
     "evs": {
-      "hp": 4,
-      "spa": 252,
+      "atk": 252,
+      "def": 4,
       "spe": 252
     },
-    "heldItem": "choice_specs"
+    "heldItem": "life_orb"
   }
 ]
 }

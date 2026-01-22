@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "defeat_contentcreators_chosenarchitect": {
+      "conditions": {
+        "count": 1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [
+          "contentcreators_chosenarchitect"
+        ],
+        "trainer_type": null
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_contentcreators_chosenarchitect.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_contentcreators_chosenarchitect.title"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_contentcreators_direwolf20",
+  "requirements": [
+    [
+      "defeat_contentcreators_chosenarchitect"
+    ]
+  ]
+}

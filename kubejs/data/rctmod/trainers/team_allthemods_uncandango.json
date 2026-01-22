@@ -46,7 +46,7 @@
         "choice_band"
       ]
     },
-	{
+    {
       "species": "espeon",
       "gender": "FEMALE",
       "level": 90,
@@ -70,13 +70,13 @@
         "hp": 4,
         "atk": 2,
         "spa": 252,
-		"spe": 252
+        "spe": 252
       },
       "heldItem": [
         "life_orb"
       ]
     },
-	{
+    {
       "species": "blaziken",
       "gender": "FEMALE",
       "level": 90,
@@ -99,13 +99,13 @@
       "evs": {
         "atk": 194,
         "spa": 252,
-		"spe": 64
+        "spe": 64
       },
       "heldItem": [
         "life_orb"
       ]
     },
-	{
+    {
       "species": "charizard",
       "gender": "FEMALE",
       "level": 90,
@@ -127,15 +127,15 @@
       },
       "evs": {
         "hp": 2,
-		"def": 4,
+        "def": 4,
         "spa": 252,
-		"spe": 252
+        "spe": 252
       },
       "heldItem": [
         "life_orb"
       ]
     },
-	{
+    {
       "species": "heracross",
       "gender": "MALE",
       "level": 90,
@@ -157,11 +157,40 @@
       },
       "evs": {
         "hp": 6,
-		"atk": 252,
-		"spe": 252
+        "atk": 252,
+        "spe": 252
       },
       "heldItem": [
         "life_orb"
+      ]
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "earthquake",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "hp": 252
+      },
+      "heldItem": [
+        "assault_vest"
       ]
     }
   ]

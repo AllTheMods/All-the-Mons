@@ -12,7 +12,7 @@ let permanentAnnouncements = Utils.newList()
 
 // Add your announcements here
 function initAnnouncements(){
-  addAnnouncement("0.2.0-beta", "First open beta version of the modpack!")
+  addAnnouncement("0.3.0-beta", "First open beta version of the modpack!")
   addPermanentAnnouncement(Text.of("").append(Text.red("This is a beta version, everything is subject to change!")))
   addPermanentAnnouncement(Text.of("For issues, visit: ").append(Text.green("Github Issues").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.of("For mod suggestions or others features, visit: ").append(Text.green("Discussions").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/discussions").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))

@@ -18,108 +18,25 @@
   ],
   "team": [
     {
-      "species": "landorus",
-      "gender": "MALE",
-      "level": 90,
-      "nature": "jolly",
-      "ability": "intimidate",
-      "moveset": [
-        "earthquake",
-        "superpower",
-        "rockslide",
-        "uturn"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "evs": {
-        "atk": 252,
-        "spd": 4,
-        "spe": 252
-      },
-      "heldItem": [
-        "choice_scarf"
-      ],
-      "aspects": [
-        "therian"
-      ]
-    },
-    {
-      "species": "charizard",
-      "gender": "MALE",
-      "level": 90,
-      "nature": "timid",
-      "ability": "blaze",
-      "moveset": [
-        "dragonpulse",
-        "solarbeam",
-        "focusblast",
-        "fireblast"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "evs": {
-        "spa": 252,
-        "spd": 4,
-        "spe": 252
-      },
-      "heldItem": [
-        "mega_showdown:charizardite_y",
-        "life_orb"
-      ]
-    },
-    {
-      "species": "azumarill",
-      "gender": "FEMALE",
-      "level": 90,
+      "species": "golurk",
+      "nickname": "Iron Golem",
       "nature": "adamant",
-      "ability": "hugepower",
+      "ability": "ironfist",
       "moveset": [
-        "aquajet",
-        "superpower",
-        "playrough",
-        "waterfall"
+        "poltergeist",
+        "earthquake",
+        "dynamicpunch",
+        "icepunch"
       ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
       "evs": {
         "hp": 252,
-        "atk": 252,
-        "spe": 8
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
       },
-      "heldItem": [
-        "assault_vest"
-      ]
-    },
-    {
-      "species": "gengar",
-      "gender": "FEMALE",
-      "level": 90,
-      "nature": "lax",
-      "ability": "levitate",
-      "moveset": [
-        "shadowball",
-        "psychic",
-        "confuseray",
-        "hypnosis"
-      ],
+      "heldItem": "assault_vest",
       "ivs": {
         "hp": 31,
         "atk": 31,
@@ -128,56 +45,30 @@
         "spd": 31,
         "spe": 31
       },
-      "evs": {
-        "spa": 252,
-        "spd": 4,
-        "spe": 252
-      },
-      "heldItem": [
-        "focus_sash"
-      ]
-    },
-    {
-      "species": "latios",
       "gender": "MALE",
-      "level": 90,
-      "nature": "timid",
-      "ability": "levitate",
-      "moveset": [
-        "psychic",
-        "aurasphere",
-        "thunderbolt",
-        "calmmind"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "evs": {
-        "spd": 4,
-        "spa": 252,
-        "spe": 252
-      },
-      "heldItem": [
-        "life_orb"
-      ]
+      "level": 100
     },
     {
-      "species": "ferrothorn",
-      "gender": "FEMALE",
-      "level": 90,
-      "nature": "relaxed",
-      "ability": "ironbarbs",
+      "species": "lycanroc",
+      "aspects": ["dusk"],
+      "nickname": "Wolf",
+      "nature": "jolly",
+      "ability": "toughclaws",
       "moveset": [
-        "stealthrock",
-        "gyroball",
-        "leechseed",
-        "protect"
+        "stoneedge",
+        "accelerock",
+        "closecombat",
+        "swordsdance"
       ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "life_orb",
       "ivs": {
         "hp": 31,
         "atk": 31,
@@ -186,14 +77,132 @@
         "spd": 31,
         "spe": 31
       },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "crobat",
+      "nickname": "Bat",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "moveset": [
+        "bravebird",
+        "uturn",
+        "roost",
+        "defog"
+      ],
       "evs": {
         "hp": 248,
-        "def": 252,
-        "atk": 8
+        "spa": 0,
+        "spe": 252,
+        "spd": 8,
+        "def": 0,
+        "atk": 0
       },
-      "heldItem": [
-        "leftovers"
-      ]
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "galvantula",
+      "nickname": "Spider",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunder",
+        "bugbuzz",
+        "stickyweb",
+        "voltswitch"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "focus_sash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "chandelure",
+      "nickname": "Blaze",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowball",
+        "fireblast",
+        "energyball",
+        "trick"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_scarf",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "zoroark",
+      "nickname": "Enderman",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "flamethrower",
+        "focusblast"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     }
   ]
 }

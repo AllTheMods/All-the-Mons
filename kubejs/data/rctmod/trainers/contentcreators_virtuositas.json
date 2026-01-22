@@ -17,29 +17,188 @@
     }
   ],
   "team": [
-  {
-    "species": "magikarp",
-    "gender": "FEMALE",
-    "level": 15,
-    "nature": "modest",
-    "ability": "flashfire",
-    "moveset": [
-      "splash"
-    ],
-    "ivs": {
-      "hp": 31,
-      "atk": 0,
-      "def": 31,
-      "spa": 31,
-      "spd": 31,
-      "spe": 31
+    {
+      "species": "annihilape",
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": [
+        "bulkup",
+        "ragefist",
+        "drainpunch",
+        "rest"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "chesto_berry",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "evs": {
-      "hp": 4,
-      "spa": 252,
-      "spe": 252
+    {
+      "species": "maushold",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "populationbomb",
+        "tidyup",
+        "bite",
+        "protect"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "wide_lens",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
     },
-    "heldItem": "choice_specs"
-  }
-]
+    {
+      "species": "ninetales",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "auroraveil",
+        "blizzard",
+        "freezedry",
+        "encore"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 4,
+        "spe": 252,
+        "spd": 0,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "light_clay",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "primarina",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "moonblast",
+        "hydropump",
+        "psychic",
+        "icebeam"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "assault_vest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "weavile",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "iciclecrash",
+        "knockoff",
+        "iceshard",
+        "swordsdance"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "armarouge",
+      "nature": "modest",
+      "ability": "weakarmor",
+      "moveset": [
+        "calmmind",
+        "armorcannon",
+        "psyshock",
+        "energyball"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
 }

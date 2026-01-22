@@ -1,2 +1,3 @@
 guiScale:2
 darkMojangStudiosBackground:true
+resourcePacks:["modularbees:dynamic_assets","vanilla","mod_resources","moonlight:merged_pack","mod/dyenamicsandfriends:compat_packs/productivemetalworks/","mod/dyenamicsandfriends:compat_packs/connectedglass/","mod/dyenamicsandfriends:compat_packs/luminax/","mod/dyenamicsandfriends:compat_packs/cookingforblockheads/","mod/dyenamicsandfriends:compat_packs/botanypots/","mod/dyenamicsandfriends:compat_packs/chromacarvings/","file/Maxi\u0027s-JM+CM_Pixel-U8.zip"]

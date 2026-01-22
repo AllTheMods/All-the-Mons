@@ -1134,5 +1134,24 @@
 			x: 9.5d
 			y: -2.5d
 		}
+		{
+			dependencies: ["3932FF3765BFACD3"]
+			id: "2EEF25FE72F8E4A3"
+			rewards: [{
+				id: "7EA2E7E2E5280DD9"
+				item: {
+					count: 1
+					id: "cobblemon:revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0013283CFA96828D"
+				item: { count: 1, id: "allthemons:pc_on_a_stick" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
 	]
 }
