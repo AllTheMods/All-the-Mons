@@ -1,6 +1,6 @@
 {
-	quest.012A8C905608C86E.quest_desc: ["Vilas são Estruturas importantes e, felizmente, comuns no &2&lMinecraft&r. Com &c&lCobble&fmon&r elas vêm com uma nova adição, o &cCentro Pokemon&r! \\n\\nEstes são marcados com Estandartes com &cPoke&rbolas neles. \\n\\nCada um deles tem uma &aMáquina de Cura&r, mais o Aldeão Enfermeiro que usa essa &aMáquina&r como um Local de Trabalho. \\n\\nAldeões Enfermeiros trocarão &aEsmeraldas&r e Itens Consumíveis ou Seguráveis! \\n\\n&cCentros Pokemon&r também terão Baús com mais Saque."]
-	quest.012A8C905608C86E.title: "Vila"
+	quest.012A8C905608C86E.quest_desc: ["Vilas e outras estruturas são importantes no início do jogo e felizmente estruturas comuns em &2&lMinecraft&r. Com &c&lCobble&fmon&r elas vêm com &cPoké&rbolas dentro. \\n\\n&l&cAll&7The&fMons&r modifica bastante as receitas de &cPoké&rbolas então esta é uma das formas de obter bolas cedo."]
+	quest.012A8C905608C86E.title: "Vila e Estruturas"
 	quest.0328E5E416D0F785.quest_desc: ["&nForte&r \\n\\n&aInseto&r \\n&2Grama&r \\n&bGelo&r \\n&7Aço&r \\n\\n&nVulnerável&r \\n\\n&6Pedra&r \\n&6Terra&r \\n&bÁgua&r"]
 	quest.0328E5E416D0F785.title: "&cFogo"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remédio&r é feito Fundindo uma Raiz Grande. \\n\\nÉ um Item que pode ser dado a um &cPokemon&r dentro ou fora da Batalha para restaurar Vida (não em troca de &dAmizade&r). \\n\\nVocê pode Criar com ele para fazer &6Remédios&r ainda melhores!"]
@@ -33,7 +33,7 @@
 	quest.25CDC402800CA4D1.quest_desc: ["Ei, os &cPokemon&r têm que vir de algum lugar! \\n\\nSe 2 &cPokemon&r estiverem vagando em um &6Pasto&r, eles podem &dCruzar&r. Mas existem muitos requisitos antes que possam fazer isso. \\n\\nPrimeiro, precisaremos de um &bMacho &fe uma &dFêmea&r para &dCruzar&r. O bebê &cPokemon&r virá de um &cOvo Pokemon&r e será da mesma espécie que a &dMãe&r. \\n\\nAmbos os &cPokemons&r precisarão estar no mesmo \"Grupo de Ovos\". Use a Wiki, eu não vou listar cada &cPokemon&r um por um! \\n\\nPor último, existem alguns atributos e &cPokemon&r específicos que não podem &dCruzar&r... \\n\\nSe você cumprir todos os requisitos, a &cPokemon &dFêmea&r botará um &cOvo&r de vez em quando!"]
 	quest.25CDC402800CA4D1.quest_subtitle: "Os Delibirds e os Beedrills"
 	quest.25CDC402800CA4D1.title: "&dCruzamento&r de &cPokemon&r"
-	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &bÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\" \\n\\n(&bMudkip&r é o meu favorito!)"]
+	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &bÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\""]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nForte&r \\n\\n&9Voador&r \\n&bÁgua&r \\n\\n&nVulnerável&r \\n\\n&6Terra&r"]
 	quest.277D15B7FC23784D.title: "&eElétrico"
@@ -43,6 +43,8 @@
 	quest.2EA725733AC5B290.title: "&dAmizade"
 	quest.2EA9DBB7F8F4EF40.quest_desc: ["Alguns &cPokemon&r não Aparecem como a maioria, alguns gostam de viver nas Profundezas do &9Oceano&r! \\n\\nPara chegar até eles, precisaremos de uma &cPoke&rvara! Espere, uma &cPoke&rvara? \\n\\nSim, uma Vara de Pescar para Iscar esses &cPokemon&r. Para Criar uma, precisaremos de um Molde de Vara de Pescar. \\n\\nVocê pode Trocar com um Aldeão Pescador Mestre para conseguir um!"]
 	quest.2EA9DBB7F8F4EF40.title: "Pescando &cPokemon"
+	quest.2EEF25FE72F8E4A3.quest_desc: ["Se você é um treinador ocupado que está sempre em movimento, você pode fabricar um PC em um Graveto e usá-lo na estrada da mesma forma que usaria uma Bancada de Trabalho em um Graveto. \\n\\nEle também vem em uma variação de Estação de Cura."]
+	quest.2EEF25FE72F8E4A3.quest_subtitle: "Colocando gravetos nas coisas"
 	quest.351CFE6AD802F065.quest_desc: ["&nForte&r \\n\\n&4Lutador&r \\n&5Veneno&r \\n\\n&nVulnerável&r \\n\\n&aInseto&r \\n&8Sombrio&r \\n&5Fantasma&r"]
 	quest.351CFE6AD802F065.title: "&dPsíquico"
 	quest.35815F62705D1D53.quest_desc: ["&nVulnerável&r \\n\\n&4Lutador"]
