@@ -1,0 +1,152 @@
+{
+	quest.07016F654CFFAA20.quest_desc: [
+		"If you want a surprise on which &6Fossil&r gives what then don't turn the page!"
+		"{@pagebreak}"
+		"&eHelix Fossil&r - &6Oma&bnyte&r \\n&eDome Fossil&r - &6Kab&buto&r \\n&6Old Amber Fossil&r - &6Aero&9dactyl&r \\n&aRoot Fossil&r - &6Lil&2eep&r \\n&aClaw Fossil&r - &6Ano&arith&r \\n&cSkull Fossil&r - &6Cranidos&r \\n&cArmor Fossil&r - &6Shiel&7don&r \\n&5Cover Fossil&r - &9Tirt&6ouga&r \\n&5Plume Fossil&r - &6Arc&9hen&r \\n&7Jaw Fossil&r - &6Tyr&9unt&r \\n&3Sail Fossil&r - &6Ama&bura&r "
+		"{@pagebreak}"
+		"The last 4 &6Fossils&r work differently. You need to combine 2 of these &6Fossils&r to get 1 &cPokemon&r. \\n\\n&6Bird&r + &aDrake&r = &eDraco&9zolt&r \\n&6Bird&r + &5Dino&r = &eArcto&bzolt&r \\n&bFish&r + &aDrake&r = &bDraco&9vish&r \\n&bFish&r + &5Dino&r = &bArctovish&r"
+	]
+	quest.07016F654CFFAA20.title: "&6Fossils"
+	quest.07392142A0166032.quest_desc: [
+		"Preserved in time lays the remains of a Preserved Skeleton. \\n\\nAround the Bones will be &7Suspiscious Gravel&f and &eSand&r. "
+		"{image:atm:textures/questpics/pokemon/find_skeleton.png width:200 height:100 align:center}"
+	]
+	quest.07392142A0166032.title: "Prehistoric Preserved Skeleton"
+	quest.131ACE9712128876.quest_desc: ["&3PokeFinder&r, does as the name suggests! It gives a map of &cPokemon&r near you, and comes with Filters to find specific &cPokemon&r. \\n\\nYou can open up your &3PokeFinder&r to type in Filters. The Species you only want, Aspects, and Labels. \\n\\nWhen the Filters are set, only those who fit the Filters will be shown on the map. \\n\\nMaking them Strict Filters means, when there is multiple Aspects or Labels, it will look only for &cPokemon&r with all listed Aspects or Labels."]
+	quest.131ACE9712128876.title: "&3PokeFinders"
+	quest.16B06A4C0B9F8DFB.quest_desc: [
+		"Within Swamps you can find Rooted Pits. \\n\\n&8Mud &fand &2Roots&r with a bit of &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_root.png width:200 height:100 align:center}"
+	]
+	quest.16B06A4C0B9F8DFB.title: "Prehistoric Rooted Pit"
+	quest.21281EC844F00D68.quest_desc: [
+		"A different Ocean this time! The Coral Ocean. It comes with Vibrant Hydrothermal Vents. \\n\\nAround the Structure you'll find &eSuspiscious Sand&r."
+		"{image:atm:textures/questpics/pokemon/find_vibrant.png width:200 height:100 align:center}"
+	]
+	quest.21281EC844F00D68.title: "Prehistoric Vibrant Hydrothermal Vents"
+	quest.2150D54D18BD85EE.quest_desc: ["Finally you can Cast your &cRod&r. This will use up the &2Berry&r. \\n\\nOnce the Bobber starts doing a boogie, Right Click to pull the &cPokemon&r out! \\n\\nThis will use start the Battle with that &cPokemon&r. \\n\\nThen, you'll have to use a Turn in Battle to Throw a &cPoke&rball at them."]
+	quest.2150D54D18BD85EE.title: "Gone Fishin'"
+	quest.222E16E832A13624.quest_desc: [
+		"Deep within Dripstone Caves you might find a sort of Oasis! \\n\\nHere, &7Suspiscious Gravel&r will spawn on the Floor of it."
+		"{image:atm:textures/questpics/pokemon/find_dripstone.png width:200 height:100 align:center}"
+	]
+	quest.222E16E832A13624.title: "Prehistoric Dripstone Oasis"
+	quest.2444614287B6398E.quest_desc: [
+		"Rarely in the Plains you might find some different Blocks sticking out of the Ground. It might be a Suspiscious Mound! \\n\\n&7Suspiscious Gravel&r spawns under the &2Grass&r and some &7Stones&r."
+		"{image:atm:textures/questpics/pokemon/find_sus_mound.png width:200 height:100 align:center}"
+	]
+	quest.2444614287B6398E.title: "Prehistoric Suspicisous Mound"
+	quest.24DB1F587DB99074.quest_desc: [
+		"The Fossil Ressurection Multiblock needs 3 Blocks. The Fossil Analyzer, Data Monitor, and Restoration Tank. Place them in this design."
+		"{image:atm:textures/questpics/pokemon/find_fossil.png width:100 height:100 align:center} "
+		"Before we start restoring or ressurecting or whatever! We need Fuel... Fuel comes in the form of a bunch of different &2Crops &fand &2Plant&r like Items. \\n\\nFood Items like Berries, Steak, and Cake. Liquids like Honey or Suspiscious Stew. Even stuff we can't Eat like Saplings, Flowers, and Leaves! \\n\\nOnce the Tank is full, we can place our &6Fossil&r into the Fossil Analyzer. If we're using some of the special &6Fossils&r, you'll need to place 2 unique &6Fossilized &cPokemon&r into it. \\n\\nOnce it starts working it will turn on, the Screen will glow, the Analyzer will be shooting red lasers, and the Tank will be bubbling. \\n\\nFinally when it is all settled and done, the &6Fossil&r will now be a fully Restored &cPokemon&r in the Tank. Use a &cPokeball&r on the Tank and it will Catch the &cPokemon&r automatically."
+	]
+	quest.24DB1F587DB99074.title: "Fossil Ressurection"
+	quest.25498A20F05FB703.quest_desc: ["If a Villager is Unemployed (and not a &2Nitwit&r!) you can Place a Job Site Block down and they will go to it and become Employed. \\n\\nThe certain Block determines the Job, and we need a Barrel for a &bFisherman&r. \\nKeep Trading with them and they will gain Experience. Once maxed out all Trades will be unlocked. We need a &bMaster Fisherman&r in order to get the... \\n\\n&bPokeRod Upgrade Template&r."]
+	quest.25498A20F05FB703.title: "&bPokeRod Upgrade Template"
+	quest.268DEC15019B7CF0.quest_desc: [
+		"Near the Ocean floor you might get dragged down into the Hydrothermal Vents. \\n\\nThe &7Suspiscious Gravel&r spawns near all the other &7Gravel&r on the Ocean floor!"
+		"{image:atm:textures/questpics/pokemon/find_hydrothermal.png width:200 height:100 align:center}"
+	]
+	quest.268DEC15019B7CF0.title: "Prehistoric Hydrothermal Vents"
+	quest.2E4A0D8AEA1AE6B6.quest_desc: [
+		"Another Badlands Structure! The Sunscorched Remains. I don't know what happened but apparently someone pissed off a &cFire Pokemon&r. \\n\\n&7Suspiscious Gravel&r Spawns below the Red Sand."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_remains.png width:200 height:100 align:center}"
+	]
+	quest.2E4A0D8AEA1AE6B6.title: "Prehistoric Sunscorched Remains"
+	quest.2EC9EC0184C2024D.quest_desc: [
+		"Another Structure within Lush Caves, the Mossy Pond. \\n\\nThe &7Suspiscious Gravel&r Spawns beneath the &9Water&r."
+		"{image:atm:textures/questpics/pokemon/find_mossy.png width:200 height:100 align:center}"
+	]
+	quest.2EC9EC0184C2024D.title: "Prehistoric Mossy Pond"
+	quest.2F71A83DC5E91615.quest_desc: [
+		"Ther's lots of strange Structures below the Ocean's depth. The Submerged Impact is definitely one of the strangest. \\n\\nWithin the almost Cave, is &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_submerged_impact.png width:200 height:100 align:center}"
+	]
+	quest.2F71A83DC5E91615.title: "Prehistoric Submerged Impact"
+	quest.3308D7EDFBF51190.quest_desc: [
+		"Deserts have mounds of mounds. Some even Sandy Dens! \\n\\n&eSuspiscious Sand&r spawns in the Den."
+		"{image:atm:textures/questpics/pokemon/find_sandy.png width:200 height:100 align:center}"
+	]
+	quest.3308D7EDFBF51190.title: "Prehistoric Sandy Den"
+	quest.397E11CDCB8B4DC4.quest_desc: [
+		"Frozen in time, and Frozen within any Icey Biome is the Frozen Pond. \\n\\nWithin the &bIce&r you'll find &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_frozen_pond.png width:200 height:100 align:center}"
+	]
+	quest.397E11CDCB8B4DC4.title: "Prehistoric Frozen Pond"
+	quest.3B5578F000D6AD9E.quest_desc: ["Combine any Fishing Rod with the &bPokeRod Upgrade Template&r and a &cPoke&rball in order to make a &cPoke&rRod! \\n\\nThe &cPoke&rball used up will only change how the &cPoke&rRod looks... don't use expensive ones for it. \\n\\nMy favorite is the one with the &dHeal Ball&r!"]
+	quest.3B5578F000D6AD9E.title: "Making a &cPoke&rRod"
+	quest.3E822975A8A66EBD.quest_desc: [
+		"Mud Pits Spawn in Jungles, and I'm just glad they aren't quicksand! \\n\\n&7Suspiscious Gravel&r is located beneath the &8Mud&r."
+		"{image:atm:textures/questpics/pokemon/find_mud.png width:200 height:100 align:center}"
+	]
+	quest.3E822975A8A66EBD.title: "Prehistoric Mud Pit"
+	quest.3FC34BEE629F4037.quest_desc: [
+		"Up in the Snowy Biomes, comes the danger of Powder Snow. It can lead to a cold defeat, a large drop, or even Fossils! \\n\\nThe &7Suspiscious Gravel&r is beneath the Powdered Snow."
+		"{image:atm:textures/questpics/pokemon/find_powder.png width:200 height:100 align:center}"
+	]
+	quest.3FC34BEE629F4037.title: "Prehistoric Powdered Deposit"
+	quest.410492282A446A06.quest_desc: ["The &aPokeNav&r is a tool to help understand what &cPokemon&r will (or can) Spawn near you. \\n\\nIt is set to whatever Biome you are in. \\n\\nOpening up the &aPokeNav&r and you'll get a long list of &cPokemon&r! \\n\\nThe Buttons on top will change what Rarity of each &cPokemon&r Spawn, if it's listed by most common to least or vice versa, and the last refreshes the list! \\n\\nHovering over a &cPokemon&r in the list will show information. Their Species, chance of Spawn, if you've encountered them, how many you've Caught or Knocked Out, and any specific Spawn Requirements. \\n\\nRequirements like Skylight, Weather, or even Time of Day!"]
+	quest.410492282A446A06.title: "&aPokeNav"
+	quest.421C02BBAF6616FC.quest_desc: ["Congrats on finding a &6Fossil Site&r!... now what? \\n\\nTake (or make) a Brush. Then, look at &eSuspiscious Sand &for &7Gravel&r and Hold Right Click. \\n\\nThis will Brush the Suspiscious Blocks and will uncover Items. The Items are set from Random Loot Pools, like Dungeon Chests. \\n\\nDifferent Locations give different &6Fossils&r though."]
+	quest.421C02BBAF6616FC.title: "&6&lArcheology"
+	quest.55BF1E9BB9F0768D.quest_desc: [
+		"I think you know the pattern, wherever Spruce is, these are! \\n\\nFollow the Logs down to find &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_spruce.png width:200 height:100 align:center}"
+	]
+	quest.55BF1E9BB9F0768D.title: "Prehistoric Spruce Tree"
+	quest.57CE837EC3FD5BA1.quest_desc: ["With both these Tools, no &cPokemon&r will be able to hide from us! \\n\\nClicking on a &cPokemon&r in the &aPokeNav&r will open their Page. If there is one near, it will show all of their Stats! And more importantly, let us Track it. \\n\\nWhen Tracking a &cPokemon&r, a &cPok&reball on your Screen will point in the &cPokemons&r direction and will count how many Blocks away they are. \\n\\nAnd if you struggle with typing &cPokemon&r Names (like 99% of us), you can use the Button to the Left of the Track Button when viewing a &cPokemon&r to add it to your &3PokeFinder&r!"]
+	quest.57CE837EC3FD5BA1.title: "Find em' all!"
+	quest.5B8A381EFA3D836B.quest_desc: [
+		"Above the Icey Biomes some Spikes might be like the Submerged Spike. \\n\\nThese come with &eSuspiscious Sand&r!"
+		"{image:atm:textures/questpics/pokemon/find_submerged_spike.png width:200 height:100 align:center}"
+	]
+	quest.5B8A381EFA3D836B.title: "Prehistoric Submerged Spike"
+	quest.5ECE56EAB6773769.quest_desc: ["Fish (and &cPokemon&r Fish) aren't attracted to scary hooks! Only scary hooks that have tasty Bait on them. \\n\\nTo catch &cPokemon&r, we'll need &2Berries&r! \\n\\nDifferent &2Berries&r give different Effects for Fishing. Whether it makes a certain &cPokemon&r Type more common, gives better Stats, or even increases the &cPokemons&r Level. \\n\\nTo use them, Hold the &2Berries&r in your Offhand when Fishing."]
+	quest.5ECE56EAB6773769.title: "Fishing Bait"
+	quest.6F2E30BE5CF82C77.quest_desc: [
+		"Under the &9Water&r, again, we get the Underwater Fissure. \\n\\nWithin it you can find &7Suspiscious Gravel&r all over."
+		"{image:atm:textures/questpics/pokemon/find_underwater.png width:200 height:100 align:center}"
+	]
+	quest.6F2E30BE5CF82C77.title: "Prehistoric Underwater Fissure"
+	quest.72DCD32EC59F8E9C.quest_desc: [
+		"Wherever &bIce&r spawns, so will the Frozen Spike! \\n\\nLike the Eroded Pillar, &7Suspiscious Gravel&r spawns within the Spike."
+		"{image:atm:textures/questpics/pokemon/find_frozen_spike.png width:200 height:100 align:center}"
+	]
+	quest.72DCD32EC59F8E9C.title: "Prehistoric Frozen Spike"
+	quest.731A8877EA474D67.quest_desc: [
+		"Piercing through the vibrant Badlands, is the Eroded Pillar. \\n\\nWith this, &7Suspiscious Gravel&r spawns inside the Pillar."
+		"{image:atm:textures/questpics/pokemon/find_eroded.png width:200 height:100 align:center}"
+	]
+	quest.731A8877EA474D67.title: "Prehistoric Eroded Pillar"
+	quest.74285B2AC6E00D20.quest_desc: [
+		"Venturing through the Jungles you may come across a little divet, that divet is the Lush Den! \\n\\n&7Suspiscious Gravel&r Spawns within them."
+		"{image:atm:textures/questpics/pokemon/find_lush.png width:200 height:100 align:center}"
+	]
+	quest.74285B2AC6E00D20.title: "Prehistoric Lush Den"
+	quest.775D4E9974C70D5C.quest_desc: [
+		"Anywhere you can find an Oak Tree, you can find a Prehistoric Oak Tree! \\n\\nBeneath the Logs will be &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_oak.png width:200 height:100 align:center}"
+	]
+	quest.775D4E9974C70D5C.title: "Prehistoric Oak Tree"
+	quest.7781133CB04584AA.quest_desc: [
+		"A very fancy name for saying \"Cave within Lush Cave\"! \\n\\nThe &7Suspiscious Gravel&r will Spawn under the &9Water&r."
+		"{image:atm:textures/questpics/pokemon/find_enhydro.png width:200 height:100 align:center}"
+	]
+	quest.7781133CB04584AA.title: "Prehistoric Enhydro Agate"
+	quest.78FC6687B5FD964F.quest_desc: [
+		"The Prehistoric Birch Tree spawns wherever Birch Trees Spawn. \\n\\nDeep beneath the Logs of the Tree will be &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_birch.png width:200 height:100 align:center}"
+	]
+	quest.78FC6687B5FD964F.title: "Prehistoric Birch Tree"
+	quest.7E8CBDC0377013E0.quest_desc: [
+		"Another Structure in the Badlands, the Sunscorched Den. \\n\\nPolitely within the Den sits &7Suspiscious Gravel&r."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_den.png width:200 height:100 align:center}"
+	]
+	quest.7E8CBDC0377013E0.title: "Prehistoric Sunscorched Den"
+	task.03C72EFDFD9D0F8D.title: "PokeRod"
+	task.419216305C141D67.title: "PokeFinders"
+	task.570E6A812FFE21EF.title: "Fossils"
+	task.6A9462E51E54383F.title: "Berries"
+	task.7DA1C949AC80BCBF.title: "PokeFinders"
+}

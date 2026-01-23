@@ -1,6 +1,5 @@
 {
 	chapter.007B547630FF0478.title: "Theurgy"
-	chapter.009BBEA41077ED01.title: "&6The Pika Star (WIP)"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
 	chapter.0A093D8C4429B627.title: "Mekanism: Reactors"
@@ -18,7 +17,6 @@
 	chapter.16AFF8DC26A023AE.title: "Evolution"
 	chapter.18A429E7F56AF5A9.title: "Bounty Board"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
-	chapter.1945AB5D3C7492BD.title: "Content Creators"
 	chapter.1BE666F01EFFC00D.title: "Tips and Poke Tricks"
 	chapter.1D42B373285DEF81.title: "Silent Gear"
 	chapter.1DB294A8F8686321.title: "Basic Storage"
@@ -32,16 +30,12 @@
 	chapter.2FB24A5A597459FC.title: "RailCraft"
 	chapter.306DBE1EBB85D02E.title: "The Electric Age"
 	chapter.31418B71DABE377A.title: "Getting Started"
-	chapter.35AA168F4AE3085B.title: "BDSP"
-	chapter.36E3076EA6D0B753.title: "ATM Team"
 	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
 	chapter.3DEB33F78398EAD6.chapter_subtitle: ["And LaserIO"]
 	chapter.3DEB33F78398EAD6.title: "Basic Logistics"
-	chapter.3FA96F757548770F.title: "Unbound"
 	chapter.415BA265E2C00859.title: "Getting Started"
 	chapter.4293754F9B2D05F0.title: "&eAllthemodium"
 	chapter.4791C8461B1B4D5F.title: "Basic Armor"
-	chapter.479D424D5BCA1EDA.title: "Intro"
 	chapter.48410B67C276ED1F.title: "The Bumblezone"
 	chapter.48DB721214AA88E0.title: "Implosion Power"
 	chapter.49AD0D610C009D2F.title: "EnderIO"
@@ -51,6 +45,7 @@
 	chapter.4EAAE0CEB26378A6.title: "Just Dire Things"
 	chapter.4EBB2171D5A3AAAC.title: "Forbidden \\& Arcanus"
 	chapter.4EEDECACDE8F5A67.title: "Oritech"
+	chapter.5103E2D95685ADFF.chapter_subtitle: [ ]
 	chapter.5103E2D95685ADFF.title: "&6The ATM Star"
 	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
@@ -67,7 +62,6 @@
 	chapter.7732CF7AAA63DB3A.title: "The Twilight Forest"
 	chapter.792AD692F1468B1F.chapter_subtitle: ["Plus Star Automation!"]
 	chapter.792AD692F1468B1F.title: "&dCreative"
-	chapter.7A28EC3F22B15056.title: "Radical Red"
 	chapter.7A5C327771634A7D.title: "Building Tips"
 	chapter.7A72E12C3839D165.title: "Nature's Aura"
 	chapter.7AF827D2D101D343.title: "Artifacts"
