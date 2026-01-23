@@ -57,7 +57,7 @@
 			y: 6.5d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -270,11 +270,18 @@
 				}
 			]
 			size: 1.2d
-			tasks: [{
-				id: "2D41E9AF59EC8761"
-				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_apricorn)item(allthemons:vibranium_apricorn)item(allthemons:unobtainium_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "2AEFF05419FFB21B"
+					item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_apricorn)item(allthemons:vibranium_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "1B4097555E0C0000"
+					item: { count: 1, id: "allthemons:unobtainium_apricorn" }
+					type: "item"
+				}
+			]
 			x: 12.0d
 			y: -1.0d
 		}
