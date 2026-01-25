@@ -11,12 +11,12 @@
   "optional": false,
   "requiredDefeats": [
     [
+	"champion_cynthia_05a7"
     ]
   ],
   "series": [
     "atm_team"
   ],
-  "signatureItem": "allthemodium:unobtainium_block",
-  "spawnWeightFactor": 0.25,
-  "type": "team_allthemods"
+  "spawnWeightFactor": 0,
+  "type": "team_allthemods_custom_gym"
 }

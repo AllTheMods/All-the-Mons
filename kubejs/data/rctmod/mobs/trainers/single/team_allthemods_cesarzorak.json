@@ -26,7 +26,6 @@
   "series": [
     "atm_team"
   ],
-  "signatureItem": "allthemons:pika_star",
   "spawnWeightFactor": 0,
-  "type": "team_allthemods"
+  "type": "team_allthemods_elite_gym"
 }

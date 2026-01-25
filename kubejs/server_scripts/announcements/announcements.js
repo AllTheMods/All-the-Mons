@@ -13,11 +13,15 @@ let permanentAnnouncements = Utils.newList()
 // Add your announcements here
 function initAnnouncements(){
   addAnnouncement("0.3.0-beta", "First open beta version of the modpack!")
+
   addPermanentAnnouncement(Text.of("").append(Text.red("This is a beta version, everything is subject to change!")))
   addPermanentAnnouncement(Text.of("For issues, visit: ").append(Text.green("Github Issues").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.of("For mod suggestions or others features, visit: ").append(Text.green("Discussions").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/discussions").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.of("For tech support, visit: ").append(Text.green("Discord #allthemons-techsupport").clickOpenUrl("https://discord.gg/allthemods").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.of("Check our progress at: ").append(Text.green("Tracker [SPOILERS!]").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues/37").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))      
+
+  // keep this at last line
+  addAnnouncement(currentVersion.toString(), Text.translatable("Click %s for changelogs!", Text.green("HERE").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/blob/main/CHANGELOG.md").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
 }
 
 ServerEvents.loaded(event => {

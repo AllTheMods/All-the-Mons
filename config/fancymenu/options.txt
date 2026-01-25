@@ -23,10 +23,10 @@ S:custom_game_intro_skip_text = '';
 
 ##[window]
 
-S:custom_window_icon_16 = '/config/fancymenu/assets/icons/icon_16x16.png';
-B:show_custom_window_icon = 'true';
-S:custom_window_icon_macos = '/config/fancymenu/assets/icons/icon_64x64.icns';
-S:custom_window_icon_32 = '/config/fancymenu/assets/icons/icon_32x32.png';
+S:custom_window_icon_16 = '';
+B:show_custom_window_icon = 'false';
+S:custom_window_icon_macos = '';
+S:custom_window_icon_32 = '';
 S:custom_window_title = '';
 
 

@@ -279,7 +279,7 @@
 		{
 			dependencies: ["6314B892B569A0A5"]
 			icon: {
-				id: "eternal_starlight:muddy_starlight_mangrove_roots"
+				id: "eternal_starlight:muddy_banyin_roots"
 			}
 			id: "3CAD0701EC16C2D8"
 			shape: "hexagon"
@@ -287,7 +287,7 @@
 			tasks: [{
 				biome: "eternal_starlight:dark_swamp"
 				icon: {
-					id: "eternal_starlight:muddy_starlight_mangrove_roots"
+					id: "eternal_starlight:muddy_banyin_roots"
 				}
 				id: "15EAE491D405C7C9"
 				type: "biome"
@@ -303,14 +303,14 @@
 				id: "551C1842778B0CAD"
 				item: {
 					count: 1
-					id: "eternal_starlight:starlight_mangrove_sapling"
+					id: "eternal_starlight:banyin_sapling"
 				}
 				type: "item"
 			}]
 			shape: "square"
 			tasks: [{
 				id: "03FD5D5B56E6EE54"
-				item: { count: 1, id: "eternal_starlight:starlight_mangrove_sapling" }
+				item: { count: 1, id: "eternal_starlight:banyin_sapling" }
 				type: "item"
 			}]
 			x: -4.0d
@@ -1115,7 +1115,7 @@
 					id: "1E4C9DFF11263ADE"
 					item: {
 						count: 1
-						id: "eternal_starlight:trapped_soul"
+						id: "eternal_starlight:soul_dew"
 					}
 					type: "item"
 				}
@@ -1157,7 +1157,7 @@
 					id: "4D9C7A7CB1410D69"
 					item: {
 						count: 1
-						id: "eternal_starlight:trapped_soul"
+						id: "eternal_starlight:soul_dew"
 					}
 					type: "item"
 				}

@@ -28,7 +28,7 @@
         {
           "condition": "rctmod:level_range",
           "range": {
-            "min": 100,
+            "min": 90,
             "max": 100
           }
         }
@@ -50,7 +50,7 @@
         {
           "condition": "rctmod:level_range",
           "range": {
-            "min": 100,
+            "min": 90,
             "max": 100
           }
         }

@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "defeat_team_allthemods_lobsterjonn": {
+      "conditions": {
+        "count": 1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [
+          "team_allthemods_lobsterjonn"
+        ],
+        "trainer_type": null
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_lobsterjonn.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_lobsterjonn.title"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_team_allthemods_dragondogemaster",
+  "requirements": [
+    [
+      "defeat_team_allthemods_lobsterjonn"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "defeat_team_allthemods_all_wandering": {
+      "conditions": {
+        "count": -1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [
+        ],
+        "trainer_type": "team_allthemods_wandering"
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_all_wandering.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_all_wandering.title"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_team_allthemods_wandering",
+  "requirements": [
+    [
+      "defeat_team_allthemods_all_wandering"
+    ]
+  ]
+}

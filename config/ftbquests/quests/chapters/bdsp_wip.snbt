@@ -21,8 +21,8 @@
 				id: "00B29512152CC0E7"
 				type: "advancement"
 			}]
-			x: 0.0d
-			y: -2.5d
+			x: -2.0d
+			y: -3.5d
 		}
 		{
 			id: "6BFE3D64D2FB19C6"
@@ -32,8 +32,128 @@
 				id: "5485D61F336F1849"
 				type: "advancement"
 			}]
-			x: 0.0d
-			y: 0.5d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6BFE3D64D2FB19C6"]
+			id: "1942AC6B2B8839B9"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_2"
+				criterion: ""
+				id: "60021543D2B25EA6"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1942AC6B2B8839B9"]
+			id: "408C3C8A2F38D5CA"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_2"
+				criterion: ""
+				id: "3D3E143FAD40D53B"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["408C3C8A2F38D5CA"]
+			id: "6FEEF313F5670670"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_2"
+				criterion: ""
+				id: "6F24358E38FEF96F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FEEF313F5670670"]
+			id: "33417903318CAC75"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_2"
+				criterion: ""
+				id: "4A1DD1486362F6D1"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33417903318CAC75"]
+			id: "65F488C4B274B40A"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_2"
+				criterion: ""
+				id: "1D7A6E16F91CB909"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["65F488C4B274B40A"]
+			id: "61833ADFB4721A3E"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_3"
+				criterion: ""
+				id: "6C410E7963F6698C"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["61833ADFB4721A3E"]
+			id: "3AED52280A601180"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_3"
+				criterion: ""
+				id: "1B22FED82FB2D397"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3AED52280A601180"]
+			id: "5711ECF2727B1A61"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_3"
+				criterion: ""
+				id: "5D33E10A5B693925"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5711ECF2727B1A61"]
+			id: "22E579F12E0EF4A0"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_3"
+				criterion: ""
+				id: "7FB5A7667ECC3EA3"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["22E579F12E0EF4A0"]
+			id: "699EDB11C7C12923"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_3"
+				criterion: ""
+				id: "4C63A235D7759796"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 5.0d
 		}
 	]
 }

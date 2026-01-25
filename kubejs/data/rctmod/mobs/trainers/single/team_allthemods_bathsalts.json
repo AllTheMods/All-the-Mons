@@ -11,6 +11,7 @@
   "optional": false,
   "requiredDefeats": [
     [
+	"champion_cynthia_05a7"
     ]
   ],
   "series": [
@@ -18,5 +19,5 @@
   ],
   "signatureItem": "allthemodium:unobtainium_block",
   "spawnWeightFactor": 0.25,
-  "type": "team_allthemods"
+  "type": "team_allthemods_custom_gym"
 }

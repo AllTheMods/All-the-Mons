@@ -8,27 +8,36 @@
 	}
 	id: "36E3076EA6D0B753"
 	order_index: 2
-	quest_links: [{
-		id: "25AA7BC93FB0E7F6"
-		linked_quest: "6BFE3D64D2FB19C6"
-		x: -1.5d
-		y: -1.0d
-	}]
+	quest_links: [
+		{
+			id: "25AA7BC93FB0E7F6"
+			linked_quest: "6BFE3D64D2FB19C6"
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "4C74D5EAF7C051D1"
+			linked_quest: "699EDB11C7C12923"
+			x: -2.5d
+			y: -1.5d
+		}
+	]
 	quests: [
 		{
+			dependencies: ["6BFE3D64D2FB19C6"]
 			id: "56A11740B93819D4"
 			tasks: [{
 				id: "741274E84BCE1593"
 				item: { count: 1, id: "allthemons:atm_badge_box" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -2.5d
+			x: -0.5d
+			y: -3.0d
 		}
 		{
 			dependencies: [
-				"6BFE3D64D2FB19C6"
 				"48254318628B60F7"
+				"699EDB11C7C12923"
 			]
 			id: "73CE51862BA4F68B"
 			tasks: [{
@@ -36,131 +45,113 @@
 				item: { count: 1, id: "allthemons:the_skyblock_badge" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 0.5d
+			x: -6.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["6BFE3D64D2FB19C6"]
+			dependencies: ["699EDB11C7C12923"]
 			id: "1E1CF820CF7E88C9"
 			tasks: [{
 				id: "2122ABCCCF430D52"
 				item: { count: 1, id: "allthemons:the_lobster_badge" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 0.5d
+			x: -4.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["6BFE3D64D2FB19C6"]
+			dependencies: ["699EDB11C7C12923"]
 			id: "5A7E0848E16A5453"
 			tasks: [{
 				id: "54EAA80BCC4FFC4B"
 				item: { count: 1, id: "allthemons:the_bathsalts_badge" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 0.5d
+			x: -2.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["6BFE3D64D2FB19C6"]
+			dependencies: ["699EDB11C7C12923"]
 			id: "54530BFB46624C51"
 			tasks: [{
 				id: "166C4D410E68C20B"
 				item: { count: 1, id: "allthemons:the_toblerone_badge" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.5d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"6F976023ECB5CA63"
-			]
+			dependencies: ["6F976023ECB5CA63"]
 			id: "580A66080AB6B117"
 			tasks: [{
 				id: "5071DF172992B007"
 				item: { count: 1, id: "allthemons:the_vortex_badge" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 5.0d
+			x: 5.0d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"580A66080AB6B117"
-			]
+			dependencies: ["580A66080AB6B117"]
 			id: "71AB7656B8B0C84B"
 			tasks: [{
 				id: "28AB4A447207A45E"
 				item: { count: 1, id: "allthemons:the_drunk_badge" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 5.0d
+			x: 6.5d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"6B409AE2D10E174B"
-			]
+			dependencies: ["6B409AE2D10E174B"]
 			id: "4C15052DCF8371A3"
 			tasks: [{
 				id: "4D3824CDA8AACE13"
 				item: { count: 1, id: "allthemons:the_kitty_badge" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 5.0d
+			x: 1.0d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"4C15052DCF8371A3"
-			]
+			dependencies: ["4C15052DCF8371A3"]
 			id: "6F976023ECB5CA63"
 			tasks: [{
 				id: "777CC1484F230993"
 				item: { count: 1, id: "allthemons:the_unknown_badge" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 5.0d
+			x: 3.0d
+			y: 4.5d
 		}
 		{
-			dependencies: ["6BFE3D64D2FB19C6"]
+			dependencies: ["699EDB11C7C12923"]
 			id: "1D236A72F7EC11AE"
 			tasks: [{
 				id: "4447EB7D64497733"
 				item: { count: 1, id: "allthemons:the_microwave_badge" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 0.5d
+			x: 1.5d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"71AB7656B8B0C84B"
-			]
+			dependencies: ["71AB7656B8B0C84B"]
 			id: "5081E5E0BA982973"
 			tasks: [{
 				id: "1DC756354A21724E"
 				item: { count: 1, id: "allthemons:the_notch_badge" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: 8.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
+				"670756F02FD8179F"
+				"7E3857288A505801"
 				"671208DA73DF3987"
-				"1D236A72F7EC11AE"
-				"73CE51862BA4F68B"
-				"1E1CF820CF7E88C9"
-				"54530BFB46624C51"
-				"5A7E0848E16A5453"
 			]
 			id: "13635B28AB1F2E68"
 			tasks: [{
@@ -168,22 +159,19 @@
 				item: { count: 1, id: "allthemons:the_artist_badge" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 5.0d
+			x: -2.5d
+			y: 4.5d
 		}
 		{
-			dependencies: [
-				"671208DA73DF3987"
-				"13635B28AB1F2E68"
-			]
+			dependencies: ["13635B28AB1F2E68"]
 			id: "6B409AE2D10E174B"
 			tasks: [{
 				id: "28CEE994AF481DB8"
 				item: { count: 1, id: "allthemons:the_ralph_badge" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: 5.0d
+			x: -0.5d
+			y: 4.5d
 		}
 		{
 			id: "671208DA73DF3987"
@@ -192,8 +180,8 @@
 				structure: "allthemons:elite_gym"
 				type: "structure"
 			}]
-			x: -1.5d
-			y: 3.0d
+			x: -4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5081E5E0BA982973"]
@@ -203,8 +191,8 @@
 				item: { count: 1, id: "allthemons:ancient_dna_sample" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.0d
+			x: 8.5d
+			y: 6.5d
 		}
 		{
 			id: "48254318628B60F7"
@@ -213,8 +201,38 @@
 				structure: "allthemons:steves_staycation"
 				type: "structure"
 			}]
-			x: -7.5d
-			y: -1.0d
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["699EDB11C7C12923"]
+			id: "670756F02FD8179F"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_allthemods_all_wandering"
+				criterion: ""
+				id: "2C204BD42DE49493"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1D236A72F7EC11AE"
+				"73CE51862BA4F68B"
+				"1E1CF820CF7E88C9"
+				"54530BFB46624C51"
+				"5A7E0848E16A5453"
+			]
+			id: "7E3857288A505801"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_allthemods_all_custom_gym"
+				criterion: ""
+				id: "4AAE9D450D4788E8"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 2.0d
 		}
 	]
 }

@@ -1,0 +1,135 @@
+{
+    "criteria": {
+        "defeat_team_allthemods_bored420": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_bored420"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_drackion": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_drackion"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_helix_ranmaru": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_helix_ranmaru"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_mitchell52": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_mitchell52"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_mutantgumdrop": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_mutantgumdrop"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_shinyporygon": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_shinyporygon"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        },
+        "defeat_team_allthemods_ultramegaa": {
+            "conditions": {
+                "count": 1,
+                "entity": {
+                    "type": null
+                },
+                "trainer_ids": [
+                    "team_allthemods_ultramegaa"
+                ],
+                "trainer_type": null
+            },
+            "trigger": "rctmod:defeat_count"
+        }
+    },
+    "display": {
+        "announce_to_chat": true,
+        "background": null,
+        "description": {
+            "translate": "advancements.rctmod.defeat_team_allthemods_wandering.description"
+        },
+        "frame": "goal",
+        "hidden": false,
+        "icon": {
+            "id": "cobblemon:poke_ball"
+        },
+        "show_toast": true,
+        "title": {
+            "translate": "advancements.rctmod.defeat_team_allthemods_wandering.title"
+        }
+    },
+    "parent": "rctmod:trainers/defeat_any",
+    "requirements": [
+        [
+            "defeat_team_allthemods_bored420"
+        ],
+        [
+            "defeat_team_allthemods_drackion"
+        ],
+        [
+            "defeat_team_allthemods_helix_ranmaru"
+        ],
+        [
+            "defeat_team_allthemods_mitchell52"
+        ],
+        [
+            "defeat_team_allthemods_mutantgumdrop"
+        ],
+        [
+            "defeat_team_allthemods_shinyporygon"
+        ],
+        [
+            "defeat_team_allthemods_ultramegaa"
+        ]
+    ]
+}
