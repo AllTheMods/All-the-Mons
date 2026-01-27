@@ -1926,6 +1926,7 @@
 				id: "industrialforegoingsouls:soul_laser_base"
 			}
 			id: "79D48F8F31B152C3"
+			optional: true
 			rewards: [
 				{
 					exclude_from_claim_all: true
