@@ -2889,23 +2889,6 @@
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
-			id: "4E8860056D068610"
-			rewards: [{
-				id: "2235C82408ACF1C3"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "diamond"
-			tasks: [{
-				id: "7097C167AAB4B666"
-				item: { components: { "immersiveengineering:blueprint": "electrode" }, count: 1, id: "immersiveengineering:blueprint" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: -7.0d
-		}
-		{
-			dependencies: ["23FDFA44A162023A"]
 			id: "763AE58CF620695E"
 			rewards: [{
 				id: "103F17A7ECDE1E5B"
@@ -2918,8 +2901,8 @@
 				item: { components: { "immersiveengineering:blueprint": "bannerpatterns" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -8.0d
+			x: -2.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
@@ -2935,8 +2918,8 @@
 				item: { components: { "immersiveengineering:blueprint": "components" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -9.0d
+			x: -1.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
@@ -2952,7 +2935,7 @@
 				item: { components: { "immersiveengineering:blueprint": "warning_sign" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -0.5d
 			y: -9.5d
 		}
 		{
@@ -2969,8 +2952,8 @@
 				item: { components: { "immersiveengineering:blueprint": "specialBullet" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -9.0d
+			x: 0.5d
+			y: -9.5d
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
@@ -2986,8 +2969,8 @@
 				item: { components: { "immersiveengineering:blueprint": "bullet" }, count: 1, id: "immersiveengineering:blueprint" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -8.0d
+			x: 1.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
@@ -3004,7 +2987,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -7.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["23FDFA44A162023A"]
