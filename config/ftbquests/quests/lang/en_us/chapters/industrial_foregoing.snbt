@@ -26,7 +26,7 @@
 	quest.2580135392DEF522.quest_subtitle: "HNN but for crops?"
 	quest.2580135392DEF522.title: "Simulated Hydroponic Bed"
 	quest.2782EA80C1C74EBD.quest_desc: ["The Mob Crusher &ldeletes&r mobs in its working area, collecting that mob's loot, as well as converting the &aExperience&r that mob would get into &aEssence&r. You can also optionally use the would be Experience to apply Looting to the Mob Crusher instead.\\n\\nBosses and other mobs that cannot go into spawners are \"blacklisted\" from the Mob Crusher. Instead of being &ldeleted&r, they take 75 damage per operation.\\n\\nThis machine supports Range Addons."]
-	quest.2782EA80C1C74EBD.quest_subtitle: "Endless Gateway Crusher, too"
+	quest.2782EA80C1C74EBD.quest_subtitle: ""
 	quest.287B47E27EBC2C18.quest_desc: ["The Enchantment Factory is basically an automated Enchanting Table. When provided with Gear/Books and &aEssence&r, it will enchant that item with something random. This machine can use fluids from tanks directly above it, to allow for an increased potential for enchanting gear and books."]
 	quest.28B3591BFC0FA08B.quest_desc: ["The Wither Builder, as its name implies, builds Withers. It's part of the Wither's Compass for the ATM Star.\\n\\n&8You may want to encase the Wither Builder in some witherproof glass, to prevent Withers from blowing it up."]
 	quest.2CCFEE98FE3B2E97.quest_desc: ["These machines are used to automate block placing/breaking. This is especially useful when automating Latex."]
