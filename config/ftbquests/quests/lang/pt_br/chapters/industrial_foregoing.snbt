@@ -26,7 +26,6 @@
 	quest.2580135392DEF522.quest_subtitle: "HNN mas para plantações?"
 	quest.2580135392DEF522.title: "Canteiro Hidropônico Simulado"
 	quest.2782EA80C1C74EBD.quest_desc: ["O Triturador de Mobs &ldeleta&r mobs em sua área de trabalho, coletando o saque desse mob, além de converter a &aExperiência&r que aquele mob obteria em &aEssência&r. Você também pode opcionalmente usar o que seria a Experiência para aplicar Saque ao Triturador de Mobs.\\n\\nChefes e outros mobs que não podem ir para geradores estão na \"lista negra\" do Triturador de Mobs. Em vez de serem &ldeletados&r, eles recebem 75 de dano por operação.\\n\\nEsta máquina suporta Adicionais de Alcance."]
-	quest.2782EA80C1C74EBD.quest_subtitle: ""
 	quest.287B47E27EBC2C18.quest_desc: ["A Fábrica de Encantamentos é basicamente uma Mesa de Encantamentos automatizada. Quando fornecida com Equipamento/Livros e &aEssência&r, ela encantará aquele item com algo aleatório. Esta máquina pode usar fluidos de tanques diretamente acima dela, para permitir um potencial aumentado para encantar equipamentos e livros."]
 	quest.28B3591BFC0FA08B.quest_desc: ["O Construtor de Wither, como seu nome indica, constrói Withers. É parte da Bússola do Wither para a Estrela ATM.\\n\\n&8Você pode querer revestir o Construtor de Wither em algum vidro à prova de wither, para evitar que os Withers o explodam."]
 	quest.2CCFEE98FE3B2E97.quest_desc: ["Estas máquinas são usadas para automatizar a colocação/quebra de blocos. Isso é especialmente útil ao automatizar o Látex."]
@@ -108,13 +107,12 @@
 	quest.6E131A32A96D7BF5.quest_desc: ["O Refinador de Lodo pode usar &#5919B6Lodo&r para produzir coisas como Terra, Cascalho, Areia das Almas... o que quer que seja... verifique o JEI para o resto."]
 	quest.6FF04DD735346BED.quest_desc: ["Transforma Látex em Borracha Seca. Usa 750 mB de Látex e 500 mB de &9Água&r para produzir 1 Borracha Seca."]
 	quest.79D48F8F31B152C3.quest_desc: [
-		"&bIndustrial Foregoing &#27AEB9Almas&r adiciona máquinas para permitir que você acelere outras máquinas.\\n\\nA &#27AEB9Base de Laser de Alma&r é o coração disso, funcionando de forma semelhante a uma Base de Laser de Fluido extraindo Gás de Éter de um Wither. Ela usa &9Lente Laser Azul&r para extrair &#27AEB9Almas&r de um &#27AEB9Warden&r, que podem ser extraídas com &#27AEB9Tubos de Alma&r, ou usadas com um dos dois principais mods de armazenamento digital (AE2 e RS). Essas &#27AEB9Almas&r serão usadas por &#27AEB9Surtos de Alma&r, a fim de acelerar blocos.\\n\\nExtrair &#27AEB9Almas&r do &#27AEB9Warden&r é um processo &4&ldoloroso&r para a criatura, o que significa que ela sofre dano com o processo, e pode até morrer com isso. Câmaras de Estase são altamente recomendadas, especialmente com melhorias para tornar a cura mais rápida."
+		"&c&lAviso: No momento em que este texto foi escrito, o Mewtwo é inobtível. Como resultado, o mod Industrial Foregoing Souls não tem utilidade neste momento.&r \\n\\n&bIndustrial Foregoing &#27AEB9Souls&r adiciona máquinas para permitir que você acelere outras máquinas.\\n\\nA &#27AEB9Base de Laser de Alma&r é o coração disso, funcionando de forma semelhante a uma Base de Laser de Fluido extraindo Gás Éter de um Wither. Ela usa &9Lente de Laser Azul&r para extrair &#27AEB9Almas&r de um &#27AEB9Mewtwo&r, que podem ser extraídas com &#27AEB9Tubos de alma&r, ou usadas com AE2. Estas &#27AEB9Almas&r serão usadas por &#27AEB9Conduto de Alma&r para acelerar blocos. Sim, eu sei que a maioria de vocês está acostumada a extrair &#27AEB9Almas&r de um &#27AEB9Warden&r, mas fala sério, tivemos que dar uma folga para aquela criatura.\\n\\nExtrair &#27AEB9Almas&r do &#27AEB9Mewtwo&r é um processo &4&ldoloroso&r para a criatura, o que significa que ela recebe dano do processo e pode até morrer por causa disso. Câmaras de Estase são altamente recomendadas, especialmente com melhorias para tornar a cura mais rápida."
 		"{@pagebreak}"
-		"Certifique-se de que haja uma lacuna de 3 blocos entre o chão e a &#27AEB9Base de Laser de Alma&r, assim:"
+		"Certifique-se de que haja um espaço de 3 blocos entre o chão e a &#27AEB9Base de Laser de Alma&r, assim:"
 		"{image:atm:textures/questpics/industrialforegoing/soul_laser_gap.png width:100 height:100 align:center}"
-		"Além disso, certifique-se de que o &#27AEB9Warden&r tenha emergido totalmente antes de colocá-lo sob estase."
 	]
-	quest.79D48F8F31B152C3.quest_subtitle: "Tem que ser rápido!"
+	quest.79D48F8F31B152C3.quest_subtitle: "Tem que ser rápido! (WIP)"
 	quest.79D48F8F31B152C3.title: "&bIndustrial Foregoing &#27AEB9Almas"
 	quest.7B4AF35313D7D779.quest_subtitle: "Nível: &64"
 	quest.7B4AF35313D7D779.title: "&6Chassi de Máquina Supremo"
@@ -130,4 +128,5 @@
 	task.6D00B76B8A141BB8.title: "Qualquer #advanced_ae:adv_pattern_provider"
 	task.7058D3373DA87B34.title: "TodosOsDireitosReservados"
 	task.7FBDB1383D052B82.title: "Ponto de Exportação ME OU Interface ME"
+
 }
