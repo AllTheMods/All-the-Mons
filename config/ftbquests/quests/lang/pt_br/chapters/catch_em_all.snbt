@@ -1,0 +1,152 @@
+{
+	quest.07016F654CFFAA20.quest_desc: [
+		"Se você quer uma surpresa sobre qual &6Fóssil&r dá o quê, então não vire a página!"
+		"{@pagebreak}"
+		"&eFóssil Espiral&r - &6Oma&bnyte&r \\n&eFóssil Cúpula&r - &6Kab&buto&r \\n&6Fóssil de Âmbar Velho&r - &6Aero&9dactyl&r \\n&aFóssil Raiz&r - &6Lil&2eep&r \\n&aFóssil Garra&r - &6Ano&arith&r \\n&cFóssil Crânio&r - &6Cranidos&r \\n&cFóssil Armadura&r - &6Shiel&7don&r \\n&5Fóssil Casca&r - &9Tirt&6ouga&r \\n&5Fóssil Pluma&r - &6Arc&9hen&r \\n&7Fóssil Mandíbula&r - &6Tyr&9unt&r \\n&3Fóssil Crista&r - &6Ama&bura&r "
+		"{@pagebreak}"
+		"Os últimos 4 &6Fósseis&r funcionam de forma diferente. Você precisa combinar 2 desses &6Fósseis&r para obter 1 &cPokémon&r. \\n\\n&6Pássaro&r + &aDracônico&r = &eDraco&9zolt&r \\n&6Pássaro&r + &5Dino&r = &eArcto&bzolt&r \\n&bPeixe&r + &aDracônico&r = &bDraco&9vish&r \\n&bPEIXE&r + &5Dino&r = &bArctovish&r"
+	]
+	quest.07016F654CFFAA20.title: "&6Fósseis"
+	quest.07392142A0166032.quest_desc: [
+		"Preservado no tempo jazem os restos de um Esqueleto Preservado. \\n\\nAo redor dos Ossos haverá &7Cascalho Suspeito&f e &eAreia&r. "
+		"{image:atm:textures/questpics/pokemon/find_skeleton.png width:200 height:100 align:center}"
+	]
+	quest.07392142A0166032.title: "Esqueleto Pré-histórico Preservado"
+	quest.131ACE9712128876.quest_desc: ["O &3PokeLocalizadores&r faz exatamente o que o nome sugere! Ele fornece um mapa de &cPokémon&r perto de você e vem com filtros para encontrar &cPokémon&r específicos. \\n\\nVocê pode abrir seu &3PokeLocalizadores&r para digitar os filtros. A espécie que você deseja, Aspectos e Marcadores. \\n\\nQuando os filtros estão configurados, apenas aqueles que se encaixam nos filtros serão mostrados no mapa. \\n\\nAtivar Filtros Estritos significa que, quando houver múltiplos Aspectos ou Marcadores, ele procurará apenas por &cPokémon&r com todos os Aspectos ou Marcadores listados."]
+	quest.131ACE9712128876.title: "&3PokeLocalizadoress"
+	quest.16B06A4C0B9F8DFB.quest_desc: [
+		"Dentro de Pântanos você pode encontrar Poços Enraizados. \\n\\n&8Lama &fe &2Raízes&r com um pouco de &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_root.png width:200 height:100 align:center}"
+	]
+	quest.16B06A4C0B9F8DFB.title: "Poço Enraizado Pré-histórico"
+	quest.21281EC844F00D68.quest_desc: [
+		"Um Oceano diferente desta vez! O Oceano de Corais. Ele vem com Fontes Hidrotermais Vibrantes. \\n\\nAo redor da estrutura você encontrará &eAreia Suspeita&r."
+		"{image:atm:textures/questpics/pokemon/find_vibrant.png width:200 height:100 align:center}"
+	]
+	quest.21281EC844F00D68.title: "Fontes Hidrotermais Vibrantes Pré-históricas"
+	quest.2150D54D18BD85EE.quest_desc: ["Finalmente você pode lançar sua &cVara&r. Isso consumirá a &2Bolota&r. \\n\\nAssim que a boia começar a balançar, clique com o botão direito para puxar o &cPokémon&r para fora! \\n\\nIsso iniciará a batalha com esse &cPokémon&r. \\n\\nEntão, você terá que usar um turno na batalha para lançar uma &cPoke&rbola neles."]
+	quest.2150D54D18BD85EE.title: "Hora da Pesca"
+	quest.222E16E832A13624.quest_desc: [
+		"Nas profundezas das Cavernas de Espeleotema, você pode encontrar uma espécie de Oásis! \\n\\nAqui, &7Cascalho Suspeito&r surgirá no chão dele."
+		"{image:atm:textures/questpics/pokemon/find_dripstone.png width:200 height:100 align:center}"
+	]
+	quest.222E16E832A13624.title: "Oásis de Espeleotema Pré-histórico"
+	quest.2444614287B6398E.quest_desc: [
+		"Raramente nas Planícies você pode encontrar alguns blocos diferentes saindo do chão. Pode ser um Monte Suspeito! \\n\\n&7Cascalho Suspeito&r surge sob a &2Grama&r e algumas &7Pedras&r."
+		"{image:atm:textures/questpics/pokemon/find_sus_mound.png width:200 height:100 align:center}"
+	]
+	quest.2444614287B6398E.title: "Monte Suspeito Pré-histórico"
+	quest.24DB1F587DB99074.quest_desc: [
+		"A Multibloco de Ressurreição de Fóssil precisa de 3 blocos. O Analisador de Fósseis, Monitor de dados e Tanque de Restauração. Posicione-os neste design."
+		"{image:atm:textures/questpics/pokemon/find_fossil.png width:100 height:100 align:center} "
+		"Antes de começarmos a restaurar ou ressuscitar ou qualquer coisa! Precisamos de combustível... O combustível vem na forma de vários itens de &2Plantações &fe &2Plantas&r. \\n\\nItens de comida como Bolotas, Bife e Bolo. Líquidos como Mel ou Ensopado Suspeito. Até coisas que não podemos comer como Mudas, Flores e Folhas! \\n\\nAssim que o tanque estiver cheio, podemos colocar nosso &6Fóssil&r no Analisador de Fósseis. Se estivermos usando alguns dos &6Fósseis&r especiais, você precisará colocar 2 &6Pokémon fossilizados&r únicos nele. \\n\\nQuando começar a funcionar, ele ligará, a tela brilhará, o Analisador disparará lasers vermelhos e o tanque borbulhará. \\n\\nFinalmente, quando tudo estiver resolvido e pronto, o &6Fóssil&r será agora um &cPokémon&r totalmente restaurado no tanque. Use uma &cPokebola&r no tanque e ele capturará o &cPokémon&r automaticamente."
+	]
+	quest.24DB1F587DB99074.title: "Ressurreição de Fóssil"
+	quest.25498A20F05FB703.quest_desc: ["Se um Aldeão estiver desempregado (e não for um &2Tolo&r!), você pode colocar um bloco de profissão e ele irá até ele para se tornar empregado. \\n\\nO bloco específico determina a profissão, e precisamos de um Barril para um &bPescador&r. \\nContinue negociando com eles e eles ganharão experiência. Quando atingirem o nível máximo, todas as trocas serão desbloqueadas. Precisamos de um &bPescador Mestre&r para obter o... \\n\\n&bModelo de Aprimoramento de PokeVara&r."]
+	quest.25498A20F05FB703.title: "&bModelo de Aprimoramento de PokeVara"
+	quest.268DEC15019B7CF0.quest_desc: [
+		"Perto do fundo do oceano, você pode ser arrastado para as Fontes Hidrotermais. \\n\\nO &7Cascalho Suspeito&r surge perto de todo o outro &7Cascalho&r no fundo do oceano!"
+		"{image:atm:textures/questpics/pokemon/find_hydrothermal.png width:200 height:100 align:center}"
+	]
+	quest.268DEC15019B7CF0.title: "Fontes Hidrotermais Pré-históricas"
+	quest.2E4A0D8AEA1AE6B6.quest_desc: [
+		"Outra estrutura de Terras Ruins! Os Restos Chamuscados pelo Sol. Não sei o que aconteceu, mas aparentemente alguém irritou um &cPokémon de Fogo&r. \\n\\n&7Cascalho Suspeito&r surge abaixo da Areia Vermelha."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_remains.png width:200 height:100 align:center}"
+	]
+	quest.2E4A0D8AEA1AE6B6.title: "Restos Chamuscados pelo Sol Pré-históricos"
+	quest.2EC9EC0184C2024D.quest_desc: [
+		"Outra estrutura dentro das Cavernas Exuberantes, a Lagoa Musgosa. \\n\\nO &7Cascalho Suspeito&r surge sob a &9Água&r."
+		"{image:atm:textures/questpics/pokemon/find_mossy.png width:200 height:100 align:center}"
+	]
+	quest.2EC9EC0184C2024D.title: "Lagoa Musgosa Pré-histórica"
+	quest.2F71A83DC5E91615.quest_desc: [
+		"Existem muitas estruturas estranhas abaixo das profundezas do oceano. O Impacto Submerso é definitivamente uma das mais estranhas. \\n\\nDentro da quase caverna, há &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_submerged_impact.png width:200 height:100 align:center}"
+	]
+	quest.2F71A83DC5E91615.title: "Impacto Submerso Pré-histórico"
+	quest.3308D7EDFBF51190.quest_desc: [
+		"Desertos têm montes e montes. Alguns até Tocas Arenosas! \\n\\n&eAreia Suspeita&r surge na toca."
+		"{image:atm:textures/questpics/pokemon/find_sandy.png width:200 height:100 align:center}"
+	]
+	quest.3308D7EDFBF51190.title: "Toca Arenosa Pré-histórica"
+	quest.397E11CDCB8B4DC4.quest_desc: [
+		"Congelado no tempo, e congelado dentro de qualquer bioma gélido, está a Lagoa Congelada. \\n\\nDentro do &bGelo&r você encontrará &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_frozen_pond.png width:200 height:100 align:center}"
+	]
+	quest.397E11CDCB8B4DC4.title: "Lagoa Congelada Pré-histórica"
+	quest.3B5578F000D6AD9E.quest_desc: ["Combine qualquer Vara de Pesca com o &bModelo de Aprimoramento de PokeVara&r e uma &cPoke&rbola para criar uma &cPoke&rRod! \\n\\nA &cPoke&rbola utilizada apenas mudará a aparência da &cPoke&rRod... não use as caras para isso. \\n\\nA minha favorita é a que usa a &dBola Cura&r!"]
+	quest.3B5578F000D6AD9E.title: "Criando uma &cPoke&rRod"
+	quest.3E822975A8A66EBD.quest_desc: [
+		"Poços de Lama surgem em Selvas, e eu só fico feliz que não sejam areia movediça! \\n\\n&7Cascalho Suspeito&r está localizado sob a &8Lama&r."
+		"{image:atm:textures/questpics/pokemon/find_mud.png width:200 height:100 align:center}"
+	]
+	quest.3E822975A8A66EBD.title: "Poço de Lama Pré-histórico"
+	quest.3FC34BEE629F4037.quest_desc: [
+		"Lá nos biomas nevados, vem o perigo da Neve Fofa. Ela pode levar a uma derrota gelada, uma grande queda ou até mesmo fósseis! \\n\\nO &7Cascalho Suspeito&r está sob a neve fofa."
+		"{image:atm:textures/questpics/pokemon/find_powder.png width:200 height:100 align:center}"
+	]
+	quest.3FC34BEE629F4037.title: "Depósito de Neve Fofa Pré-histórico"
+	quest.410492282A446A06.quest_desc: ["O &aPokeNav&r é uma ferramenta para ajudar a entender quais &cPokémon&r irão (ou podem) surgir perto de você. \\n\\nEle é ajustado para qualquer bioma em que você esteja. \\n\\nAbrindo o &aPokeNav&r, você terá uma longa lista de &cPokémon&r! \\n\\nOs botões no topo mudarão a raridade de surgimento de cada &cPokémon&r, se a lista é por ordem de mais comum para menos comum ou vice-versa, e o último atualiza a lista! \\n\\nPassar o mouse sobre um &cPokémon&r na lista mostrará informações. A espécie, chance de surgimento, se você já os encontrou, quantos capturou ou nocauteou, e quaisquer requisitos específicos de surgimento. \\n\\nRequisitos como luz solar, clima ou até hora do dia!"]
+	quest.410492282A446A06.title: "&aPokeNav"
+	quest.421C02BBAF6616FC.quest_desc: ["Parabéns por encontrar um &6Sítio de Fósseis&r!... e agora? \\n\\nPegue (ou fabrique) um Pincel. Então, olhe para a &eAreia Suspeita &fou &7Cascalho&r e segure o botão direito. \\n\\nIsso pincelará os blocos suspeitos e revelará itens. Os itens são definidos a partir de tabelas de saque aleatório, como baús de masmorras. \\n\\nNo entanto, locais diferentes dão &6Fósseis&r diferentes."]
+	quest.421C02BBAF6616FC.title: "&6&lArqueologia"
+	quest.55BF1E9BB9F0768D.quest_desc: [
+		"Acho que você já conhece o padrão, onde quer que haja Abeto, estas estão! \\n\\nSiga os troncos para baixo para encontrar &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_spruce.png width:200 height:100 align:center}"
+	]
+	quest.55BF1E9BB9F0768D.title: "Abeto Pré-histórico"
+	quest.57CE837EC3FD5BA1.quest_desc: ["Com ambas as ferramentas, nenhum &cPokémon&r poderá se esconder de nós! \\n\\nClicar em um &cPokémon&r no &aPokeNav&r abrirá a página dele. Se houver um por perto, mostrará todos os seus status! E o mais importante, nos permitirá rastreá-lo. \\n\\nAo rastrear um &cPokémon&r, uma &cPok&rebola na sua tela apontará na direção do &cPokémon&r e contará a quantos blocos de distância ele está. \\n\\nE se você tiver dificuldade em digitar nomes de &cPokémon&r (como 99% de nós), você pode usar o botão à esquerda do botão de rastreio ao visualizar um &cPokémon&r para adicioná-lo ao seu &3PokeLocalizadores&r!"]
+	quest.57CE837EC3FD5BA1.title: "Encontre todos!"
+	quest.5B8A381EFA3D836B.quest_desc: [
+		"Acima dos biomas gélidos, alguns espigões podem ser como o Espigão Submerso. \\n\\nEstes vêm com &eAreia Suspeita&r! "
+		"{image:atm:textures/questpics/pokemon/find_submerged_spike.png width:200 height:100 align:center}"
+	]
+	quest.5B8A381EFA3D836B.title: "Espigão Submerso Pré-histórico"
+	quest.5ECE56EAB6773769.quest_desc: ["Peixes (e &cPokémon&r peixes) não são atraídos por anzóis assustadores! Apenas anzóis assustadores que tenham iscas saborosas neles. \\n\\nPara pescar &cPokémon&r, precisaremos de &2Bolotas&r! \\n\\nDiferentes &2Bolotas&r dão efeitos diferentes para a pesca. Seja tornando um certo tipo de &cPokémon&r mais comum, dando melhores status ou até aumentando o nível dos &cPokémons&r. \\n\\nPara usá-las, segure as &2Bolotas&r na sua mão secundária ao pescar."]
+	quest.5ECE56EAB6773769.title: "Isca de Pesca"
+	quest.6F2E30BE5CF82C77.quest_desc: [
+		"Sob a &9Água&r, novamente, temos a Fissura Subaquática. \\n\\nDentro dela você pode encontrar &7Cascalho Suspeito&r por toda parte."
+		"{image:atm:textures/questpics/pokemon/find_underwater.png width:200 height:100 align:center}"
+	]
+	quest.6F2E30BE5CF82C77.title: "Fissura Subaquática Pré-histórica"
+	quest.72DCD32EC59F8E9C.quest_desc: [
+		"Onde quer que o &bGelo&r surja, o Espigão Congelado também surgirá! \\n\\nComo o Pilar Errodido, o &7Cascalho Suspeito&r surge dentro do espigão."
+		"{image:atm:textures/questpics/pokemon/find_frozen_spike.png width:200 height:100 align:center}"
+	]
+	quest.72DCD32EC59F8E9C.title: "Espigão Congelado Pré-histórico"
+	quest.731A8877EA474D67.quest_desc: [
+		"Atravessando as vibrantes Terras Ruins, está o Pilar Errodido. \\n\\nCom isso, o &7Cascalho Suspeito&r surge dentro do pilar."
+		"{image:atm:textures/questpics/pokemon/find_eroded.png width:200 height:100 align:center}"
+	]
+	quest.731A8877EA474D67.title: "Pilar Errodido Pré-histórico"
+	quest.74285B2AC6E00D20.quest_desc: [
+		"Aventurando-se pelas selvas você pode encontrar uma pequena depressão, essa depressão é a Toca Exuberante! \\n\\n&7Cascalho Suspeito&r surge dentro delas."
+		"{image:atm:textures/questpics/pokemon/find_lush.png width:200 height:100 align:center}"
+	]
+	quest.74285B2AC6E00D20.title: "Toca Exuberante Pré-histórica"
+	quest.775D4E9974C70D5C.quest_desc: [
+		"Em qualquer lugar que você encontrar uma Carvalho, poderá encontrar uma Carvalho Pré-histórico! \\n\\nAbaixo dos troncos haverá &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_oak.png width:200 height:100 align:center}"
+	]
+	quest.775D4E9974C70D5C.title: "Carvalho Pré-histórico"
+	quest.7781133CB04584AA.quest_desc: [
+		"Um nome muito chique para dizer \"caverna dentro de caverna exuberante\"! \\n\\nO &7Cascalho Suspeito&r surgirá sob a &9Água&r."
+		"{image:atm:textures/questpics/pokemon/find_enhydro.png width:200 height:100 align:center}"
+	]
+	quest.7781133CB04584AA.title: "Ágata Enidro Pré-histórica"
+	quest.78FC6687B5FD964F.quest_desc: [
+		"A Bétula Pré-histórica surge onde quer que as Bétulas surjam. \\n\\nBem abaixo dos troncos da árvore haverá &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_birch.png width:200 height:100 align:center}"
+	]
+	quest.78FC6687B5FD964F.title: "Bétula Pré-histórica"
+	quest.7E8CBDC0377013E0.quest_desc: [
+		"Outra estrutura nas Terras Ruins, a Toca Chamuscada pelo Sol. \\n\\nEducadamente dentro da toca fica o &7Cascalho Suspeito&r."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_den.png width:200 height:100 align:center}"
+	]
+	quest.7E8CBDC0377013E0.title: "Toca Chamuscada pelo Sol Pré-histórica"
+	task.03C72EFDFD9D0F8D.title: "PokeVara"
+	task.419216305C141D67.title: "PokeLocalizadores"
+	task.570E6A812FFE21EF.title: "Fósseis"
+	task.6A9462E51E54383F.title: "Bolotas"
+	task.7DA1C949AC80BCBF.title: "PokeLocalizadores"
+}
