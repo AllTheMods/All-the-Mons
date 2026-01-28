@@ -7,14 +7,32 @@
 		id: "minecraft:recovery_compass"
 	}
 	id: "1BE666F01EFFC00D"
-	images: [{
-		height: 3.0d
-		image: "atm:textures/questpics/tips_and_tricks.png"
-		rotation: 0.0d
-		width: 12.0d
-		x: 0.0d
-		y: -2.0d
-	}]
+	images: [
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/tips_title.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/diamond"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon:item/poke_balls/poke_ball"
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.5d
+			y: -2.0d
+		}
+	]
 	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -108,7 +126,7 @@
 				id: "3DC008A578A93CCF"
 				type: "checkmark"
 			}]
-			x: 0.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -244,7 +262,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
+			x: 3.0d
 			y: 1.5d
 		}
 		{
@@ -447,6 +465,288 @@
 			}]
 			x: 0.0d
 			y: 3.5d
+		}
+		{
+			id: "23D1F785BACBD39B"
+			rewards: [
+				{
+					id: "6CC0C5A3ED371FA0"
+					item: {
+						count: 1
+						id: "cobblemon:pasture"
+					}
+					type: "item"
+				}
+				{
+					id: "5E4B91421015F9F9"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "12F85911A4BEBFF8"
+				item: { count: 1, id: "cobblemon_utility:transmutationorb" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "3DA07EE81C9E13BF"
+			rewards: [
+				{
+					count: 2
+					id: "3DC74CF2CE588020"
+					item: {
+						count: 1
+						id: "cobblemon:black_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "598C49054CC7EA3D"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "55618315C3C563FC"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn"
+					}
+					type: "item"
+				}
+				{
+					id: "2F5643E516B1BF3B"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2AFFB9090A5B8CAF"
+				item: { count: 1, id: "cobblemon_utility:ballsynchronizer" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "3B67558967871EB5"
+			rewards: [
+				{
+					id: "2557F80F413CED0C"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "6F650B6203FB10E4"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2E965A38D00B8C77"
+				item: { count: 1, id: "cobblemon_utility:shinycard" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "159FAAE66F20FB4F"
+			rewards: [
+				{
+					id: "0404F697CF0F9332"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+				{
+					id: "3C57823F11267F78"
+					item: {
+						count: 1
+						id: "cobblemon:remedy"
+					}
+					type: "item"
+				}
+				{
+					id: "08477224CC1E4EFE"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "41D4434AE6ABBE2A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:friend_ball)item(cobblemon:luxury_ball)item(cobblemon:heal_ball))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "620913A1FF09255F"
+			rewards: [
+				{
+					count: 2
+					id: "5A489226683E7D8F"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_wing_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "6F7F6F80E8C3AAB0"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B0B4FE92ACE168D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:ancient_feather_ball)item(cobblemon:ancient_wing_ball)item(cobblemon:ancient_jet_ball)item(cobblemon:ancient_heavy_ball)item(cobblemon:ancient_leaden_ball)item(cobblemon:ancient_gigaton_ball))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "58D3CBB518020833"
+			rewards: [
+				{
+					count: 3
+					id: "39A8B0D88CE7C28F"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "11BC5E8465C19F00"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59CCC8560F55F743"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:safari_ball)item(cobblemon:fast_ball)item(cobblemon:level_ball)item(cobblemon:lure_ball)item(cobblemon:heavy_ball)item(cobblemon:love_ball)item(cobblemon:moon_ball)item(cobblemon:park_ball)item(cobblemon:net_ball)item(cobblemon:dive_ball)item(cobblemon:nest_ball)item(cobblemon:repeat_ball)item(cobblemon:timer_ball)item(cobblemon:dusk_ball)item(cobblemon:quick_ball)item(cobblemon:dream_ball)item(cobblemon:beast_ball))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "40708C304424C3FE"
+			rewards: [
+				{
+					count: 3
+					id: "32660C0BC7A077C8"
+					item: {
+						count: 1
+						id: "rctmod:trainer_repel_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "2641E41907EB358F"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "562C01C0A1E75406"
+				item: { count: 1, id: "rctmod:trainer_repel_rod" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			id: "1CA43B9A95159AD0"
+			rewards: [
+				{
+					id: "3A40352B94C89249"
+					item: {
+						count: 1
+						id: "cobblemon:max_ether"
+					}
+					type: "item"
+				}
+				{
+					id: "28F2B01044634B27"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7CF36B2DD1136490"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:type_gems))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"23D1F785BACBD39B"
+				"159FAAE66F20FB4F"
+				"58D3CBB518020833"
+				"3DA07EE81C9E13BF"
+				"40708C304424C3FE"
+				"1CA43B9A95159AD0"
+				"3B67558967871EB5"
+				"620913A1FF09255F"
+			]
+			hide_dependency_lines: true
+			id: "3FEFD0340A60DD5F"
+			rewards: [{
+				id: "7E5130B09FAB1FE0"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "14F7981692060FAA"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: 5.0d
 		}
 	]
 }
