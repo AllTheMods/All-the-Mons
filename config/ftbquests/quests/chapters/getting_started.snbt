@@ -184,10 +184,8 @@
 			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
-				advancement: "cobblemon:first_catch"
-				criterion: ""
-				id: "754C96E14EF29755"
-				type: "advancement"
+				id: "633B3A18AF62215E"
+				type: "custom"
 			}]
 			x: 3.5d
 			y: 2.0d
@@ -195,7 +193,7 @@
 		{
 			dependencies: ["270BEFADE842144B"]
 			icon: {
-				id: "minecraft:oak_log"
+				id: "minecraft:white_concrete"
 			}
 			id: "012A8C905608C86E"
 			rewards: [{
@@ -209,8 +207,8 @@
 			}]
 			shape: "octagon"
 			tasks: [{
-				id: "75C0A362F2FC3119"
-				structure: "#minecraft:village"
+				id: "6B0F0D755232DE0F"
+				structure: "cobblemonextrastructures:pokemon_center"
 				type: "structure"
 			}]
 			x: 4.5d
@@ -360,6 +358,9 @@
 		}
 		{
 			dependencies: ["4E943465A0F727A9"]
+			icon: {
+				id: "cobblemon:rare_candy"
+			}
 			id: "22B99F88295EC967"
 			rewards: [
 				{
@@ -383,9 +384,6 @@
 			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
-				icon: {
-					id: "cobblemon:rare_candy"
-				}
 				id: "45917FB36443E72A"
 				type: "custom"
 			}]
@@ -409,9 +407,6 @@
 			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
-				icon: {
-					id: "cobblemon:poke_ball"
-				}
 				id: "1B2F05BF5D48329D"
 				type: "custom"
 			}]
@@ -573,12 +568,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_normal.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "20B3F9F1CE3390F0"
 				type: "custom"
 			}]
@@ -603,12 +592,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fire.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "43147E2E5C5F82FE"
 				type: "custom"
 			}]
@@ -633,12 +616,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_water.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "4AE93F7B08939F9E"
 				type: "custom"
 			}]
@@ -663,12 +640,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_grass.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "1F594257CC0242C5"
 				type: "custom"
 			}]
@@ -693,12 +664,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_electric.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "00A19B1AF9190E63"
 				type: "custom"
 			}]
@@ -723,12 +688,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ice.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "0AA2B65F753F73C2"
 				type: "custom"
 			}]
@@ -753,12 +712,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fight.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "5B8FFDAD3656AC1F"
 				type: "custom"
 			}]
@@ -783,12 +736,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_poison.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "300456D611679CBD"
 				type: "custom"
 			}]
@@ -813,12 +760,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ground.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "57FC96B0E217BDDD"
 				type: "custom"
 			}]
@@ -843,12 +784,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fly.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "6316CFB3E914AFA6"
 				type: "custom"
 			}]
@@ -873,12 +808,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_psychic.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "2EC0B91DDBE09BEE"
 				type: "custom"
 			}]
@@ -903,12 +832,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_rock.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "175ACBBE95D80432"
 				type: "custom"
 			}]
@@ -933,12 +856,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ghost.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "3BFEB36624783EBC"
 				type: "custom"
 			}]
@@ -963,12 +880,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dragon.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "6C915513662EB128"
 				type: "custom"
 			}]
@@ -993,12 +904,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dark.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "66878F47E725797B"
 				type: "custom"
 			}]
@@ -1023,12 +928,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_steel.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "3AC02DCA2CF8EB3B"
 				type: "custom"
 			}]
@@ -1053,12 +952,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fairy.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "13EB39D62AF23E66"
 				type: "custom"
 			}]
@@ -1084,12 +977,6 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: {
-					components: {
-						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_bug.png"
-					}
-					id: "ftbquests:custom_icon"
-				}
 				id: "584C198D4FAB05FC"
 				type: "custom"
 			}]
@@ -1125,33 +1012,11 @@
 				xp_levels: 1
 			}]
 			tasks: [{
-				icon: {
-					id: "camol:camo_item"
-				}
 				id: "5B0B010CE3AB414B"
 				type: "custom"
 			}]
 			x: 9.5d
 			y: -2.5d
-		}
-		{
-			dependencies: ["3932FF3765BFACD3"]
-			id: "2EEF25FE72F8E4A3"
-			rewards: [{
-				id: "7EA2E7E2E5280DD9"
-				item: {
-					count: 1
-					id: "cobblemon:revive"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0013283CFA96828D"
-				item: { count: 1, id: "allthemons:pc_on_a_stick" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -1.0d
 		}
 	]
 }
