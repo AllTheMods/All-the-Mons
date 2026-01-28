@@ -107,9 +107,9 @@
 	quest.6E131A32A96D7BF5.quest_desc: ["O Refinador de Lodo pode usar &#5919B6Lodo&r para produzir coisas como Terra, Cascalho, Areia das Almas... o que quer que seja... verifique o JEI para o resto."]
 	quest.6FF04DD735346BED.quest_desc: ["Transforma Látex em Borracha Seca. Usa 750 mB de Látex e 500 mB de &9Água&r para produzir 1 Borracha Seca."]
 	quest.79D48F8F31B152C3.quest_desc: [
-		"&c&lAviso: No momento em que este texto foi escrito, o Mewtwo é inobtível. Como resultado, o mod Industrial Foregoing Souls não tem utilidade neste momento.&r \\n\\n&bIndustrial Foregoing &#27AEB9Souls&r adiciona máquinas para permitir que você acelere outras máquinas.\\n\\nA &#27AEB9Base de Laser da Alma&r é o coração disso, funcionando de forma semelhante a uma Base de Laser de Fluido extraindo Gás Éter de um Wither. Ela usa &9Lente de Laser Azul&r para extrair &#27AEB9Almas&r de um &#27AEB9Mewtwo&r, que podem ser extraídas com &#27AEB9Tubos de alma&r, ou usadas com AE2. Estas &#27AEB9Almas&r serão usadas por &#27AEB9Conduto de Alma&r para acelerar blocos. Sim, eu sei que a maioria de vocês está acostumada a extrair &#27AEB9Almas&r de um &#27AEB9Warden&r, mas fala sério, tivemos que dar uma folga para aquela criatura.\\n\\nExtrair &#27AEB9Almas&r do &#27AEB9Mewtwo&r é um processo &4&ldoloroso&r para a criatura, o que significa que ela recebe dano do processo e pode até morrer por causa disso. Câmaras de Estase são altamente recomendadas, especialmente com melhorias para tornar a cura mais rápida."
+		"&c&lAviso: No momento em que este texto foi escrito, o Mewtwo é inobtível. Como resultado, o mod Industrial Foregoing Souls não tem utilidade neste momento.&r \\n\\n&bIndustrial Foregoing &#27AEB9Souls&r adiciona máquinas para permitir que você acelere outras máquinas.\\n\\nA &#27AEB9Base de Laser de Alma&r é o coração disso, funcionando de forma semelhante a uma Base de Laser de Fluido extraindo Gás Éter de um Wither. Ela usa &9Lente de Laser Azul&r para extrair &#27AEB9Almas&r de um &#27AEB9Mewtwo&r, que podem ser extraídas com &#27AEB9Tubos de alma&r, ou usadas com AE2. Estas &#27AEB9Almas&r serão usadas por &#27AEB9Conduto de Alma&r para acelerar blocos. Sim, eu sei que a maioria de vocês está acostumada a extrair &#27AEB9Almas&r de um &#27AEB9Warden&r, mas fala sério, tivemos que dar uma folga para aquela criatura.\\n\\nExtrair &#27AEB9Almas&r do &#27AEB9Mewtwo&r é um processo &4&ldoloroso&r para a criatura, o que significa que ela recebe dano do processo e pode até morrer por causa disso. Câmaras de Estase são altamente recomendadas, especialmente com melhorias para tornar a cura mais rápida."
 		"{@pagebreak}"
-		"Certifique-se de que haja um espaço de 3 blocos entre o chão e a &#27AEB9Soul Laser Base&r, assim:"
+		"Certifique-se de que haja um espaço de 3 blocos entre o chão e a &#27AEB9Base de Laser de Alma&r, assim:"
 		"{image:atm:textures/questpics/industrialforegoing/soul_laser_gap.png width:100 height:100 align:center}"
 	]
 	quest.79D48F8F31B152C3.quest_subtitle: "Tem que ser rápido! (WIP)"
@@ -128,4 +128,5 @@
 	task.6D00B76B8A141BB8.title: "Qualquer #advanced_ae:adv_pattern_provider"
 	task.7058D3373DA87B34.title: "TodosOsDireitosReservados"
 	task.7FBDB1383D052B82.title: "Ponto de Exportação ME OU Interface ME"
+
 }
