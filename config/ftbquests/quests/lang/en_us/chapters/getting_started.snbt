@@ -1,6 +1,6 @@
 {
-	quest.012A8C905608C86E.quest_desc: ["Villages and other structures are important early game, and thankfully common, Structures in &2&lMinecraft&r. With &c&lCobble&fmon&r they come with &cPoke&rballs in them. \\n\\n&l&cAll&7The&fMons&r modify the &cPoke&rball recipes a lot so this is one of the ways to get balls early."]
-	quest.012A8C905608C86E.title: "Village and Structures"
+	quest.012A8C905608C86E.quest_desc: ["&cPokemon Centers&r are now their own Structures, outside of Villages. \\n\\nWell if you weren't playing before Public Release you wouldn't know that... \\n\\nThey are big buildings made mostly out of White Concrete. Once you see the Glass &cPoke&rball on top you'll recognize them! \\n\\n&cPokemon Centers&r spawn all throughout your World. In it will be Villagers and plenty of Machines, like..."]
+	quest.012A8C905608C86E.title: "&cPokemon Center"
 	quest.0328E5E416D0F785.quest_desc: ["&nStrong&r \\n\\n&aBug&r \\n&2Grass&r \\n&bIce&r \\n&7Steel&r \\n\\n&nVunerable&r \\n\\n&6Rock&r \\n&6Ground&r \\n&bWater&r"]
 	quest.0328E5E416D0F785.title: "&cFire"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remedy&r is made from Smelting a Big Root. \\n\\nIt is an Item that can be Fed to a &cPokemon&r in or out of Battle to restore Health (not at the exchange for &dFriendship&r). \\n\\nYou can Craft with it to make even better &6Remedies&r!"]
@@ -10,7 +10,7 @@
 	quest.0FAAA8628228ABA4.quest_desc: ["&nStrong&r \\n\\n&8Dark&r \\n&2Grass&r \\n&dPsychic&r \\n\\n&nVunerable&r \\n\\n&cFire&r \\n&9Flying&r \\n&6Rock&r"]
 	quest.0FAAA8628228ABA4.title: "&aBug"
 	quest.10C1718C792F3ABB.quest_desc: [
-		"The &aHealing Machine&r will restore any &cPokemon's&r Health and Attack Points when placed inside. It will also Revive &cPokemon&r that Fainted. \\n\\nIt can hold 6 &cPokemon&r at a time and has a Charge. \\n\\nEverytime it is used it takes a bit of Charge. It gains Charge over time, obviously when not in use. \\n\\nYou won't be able to take the ones from &cPoke Centers&r, instead you have to Craft one! \\n\\nAnti-theft policy..."
+		"The &aHealing Machine&r will restore any &cPokemon's&r Health and Attack Points when placed inside. It will also Revive &cPokemon&r that Fainted. \\n\\nIt can hold 6 &cPokemon&r at a time and has a Charge. \\n\\nEverytime it is used it takes a bit of Charge. It gains Charge over time, obviously when not in use. \\n\\nYou won't be able to take the ones from &cPokemon Centers&r, instead you have to Craft one! \\n\\nAnti-theft policy..."
 		"{image:atm:textures/questpics/pokemon/poke_heal.png width:100 height:100 align:center}"
 	]
 	quest.10C1718C792F3ABB.title: "&aHealing Machine"
@@ -33,7 +33,7 @@
 	quest.25CDC402800CA4D1.quest_desc: ["Hey, &cPokemon&r got to come from somewhere! \\n\\nIf 2 &cPokemon&r are roaming in a &6Pasture&r, they can &dBreed&r. But, there are many requirements before they can. \\n\\nFirst, we'll need a &bMale &fand &dFemale&r in order to &dBreed&r. The Baby &cPokemon&r will come from a &cPokemon Egg&r, it will be the same Species as the &dMother&r. \\n\\nBoth &cPokemons&r will need to be in the same \"Egg Group\". Use the Wiki, I'm not listing every single &cPokemon&r! \\n\\nLastly there are some Attributes and &cPokemon&r themselves, which can't &dBreed&r... \\n\\nIf you meet all the Requirements, then the &dFemale &cPokemon&r will lay an &cEgg&r every once in awhile!"]
 	quest.25CDC402800CA4D1.quest_subtitle: "The Delibirds and Beedrills"
 	quest.25CDC402800CA4D1.title: "&cPokemon &dBreeding"
-	quest.270BEFADE842144B.quest_desc: ["Welcome to &l&cAll&7The&fMons&r! \\n\\nNope that wasn't a typo! This is a &c&lCobble&fmon&r centered Modpack made by yours truly, the &6&lATM Team&r. \\n\\nTo get started you'll need a Starter &cPokemon&r. To get it, Default is (M) \\n\\nEach Region has 3 Starters: &2Grass&f, &bWater&f, and &cFire&r. You can Click the Icons or move the Arrows to choose. \\n\\nThe &2Grass type&r has a &2Green&r Background with a &2Leaf Icon&r. &bWater type&r has a &bBlue Background&r with a &bWater Drop Icon&r. &cFire&r has the &cOrange Background&r with a &cFlame Icon&r. \\n\\nEach &cPokemon&r will have their Name and Description above them. Once you find one you like, hit the \"I choose you!\" Button!"]
+	quest.270BEFADE842144B.quest_desc: ["Welcome to &l&cAll&7The&fMons&r! \\n\\nNope that wasn't a typo! This is a &c&lCobble&fmon&r centered Modpack made by yours truly, the &6&lATM Team&r. \\n\\nTo get started you'll need a Starter &cPokemon&r. To get it, Default is (M) \\n\\nEach Region has 3 Starters: &2Grass&f, &bWater&f, and &cFire&r. You can Click the Icons or move the Arrows to choose. \\n\\nThe &2Grass type&r has a &2Green&r Background with a &2Leaf Icon&r. &bWater type&r has a &bBlue Background&r with a &bWater Drop Icon&r. &cFire&r has the &cOrange Background&r with a &cFlame Icon&r. \\n\\nEach &cPokemon&r will have their Name and Description above them. Once you find one you like, hit the \"I choose you!\" Button! \\n\\n(&bMudkip&r is my favorite!)"]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nStrong&r \\n\\n&9Flying&r \\n&bWater&r \\n\\n&nVunerable&r \\n\\n&6Ground&r"]
 	quest.277D15B7FC23784D.title: "&eElectric"
@@ -43,8 +43,6 @@
 	quest.2EA725733AC5B290.title: "&dFriendship"
 	quest.2EA9DBB7F8F4EF40.quest_desc: ["Some &cPokemon&r don't Spawn like most, some like to live in the Depths of the &9Ocean&r! \\n\\nIn order to get to them we'll need a &cPoke&rrod! Wait, a &cPoke&rrod? \\n\\nYes, a Fishing Rod in order to Bait out these &cPokemon&r. To Craft one, we'll need a Fishing Rod Template. \\n\\nYou can Trade with a Master Fisherman Villager to get one!"]
 	quest.2EA9DBB7F8F4EF40.title: "Fishing for &cPokemon"
-	quest.2EEF25FE72F8E4A3.quest_desc: ["If you're a busy trainer on the move a lot, you can craft a PC on a Stick and use it on the road just like you would a crafting table on a stick.\\n\\nIt comes in a Healing Station variation too."]
-	quest.2EEF25FE72F8E4A3.quest_subtitle: "Putting sticks on things"
 	quest.351CFE6AD802F065.quest_desc: ["&nStrong&r \\n\\n&4Fighting&r \\n&5Poison&r \\n\\n&nVunerable&r \\n\\n&aBug&r \\n&8Dark&r \\n&5Ghost&r"]
 	quest.351CFE6AD802F065.title: "&dPsychic"
 	quest.35815F62705D1D53.quest_desc: ["&nVunerable&r \\n\\n&4Fighting"]
@@ -95,13 +93,35 @@
 	quest.6F3B6275D2BBEA5B.title: "&6Ground"
 	quest.7217BEFB0088A442.quest_desc: ["Revival Herbs are grown in Lush Caves and can be Farmed in Farmland. \\n\\nMature Revival Herbs will also Drop Pep Up Flowers! \\n\\nYou can use a Revival Herb on a &cPokemon&r that Fainted to Revive them... but they'll remember that and not in a good way. AKA you'll lose &dFriendship&r. \\n\\nHow about we Smelt it to get &aHealing Powder&r or use that to Craft a better &aRevive&r."]
 	quest.73C7479D929498AE.quest_desc: ["Big Roots spawn from the Ceilings of Caves, like Glowberries. \\n\\nThey spawn above &8Deepslate&r! \\n\\nSometimes it might actually be an Energy Root that looks and spawns like a Big Root."]
-	quest.77DF4336700646D0.quest_desc: ["&4&lRadical Trainers&r is a &c&lCobble&fmon&r Addon that gives us &4Trainers&r but also changes the Levels our &cPokemon&r can reach... \\n\\nThat is until we Defeat a certain &4Trainer&r! \\n\\nIn order to find out, you'll need a &4Trainer Card&r. \\n\\nEither Craft them or Trade for them with a &4Trainer Associate&r. These Villagers can also give you the Series, which will tell you which &4Trainer&r you need to Defeat to raise your Level Cap. \\n\\nRight Click the &4Trainer Card&r to view who they are, and even Stats on previous &4Trainers&r you've Fought!"]
-	quest.77DF4336700646D0.title: "Evolution"
+	quest.77DF4336700646D0.quest_desc: ["&4&lRadical Trainers&r is a &c&lCobble&fmon&r Addon that gives us &4Trainers&r but also changes the Levels our &cPokemon&r can reach... \\n\\nThat is until we Defeat a certain &4Trainer&r! \\n\\nIn order to find out, you'll need a &4Trainer Card&r. Either Craft them or Trade for them with a &4Trainer Associate&r. \\n\\n&4Trainer Associates&r will Spawn around you if you are Holding your &4Trainer Card&r out and don't have a set &4&oSeries&r or if you are near a Village. When one is close enough, the &4Trainer Card&r will glow like it's &5Enchanted&r, and an arrow will appear above it in your hand and will point to the &4Trainer Associate&r. \\n\\nThese Villagers can also give you the &4&oSeries&r, which will tell you which &4Trainer&r you need to Defeat to raise your Level Cap. \\n\\nRight Click the &4Trainer Card&r to view who they are, and even Stats on previous &4Trainers&r you've Fought!"]
+	quest.77DF4336700646D0.title: "&bEvolution"
 	quest.7B758074DB4BD138.quest_desc: ["The &cPok&fe&cdex&r is a very important tool. It works as a Glossary for every &cPokemon&r in the game! \\n\\nIf a &cPokemon&r is Fought in Battle, its Name, Picture, Animation, and Sound will show up. \\n\\nIf a &cPokemon&r is Captured you'll get all of those plus: Type, Entry, Ability, Height and Weight, Base Stats, and Drops. \\n\\nThere is a Search Bar where you can search by Name, Ability, and Drops. So if it is set to Drops, you can look up Clay Balls to see what &cPokemon&r Drop those on Death. Or if you want the Ability Identify, add that with the Ability Filter to see which &cPokemon&r have Identify."]
 	quest.7B758074DB4BD138.title: "&cPok&fe&cdex"
 	quest.7D0F4EF83BA40D66.quest_desc: ["&nStrong&r \\n\\n&9Dragon&r \\n&9Flying&r \\n&2Grass&r \\n&6Ground&r \\n\\n&nVunerable&r \\n\\n&4Fighting&r \\n&cFire&r \\n&6Rock&r \\n&7Steel&r"]
 	quest.7D0F4EF83BA40D66.title: "&bIce"
+	task.00A19B1AF9190E63.title: "Unknown type: cobblemon_tasks:cobblemon_task"
 	task.06D7446522B1CF78.title: "Apricorns"
+	task.0AA2B65F753F73C2.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.13EB39D62AF23E66.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.175ACBBE95D80432.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.1B2F05BF5D48329D.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.1F594257CC0242C5.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.20B3F9F1CE3390F0.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.2EC0B91DDBE09BEE.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.300456D611679CBD.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.3AC02DCA2CF8EB3B.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.3BFEB36624783EBC.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.43147E2E5C5F82FE.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.45917FB36443E72A.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.4AE93F7B08939F9E.title: "Unknown type: cobblemon_tasks:cobblemon_task"
 	task.4E9620F93F7144CB.title: "Pokedex"
 	task.55EC49744EF03C63.title: "Pokeballs"
+	task.57FC96B0E217BDDD.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.584C198D4FAB05FC.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.5B0B010CE3AB414B.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.5B8FFDAD3656AC1F.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.6316CFB3E914AFA6.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.633B3A18AF62215E.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.66878F47E725797B.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.6C915513662EB128.title: "Unknown type: cobblemon_tasks:cobblemon_task"
 }

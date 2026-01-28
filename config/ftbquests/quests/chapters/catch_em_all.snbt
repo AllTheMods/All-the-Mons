@@ -1,0 +1,882 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "catch_em_all"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "cobblenav:pokenav_item_wanderer"
+	}
+	id: "4B189FF068BA1BCE"
+	images: [
+		{
+			height: 15.0d
+			image: "cobblemon:textures/gui/pokedex/pokedex_base_red.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			height: 15.0d
+			image: "cobblemon:textures/gui/pokedex/pokedex_screen.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/pokemon/find_title.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 15.0d
+			y: -10.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/find_title_archeology.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/find_title_fish.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 18.0d
+			y: -6.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pokemon/find_dino1.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/pokemon/find_dino2.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/pokemon/find_dino3.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pokemon/find_fish1.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 25.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/pokemon/find_fish2.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 24.5d
+			y: -3.0d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/pokemon/find_fish3.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 24.5d
+			y: 1.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:birch_log"
+			}
+			icon_scale: 1.5d
+			id: "78FC6687B5FD964F"
+			rewards: [{
+				id: "21BFDD3888551472"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "3EC2183E0E3ABC0E"
+				structure: "cobblemon:fossils/prehistoric_birch_tree"
+				type: "structure"
+			}]
+			x: 10.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:dripstone_block"
+			}
+			icon_scale: 1.5d
+			id: "222E16E832A13624"
+			rewards: [{
+				id: "4753EF975E259846"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1CF85835843444F7"
+				structure: "cobblemon:fossils/prehistoric_dripstone_oasis"
+				type: "structure"
+			}]
+			x: 11.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:moss_block"
+			}
+			icon_scale: 1.5d
+			id: "7781133CB04584AA"
+			rewards: [{
+				id: "5392DBC37CC7AB86"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "52FEB622BBC23196"
+				structure: "cobblemon:fossils/prehistoric_enhydro_agate"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:terracotta"
+			}
+			icon_scale: 1.5d
+			id: "731A8877EA474D67"
+			rewards: [{
+				id: "1C92E92F872E7A27"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "308578AF695D5315"
+				structure: "cobblemon:fossils/prehistoric_eroded_pillar"
+				type: "structure"
+			}]
+			x: 13.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:ice"
+			}
+			icon_scale: 1.5d
+			id: "397E11CDCB8B4DC4"
+			rewards: [{
+				id: "4A0AFB873A029205"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "19A6F04680C7BEDD"
+				structure: "cobblemon:fossils/prehistoric_frozen_pond"
+				type: "structure"
+			}]
+			x: 14.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:packed_ice"
+			}
+			icon_scale: 1.5d
+			id: "72DCD32EC59F8E9C"
+			rewards: [{
+				id: "3974602B7875B2F0"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "7D7EA8E08231D7A5"
+				structure: "cobblemon:fossils/prehistoric_frozen_spike"
+				type: "structure"
+			}]
+			x: 15.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:magma_block"
+			}
+			icon_scale: 1.5d
+			id: "268DEC15019B7CF0"
+			rewards: [{
+				id: "7A5DA60060F7F431"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "519354800E543A31"
+				structure: "cobblemon:fossils/prehistoric_hydrothermal_vents"
+				type: "structure"
+			}]
+			x: 10.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:jungle_leaves"
+			}
+			icon_scale: 1.5d
+			id: "74285B2AC6E00D20"
+			rewards: [{
+				id: "372C004E76B75291"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "49C0D7AC4F3F79D2"
+				structure: "cobblemon:fossils/prehistoric_lush_den"
+				type: "structure"
+			}]
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:mossy_cobblestone"
+			}
+			icon_scale: 1.5d
+			id: "2EC9EC0184C2024D"
+			rewards: [{
+				id: "7BD1D4E2FDCDEE58"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "6201B814119EEDCD"
+				structure: "cobblemon:fossils/prehistoric_mossy_pond"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:mud"
+			}
+			icon_scale: 1.5d
+			id: "3E822975A8A66EBD"
+			rewards: [{
+				id: "288279E71C98A06E"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "0379DB2D48F8AB8E"
+				structure: "cobblemon:fossils/prehistoric_mud_pit"
+				type: "structure"
+			}]
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			icon_scale: 1.5d
+			id: "775D4E9974C70D5C"
+			rewards: [{
+				id: "7DBB6DCD6B1F2D96"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "146FBA0C4F4C3CBE"
+				structure: "cobblemon:fossils/prehistoric_oak_tree"
+				type: "structure"
+			}]
+			x: 14.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:snow_block"
+			}
+			icon_scale: 1.5d
+			id: "3FC34BEE629F4037"
+			rewards: [{
+				id: "7BE7132D4E8B166B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1AB7BA37FF93CBFA"
+				structure: "cobblemon:fossils/prehistoric_powdered_deposit"
+				type: "structure"
+			}]
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "minecraft:bone_block"
+			}
+			icon_scale: 1.5d
+			id: "07392142A0166032"
+			rewards: [{
+				id: "2E745CF9F77D73BF"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "33F719EA54B246B3"
+				structure: "cobblemon:fossils/prehistoric_preserved_skeleton"
+				type: "structure"
+			}]
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:mangrove_roots"
+			}
+			icon_scale: 1.5d
+			id: "16B06A4C0B9F8DFB"
+			rewards: [{
+				id: "6ED88DE1CBF2D86C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "3EC426F1D78BCC3F"
+				structure: "cobblemon:fossils/prehistoric_rooted_pit"
+				type: "structure"
+			}]
+			x: 11.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:sand"
+			}
+			icon_scale: 1.5d
+			id: "3308D7EDFBF51190"
+			rewards: [{
+				id: "6A40B15B1894A87A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "38DC13E31EDCFC29"
+				structure: "cobblemon:fossils/prehistoric_sandy_den"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:spruce_log"
+			}
+			icon_scale: 1.5d
+			id: "55BF1E9BB9F0768D"
+			rewards: [{
+				id: "76D9FC0DF44AF42C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "42F4BEFB288B0BDF"
+				structure: "cobblemon:fossils/prehistoric_spruce_tree"
+				type: "structure"
+			}]
+			x: 13.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:gravel"
+			}
+			icon_scale: 1.5d
+			id: "2F71A83DC5E91615"
+			rewards: [{
+				id: "04C87617252C8E4B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "38FADF493990E326"
+				structure: "cobblemon:fossils/prehistoric_submerged_impact"
+				type: "structure"
+			}]
+			x: 14.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:blue_ice"
+			}
+			icon_scale: 1.5d
+			id: "5B8A381EFA3D836B"
+			rewards: [{
+				id: "2AEDA67095638184"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4459D350D850672B"
+				structure: "cobblemon:fossils/prehistoric_submerged_spike"
+				type: "structure"
+			}]
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			icon_scale: 1.5d
+			id: "7E8CBDC0377013E0"
+			rewards: [{
+				id: "19682840E8B882E1"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "5AF8393AD5F276E2"
+				structure: "cobblemon:fossils/prehistoric_sunscorched_den"
+				type: "structure"
+			}]
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:blackstone"
+			}
+			icon_scale: 1.5d
+			id: "2E4A0D8AEA1AE6B6"
+			rewards: [{
+				id: "558CEDEF47432DC9"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "08955024D52C53B2"
+				structure: "cobblemon:fossils/prehistoric_sunscorched_remains"
+				type: "structure"
+			}]
+			x: 11.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			icon_scale: 1.5d
+			id: "2444614287B6398E"
+			rewards: [{
+				id: "59839BC803677CCB"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "21BAC8843D7DB422"
+				structure: "cobblemon:fossils/prehistoric_suspicious_mound"
+				type: "structure"
+			}]
+			x: 12.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:cobblestone"
+			}
+			icon_scale: 1.5d
+			id: "6F2E30BE5CF82C77"
+			rewards: [{
+				id: "0241FE69FE3E7BF7"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1D9E47D454EF8255"
+				structure: "cobblemon:fossils/prehistoric_underwater_fissure"
+				type: "structure"
+			}]
+			x: 13.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:brain_coral_block"
+			}
+			icon_scale: 1.5d
+			id: "21281EC844F00D68"
+			rewards: [{
+				id: "0F06189A8E81DEDC"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "7342CFD7B7611AC5"
+				structure: "cobblemon:fossils/prehistoric_vibrant_hydrothermal_vents"
+				type: "structure"
+			}]
+			x: 14.5d
+			y: -4.5d
+		}
+		{
+			id: "25498A20F05FB703"
+			rewards: [
+				{
+					id: "02400A05BEFFA7E1"
+					item: {
+						count: 1
+						id: "cobblemon:pokerod_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "13B2EDE4C721AB47"
+					item: {
+						count: 1
+						id: "cobblemon:heal_ball"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "4054A1C6EFE57322"
+				item: { count: 1, id: "cobblemon:pokerod_smithing_template" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["25498A20F05FB703"]
+			id: "3B5578F000D6AD9E"
+			rewards: [
+				{
+					count: 5
+					id: "24BED955BDE6EBED"
+					item: {
+						count: 1
+						id: "cobblemon:mulch_base"
+					}
+					type: "item"
+				}
+				{
+					id: "654EEA3764F696F4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "03C72EFDFD9D0F8D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/fishing_rod)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3B5578F000D6AD9E"]
+			id: "5ECE56EAB6773769"
+			rewards: [
+				{
+					count: 5
+					id: "5AC8E9531B95BA3C"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "6924900D380F4A3F"
+					item: {
+						count: 1
+						id: "cobblemon:leppa_berry"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A9462E51E54383F"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:berries))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -1.5d
+		}
+		{
+			id: "410492282A446A06"
+			rewards: [
+				{
+					id: "2D7FF9A25E1A600C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+				{
+					id: "3FEC0BA380B083B0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "7FBBD7FAC220B574"
+				item: { count: 1, id: "cobblenav:pokenav_item_base" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5ECE56EAB6773769"]
+			icon: {
+				id: "cobblemon:net_ball"
+			}
+			id: "2150D54D18BD85EE"
+			rewards: [
+				{
+					id: "19EEADC0EF7E5641"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+				{
+					id: "0B6C18B934661474"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			size: 1.5d
+			tasks: [{
+				id: "363B6ED2213F1DEB"
+				type: "custom"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "cobblenav:pokefinder_item_black"
+			}
+			id: "131ACE9712128876"
+			rewards: [
+				{
+					id: "6F73973CF8F261D9"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+				{
+					id: "7804AFEF2CBFF301"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "419216305C141D67"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblenav:pokefinder_item_black)item(cobblenav:pokefinder_item_blue)item(cobblenav:pokefinder_item_green)item(cobblenav:pokefinder_item_pink)item(cobblenav:pokefinder_item_red)item(cobblenav:pokefinder_item_white)item(cobblenav:pokefinder_item_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["07016F654CFFAA20"]
+			id: "24DB1F587DB99074"
+			rewards: [
+				{
+					count: 4
+					id: "46430182C3787D84"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "00B606220F0394F4"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_great_ball"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [
+				{
+					id: "70B228155D2D56B2"
+					item: { count: 1, id: "cobblemon:monitor" }
+					type: "item"
+				}
+				{
+					id: "43649BD4FD50134D"
+					item: { count: 1, id: "cobblemon:fossil_analyzer" }
+					type: "item"
+				}
+				{
+					id: "32CE471B3BDB1735"
+					item: { count: 1, id: "cobblemon:restoration_tank" }
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3308D7EDFBF51190"
+				"74285B2AC6E00D20"
+				"5B8A381EFA3D836B"
+				"222E16E832A13624"
+				"3FC34BEE629F4037"
+				"2EC9EC0184C2024D"
+				"78FC6687B5FD964F"
+				"3E822975A8A66EBD"
+				"2E4A0D8AEA1AE6B6"
+				"731A8877EA474D67"
+				"2F71A83DC5E91615"
+				"72DCD32EC59F8E9C"
+				"7781133CB04584AA"
+				"268DEC15019B7CF0"
+				"16B06A4C0B9F8DFB"
+				"21281EC844F00D68"
+				"55BF1E9BB9F0768D"
+				"397E11CDCB8B4DC4"
+				"7E8CBDC0377013E0"
+				"2444614287B6398E"
+				"775D4E9974C70D5C"
+				"07392142A0166032"
+				"6F2E30BE5CF82C77"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "421C02BBAF6616FC"
+			rewards: [{
+				id: "6BB1055F6E12743F"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5E956600852DB81D"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["421C02BBAF6616FC"]
+			id: "07016F654CFFAA20"
+			rewards: [
+				{
+					count: 20
+					id: "09F860DCAB781A5F"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0A3786075FF6BAC4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "570E6A812FFE21EF"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:fossils))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"131ACE9712128876"
+				"410492282A446A06"
+			]
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "57CE837EC3FD5BA1"
+			rewards: [
+				{
+					id: "7DF5DECFA20BCF95"
+					item: {
+						components: {
+							"ftbquests:missing_item": "cobbled_counter:counter"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "68D82C10EDCFD293"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [
+				{
+					id: "425244D2FE1B969C"
+					item: { count: 1, id: "cobblenav:pokenav_item_base" }
+					type: "item"
+				}
+				{
+					id: "7DA1C949AC80BCBF"
+					item: { components: { "ftbfiltersystem:filter": "or(item(cobblenav:pokefinder_item_black)item(cobblenav:pokefinder_item_blue)item(cobblenav:pokefinder_item_green)item(cobblenav:pokefinder_item_pink)item(cobblenav:pokefinder_item_red)item(cobblenav:pokefinder_item_white)item(cobblenav:pokefinder_item_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: 1.0d
+		}
+	]
+}
