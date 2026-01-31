@@ -48,12 +48,7 @@ StartupEvents.postInit(allthemods => {
   $CobblemonEvents.EVOLUTION_ACCEPTED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonEvolutionAccepted(event))
   $CobblemonEvents.BATTLE_VICTORY["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleVictoryEvent(event))
   $CobblemonEvents.POKEMON_CAPTURED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonCaptured(event))
-  $CobblemonEvents.POKEMON_GAINED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonGained(event))
 })
-
-global.pokemonGained = (pokemonGained) => {
-  pokemonGained.pokemon.ownerPlayer.refreshDisplayName()
-}
 
 global.pokemonLevelUp = (levelUpEvent) => {
   let questFile = $FTBQuestsAPI.api().getQuestFile(false)
