@@ -7,8 +7,8 @@
 	quest.03E8FB54B87524E1.title: "&9Pedra da Lua"
 	quest.04D0FAEF00F88A15.quest_desc: ["Lembra da &bEvolução&r por &3Troca&r? Deveria, foi a Missão logo antes desta! \\n\\nIsso funciona exatamente da mesma forma, mas alguns &cPokémon&r precisarão Segurar um Item enquanto são &3Trocados&r para poder &bEvoluir&r. \\n\\nSim, meus caros jogadores Solo, podemos usar o &3Linking Cable&r para simular a &3Troca&r. \\n\\nEu não vou listar cada &bEvolução&r que você pode obter com isso..."]
 	quest.04D0FAEF00F88A15.title: "&3Trocando&r com um Item na Mão"
-	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos (Badlands) e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
-	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Fogo"
+	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
+	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Sol"
 	quest.0AABCD95FABC6025.quest_desc: ["&5Pedras do Crepúsculo&r podem ser encontradas em Taigas e raramente em Pântanos."]
 	quest.0AABCD95FABC6025.title: "Encontrando &5Pedras do Crepúsculo"
 	quest.0ADFE26AD63EC714.quest_desc: ["Para encontrar um &4Treinador&r específico, você pode usar a Seta Direita para ver cada Bioma em que eles Aparecem. \\n\\nSe você não tem um milhão de anos livres para vagar pelo &2&lMinecraft&r, então eu recomendo Criar um &4Gerador de Treinador&r! \\n\\nOnde você pode ver os Biomas para encontrar &4Treinadores&r de &4&oSérie&r, você também pode encontrar um Item Característico. Este Item precisará ser colocado dentro do &4Gerador de Treinador&r. \\n\\nUma vez configurado, dê ao &4Gerador&r um &4Sinal de Redstone&r e ele fará aquele &4Treinador&r da &4&oSérie&r aparecer magicamente na sua frente, pronto para a Batalha! \\n\\nEspero que ele não estivesse fazendo nada importante antes de você invocá-lo..."]
@@ -68,4 +68,5 @@
 	task.48230014D8628136.title: "Itens de &bEvolução&r de Milcrey"
 	task.6097F6DEBA79FDF0.title: "Itens de &bEvolução&r do Charcadet"
 	task.6D8B0FFD3F4C0BCB.title: "Evolua um Pokémon"
+
 }
