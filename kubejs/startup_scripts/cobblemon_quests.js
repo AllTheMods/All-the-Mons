@@ -1,17 +1,17 @@
-var levelUpTasks = [
+global.levelUpTasks = [
   { "09E7D93E692CB782": { "value": 15 } },
   { "45917FB36443E72A": { "value": 1 } }
 ]
 
-var evolveTask = [
+global.evolveTask = [
   "6D8B0FFD3F4C0BCB"
 ]
 
-var defeatWildTask = [
+global.defeatWildTask = [
   "1B2F05BF5D48329D"
 ]
 
-var catchByTypeTask = [
+global.catchByTypeTask = [
   { "20B3F9F1CE3390F0": ["normal"] },
   { "43147E2E5C5F82FE": ["fire"] },
   { "4AE93F7B08939F9E": ["water"] },
@@ -29,14 +29,10 @@ var catchByTypeTask = [
   { "66878F47E725797B": ["dark"] },
   { "3AC02DCA2CF8EB3B": ["steel"] },
   { "13EB39D62AF23E66": ["fairy"] },
-  { "584C198D4FAB05FC": ["bug"] },
-  { "1F594257CC0242C5": ["grass"] },
-  { "1F594257CC0242C5": ["grass"] },
-  { "1F594257CC0242C5": ["grass"] },
-  { "1F594257CC0242C5": ["grass"] },  
+  { "584C198D4FAB05FC": ["bug"] }
 ]
 
-var catchBySpeciesTask = [
+global.catchBySpeciesTask = [
   { "5B0B010CE3AB414B": "ditto" } 
 ]
 
@@ -58,7 +54,7 @@ global.pokemonLevelUp = (levelUpEvent) => {
   let teamDataOpt = questFile.getTeamData(player)
   if (teamDataOpt.isEmpty()) return
   let teamData = teamDataOpt.get()
-  for (let taskObj of levelUpTasks) {
+  for (let taskObj of global.levelUpTasks) {
     for (let taskId in taskObj) {
       let taskLong = questFile.getID(taskId)
       let task = questFile.getTask(taskLong)
@@ -79,7 +75,7 @@ global.pokemonEvolutionAccepted = (evolutionAccepted) => {
   let teamDataOpt = questFile.getTeamData(player)
   if (teamDataOpt.isEmpty()) return
   let teamData = teamDataOpt.get()
-  for (let taskId of evolveTask) {
+  for (let taskId of global.evolveTask) {
     let taskLong = questFile.getID(taskId)
     let task = questFile.getTask(taskLong)
     if (teamData.isCompleted(task)) continue
@@ -97,7 +93,7 @@ global.battleVictoryEvent = (battleVictory) => {
   let teamDataOpt = questFile.getTeamData(player)
   if (teamDataOpt.isEmpty()) return
   let teamData = teamDataOpt.get()
-  for (let taskId of defeatWildTask) {
+  for (let taskId of global.defeatWildTask) {
     let taskLong = questFile.getID(taskId)
     let task = questFile.getTask(taskLong)
     //console.log(task)
@@ -119,7 +115,7 @@ global.pokemonCaptured = (pokemonCaptured) => {
   if (teamDataOpt.isEmpty()) return
   let teamData = teamDataOpt.get()
   // by species
-  for (let taskObj of catchBySpeciesTask) {
+  for (let taskObj of global.catchBySpeciesTask) {
     for (let taskId in taskObj) {
       let taskLong = questFile.getID(taskId)
       let task = questFile.getTask(taskLong)
@@ -130,7 +126,7 @@ global.pokemonCaptured = (pokemonCaptured) => {
     }
   }
   // by type
-  for (let taskObj of catchByTypeTask) {
+  for (let taskObj of global.catchByTypeTask) {
     for (let taskId in taskObj) {
       let taskLong = questFile.getID(taskId)
       let task = questFile.getTask(taskLong)

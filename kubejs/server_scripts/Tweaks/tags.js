@@ -92,6 +92,9 @@ ServerEvents.tags('item', allthemods => {
 
     // Forbiden Arcanus Stellar Blacklist
     allthemods.add('forbidden_arcanus:modifier/eternal_incompatible', 'ars_additions:undying_charm')
+
+    // FTBChunks
+    allthemods.add("ftbchunks:right_click_whitelist",["#cobblemon:poke_balls"])
 })
 
 ServerEvents.tags('entity_type', allthemods => {
