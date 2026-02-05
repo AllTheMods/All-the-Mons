@@ -25,9 +25,17 @@ ServerEvents.tags('block', allthemods => {
         ['@ae2', '@advancedae', '@extendedae', '@megacells', '@appflux', '@appmek']
     )
 
+    let denyTickAcceleration = ['@industrialforegoingsouls',"cobblemon:pasture"]
+
     // Just Dire Things
     allthemods.add('justdirethings:lawnmowerable', '#c:grass')
-    allthemods.add('justdirethings:tick_speed_deny', '@industrialforegoingsouls')
+    allthemods.add('justdirethings:tick_speed_deny', denyTickAcceleration)
+
+    // Tiab
+    allthemods.add('tiab:un_acceleratable', denyTickAcceleration)
+
+    // IF Souls
+    allthemods.add('industrialforegoingsouls:cant_accelerate', denyTickAcceleration)
 })
 
 ServerEvents.tags('fluid', allthemods => {
