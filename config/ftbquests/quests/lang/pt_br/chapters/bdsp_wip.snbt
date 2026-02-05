@@ -1,0 +1,60 @@
+{
+	quest.0346A5856EBC22FB.quest_desc: ["Ele aumentará seu Limite de Nível, mas apenas até o 31. \\n\\nSeu Item de Assinatura é a &9Concha de Náutilo&r."]
+	quest.0346A5856EBC22FB.title: "&aLíder de Ginásio Wake"
+	quest.099B7F8D13868CCD.quest_desc: ["Ela aumentará seu Limite de Nível para 20. \\nSeu Item de Assinatura é a &cLente Ampla&r."]
+	quest.099B7F8D13868CCD.title: "&7Comandante Mars"
+	quest.0BD70EAB43DBD003.quest_desc: ["Ele aumentará seu Nível novamente! Só que desta vez para 39. \\n\\nSeu Item de Assinatura agora é uma &bPedra da Alvorada&r."]
+	quest.0BD70EAB43DBD003.title: "&6Treinador Pokemon Cedric"
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r é a campanha para a Região de Sinnoh. \\n\\nComece-a como qualquer outra &4&oSérie&r. Encontre um &4Associado de Treinador&r em Vilas ou Gerando aleatoriamente quando você segura seu &4Cartão de Treinador&r na mão, se ele não tiver uma &4&oSérie&r. \\n\\nNegocie com ele para começar a &4&oSérie BDSP&r. \\n\\nVocê precisará passar por esta &4&oSérie&r para desbloquear outras &4&oSéries&r, incluindo a &4Série&r &6&oATM&r!"]
+	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
+	quest.11EBB510A604026A.quest_desc: ["Esta revanche aumentará seu Limite de Nível para 49. \\n\\nSeu Item de Assinatura desta vez é um &9Fragmento de Eco&r. Isso não é barato, Cyrus!"]
+	quest.11EBB510A604026A.title: "&7Revanche do Chefe da Equipe Galáctica Cyrus"
+	quest.13FDC88F09F96D0F.quest_desc: ["Ainda continua? Sim... você precisará de uma revanche com todos eles novamente. \\n\\n&3Aaron&r aumentará para 81. \\n\\n&3Bertha&r para 83. \\n\\n&3Flint&r para 85. \\n\\n&3Lucian&r para 88."]
+	quest.13FDC88F09F96D0F.title: "Hora da revanche de novo!"
+	quest.183E4F5F940CBDEA.quest_desc: ["Também não aumentará seu Limite de Nível. \\n\\nSeu Item é uma &6Lente de Zoom&r."]
+	quest.183E4F5F940CBDEA.title: "&7Comandante Saturn"
+	quest.1AB8BB655AFA79E4.quest_desc: ["Ele aumentará seu Limite de Nível para 63. \\n\\nSeu Item de Assinatura é uma &cPedra do Fogo&r."]
+	quest.1AB8BB655AFA79E4.title: "&3Elite dos Quatro Flint"
+	quest.207D96D22A9B97F1.quest_desc: ["De volta para vingança, agora eles aumentarão seu Nível para 42. \\n\\nSeu Item de Assinatura é uma &4Carga de Fogo&r."]
+	quest.207D96D22A9B97F1.title: "&7Revanche da Comandante Mars"
+	quest.21EE03301BEFB449.quest_desc: ["Ela aumentará seu Limite de Nível para 22. \\n\\nSeu Item de Assinatura é a &7Lente de Alcance&r."]
+	quest.21EE03301BEFB449.title: "&7Comandante Jupiter"
+	quest.23F5D39BCBCD7D42.quest_desc: ["Ela aumentará você do 59 para o 61. \\n\\nSeu Item de Assinatura é &5Areia Macia&r."]
+	quest.23F5D39BCBCD7D42.title: "&3Elite dos Quatro Bertha"
+	quest.27ACBFA9D014D2A6.quest_desc: ["&aVolkner&r aumentará seu Limite de Nível até o 55. \\n\\nSeu Item de Assinatura é a &aPedra do Trovão&r."]
+	quest.27ACBFA9D014D2A6.title: "&aLíder de Ginásio Volkner"
+	quest.3A12B03FE9C9D925.quest_desc: ["Finalmente você está cara a cara com a &5Campeã&f, &5Cynthia&r! \\n\\nSe você derrotá-la, seu Limite de Nível subirá para 69. \\n\\nSeu Item de Assinatura é uma &3Escama de Prisma&r."]
+	quest.3A12B03FE9C9D925.title: "&5Campeã Cynthia"
+	quest.3D63B8A64B561A71.quest_desc: ["Ele aumentará seu Limite de Nível para 36. \\n\\nSeu Item de Assinatura desta vez é o &dEviolite&r. \\n\\nVocê precisará lutar com ele 3 vezes. Não apenas lutar, mas também vencer!"]
+	quest.3D63B8A64B561A71.title: "&6Treinador Pokemon Cedric"
+	quest.45135F112E05F9B5.quest_desc: ["A &4&oSérie&r ainda não acabou! Você precisará de uma revanche com a &3Elite dos Quatro&r e a &5Campeã Cynthia&r. \\n\\nSeus Itens de Assinatura e padrão permanecem os mesmos. \\n\\nDerrotar &3Aaron&r aumentará seu Nível para 71. \\n&3Bertha&r para 73. \\n\\n&3Flint&r para 75. \\n\\n&3Lucian&r para 78. \\n\\nE a &5Campeã Cynthia&r para 79."]
+	quest.45135F112E05F9B5.title: "Revanche da &3Elite dos Quatro&r e &5Campeã&r"
+	quest.4975ADE2D75353CA.quest_desc: ["Ele não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é o &7Revestimento de Metal&r."]
+	quest.4975ADE2D75353CA.title: "&aLíder de Ginásio Byron"
+	quest.508CCA2DDD8602AA.quest_desc: ["Ele aumentará seu Limite de Nível para 16. \\n\\nSeu Item de Assinatura é a &eRocha Lisa&r."]
+	quest.508CCA2DDD8602AA.title: "&aLíder de Ginásio Roark"
+	quest.5169625567DC3B75.quest_desc: ["Ele aumentará seu Limite de Nível para 30. \\n\\nSeu Item de Assinatura é a &bPedra da Eternidade&r."]
+	quest.5169625567DC3B75.title: "&6Treinador Pokemon Cedric"
+	quest.54729932639621E3.quest_desc: ["Ela não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é o &0Cinto Preto&r, ela deve ser boa no Karatê!"]
+	quest.54729932639621E3.title: "&aLíder de Ginásio Maylene"
+	quest.55519316D85D116B.quest_desc: ["Ele também não aumentará seu Limite de Nível. Por que estamos lutando com esses caras! \\n\\nAh sim, nós temos que lutar. \\n\\nSeu Item de Assinatura é uma Carga de Vento."]
+	quest.55519316D85D116B.title: "&7Revanche do Comandante Saturn"
+	quest.5596F9B74231AB62.quest_desc: ["Esse cara de novo? O que ele tem, uma queda por você? \\n\\nEle aumentará seu Limite de Nível para 57. \\n\\nSeu Item de Assinatura agora é uma Pedra Brilhante."]
+	quest.5596F9B74231AB62.title: "&6Treinador Pokemon Cedric"
+	quest.57B314DBCE27B06E.quest_desc: ["Ela aumentará seu Limite de Nível para 37. \\n\\nHer Signature Item is an &aOlho de Ender&r."]
+	quest.57B314DBCE27B06E.title: "&aLíder de Ginásio Fantina"
+	quest.607E5EBE3696CC26.quest_desc: ["Não mudará seu Limite de Nível. \\n\\nSeu Item de Assinatura é um &eGirassol&r."]
+	quest.607E5EBE3696CC26.title: "&aLíder de Ginásio Gardenia"
+	quest.6092335560810B6F.quest_desc: ["Agora estamos na &3Elite dos Quatro&r! Assim que derrotarmos esses caras, poderemos enfrentar a &5Campeã&r! \\n\\nO primeiro aumentará seu Limite de Nível para 59. \\n\\nSeu Item de Assinatura é o &3Pó de Prata&r."]
+	quest.6092335560810B6F.title: "&3Elite dos Quatro Aaron"
+	quest.6106D2F6CEFFFC82.quest_desc: ["Ela aumentará seu Limite de Nível para 43. \\n\\nSeu Item de Assinatura é a &bPedra de Gelo&r."]
+	quest.6106D2F6CEFFFC82.title: "&aLíder de Ginásio Candice"
+	quest.6431628BFD0A9386.quest_desc: ["Ele aumentará você para o 66. \\n\\n&dSementes Psíquicas&r são seus Itens de Assinatura."]
+	quest.6431628BFD0A9386.title: "&3Elite dos Quatro Lucian"
+	quest.69EAC857B2CCB045.quest_desc: ["Derrotá-los aumentará seu Limite de Nível para 48. \\n\\nSeu Item de Assinatura é uma &dBola de Fumaça&r."]
+	quest.69EAC857B2CCB045.title: "&7Comandante Mars e Jupiter"
+	quest.716F9AA2E9011F06.quest_desc: ["Ele não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é um &eRelógio&r!"]
+	quest.716F9AA2E9011F06.title: "&7Chefe da Equipe Galáctica Cyrus"
+	quest.7F124EAE153EFE7F.quest_desc: ["Agora temos a última Batalha da &4&oSérie&r. Apenas uma última Batalha com a &5Campeã Cynthia&r. \\n\\nEla não aumentará seu Limite de Nível, em vez disso, finalizará a &4&oSérie&r. Então, você poderá começar uma nova! Como a do &6&oATM&r."]
+	quest.7F124EAE153EFE7F.title: "&4&oSérie&r Finalizada"
+}
