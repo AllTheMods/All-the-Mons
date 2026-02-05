@@ -843,24 +843,11 @@
 				id: "cobblemon:pokedex_red"
 			}
 			id: "57CE837EC3FD5BA1"
-			rewards: [
-				{
-					id: "7DF5DECFA20BCF95"
-					item: {
-						components: {
-							"ftbquests:missing_item": "cobbled_counter:counter"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "68D82C10EDCFD293"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
+			rewards: [{
+				id: "68D82C10EDCFD293"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			shape: "pentagon"
 			size: 1.25d
 			tasks: [

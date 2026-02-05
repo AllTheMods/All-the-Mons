@@ -1,0 +1,60 @@
+{
+	quest.0346A5856EBC22FB.quest_desc: ["He will raise your Level Cap, just only up to 31. \\n\\nHis Signature Item is the &9Nautilus Shell&r."]
+	quest.0346A5856EBC22FB.title: "&aGym Leader Wake"
+	quest.099B7F8D13868CCD.quest_desc: ["She will increase your Level Cap to 20. \\nHer Signature Item is the &cWide Lens&r."]
+	quest.099B7F8D13868CCD.title: "&7Commander Mars"
+	quest.0BD70EAB43DBD003.quest_desc: ["He will raise your Level again! Just this time to 39. \\n\\nHis Signature Item now is a &bDawn Stone&r."]
+	quest.0BD70EAB43DBD003.title: "&6Pokemon Trainer Cedric"
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r is the campaign for the Sinnoh Region. \\n\\nStart it like any other &4&oSeries&r. Find a &4Trainer Associate&r either by Villages or randomly Spawning when you hold out your &4Trainer Card&r in your Hand if it doesn't have a &4&oSeries&r. \\n\\nTrade with him to start the &4&oBDSP Series&r. \\n\\nYou'll need to get through this &4&oSeries&r in order to unlock other &4&oSeries&r, including the &6&oATM &4Series&r!"]
+	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
+	quest.11EBB510A604026A.quest_desc: ["This rematch will raise your Level Cap to 49. \\n\\nHis Signature Item this time is an &9Echo Shard&r. That's not cheap Cyrus!"]
+	quest.11EBB510A604026A.title: "&7Team Galactic Boss Cyrus Rematch"
+	quest.13FDC88F09F96D0F.quest_desc: ["It keeps going? Yeah... you'll need to rematch them all again. \\n\\n&3Aaron&r will raise it to 81. \\n\\n&3Bertha&r to 83. \\n\\n&3Flint&r to 85. \\n\\n&3Lucian&r to 88."]
+	quest.13FDC88F09F96D0F.title: "Rematch time again!"
+	quest.183E4F5F940CBDEA.quest_desc: ["Also won't raise your Level Cap. \\n\\nHis Item is a &6Zoom Lens&r."]
+	quest.183E4F5F940CBDEA.title: "&7Commander Saturn"
+	quest.1AB8BB655AFA79E4.quest_desc: ["He will raise your Level Cap to 63. \\n\\nHis Signature Item is a &cFire Stone&r."]
+	quest.1AB8BB655AFA79E4.title: "&3Elite Four Flint"
+	quest.207D96D22A9B97F1.quest_desc: ["Back for revenge, now they'll raise your Level to 42. \\n\\nHis Signature Item is a &4Fire Charge&r."]
+	quest.207D96D22A9B97F1.title: "&7Commander Mars Rematch"
+	quest.21EE03301BEFB449.quest_desc: ["She will raise your Level Cap to 22. \\n\\nHer Signature Item is the &7Scope Lens&r."]
+	quest.21EE03301BEFB449.title: "&7Commander Jupiter"
+	quest.23F5D39BCBCD7D42.quest_desc: ["She will raise you from 59 to 61. \\n\\nHer Signature Item is &5Soft Sand&r."]
+	quest.23F5D39BCBCD7D42.title: "&3Elite Four Bertha"
+	quest.27ACBFA9D014D2A6.quest_desc: ["&aVolkner&r will raise your Level Cap all the way to 55. \\n\\nHis Signature Item is the &aThunder Stone&r."]
+	quest.27ACBFA9D014D2A6.title: "&aGym Leader Volkner"
+	quest.3A12B03FE9C9D925.quest_desc: ["Finally you're face to face with the &5Champion&f, &5Cynthia&r! \\n\\nIf you beat her your Level Cap will rise to 69. \\n\\nHer Signature Item is a &3Prism Scale&r."]
+	quest.3A12B03FE9C9D925.title: "&5Champion Cynthia"
+	quest.3D63B8A64B561A71.quest_desc: ["He will raise your Level Cap to 36. \\n\\nHis Signature Item this time is &dEviolite&r. \\n\\nYou'll need to Fight him 3 times. Not just Fight but also Win!"]
+	quest.3D63B8A64B561A71.title: "&6Pokemon Trainer Cedric"
+	quest.45135F112E05F9B5.quest_desc: ["The &4&oSeries&r isn't done yet! You'll need to Rematch the &3Final Four&r and &5Champion Cynthia&r. \\n\\nTheir Signature Items and pattern stay the same. \\n\\nBeating &3Aaron&r will raise your Level to 71. \\n&3Bertha&r to 73. \\n\\n&3Flint&r to 75. \\n\\n&3Lucian&r to 78. \\n\\nAnd &5Champion Cynthia&r to 79."]
+	quest.45135F112E05F9B5.title: "&3Elite Four&r and &5Champion &rRematch"
+	quest.4975ADE2D75353CA.quest_desc: ["He won't raise your Level Cap. \\n\\nHis Signature Item is &7Metal Coat&r."]
+	quest.4975ADE2D75353CA.title: "&aGym Leader Byron"
+	quest.508CCA2DDD8602AA.quest_desc: ["He will increase your Level Cap to 16. \\n\\nHis Signature Item is the &eSmooth Rock&r."]
+	quest.508CCA2DDD8602AA.title: "&aGym Leader Roark"
+	quest.5169625567DC3B75.quest_desc: ["He will raise your Level Cap to 30. \\n\\nHis Signature Item is the &bEverstone&r."]
+	quest.5169625567DC3B75.title: "&6Pokemon Trainer Cedric"
+	quest.54729932639621E3.quest_desc: ["She won't raise your Level Cap. \\n\\nHer Signature Item is the &0Black Belt&r, she must be good with Karate!"]
+	quest.54729932639621E3.title: "&aGym Leader Maylene"
+	quest.55519316D85D116B.quest_desc: ["He also won't raise your Level Cap. Why are we even fighting these guys! \\n\\nOh yeah, we have to. \\n\\nHis Signature Item is a Wind Charge."]
+	quest.55519316D85D116B.title: "&7Commander Saturn Rematch"
+	quest.5596F9B74231AB62.quest_desc: ["This guy again? What does he have a crush on you? \\n\\nHe will raise your Level Cap to 57. \\n\\nHis Signature Item now is a Shiny Stone."]
+	quest.5596F9B74231AB62.title: "&6Pokemon Trainer Cedric"
+	quest.57B314DBCE27B06E.quest_desc: ["She will raise your Level Cap to 37. \\n\\nHer Signature Item is an &aEye of Ender&r."]
+	quest.57B314DBCE27B06E.title: "&aGym Leader Fantina"
+	quest.607E5EBE3696CC26.quest_desc: ["Won't change your Level Cap. \\n\\nHis Signature Item is a &eSunflower&r."]
+	quest.607E5EBE3696CC26.title: "&aGym Leader Gardenia"
+	quest.6092335560810B6F.quest_desc: ["Now we're at the &3Elite Four&r! Once we beat these guys we can take on the &5Champ&r! \\n\\nThe first will raise your Level Cap to 59. \\n\\nHis Signature Item is &3Silver Powder&r."]
+	quest.6092335560810B6F.title: "&3Elite Four Aaron"
+	quest.6106D2F6CEFFFC82.quest_desc: ["She will raise your Level Cap to 43. \\n\\nHer Signature Item is &bIce Stone&r."]
+	quest.6106D2F6CEFFFC82.title: "&aGym Leader Candice"
+	quest.6431628BFD0A9386.quest_desc: ["He will raise you to 66. \\n\\n&dPsychic Seeds&r are his Signature Items."]
+	quest.6431628BFD0A9386.title: "&3Elite Four Lucian"
+	quest.69EAC857B2CCB045.quest_desc: ["Beating them will raise your Level Cap to 48. \\n\\nTheir Signature Item is a &dSmoke Ball&r."]
+	quest.69EAC857B2CCB045.title: "&7Commander Mars and Jupiter"
+	quest.716F9AA2E9011F06.quest_desc: ["He won't raise your Level Cap. \\n\\nHis Signature Item is a &eClock&r!"]
+	quest.716F9AA2E9011F06.title: "&7Team Galactic Boss Cyrus"
+	quest.7F124EAE153EFE7F.quest_desc: ["Now we get the last Battle of the &4&oSeries&r. Just one last Battle with &5Champion Cynthia&r. \\n\\nShe won't raise your Level Cap, instead it will finish the &4&oSeries&r. Then, you can start a new one! Like the &6&oATM&r one."]
+	quest.7F124EAE153EFE7F.title: "Finished &4&oSeries"
+}
