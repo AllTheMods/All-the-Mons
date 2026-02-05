@@ -62,5 +62,9 @@
 	"advancements.rctmod.defeat_team_allthemods_uncandango.title": "Defeat Uncandango",
 	"advancements.rctmod.defeat_team_allthemods_uncandango.description": "Defeat Uncandango at Elite Gym",
 	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.title": "Defeat WhatTheDrunk",
-	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.description": "Defeat WhatTheDrunk at Elite Gym"
+	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.description": "Defeat WhatTheDrunk at Elite Gym",
+	"kubejs.atm.catch_restrictions.special_pokemons": "This pokemon is too special to be captured outside battle!",
+	"kubejs.atm.catch_restrictions.catch_without_leader": "You are not allowed to catch pokemon above level 15 without a party leader!",
+	"kubejs.atm.catch_restrictions.leader_too_weak": "Party leader %s (level %s) is too weak to allow catch outside battle!",
+	"kubejs.atm.catch_restrictions.pika_knowledge": "You don't have the Pika Star knowledge to fight this pokemon!"
 }

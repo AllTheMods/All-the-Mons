@@ -34,7 +34,7 @@ NativeEvents.onEvent("lowest", "net.neoforged.neoforge.event.server.ServerStarte
     let taskLong = questFile.getID(taskId)
     let task = questFile.getTask(taskLong)
     if (task == null) {
-      console.error(`Task id ${taskId} was not found in quests, something must be wrong with your config/ftbquests folder!`)
+      console.error(`Task id ${taskId} was not found in quests, something must be wrong with your config/ftbquests folder. Make sure you updated the pack properly!`)
     }
   }
 })

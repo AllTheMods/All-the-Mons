@@ -62,5 +62,9 @@
 	"advancements.rctmod.defeat_team_allthemods_uncandango.title": "Derrote Uncandango",
 	"advancements.rctmod.defeat_team_allthemods_uncandango.description": "Derrote Uncandango no Ginásio de Elite",
 	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.title": "Derrote WhatTheDrunk",
-	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.description": "Derrote WhatTheDrunk no Ginásio de Elite"
+	"advancements.rctmod.defeat_team_allthemods_whatthedrunk.description": "Derrote WhatTheDrunk no Ginásio de Elite",
+	"kubejs.atm.catch_restrictions.special_pokemons": "Esse pokemon é muito especial pra ser capturado fora de batalha!",
+	"kubejs.atm.catch_restrictions.catch_without_leader": "Você não tem permissão pra capturar um pokémon acima do level 15 sem um líder de grupo!",
+	"kubejs.atm.catch_restrictions.leader_too_weak": "Líder de grupo %s (nível %s) é muito fraco para permitir capturar pokémon fora de batalha!",
+	"kubejs.atm.catch_restrictions.pika_knowledge": "Você não tem conhecimento sobre a Estrela Pika para lutar com esse pokémon!"
 }
