@@ -1,17 +1,14 @@
 {
-	autofocus_id: "17BDF307F3DC0E12"
 	default_hide_dependency_lines: false
 	default_quest_shape: "square"
 	filename: "chapter_2_the_star"
 	group: "2084F3F6FB861C5B"
-	hide_quest_until_deps_complete: true
 	icon: {
 		id: "allthetweaks:atm_star"
 	}
 	id: "5103E2D95685ADFF"
 	images: [
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/industrialforegoing/ether_gas_setup.png"
 			rotation: 0.0d
@@ -20,7 +17,6 @@
 			y: 14.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "generatorgalore:block/copper_generator_top_on"
 			rotation: 0.0d
@@ -29,7 +25,6 @@
 			y: 10.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/occultism/aviarcircle.png"
 			rotation: 0.0d
@@ -38,7 +33,6 @@
 			y: 2.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 5.0d
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
@@ -47,7 +41,6 @@
 			y: 5.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/extremereactors/titleimage2.png"
 			rotation: 0.0d
@@ -56,7 +49,6 @@
 			y: 2.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "productivebees:item/all_bees"
 			rotation: 0.0d
@@ -65,7 +57,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/mek/sps_cutout.png"
 			rotation: 0.0d
@@ -74,7 +65,6 @@
 			y: 14.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/justdirethings/goo_spread_ferricore.png"
 			rotation: 0.0d
@@ -83,7 +73,6 @@
 			y: 16.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/allthemodium/all_piglich.png"
 			rotation: 0.0d
@@ -92,7 +81,6 @@
 			y: -17.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_tree.png"
 			rotation: 0.0d
@@ -101,7 +89,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_pressure.png"
 			rotation: 0.0d
@@ -110,7 +97,6 @@
 			y: 0.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_pocket4.png"
 			rotation: 0.0d
@@ -119,7 +105,6 @@
 			y: -3.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_reactor.png"
 			rotation: 0.0d
@@ -128,7 +113,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_roots.png"
 			rotation: 0.0d
@@ -137,7 +121,6 @@
 			y: -9.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_enchant.png"
 			rotation: 0.0d
@@ -146,7 +129,6 @@
 			y: -14.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_ars.png"
 			rotation: 0.0d
@@ -155,7 +137,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.5d
 			image: "atm:textures/questpics/gettingstarted/started_starlight.png"
 			rotation: 0.0d
@@ -164,7 +145,6 @@
 			y: -3.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_forbidden.png"
 			rotation: 0.0d
@@ -173,7 +153,6 @@
 			y: 5.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "ae2:block/controller_lights"
 			rotation: 0.0d
@@ -182,16 +161,14 @@
 			y: -10.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "ae2:block/controller_powered"
 			rotation: 0.0d
 			width: 2.0d
-			x: 8.0d
-			y: -9.0d
+			x: 4.5d
+			y: -10.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
@@ -200,7 +177,6 @@
 			y: 10.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 5.0d
 			image: "immersiveengineering:textures/gui/workbench.png"
 			rotation: 0.0d
@@ -209,7 +185,6 @@
 			y: 17.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "minecraft:textures/entity_icon/warden/warden.png"
 			rotation: 0.0d
@@ -218,7 +193,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/hnn.png"
 			rotation: 0.0d
@@ -227,7 +201,6 @@
 			y: 14.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/twilight_portal.png"
 			rotation: 0.0d
@@ -236,7 +209,6 @@
 			y: -18.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "stevescarts:item/creative_hull_icon"
 			rotation: 0.0d
@@ -245,7 +217,6 @@
 			y: -14.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 4.0d
 			image: "atm:textures/questpics/chap2/atmstar_title1.png"
 			rotation: 0.0d
@@ -254,7 +225,6 @@
 			y: -12.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 4.0d
 			image: "atm:textures/questpics/chap2/atmstar_title2.png"
 			rotation: 0.0d
@@ -263,7 +233,6 @@
 			y: -12.5d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 2.0d
 			image: "atm:textures/questpics/cataclysm/cataclysm_harbinger.png"
 			rotation: 0.0d
@@ -272,7 +241,6 @@
 			y: -6.0d
 		}
 		{
-			dependency: "17BDF307F3DC0E12"
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_evil.png"
 			rotation: 0.0d
@@ -298,7 +266,6 @@
 				"54B1A876E9F6707A"
 				"23AE395433AED3C0"
 				"62DDE5B1287BEB36"
-				"17BDF307F3DC0E12"
 			]
 			icon_scale: 1.25d
 			id: "05850541675B2493"
@@ -378,7 +345,6 @@
 				"0F1CA44520BDEFEA"
 				"6FC55CF56BE22866"
 				"0AE28C998A3BF136"
-				"17BDF307F3DC0E12"
 			]
 			id: "217DF3B66A07A8DE"
 			rewards: [
@@ -433,7 +399,6 @@
 				"14B7EEBE0F6C2776"
 				"5A955C0F53AED3ED"
 				"2A444F4CCC72545D"
-				"17BDF307F3DC0E12"
 			]
 			id: "4E82E843737045D9"
 			rewards: [
@@ -484,7 +449,6 @@
 				"0848056FDD3F9BDA"
 				"6A12188E50EAEB78"
 				"0923C941A9696122"
-				"17BDF307F3DC0E12"
 			]
 			id: "36DF0D83EBC2B6A9"
 			rewards: [
@@ -536,7 +500,6 @@
 				"77F2271C45DB49BA"
 				"616F9B78B16B42A5"
 				"5608C74936CA9E81"
-				"17BDF307F3DC0E12"
 			]
 			id: "6CAD67D21E1EA861"
 			rewards: [
@@ -587,7 +550,6 @@
 				"55BF254B1831359B"
 				"5B2FD54E425D5C9D"
 				"4BD203AD481DDE8F"
-				"17BDF307F3DC0E12"
 			]
 			id: "54B1A876E9F6707A"
 			rewards: [
@@ -640,7 +602,6 @@
 				"73E2A53A088AD29A"
 				"62B5A84753ADFC35"
 				"36CF8D1DD1EF6307"
-				"17BDF307F3DC0E12"
 			]
 			id: "17542D7633FBF098"
 			rewards: [
@@ -703,7 +664,6 @@
 				"59EC02C1FBCF14EA"
 				"7D972A3C4211EB26"
 				"4E8C32CD6057A1AB"
-				"17BDF307F3DC0E12"
 			]
 			id: "2188C52C1F384DE4"
 			rewards: [
@@ -757,7 +717,6 @@
 				"2D474F8075E9DBD0"
 				"4B12425E74C5E511"
 				"486B5A605D79EA10"
-				"17BDF307F3DC0E12"
 			]
 			id: "1CE7B24E7E62C25B"
 			rewards: [
@@ -811,7 +770,6 @@
 				"3F8AEBB994716318"
 				"5791F3000D18E2C9"
 				"71581992E8E4C43E"
-				"17BDF307F3DC0E12"
 			]
 			id: "39B4F361EF611927"
 			rewards: [
@@ -860,7 +818,6 @@
 				"6E3AD764A67829CB"
 				"215AD616E6847E9A"
 				"09D76E9B8CABC31E"
-				"17BDF307F3DC0E12"
 			]
 			id: "0C7D96DB3573EF9C"
 			rewards: [
@@ -905,7 +862,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "23AE395433AED3C0"
 			rewards: [
 				{
@@ -961,10 +917,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"3AAB71E9BDFD4C1E"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3AAB71E9BDFD4C1E"]
 			hide_dependent_lines: true
 			id: "3C7C9EE57AD00A76"
 			rewards: [
@@ -992,10 +945,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "038812A14456236C"
 			rewards: [
@@ -1023,10 +973,7 @@
 			y: -8.0d
 		}
 		{
-			dependencies: [
-				"28DB59B20109D0D4"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["28DB59B20109D0D4"]
 			hide_dependent_lines: true
 			id: "486B5A605D79EA10"
 			rewards: [{
@@ -1044,10 +991,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"216DA9782EBDFF34"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["216DA9782EBDFF34"]
 			hide_dependent_lines: true
 			id: "4195800B4D7631E2"
 			rewards: [
@@ -1076,10 +1020,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"6A46A9F04D2A0748"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["6A46A9F04D2A0748"]
 			hide_dependent_lines: true
 			id: "6D1E8399AD39FFC8"
 			rewards: [
@@ -1116,10 +1057,7 @@
 			y: 12.0d
 		}
 		{
-			dependencies: [
-				"2B57C8D2F98A9279"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["2B57C8D2F98A9279"]
 			hide_dependent_lines: true
 			id: "6877F33323910716"
 			rewards: [
@@ -1147,10 +1085,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"2171DC0B13C4BD43"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["2171DC0B13C4BD43"]
 			hide_dependent_lines: true
 			id: "2D474F8075E9DBD0"
 			rewards: [{
@@ -1168,10 +1103,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"11374A3B5BD644F5"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["11374A3B5BD644F5"]
 			hide_dependent_lines: true
 			id: "4B12425E74C5E511"
 			rewards: [
@@ -1200,10 +1132,7 @@
 			y: 12.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "57F107892FFA1F52"
 			rewards: [
@@ -1232,10 +1161,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"29D28983E0200A3C"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["29D28983E0200A3C"]
 			hide_dependent_lines: true
 			id: "71581992E8E4C43E"
 			rewards: [
@@ -1264,10 +1190,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"3CFD27F273B97FDD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3CFD27F273B97FDD"]
 			hide_dependent_lines: true
 			id: "3F8AEBB994716318"
 			rewards: [
@@ -1302,10 +1225,7 @@
 			y: -10.0d
 		}
 		{
-			dependencies: [
-				"76C63670624C3C56"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["76C63670624C3C56"]
 			hide_dependent_lines: true
 			id: "4CB488E5CF10F3A4"
 			rewards: [
@@ -1341,10 +1261,7 @@
 			y: 14.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "5791F3000D18E2C9"
 			rewards: [{
@@ -1362,10 +1279,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"2E88CCBC7B97A1F0"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["2E88CCBC7B97A1F0"]
 			hide_dependent_lines: true
 			id: "1EB04FE105ACA4BE"
 			rewards: [
@@ -1400,10 +1314,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"11374A3B5BD644F5"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["11374A3B5BD644F5"]
 			hide_dependent_lines: true
 			id: "23254CE8487D2E68"
 			rewards: [
@@ -1432,10 +1343,7 @@
 			y: 10.0d
 		}
 		{
-			dependencies: [
-				"0573B6F1BE5110FD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["0573B6F1BE5110FD"]
 			hide_dependent_lines: true
 			id: "750B6316267CF574"
 			rewards: [
@@ -1464,10 +1372,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"76C63670624C3C56"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["76C63670624C3C56"]
 			hide_dependent_lines: true
 			id: "263C9A0FC04472AB"
 			rewards: [
@@ -1495,10 +1400,7 @@
 			y: 10.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "7766E66A14643F4D"
 			rewards: [
@@ -1526,10 +1428,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"022C38096F79EF07"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["022C38096F79EF07"]
 			hide_dependent_lines: true
 			id: "1FCC474860587169"
 			rewards: [
@@ -1557,10 +1456,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "3145B847A15F97F2"
 			rewards: [
@@ -1588,10 +1484,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"76C63670624C3C56"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["76C63670624C3C56"]
 			hide_dependent_lines: true
 			id: "59EC02C1FBCF14EA"
 			rewards: [
@@ -1620,10 +1513,7 @@
 			y: 12.0d
 		}
 		{
-			dependencies: [
-				"752DD0BF36B70D88"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["752DD0BF36B70D88"]
 			hide_dependent_lines: true
 			id: "6A12188E50EAEB78"
 			rewards: [
@@ -1653,10 +1543,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"3331EBE1BB4BF64D"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3331EBE1BB4BF64D"]
 			hide_dependent_lines: true
 			id: "561B5FB009744D2B"
 			rewards: [
@@ -1684,7 +1571,6 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "0F1CA44520BDEFEA"
 			rewards: [
@@ -1712,7 +1598,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "764609E41957DA69"
 			rewards: [
@@ -1740,7 +1625,6 @@
 			y: 10.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependency_lines: false
 			hide_dependent_lines: true
 			id: "554F47A0AF7506EC"
@@ -1769,10 +1653,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"3CFD27F273B97FDD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3CFD27F273B97FDD"]
 			hide_dependent_lines: true
 			id: "2D64EF8D803AF9DA"
 			rewards: [
@@ -1800,10 +1681,7 @@
 			y: -10.0d
 		}
 		{
-			dependencies: [
-				"3CFD27F273B97FDD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3CFD27F273B97FDD"]
 			hide_dependent_lines: true
 			id: "4D7D4C718837BCA5"
 			rewards: [
@@ -1831,10 +1709,7 @@
 			y: -12.0d
 		}
 		{
-			dependencies: [
-				"3CFD27F273B97FDD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3CFD27F273B97FDD"]
 			hide_dependent_lines: true
 			id: "103834774B57D611"
 			rewards: [
@@ -1863,7 +1738,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "779CA0C49F93C4F9"
 			rewards: [
@@ -1891,7 +1765,6 @@
 			y: 10.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "6FC55CF56BE22866"
 			rewards: [
@@ -1919,7 +1792,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "0AE28C998A3BF136"
 			rewards: [
@@ -1947,10 +1819,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"792990DC06DB98F9"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["792990DC06DB98F9"]
 			hide_dependent_lines: true
 			id: "5A955C0F53AED3ED"
 			rewards: [
@@ -1983,10 +1852,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"0573B6F1BE5110FD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["0573B6F1BE5110FD"]
 			hide_dependent_lines: true
 			id: "3BE5CD0C7CC4BCC6"
 			rewards: [
@@ -2022,10 +1888,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"7154D73516548149"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7154D73516548149"]
 			hide_dependent_lines: true
 			id: "501A0AEEC73C0790"
 			rewards: [
@@ -2054,10 +1917,7 @@
 			y: -16.0d
 		}
 		{
-			dependencies: [
-				"7A579E233C69871F"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7A579E233C69871F"]
 			hide_dependent_lines: true
 			id: "2F76D074AEA84A4D"
 			rewards: [
@@ -2087,10 +1947,7 @@
 			y: 14.0d
 		}
 		{
-			dependencies: [
-				"21AB14A8553896E9"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["21AB14A8553896E9"]
 			hide_dependent_lines: true
 			id: "2A72B262AF4F11C9"
 			rewards: [
@@ -2119,10 +1976,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"216DA9782EBDFF34"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["216DA9782EBDFF34"]
 			hide_dependent_lines: true
 			id: "03564837ECB5CC79"
 			rewards: [
@@ -2156,10 +2010,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"216DA9782EBDFF34"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["216DA9782EBDFF34"]
 			hide_dependent_lines: true
 			id: "67C76EDD4BCCFF3F"
 			rewards: [
@@ -2188,10 +2039,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"3CFD27F273B97FDD"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3CFD27F273B97FDD"]
 			hide_dependent_lines: true
 			id: "14B7EEBE0F6C2776"
 			rewards: [
@@ -2219,10 +2067,7 @@
 			y: -10.0d
 		}
 		{
-			dependencies: [
-				"752DD0BF36B70D88"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["752DD0BF36B70D88"]
 			hide_dependent_lines: true
 			id: "7D972A3C4211EB26"
 			rewards: [
@@ -2251,10 +2096,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"3AAB71E9BDFD4C1E"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["3AAB71E9BDFD4C1E"]
 			hide_dependent_lines: true
 			id: "39F9C825B03DA317"
 			rewards: [
@@ -2283,10 +2125,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			icon: {
 				id: "megacells:portable_item_cell_256m"
 			}
@@ -2307,10 +2146,7 @@
 			y: -8.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "0848056FDD3F9BDA"
 			rewards: [
@@ -2338,10 +2174,7 @@
 			y: -8.0d
 		}
 		{
-			dependencies: [
-				"372B5BF416CA83A4"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["372B5BF416CA83A4"]
 			hide_dependent_lines: true
 			id: "5869E198DA416346"
 			rewards: [
@@ -2371,10 +2204,7 @@
 			y: 14.0d
 		}
 		{
-			dependencies: [
-				"022C38096F79EF07"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["022C38096F79EF07"]
 			hide_dependent_lines: true
 			id: "2CECCA9D05D3EF12"
 			rewards: [
@@ -2402,10 +2232,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			id: "601C719C8FD513F0"
 			rewards: [
 				{
@@ -2433,10 +2260,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "268EA2DEC8840D13"
 			rewards: [
@@ -2465,10 +2289,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"372B5BF416CA83A4"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["372B5BF416CA83A4"]
 			hide_dependent_lines: true
 			id: "77F2271C45DB49BA"
 			rewards: [
@@ -2496,10 +2317,7 @@
 			y: 14.0d
 		}
 		{
-			dependencies: [
-				"4485C4ABD57874EB"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4485C4ABD57874EB"]
 			hide_dependent_lines: true
 			id: "75EE965CBA598FEA"
 			rewards: [
@@ -2527,10 +2345,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"7E4367252A39BE6C"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7E4367252A39BE6C"]
 			hide_dependent_lines: true
 			id: "535525EA4DF4AB59"
 			rewards: [
@@ -2558,10 +2373,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "09D76E9B8CABC31E"
 			rewards: [
@@ -2590,10 +2402,7 @@
 			y: 6.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "215AD616E6847E9A"
 			rewards: [
@@ -2623,10 +2432,7 @@
 			y: 8.0d
 		}
 		{
-			dependencies: [
-				"7377C657CED885AC"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7377C657CED885AC"]
 			hide_dependent_lines: true
 			id: "6E3AD764A67829CB"
 			rewards: [
@@ -2655,7 +2461,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "174D18D9D732EC10"
 			rewards: [{
@@ -2674,7 +2479,6 @@
 			y: 2.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "0E03F5EAE4963ECB"
 			rewards: [{
@@ -2693,7 +2497,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "36CF8D1DD1EF6307"
 			rewards: [{
@@ -2712,7 +2515,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "08CE14FFED813992"
 			rewards: [{
@@ -2731,7 +2533,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "62B5A84753ADFC35"
 			rewards: [{
@@ -2750,7 +2551,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "73E2A53A088AD29A"
 			rewards: [{
@@ -2769,7 +2569,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			hide_dependent_lines: true
 			id: "08E47A27EFFB7C6B"
 			rewards: [{
@@ -2788,7 +2587,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "ae2:charger"
 			}
@@ -2820,7 +2618,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "occultism:ritual_dummy/summon_marid_crusher"
 			}
@@ -2852,7 +2649,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "21AB14A8553896E9"
 			rewards: [
 				{
@@ -2881,7 +2677,6 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "0573B6F1BE5110FD"
 			rewards: [
 				{
@@ -2909,7 +2704,6 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "pneumaticcraft:air_compressor"
 			}
@@ -2941,7 +2735,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "11374A3B5BD644F5"
 			rewards: [
 				{
@@ -2970,7 +2763,6 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "ironfurnaces:iron_furnace"
 			}
@@ -3002,7 +2794,6 @@
 			y: 10.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "7377C657CED885AC"
 			rewards: [
 				{
@@ -3030,7 +2821,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "29D28983E0200A3C"
 			rewards: [
 				{
@@ -3059,7 +2849,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "bigreactors:energizerchargingport_fe"
 			}
@@ -3090,7 +2879,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "mekanism:ultimate_induction_provider"
 			}
@@ -3121,7 +2909,6 @@
 			y: 16.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "powah:capacitor_nitro"
 			}
@@ -3153,7 +2940,6 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "apothic_enchanting:ender_library"
 			}
@@ -3185,7 +2971,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "792990DC06DB98F9"
 			rewards: [{
 				id: "72C0A302BACE0C74"
@@ -3203,7 +2988,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "generatorgalore:copper_generator"
 			}
@@ -3235,7 +3019,6 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "7154D73516548149"
 			rewards: [
 				{
@@ -3263,7 +3046,6 @@
 			y: -19.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "2171DC0B13C4BD43"
 			rewards: [
 				{
@@ -3292,7 +3074,6 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "justdirethings:fuel_canister"
 			}
@@ -3326,7 +3107,6 @@
 			y: 15.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "7A579E233C69871F"
 			rewards: [
 				{
@@ -3354,7 +3134,6 @@
 			y: 16.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "2E88CCBC7B97A1F0"
 			rewards: [
 				{
@@ -3383,7 +3162,6 @@
 			y: -6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "forbidden_arcanus:hephaestus_forge_tier_1"
 			}
@@ -3415,7 +3193,6 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "2B57C8D2F98A9279"
 			rewards: [
 				{
@@ -3444,7 +3221,6 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "31B0267C47DB9D98"
 			invisible: true
 			optional: true
@@ -3463,7 +3239,6 @@
 			y: 13.5d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "5EC1B868720BF521"
 			rewards: [
 				{
@@ -3491,10 +3266,7 @@
 			y: 15.0d
 		}
 		{
-			dependencies: [
-				"5EC1B868720BF521"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["5EC1B868720BF521"]
 			hide_dependent_lines: true
 			id: "616F9B78B16B42A5"
 			min_width: 250
@@ -3539,10 +3311,7 @@
 			y: 12.0d
 		}
 		{
-			dependencies: [
-				"1682CED78D9D4BA7"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["1682CED78D9D4BA7"]
 			hide_dependent_lines: true
 			id: "7D1A27CBF1508712"
 			rewards: [
@@ -3570,10 +3339,7 @@
 			y: -14.0d
 		}
 		{
-			dependencies: [
-				"309B0B2898893B4E"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["309B0B2898893B4E"]
 			hide_dependent_lines: true
 			id: "55BF254B1831359B"
 			rewards: [
@@ -3603,7 +3369,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "twilightforest:time_sapling"
 			}
@@ -3635,7 +3400,6 @@
 			y: -16.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "stevescarts:module_standard_hull"
 			}
@@ -3667,7 +3431,6 @@
 			y: -12.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "62DDE5B1287BEB36"
 			rewards: [
 				{
@@ -3705,7 +3468,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "create:andesite_alloy"
 			}
@@ -3722,10 +3484,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"4B7D387CEFF9667E"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
 			id: "30CC20E33EFA2EDA"
 			optional: true
@@ -3744,10 +3503,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"4B7D387CEFF9667E"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
 			id: "5608C74936CA9E81"
 			optional: true
@@ -3766,7 +3522,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			icon: {
 				id: "cataclysm:the_incinerator"
 			}
@@ -3783,10 +3538,7 @@
 			y: -6.0d
 		}
 		{
-			dependencies: [
-				"7D359283625C1869"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7D359283625C1869"]
 			hide_dependent_lines: true
 			id: "2A444F4CCC72545D"
 			size: 1.25d
@@ -3799,10 +3551,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"7D359283625C1869"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7D359283625C1869"]
 			hide_dependent_lines: true
 			id: "4BD203AD481DDE8F"
 			size: 1.25d
@@ -3815,10 +3564,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"7D359283625C1869"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["7D359283625C1869"]
 			hide_dependent_lines: true
 			id: "5B2FD54E425D5C9D"
 			size: 1.25d
@@ -3831,10 +3577,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: [
-				"30CC20E33EFA2EDA"
-				"17BDF307F3DC0E12"
-			]
+			dependencies: ["30CC20E33EFA2EDA"]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
 			id: "4E8C32CD6057A1AB"
@@ -3853,7 +3596,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["17BDF307F3DC0E12"]
 			id: "28DB59B20109D0D4"
 			shape: "rsquare"
 			size: 2.0d
@@ -3864,16 +3606,6 @@
 			}]
 			x: -3.0d
 			y: 14.0d
-		}
-		{
-			id: "17BDF307F3DC0E12"
-			tasks: [{
-				id: "3CB3F30FDAC5755F"
-				item: { count: 1, id: "allthetweaks:atm_star" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -24.0d
 		}
 	]
 }
