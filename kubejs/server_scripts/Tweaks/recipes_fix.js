@@ -238,5 +238,10 @@ KubeJSTweaks.beforeRecipes(event => {
       entry.addConditionsFromKey("input")
     })
 
+  event.getEntry("berrypouch:berry_pouch_30")
+    .forEach(entry => {
+      entry.addConditionsFromKey("result")
+    })
+
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
