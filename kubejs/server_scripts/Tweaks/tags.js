@@ -162,7 +162,8 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('ars_elemental:charm_blacklist', '#allthemods:jank_blacklist')
     allthemods.add("justdirethings:creature_catcher_deny", '@cobblemon')
     allthemods.add("c:capturing_not_supported", '@cobblemon')
-
+	allthemods.add("justdirethings:polymorphic_target_deny", '@cobblemon')
+	
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 });
 
