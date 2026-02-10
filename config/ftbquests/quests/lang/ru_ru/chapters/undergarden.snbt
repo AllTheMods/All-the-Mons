@@ -15,7 +15,7 @@
 	quest.06D13E319C26C949.title: "Топь кровавых грибов"
 	quest.073BA8470EA37A00.quest_desc: [
 		"Ещё одно море, только гораздо холоднее."
-		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "Ледяное море"
 	quest.08D9C809CF4062E8.quest_desc: ["Ешьте их сырыми, жарьте, нанизывайте на палку. \\n\\nЧто только нельзя сделать с глубинными бобами!"]

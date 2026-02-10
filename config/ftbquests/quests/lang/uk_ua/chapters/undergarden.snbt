@@ -15,7 +15,7 @@
 	quest.06D13E319C26C949.title: "Blood Mushroom Bog"
 	quest.073BA8470EA37A00.quest_desc: [
 		"Another Sea, just this one is much colder."
-		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "Icy Sea"
 	quest.08D9C809CF4062E8.quest_desc: ["Eat em raw, roast them, put them on a Stick. \\n\\nWhat can't you do with Underbeans!"]
@@ -157,7 +157,7 @@
 	]
 	quest.511144EF336BFAF5.title: "Smog Spires"
 	quest.51C59FDF0BD11FDF.quest_desc: ["I'm pretty sure the only definition of what a Wigglewood Tree is that it has Wigglewood Logs and Leaves. They seem to grow in any direction, size, and shape. \\n\\nYou can find them in Wigglewood Forests and Dense Forests. \\n\\nThey have pretty pink Leaves and brown Logs similar to Spruce!"]
-	quest.51E2728C5E35A152.quest_desc: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icey Seas. \\n\\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \\n\\nYou might also find some Nuggets in Munchers bellies!"]
+	quest.51E2728C5E35A152.quest_desc: ["Froststeel spawns in the Frozen Biomes: Frostfields, Frosty Smogstem Forests, and probably Icy Seas. \\n\\nIt spawns in Shiverstone which replaces Depthrock in these Biomes. The Shiverstone will act similar to Ice as in it is slippery and slows you down a little. \\n\\nYou might also find some Nuggets in Munchers bellies!"]
 	quest.51E2728C5E35A152.title: "&bFroststeel&r"
 	quest.53FDC6C536E50A1A.quest_desc: ["&bGwiblings&r are friendly fish in the Seas. \\n\\nThey are smaller than &bGwibs&r and act like Vanilla Fish!"]
 	quest.53FDC6C536E50A1A.title: "&bGwibling&r"
