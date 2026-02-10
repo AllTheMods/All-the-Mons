@@ -1,0 +1,4 @@
+{
+	quest.235FE474EF8D785D.quest_desc: ["Você pode Fabricar um &4Cartão de Treinador&r ou Trocar com um &4Treinador Associado&r para obter um. \\n\\n&4Treinadores Associados&r Geram ao redor de Vilas ou ao redor de um Jogador se ele estiver segurando um &4Cartão de Treinador&r em sua Mão e não tiver uma &4&oSérie&r definida. \\n\\nQuando você estiver perto de um &4Treinador Associado&r, uma seta aparecerá acima do &4Cartão de Treinador&r que apontará para o &4Treinador Associado&r. \\n\\nVocê pode Trocar com o &4Treinador Associado&r para obter uma &4&oSérie&r, então você receberá uma lista de &4Treinadores&r para derrotar!"]
+	quest.235FE474EF8D785D.title: "&4&oSérie"
+}
