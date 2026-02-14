@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "rgs:kanto_league",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 70,
+    "salt": 785454635
+  }
+}

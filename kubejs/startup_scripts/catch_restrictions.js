@@ -3,7 +3,7 @@ let $CobblemonEvents = Java.loadClass("com.cobblemon.mod.common.api.events.Cobbl
 
 StartupEvents.postInit(allthemods => {
   $CobblemonEvents.THROWN_POKEBALL_HIT["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.thrownBallHit(event))
-  $CobblemonEvents.BATTLE_STARTED_PRE["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleStartedPre(event))
+  // $CobblemonEvents.BATTLE_STARTED_PRE["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleStartedPre(event))
 })
 
 global.thrownBallHit = (hitEvent) => {
@@ -77,9 +77,9 @@ global.battleStartedPre = (startedPreEvent) => {
       for (let pokemon of actor.pokemonList) {
         let originalPokemon = pokemon.originalPokemon
         //console.log("Pokemon is: " + originalPokemon)
-        let isGen1or2 = originalPokemon.hasLabels("gen1") || originalPokemon.hasLabels("gen2")
-        //console.log("IsGen1or2: " + isGen1or2)
-        if (isGen1or2) continue
+        let isGen1or2or3 = originalPokemon.hasLabels("gen1") || originalPokemon.hasLabels("gen2") || || originalPokemon.hasLabels("gen3")
+        //console.log("IsGen1or2: " + isGen1or2or3)
+        if (isGen1or2or3) continue
         let restrictedByPika = (originalPokemon.hasLabels("mythical") || originalPokemon.hasLabels("ultra_beast") || originalPokemon.hasLabels("paradox") || originalPokemon.hasLabels("legendary"))
         if (restrictedByPika) {
           if (!false) { // replace this `false` with a check if Pika Star was acquired
