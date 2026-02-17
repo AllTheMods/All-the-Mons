@@ -6,11 +6,11 @@
     "step": "surface_structures",
     "terrain_adaptation": "beard_thin",
     "start_pool": "allthemons:kanto_league_gym_000",
-	"start_jigsaw_name": "allthemons:kanto_league_gym/start_bottom",
-	"project_start_to_heightmap": "MOTION_BLOCKING_NO_LEAVES",
-	"start_height": {
-    "absolute": 0
-  },
+    "start_jigsaw_name": "allthemons:kanto_league_gym/start_bottom",
+    "project_start_to_heightmap": "MOTION_BLOCKING_NO_LEAVES",
+    "start_height": {
+      "absolute": 0
+    },
     "size": 7,
     "spawn_overrides": {
       "ambient": {
@@ -46,7 +46,9 @@
         "spawns": []
       }
     },
-    "max_distance_from_center": {"horizontal": 116},
+    "max_distance_from_center": {
+      "horizontal": 116
+    },
     "use_expansion_hack": false
   },
   "spawn_condition": {
@@ -54,17 +56,17 @@
     "radius": 40,
     "distance_between_points": 32,
     "condition": {
-  "type": "lithostitched:not",
-  "condition": {
-          "type": "lithostitched:height_filter",
-          "range_type": "heightmap_relative",
-          "heightmap": "MOTION_BLOCKING_NO_LEAVES",
-          "permitted_range": [
-            -10,
-            10
-          ]
-        }
-},
+      "type": "lithostitched:not",
+      "condition": {
+        "type": "lithostitched:height_filter",
+        "range_type": "heightmap_relative",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "permitted_range": [
+          -10,
+          10
+        ]
+      }
+    },
     "allowed_count": 0
   }
 }

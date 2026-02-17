@@ -130,7 +130,7 @@ ServerEvents.tags('entity_type', allthemods => {
     ])
 
     allthemods.add('allthemods:jank_blacklist', [
-        "@iceandfire",
+        '@iceandfire',
         'ars_nouveau:animated_block',
         'artifacts:mimic',
         'create:package',
@@ -138,13 +138,14 @@ ServerEvents.tags('entity_type', allthemods => {
         'twilightforest:hedge_spider',
         'twilightforest:swarm_spider',
         '#c:bosses',
-        "@occultism",
-        "@productivebees",
-        "forbidden_arcanus:corrupt_lost_soul",
-        "forbidden_arcanus:lost_soul",
-        "forbidden_arcanus:enchanted_lost_soul",
-        "@cobblemon",
-        "the_bumblezone:bee_queen"
+        '@occultism',
+        '@productivebees',
+        'forbidden_arcanus:corrupt_lost_soul',
+        'forbidden_arcanus:lost_soul',
+        'forbidden_arcanus:enchanted_lost_soul',
+        '@cobblemon',
+        '@rctmod',
+        'the_bumblezone:bee_queen'
     ])
 
     allthemods.add('ars_nouveau:jar_blacklist', ["the_bumblezone:bee_queen","@cobblemon"])
@@ -160,7 +161,8 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('ars_elemental:charm_blacklist', '#allthemods:jank_blacklist')
-    allthemods.add("justdirethings:creature_catcher_deny", '@cobblemon')
+    allthemods.add("justdirethings:creature_catcher_deny", ['@cobblemon', '@rctmod'])
+    allthemods.add("justdirethings:polymorphic_target_deny", ['@cobblemon', '@rctmod', '@cobbleloots'])
     allthemods.add("c:capturing_not_supported", '@cobblemon')
 
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])

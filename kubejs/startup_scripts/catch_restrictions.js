@@ -77,7 +77,7 @@ global.battleStartedPre = (startedPreEvent) => {
       for (let pokemon of actor.pokemonList) {
         let originalPokemon = pokemon.originalPokemon
         //console.log("Pokemon is: " + originalPokemon)
-        let isGen1or2or3 = originalPokemon.hasLabels("gen1") || originalPokemon.hasLabels("gen2") || || originalPokemon.hasLabels("gen3")
+        let isGen1or2or3 = originalPokemon.hasLabels("gen1") || originalPokemon.hasLabels("gen2") || originalPokemon.hasLabels("gen3")
         //console.log("IsGen1or2: " + isGen1or2or3)
         if (isGen1or2or3) continue
         let restrictedByPika = (originalPokemon.hasLabels("mythical") || originalPokemon.hasLabels("ultra_beast") || originalPokemon.hasLabels("paradox") || originalPokemon.hasLabels("legendary"))
