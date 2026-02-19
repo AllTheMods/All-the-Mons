@@ -1,0 +1,19 @@
+{
+  "type": "lithostitched:add_template_pool_elements",
+  "template_pools": "minecraft:village/plains/streets",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:guaranteed",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "location": "allthemons:village/plains/streets/gym_corner_02",
+          "processors": "minecraft:street_plains"
+        },
+        "count": 1
+      }
+    }
+  ]
+}
