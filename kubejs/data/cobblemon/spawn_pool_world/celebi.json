@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "celebi-1",
+      "pokemon": "celebi",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "30-32",
+      "weight": 2.8,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

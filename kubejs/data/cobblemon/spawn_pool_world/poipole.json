@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "poipole-2",
+      "pokemon": "poipole",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-60",
+      "weight": 0.08,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:purpur_block"
+        ]
+      }
+    }
+  ]
+}

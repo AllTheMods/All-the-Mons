@@ -1,0 +1,21 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "screamtail-1",
+      "pokemon": "screamtail",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-80",
+      "weight": 11.0,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

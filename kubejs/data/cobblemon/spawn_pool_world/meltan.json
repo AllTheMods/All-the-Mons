@@ -1,0 +1,39 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "meltan-1",
+      "pokemon": "meltan",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "38-48",
+      "weight": 5.06,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#c:empty_biome"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:iron_block"
+        ]
+      }
+    },
+    {
+      "id": "meltan-2",
+      "pokemon": "meltan",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "38-48",
+      "weight": 2.5,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ironcrown-1",
+      "pokemon": "ironcrown",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-88",
+      "weight": 7.0,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

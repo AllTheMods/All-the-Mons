@@ -1,0 +1,69 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "jirachi-1T",
+      "pokemon": "jirachi",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-80",
+      "weight": 0.8,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    },
+    {
+      "id": "jirachi-2T",
+      "pokemon": "jirachi",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60-80",
+      "weight": 0.8,
+      "weightMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "maxY": -16
+          }
+        },
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "maxY": -32
+          }
+        },
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "maxY": -48
+          }
+        }
+      ],
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "maxY": "0",
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#cobblemon:is_deep_dark"
+        ]
+      }
+    }
+  ]
+}

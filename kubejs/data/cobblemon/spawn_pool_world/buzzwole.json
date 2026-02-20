@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "buzzwole-1",
+      "pokemon": "buzzwole",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-100",
+      "weight": 3.2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

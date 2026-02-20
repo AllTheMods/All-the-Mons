@@ -1,0 +1,22 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "cobalion-1",
+      "pokemon": "cobalion",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70-100",
+      "weight": 2.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}

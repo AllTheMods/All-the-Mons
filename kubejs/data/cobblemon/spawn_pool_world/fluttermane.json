@@ -1,0 +1,21 @@
+{
+  "enabled": "true",
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "fluttermane-1",
+      "pokemon": "fluttermane",
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "48-80",
+      "weight": 15.0,
+      "condition": {
+        "biomes": [
+          "#c:empty_biome"
+        ]
+      }
+    }
+  ]
+}
