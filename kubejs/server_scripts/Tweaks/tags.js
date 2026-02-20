@@ -203,6 +203,8 @@ ServerEvents.tags('block', allthemods => {
 
 ServerEvents.tags('worldgen/biome', allthemods => {
   allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
+  allthemods.remove('pneumaticcraft:has_surface_oil_lakes', ["#minecraft:is_overworld"]);
+  allthemods.add('pneumaticcraft:has_surface_oil_lakes', ["#c:is_beach"]);
 });
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
