@@ -103,6 +103,9 @@ ServerEvents.tags('item', allthemods => {
 
     // FTBChunks
     allthemods.add("ftbchunks:right_click_whitelist",["#cobblemon:poke_balls"])
+
+
+    allthemods.add('c:gems/rose_quartz', 'create:rose_quartz')
 })
 
 ServerEvents.tags('entity_type', allthemods => {
