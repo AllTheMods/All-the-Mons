@@ -1,0 +1,24 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_nether"
+  ],
+  "biomeTagWhitelist": [
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "pokemon_trainer_cedric_0448",
+      "pokemon_trainer_cedric_0449",
+      "pokemon_trainer_cedric_044a"
+    ]
+  ],
+  "series": [
+    "bdsp"
+  ],
+  "spawnWeightFactor": 0,
+  "type": "leader"
+}
