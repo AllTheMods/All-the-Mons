@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:chosen_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 983461,
+    "spacing": 100,
+    "separation": 80
+  }
+}

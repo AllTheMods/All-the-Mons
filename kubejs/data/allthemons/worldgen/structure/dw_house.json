@@ -9,8 +9,8 @@
     }
   },
   "terrain_adaptation": "beard_thin",
-  "start_pool": "allthemons:poke_center",
-  "size": 4,
+  "start_pool": "allthemons:dw_house",
+  "size": 1,
   "start_height": {
       "absolute": 0
   },
