@@ -140,7 +140,7 @@
     {
       "species": "gliscor",
       "nature": "impish",
-      "ability": "poisontouch",
+      "ability": "poisonheal",
       "moveset": [
         "earthquake",
         "roost",
