@@ -13,6 +13,8 @@
 	"series.rctmod.contentcreators.description": "Content Creators Team series",
 	"series.rctmod.contentcreators.title": "Content Creators Team",	
 	"kubejs.atm.click_here": "Click here to dismiss",
+	"command.kubejs.wits.message": "You are currently within the following structure(s):",
+	"command.kubejs.wits.error": "No structures found.",
 	"announcements.atm.dismiss_up_to_version": "[Dismiss announcements up to version %s]",
 	"announcements.atm.dismissed_up_to_version": "Dismissed announcements up to version %s!",
 	"advancements.rctmod.defeat_contentcreators_chosenarchitect.description": "Defeat ChosenArchitect",
