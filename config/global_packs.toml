@@ -13,7 +13,7 @@ log_pack_ids = false
 #For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
 #With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
 [resourcepacks]
-	required = ["resourcepacks/", "global_packs/required_resources/"]
+	required = ["datapacks/", "resourcepacks/", "global_packs/required_resources/"]
 	enable_builtin = []
 
 [datapacks]
