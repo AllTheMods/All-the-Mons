@@ -13,6 +13,7 @@ let permanentAnnouncements = Utils.newList()
 // Add your announcements here
 function initAnnouncements(){
   addAnnouncement("0.3.0-beta", "First open beta version of the modpack!")
+  addAnnouncement("0.11.0-beta", "EnderDrive will be removed from the pack, check your storages!")
 
   addPermanentAnnouncement(Text.of("").append(Text.red("This is a beta version, everything is subject to change!")))
   addPermanentAnnouncement(Text.of("For issues, visit: ").append(Text.green("Github Issues").clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
