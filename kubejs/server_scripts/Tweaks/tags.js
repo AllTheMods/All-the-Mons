@@ -201,7 +201,7 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('block', allthemods => {
-  
+  allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm"]);
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
