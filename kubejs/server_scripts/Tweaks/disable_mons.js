@@ -1,0 +1,27 @@
+ServerEvents.generateData('last', allthemons => {
+
+  allthemons.json("cobblemon:spawn_pool_world/blacephalon.json", {
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "blacephalon-1",
+        "pokemon": "blacephalon",
+        "type": "pokemon",
+        "spawnablePositionType": "grounded",
+        "bucket": "ultra-rare",
+        "level": "15-32",
+        "weight": 3.5,
+        "condition": {
+          "canSeeSky": true,
+          "biomes": [
+            "#c:empty_biome"
+          ]
+        }
+      }
+    ]
+  })
+
+  
+})
