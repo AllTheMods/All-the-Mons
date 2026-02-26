@@ -11,13 +11,11 @@
   "optional": false,
   "requiredDefeats": [
     [
-      "allthemods_trainer_lego",
-      "allthemods_trainer_nektar"
     ]
   ],
   "series": [
-   "atm_team"
+    "atm_team"
   ],
   "spawnWeightFactor": 0,
-  "type": "team_allthemods_custom_gym"
+  "type": "team_allthemods_trainer"
 }

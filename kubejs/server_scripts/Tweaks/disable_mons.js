@@ -3,7 +3,7 @@ ServerEvents.generateData('last', allthemons => {
   let mons = [
       "blacephalon", "buzzwole", "celebi", "chienpao", "cobalion", "fluttermane", "genesect",
       "ironcrown", "jirachi", "kartana", "magearna", "marshadow", "meltan", "nihilego", "ogerpon",
-      "pecharunt", "poipole", "screamtail", "shaymin", "stakataka", "terrakion", "xurkitree"
+      "pecharunt", "poipole", "screamtail", "shaymin", "stakataka", "terrakion", "xurkitree", "kubfu"
   ]
 
   mons.forEach((mon) => {

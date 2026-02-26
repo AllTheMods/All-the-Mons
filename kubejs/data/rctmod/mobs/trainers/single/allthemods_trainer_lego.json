@@ -1,6 +1,6 @@
 {
-  "name": "LobsterJonn",
-  "identity": "LobsterJonn",
+  "name": "Lego",
+  "identity": "Lego",
   "ai": {
     "type": "rct",
     "data": {
@@ -14,67 +14,64 @@
     {
       "item": "cobblemon:hyper_potion",
       "quantity": 2
-    },
-    {
-      "item": "cobblemon:max_revive",
-      "quantity": 2
     }
   ],
   "team": [
     {
-      "species": "combee",
+      "species": "infernape",
       "gender": "MALE",
-      "level": 90,
-      "nature": "bashful",
-      "ability": "honeygather",
+      "level": 84,
+      "nature": "naughty",
+      "ability": "blaze",
       "moveset": [
-        "sweetscent",
-        "terablast",
-        "strugglebug",
-        "bugbite"
+        "closecombat",
+        "flamethrower",
+        "acrobatics",
+        "rockslide"
       ],
-      "ivs": {},
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
       "evs": {}
     },
     {
-      "species": "cutiefly",
-      "gender": "MALE",
-      "level": 90,
-      "nature": "naive",
-      "ability": "swarm",
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "bold",
+      "ability": "roughskin",
       "moveset": [
-        "sweetscent",
-        "bugbuzz",
-        "dazzlinggleam",
-        "aromatherapy"
+        "outrage",
+        "earthquake",
+        "dragonclaw",
+        "stoneedge"
       ],
       "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spa": 31,
-        "spd": 31,
-        "spe": 31
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
       },
-      "evs": {
-        "hp": 252,
-        "atk": 252,
-        "def": 252,
-        "spd": 252,
-        "spe": 252
-      }
+      "evs": {}
     },
     {
-      "species": "ribombee",
+      "species": "togekiss",
       "gender": "FEMALE",
-      "level": 90,
+      "level": 85,
       "nature": "timid",
-      "ability": "shielddust",
+      "ability": "superluck",
       "moveset": [
-        "moonblast",
-        "reflect",
-        "lightscreen",
-        "stickyweb"
+        "nastyplot",
+        "airslash",
+        "fireblast",
+        "aurasphere"
       ],
       "ivs": {
         "hp": 31,
@@ -94,16 +91,16 @@
       ]
     },
     {
-      "species": "vespiquen",
+      "species": "tinkaton",
       "gender": "FEMALE",
-      "level": 90,
+      "level": 86,
       "nature": "adamant",
-      "ability": "unnerve",
+      "ability": "owntempo",
       "moveset": [
-        "powergem",
-        "attackorder",
-        "aerialace",
-        "defendorder"
+        "gigatonhammer",
+        "playrough",
+        "skittersmack",
+        "stoneedge"
       ],
       "ivs": {
         "hp": 31,
@@ -121,16 +118,16 @@
       ]
     },
         {
-      "species": "beedrill",
+      "species": "toxtricity",
       "gender": "MALE",
-      "level": 90,
+      "level": 86,
       "nature": "jolly",
       "ability": "swarm",
       "moveset": [
-        "uturn",
-        "drillrun",
-        "poisonjab",
-        "pursuit"
+        "boomburst",
+        "thunderbolt",
+        "sludgebomb",
+        "thunderwave"
       ],
       "ivs": {
         "hp": 31,
@@ -146,21 +143,20 @@
         "spe": 252
       },
       "heldItem": [
-        "mega_showdown:beedrillite",
-        "life_orb"
+        "safety_goggles"
       ]
     },
     {
-      "species": "crawdaunt",
+      "species": "baxcalibur",
       "gender": "FEMALE",
       "level": 90,
       "nature": "jolly",
-      "ability": "adaptability",
+      "ability": "icebody",
       "moveset": [
-        "dragondance",
-        "crabhammer",
-        "knockoff",
-        "closecombat"
+        "crunch",
+        "iciclecrash",
+        "outrage",
+        "earthquake"
       ],
       "ivs": {
         "hp": 31,
@@ -176,7 +172,7 @@
         "spe": 252
       },
       "heldItem": [
-        "focus_sash"
+        "silver_powder"
       ]
     }
   ]
