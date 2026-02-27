@@ -15,7 +15,7 @@
 	quest.06D13E319C26C949.title: "핏빛 버섯 습지"
 	quest.073BA8470EA37A00.quest_desc: [
 		"또 다른 바다, 단지 이 바다는 훨씬 더 춥습니다."
-		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "빙해"
 	quest.08D9C809CF4062E8.quest_desc: ["생으로 먹거나, 굽거나, 막대기에 꽂아 드세요.\\n\\n지하콩으로 할 수 없는 게 뭘까요!"]
