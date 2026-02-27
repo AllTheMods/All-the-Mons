@@ -11,7 +11,9 @@
   "optional": false,
   "requiredDefeats": [
     [
-      "allthemods_trainer_lego",
+      "allthemods_trainer_lego"
+    ],
+    [
       "allthemods_trainer_nektar"
     ]
   ],
