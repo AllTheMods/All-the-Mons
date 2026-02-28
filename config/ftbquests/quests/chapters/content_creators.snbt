@@ -14,109 +14,103 @@
 		{
 			click: "https://www.youtube.com/@ChosenArchitect"
 			dependency: "7AB52F600829F468"
-			height: 1.0d
+			height: 3.0d
 			hover: ["ChosenArchitect"]
-			image: "atm:textures/contentcreators/contentcreators_chosenarchitect_outlined.png"
+			image: "atm:textures/questpics/series/content_chosen.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: 10.5d
+			width: 3.0d
+			x: -11.6d
+			y: 9.25d
 		}
 		{
 			click: "https://www.youtube.com/@Danrique"
 			dependency: "261E8EE0C7E7E2F0"
-			height: 1.0d
+			height: 3.0d
 			hover: ["Danrique"]
-			image: "atm:textures/contentcreators/contentcreators_danrique_outlined.png"
+			image: "atm:textures/questpics/series/content_danrique.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -10.5d
-			y: 10.5d
+			width: 3.0d
+			x: -20.2d
+			y: 9.25d
 		}
 		{
 			click: "https://www.youtube.com/@direwolf20"
 			dependency: "507635FE52E22D7D"
-			height: 1.0d
+			height: 3.0d
 			hover: ["Direwolf20"]
-			image: "atm:textures/contentcreators/contentcreators_direwolf20_outlined.png"
+			image: "atm:textures/questpics/series/content_dire.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -9.0d
-			y: 10.5d
-		}
-		{
-			dependency: "4E921DD32E1C4ABA"
-			height: 1.0d
-			hover: ["Joeychin01"]
-			image: "atm:textures/contentcreators/contentcreators_joeychin01_outlined.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.5d
-			y: 9.0d
+			width: 3.0d
+			x: -15.9d
+			y: 9.25d
 		}
 		{
 			click: "https://www.youtube.com/@MitinhoPlayer"
 			dependency: "0709CE22181A74BB"
-			height: 1.0d
+			height: 3.0d
 			hover: ["MitinhoPlayer"]
-			image: "atm:textures/contentcreators/contentcreators_mitinhoplayer_outlined.png"
+			image: "atm:textures/questpics/series/content_mitinho.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -8.0d
-			y: 9.0d
+			width: 3.0d
+			x: -11.7d
+			y: 1.75d
 		}
 		{
 			click: "https://www.youtube.com/@Nofaxu"
 			dependency: "13EB9A996928ED60"
-			height: 1.0d
+			height: 3.0d
 			hover: ["Nofaxu"]
-			image: "atm:textures/contentcreators/contentcreators_nofaxu_outlined.png"
+			image: "atm:textures/questpics/series/content_nofaxu.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -6.0d
-			y: 10.5d
+			width: 3.0d
+			x: -7.4d
+			y: 9.25d
 		}
 		{
 			click: "https://www.youtube.com/@Pilpoh"
 			dependency: "273605A191309522"
-			height: 1.0d
+			height: 3.0d
 			hover: ["Pilpoh"]
-			image: "atm:textures/contentcreators/contentcreators_pilpoh_outlined.png"
+			image: "atm:textures/questpics/series/content_pilpoh1.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -6.5d
-			y: 9.0d
+			width: 3.0d
+			x: -7.4d
+			y: 1.75d
 		}
 		{
 			click: "https://www.youtube.com/@virtcreates"
 			dependency: "31749B21AD674C5F"
-			height: 1.0d
+			height: 3.0d
 			hover: ["Virtuositas"]
-			image: "atm:textures/contentcreators/contentcreators_virtuositas_outlined.png"
+			image: "atm:textures/questpics/series/content_virt.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -5.0d
-			y: 9.0d
+			width: 3.0d
+			x: -24.5d
+			y: 9.25d
 		}
 		{
 			click: "https://www.twitch.tv/princessstellar"
 			dependency: "349E8C0C3F9CC99B"
-			height: 1.0d
+			height: 3.0d
 			hover: ["PrincessStellar"]
-			image: "atm:textures/contentcreators/contentcreators_princessstellar_outlined.png"
+			image: "atm:textures/questpics/series/content_princess.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -11.0d
-			y: 9.0d
+			width: 3.0d
+			x: -20.2d
+			y: 1.75d
+		}
+		{
+			height: 20.0d
+			image: "atm:textures/questpics/series/content_background.png"
+			order: -1
+			rotation: 0.0d
+			width: 30.0d
+			x: -17.5d
+			y: 4.5d
 		}
 	]
 	order_index: 3
-	quest_links: [{
-		id: "036B96847AA79D28"
-		linked_quest: "269D24B28FA92DF8"
-		x: -8.0d
-		y: -2.0d
-	}]
+	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["349E8C0C3F9CC99B"]
@@ -130,6 +124,14 @@
 			}
 			icon_scale: 1.25d
 			id: "4E921DD32E1C4ABA"
+			rewards: [{
+				id: "16A73639CD1FB9FC"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -138,8 +140,8 @@
 				id: "717A8B04D44CC651"
 				type: "advancement"
 			}]
-			x: -11.0d
-			y: 1.0d
+			x: -16.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4E921DD32E1C4ABA"]
@@ -152,6 +154,14 @@
 			}
 			icon_scale: 1.25d
 			id: "0709CE22181A74BB"
+			rewards: [{
+				id: "077108229F395E2A"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -160,8 +170,8 @@
 				id: "0BC1951CD461BC0B"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 1.0d
+			x: -11.7d
+			y: -0.5d
 		}
 		{
 			dependencies: ["0709CE22181A74BB"]
@@ -174,6 +184,14 @@
 			}
 			icon_scale: 1.25d
 			id: "273605A191309522"
+			rewards: [{
+				id: "25DC634465D8ED11"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -182,8 +200,8 @@
 				id: "472A4F6925D02972"
 				type: "advancement"
 			}]
-			x: -5.0d
-			y: 1.0d
+			x: -7.4d
+			y: -0.5d
 		}
 		{
 			dependencies: ["273605A191309522"]
@@ -196,6 +214,14 @@
 			}
 			icon_scale: 1.25d
 			id: "31749B21AD674C5F"
+			rewards: [{
+				id: "1D08D8461A79B051"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -204,8 +230,8 @@
 				id: "538F2ECA1A066DBC"
 				type: "advancement"
 			}]
-			x: -2.0d
-			y: 1.0d
+			x: -24.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["31749B21AD674C5F"]
@@ -218,6 +244,14 @@
 			}
 			icon_scale: 1.25d
 			id: "261E8EE0C7E7E2F0"
+			rewards: [{
+				id: "32B2652A15D3A434"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -226,8 +260,8 @@
 				id: "3FA5123B68F4939D"
 				type: "advancement"
 			}]
-			x: -13.0d
-			y: 4.0d
+			x: -20.2d
+			y: 7.0d
 		}
 		{
 			dependencies: ["261E8EE0C7E7E2F0"]
@@ -240,6 +274,14 @@
 			}
 			icon_scale: 1.25d
 			id: "507635FE52E22D7D"
+			rewards: [{
+				id: "0CDADC9A78A293A6"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -248,8 +290,8 @@
 				id: "7BD028EEF0CF0A1D"
 				type: "advancement"
 			}]
-			x: -10.0d
-			y: 4.0d
+			x: -15.9d
+			y: 7.0d
 		}
 		{
 			dependencies: ["507635FE52E22D7D"]
@@ -262,6 +304,14 @@
 			}
 			icon_scale: 1.25d
 			id: "7AB52F600829F468"
+			rewards: [{
+				id: "0E3573C008C174D7"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -270,8 +320,8 @@
 				id: "70A938FE279D0AED"
 				type: "advancement"
 			}]
-			x: -7.0d
-			y: 4.0d
+			x: -11.6d
+			y: 7.0d
 		}
 		{
 			dependencies: ["7AB52F600829F468"]
@@ -283,6 +333,14 @@
 			}
 			icon_scale: 1.25d
 			id: "13EB9A996928ED60"
+			rewards: [{
+				id: "3CCEFD5F6DEF1204"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -291,11 +349,14 @@
 				id: "482E95ABD31A74E1"
 				type: "advancement"
 			}]
-			x: -4.0d
-			y: 4.0d
+			x: -7.4d
+			y: 7.0d
 		}
 		{
-			dependencies: ["269D24B28FA92DF8"]
+			dependencies: [
+				"269D24B28FA92DF8"
+				"508951B5D86D6D58"
+			]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
@@ -304,8 +365,16 @@
 				}
 				id: "ftbquests:custom_icon"
 			}
-			icon_scale: 1.25d
+			icon_scale: 1.3d
 			id: "349E8C0C3F9CC99B"
+			rewards: [{
+				id: "1F77200212EC52DD"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			shape: "none"
 			size: 2.0d
 			tasks: [{
@@ -314,7 +383,24 @@
 				id: "6DAE45F9B7E0242C"
 				type: "advancement"
 			}]
-			x: -14.0d
+			x: -20.2d
+			y: -0.5d
+		}
+		{
+			id: "508951B5D86D6D58"
+			rewards: [{
+				id: "12413B9E70BCCAFC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "26E671C0CC1FA3C7"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -24.5d
 			y: 1.0d
 		}
 	]
