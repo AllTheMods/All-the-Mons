@@ -1,4 +1,5 @@
 {
+	autofocus_id: "235FE474EF8D785D"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "intro"
@@ -18,11 +19,22 @@
 		y: 4.5d
 	}]
 	order_index: 0
-	quest_links: [{
-		id: "444ABA990EC3F29B"
-		linked_quest: "269D24B28FA92DF8"
+	quest_links: [ ]
+	quests: [{
+		id: "235FE474EF8D785D"
+		rewards: [{
+			id: "44CB9FAE8DF6C40B"
+			type: "xp"
+			xp: 1
+		}]
+		shape: "gear"
+		size: 4.0d
+		tasks: [{
+			id: "4AB383A4D27AC755"
+			item: { count: 1, id: "rctmod:trainer_card" }
+			type: "item"
+		}]
 		x: 1.0d
-		y: 2.5d
+		y: 2.0d
 	}]
-	quests: [ ]
 }
