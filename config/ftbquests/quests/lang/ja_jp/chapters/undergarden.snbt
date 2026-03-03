@@ -15,7 +15,7 @@
 	quest.06D13E319C26C949.title: "Blood Mushroom Bog"
 	quest.073BA8470EA37A00.quest_desc: [
 		"もう一つの海ですが、こちらはもっと寒いです"
-		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "凍った海"
 	quest.08D9C809CF4062E8.quest_desc: ["生のまま食べたり、焼いたり、棒に刺したり。\n\nアンダービーンでできないことはありません！"]
@@ -158,7 +158,7 @@
 	quest.511144EF336BFAF5.title: "Smog Spires"
 	quest.51C59FDF0BD11FDF.quest_desc: ["Wigglewood Tree の定義は、Wigglewood Logs と Leaves を持っているということだけだと思います。どんな方向にも、大きさにも、形にも成長するようです。\n\nWigglewood Forests と Dense Forests で見つけることができます。\n\nピンク色の葉とトウヒに似た茶色の原木を持っています！"]
 	quest.51E2728C5E35A152.quest_desc: [
-		"Froststeel は Frozen バイオームで生成されます：Frostfields、Frosty Smogstem Forests、そしておそらく Icey Seas です"
+		"Froststeel は Frozen バイオームで生成されます：Frostfields、Frosty Smogstem Forests、そしておそらく Icy Seas です"
 		""
 		"これらのバイオームで Depthrock の代わりに生成される Shiverstone の中に生成されます。Shiverstone は氷のように滑りやすく、少し移動速度が遅くなります"
 		""

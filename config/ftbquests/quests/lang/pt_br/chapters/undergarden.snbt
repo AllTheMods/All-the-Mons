@@ -15,7 +15,7 @@
 	quest.06D13E319C26C949.title: "Pântano de Cogumelos de Sangue"
 	quest.073BA8470EA37A00.quest_desc: [
 		"Outro Mar, só que este é muito mais frio."
-		"{image:atm:textures/questpics/undergarden/undergarden_icey.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_icy.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "Mar Gelado"
 	quest.08D9C809CF4062E8.quest_desc: ["Coma-os crus, asse-os, coloque-os em um Espeto.\\n\\nO que você não pode fazer com Underbeans!"]
