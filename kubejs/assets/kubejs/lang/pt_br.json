@@ -76,10 +76,10 @@
     "kubejs.ponder.induction_mek.text_7": "Fornecedores de Indução são usados para aumentar a Taxa de Transferência de Energia",
     "kubejs.ponder.induction_mek.text_8": "A Matriz deve ter pelo menos uma Célula e um Fornecedor",
 
-    "kubejs.ponder.sps.header": "Mekanism: Transmutador de Fase Supercrítico (SPS)",
-    "kubejs.ponder.sps.text_1": "O SPS converte Polônio em Gás de Antimatéria usando uma grande quantidade de energia",
+    "kubejs.ponder.sps.header": "Mekanism: Alterador de Fase Supercrítica (AFS)",
+    "kubejs.ponder.sps.text_1": "O AFS converte Polônio em Gás de Antimatéria usando uma grande quantidade de energia",
     "kubejs.ponder.sps.text_2": "As Portas podem ser alteradas usando um configurador",
-    "kubejs.ponder.sps.text_3": "O SPS é construído usando este padrão para cada face",
+    "kubejs.ponder.sps.text_3": "O AFS é construído usando este padrão para cada face",
     "kubejs.ponder.sps.text_4": "Em um dos lados, você precisará de uma Porta no meio para entrada de energia",
     "kubejs.ponder.sps.text_5": "No lado de dentro, coloque uma Bobina Supercarregada na Porta",
     "kubejs.ponder.sps.text_6": "Você também pode usar múltiplas Bobinas Supercarregadas para um maior consumo de energia",
