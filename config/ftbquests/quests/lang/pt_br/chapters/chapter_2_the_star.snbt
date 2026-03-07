@@ -34,8 +34,6 @@
 	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oPena que o Bob Esponja não é uma Estrela."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aEstrela&r"
-	quest.17BDF307F3DC0E12.quest_desc: ["Ainda estamos trabalhando na receita. \\n\\nDeixamos o Capítulo visível apenas para você saber que ele ainda será adicionado ao AllTheMons. "]
-	quest.17BDF307F3DC0E12.title: "Ainda não está pronto!"
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oO desconhecido que, no entanto, é tudo o que conhecemos."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
@@ -59,7 +57,7 @@
 	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.23254CE8487D2E68.quest_desc: ["O &8Construtor de Wither&r é uma das melhores máquinas que você pode obter do &lIndustrial Foregoing&r, e por causa disso é caro. \\n\\nPrimeiro, você precisará das partes que compõem um &8Wither&r e um drop do &8Wither&r. \\n\\nEntão, você precisará de uma &6Estrutura de Máquina Suprema&r, que você precisa de &bGás de Éter&r para fazer. Adivinhe o que você precisa para o &bGás de Éter&r? Isso mesmo! Um &8Wither&r! Você precisará de uma Broca a Laser trabalhando em um &8Wither&r para obtê-lo. \\n\\nOs &8Withers&r gostam de fugir e matar coisas, então uma Câmara de Estase tornaria a extração deles mais fácil! "]
 	quest.23254CE8487D2E68.title: "&8Construtor de Wither"
-	quest.23AE395433AED3C0.quest_desc: ["A &6&lEstrela ATM&r precisa de alguns Blocos para manter os diferentes Itens juntos e formar sua forma de estrela! \\n\\nOs primeiros Blocos são &5Blocos&r de &5Liga&r de &5Unobtainium&r - &6Allthemodium&r. Você precisa usar um Aparato de Encantamento do &d&lArs Nouveau&r para fazê-los! Para fazer 28, para ser exato. \\n\\nPara 17 Blocos de Netherstar X3, você precisará de 111.537 Netherstars. (Por favor, eu imploro, use &l&bHNN&r, apenas não apareça e mate 111.537, por favor!)"]
+	quest.23AE395433AED3C0.quest_desc: ["A &6&lEstrela ATM&r precisa de alguns Blocos para manter os diferentes Itens juntos e formar sua forma de estrela! \\n\\nOs primeiros Blocos são &5Blocos&r de &5Liga&r de &5Unobtainium&r - &6Allthemodium&r. Você precisa usar um Aparato de Encantamento do &d&lArs Nouveau&r para fazê-los!"]
 	quest.23AE395433AED3C0.title: "O Invólucro da &6&lEstrela"
 	quest.263C9A0FC04472AB.quest_desc: ["Este pode tanto consumir &cLava&r como nenhum outro, ou ser usado para a &6&lEstrela (Star)&r. \\n\\nEste é difícil, eu gosto de ver a &cLava&r desaparecer em vez das minhas coisas desaparecerem na &cLava&r."]
 	quest.263C9A0FC04472AB.title: "&4Gerador Magmático 64x"
@@ -131,7 +129,8 @@
 	quest.4E82E843737045D9.quest_subtitle: "&oEssência dos seres mais poderosos."
 	quest.4E82E843737045D9.title: "&d&lAlma de Dragão"
 	quest.4E8C32CD6057A1AB.quest_desc: ["Para fazer o &c&lCombustível do Filósofo&r, temos a opção de usar &cQueimadores de Blaze&r ou &aVaras de Combustível Quádruplas de Urânio&r. \\n\\nO que você achar mais fácil de Fabricar! \\n\\n(Também conhecido como o &cQueimador de Blaze&r!)"]
-	quest.4E8C32CD6057A1AB.title: "&cQueimador de Blaze&f ou &aVaras de Combustível Quádruplas de Urânio"
+	quest.4E8C32CD6057A1AB.quest_subtitle: ""
+	quest.4E8C32CD6057A1AB.title: "&cQueimadores de Blaze&f"
 	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r é um Chefe adicionado por &6&lAllthemodium&r que vive na Pirâmide Ancestral em &l&bO Outro&r. \\n\\nNa morte, ele dropará 1 de seus Corações! Você precisará matar 9 deles para fazer um Bloco... \\n\\nFelizmente, existem maneiras de farmá-los!"]
 	quest.501A0AEEC73C0790.title: "Bloco de Coração de &6Piglich"
 	quest.535525EA4DF4AB59.quest_desc: ["O &cTransmissor de Jogador&r fornecerá energia a qualquer pessoa com o Cartão Vinculado. Isso inclui energia para todas as armaduras, ferramentas e itens em seu inventário. \\n\\nO &cNível Nitro&r é necessário para a &6&lEstrela&r, que é, claro, o último e mais difícil de obter."]
@@ -163,8 +162,6 @@
 	quest.616F9B78B16B42A5.quest_desc: ["A receita para a &6Bobina de Tesla&r pode parecer complicada, especialmente em uma árvore de receitas, mas podemos simplificá-la!\\n\\nAs &7Chapas de Alumínio&r são muito simples, precisando apenas usar um Martelo em Barras ou na Prensa de Metal Multibloco.\\n\\nO &8Componente Mecânico de Ferro&r também é simples, apenas algumas Chapa de Ferro e um &6Barra de Cobre&r.\\n\\nO &eBloco de Bobina de Electro&r precisará de um monte de &eBarras de Electro&r cortados em Fios. &eElectrum&r é uma liga de &eOuro&r e Prata.\\n\\nO &6Componente Eletrônico Avançado&r é um conjunto completo de uso da Bancada de Engenheiro e &9Plantas&r. Sua Folha de Duroplast requer muita refinação e fermentação com Máquinas Multibloco!\\n\\nO último item, o &cAcumulador de AT&r, precisa de alguns itens simples como &8Aço&r, &7Chapa de Alumínio&r, &cÁcido de Redstone&r e &4Madeira Tratada&r. Ele também precisa de um item mais complicado chamado &8Barra de Grafite HOP&r."]
 	quest.616F9B78B16B42A5.title: "&6Bobina de Tesla"
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Blocos Rosa Escuro Secos"
-	quest.62DDE5B1287BEB36.quest_desc: ["Outra parte do recheio suculento da &6&lEstrela ATM&r é o Bloco de Liga de &6Unobtainium Despertado&f-&3Vibranium&r, que eu vou chamar apenas de Bloco de &6Liga Despertada&r. \\nPara conseguir isso, você precisará de um multibloco de &6&lAltar Estelar&r (confira a Missão Criando a Estrela para mais informações!). \\n\\nLá, você precisará inserir o Bloco de &5Unobtainium&f-&3Vibranium&r, 4 Livros de Inquebrável I, 4 &6Gemas de Supremium Despertado&r e 4 &6Essências de Supremium Despertado&r. \\n\\nVocê então precisará fornecer 85 Milhões de FE... Depois disso, sua Liga deverá estar Despertada!"]
-	quest.62DDE5B1287BEB36.title: "Bloco de Liga &6Despertado de &5Unobtainium&f-&3Vibranium&r"
 	quest.67C76EDD4BCCFF3F.quest_desc: ["Através do &bVínculo Superior de Strigeor&r podemos fazer uma &bGema de Alma Vazia&r. \\n\\nElas podem ser usadas para transportar Mobs com segurança, ou para fazer a &d&lAlma de Dragão&r. \\n\\nPessoalmente, acho que deveríamos fazer ambos!"]
 	quest.67C76EDD4BCCFF3F.title: "&bGema de Alma Vazia"
 	quest.6877F33323910716.quest_desc: ["O Armazenamento de Bolso Tier 4 tem 64 Slots para Itens e cada um comporta 1.048.575 Itens. Isso dá um total de 67.108.800 Itens. Saiam da frente, Mochilas, vocês foram substituídas! \\n\\nCusta apenas algumas Estrelas do Nether, o que em Modded, honestamente, não é caro pelo que você recebe!"]
