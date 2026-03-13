@@ -1,0 +1,172 @@
+{
+	quest.06AC44758A00C280.quest_desc: [
+		"Level increase to 21. "
+		""
+		"Signature Item is &7Hard Stone&r."
+	]
+	quest.06AC44758A00C280.title: "&aLeader Brock"
+	quest.0AE4F79296B6A4E4.quest_desc: [
+		"Level Increase to 85."
+		""
+		"Signature Item is &3Choice Scarf&r."
+	]
+	quest.0AE4F79296B6A4E4.title: "&6Trainer Brendan"
+	quest.0B7A76864B36BB51.quest_desc: [
+		"Level Increase to 82."
+		""
+		"Signature Item is &7Lucky Egg&r."
+	]
+	quest.0B7A76864B36BB51.title: "&6Rival Terry"
+	quest.0C92029DF6B9080A.quest_desc: [
+		"Level Increase to 79."
+		""
+		"Signature Item is &0Charcoal Stick&r."
+	]
+	quest.0C92029DF6B9080A.title: "&aLeader Blaine"
+	quest.1665D7A3BDC93BEA.quest_desc: [
+		"No Level Increase. "
+		""
+		"Signature Item is &7Soothe &cBell&r."
+	]
+	quest.1665D7A3BDC93BEA.title: "&6Rival Terry "
+	quest.17CADE883895E1C4.quest_desc: [
+		"Level Increase to 46."
+		""
+		"Signature Item is &aMiracle Seed&r."
+	]
+	quest.17CADE883895E1C4.title: "&aLeader Erika"
+	quest.23A05E86B1DF7B1E.quest_desc: [
+		"Level Increase to 80."
+		""
+		"Signature Item is &0Utility Umbrella&r."
+	]
+	quest.23A05E86B1DF7B1E.title: "&7Rocket Admin Ariana"
+	quest.245203DBA9D45934.quest_desc: [
+		"Level Increase to 44."
+		""
+		"Signature Item is the &cMag&9net&r from &l&cCobble&fmon&r."
+	]
+	quest.245203DBA9D45934.title: "&aLeader Lt. Surge"
+	quest.3150CD77C1E90229.quest_desc: [
+		"Level Increase to 56."
+		""
+		"Signature Item is &8Black Sludge&r."
+	]
+	quest.3150CD77C1E90229.title: "&7Rocket Admins Archer and Ariana"
+	quest.34B53B764112A1BF.quest_desc: [
+		"Level Increase to 63."
+		""
+		"Signature Item is &7Twisted Spoon&r."
+	]
+	quest.34B53B764112A1BF.title: "&aLeader Sabrina"
+	quest.3D24607A51997B39.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is &cCleanse &7Tag&r."
+	]
+	quest.3D24607A51997B39.title: "&3Elite Four Agatha"
+	quest.49F4016F012BFA95.quest_desc: ["&4&oRadical Red&r is a ROM Hack for Pokemon Red, it follows the same story as Pokemon Red... just much harder. \\\\n\\\\nYeah, this won't be easy. \\\\n\\\\nYou can start the &4&oSeries&r by Trading with a &4Trainer Associate&r to give him your &4Trader Card&r so you can start &4&oRadical Red&r."]
+	quest.49F4016F012BFA95.title: "&4&oRadical Red"
+	quest.4FD9219B6005D90E.quest_desc: ["Once you've beat &4&oRadical Red&r you can find &6Trainer Red&r wandering throughout the &2&lOverworld&r still trying to find someone to beat. \\\\n\\\\nHe doesn't have any Signature Items, you'll just need to get lucky. \\\\n\\\\nHe has a Level Cap of 100 though."]
+	quest.4FD9219B6005D90E.title: "&6Trainer Red"
+	quest.514A8996A1C18BAF.quest_desc: [
+		"Level Increase to 29."
+		""
+		"Signature Item is &bMystic Water&r."
+	]
+	quest.514A8996A1C18BAF.title: "&aLeader Misty"
+	quest.5184669F1F038E9A.quest_desc: [
+		"Level Increase to 27."
+		""
+		"Signature Item is &eGold Nugget&r."
+	]
+	quest.5184669F1F038E9A.title: "&6Rival Terry"
+	quest.54B5E76DD69EA4CD.quest_desc: [
+		"Level Increase to 68."
+		""
+		"Signature Item is &5Expert Belt&r."
+	]
+	quest.54B5E76DD69EA4CD.title: "&6Trainer Brendan"
+	quest.5C335DBA0A7C23B5.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Dragon Fang."
+	]
+	quest.5C335DBA0A7C23B5.title: "&3Elite Four Lance"
+	quest.60C7BBFC8CA911FF.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is &6Focus Band&r."
+	]
+	quest.60C7BBFC8CA911FF.title: "&3Elite Four Bruno"
+	quest.61CC4CEE94D2B612.quest_desc: [
+		"Level Increase to 34."
+		""
+		"Signature Item is Silk Scarf."
+	]
+	quest.61CC4CEE94D2B612.title: "&6Trainer Brendan"
+	quest.6374DDC15639E3C3.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is &9Covert Cloak&r."
+	]
+	quest.6374DDC15639E3C3.title: "&7Rocket Admin Archer"
+	quest.643604ECFEE714D4.quest_desc: [
+		"Level Increase to 81."
+		""
+		"Signature Item is &cDestiny Knot&r."
+	]
+	quest.643604ECFEE714D4.title: "&7Boss Giovanni"
+	quest.67C1FC2100E5A73C.quest_desc: [
+		"Level Increase to 73."
+		""
+		"Signature Item is &dPoison Barb&r."
+	]
+	quest.67C1FC2100E5A73C.title: "&aLeader Koga"
+	quest.68618D5F4FC2F331.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is &bNever-Melt Ice&r."
+	]
+	quest.68618D5F4FC2F331.title: "&3Elite Four Lorelei"
+	quest.71525B9B007ECD34.quest_desc: [
+		"No Level increase. "
+		""
+		"Signature Item is &8Black Tumblestone&r."
+	]
+	quest.71525B9B007ECD34.title: "&7Rocket Admin Archer"
+	quest.73AC47B946B9A388.quest_desc: [
+		"Level Increase to 55."
+		""
+		"Signature Item is Upgrade (that's the full name)."
+	]
+	quest.73AC47B946B9A388.title: "&7Boss Giovanni"
+	quest.7588ADA67F348B0C.quest_desc: [
+		"Level Increase to 76."
+		""
+		"Signature Item is &bVivichoke&r."
+	]
+	quest.7588ADA67F348B0C.title: "&6Trainer May"
+	quest.78843287D1EB98E2.quest_desc: [
+		"Level Increase to 81."
+		""
+		"Signature Item is the &bDragon Scale&r from &l&cCobble&fmon&r. "
+		""
+		"Yeah, I know there is 3 different ones. Only use the one from &l&cCobble&fmon&r here!"
+	]
+	quest.78843287D1EB98E2.title: "&aLeader Clair"
+	quest.7C112EF6EA2BB232.quest_desc: [
+		"Still no Level Increase but hey you beat the &5Champ&r!"
+		""
+		"Signature Item is &dLife Orb&r."
+		""
+		"&5Champion Terry&r is the last person to beat in the &4&oSeries&r, but that isn't it for the Kanto Region..."
+	]
+	quest.7C112EF6EA2BB232.title: "&5Champion Terry"
+	quest.7DF8583CAB36812E.quest_desc: [
+		"Level Increase to 59."
+		""
+		"Signature Item is &dDubious Disc&r."
+	]
+	quest.7DF8583CAB36812E.title: "&7Boss Giovanni"
+}

@@ -4,21 +4,13 @@
 	filename: "unbound"
 	group: "21FB9D458E942C6D"
 	id: "3FA96F757548770F"
-	order_index: 5
-	quest_links: [
-		{
-			id: "2C2A8E77FE601496"
-			linked_quest: "1853CB2DADAC0D8F"
-			x: -1.5d
-			y: 0.0d
-		}
-		{
-			id: "60880FD45835E3F2"
-			linked_quest: "6BFE3D64D2FB19C6"
-			x: 1.5d
-			y: 0.0d
-		}
-	]
+	order_index: 3
+	quest_links: [{
+		id: "2C2A8E77FE601496"
+		linked_quest: "1853CB2DADAC0D8F"
+		x: -1.5d
+		y: 0.0d
+	}]
 	quests: [
 		{
 			id: "2B4286EFCE51CC21"

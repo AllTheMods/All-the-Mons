@@ -1,20 +1,848 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "square"
 	filename: "radical_red"
 	group: "21FB9D458E942C6D"
+	icon: {
+		id: "pkgbadges:the_boulder_badge"
+	}
 	id: "7A28EC3F22B15056"
-	order_index: 4
+	images: [
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/helper_arrow.png"
+			order: 1
+			rotation: 45.0d
+			width: 2.0d
+			x: 28.0d
+			y: -3.0d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 23.5d
+			y: -5.5d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 32.0d
+			y: -5.5d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 32.0d
+			y: 3.0d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 23.5d
+			y: 3.0d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 15.0d
+			y: 9.5d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 23.5d
+			y: 9.5d
+		}
+		{
+			height: 10.0d
+			image: "railcraft:block/buffer_stop_red"
+			rotation: 0.0d
+			width: 10.0d
+			x: 32.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/series/red_arrow.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 26.5d
+			y: -4.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/series/red_radical.png"
+			rotation: 0.0d
+			width: 18.0d
+			x: 23.5d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/series/red_kanto.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 23.5d
+			y: 10.5d
+		}
+	]
+	order_index: 2
 	quest_links: [ ]
-	quests: [{
-		id: "06AC44758A00C280"
-		tasks: [{
-			advancement: "rctmod:trainers/defeat_leader_brock"
-			criterion: ""
-			id: "5A07C2CE8B7BBDAE"
-			type: "advancement"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			dependencies: ["49F4016F012BFA95"]
+			icon: {
+				id: "cobblemon:hard_stone"
+			}
+			id: "06AC44758A00C280"
+			rewards: [{
+				id: "48CDECBE32F128E5"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				id: "5A07C2CE8B7BBDAE"
+				type: "advancement"
+			}]
+			x: 30.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["06AC44758A00C280"]
+			icon: {
+				id: "cobblemon:black_tumblestone"
+			}
+			id: "71525B9B007ECD34"
+			rewards: [{
+				id: "017558C52A7D1C33"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_1"
+				criterion: ""
+				id: "3640B52888F6BAA2"
+				type: "advancement"
+			}]
+			x: 30.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["71525B9B007ECD34"]
+			icon: {
+				id: "minecraft:gold_nugget"
+			}
+			id: "5184669F1F038E9A"
+			rewards: [{
+				id: "27F94A5DFF8DB541"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_1"
+				criterion: ""
+				id: "7A0B87CAF358B28F"
+				type: "advancement"
+			}]
+			x: 29.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5184669F1F038E9A"]
+			icon: {
+				id: "cobblemon:mystic_water"
+			}
+			id: "514A8996A1C18BAF"
+			rewards: [{
+				count: 2
+				id: "50184E8A3926B843"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				id: "7E0AF35F088C1BB7"
+				type: "advancement"
+			}]
+			x: 26.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["514A8996A1C18BAF"]
+			icon: {
+				id: "cobblemon:silk_scarf"
+			}
+			id: "61CC4CEE94D2B612"
+			rewards: [{
+				count: 2
+				id: "486732253EC8CD20"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_1"
+				criterion: ""
+				id: "50EA3E6CA3B130CA"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["61CC4CEE94D2B612"]
+			icon: {
+				id: "cobblemon:magnet"
+			}
+			id: "245203DBA9D45934"
+			rewards: [{
+				count: 2
+				id: "083F29A9632F791F"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				id: "1C720B52517750FA"
+				type: "advancement"
+			}]
+			x: 20.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["245203DBA9D45934"]
+			icon: {
+				id: "cobblemon:miracle_seed"
+			}
+			id: "17CADE883895E1C4"
+			rewards: [{
+				count: 2
+				id: "5AB8D329063E7D17"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				id: "216F67DBD554CD68"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["17CADE883895E1C4"]
+			icon: {
+				id: "cobblemon:upgrade"
+			}
+			id: "73AC47B946B9A388"
+			rewards: [{
+				count: 2
+				id: "3073662A1A714D1D"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
+				criterion: ""
+				id: "63A6BAA83A06A14D"
+				type: "advancement"
+			}]
+			x: 16.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["73AC47B946B9A388"]
+			icon: {
+				id: "cobblemon:soothe_bell"
+			}
+			id: "1665D7A3BDC93BEA"
+			rewards: [{
+				id: "46D182422440DE7D"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_2"
+				criterion: ""
+				id: "352555C3950BFF13"
+				type: "advancement"
+			}]
+			x: 16.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1665D7A3BDC93BEA"]
+			icon: {
+				id: "cobblemon:black_sludge"
+			}
+			id: "3150CD77C1E90229"
+			rewards: [{
+				count: 4
+				id: "6DAD8C9B6B79B944"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_and_ariana"
+				criterion: ""
+				id: "5F2B261C659B94C5"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3150CD77C1E90229"]
+			icon: {
+				id: "cobblemon:dubious_disc"
+			}
+			id: "7DF8583CAB36812E"
+			rewards: [{
+				count: 4
+				id: "343ACA866BBFB1EE"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_2"
+				criterion: ""
+				id: "181FE7B2E6CA55B4"
+				type: "advancement"
+			}]
+			x: 20.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7DF8583CAB36812E"]
+			icon: {
+				id: "cobblemon:twisted_spoon"
+			}
+			id: "34B53B764112A1BF"
+			rewards: [{
+				count: 4
+				id: "2DCB6EBEDCF99533"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				id: "08FEA41D85561182"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["34B53B764112A1BF"]
+			icon: {
+				id: "cobblemon:expert_belt"
+			}
+			id: "54B5E76DD69EA4CD"
+			rewards: [{
+				id: "206E965EF97D2CD4"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_2"
+				criterion: ""
+				id: "2336A8E990BCF064"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["54B5E76DD69EA4CD"]
+			icon: {
+				id: "cobblemon:poison_barb"
+			}
+			id: "67C1FC2100E5A73C"
+			rewards: [{
+				id: "49AB902E8C4050A2"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_koga"
+				criterion: ""
+				id: "1B2742A1B20E3A88"
+				type: "advancement"
+			}]
+			x: 27.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["67C1FC2100E5A73C"]
+			icon: {
+				id: "cobblemon:vivichoke"
+			}
+			id: "7588ADA67F348B0C"
+			rewards: [{
+				id: "5419A5027909AA77"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_may"
+				criterion: ""
+				id: "5FAE1E8AA779D380"
+				type: "advancement"
+			}]
+			x: 27.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7588ADA67F348B0C"]
+			icon: {
+				id: "cobblemon:charcoal_stick"
+			}
+			id: "0C92029DF6B9080A"
+			rewards: [{
+				count: 2
+				id: "1B7F06C26A67EC3A"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_blaine"
+				criterion: ""
+				id: "590BE46C18B00EBC"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0C92029DF6B9080A"]
+			icon: {
+				id: "cobblemon:covert_cloak"
+			}
+			id: "6374DDC15639E3C3"
+			rewards: [{
+				count: 2
+				id: "61D6693315B71C83"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_3"
+				criterion: ""
+				id: "734A5EC53DEA6ED4"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6374DDC15639E3C3"]
+			icon: {
+				id: "cobblemon:utility_umbrella"
+			}
+			id: "23A05E86B1DF7B1E"
+			rewards: [{
+				count: 2
+				id: "3E84643068268171"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_2"
+				criterion: ""
+				id: "316690015CA9B97C"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["23A05E86B1DF7B1E"]
+			icon: {
+				id: "cobblemon:destiny_knot"
+			}
+			id: "643604ECFEE714D4"
+			rewards: [{
+				count: 4
+				id: "3236AB23BD200CE8"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_3"
+				criterion: ""
+				id: "66A239C64BB2EA05"
+				type: "advancement"
+			}]
+			x: 19.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["643604ECFEE714D4"]
+			icon: {
+				id: "cobblemon:dragon_scale"
+			}
+			id: "78843287D1EB98E2"
+			rewards: [{
+				count: 4
+				id: "45B2537E04718012"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_clair"
+				criterion: ""
+				id: "78217763B508D03A"
+				type: "advancement"
+			}]
+			x: 19.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["78843287D1EB98E2"]
+			icon: {
+				id: "cobblemon:lucky_egg"
+			}
+			id: "0B7A76864B36BB51"
+			rewards: [{
+				count: 2
+				id: "44108587FB327731"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_4"
+				criterion: ""
+				id: "2C805E23BA4DE561"
+				type: "advancement"
+			}]
+			x: 21.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0B7A76864B36BB51"]
+			icon: {
+				id: "cobblemon:choice_scarf"
+			}
+			id: "0AE4F79296B6A4E4"
+			rewards: [{
+				count: 2
+				id: "24A8FF3BED4F97C3"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_wayne_3"
+				criterion: ""
+				id: "0721B9C5C4EC2FF2"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0AE4F79296B6A4E4"]
+			icon: {
+				id: "cobblemon:cleanse_tag"
+			}
+			id: "3D24607A51997B39"
+			rewards: [{
+				count: 4
+				id: "68565FE1A726FDEC"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_agatha"
+				criterion: ""
+				id: "1F7F52ECEE78D59E"
+				type: "advancement"
+			}]
+			x: 22.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0AE4F79296B6A4E4"]
+			icon: {
+				id: "cobblemon:focus_band"
+			}
+			id: "60C7BBFC8CA911FF"
+			rewards: [{
+				count: 4
+				id: "39674F600C640642"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bruno"
+				criterion: ""
+				id: "19B83DA99B4FF3EC"
+				type: "advancement"
+			}]
+			x: 22.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0AE4F79296B6A4E4"]
+			icon: {
+				id: "cobblemon:dragon_fang"
+			}
+			id: "5C335DBA0A7C23B5"
+			rewards: [{
+				count: 4
+				id: "26391DEAABBF02B4"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lance"
+				criterion: ""
+				id: "16D2160267360F18"
+				type: "advancement"
+			}]
+			x: 25.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0AE4F79296B6A4E4"]
+			icon: {
+				id: "cobblemon:never_melt_ice"
+			}
+			id: "68618D5F4FC2F331"
+			rewards: [{
+				count: 4
+				id: "217AD153548A9EAC"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lorelei"
+				criterion: ""
+				id: "30B59F8E0142B1EB"
+				type: "advancement"
+			}]
+			x: 25.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"5C335DBA0A7C23B5"
+				"68618D5F4FC2F331"
+				"60C7BBFC8CA911FF"
+				"3D24607A51997B39"
+			]
+			icon: {
+				id: "cobblemon:life_orb"
+			}
+			id: "7C112EF6EA2BB232"
+			rewards: [
+				{
+					id: "5182E7584EE27779"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					id: "6015CAF1E01DA850"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_terry"
+				criterion: ""
+				id: "0FE06CAEF288F4D0"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C112EF6EA2BB232"]
+			id: "4FD9219B6005D90E"
+			rewards: [
+				{
+					count: 3
+					id: "5E3F0FFEF7C47B8B"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					id: "0636AC323A6DB9FA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_red"
+				criterion: ""
+				id: "722E55DBC3AF5D84"
+				type: "advancement"
+			}]
+			x: 23.5d
+			y: 4.0d
+		}
+		{
+			id: "49F4016F012BFA95"
+			rewards: [{
+				id: "116357F00820F713"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "39C260CB84CB9589"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: 29.0d
+			y: -2.0d
+		}
+	]
 }
