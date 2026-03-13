@@ -26,9 +26,6 @@
 	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.3B4BF42C55C8BBBF.quest_desc: ["Don't you hate when your breaking something and the Blocks fall just out of your reach! \\n\\nWell worry no more for we have &4Magnets&r! Simply Right Click while holding the &4Magnet&r to turn it on. Then, all dropped Items and Blocks in a 5 Block Radius will come to you. \\n\\nYou can also equip the &4Magnet&r in your Curios to keep using it! \\n\\nIf you don't wish to continue using the &4Magnet&r (I find this happens near Mob Farms) then just Right Click with it again to disable it. \\n\\nIt can also be upgraded to increase the range!"]
 	quest.3B4BF42C55C8BBBF.title: "&l&9Simple &4Magnets"
-	quest.3B67558967871EB5.quest_desc: ["Hate looking for Shinys? Why not just convert one! \\n\\n&eShiny &bCards&r are quite expensive but it's &c&lModded Minecraft&r, so it won't be much of a problem! \\n\\nJust Click a &cPokemon&r with the &eShiny &bCard&r to make a Normal &cPokemon&r Shiny, or turn a Shiny Normal. \\n\\nThe &eShiny &bCard&r gets used up when you use it."]
-	quest.3B67558967871EB5.quest_subtitle: "Shine on, shine off"
-	quest.3B67558967871EB5.title: "&eShiny &bCard"
 	quest.3DA07EE81C9E13BF.quest_desc: ["The Ball &eSynchronizer&r can be used to switch the &cBall&r a &cPokemon&r is in. \\n\\nLet a &cPokemon&r Hold the desired &cBall&r, then use the Ball &eSynchronizer&r on them to switch it. The &cBall&r they were in will be Voided... \\n\\nI can't see this helping too much unless you use &cBalls&r that give benefits after Catching a &cPokemon&r!"]
 	quest.3DA07EE81C9E13BF.title: "Ball &eSynchronizer"
 	quest.3FEFD0340A60DD5F.quest_subtitle: "Complete all tricks!"

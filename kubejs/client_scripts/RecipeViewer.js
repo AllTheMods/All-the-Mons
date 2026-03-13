@@ -2,6 +2,7 @@
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 
 RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
+  allthemods.remove('cobblemon_utility:shinycard')
   allthemods.remove('quarryplus:adv_quarry')
   allthemods.remove('allthetweaks:greg_star')
   allthemods.remove('allthetweaks:greg_star_block')

@@ -540,34 +540,6 @@
 			y: 2.0d
 		}
 		{
-			id: "3B67558967871EB5"
-			rewards: [
-				{
-					id: "2557F80F413CED0C"
-					item: {
-						count: 1
-						id: "minecraft:nether_star"
-					}
-					type: "item"
-				}
-				{
-					id: "6F650B6203FB10E4"
-					item: {
-						count: 1
-						id: "cobblemon:exp_candy_xs"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "2E965A38D00B8C77"
-				item: { count: 1, id: "cobblemon_utility:shinycard" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: 2.0d
-		}
-		{
 			id: "159FAAE66F20FB4F"
 			rewards: [
 				{
@@ -726,7 +698,6 @@
 				"3DA07EE81C9E13BF"
 				"40708C304424C3FE"
 				"1CA43B9A95159AD0"
-				"3B67558967871EB5"
 				"620913A1FF09255F"
 			]
 			hide_dependency_lines: true

@@ -26,9 +26,6 @@
 	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
 	quest.3B4BF42C55C8BBBF.quest_desc: ["Você não odeia quando está quebrando algo e os Blocos caem fora do seu alcance! \\n\\nBem, não se preocupe mais, pois temos &4Ímãs&r! Simplesmente clique com o botão direito segurando o &4Ímã&r para ligá-lo. Então, todos os Itens e Blocos dropados em um raio de 5 Blocos virão até você. \\n\\nVocê também pode equipar o &4Ímã&r nos seus Curios para continuar usando-o! \\n\\nSe não desejar continuar usando o &4Ímã&r (acho que isso acontece perto de fazendas de Mobs), basta clicar com o botão direito novamente para desativá-lo. \\n\\nEle também pode ser aprimorado para aumentar o alcance!"]
 	quest.3B4BF42C55C8BBBF.title: "&l&9Ímãs &4Simples"
-	quest.3B67558967871EB5.quest_desc: ["Odeia procurar por Brilhantes? Por que não apenas converter um! \\n\\n&eCartões &bBrilhantes&r são bem caros mas é &c&lMinecraft Modificador, então não será um grande problema! \\n\\nApenas Clique em um &cPokémon&r com o &eCartão &bBrilhante&r para tornar um &cPokémon&r Normal em Brilhante, ou tornar um Brilhante em Normal. \\n\\nO &eCartão &bBrilhante&r é consumido quando você o usa."]
-	quest.3B67558967871EB5.quest_subtitle: "Brilha, não brilha"
-	quest.3B67558967871EB5.title: "&eCartão &bBrilhante"
 	quest.3DA07EE81C9E13BF.quest_desc: ["O &eSincronizador&r de Bolas pode ser usado para trocar a &cBola&r em que um &cPokémon&r está. \\n\\nDeixe um &cPokémon&r Segurar a &cBola&r desejada, então use o &eSincronizador&r de Bolas nele para trocá-la. A &cBola&r em que ele estava será Anulada... \\n\\nEu não vejo isso ajudando muito a não ser que você use &cBolas&r que dão benefícios após Capturar um &cPokémon&r!"]
 	quest.3DA07EE81C9E13BF.title: "&eSincronizador&r de Bolas"
 	quest.3FEFD0340A60DD5F.quest_subtitle: "Complete todos os truques!"
