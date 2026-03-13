@@ -14,7 +14,9 @@ global.thrownBallHit = (hitEvent) => {
   //console.log("Target Level is: " + targetLevel)
   let battle = hitEvent.pokemon.delegate.battle
   //console.log("Battle is: " + battle)
-  if (battle == null) {
+  let guaranteed = hitEvent.pokeBall.pokeBall.catchRateModifier.isGuaranteed()
+  //console.log("Is guaranteed catch: " + guaranteed)
+  if (battle == null && !guaranteed) {
     let owner = hitEvent.pokeBall.owner
     //console.log("Owner is: " + owner)
     let randomValue = Utils.random.nextFloat()
