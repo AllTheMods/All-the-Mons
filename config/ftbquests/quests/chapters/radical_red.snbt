@@ -816,7 +816,7 @@
 					xp_levels: 5
 				}
 			]
-			shape: "octagon"
+			shape: "heart"
 			size: 2.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_trainer_red"
