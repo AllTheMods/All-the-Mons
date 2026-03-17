@@ -390,36 +390,6 @@
 		}
 		{
 			dependencies: ["14B3542ECB59869C"]
-			id: "5905241071D1960A"
-			rewards: [
-				{
-					count: 10
-					id: "0039563A65D6476E"
-					item: {
-						count: 1
-						id: "hostilenetworks:prediction_matrix"
-					}
-					type: "item"
-				}
-				{
-					id: "2B6DDE003C76CA37"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			size: 1.5d
-			tasks: [{
-				id: "1AEFD81CDB3EA4CD"
-				item: { components: { "hostilenetworks:data_model": "hostilenetworks:allthemodium/piglich" }, count: 1, id: "hostilenetworks:prediction" }
-				match_components: "strict"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["14B3542ECB59869C"]
 			hide_until_deps_visible: false
 			id: "3B9D8E374CDAFD6C"
 			optional: true
@@ -977,6 +947,8 @@
 					xp: 100
 				}
 			]
+			shape: "diamond"
+			size: 1.5d
 			tasks: [{
 				id: "37597F7CBFCE3514"
 				item: { components: { "hostilenetworks:data_model": "hostilenetworks:warden" }, count: 1, id: "hostilenetworks:prediction" }
@@ -984,7 +956,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 14.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["14B3542ECB59869C"]
