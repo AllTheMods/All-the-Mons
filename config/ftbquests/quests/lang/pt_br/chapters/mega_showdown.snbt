@@ -1,0 +1,88 @@
+{
+	quest.00E4E946891014D9.quest_desc: ["Para poder &5Terastalizar&r, precisamos de permissão. Não pergunte o porquê, eu não sei a resposta. \\n\\nA maneira de conseguirmos permissão é usando um &5Orbe Tera&r. \\n\\nVocê precisará de Fabrique. Curiosamente, ele é feito apenas com itens &2&lVanilla&r. \\n\\nVocê pode simplesmente clicar com o botão direito com ele para equipar ou usar sua Tela de Acessórios."]
+	quest.00E4E946891014D9.quest_subtitle: ""
+	quest.00E4E946891014D9.title: "&5Orbe Tera"
+	quest.0CFF4E3560CFFB49.quest_desc: ["Cada &cPokémon&r precisa de sua &bMega Pedra&r específica para se tornar &bMega&r. \\n\\nÉ bem fácil saber de quem é cada uma, porque geralmente elas são nomeadas com o nome do &cPokémon&r seguido de \"ita\". \\n\\nCada uma precisa de uma &bMega Pedra&r, 2 Lingotes de Ferro, um &bDiamante&r e um item único para aquele &cPokémon&r. \\n\\nAlém disso, Charizard e Mewtwo possuem duas formas de &bMega&r com X e Y."]
+	quest.0CFF4E3560CFFB49.title: "&bMega Pedras&r Específicas"
+	quest.117ADB40CE01CE07.quest_desc: ["Por algum motivo, nossos &cPokémon&r precisam que usemos &eAnéis&r especiais para podermos usar &eMovimentos Z&r. \\n\\nNão tenho certeza do porquê... mas precisaremos de uma Pedra Brilhante para fabricá-los. Além de alguns outros itens. \\n\\nO tipo de &eAnel&r não importa, apenas muda a aparência. Eu gosto mais dos &dAnéis da Olivia&r!"]
+	quest.117ADB40CE01CE07.quest_subtitle: ""
+	quest.117ADB40CE01CE07.title: "&eAnéis Z"
+	quest.1690E9F6BBF820D1.quest_desc: ["Para &5Terastalizar&r &cPokémon&r, precisaremos de muitos &5Fragmentos Tera&r. \\n\\nVamos facilitar o transporte de muitos desses &5Fragmentos Tera&r usando uma Bolsa! \\n\\nA Bolsa Tera pode guardar um pack de cada tipo de &5Fragmento Tera&r."]
+	quest.1690E9F6BBF820D1.quest_subtitle: ""
+	quest.1690E9F6BBF820D1.title: ""
+	quest.16E0E86A19015F2A.quest_desc: ["Para ativar a &bMega Pedra&r, precisaremos de um &bBracelete Mega&r. \\n\\nSim, sim, sim, eu sei que nem todos são &bBraceletes&r. \\n\\nBracelete, Anel, Tiara, o que for! Desde que caiba no &bEspaço de Mega&r, use-o."]
+	quest.16E0E86A19015F2A.quest_subtitle: ""
+	quest.16E0E86A19015F2A.title: "&bBraceletes Mega"
+	quest.1E01E377A2091AA6.quest_desc: ["&5Fragmentos Estelares&r têm 1% de chance de cair quando qualquer &cPokémon&r é derrotado. \\n\\nQuando você usa 50 deles em um &cPokémon&r, ele irá &5Terastalizar&r para o &5Tipo Estelar&r. Esta é a única maneira de obtê-lo. \\n\\nO &5Tipo Estelar&r receberá um bônus para todos os ataques! Mas será fraco contra outros &5Tipos Estelares&r. Felizmente, eles são bem raros."]
+	quest.1E01E377A2091AA6.quest_subtitle: ""
+	quest.1E01E377A2091AA6.title: "&5Fragmentos Tera Estelares"
+	quest.23DBBEFCE729AEA3.quest_desc: ["\"Ao fazer um desejo a uma estrela\" \\n\\nVocê será capaz de &cDynamaxizar&r seu &cPokémon&r! \\n\\nO &cDynamax&r é usado em batalha para usar uma versão &cMax&r dos movimentos do seu &cPokémon&r. \\n\\nIsso fará com que eles cresçam muito em tamanho, ganhem mais vida e tornem seus movimentos ainda mais poderosos!"]
+	quest.23DBBEFCE729AEA3.title: "Estrela do Desejo"
+	quest.2C272D1D6DE6C0F1.quest_desc: ["Enquanto estiver usando um &5Orbe Tera&r, você pode usar 50 do mesmo &5Fragmento Tera&r em seu &cPokémon&r para dar a ele esse tipo. \\n\\nObviamente, o tipo está relacionado ao tipo de &5Fragmentos&r que você usa. \\n\\nIsso entrará em vigor quando o &cPokémon&r estiver em batalha."]
+	quest.2C272D1D6DE6C0F1.quest_subtitle: ""
+	quest.2C272D1D6DE6C0F1.title: "&5Terastalizando"
+	quest.2E6646301ACD332E.quest_desc: ["O &eObservatório&r é uma estrutura alta com um telescópio gigante saindo dela. \\n\\nO primeiro nível tem toneladas de Vasos, um PC e alguns monitores de dados. \\n\\nO segundo nível tem Estações de Cura e vidros pelos quais eu continuo tentando atravessar, assim como os pássaros tentam. \\n\\nO terceiro nível tem baús, barris e um..."]
+	quest.2E6646301ACD332E.quest_subtitle: ""
+	quest.2E6646301ACD332E.title: "&eObservatório"
+	quest.33B301DB0637B6FC.quest_desc: ["Nas profundezas da terra, você pode encontrar um &bMegaroide&r! \\n\\nNão, não tem nada a ver com melhorias físicas... bem, exceto para &cPokémon&r. \\n\\nÉ chamado de 'roide' por causa de asteroides, não esteroides, é isso que estou tentando dizer! \\n\\nNo centro do &bMega-asteroide&r, fica o Minério de Pedra-chave."]
+	quest.33B301DB0637B6FC.quest_subtitle: ""
+	quest.33B301DB0637B6FC.title: "&bMegaroide"
+	quest.3642AF6FE63B1C90.quest_desc: ["Vamos revisar nossa lista. \\n\\n&nPokémon segurando sua Mega Pedra&r? &aCheck&r! \\n\\n&nVocê está usando um Bracelete Mega&r? &aCheck&r! \\n\\nSe ambos estiverem marcados, em batalha, abaixo de seus movimentos, você verá um botão que diz &bMegaevoluir&r. Clique nele para ativá-lo. \\n\\nDepois, selecione um movimento e seu &cPokémon&r irá se transformar. \\n\\nCertifique-se de não estar usando um &eMovimento Z&r junto com &bMegaevoluções&r, você só pode usar 1 por vez."]
+	quest.3642AF6FE63B1C90.quest_subtitle: ""
+	quest.3642AF6FE63B1C90.title: "&bMegaevolução"
+	quest.380C4222BDD65415.quest_desc: ["Para &cDynamaxizar&r, precisamos de uma pulseira. \\n\\nUma &cPulseira Dynamax&r. \\n\\nUse-a para que possamos &cDynamaxizar&f nossos &cPokémon&r."]
+	quest.380C4222BDD65415.quest_subtitle: ""
+	quest.380C4222BDD65415.title: "&cPulseira Dynamax"
+	quest.3D6167F673BB5256.quest_desc: ["Ao minerar o &bMega Cristal&r com uma &bPicareta de Diamante&r (ou melhor), você obterá uma &bMega Pedra&r! \\n\\nEstas não fazem nada sozinhas; em vez disso, precisaremos usá-las para Fabrique uma certa &bMega Pedra&r para um &cPokémon&r específico. \\n\\nNem todos os &cPokémon&r podem se tornar &bMega&r, apenas alguns selecionados. Cada um precisará de sua &bMega Pedra&r específica, o que significa que se você quiser vários &bMega Pokémon&r, precisará de vários &bLocais Mega&r."]
+	quest.3D6167F673BB5256.quest_subtitle: ""
+	quest.3D6167F673BB5256.title: "&bMega Pedra"
+	quest.3FACB48732D14A79.quest_desc: ["Raramente, no subsolo, você pode encontrar um &bLocal Mega&r. \\n\\nParece um pouco com um &bMegaroide&r se a atmosfera fosse muito mais agressiva com ele. \\n\\nVocê encontrará minérios nele, assim como o &bMega Cristal&r."]
+	quest.3FACB48732D14A79.quest_subtitle: ""
+	quest.3FACB48732D14A79.title: "&bLocal Mega"
+	quest.41CFA175B69E6639.quest_desc: ["&cBosque do Desejo&r, não Poço. Não há água aqui, apenas uma estrutura na floresta. \\n\\nNo centro da estrutura haverá uma estrela caída. \\n\\nFaça um desejo! Ou minere o cristal com uma &bPicareta de Diamante&r. "]
+	quest.41CFA175B69E6639.quest_subtitle: ""
+	quest.41CFA175B69E6639.title: "&cBosque do Desejo"
+	quest.440B61C517B8BD09.quest_desc: ["Com um pincel, podemos descobrir itens da Areia Suspeita em &eSítios Arqueológicos&r. \\n\\nDois itens raros que podemos obter são as Pedras Brilhantes de Luz e Escuridão. \\n\\nNão há diferença entre elas além dos &eAnéis&r que elas fabricam. Os &eAnéis&r apenas mudam a aparência, não o efeito ou habilidade."]
+	quest.440B61C517B8BD09.quest_subtitle: ""
+	quest.440B61C517B8BD09.title: ""
+	quest.490A35A715E8E20E.quest_desc: ["Com uma &cPulseira Dynamax&r em seu personagem, um &cPonto de Energia&r por perto e um &cPokémon&r pronto para lutar, podemos &cDynamaxizar&r! \\n\\nSeu &cPokémon&r não precisa ter um &cNível Dynamax&r alto para usá-lo; tudo o que isso fará é tornar o movimento dele ainda mais poderoso e dar a ele mais vida. \\n\\nEm batalha, você pode olhar abaixo dos movimentos para ver o botão &cDynamax&r. Clique nele para transformar nossos movimentos em &cMovimentos Max&r!"]
+	quest.490A35A715E8E20E.quest_subtitle: ""
+	quest.490A35A715E8E20E.title: "&cDynamaxizando"
+	quest.53A556F14187F399.quest_desc: ["O Movimento Z em Branco! \\n\\nSim, ele está em branco! \\n\\nSe quisermos fazer um &eMovimento Z&r específico, precisaremos de Fabrique com alguns itens para criar esse &eMovimento Z&r."]
+	quest.53A556F14187F399.quest_subtitle: ""
+	quest.53A556F14187F399.title: ""
+	quest.53C0C8BCCB804368.quest_desc: ["Agora temos nossos diferentes &eMovimentos Z&r. \\n\\nAlguns apenas tornarão um movimento ainda mais forte, esses geralmente são nomeados de acordo com os tipos, como Normalium Z. \\n\\nAlguns mudarão o movimento de um &cPokémon&r para um diferente, como o &ePikanium Z&r. \\n\\nE alguns são apenas estranhos, como o &6Ultranecrozium Z&r."]
+	quest.53C0C8BCCB804368.quest_subtitle: ""
+	quest.53C0C8BCCB804368.title: "&eMovimentos Z"
+	quest.53F54C6A1EAB9574.quest_desc: ["Odeia ocupar 4 espaços para usar &eMovimentos Z&f, &cDynamax&f, &bMegaevoluções&f e &5Terastalização&r? \\n\\nEntão, por que não dar uma chance ao Anel &bO&5m&en&ci&r! \\n\\nBasta usar este garotão em qualquer um desses 4 espaços e você terá a função do &eAnel Z&f, &cPulseira Dynamax&f, &bBracelete Mega&f e &5Orbe Tera&r em um pequeno pacote."]
+	quest.53F54C6A1EAB9574.quest_subtitle: ""
+	quest.53F54C6A1EAB9574.title: "Anel &bO&5m&en&ci&r"
+	quest.56F6B205855AF7F2.quest_desc: ["O &cPokémon&r não é grande o suficiente? Por que não usar o &cGigamax&r! \\n\\nApenas alguns &cPokémon&r podem usá-lo (há uma lista online, mas Charizard e Eevee estão nela). \\n\\nAlimente-os com uma &cSopa Max&r (ou se for um Urshifu, uma &cSopa Max Doce&r) e eles poderão usar &cMovimentos G-Max&r."]
+	quest.56F6B205855AF7F2.quest_subtitle: ""
+	quest.56F6B205855AF7F2.title: "&cGigamax"
+	quest.5C34376765740C16.quest_desc: ["O &cCogumelo Max&r cresce em Cavernas Exuberantes. \\n\\nEle será necessário para o &cPonto de Energia&r, além de poder criar alguns itens de comida para &cPokémon&r. \\n\\n&cDoce Dynamax&r, que aumentará o &cNível Dynamax&r daquele Pokémon, &cMel Max&r, que ativará um &cMovimento Max&r, ou &cSopa Max&r para &cGigamaxizar&f um &cPokémon&r!"]
+	quest.5C34376765740C16.title: "&cCogumelo Max"
+	quest.6309224455079059.quest_desc: ["&5&lMega Showdown&r! É um complemento de &c&lCobble&fmon&r que nos dá... um, dois, três, quatro! Quatro maneiras diferentes de apimentar as lutas de &cPokémon&r. \\n\\nTemos &bFormas Mega&f, &5Terastalização&f e &cDynamax&r, que mudam nossos &cPokémon&r enquanto lutam. Além dos &eMovimentos Z&r, que mudam os movimentos de luta dos nossos &cPokémon&r. \\n\\nTodos esses exigem que visitemos estruturas, exceto a &5Terastalização&r. \\n\\nTambém precisaremos de certos acessórios equipados para usá-los. Olhe para o seu inventário e, onde sua skin é mostrada no canto superior direito, haverá \"Abrir Tela de Acessórios\". Aqui é onde você colocará os itens para equipá-los."]
+	quest.6309224455079059.quest_subtitle: ""
+	quest.6309224455079059.title: "&5&lMega Showdown!"
+	quest.658D2E531DDB116C.quest_desc: ["Já está com suas joias bonitas? Dê ao seu &cPokémon&r um &eMovimento Z&r e estaremos prontos para usá-lo! \\n\\nTambém certifique-se de que seu &cPokémon&r conheça o movimento e que você não esteja usando nenhuma &bMegaevolução&r. Você não pode usar &bMegaevoluções&r com &eMovimentos Z&r. \\n\\nUma vez em batalha, abaixo de seus movimentos você terá a opção de usar um &eMovimento Z&r! \\n\\nIsso irá impulsionar ou mudar seus movimentos de qualquer forma."]
+	quest.658D2E531DDB116C.quest_subtitle: ""
+	quest.658D2E531DDB116C.title: "&eMovimentos Z&r em ação"
+	quest.69B766907C1226C0.quest_desc: ["O &cDynamax&r precisa de um &cPonto de Energia&r a no máximo 20 blocos de distância da batalha. \\n\\nNão sei se são 20 blocos de distância de você, do seu &cPokémon&r ou daquilo que você está enfrentando... apenas fique perto de todos eles para ter certeza. \\n\\nVocê precisará de uma Estrela do Desejo e de um &cCogumelo Max&r para criar um."]
+	quest.69B766907C1226C0.quest_subtitle: ""
+	quest.69B766907C1226C0.title: "&cPonto de Energia"
+	quest.6F59C939D62FA6C8.quest_desc: ["&5Fragmentos Tera&r são drops raros ao derrotar &cPokémon&r selvagens. \\n\\nO tipo do &cPokémon&r determina o drop, então &cPokémon&r do tipo Normal droparão Fragmentos Tera Normal, e &cPokémon de Fogo&r darão &cFragmentos Tera de Fogo&r. \\n\\nTodo &cPokémon&r tem 10% de chance de dropá-los. Também há 1% de chance de todos os &cPokémon&r droparem um &5Fragmento Tera Estelar&r."]
+	quest.6F59C939D62FA6C8.quest_subtitle: ""
+	quest.6F59C939D62FA6C8.title: "&5Fragmentos Tera"
+	quest.747580F66BCFB9B0.quest_desc: ["A Pedra-chave é encontrada no centro do &bMegaroide&r. Você precisará de uma &bPicareta de Diamante&r ou melhor para minerá-la. \\n\\nCada uma dará apenas uma Pedra-chave. Felizmente, não precisamos de mais do que isso! "]
+	quest.7895490EEBDCF601.quest_desc: ["O &eSítio Arqueológico&r é uma área rochosa repleta de blocos suspeitos. \\n\\nTambém há baús e vasos para saquear, mas os blocos suspeitos são mais legais!"]
+	quest.7895490EEBDCF601.quest_subtitle: ""
+	quest.7895490EEBDCF601.title: "&eSítio Arqueológico"
+	task.15B5242AD0DAF52A.title: "Fragmentos Tera"
+	task.217F7677258AF94F.title: "Anéis Z"
+	task.2391300D60CC0D36.title: "Pedras Brilhantes"
+	task.250DF8CF8A07A888.title: "Mega Pedras Específicas"
+	task.25A056981B7F62F0.title: "Braceletes Mega"
+	task.5FEDBD789E019B8D.title: "Movimentos Z"
+	task.7A4A898E67110B8E.title: "Bolsa Tera"
+}

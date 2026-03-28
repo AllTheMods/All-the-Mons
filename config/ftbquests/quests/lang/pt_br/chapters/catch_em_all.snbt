@@ -74,6 +74,7 @@
 		"{image:atm:textures/questpics/pokemon/find_frozen_pond.png width:200 height:100 align:center}"
 	]
 	quest.397E11CDCB8B4DC4.title: "Lagoa Congelada Pré-histórica"
+	quest.3A7120AD61BC6D74.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, você está no modo de edição."]
 	quest.3B5578F000D6AD9E.quest_desc: ["Combine qualquer Vara de Pesca com o &bModelo de Aprimoramento de PokeVara&r e uma &cPoke&rbola para criar uma &cPoke&rRod! \\n\\nA &cPoke&rbola utilizada apenas mudará a aparência da &cPoke&rRod... não use as caras para isso. \\n\\nA minha favorita é a que usa a &dBola Cura&r!"]
 	quest.3B5578F000D6AD9E.title: "Criando uma &cPoke&rRod"
 	quest.3E822975A8A66EBD.quest_desc: [
@@ -145,7 +146,9 @@
 	]
 	quest.7E8CBDC0377013E0.title: "Toca Chamuscada pelo Sol Pré-histórica"
 	task.03C72EFDFD9D0F8D.title: "PokeVara"
+	task.38EE9A31CBDD5AE8.title: "TodosOsDireitosReservados"
 	task.419216305C141D67.title: "PokeLocalizadores"
+	task.495FB1055FFDC998.title: "TodosOsDireitosReservados"
 	task.570E6A812FFE21EF.title: "Fósseis"
 	task.6A9462E51E54383F.title: "Bolotas"
 	task.7DA1C949AC80BCBF.title: "PokeLocalizadores"

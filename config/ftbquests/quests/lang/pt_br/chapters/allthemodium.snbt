@@ -55,7 +55,7 @@
 	]
 	quest.226B8B60AF864FEF.title: "&3Molde de Ferraria de Vibranium&r"
 	quest.24934231538B6492.quest_desc: [
-		"A Pirâmide Ancestral é uma das 3 Estruturas em &b&lO Outro&r. \\n\\nClaramente é uma Pirâmide e não, esta não tem um porão! \\n\\nEm vez disso, ela tem o Piglich.\\n"
+		"A Pirâmide Ancestral é uma das 3 estruturas em &b&lThe Other&r. \\n\\nClaramente é uma pirâmide e não, esta não tem um porão! \\n\\nEm vez disso, ela tem o &ePiglichu&r! \\n\\nVocê me ouviu bem, aqui não é mais o &ePiglich&r, eles foram transformados em um &cPokemon&r chamado &ePiglichu&r. \\n\\nVocê pode lutar e capturá-los como qualquer outro &cPokemon&r! \\n"
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Pirâmide Ancestral"
@@ -93,8 +93,8 @@
 	quest.5AAF6CA41209B365.title: "&3Ferramentas de Vibranium"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Sim, pode fazer caminhos, não se preocupe!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Pá de &5Liga de &3Allthemodium"
-	quest.5BA986D7928BF09F.quest_desc: ["O Piglich é um Chefe adicionado pelo &6&lAllthemodium&r. \\n\\nEle tem 1000 de Vida e atualmente não tem ataques, mas confie em mim, quando tiver, eles serão devastadores! \\n\\nQuando morto, ele dropará seu Coração, que será necessário para Ligas e a Estrela ATM! \\n\\n(Procure maneiras de farmá-los, como com HNN ou EnderIO!)"]
-	quest.5BA986D7928BF09F.title: "Chefe Piglich"
+	quest.5BA986D7928BF09F.quest_desc: ["Você pode querer capturá-los, pois essa é a maneira de obter &eCorações de Piglich&r no &l&cAll&7The&fMons&r! \\n\\nBasta deixar seu &ePiglichu&r vagar livremente com um Pasto e eles começarão a soltar &eCorações de Piglich&r. \\n\\nEles simplesmente os soltam aleatoriamente no chão, a menos que você tenha um Baú por perto, então eles colocarão os &eCorações&r lá."]
+	quest.5BA986D7928BF09F.title: "Corações de Piglichu?"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combinado com &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "Barra de Liga de &3Vibranium&r - &6Allthemodium&r"
 	quest.68E6AE1B9EBCEFFF.title: "Maça de &3Vibranium"

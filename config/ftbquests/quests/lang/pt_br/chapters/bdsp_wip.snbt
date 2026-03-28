@@ -25,6 +25,7 @@
 	quest.27ACBFA9D014D2A6.title: "&aLíder de Ginásio Volkner"
 	quest.3A12B03FE9C9D925.quest_desc: ["Finalmente você está cara a cara com a &5Campeã&f, &5Cynthia&r! \\n\\nSe você derrotá-la, seu Limite de Nível subirá para 69. \\n\\nSeu Item de Assinatura é uma &3Escama de Prisma&r."]
 	quest.3A12B03FE9C9D925.title: "&5Campeã Cynthia"
+	quest.3B57EEC3E8E67D12.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, você está no modo de edição."]
 	quest.3D63B8A64B561A71.quest_desc: ["Ele aumentará seu Limite de Nível para 36. \\n\\nSeu Item de Assinatura desta vez é o &dEviolite&r. \\n\\nVocê precisará lutar com ele 3 vezes. Não apenas lutar, mas também vencer!"]
 	quest.3D63B8A64B561A71.title: "&6Treinador Pokemon Cedric"
 	quest.45135F112E05F9B5.quest_desc: ["A &4&oSérie&r ainda não acabou! Você precisará de uma revanche com a &3Elite dos Quatro&r e a &5Campeã Cynthia&r. \\n\\nVocê só pode encontrá-los em seus biomas, confira o &4Cartão de Treinador&r! \\n\\nDerrotar &3Aaron&r aumentará seu Nível para 71. \\n&3Bertha&r para 73. \\n\\n&3Flint&r para 75. \\n\\n&3Lucian&r para 78. \\n\\nE a &5Campeã Cynthia&r para 79."]
@@ -57,4 +58,6 @@
 	quest.716F9AA2E9011F06.title: "&7Chefe da Equipe Galáctica Cyrus"
 	quest.7F124EAE153EFE7F.quest_desc: ["Agora temos a última Batalha da &4&oSérie&r. Apenas uma última Batalha com a &5Campeã Cynthia&r. \\n\\nEla não aumentará seu Limite de Nível, em vez disso, finalizará a &4&oSérie&r. Então, você poderá começar uma nova! Como a do &6&oATM&r."]
 	quest.7F124EAE153EFE7F.title: "&4&oSérie&r Finalizada"
+	task.5D2F31B6D492426B.title: "TodosOsDireitosReservados"
+	task.72B575AD169F9D75.title: "TodosOsDireitosReservados"
 }

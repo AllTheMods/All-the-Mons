@@ -32,6 +32,7 @@
 	quest.311E949E3299C95C.title: "&bPedra do Gelo"
 	quest.3602CA4E5D3687DF.quest_desc: ["&aPedras Brilhantes&r aparecem em Biomas de Flores e alguns Biomas de Pico."]
 	quest.3602CA4E5D3687DF.title: "Encontrando &aPedras Brilhantes"
+	quest.36B8B3C61E0CFAD1.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, você está no modo de edição."]
 	quest.37E3E12CFC8DCA4F.quest_desc: ["A &2Pedra da Folha&r irá &bEvoluir&r &2Glo&5om&r para &2Vile&5plum&r, &2Weepin&5bell&r para &2Victree&5bell&r, &2Exegg&dcute&r para &2Exegg&dutor&r, e &2Nuz&9leaf&r para &2Shif&9try&r."]
 	quest.37E3E12CFC8DCA4F.title: "&2Pedra da Folha"
 	quest.39E4FD684972B543.quest_desc: ["Há algumas coisas que você precisa completar para &bEvoluir&r um &cPokémon&r... então é bem difícil &bEvoluir&r um acidentalmente... \\n\\nMas eu acho que se você quiser &bRegredir&r seu &cPokémon&r, apenas dê a ele este Item! \\n\\nNão, não funciona em &cPokémon&r de primeira &bEvolução&r para encontrar &bEvoluções&r negativas."]
@@ -64,9 +65,10 @@
 	quest.7A4A07325C00A238.title: "Itens de &bEvolução&r do &9Slow&dpoke"
 	task.09E7D93E692CB782.title: "Suba para o nível 15"
 	task.2FF61E9EBBEDE7EF.title: "Itens de &3Troca&r"
+	task.385FFCF622B7C550.title: "TodosOsDireitosReservados"
 	task.47E6E6B51447C8DC.title: "Itens de &bEvolução&r do Slowpoke"
 	task.48230014D8628136.title: "Itens de &bEvolução&r de Milcrey"
 	task.6097F6DEBA79FDF0.title: "Itens de &bEvolução&r do Charcadet"
 	task.6D8B0FFD3F4C0BCB.title: "Evolua um Pokémon"
-
+	task.7FC2F6F453502ACF.title: "TodosOsDireitosReservados"
 }

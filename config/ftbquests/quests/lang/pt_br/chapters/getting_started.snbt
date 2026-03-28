@@ -1,6 +1,7 @@
 {
 	quest.012A8C905608C86E.quest_desc: ["&cCentros Pokémon&r agora são Estruturas próprias, fora das Vilas. \\n\\nBem, se você não estava jogando antes do Lançamento Público, você não saberia disso... \\n\\nEles são grandes construções feitas principalmente de Concreto Branco. Assim que você vir a &cPoké&rbola de Vidro no topo, você os reconhecerá! \\n\\n&cCentros Pokémon&r aparecem por todo o seu Mundo. Neles haverá Aldeões e muitas Máquinas, como..."]
 	quest.012A8C905608C86E.title: "&cCentro Pokémon"
+	quest.0287136D3E986317.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, você está no modo de edição."]
 	quest.0328E5E416D0F785.quest_desc: ["&nForte&r \\n\\n&aInseto&r \\n&2Grama&r \\n&bGelo&r \\n&7Aço&r \\n\\n&nVulnerável&r \\n\\n&6Pedra&r \\n&6Terra&r \\n&bÁgua&r"]
 	quest.0328E5E416D0F785.title: "&cFogo"
 	quest.0338E3A881A6DD98.quest_desc: ["&6Remédio&r é feito Fundindo uma Raiz Grande. \\n\\nÉ um Item que pode ser dado a um &cPokemon&r dentro ou fora da Batalha para restaurar Vida (não em troca de &dAmizade&r). \\n\\nVocê pode Criar com ele para fazer &6Remédios&r ainda melhores!"]
@@ -100,6 +101,8 @@
 	quest.7D0F4EF83BA40D66.quest_desc: ["&nForte&r \\n\\n&9Dragão&r \\n&9Voador&r \\n&2Grama&r \\n&6Terra&r \\n\\n&nVulnerável&r \\n\\n&4Lutador&r \\n&cFogo&r \\n&6Pedra&r \\n&7Aço&r"]
 	quest.7D0F4EF83BA40D66.title: "&bGelo"
 	task.06D7446522B1CF78.title: "Bolotas"
+	task.07BE9AE873DB60D3.title: "TodosOsDireitosReservados"
+	task.1341FBFC95647A1E.title: "TodosOsDireitosReservados"
 	task.4E9620F93F7144CB.title: "Pokedex"
 	task.55EC49744EF03C63.title: "Pokebolas"
 }

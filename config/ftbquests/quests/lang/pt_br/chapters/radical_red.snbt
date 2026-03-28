@@ -4,7 +4,6 @@
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
-	quest.06AC44758A00C280.quest_subtitle: ""
 	quest.06AC44758A00C280.title: "&aLíder Brock"
 	quest.0AE4F79296B6A4E4.quest_desc: [
 		"Aumento de nível para 85."
@@ -48,6 +47,7 @@
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 	]
 	quest.245203DBA9D45934.title: "&aLíder Lt. Surge"
+	quest.2CB4138503F71E7A.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não tem permissão para ser usada em quaisquer pacotes públicos não lançados pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
 	quest.3150CD77C1E90229.quest_desc: [
 		"Aumento de nível para 56."
 		""
@@ -83,11 +83,11 @@
 	]
 	quest.5184669F1F038E9A.title: "&6Rival Terry"
 	quest.51C8B7AAA05EA266.quest_desc: [
-		"Alguns líderes &lAPENAS&r geram nos &9Ginásios&r que geram em vilas, então anote quais &bLíderes de Ginásio&r você encontrou!"
+		"Alguns &alíderes &r&lAPENAS&r geram nos &9Ginásios&r que geram em vilas, então anote quais &aLíderes de Ginásio&r você encontrou!"
 		"&6Você precisará deles mais tarde!!!&r"
 	]
 	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lAVISO&r"
-	quest.51C8B7AAA05EA266.title: ""
+	quest.51C8B7AAA05EA266.title: "&9Ginásios&r de Kanto"
 	quest.54B5E76DD69EA4CD.quest_desc: [
 		"Aumento de nível para 68."
 		""
@@ -100,6 +100,8 @@
 		"Encontrado no 4º andar da &cLiga Kanto&r."
 	]
 	quest.5C335DBA0A7C23B5.title: "&3Elite dos Quatro Lance"
+	quest.5D635B2021C98D41.quest_desc: ["Se você quiser lutar contra a &3Elite dos Quatro&r e o &5Campeão&r, você precisará ir até o Ginásio da Liga Kanto! \\n\\nEsta é uma torre gigante encontrada no &d&lEnd&r. Ela é feita de Púrpura, Pedra do End e tem uma Pokébola Laranja gigante na frente. \\n\\nO primeiro andar tem alguns Comerciantes do Pokemart, Enfermeiras e saques que você pode pegar. Os próximos andares têm cada um da &3Elite dos Quatro&r. O andar mais alto tem o &5Campeão&r!"]
+	quest.5D635B2021C98D41.title: "Ginásio da Liga Kanto"
 	quest.60C7BBFC8CA911FF.quest_desc: [
 		"Sem aumento de nível."
 		""
@@ -174,6 +176,6 @@
 		"Item de Assinatura é &dDisco Duvidoso&r."
 	]
 	quest.7DF8583CAB36812E.title: "&7Chefe Giovanni"
-	task.40BA828B52E56FB9.title: ""
-	task.54F546DE71C0F66D.title: "!!!LEIA ISSO!!!"
+	task.0A55BA7668023573.title: "TodosOsDireitosReservados"
+	task.1092D3B8F9A7B0E7.title: "TodosOsDireitosReservados"
 }
