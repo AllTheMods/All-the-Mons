@@ -5209,8 +5209,8 @@
 				item: { count: 1, id: "mysticalagriculture:darkstone_seeds" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: -10.375d
+			x: 20.5d
+			y: -8.375d
 		}
 		{
 			dependencies: [
@@ -5357,35 +5357,6 @@
 				"76071C22A73A2026"
 				"0B37355262121DD5"
 			]
-			id: "4D8B82FBA0FFD49E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1371FC83E289C559"
-					table_id: 7270734658375550536L
-					type: "random"
-				}
-				{
-					id: "7CDA08722ADAAAA5"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "089E72314F69E0A1"
-				item: { count: 1, id: "mysticalagriculture:steeleaf_seeds" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 20.5d
-			y: -8.375d
-		}
-		{
-			dependencies: [
-				"76071C22A73A2026"
-				"0B37355262121DD5"
-			]
 			id: "787E714014EC2C02"
 			rewards: [
 				{
@@ -5436,34 +5407,6 @@
 			}]
 			x: 20.0d
 			y: -8.875d
-		}
-		{
-			dependencies: [
-				"76071C22A73A2026"
-				"0B37355262121DD5"
-			]
-			id: "69F63F3B48E4344E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2CD02086D9629E2C"
-					table_id: 7270734658375550536L
-					type: "random"
-				}
-				{
-					id: "79FF713428E0C115"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "7934E1747A9CE4C9"
-				item: { count: 1, id: "mysticalagriculture:ironwood_seeds" }
-				type: "item"
-			}]
-			x: 19.5d
-			y: -8.375d
 		}
 		{
 			dependencies: [
@@ -5826,8 +5769,8 @@
 				item: { count: 1, id: "mysticalagriculture:black_quartz_seeds" }
 				type: "item"
 			}]
-			x: 20.5d
-			y: -10.375d
+			x: 19.5d
+			y: -8.375d
 		}
 	]
 }
