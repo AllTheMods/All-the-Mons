@@ -1998,41 +1998,7 @@
 			dependencies: ["17419401147B5C02"]
 			hide_dependency_lines: true
 			icon: {
-				components: {
-					"relics:data": {
-						abilities: {
-							abilities: {
-								heart: {
-									extender: {
-										cooldown: 0
-										cooldownCap: 0
-										ticking: 0b
-									}
-									lock: {
-										breaks: 5
-									}
-									points: 0
-									research: {
-										links: { }
-										researched: 0b
-									}
-									stats: {
-										amount: {
-											initialValue: 3.62555d
-										}
-									}
-								}
-							}
-						}
-						leveling: {
-							experience: 0
-							level: 0
-							luck: 0
-							points: 0
-						}
-					}
-				}
-				id: "artifacts:crystal_heart"
+				id: "bhc:red_heart"
 			}
 			id: "2E51F09F6D9E5EF8"
 			rewards: [{
