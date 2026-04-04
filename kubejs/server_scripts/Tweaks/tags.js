@@ -167,7 +167,7 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add("justdirethings:polymorphic_target_deny", ['@cobblemon', '@rctmod', '@cobbleloots'])
     allthemods.add("c:capturing_not_supported", '@cobblemon')
     allthemods.add("occultism:trinity_gem_deny_list", "#c:capturing_not_supported")
-    allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
+    //allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
 
 	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
 
@@ -213,6 +213,15 @@ ServerEvents.tags('worldgen/biome', allthemods => {
   allthemods.remove('pneumaticcraft:has_surface_oil_lakes', ["#minecraft:is_overworld"]);
   allthemods.add('pneumaticcraft:has_surface_oil_lakes', ["#c:is_beach"]);
 });
+
+ServerEvents.generateData('last', allthemons => {
+    allthemons.json("industrialforegoing:tags/entity_type/mob_imprisonment_tool_blacklist.json", {
+		"values": ["#c:capturing_not_supported"],
+		"remove": [
+			"cobblemon:pokemon"
+		]
+	})
+})
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
