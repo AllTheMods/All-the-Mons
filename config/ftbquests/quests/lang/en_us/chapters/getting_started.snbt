@@ -71,8 +71,8 @@
 	quest.447F3DCAB7F60641.title: "&6Pasture Block"
 	quest.4975A8FD77155647.quest_desc: ["&nStrong&r \\n\\n&aBug&r \\n&cFire&r \\n&9Flying&r \\n&bIce&r \\n\\n&nVunerable&r \\n\\n&4Fighting&r \\n&2Grass&r \\n&6Ground&r \\n&7Steel&r \\n&bWater&r"]
 	quest.4975A8FD77155647.title: "&6Rock"
-	quest.4E943465A0F727A9.quest_desc: ["Once you pick a Starter you'll be granted the &7Pokepedia&r! \\n\\nThis is the Guide book for all things &c&lCobble&fmon&r. \\n\\nI guess if you wanted to just follow the book instead of the Quests you could... \\n\\nI'd prefer if you follow both!"]
-	quest.4E943465A0F727A9.title: "&7Pokepedia"
+	quest.4E943465A0F727A9.quest_desc: ["Once you choose your Starter, you'll receive the &2Pokepedia&r! \n\nThis book is your complete guide to everything in &c&lCobble&fmon&r. \n\nYou could follow just the book instead of the Quests... But... \n\nWe prefer that you follow both!"]
+	quest.4E943465A0F727A9.title: "&2Pokepedia"
 	quest.503B409765D30E60.quest_desc: ["&nStrong&r \\n\\n&9Dragon&r \\n\\n&nVunerable&r \\n\\n&9Dragon&r \\n&dFairy&r \\n&bIce&r"]
 	quest.503B409765D30E60.title: "&9Dragon"
 	quest.5405C436B4489E0C.quest_desc: ["&3Medicinal Brew&r! \\n\\nThese can be Crafted or Brewed into Consumables. \\n\\nOnes that Boost Stats, ones that take away Effects, even ones that give Effects! \\n\\nCan you Brew them all?"]

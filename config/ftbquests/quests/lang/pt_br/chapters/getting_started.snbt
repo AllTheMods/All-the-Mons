@@ -69,8 +69,8 @@
 	quest.447F3DCAB7F60641.title: "&6Bloco de Pastagem"
 	quest.4975A8FD77155647.quest_desc: ["&nForte&r \\n\\n&aInseto&r \\n&cFogo&r \\n&9Voador&r \\n&bGelo&r \\n\\n&nVulnerável&r \\n\\n&4Lutador&r \\n&2Grama&r \\n&6Terra&r \\n&7Aço&r \\n&bÁgua&r"]
 	quest.4975A8FD77155647.title: "&6Pedra"
-	quest.4E943465A0F727A9.quest_desc: ["Assim que você escolher um Inicial, você receberá a &7Pokepedia&r! \\n\\nEste é o livro Guia para todas as coisas de &c&lCobble&fmon&r. \\n\\nEu acho que se você quisesse apenas seguir o livro em vez das Missões, você poderia... \\n\\nEu preferiria que você seguisse ambos!"]
-	quest.4E943465A0F727A9.title: "&7Pokepedia"
+	quest.4E943465A0F727A9.quest_desc: ["Assim que você escolher um Inicial, você receberá a &2Pokepedia&r! \\n\\nEste livro é o seu guia completo para tudo em &c&lCobble&fmon&r. \\n\\nVocê até pode seguir apenas o livro em vez das Missões... Mas... \\n\\nPreferimos que você siga ambos!"]
+	quest.4E943465A0F727A9.title: "&2Pokepedia"
 	quest.503B409765D30E60.quest_desc: ["&nForte&r \\n\\n&9Dragão&r \\n\\n&nVulnerável&r \\n\\n&9Dragão&r \\n&dFada&r \\n&bGelo&r"]
 	quest.503B409765D30E60.title: "&9Dragão"
 	quest.5405C436B4489E0C.quest_desc: ["&3Infusão Medicinal&r! \\n\\nElas podem ser Criadas ou Fervidas em Consumíveis. \\n\\nAlguns que Aumentam Atributos, alguns que removem Efeitos, até mesmo alguns que dão Efeitos! \\n\\nVocê consegue Ferver todos eles?"]
