@@ -107,6 +107,8 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add('c:gems/rose_quartz', 'create:rose_quartz')
 
     allthemods.add("apothic_enchanting:cannot_be_converted_to_xp", ["trophymanager:trophy"])
+
+    allthemods.remove("reliquified_artifacts:anglers_hat_valuables",["#c:raw_materials"])
 })
 
 ServerEvents.tags('entity_type', allthemods => {
