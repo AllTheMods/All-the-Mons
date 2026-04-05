@@ -7,9 +7,9 @@
       "element": {
         "element_type": "lithostitched:guaranteed",
         "delegate": {
-          "element_type": "minecraft:single_pool_element",
-          "projection": "terrain_matching",
-          "location": "allthemons:village/plains/streets/gym_corner_02",
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
+          "location": "allthemons:village/desert/streets/gym_straight_01",
           "processors": {
             "processors": []
           }

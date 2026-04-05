@@ -7,8 +7,8 @@
       "element": {
         "element_type": "lithostitched:guaranteed",
         "delegate": {
-          "element_type": "minecraft:single_pool_element",
-          "projection": "terrain_matching",
+          "element_type": "minecraft:legacy_single_pool_element",
+          "projection": "rigid",
           "location": "allthemons:village/taiga/streets/gym_corner_02",
           "processors": "minecraft:street_snowy_or_taiga"
         },
