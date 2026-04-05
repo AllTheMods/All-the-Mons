@@ -86,10 +86,7 @@
 		{ id: "55BAF1878B6DA324", item: { count: 1, id: "mysticalagriculture:azure_silver_seeds" } }
 		{ id: "6BC61CD7E23C094D", item: { count: 1, id: "mysticalagriculture:crimson_iron_seeds" } }
 		{ id: "25A2437EE679B267", item: { count: 1, id: "mysticalagriculture:redstone_alloy_seeds" } }
-		{ id: "31E80459C7053AB4", item: { count: 1, id: "mysticalagriculture:steeleaf_seeds" } }
-		{ id: "2E18B3D90551AE42", item: { count: 1, id: "mysticalagriculture:copper_alloy_seeds" } }
 		{ id: "5CE46A464C05F4F9", item: { count: 1, id: "mysticalagriculture:conductive_alloy_seeds" } }
-		{ id: "005D7D46B0012AE0", item: { count: 1, id: "mysticalagriculture:ironwood_seeds" } }
 		{ id: "1CFA4D7AE76960CE", item: { count: 1, id: "mysticalagriculture:black_quartz_seeds" } }
 	]
 	use_title: true
