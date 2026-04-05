@@ -22,6 +22,8 @@ Summary of changes here!
 - Added configs for disabling TM Machine and Campfire Pots inv handlers (LobsterJonn)
 - Improved TM Machine inv handler (LobsterJonn)
 - removed raw materials from angler hat loot (Uncandango)
+- fix darkmode font duplication (Uncandango)
+- radical red gyms now always spawn in villages (Uncandango)
 </blockquote>
 
 </details>
