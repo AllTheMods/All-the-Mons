@@ -409,7 +409,7 @@
 	quest.67940C0774E73217.title: "&eItem Router"
 	quest.679E80EBB9A2AE7E.quest_desc: ["&bFluid Routers&r classificam e filtram &bFluidos&r que passam por eles. \\n\\nVocê precisará definir as configurações em sua interface para definir os Filtros e qual Lado. Depois de fazer isso, ele pegará todos os &bFluidos&r que entrarem e os enviará para onde estão configurados para ir!"]
 	quest.679E80EBB9A2AE7E.title: "&bFluid Router"
-	quest.67FB03BE6685AFE1.quest_desc: ["Para começar uma guerra, precisamos primeiro declará-la! \\n\\nBrincadeira, nós vamos direto para os tiros! Sem essa de diplomacia por aqui! \\n\\nPara começar, atire em um Pillager com um &d&lRevólver&r. \\n\\nIsso iniciará o surgimento de novos e mais difíceis Pillagers!"]
+	quest.67FB03BE6685AFE1.quest_desc: ["Para começar uma guerra, precisamos primeiro declará-la! \\n\\nBrincadeira, nós vamos direto para os tiros! Nada de baboseira diplomática por aqui! \\n\\nPara começar, mate em um Pillager com um &d&lArma&r. \\n\\nIsso iniciará o surgimento de novos e mais difíceis Pillagers!"]
 	quest.67FB03BE6685AFE1.title: "Ataque e Defesa"
 	quest.6B2BD6F939136F50.quest_desc: ["A Plataforma Giratória é bem simples. A face superior com o quadrado &7Cinza&r será a parte móvel. \\n\\nAs outras faces são as &4Portas de Redstone&r, onde você dará um &4Sinal de Redstone&r para ativá-la. \\n\\nQuando ativada, ela girará qualquer Bloco que esteja anexado ao Topo. \\n\\nVocê pode precisar usar seu &6Martelo de Engenheiro&r nela para mudar como ela gira!"]
 	quest.6BD348735C27BB44.quest_desc: [
