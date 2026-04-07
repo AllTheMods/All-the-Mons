@@ -409,7 +409,7 @@
 	quest.67940C0774E73217.title: "&eItem Router"
 	quest.679E80EBB9A2AE7E.quest_desc: ["&bFluid Routers&r sort and filter &bFluids&r passing through. \\n\\nYou'll need to set configs within its UI to set the Filters and which Side. Once you do that, it will take all &bFluids&r coming in and send them to where they are set to go!"]
 	quest.679E80EBB9A2AE7E.title: "&bFluid Router"
-	quest.67FB03BE6685AFE1.quest_desc: ["To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, shoot a Pillager with a &d&lRevolver&r. \\n\\nThis will start the spawning of new and harder Pillagers!"]
+	quest.67FB03BE6685AFE1.quest_desc: ["To start a war we need to first declare it! \\n\\nJust kidding, we just go straight to shooting! No diplomatic crap around here! \\n\\nTo start, Kill a Pillager with a Gun. \\n\\nThis will start the spawning of new and harder Pillagers!"]
 	quest.67FB03BE6685AFE1.title: "Offense and Defense"
 	quest.6B2BD6F939136F50.quest_desc: ["Turntable is pretty simple. The Top face with the &7Grey&r square will be the moving part. \\n\\nThe other faces are the &4Redstone Ports&r, where you will give a &4Redstone Signal&r to activate it. \\n\\nWhen activated it will rotate whatever Block is attached to the Top. \\n\\nYou might need to use your &6Engineer's Hammer&r on it to change how it rotates!"]
 	quest.6BD348735C27BB44.quest_desc: [
