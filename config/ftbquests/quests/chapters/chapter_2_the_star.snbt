@@ -483,6 +483,7 @@
 				"77F2271C45DB49BA"
 				"616F9B78B16B42A5"
 				"5608C74936CA9E81"
+				"601C719C8FD513F0"
 			]
 			id: "6CAD67D21E1EA861"
 			rewards: [
@@ -2224,6 +2225,7 @@
 		{
 			dependencies: ["4485C4ABD57874EB"]
 			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "601C719C8FD513F0"
 			rewards: [
 				{
