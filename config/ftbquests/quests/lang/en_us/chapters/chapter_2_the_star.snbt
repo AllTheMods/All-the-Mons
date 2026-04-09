@@ -60,6 +60,7 @@
 	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
 	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
 	quest.268EA2DEC8840D13.quest_desc: ["When working on &4Computers&r, especially Quantum ones, the Hammers and Pliers on the Crafting Table won't be able to craft us what we need, we'll need a &bCrystal Assembler&r. \\n\\nFor this one we'll need a whole bunch of &9Singularities&r!"]
+	quest.268EA2DEC8840D13.quest_subtitle: ""
 	quest.268EA2DEC8840D13.title: "&4Quantum Computer Multi-Threader"
 	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r is all about using Glyphs in Spellbooks to be able to cast them as Spells!"]
 	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
@@ -100,7 +101,7 @@
 	quest.3AAB71E9BDFD4C1E.quest_desc: ["No pressure! Well actually you'll need a lot of Pressure with using &4&lPneumaticCraft&r. \\n\\nThat's kinda what it's all about..."]
 	quest.3AAB71E9BDFD4C1E.title: "&4&lPneumaticCraft"
 	quest.3BE5CD0C7CC4BCC6.quest_desc: [
-		"Soul Lava is a part of &6&lAllthemodium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\\n\\nWe'll need to take a Bucket of &9Soul Lava&r and pour it over a Ghostly Bee egg to make a &9Soul Lava Bee egg&r.\\n\\nThen, you'll need to squish them or poke them for it's DNA to make a Spawn Egg!\\n"
+		"Soul Lava is a part of &6&lAllthemodium&r. It can be found in &b&lThe Other&r very rarely underground, or common in Piglich Villages!\\n\\nWe'll need to take a Bucket of &9Soul Lava&r and pour it over a Ghostly Bee egg to make a &9Soul Lava Bee egg&r.\\n\\n"
 		"{image:atm:textures/questpics/soul_lava_process.png width:100 height:100 align:center}"
 	]
 	quest.3BE5CD0C7CC4BCC6.title: "&9Soul Lava Bee&r Spawn Egg"
@@ -157,6 +158,8 @@
 	quest.5EC1B868720BF521.quest_desc: ["&8&lImmersive Engineering&r is all about Multiblock Machines, fun Tools, and of course engineering. \\n\\nDon't worry you won't need 4 years of college for this! But a Manual might help you get started."]
 	quest.5EC1B868720BF521.title: "&8&lImmersive Engineering"
 	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherite Ingots&r, 3 Wireless Boosters, and a bunch of &2fancy &eGears&r we can get an Infinity Range Booster! \\n\\nThe most confusing parts are the Gears. We can't make the Ingots directly we need to mix Dusts together then Smelt the result to get the Ingots.\\n\\nThis doesn't work across Dimensions sorry!"]
+	quest.601C719C8FD513F0.quest_subtitle: ""
+	quest.601C719C8FD513F0.title: ""
 	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\\n\\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\\n\\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\\n\\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\\n\\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\\n\\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
 	quest.616F9B78B16B42A5.title: "&6Tesla Coil"
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
@@ -187,6 +190,7 @@
 	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
 	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
+	quest.75EE965CBA598FEA.quest_subtitle: ""
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
 	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \\n\\nSome can even be combined with each other to be more powerful. \\n\\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
