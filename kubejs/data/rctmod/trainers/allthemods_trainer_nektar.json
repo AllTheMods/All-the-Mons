@@ -18,60 +18,16 @@
   ],
   "team": [
     {
-      "species": "growlithe",
+      "species": "arcanine",
       "gender": "MALE",
       "level": 85,
       "nature": "naughty",
       "ability": "intimidate",
       "moveset": [
-        "crunch",
-        "incinerate",
-        "irontail",
-        "flamethrower"
-      ],
-      "ivs": {
-        "hp": 25,
-        "atk": 25,
-        "def": 25,
-        "spa": 25,
-        "spd": 25,
-        "spe": 25
-      },
-      "evs": {}
-    },
-    {
-      "species": "kakuna",
-      "gender": "FEMALE",
-      "level": 86,
-      "nature": "bold",
-      "ability": "shedskin",
-      "moveset": [
-        "harden",
-        "irondefense",
-        "bugbite",
-        "terablast"
-      ],
-      "ivs": {
-        "hp": 25,
-        "atk": 25,
-        "def": 25,
-        "spa": 25,
-        "spd": 25,
-        "spe": 25
-      },
-      "evs": {}
-    },
-    {
-      "species": "combee",
-      "gender": "MALE",
-      "level": 85,
-      "nature": "timid",
-      "ability": "hustle",
-      "moveset": [
-        "bugbite",
-        "bugbuzz",
-        "strugglebug",
-        "terablast"
+        "flareblitz",
+        "curse",
+        "extremespeed",
+        "morningsun"
       ],
       "ivs": {
         "hp": 31,
@@ -82,7 +38,34 @@
         "spe": 31
       },
       "evs": {
-        "hp": 6,
+        "hp": 252,
+        "atk": 252
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    },
+    {
+      "species": "delcatty",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "bold",
+      "ability": "cutecharm",
+      "moveset": [
+        "blizzard",
+        "bodyslam",
+        "thunder",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
         "spa": 252,
         "spe": 252
       },
@@ -91,16 +74,48 @@
       ]
     },
     {
-      "species": "persian",
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "closecombat",
+        "bulletpunch",
+        "facade",
+        "knockoff"
+      ],
+      "gimmicks": {
+        "dynamax": true,
+        "gmax": true
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "flame_orb"
+      ]
+    },
+    {
+      "species": "perrserker",
       "gender": "FEMALE",
       "level": 86,
       "nature": "adamant",
-      "ability": "technician",
+      "ability": "toughclaws",
       "moveset": [
-        "feintattack",
-        "furyswipes",
-        "shadowclaw",
-        "hyperbeam"
+        "ironhead",
+        "closecombat",
+        "knockoff",
+        "uturn"
       ],
       "ivs": {
         "hp": 31,
@@ -114,20 +129,20 @@
         "atk": 252
       },
       "heldItem": [
-        "sitrus_berry"
+        "assault_vest"
       ]
     },
-        {
+    {
       "species": "typhlosion",
       "gender": "MALE",
       "level": 86,
-      "nature": "jolly",
+      "nature": "timid",
       "ability": "blaze",
       "moveset": [
-        "quickattack",
-        "lavaplume",
-        "rocksmash",
-        "rollout"
+        "eruption",
+        "fireblast",
+        "focusblast",
+        "scorchingsands"
       ],
       "ivs": {
         "hp": 31,
@@ -138,25 +153,24 @@
         "spe": 31
       },
       "evs": {
-        "atk": 252,
-        "spd": 4,
+        "spa": 252,
         "spe": 252
       },
       "heldItem": [
-        "safety_goggles"
+        "choice_scarf"
       ]
     },
     {
       "species": "venusaur",
       "gender": "FEMALE",
-      "level": 90,
-      "nature": "jolly",
+      "level": 88,
+      "nature": "bold",
       "ability": "overgrow",
       "moveset": [
         "gigadrain",
-        "earthquake",
-        "bodyslam",
-        "solarbeam"
+        "sludgebomb",
+        "knockoff",
+        "synthesis"
       ],
       "ivs": {
         "hp": 31,
@@ -167,12 +181,12 @@
         "spe": 31
       },
       "evs": {
-        "atk": 252,
-        "spd": 4,
-        "spe": 252
+        "hp": 252,
+        "spa": 252
       },
       "heldItem": [
-        "luminous_moss"
+        "mega_showdown:venusaurite",
+        "rocky_helmet"
       ]
     }
   ]
