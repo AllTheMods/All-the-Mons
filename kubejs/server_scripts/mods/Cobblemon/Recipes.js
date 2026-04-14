@@ -11,6 +11,10 @@ ServerEvents.recipes(allthemods => {
     // }).id('cobblemon:master_ball')
     allthemods.remove("createmonballsoverhaul:sequenced_assembly/balls/master_ball")
     allthemods.remove("createmonballsoverhaul:sequenced_assembly/balls/ancient_origin_ball")
+    allthemods.shapeless('cobblemon:syrupy_apple', [
+        'cobblemon:sweet_apple',
+        '#c:maple_syrup'
+    ])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
