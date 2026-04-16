@@ -3610,29 +3610,6 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "justdirethings:xp_fluid_bucket"
-			}
-			id: "3D63868AC4393EBC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6A275305D5F779CE"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "768328EACCBF6754"
-				item: { components: { "productivebees:bee_type": "productivebees:experience" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 21.0d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
 				id: "create_enchantment_industry:super_experience_nugget"
 			}
 			id: "6DF215923418F56F"
