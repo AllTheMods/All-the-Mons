@@ -202,18 +202,10 @@
 		}
 		{
 			height: 2.0d
-			image: "atm:textures/questpics/gettingstarted/twilight_portal.png"
-			rotation: 0.0d
-			width: 2.679611650485437d
-			x: -2.5d
-			y: -18.0d
-		}
-		{
-			height: 2.0d
 			image: "stevescarts:item/creative_hull_icon"
 			rotation: 0.0d
 			width: 2.0d
-			x: -4.0d
+			x: -2.5d
 			y: -14.0d
 		}
 		{
@@ -239,14 +231,6 @@
 			width: 2.0d
 			x: 10.0d
 			y: -6.0d
-		}
-		{
-			height: 3.0d
-			image: "atm:textures/questpics/gettingstarted/started_evil.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: 14.5d
-			y: 0.5d
 		}
 	]
 	order_index: 2
@@ -499,6 +483,7 @@
 				"77F2271C45DB49BA"
 				"616F9B78B16B42A5"
 				"5608C74936CA9E81"
+				"601C719C8FD513F0"
 			]
 			id: "6CAD67D21E1EA861"
 			rewards: [
@@ -2131,6 +2116,7 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
+			hide_dependent_lines: true
 			icon: {
 				id: "megacells:portable_item_cell_256m"
 			}
@@ -2238,6 +2224,8 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "601C719C8FD513F0"
 			rewards: [
 				{
@@ -2266,6 +2254,7 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "268EA2DEC8840D13"
 			rewards: [
@@ -2323,6 +2312,7 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
+			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "75EE965CBA598FEA"
 			rewards: [
@@ -3442,6 +3432,7 @@
 		{
 			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
+			hide_dependent_lines: true
 			id: "5608C74936CA9E81"
 			optional: true
 			rewards: [{
@@ -3517,6 +3508,7 @@
 			dependencies: ["30CC20E33EFA2EDA"]
 			dependency_requirement: "one_completed"
 			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "4E8C32CD6057A1AB"
 			rewards: [{
 				id: "0EBE593E002AB633"
