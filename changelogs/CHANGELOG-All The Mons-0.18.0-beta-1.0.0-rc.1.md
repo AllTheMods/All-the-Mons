@@ -10,70 +10,43 @@ Summary of changes here!
 <summary>Github Commits :octocat:</summary>
 <blockquote>
 
-- Occultism Iesnium example
-- Evolution Typo
-- Immersive Engineering Quest fix
-- For the offense and defense one
-- Deeplings no longer drop Hearts
-- of the sea
-- Updated PT_BR localization
-- Updated PT_BR localization
-- Updated PT_BR localization
-- Updated PT_BR localization
-- fix: Update Cataclysm Configs (#500)
-- Attempted to recreate configs 1:1 with the original wherever possible (based on ATM10's configs, unsure if it is any different here), except with the DPS Cap, where I took the following liberties: DPS Cap calculated based on the following formula: Original DPS Cap*New Damage Cap/Original Damage Cap
-- Also removes old cataclysm config file to clear up redundancy.
-- chore: changelogs
-- Quest Fix
-- - Removed image from the EvilCraft mod.
-- - Removed image from the Twilight mod.
-- - Some lines from the quest ‘The ATM Star’ were hidden to keep the chapter cleaner.
-- - Change the description for the 'Soul Lava Bee Spawn Egg' in the chapter 'The ATM Star'.
-- - Updated PT_BR Localization.
-- Delete image from the EvilCraft mod
-- Delete image from the Twilight mod
-- Quest Fix
-- emoved the quest “Generalized Twilight Prediction” from the 'HNN' chapter.
-- Quest Fix
-- The Nexium Emitter quest was not dependent on the Infinity Range Booster quest in the chapter 'The ATM Star'
-- fix: remove duplicate quest
-- fix: some modifications on choc factory and include entities on bee gym
-- closes #507
-- Increased pc box count from 40 to 100
-- updated nektar trainer team
-- add log suppressor for supplementaries file spam
-- added recipe for syrupy apple
-- Undergarden Quest Update
-- Fix duplicate Productive Bees quest
-- trainer updates
-- Cataclysm Quest Update
-- For Mons too
-- Updating more Quests
-- Updated PT_BR localization
-- Updated PT_BR localization
-- fix: remove squid spawn
-- fix: reorder jei recipe (ritual goes first)
-- feat: pika star quest pics
-- fix: remove silent gear book when joining fresh world
-- fix: spawn greavard and houndstone
-- chore: bump bcc
-- feat: add regional pika stars to jei
-- fix: restrict relocation of cobblemon display case
-- feat: add pika star advancements
-- feat: add pika star quests
-- feat: add upside down atm star, patrick and shards recipe
-- feat: regional pika star animations
-- feat: add hint to use regional pika star when count is 0
-- feat: add regional pika star recipe, altar recipe, imbued egg recipe
-- feat: add catch restrictions if you don't have regional pika star
-- Updated PT_BR localization - KubeJS and Quest (#523)
-- * Updated PT_BR localization - KubeJS
-- * Updated PT_BR localization - Quest
-- fix: typo in jsons
-- fix: typo
-- fix: remove bypass restriction if using master ball
-- fix: add extra check if player completed ATM Series
-- chore: modlist</blockquote>
+- Update Cataclysm Configs (DivineFinal)
+- ATM Star Quest Fix (PrincessStellar)
+- Some modifications on choc factory and include entities on bee gym (Uncandango)
+- Increased pc box count from 40 to 100 (LobsterJonn)
+- updated nektar trainer team (LobsterJonn)
+- add log suppressor for supplementaries file spam (LobsterJonn)
+- added recipe for syrupy apple (LobsterJonn)
+- Undergarden Quest Update (ToshibaEC0Microwave)
+- Fix duplicate Productive Bees quest (Zapodask)
+- trainer updates (LobsterJonn)
+- Cataclysm Quest Update (ToshibaEC0Microwave)
+- Remove squid spawn (Uncandango)
+- reorder jei recipe (ritual goes first) (Uncandango)
+- Pika star quest pics (Uncandango)
+- Remove silent gear book when joining fresh world (Uncandango)
+- Spawn greavard and houndstone (Uncandango)
+- Add regional pika stars to jei (Uncandango)
+- Restrict relocation of cobblemon display case (Uncandango)
+- Add pika star advancements (Uncandango)
+- Add pika star quests (Uncandango)
+- Add upside down atm star, patrick and shards recipe (Uncandango)
+- Regional pika star animations (Uncandango)
+- Add hint to use regional pika star when count is 0 (Uncandango)
+- Add regional pika star recipe, altar recipe, imbued egg recipe (Uncandango)
+- Add catch restrictions if you don't have regional pika star (Uncandango)
+- Updated PT_BR localization - KubeJS and Quest (PrincessStellar)
+- Remove bypass restriction if using master ball (Uncandango)
+- Add extra check if player completed ATM Series (Uncandango)
+- Owned pokemon are now invulnerable to most environmental damage (LobsterJonn)
+- Flying pokemon no longer take fall damage (LobsterJonn)
+- Fixed cobblemon brushing not working (LobsterJonn)
+- Added hatch time to jade tooltip for egg blocks and incubators (LobsterJonn)
+- Added dex entries for our custom mons (LobsterJonn)
+- Fixed atm badge box inception (LobsterJonn)
+- Customized Patrickyu stats (LobsterJonn)
+
+</blockquote>
 
 </details>
 
