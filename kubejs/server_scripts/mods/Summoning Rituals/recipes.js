@@ -357,6 +357,13 @@ SummoningRituals.start(event => {
 
   if (event.recipeInfo.getRecipeId() == "allthemons:regional_pika_star") {
     //event.player.tell("Recipe started!")
+    
+    let defeatCount = $RCTMod.getInstance().getTrainerManager().getData(event.player).getCompletedSeries().get("atm_team")
+    if (defeatCount <= 0) {
+      event.player.tell(Text.red("You didn't defeat ATM Series yet..."))
+      event.cancel()
+    }
+
     let regionToTest = null
     let validMons = 0
     event.recipeInfo.inputEntities.forEach(ent => {
