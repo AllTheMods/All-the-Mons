@@ -3,7 +3,7 @@ let $CobblemonEvents = Java.loadClass("com.cobblemon.mod.common.api.events.Cobbl
 
 StartupEvents.postInit(allthemods => {
   $CobblemonEvents.THROWN_POKEBALL_HIT["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.thrownBallHit(event))
-  // $CobblemonEvents.BATTLE_STARTED_PRE["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleStartedPre(event))
+  $CobblemonEvents.BATTLE_STARTED_PRE["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleStartedPre(event))
 })
 
 global.thrownBallHit = (hitEvent) => {
@@ -70,25 +70,89 @@ global.battleStartedPre = (startedPreEvent) => {
   let battle = startedPreEvent.battle
   let isPvW = battle.isPvW()
   //console.log("IsPvW: " + isPvW)
+  
+  let playerSide = battle.side1
+  let playerActors = playerSide.actors
+  //console.log("Player Actors is: " + playerActors)
+  /** @type {import("net.minecraft.server.level.ServerPlayer").$ServerPlayer} */
+  let player
+  for (let playerActor of playerActors) {
+    if (playerActor.type == "player" && player == null) {
+      player = playerActor.entity
+    }
+    for (let pokemon of playerActor.pokemonList) {
+      let originalPokemon = pokemon.originalPokemon
+      let restrictedByPika = isRestrictedByPikaStar(originalPokemon)
+      if (restrictedByPika) {
+        let region = getPokemonRegion(originalPokemon)
+        if (region == null || player == null) continue
+        if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
+          startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.own_pika_knowledge", region.name(), originalPokemon.getDisplayName(false))
+          startedPreEvent.cancel()
+          return
+        }
+      }
+    }
+  }
+  //console.log(player)
+  if (player == null) return
+
   if (isPvW) {
     let wildSide = battle.side2
-    //console.log("Wild Side is: " + wildSide)
+    //console.log("player Side is: " + playerSide)
     let actors = wildSide.actors
-    //console.log("Actors is: " + actors)
     for (let actor of actors) {
       for (let pokemon of actor.pokemonList) {
         let originalPokemon = pokemon.originalPokemon
-        //console.log("Pokemon is: " + originalPokemon)
-        let isGen1or2or3 = originalPokemon.hasLabels("gen1") || originalPokemon.hasLabels("gen2") || originalPokemon.hasLabels("gen3")
-        //console.log("IsGen1or2: " + isGen1or2or3)
-        if (isGen1or2or3) continue
-        let restrictedByPika = (originalPokemon.hasLabels("mythical") || originalPokemon.hasLabels("ultra_beast") || originalPokemon.hasLabels("paradox") || originalPokemon.hasLabels("legendary"))
+        let restrictedByPika = isRestrictedByPikaStar(originalPokemon)
         if (restrictedByPika) {
-          if (!false) { // replace this `false` with a check if Pika Star was acquired
-            startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge")
+          let region = getPokemonRegion(originalPokemon)
+          if (region == null) continue
+          if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
+            startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name())
             startedPreEvent.cancel()
           }
         }
+      }
+    }
+  }
+}
+
+function isRestrictedByPikaStar(pokemon){
+  return (pokemon.hasLabels("mythical") || pokemon.hasLabels("ultra_beast") || pokemon.hasLabels("paradox") || pokemon.hasLabels("legendary"))
+}
+
+let $Dexes = Java.loadClass("com.cobblemon.mod.common.api.pokedex.Dexes")
+let $Region = Java.loadClass("net.allthemods.allthemons.util.Region")
+
+function getPokemonRegion(pokemon, fromRegion) {
+  fromRegion = fromRegion != null ? "cobblemon:" + fromRegion.name().toLowerCase() : null
+  let id = pokemon.species.resourceIdentifier
+  let map = Utils.newMap()
+  $Dexes.INSTANCE.dexEntryMap.forEach((dexId, dexEntry) => {
+    if (dexEntry.typeId == "cobblemon:simple_pokedex_def") {
+      if (fromRegion != null && fromRegion != dexId) return
+      let list = dexEntry.entries.stream().filter(entry => entry.speciesId == id).toList()
+      if (!list.isEmpty()) {
+        map.computeIfAbsent(dexId, (key) => Utils.newList()).addAll(list)
+      }        
+    }
+  })
+  let formName = pokemon.form.name
+  let result = null
+  map.forEach((key,value) => {
+    value.forEach(entry => {
+      entry.getForms().forEach(form => {
+        if (form.displayForm.equalsIgnoreCase(formName)) {
+          result = key
+        }
+      })
+    })
+  })
+  if (result != null) {
+    for (let region of $Region.values()) {
+      if (region.name().equalsIgnoreCase(result.getPath())){
+        return region
       }
     }
   }
