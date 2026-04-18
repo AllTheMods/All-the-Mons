@@ -14,9 +14,7 @@ global.thrownBallHit = (hitEvent) => {
   //console.log("Target Level is: " + targetLevel)
   let battle = hitEvent.pokemon.delegate.battle
   //console.log("Battle is: " + battle)
-  let guaranteed = hitEvent.pokeBall.pokeBall.catchRateModifier.isGuaranteed()
-  //console.log("Is guaranteed catch: " + guaranteed)
-  if (battle == null && !guaranteed) {
+  if (battle == null) {
     let owner = hitEvent.pokeBall.owner
     //console.log("Owner is: " + owner)
     let randomValue = Utils.random.nextFloat()
@@ -27,12 +25,16 @@ global.thrownBallHit = (hitEvent) => {
     } else {
       errorSound = "modularrouters:error"
     }
-    let allowedOutOfBattle = !(targetPokemon.hasLabels("mythical") || targetPokemon.hasLabels("ultra_beast") || targetPokemon.hasLabels("paradox") || targetPokemon.hasLabels("legendary"))
+    let restrictedByPika = isRestrictedByPikaStar(targetPokemon)
     //console.log("Allowed Out of battle? " + allowedOutOfBattle)
-    if (!allowedOutOfBattle) {
+    if (restrictedByPika) {
       owner.setStatusMessage(Text.translate("kubejs.atm.catch_restrictions.special_pokemons").red())
       owner.playNotifySound(errorSound, "players", 1, 1)
       hitEvent.cancel()
+      return
+    }
+    let guaranteed = hitEvent.pokeBall.pokeBall.catchRateModifier.isGuaranteed()
+    if (guaranteed) {
       return
     }
     let party = $Cobblemon.INSTANCE.storage.getParty(owner)
