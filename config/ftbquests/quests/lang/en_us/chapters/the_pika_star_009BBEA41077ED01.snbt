@@ -1,0 +1,54 @@
+{
+	quest.1B09DCB8AC3A420A.quest_desc: ["Obtain a &ePatrickyu Egg&r."]
+	quest.279FADB5CBA260D7.quest_desc: [
+		"To craft a &dregional Pika Star&r you need to:"
+		""
+		"- &eCheck altar recipe&r to preview the &bblock pattern &rneeded."
+		"- &aSend out 6 Pokémons &rfrom same &6Region &rclose to &5altar&r."
+		"  - &7Example for &6Kanto&r:"
+		"  - &bAbra&r, &bRattata&r, &bCharmander&r, &bPikachu&r, &bGrimer&r, &bStaryu&r "
+		"- &eFill Display Cases&r with any &dMega Stones&r."
+		"- &aOffer the 4 ancient Pokéballs&r"
+		"- &cOffer the Unbound Pika Star &rto start &dritual&r."
+		""
+		"&oClick next page to see example&r"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/allthemons/regional_pika_star_ritual.png width:504 height:284 align:center}"
+	]
+	quest.2DBB88E1C147F496.quest_desc: [
+		"You need &e55 &bCreate Mechanical Crafters&r shaped as a &dstar&r (upside down compared to &6Patrick&r and &6ATM Stars&r) to craft your first &dPika Star&r."
+		""
+		"Place &5Altar&r on the ground, check recipe of &dPika Star&r, click the center item - &6Imbued Egg&r. On the left bottom corner of the recipe click the block to see the &bpattern&r your crafters should be."
+		"&6Click it to preview.&r"
+		""
+		"After you place everything, insert all items needed &cbut the egg&r, make sure your crafters are running."
+		""
+		"Add the offerings for &6Imbued Egg&r recipe and &aoffer to altar&r those items and lastly use &ePatrickyu Egg&r on altar."
+		""
+		"&oClick next page to see example"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/allthemons/pika_star_ritual.png width:200 height:200 align:center}"
+	]
+	quest.2DBB88E1C147F496.title: "Unbound Pika Star"
+	quest.3B7A4929A1FCFFC6.quest_desc: [
+		"How to read &5Altar &rJEI recipes:"
+		""
+		"&eCenter&r: &5Altar &ritself"
+		""
+		"&eAround Altar&r: &aOfferings &rneeded for &dRitual &rto start, can be &bitems &rthat are inserted by using on altar or &centities &rthat must be near altar."
+		""
+		"&eInitiator (above altar)&r: &6Key item &rfor &dRitual &rto start, needs to be used on altar when everything else is ready."
+		""
+		"&eTop Left Nether Star Icon&r: Those are the &dconditions &rfor the &dRitual &rto start."
+		""
+		"&eBottom Left Structure Block&r: When a recipe needs a &bblock pattern &rto be matched, click there to preview it in world."
+		""
+		"{image:atm:textures/questpics/allthemons/ritual_recipe.png width:181 height:160 align:center}"
+	]
+	quest.64CC314ECC49B92A.quest_desc: ["Obtain all &cregional &ePika Stars."]
+	quest.6B4196A8DC3235D5.quest_desc: ["Complete &aall progress&r on each &cregional &ePika Star."]
+	task.0C959B11B37F53C6.title: "How To Use Altar"
+	task.37F598DD9EEE414F.title: "Create Sand Papers"
+	task.53851DD297E86E63.title: "Regional Pika Star"
+	task.7ED7D21BBF1C5F3F.title: "Mega Showdown Mega Stones"
+}
