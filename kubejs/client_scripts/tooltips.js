@@ -5,165 +5,165 @@ ItemEvents.modifyTooltips(allthemods => {
 
     //AllTheModium
     allthemods.add('allthemodium:teleport_pad',[
-        Text.of('Place the pad down in the specified Dimension'),
-        Text.of('Sneak Right Click with both hands empty to teleport'),
-        Text.of('§aOverworld TO Mining Dimension'),
-        Text.of('§cThe Nether TO The Other'),
-        Text.of('§bThe End TO The Beyond')
+        Text.translate('kubejs.atm.tooltip.teleport_pad.1'),
+        Text.translate('kubejs.atm.tooltip.teleport_pad.2'),
+        Text.translate('kubejs.atm.tooltip.teleport_pad.3'),
+        Text.translate('kubejs.atm.tooltip.teleport_pad.4'),
+        Text.translate('kubejs.atm.tooltip.teleport_pad.5')
     ])
 
     allthemods.add(['allthemodium:allthemodium_ore', 'allthemodium:allthemodium_slate_ore'],[
-        Text.of('§7Needs at least Netherite to be mined'),
-        Text.of('§6Found in the Deep Dark Biome and will always spawn air exposed'),
-        Text.of('§6Also found in the Deep Slate Layer of Mining Dimension')
+        Text.translate('kubejs.atm.tooltip.allthemodium_ore.1'),
+        Text.translate('kubejs.atm.tooltip.allthemodium_ore.2'),
+        Text.translate('kubejs.atm.tooltip.allthemodium_ore.3')
     ])
     allthemods.add(['allthemodium:vibranium_ore', 'allthemodium:other_vibranium_ore'],[
-        Text.of('§7Needs at least AllTheModium to be mined'),
-        Text.of('§bFound in any Nether biome'),
-        Text.of('§bAlso found in The Other')
+        Text.translate('kubejs.atm.tooltip.vibranium_ore.1'),
+        Text.translate('kubejs.atm.tooltip.vibranium_ore.2'),
+        Text.translate('kubejs.atm.tooltip.vibranium_ore.3')
     ])
     allthemods.add('allthemodium:unobtainium_ore',[
-        Text.of('§7Needs at least Vibranium to be mined'),
-        Text.of('§dFound in the End Highlands')
+        Text.translate('kubejs.atm.tooltip.unobtainium_ore.1'),
+        Text.translate('kubejs.atm.tooltip.unobtainium_ore.2')
     ])
 
     allthemods.add('kubejs:silent_allthemodium_plate',[
-        Text.of("§7§oIt's less... talkative now")
+        Text.translate('kubejs.atm.tooltip.silent_plate.1')
     ])
     allthemods.add('kubejs:silent_vibranium_plate',[
-        Text.of("§7§oIt's less... talkative now")
+        Text.translate('kubejs.atm.tooltip.silent_plate.1')
     ])
     allthemods.add('kubejs:silent_unobtainium_plate',[
-        Text.of("§7§oIt's less... talkative now")
+        Text.translate('kubejs.atm.tooltip.silent_plate.1')
     ])
 
     allthemods.add('allthemodium:allthemodium_ingot',[
-        Text.of("§7§oThese arent the ingots you are looking for"),
-        Text.of("§6Look for the [Silent Allthemodium Plate]")
+        Text.translate('kubejs.atm.tooltip.silent_ingot.1'),
+        Text.translate('kubejs.atm.tooltip.silent_ingot.allthemodium')
     ])
     allthemods.add('allthemodium:vibranium_ingot',[
-        Text.of("§7§oThese arent the ingots you are looking for"),
-        Text.of("§6Look for the [Silent Vibranium Plate]")
+        Text.translate('kubejs.atm.tooltip.silent_ingot.1'),
+        Text.translate('kubejs.atm.tooltip.silent_ingot.vibranium')
     ])
     allthemods.add('allthemodium:unobtainium_ingot',[
-        Text.of("§7§oThese arent the ingots you are looking for"),
-        Text.of("§6Look for the [Silent Unobtainium Plate]")
+        Text.translate('kubejs.atm.tooltip.silent_ingot.1'),
+        Text.translate('kubejs.atm.tooltip.silent_ingot.unobtainium')
     ])
 
 
     allthemods.add('allthemodium:allthemodium_upgrade_smithing_template',[
-        Text.of('§6Found in Suspicious Clay in Ancient Cities')
+        Text.translate('kubejs.atm.tooltip.smithing_template.allthemodium')
     ])
     allthemods.add('allthemodium:vibranium_upgrade_smithing_template',[
-        Text.of('§bFound in Suspicious Soul Sand in Bastions')
+        Text.translate('kubejs.atm.tooltip.smithing_template.vibranium')
     ])
     allthemods.add('allthemodium:unobtainium_upgrade_smithing_template',[
-        Text.of('§dDropped by the Trial Spawner in the Library of the Dungeon within The Other')
+        Text.translate('kubejs.atm.tooltip.smithing_template.unobtainium')
     ])
 
     //Forbidden Arcanus
     allthemods.add('forbidden_arcanus:hephaestus_forge_tier_1',[
-        Text.of("§c§lShift-Right-Click§r§c the §c§lSmithing Table§r§c with §lMundabitur Dust"),
-        Text.of("§c█ = Gilded Chiseled Polished Darkstone with Smithing Table on top"),
-        Text.of("§7█ = Polished Darkstone"),
-        Text.of("§5█§7 = Gilded Chiseled Polished Darkstone"),
-        Text.of("§6█§7 = Chiseled Arcane Polished Darkstone"),
-        Text.of("§0███§7███§0███"),
-        Text.of("§0█§7███§5█§7███§0█"),
-        Text.of("§0█§7█§5█§7███§5█§7█§0█"),
-        Text.of("§7████§6█§7████"),
-        Text.of("§7█§5█§7█§6█§c█§6█§7█§5█§7█"),
-        Text.of("§7████§6█§7████"),
-        Text.of("§0█§7█§5█§7███§5█§7█§0█"),
-        Text.of("§0█§7███§5█§7███§0█"),
-        Text.of("§0███§7███§0███")
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.1'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.2'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.3'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.4'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.5'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.6'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.7'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.8'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.9'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.10'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.11'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.12'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.13'),
+        Text.translate('kubejs.atm.tooltip.hephaestus_forge_tier_1.14')
 
     ])
     allthemods.add('forbidden_arcanus:clibano_core',[
-        Text.of("§c§lShift-Right-Click§r§c the §c§lClibano Core§r§c with §c§lMundabitur Dust"),
-        Text.of("§5█§7 = Polished Darkstone"),
-        Text.of("§7█ = Polished Darkstone Bricks"),
-        Text.of("§6█§7 = Clibano Core"),
-        Text.of("§7Right to Left -> Bottom to Top"),
-        Text.of("§5█§7█§5█§0█§7███§0█§5█§7█§5█"),
-        Text.of("§7███§0█§7█§0█§7█§0█§7███"),
-        Text.of("§5█§7█§5█§0█§7█§6█§7█§0█§5█§7█§5█"),
+        Text.translate('kubejs.atm.tooltip.clibano_core.1'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.2'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.3'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.4'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.5'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.6'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.7'),
+        Text.translate('kubejs.atm.tooltip.clibano_core.8'),
     ])
     allthemods.add('forbidden_arcanus:growing_edelwood',[
-        Text.of("§4Obtainable from the Wandering Trader"),
-        Text.of("§4Or by using a Corrupt Soul on an Oak Sapling"),
+        Text.translate('kubejs.atm.tooltip.growing_edelwood.1'),
+        Text.translate('kubejs.atm.tooltip.growing_edelwood.2'),
     ])
     allthemods.add('forbidden_arcanus:magnetized_darkstone_pedestal',[
-        Text.of("§7Use Ferrognetic Mixture on the Darkstone Pedesta"),
+        Text.translate('kubejs.atm.tooltip.magnetized_darkstone_pedestal.1'),
     ])
     allthemods.add('forbidden_arcanus:soul',[
-        Text.of("§7Use a Soul Extractor on Soul Sand"),
-        Text.of("§7Rarely spawns in world"),
+        Text.translate('kubejs.atm.tooltip.soul.1'),
+        Text.translate('kubejs.atm.tooltip.soul.2'),
     ])
     allthemods.add('forbidden_arcanus:enchanted_soul',[
-        Text.of("§7Use a Splash Aureal Bottle on a normal soul")
+        Text.translate('kubejs.atm.tooltip.enchanted_soul.1')
     ])
     allthemods.add('forbidden_arcanus:corrupt_soul',[
-        Text.of("§7Rarely spawns when killing mobs")
+        Text.translate('kubejs.atm.tooltip.corrupt_soul.1')
     ])
     allthemods.add('forbidden_arcanus:blood_test_tube',[
-        Text.of("§7Hold a test tube in your off-hand and then kill mobs")
+        Text.translate('kubejs.atm.tooltip.blood_test_tube.1')
     ])
     allthemods.add('forbidden_arcanus:xpetrified_orb',[
-        Text.of("§7Only obtainable via the Black Hole"),
-        Text.of("§7To make a Black Hole throw Dark Matter together with Corrupti Dust on the ground"),
-        Text.of("§7Feed it enough xp to make it spit out an Xpetrified Orb")
+        Text.translate('kubejs.atm.tooltip.xpetrified_orb.1'),
+        Text.translate('kubejs.atm.tooltip.xpetrified_orb.2'),
+        Text.translate('kubejs.atm.tooltip.xpetrified_orb.3')
     ])
     allthemods.add('forbidden_arcanus:dragon_scale',[
-        Text.of("§7Dropped by the Ender Dragon")
+        Text.translate('kubejs.atm.tooltip.dragon_scale.1')
     ])
     allthemods.add('forbidden_arcanus:stella_arcanum',[
-        Text.of("§7Very rarely spawns between Y -44 and Y 42"),
-        Text.of("§cWill explode when you mine it!")
+        Text.translate('kubejs.atm.tooltip.stella_arcanum.1'),
+        Text.translate('kubejs.atm.tooltip.stella_arcanum.2')
     ])
     allthemods.add(/forbidden_arcanus:runic_[sd]/,[
-        Text.of("§7Spawns at the bottom of the world up to Y 2"),
+        Text.translate('kubejs.atm.tooltip.runic.1'),
     ])
     allthemods.add(['forbidden_arcanus:arcane_crystal_ore', 'forbidden_arcanus:deepslate_arcane_crystal_ore'],[
-        Text.of("§7Very rarely spawns between Y -40 and Y 14"),
-        Text.of("§7Most common at Y -13")
+        Text.translate('kubejs.atm.tooltip.arcane_crystal_ore.1'),
+        Text.translate('kubejs.atm.tooltip.arcane_crystal_ore.2')
     ])
     allthemods.add('forbidden_arcanus:artisan_relic',[
-        Text.of("§aFound in the Armorer, Toolsmith, or Weaponsmith villager buildings"),
+        Text.translate('kubejs.atm.tooltip.artisan_relic.1'),
     ])
     allthemods.add('forbidden_arcanus:crescent_moon',[
-        Text.of("§cUnobtainable"),
+        Text.translate('kubejs.atm.tooltip.crescent_moon.1'),
     ])
     allthemods.add('forbidden_arcanus:crimson_stone',[
-        Text.of("§aFound in Pillager Outposts"),
+        Text.translate('kubejs.atm.tooltip.crimson_stone.1'),
     ])
     allthemods.add('forbidden_arcanus:soul_crimson_stone',[
-        Text.of("§cWill turn into a Crimson Stone after 1 use"),
+        Text.translate('kubejs.atm.tooltip.soul_crimson_stone.1'),
     ])
     allthemods.add('forbidden_arcanus:elementarium',[
-        Text.of("§aFound in Jungle Temples, Desert Pyramids, and Underwater Ruins"),
+        Text.translate('kubejs.atm.tooltip.elementarium.1'),
     ])
     allthemods.add('forbidden_arcanus:divine_pact',[
-        Text.of("§aFound in the Village and Pyramid in The Other"),
+        Text.translate('kubejs.atm.tooltip.divine_pact.1'),
     ])
     allthemods.add('forbidden_arcanus:maledictus_pact',[
-        Text.of("§aFound in Treasure Bastions"),
+        Text.translate('kubejs.atm.tooltip.maledictus_pact.1'),
     ])
 
     //Mystical Agriculture
     allthemods.add(/mysticalagriculture:.*watering_can/,[
-        Text.of("§cDisabled for Fake Player"),
-        Text.of("§c(Blocks like Modular Routers, Clickers, etc)")
+        Text.translate('kubejs.atm.tooltip.watering_can.1'),
+        Text.translate('kubejs.atm.tooltip.watering_can.2')
     ])
 
 	//Easy Villagers
     allthemods.add(['easy_villagers:trader', 'easy_villagers:auto_trader'], [
-        Text.of("§aRight click with job site block to put it inside and allow trade restocking")
+        Text.translate('kubejs.atm.tooltip.easy_villagers.trader.1')
     ])
 
 	//Eternal Starlight
     allthemods.add('eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]', [
-        Text.of('This loot bag is from the \"Lunar Monstrosity\".')
+        Text.translate('kubejs.atm.tooltip.eternal_starlight.loot_bag_lunar_monstrosity.1')
     ])
 })
 
@@ -176,10 +176,11 @@ NativeEvents.onEvent($ItemTooltipEvent, event => {
         if (count!= null && count == 0) {
             let region = event.itemStack.get("allthemons:region")
             if (region != null && region.serializedName.equals("unbound")) return
-            event.toolTip.add(Text.aqua("Use to update progress").italic())
+            event.toolTip.add(Text.translate("kubejs.atm.tooltip.update_progress").aqua().italic())
         }
     }
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
+

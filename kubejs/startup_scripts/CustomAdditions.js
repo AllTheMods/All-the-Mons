@@ -119,7 +119,7 @@ global.iceAndFirePearls = (/** @type {$ServerLevel_}} */ level, /** @type {$Play
         // console.log(`IceAndFire Pearl event took: ${currentStopwatch.elapsed("milliseconds")} ms`)
         return true
     } else {
-        player.statusMessage = "Dragon or Dragon Roost not found nearby..."
+        player.statusMessage = Text.translate('kubejs.atm.pearl.no_target_found')
         // console.log(`IceAndFire Pearl event took: ${currentStopwatch.elapsed("milliseconds")} ms`)
         return false
     }

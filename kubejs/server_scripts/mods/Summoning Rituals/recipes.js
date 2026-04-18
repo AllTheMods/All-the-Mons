@@ -270,7 +270,7 @@ SummoningRituals.start(event => {
       
       let defeatCount = $RCTMod.getInstance().getTrainerManager().getData(event.player).getCompletedSeries().get("atm_team")
       if (defeatCount <= 0) {
-        event.player.tell(Text.red("You didn't defeat ATM Series yet..."))
+        event.player.tell(Text.translate("kubejs.atm.sr.atm_series_not_defeated").red())
         event.cancel()
       }
       
@@ -306,7 +306,7 @@ SummoningRituals.start(event => {
 
       let eggSlot = event.queryBlockPattern("imbued_egg_slot")
       if (eggSlot.length == 0) {
-        event.player.tell(Text.red("Something is wrong with recipe, report to ATM Devs"))
+        event.player.tell(Text.translate("kubejs.atm.sr.recipe_error").red())
         event.cancel()
       }
 
@@ -339,18 +339,18 @@ SummoningRituals.start(event => {
       let $CraftingInput = Java.loadClass("net.minecraft.world.item.crafting.CraftingInput")
 
       if (!enoughSpeed) {
-        event.player.tell(Text.red("Your Create crafters are not running..."))
+        event.player.tell(Text.translate("kubejs.atm.sr.crafters_not_running").red())
         event.cancel()
       }
 
       let matches = pattern.matches($CraftingInput.of(pattern.maxWidth, pattern.maxHeight, inputStacks.reversed()))
 
       if (!matches) {
-        event.player.tell(Text.red("Your Create recipe is not ready yet..."))
+        event.player.tell(Text.translate("kubejs.atm.sr.recipe_not_ready").red())
         event.cancel()
       }
     } else {
-      event.player.tell(Text.red("Something very wrong occurred while checking Create recipe, report to ATM developers."))
+      event.player.tell(Text.translate("kubejs.atm.sr.create_recipe_check_error").red())
       event.cancel()
     }
   }
@@ -360,7 +360,7 @@ SummoningRituals.start(event => {
     
     let defeatCount = $RCTMod.getInstance().getTrainerManager().getData(event.player).getCompletedSeries().get("atm_team")
     if (defeatCount <= 0) {
-      event.player.tell(Text.red("You didn't defeat ATM Series yet..."))
+      event.player.tell(Text.translate("kubejs.atm.sr.atm_series_not_defeated").red())
       event.cancel()
     }
 
@@ -382,9 +382,9 @@ SummoningRituals.start(event => {
     })
     if (event.recipeInfo.inputEntities.size() != validMons) {
       if (regionToTest == null) {
-        event.player.tell(Text.red("None of those pokémons are owned by you"))
+        event.player.tell(Text.translate("kubejs.atm.sr.pokemons_not_owned").red())
       } else {
-        event.player.tell(Text.red("Not all your pokémons are from region " + regionToTest))
+        event.player.tell(Text.translate("kubejs.atm.sr.not_all_pokemons_from_region", regionToTest).red())
       }
       event.cancel()
     }
@@ -400,7 +400,7 @@ SummoningRituals.start(event => {
 
     let megaStoneInvs = event.queryBlockPattern("mega_stones_inv")
     if (megaStoneInvs.length != 4) {
-      event.player.tell(Text.red("Something is wrong with mega stone display cases, report to ATM Devs"))
+      event.player.tell(Text.translate("kubejs.atm.sr.mega_stone_display_cases_error").red())
       event.cancel()
     }
 
@@ -425,7 +425,7 @@ SummoningRituals.start(event => {
     }
 
     if (!enoughMegaStones) {
-      event.player.tell(Text.red("You don't have enough Mega Stones in the Display Cases"))
+      event.player.tell(Text.translate("kubejs.atm.sr.not_enough_mega_stones").red())
       event.cancel()
     }
     event.recipeInfo.inputEntities.clear()
