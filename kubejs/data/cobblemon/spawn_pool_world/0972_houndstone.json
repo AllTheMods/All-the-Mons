@@ -1,0 +1,45 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "houndstone-1",
+      "pokemon": "houndstone",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-53",
+      "weight": 1,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "terralith:haunted_forest",
+          "terralith:haunted_mire",
+          "regions_unexplored:haunted_forest"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "houndstone-1",
+      "pokemon": "houndstone",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-53",
+      "weight": 1,
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "minecraft:basalt_deltas"
+        ]
+    }
+  ]
+}
