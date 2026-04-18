@@ -73,7 +73,7 @@
 	"kubejs.atm.catch_restrictions.catch_without_leader": "You are not allowed to catch pokemon above level 15 without a party leader!",
 	"kubejs.atm.catch_restrictions.leader_too_weak": "Party leader %s (level %s) is too weak to allow catch outside battle!",
 	"kubejs.atm.catch_restrictions.pika_knowledge": "You don't have the Pika Star knowledge from Region %s to fight this pokemon!",
-	"kubejs.atm.catch_restrictions.own_pika_knowledge": "You don't have the Pika Star knowledge from Region %s to use %s in a batlle!",
+	"kubejs.atm.catch_restrictions.own_pika_knowledge": "You don't have the Pika Star knowledge from Region %s to use %s in a battle!",
 	"advancements.allthemons.own_patrick_staryu.title": "AllTheMons - Pika Star Journey",
 	"advancements.allthemons.own_patrick_staryu.description": "Obtain a Patrickyu Egg",
 	"advancements.allthemons.imbued_egg.title": "Imbue a Patrickyu Egg",
