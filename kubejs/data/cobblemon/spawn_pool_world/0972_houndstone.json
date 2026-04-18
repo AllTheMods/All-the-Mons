@@ -25,7 +25,7 @@
       }
     },
     {
-      "id": "houndstone-1",
+      "id": "houndstone-2",
       "pokemon": "houndstone",
       "presets": [
         "natural"
@@ -39,7 +39,8 @@
         "biomes": [
           "minecraft:soul_sand_valley",
           "minecraft:basalt_deltas"
-        ]
+		    ]
+	    }
     }
   ]
 }
