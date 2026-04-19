@@ -33,15 +33,31 @@
 			y: 0.0d
 		}
 		{
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: ["atm"]
+						species: "cobblemon:staryu"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
 			icon_scale: 2.0d
 			id: "1B09DCB8AC3A420A"
 			shape: "none"
-			tasks: [{
-				advancement: "allthemons:root"
-				criterion: ""
-				id: "6E37C502013E4ADE"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "allthemons:root"
+					criterion: ""
+					id: "6E37C502013E4ADE"
+					type: "advancement"
+				}
+				{
+					id: "67F9559E117D72A1"
+					item: { count: 1, id: "cobblemon:everstone" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: -11.0d
 		}

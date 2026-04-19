@@ -1,5 +1,7 @@
 {
-	quest.1B09DCB8AC3A420A.quest_desc: ["Obtain a &ePatrickyu Egg&r."]
+	quest.1B09DCB8AC3A420A.quest_desc: ["Obtain a &ePatrickyu Egg&r by breeding &3Ditto&r with &ePatrickyu&r holding an &7Everstone."]
+	quest.1B09DCB8AC3A420A.quest_subtitle: ""
+	quest.1B09DCB8AC3A420A.title: ""
 	quest.279FADB5CBA260D7.quest_desc: [
 		"To craft a &dregional Pika Star&r you need to:"
 		""
