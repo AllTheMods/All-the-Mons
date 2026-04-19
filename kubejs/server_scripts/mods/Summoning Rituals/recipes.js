@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
     .ticks(240)
     .blockPattern(pattern => {
         pattern
-          .name("Statues and display cases filled with Mega Stones")
+          .name(Text.translate('kubejs.atm.sr.mega_stones_statues'))
           // .block([0,0,-3],"cobblefurnies:statue_pikachu")
           // //.block([0,1,-3],"cobblefurnies:statue_pikachu", {"facing":"south","half":"upper"})
           // .block([0,0,3],"cobblefurnies:statue_charmander")
@@ -48,7 +48,7 @@ ServerEvents.recipes(event => {
         return pattern
     })
     .fakeEntityInputs(
-      SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:charizard","aspects":[]},custom_name='{"color":"gold","text":"6 Pokémons from same Region"}',lore=['{"color":"gray","text":"Send out all your 6 pokémons from a"}','{"color":"gray","text":"certain region to craft that regional Pika Star."}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)
+      SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:charizard","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.pika_star_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore1"}','{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore2"}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)
     )
     .displayOutputs([
       "allthemons:pika_star[allthemons:region='kantonian']",
@@ -76,7 +76,7 @@ ServerEvents.recipes(event => {
     .displayOutputs(['allthemons:imbued_pokemon_egg'])
     .blockPattern(pattern => {
         pattern
-          .name("Create crafters for Star Recipe")
+          .name(Text.translate('kubejs.atm.sr.crafters_for_star'))
           .block([2, 8, 3], "create:mechanical_crafter")
           .block([3, 8, 3], "create:mechanical_crafter")
           .block([4, 8, 3], "create:mechanical_crafter")
