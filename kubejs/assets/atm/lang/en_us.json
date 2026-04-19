@@ -352,5 +352,16 @@
 	"trainer_type.allthemons.team_allthemods_custom_gym.title": "Custom Gym",
 	"trainer_type.allthemons.team_allthemods_elite_gym.title": "Elite Gym",
 	"trainer_type.allthemons.team_allthemods_trainer.title": "Gym Trainer",
-	"trainer_type.allthemons.team_allthemods_wandering.title": "Wandering"
+	"trainer_type.allthemons.team_allthemods_wandering.title": "Wandering",
+
+	"crop.mysticalagriculture.allthemodium": "Allthemodium",
+	"crop.mysticalagriculture.azure_silver": "Azure Silver",
+	"crop.mysticalagriculture.black_quartz": "Black Quartz",
+	"crop.mysticalagriculture.crimson_iron": "Crimson Iron",
+	"crop.mysticalagriculture.darkstone": "Darkstone",
+	"crop.mysticalagriculture.entro": "Entro",
+	"crop.mysticalagriculture.sky_steel": "Sky Steel",
+	"crop.mysticalagriculture.unexplored_wood": "Unexplored Wood",
+	"crop.mysticalagriculture.unobtainium": "Unobtainium",
+	"crop.mysticalagriculture.vibranium": "Vibranium"
 }
