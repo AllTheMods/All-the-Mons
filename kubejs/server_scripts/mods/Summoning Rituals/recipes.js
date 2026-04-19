@@ -254,13 +254,13 @@ function getPokemonRegion(pokemon, fromRegion) {
 let $RCTMod = Java.loadClass("com.gitlab.srcmc.rctmod.api.RCTMod")
 
 SummoningRituals.start(event => {
-  // let altarBlockState = event.altar.level.getBlockState(event.altar.blockPos)
-  // let facing
-  // for (let prop of altarBlockState.getProperties()) {
-  //   if (prop.getName().equals("facing")) {
-  //     facing = altarBlockState.getValue(prop)
-  //   }
-  // }
+  let altarBlockState = event.altar.level.getBlockState(event.altar.blockPos)
+  let facing
+  for (let prop of altarBlockState.getProperties()) {
+    if (prop.getName().equals("facing")) {
+      facing = altarBlockState.getValue(prop)
+    }
+  }
   // let rotation = getRotation(facing)
 
   if (event.recipeInfo.getRecipeId() == "allthemons:imbued_pokemon_egg") {
@@ -314,13 +314,19 @@ SummoningRituals.start(event => {
 
       let inputStacks = Utils.newList()
       let enoughSpeed = true
-      BlockPos.betweenClosedStream(event.altar.blockPos.offset(toOffset), event.altar.blockPos.offset(fromOffset)).forEach(pos => {
+      
+      topLeftToBottomRight(toOffset, fromOffset, facing, offset => {
+        //console.log("Offset loop is: " + offset)
+        let pos = event.altar.blockPos.offset(offset)
+        //console.log("Pos being tested: " + pos.toShortString())
         let be = level.getBlockEntity(pos)
         if (be instanceof $MechanicalCrafterBlockEntity) {
           if (enoughSpeed) {
             enoughSpeed = Math.abs(be.getSpeed()) > 0
           }
           let capability = level.getCapability($ItemHandler.BLOCK, pos, null)
+          //console.log(capability)
+          //console.log(capability.getSlots())
           if (capability != null) {
             if (pos.equals(targetPos)) {
               let item = event.recipeInfo.recipe.outputs().displayOutputs().getFirst()
@@ -336,6 +342,12 @@ SummoningRituals.start(event => {
         }
       })
 
+
+
+      //BlockPos.betweenClosedStream(event.altar.blockPos.offset(toOffset), event.altar.blockPos.offset(fromOffset)).forEach(pos => {
+
+      //})
+
       let $CraftingInput = Java.loadClass("net.minecraft.world.item.crafting.CraftingInput")
 
       if (!enoughSpeed) {
@@ -343,8 +355,12 @@ SummoningRituals.start(event => {
         event.cancel()
       }
 
-      let matches = pattern.matches($CraftingInput.of(pattern.maxWidth, pattern.maxHeight, inputStacks.reversed()))
-
+      //console.log("Stacks: " + inputStacks)
+      //console.log("Stacks Reversed: " + inputStacks.reversed())
+      let matches = pattern.matches($CraftingInput.of(pattern.maxWidth, pattern.maxHeight, inputStacks))
+      // if (!matches) {
+      //   matches = pattern.matches($CraftingInput.of(pattern.maxWidth, pattern.maxHeight, inputStacks.reversed()))
+      // }
       if (!matches) {
         event.player.tell(Text.red("Your Create recipe is not ready yet..."))
         event.cancel()
@@ -457,4 +473,40 @@ function getRotation(altarFacing) {
     rotationStep = 3
   }
   return $Rotation.values()[rotationStep]
+}
+
+function topLeftToBottomRight(minOffset, maxOffset, facing, callback){
+  if (Direction.NORTH == facing) {
+    for (let z = minOffset[2]; z <= maxOffset[2]; z++) {
+      for (let y = maxOffset[1]; y >= minOffset[1]; y--) {
+        for (let x = maxOffset[0]; x >= minOffset[0]; x--) {
+          callback([x,y,z])
+        }
+      }
+    }
+  } else if (Direction.EAST == facing) {
+    for (let x = minOffset[0]; x <= maxOffset[0]; x++) {
+      for (let y = maxOffset[1]; y >= minOffset[1]; y--) {
+        for (let z = maxOffset[2]; z >= minOffset[2]; z--) {
+          callback([x,y,z])
+        }
+      }
+    }
+  } else if (Direction.SOUTH == facing) {
+    for (let z = minOffset[2]; z <= maxOffset[2]; z++) {
+      for (let y = maxOffset[1]; y >= minOffset[1]; y--) {
+        for (let x = minOffset[0]; x <= maxOffset[0]; x++) {
+          callback([x,y,z])
+        }
+      }
+    }
+  } else if (Direction.WEST == facing) {
+    for (let x = minOffset[0]; x <= maxOffset[0]; x++) {
+      for (let y = maxOffset[1]; y >= minOffset[1]; y--) {
+        for (let z = minOffset[2]; z <= maxOffset[2]; z++) {
+          callback([x,y,z])
+        }
+      }
+    }
+  }
 }
