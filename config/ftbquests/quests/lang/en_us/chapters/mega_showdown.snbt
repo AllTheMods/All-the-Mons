@@ -1,87 +1,60 @@
 {
 	quest.00E4E946891014D9.quest_desc: ["In order to &5Terastallize&r we need permission. Don't ask why, I don't know that answer. \\n\\nThe way we get permission is by wearing a &5Tera Orb&r. \\n\\nYou'll need to Craft it. Funny enough it is made with just &2&lVanilla&r Items. \\n\\nYou can just Right Click with it to Equip or use your Accessory Screen."]
-	quest.00E4E946891014D9.quest_subtitle: ""
 	quest.00E4E946891014D9.title: "&5Tera Orb"
 	quest.0CFF4E3560CFFB49.quest_desc: ["Each &cPokemon&r needs their specific &bMega Stone&r in order to become &bMega&r. \\n\\nThey're pretty easy to tell who is who, because they're usually named after the &cPokemon&r they're for just with \"ite\" after it. \\n\\nEach needs a &bMega Stone&r, 2 Iron Ingots, a &bDiamond&r, and a unique Item for that &cPokemon&r. \\n\\nAlso, Charizard and Mewtwo have two forms of &bMega&r with X and Y."]
 	quest.0CFF4E3560CFFB49.title: "Specific &bMega Stones"
 	quest.117ADB40CE01CE07.quest_desc: ["For some reason our &cPokemon&r need us to wear special &eRings&r to be able to use &eZ-Moves&r. \\n\\nNot sure why... but we'll need a Sparkling Stone to make it. Also a few other Items. \\n\\nThe type of &eRing&r doesn't matter, just changes the appearance. I like &dOlivia's Rings&r the best!"]
-	quest.117ADB40CE01CE07.quest_subtitle: ""
 	quest.117ADB40CE01CE07.title: "&eZ-Rings"
 	quest.1690E9F6BBF820D1.quest_desc: ["In order to &5Terastallize &cPokemon&r we'll need a lot of &5Tera Shards&r. \\n\\nLet's make it easier to hold a lot of those &5Tera Shards&r by using a Pouch! \\n\\nThe Tera Pouch can hold a Stack of each type of &5Tera Shard&r."]
-	quest.1690E9F6BBF820D1.quest_subtitle: ""
-	quest.1690E9F6BBF820D1.title: ""
 	quest.16E0E86A19015F2A.quest_desc: ["In order to activate the &bMega Stone&r we'll need a &bMega Bracelet&r. \\n\\nYeah, yeah, yeah I know not all of them are &bBracelets&r. \\n\\nBracelet, Ring, Tiara, whatever! As long as it fits in the &bMega Slot&r, wear it."]
-	quest.16E0E86A19015F2A.quest_subtitle: ""
 	quest.16E0E86A19015F2A.title: "&bMega Bracelets"
 	quest.1E01E377A2091AA6.quest_desc: ["&5Stellar Shards&r have a 1% Chance of Dropping when any &cPokemon&r is defeated. \\n\\nWhen you use 50 of them on a &cPokemon&r they will &5Terastallize&r into &5Stellar Type&r. This is the only way to get it. \\n\\n&5Stellar Type&r will get a Boost for all Attacks! But it will be weak to other &5Stellar Types&r. Thankfully they are pretty rare."]
-	quest.1E01E377A2091AA6.quest_subtitle: ""
 	quest.1E01E377A2091AA6.title: "&5Stellar Tera Shards"
 	quest.23DBBEFCE729AEA3.quest_desc: ["\"When you wish upon a Star\" \\n\\nYou'll be able to &cDynamax&r your &cPokemon&r! \\n\\n&cDynamaxing&r is used in Battle to use a &cMax&r version of your &cPokemon's&r Moves. \\n\\nThis will make them grow much bigger in size, get more Health, and make their Moves even more powerful!"]
 	quest.23DBBEFCE729AEA3.title: "Wishing Star"
 	quest.2C272D1D6DE6C0F1.quest_desc: ["While wearing a &5Tera Orb&r you can use 50 of the same &5Tera Shards&r on your &cPokemon&r to give them that Type. \\n\\nObviously the Type is related to the Type of &5Shards&r you use. \\n\\nThis will be in effect when the &cPokemon&r is in Battle."]
-	quest.2C272D1D6DE6C0F1.quest_subtitle: ""
 	quest.2C272D1D6DE6C0F1.title: "&5Terastallizing"
 	quest.2E6646301ACD332E.quest_desc: ["The &eObservatory&r is a tall Structure with a giant telescope coming out of it. \\n\\nThe first level has tons of Pots, a PC, and some Data Monitors. \\n\\nSecond Level has Healing Stations and Glass I keep trying to walk through like how birds attempt to. \\n\\nThe third level has Chests, Barrels, and a..."]
-	quest.2E6646301ACD332E.quest_subtitle: ""
 	quest.2E6646301ACD332E.title: "&eObservatory"
 	quest.33B301DB0637B6FC.quest_desc: ["Deep within the earth you might come across a &bMegaroid&r! \\n\\nNo, it has nothing to do with physical enhancements... well besides for &cPokemon&r. \\n\\nIt's called roid because of Asteriods not steriods that's what I'm trying to say! \\n\\nIn the center of the &bMega-asteriod&r, lays the Keystone Ore."]
-	quest.33B301DB0637B6FC.quest_subtitle: ""
 	quest.33B301DB0637B6FC.title: "&bMegaroid"
 	quest.3642AF6FE63B1C90.quest_desc: ["Let's go over our Checklist. \\n\\n&nPokemon Holding their Mega Stone&r? &aCheck&r! \\n\\n&nYou are wearing a Mega Bracelet&r? &aCheck&r! \\n\\nIf both are checked off, when in Battle under your Moves you'll see a Button that says &bMega Evolve&r. Click it to activate it. \\n\\nThen, select a Move and your &cPokemon&r will transform. \\n\\nMake sure you aren't using a &eZ-Move&r with &bMega Evolutions&r as well, you can only use 1 at a time."]
-	quest.3642AF6FE63B1C90.quest_subtitle: ""
 	quest.3642AF6FE63B1C90.title: "&bMega Evolution"
 	quest.380C4222BDD65415.quest_desc: ["To &cDynamax&r we need a Band. \\n\\nA &cDynamax Band&r. \\n\\nWear it so we can &cDynamax &four &cPokemon&r."]
-	quest.380C4222BDD65415.quest_subtitle: ""
 	quest.380C4222BDD65415.title: "&cDynamax Band"
 	quest.3D6167F673BB5256.quest_desc: ["By Mining the &bMega Crystal&r with a &bDiamond Pickaxe&r (or better) you'll get a &bMega Stone&r! \\n\\nThese don't do anything on their own, instead we'll need to use them to Craft a certain &bMega Stone&r for a specific &cPokemon&r. \\n\\nNot all &cPokemon&r can become &bMega&r, only a select few. Each will need their specific &bMega Stone&r, which means if you want multiple &bMega Pokemon&r you'll need multiple &bMega Sites&r."]
-	quest.3D6167F673BB5256.quest_subtitle: ""
 	quest.3D6167F673BB5256.title: "&bMega Stone"
 	quest.3FACB48732D14A79.quest_desc: ["Rarely underground you might find a &bMega Site&r. \\n\\nLooks kinda like a &bMegaroid&r if the atmosphere was much rougher on it. \\n\\nYou'll find Ores in it as well as the &bMega Crystal&r."]
-	quest.3FACB48732D14A79.quest_subtitle: ""
 	quest.3FACB48732D14A79.title: "&bMega Site"
 	quest.41CFA175B69E6639.quest_desc: ["&cWishing Weald&r, not Well. There's no Water here, just a Structure in the Forest. \\n\\nWithin the center of the Structure will be a fallen Star. \\n\\nMake a wish! Or Mine the Crystal with a &bDiamond Pickaxe&r. "]
-	quest.41CFA175B69E6639.quest_subtitle: ""
 	quest.41CFA175B69E6639.title: "&cWishing Weald"
 	quest.440B61C517B8BD09.quest_desc: ["With a Brush we can uncover Items from Suspiscious Sand in &eArcheological Sites&r. \\n\\nTwo rare Items we can get are Light and Dark Sparkling Stones. \\n\\nThere isn't a difference between them besides the &eRings&r they Craft. The &eRings&r just change appearance, not effect or ability."]
-	quest.440B61C517B8BD09.quest_subtitle: ""
-	quest.440B61C517B8BD09.title: ""
 	quest.490A35A715E8E20E.quest_desc: ["With a &cDynamax Band&r on your Character, a &cPower Spot&r nearby, and a &cPokemon&r ready to fight, we can &cDynamax&r! \\n\\nYour &cPokemon&r doesn't need to be a higher &cDynamax Level&r to use it, all it will do is make their Move even more powerful and give them more Health. \\n\\nIn Battle you can look below the Moves to see the &cDynamax&r Button. Click it to change our Moves into&c Max Moves&r!"]
-	quest.490A35A715E8E20E.quest_subtitle: ""
 	quest.490A35A715E8E20E.title: "&cDynamaxing"
 	quest.53A556F14187F399.quest_desc: ["The Blank Z-Move! \\n\\nYep, it is Blank! \\n\\nIf we want to make a specific &eZ-Move&r we'll need to Craft it with some Items to make that &eZ-Move&r."]
-	quest.53A556F14187F399.quest_subtitle: ""
-	quest.53A556F14187F399.title: ""
 	quest.53C0C8BCCB804368.quest_desc: ["Now we have our different &eZ-Moves&r. \\n\\nSome will just make one Move even Stronger, those are usually named after the Types like Normalium-Z. \\n\\nSome will change one &cPokemon's&r Move into a different one, like &ePikanium-Z&r. \\n\\nAnd a few are just strange like &6Ultranecrozium-Z&r."]
-	quest.53C0C8BCCB804368.quest_subtitle: ""
 	quest.53C0C8BCCB804368.title: "&eZ-Moves"
 	quest.53F54C6A1EAB9574.quest_desc: ["Hate taking up 4 Slots in order to use &eZ-Moves&f, &cDynamaxing&f, &bMega Evolutions&f, and &5Terastallizing&r? \\n\\nThen why not give the &bO&5m&en&ci&r Ring a go! \\n\\nJust wear this bad boy in any of those 4 Slots and you'll get the function of the &eZ-Ring&f, &cDynamax Band&f, &bMega Bracelet&f, and &5Tera Orb&r in one little package."]
-	quest.53F54C6A1EAB9574.quest_subtitle: ""
 	quest.53F54C6A1EAB9574.title: "&bO&5m&en&ci&r Ring"
 	quest.56F6B205855AF7F2.quest_desc: ["&cPokemon&r not big enough? Why not use &cGigantamax&r! \\n\\nOnly some &cPokemon&r can use it (there's a list online but Charizard and Eevee are on it). \\n\\nFeed them a &cMax Soup&r (or if its Urshifu a &cSweet Max Soup&r) and they will be able to use &cG-Max Moves&r."]
-	quest.56F6B205855AF7F2.quest_subtitle: ""
 	quest.56F6B205855AF7F2.title: "&cGigantamaxing"
 	quest.5C34376765740C16.quest_desc: ["The &cMax Mushroom&r grows in Lush Caves. \\n\\nIt will be needed for the &cPower Spot&r, plus it can make some Food Items for &cPokemon&r. \\n\\n&cDynamax Candy&r which will raise that &cPokemon's Dynamax Level&r, &cMax Honey&r which will activate a &cMax Move&r, or &cMax Soup&r to &cGigantamax&f a &cPokemon&r!"]
 	quest.5C34376765740C16.title: "&cMax Mushroom"
 	quest.6309224455079059.quest_desc: ["&5&lMega Showdown&r! Is a &c&lCobble&fmon&r Addon that gives us... one, two, three, four! Four different ways to spice up &cPokemon&r fights. \\n\\nWe have &bMega forms&f, &5Terastallization&f, and &cDynamaxing&r which change our &cPokemon&r while fighting. Plus &eZ-Moves&r which change up our &cPokemon's&r fighting Moves. \\n\\nAll of these require us to visit Structures, besides &5Terastallization&r. \\n\\nWe will also need certain Accessories Equipped to use them. Look at your Inventory, then where your Skin is shown in the top right will be \"Open Accessories Screen\". Here is where you'll put their Items to Equip them."]
-	quest.6309224455079059.quest_subtitle: ""
 	quest.6309224455079059.title: "&5&lMega Showdown!"
 	quest.658D2E531DDB116C.quest_desc: ["Got your nice Jewelry on? Give your &cPokemon&r a &eZ-Move&r and we'll be ready to use it! \\n\\nAlso make sure your &cPokemon&r knows the Move and that you aren't using any &bMega Evolutions&r. You can't use &bMega Evolutions&r with &eZ-Moves&r. \\n\\nOnce in Battle, below your Moves you'll get the option to use a &eZ-Move&r! \\n\\nThis will boost or change your Moves however."]
-	quest.658D2E531DDB116C.quest_subtitle: ""
 	quest.658D2E531DDB116C.title: "&eZ-Moves&r in action"
 	quest.69B766907C1226C0.quest_desc: ["&cDynamaxing&r needs a &cPower Spot&r at most 20 Blocks away from the Battle. \\n\\nI don't know if that's 20 Blocks away from you, your &cPokemon&r, or the thing your fightings... just be close to all them to be sure. \\n\\nYou'll need a Wishing Star and a &cMax Mushroom&r to create one."]
-	quest.69B766907C1226C0.quest_subtitle: ""
 	quest.69B766907C1226C0.title: "&cPower Spot"
 	quest.6F59C939D62FA6C8.quest_desc: ["&5Tera Shards&r are rare Drops from beating Wild &cPokemon&r. \\n\\nThe type of &cPokemon&r determines the Drop, so Normal &cPokemon&r will Drop Normal Tera Shards, &cFire Pokemon&r give &cFire Tera Shards&r. \\n\\nEvery &cPokemon&r has a 10% chance to Drop them. There is also a 1% chance from all &cPokemon&r to Drop a &5Stellar Tera Shard&r."]
-	quest.6F59C939D62FA6C8.quest_subtitle: ""
 	quest.6F59C939D62FA6C8.title: "&5Tera Shards"
 	quest.747580F66BCFB9B0.quest_desc: ["The Keystone is found in the center of the &bMegaroid&r. You'll need a &bDiamond Pickaxe&r or better to Mine it. \\n\\nEach will give just one Keystone. Thankfully we don't need any more than that! "]
 	quest.7895490EEBDCF601.quest_desc: ["The &eArcheological Site&r is a rocky cut out area filled with Suspiscious Blocks. \\n\\nThere is also Chests and Pots for Loot but the Suspiscious Blocks are cooler!"]
-	quest.7895490EEBDCF601.quest_subtitle: ""
 	quest.7895490EEBDCF601.title: "&eArcheological Site"
 	task.15B5242AD0DAF52A.title: "Tera Shards"
+	task.1CBDF43B0961C245.title: "Specific Mega Stones"
 	task.217F7677258AF94F.title: "Z-Rings"
 	task.2391300D60CC0D36.title: "Sparkling Stones"
-	task.250DF8CF8A07A888.title: "Specific Mega Stones"
 	task.25A056981B7F62F0.title: "Mega Bracelets"
 	task.5FEDBD789E019B8D.title: "Z-Moves"
 	task.7A4A898E67110B8E.title: "Tera Pouch"
