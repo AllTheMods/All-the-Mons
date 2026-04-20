@@ -14,27 +14,34 @@
 	]
 	quest.03B40AB768FC0161.title: "Rio Cintilante"
 	quest.0576C32B0FB360B0.quest_desc: [
-		"A Monstruosidade Lunar tem 200 Corações e só receberá 1 de dano por golpe, a menos que você use Fogo.\\n\\nEla tem alguns ataques, incluindo Espinhos do Chão, Projéteis e Cabeças Emaranhadas Explosivas!\\n\\nQuando você a mata, ela dropa Flechas, Barras, Tangled Skulls, Pétalas Tenazes, Almas Aprisionadas e uma chance de uma Arma rara!"
+		"A Monstruosidade Lunar tem 200 Corações e só receberá 1 de dano por golpe, a menos que você use Fogo.\\n\\nEla tem alguns ataques, incluindo Espinhos do Chão, Projéteis e Cabeças Emaranhadas Explosivas!\\n\\nQuando você a mata, ela dropa Flechas, Lingotes, Tangled Skulls, Pétalas Tenazes, Almas Aprisionadas e uma chance de uma Arma rara!"
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
 	quest.0576C32B0FB360B0.title: "Monstruosidade Lunar"
+	quest.0720474D384F4774.quest_desc: ["Marimold são Cogumelos que crescem debaixo d'água. \\n\\nVocê pode encontrar versões grandes e pequenas deles. \\n\\nOs Blocos parecem uma mistura de Mel e Cogubrilho. "]
 	quest.0BB8D556305EB307.quest_desc: [
 		"O Rio de Éter é algo que você saberá quando vir.\\n\\nÉ luminoso, muito luminoso e pode aparecer vermelho no seu Mapa, isso é um bug, ignore."
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
 	quest.0BB8D556305EB307.title: "Rio de Éter"
 	quest.0C096EE635645E43.quest_desc: ["A Besta de Cristal é fabricada como uma Besta Mecânica, só que com Cristais em vez de gravetos.\\n\\nEla atira Flechas e causa o mesmo dano que uma Besta normal, mas esta causa Infecção de Cristal. A Infecção de Cristal causa 1 de dano a cada segundo com os Cristais que aparecem neles! E sim, isso os matará."]
+	quest.0D1C143B2C788204.quest_desc: ["Seekers são Mobs hostis que podem Gerar em qualquer lugar no Starlight. \\n\\nEles têm 12 Corações e meio e voam por aí. \\n\\nEles vão Atacar você voando perto e atirando a língua em você. \\n\\nSeekers também são uma ótima maneira de farmar Seeking Eyes!"]
+	quest.0D1C143B2C788204.title: "Seekers"
 	quest.0F0D41F29386333A.quest_desc: ["As Árvores Escarlates variam em tamanho e forma e às vezes até caem!\\n\\nMas todas têm folhas rosas! Incluindo as que estão no chão."]
-	quest.0F4783FA019C4567.quest_desc: ["Amaranto é encontrado raramente ao descascar Troncos de Torreya.\\n\\nPode ser transformado em Barras para fazer Armaduras e Ferramentas ou usado em outras receitas como uma fogueira que lhe dará regeneração!"]
+	quest.0F4783FA019C4567.quest_desc: ["Amaranto é encontrado raramente ao descascar Troncos de Torreya.\\n\\nPode ser transformado em Lingotes para fazer Armaduras e Ferramentas ou usado em outras receitas como uma fogueira que lhe dará regeneração!"]
+	quest.0FE15701F2EDC3E9.quest_desc: ["Empilhando um Bloco de Aethersent com uma Lunaris Cactus Fruit, podemos criar um Aethersent Golem! \\n\\nEsse garotão tem um trabalho: evitar que Creteors sejam Gerados em Chuvas de Meteoros. \\n\\nSe uma Chuva de Meteoros acontecer, ele os abaterá antes mesmo que possam Gerar! "]
+	quest.0FE15701F2EDC3E9.title: "Golem Aethersent"
 	quest.10AB188AC6FB24D3.quest_desc: [
-		"O Starlight Golem tem 220 Corações e 2 Modos.\\n\\nO 1º modo é o seu modo de ataque, aqui ele não pode ser danificado, em vez disso, você terá que esperar que seus ataques terminem antes de atingi-lo. Ele ataca com Bolas de Fogo, Batida no Chão ou um devastador Raio Laser!\\n\\nSeu 2º modo é o seu modo de carregamento; neste, ele começará a pegar energia dos Blocos de Energia, que precisarão ser desligados para poder danificá-lo.\\n\\nAo morrer, ele dropará muitas Barras e Flechas, Aço de Golem, Ornamento de Armadura de Forja e talvez até a Espada de Energia!"
+		"O Golem Starlight tem 220 Corações e 2 Modos.\\n\\nO 1º modo é o seu modo de ataque, aqui ele não pode ser danificado, em vez disso, você terá que esperar que seus ataques terminem antes de atingi-lo. Ele ataca com Bolas de Fogo, Batida no Chão ou um devastador Raio Laser!\\n\\nSeu 2º modo é o seu modo de carregamento; neste, ele começará a pegar energia dos Blocos de Energia, que precisarão ser desligados para poder danificá-lo.\\n\\nAo morrer, ele dropará muitas Lingotes e Flechas, Aço de Golem, Ornamento de Armadura de Forja e talvez até a Espada de Energia!"
 		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
 	]
-	quest.10AB188AC6FB24D3.title: "Starlight Golem"
+	quest.10AB188AC6FB24D3.title: "Golem Starlight"
 	quest.127D085D6C9DB690.quest_desc: ["O salitre pode ser encontrado em qualquer lugar subterrâneo, mas é muito comum no Bioma de Costa Quente.\\n\\nÉ preciso uma Picareta de Pedra para minerá-lo e, quando minerado, ele dropa um pouco de Pó de Salitre. Sim, Fortuna funciona nele!\\n\\nO Pó pode ser usado como substituto para outros Nitratos."]
 	quest.144ECED643031A9A.quest_desc: ["Cogumelos Luminosos são enormes plantas de Cogumelo que você pode encontrar nas Florestas Escarlates! \\n\\nEles funcionam como Cogumelos Marrons ou Vermelhos, só que estes Brilham muito mais! \\n\\n(Se você não sabia, Cogumelos Marrons e Vermelhos na verdade emitem uma fonte de Luz de nível 1)."]
 	quest.15195F456D8AD4C8.quest_desc: ["Quando Éter toca Água, Tioquartzo se formará. Isso pode acontecer naturalmente com a geração aleatória ou você pode fazer acontecer! \\n\\nNão é assim que conseguimos Fragmentos, no entanto, esses vêm do Tioquartzo em Brotação!"]
 	quest.1533D98B3B2A758E.quest_desc: ["Espadas Estilhaçadas podem ser dropadas de Esqueletos Lonestar ou criadas usando as Lâminas dropadas. \\n\\nA Espada Estilhaçada é usada mais como um Tridente do que como uma Espada, em vez de bater, você a arremessa. Então, você pode Clicar com o Botão Direito para trazer a Lâmina de volta como um Tridente com Lealdade, e Clicar com o Botão Direito novamente para recarregá-la, se necessário."]
+	quest.17A8E4151DE37015.quest_desc: ["Para fazer as Ferramentas e Armas de Fogo Estelar, você primeiro precisará de Ferramentas de Thermal Springstone para melhorar. Depois, o Molde de Melhoria. \\n\\nO Molde de Melhoria de Fogo Estelar é encontrado nas Estruturas de Chefe: Jardim Amaldiçoado e Golem Forge."]
+	quest.17A8E4151DE37015.title: "Molde de Fogo Estelar"
 	quest.17D82EEA20D02EC8.quest_desc: ["Forrando o fundo do mar está o Cascalho Empoeirado. \\n\\nEle pode ser usado como um substituto para o Cascalho normal e pode raramente dropar Cacos Empoeirados que podem fazer outros Blocos!"]
 	quest.17EC65B33AC5F0B4.quest_desc: [
 		"Andarilhos da Sede são Mobs neutros que aparecem na superfície dos Desertos Cristalizados. \\n\\nQuando provocados, eles te baterão e te darão Fome. \\n\\nEles têm 20 Corações e podem dropar Dente da Fome na morte."
@@ -46,12 +53,18 @@
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
 	quest.1815A439BA9879B7.title: "Costa Quente"
+	quest.18AA0B2E9C3B912A.quest_desc: ["É um Caracol. \\n\\nEle vai Derrubar seu Casco e Carne."]
+	quest.18AA0B2E9C3B912A.title: "Shadow Snail"
+	quest.19F7BAD1150A2107.quest_desc: ["Fogo Estelar! \\n\\nNão, não como a dos Jovens Titãs ou Jovens Titãs em Ação. Este é um material que pode ser usado para fazer Ferramentas e Armas ou..."]
+	quest.1A95BFE57029F9C4.quest_desc: ["Chateado por não termos recebido o Golem de Tufo? Bem, não se preocupe, nós temos o Golem de Pedra Sombria! \\n\\nEle faz exatamente a mesma coisa, apenas fica lá e segura um Bloco ou Item. \\n\\nBasta colocar uma Fruta de Cacto Lunaris sobre Tijolos de Pedra Sombria e você o obterá."]
+	quest.1A95BFE57029F9C4.title: "Golem de Pedra Sombria"
 	quest.1AB17923F87AE264.quest_desc: [
 		"O Yeti é um nome que causa medo em todos que exploram o Frio! Uma abominável criatura peluda que vive no clima mais frio e severo, comendo qualquer coisa que se atreva a se aventurar por lá! \\n\\nBem, não este Yeti, estes são fofos e amigáveis! Eles preferem rolar por aí do que te comer. \\n\\nEles nem mesmo revidam e só têm 10 Corações. \\n\\nNa morte, eles droparão sua Pele e Linha, a primeira pode ser usada como substituto para Lã."
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
-	quest.1BE8F864AB9147C0.quest_desc: ["Minério de Atalfaita pode ser encontrado ao Minerar em qualquer lugar subterrâneo na Luz Estelar. \\n\\nNão pode ser transformado em Ferramentas ou Armadura, mas pode fazer diferentes tipos de Luzes!"]
+	quest.1AFCA421A6A50DA4.quest_desc: ["O Molde de Melhoria de Fluído Vítreo também é Gerado nas Estruturas de Chefe: Jardim Amaldiçoado e Golem Forge. \\n\\nVocê precisará aplicar o Fluído Vítreo e o Molde de Melhoria no Glacita para fazer Armas de Fluído Vítreo."]
+	quest.1AFCA421A6A50DA4.title: "Molde de Fluído Vítreo"
 	quest.1ECD4331DDFBBB52.quest_desc: ["As Árvores Torreya são árvores enormes, roxas/rosas, que têm cerca de 40 blocos de altura. \\n\\nAs folhas brotam em todas as direções e as Vinhas de Torreya pendem delas."]
 	quest.252AD9C886DE45C8.quest_desc: [
 		"Os Twilight Gaze são peixes neutros localizados no Abismo. \\n\\nSe você acertar um, todos atacarão você, semelhante a Lobos ou Porcos-zumbis. Se você se afastar muito do Abismo, eles pararão de segui-lo e nadarão de volta para as profundezas. \\n\\nEles não dropam nada ao morrer, então talvez não os acerte..."
@@ -78,27 +91,33 @@
 		"As Lacraias Cintilantes não fazem ou dropam nada, elas apenas adicionam atmosfera. \\n\\nElas também se assemelham ao único inseto que eu tolero!"
 		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
 	]
-	quest.2E29DC243E8AD61E.title: "Shimmer Lacewing"
+	quest.2E29DC243E8AD61E.title: "Crisopídeo Cintilante"
+	quest.2E9D3DA2DF3E3AC9.quest_desc: ["A Foice de Pétala aplica Veneno a todos que Atinge. \\n\\nO JEI diz que pode fazer Terra Arada, mas no jogo não faz... \\n\\nAo Atingir a Água, um monte de Partículas surgirá. \\n\\nEu não acho que este Item esteja finalizado."]
 	quest.2F3E7233129F2B89.quest_desc: [
 		"Age exatamente como um Luminofish, só que estes têm um chifre na cabeça!"
 		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
 	]
-	quest.2F3E7233129F2B89.title: "Luminaris"
+	quest.2F3E7233129F2B89.title: "Luminária"
+	quest.3124D945A54938C2.quest_desc: ["Pântano Prata costumava Gerar nos Pântanos, mas foi promovido (ou rebaixado, não sei) para Gerar em todos os lugares e no Pântano agora Gera Malarita. "]
 	quest.342EEB042DEC2B8C.quest_desc: ["Magma e Gêiseres ambos aparecem no fundo do Abismo. \\n\\nMagma ajudará você a descer e a manter sua respiração. \\n\\nGêiseres apenas parecem legais!"]
 	quest.362F4CFD1B8B12B1.quest_desc: ["Todos os seres vivos morrerão em Éter como se fosse Lava. Engraçado que você pode colocá-lo em um Balde, no entanto! \\n\\nA única maneira de obtê-lo é encontrando-o no Rio de Éter. \\n\\nQuando a Água toca o Éter, formará Blocos de Thioquartz!"]
 	quest.36BCCF7395658A5C.quest_desc: ["Os Chefes no Starlight vivem em suas estruturas. Elas não são comuns (felizmente), então você pode precisar de ajuda, também conhecida como os Olhos Rastreadores. \\n\\nOs Olhos Rastreadores funcionam como os Olhos do End, Clique com o Botão Direito com eles para lançá-los e siga-os para chegar às estruturas. \\n\\nPara definir a estrutura, você precisará de um certo Item em sua mão secundária, itens como..."]
 	quest.36BCCF7395658A5C.title: "Encontrando os Chefes"
 	quest.37355F60E45777FE.quest_desc: ["O Orbe da Profecia pode ser criado ou obtido ao vencer o Gatekeeper! \\n\\nSeu uso principal é ativar o Portal, mas haverá mais usos para ele!"]
+	quest.373CA701008A9584.quest_desc: ["Outro Item híbrido que precisa que tanto a Monstruosidade Lunar quanto o Golem Starlight sejam mortos. \\n\\nA Besta Murcha é como uma Besta normal, só que cada Flecha causará Wither e Lentidão."]
 	quest.375F0A098589CF29.quest_desc: [
 		"Usando seus Olhos Buscadores, você pode ficar confuso por que eles de repente foram para o subsolo. Isso provavelmente ocorre porque a Forja do Golem está nas profundezas do subsolo, como nos níveis Y negativos. \\n\\nHá muitas salas sinuosas, cada uma cheia de Saques, Lava e Congelamentos! A sala que estamos procurando abriga o Golem da Luz Estrelar!"
 		"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
 	]
 	quest.375F0A098589CF29.title: "Forja do Golem"
+	quest.378A7484CF999F03.quest_desc: ["Estes seriam perfeitos para pequenas casas de bonecas subaquáticas... \\n\\nSe houver pelo menos uma outra pessoa na história que pensou nisso como uma ideia..."]
+	quest.39796595B42BB41E.quest_desc: ["O Boomerang de Energia é uma Arma única feita de Aço de Golem. \\n\\nPara usá-lo, basta clicar com o Botão Direito. Isso irá Arremessá-lo. \\n\\nComo qualquer outro Bumerangue, exceto os que eu joguei, ele retornará para você. Ele voltará após cerca de 10 Blocos ou se Atingir um Bloco. \\n\\nSe Atingir um Mob, causará Dano e o incendiará."]
 	quest.3991EEEFDD263A91.quest_desc: [
 		"Aranhas do Crepúsculo, como Esqueletos da Estrela Solitária, são Hostis e aparecem em qualquer lugar. \\n\\nElas têm 5 Corações e atacam te atingindo. Depois de te atingir, elas lhe darão o efeito de Brilho por alguns segundos. \\n\\nNa morte, elas droparão Linha e seus olhos!"
 		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
 	]
 	quest.3991EEEFDD263A91.title: "Aranhas do Crepúsculo"
+	quest.3AFEE53B4276F8CA.quest_desc: ["Finalmente, uma Ferramenta! \\n\\nA Mineradora Subterrâneo é uma Picareta. Seu truque é que quanto menor o seu Nível Y, mais rápido ela Minera. \\n\\nMas como ela sabe o quão baixo está?"]
 	quest.3C74DAE7EC844A98.quest_desc: ["As Bagas Lunares são uma excelente fonte de comida, além de serem muito fáceis de obter! \\n\\nElas crescem para baixo das Folhas de Árvore Lunar, você pode colher as Bagas das Vinhas como as Bagas Luminosass. \\nSó que estas dão muito mais Pontos de Fome e Saturação!"]
 	quest.3CAD0701EC16C2D8.quest_desc: [
 		"Pântanos Escuros cobrem o mundo do Starlight. \\n\\nAqui você pode encontrar muitas plantas, animais e, claro, Lama."
@@ -126,13 +145,18 @@
 	quest.41C70F0873E14307.quest_desc: ["Há Árvores no Deserto! \\n\\nNão, espere, havia Árvores..."]
 	quest.429785E8F64929CE.quest_desc: ["Para chegar à Dimensão Starlight, você precisará encontrar Ruínas do Portal no Mundo Superior. \\n\\nLá você encontrará um Guardião do Portal, clique com o botão direito para iniciar uma conversa e desafiá-lo para um duelo! Cuidado, eles são muito difíceis. \\n\\nAssim que vencer o duelo, você receberá alguns Itens, sendo o Orbe da Profecia um deles. Clique com o botão direito no Portal com o Orbe para ativá-lo! Então, entre para chegar ao..."]
 	quest.429785E8F64929CE.title: "O Guardião e o Portal"
+	quest.45D73CA0A7BE4666.quest_desc: [
+		"O Mar Raso Exuberante faz jus ao seu nome, tem muita vida vegetal e não é tão profundo! \\n\\nTem apenas cerca de 20 Blocos de profundidade."
+		"{image:atm:textures/questpics/eternal/starlight_shallow.png width:200 height:100 align:center}"
+	]
+	quest.45D73CA0A7BE4666.title: "Mar Raso Exuberante"
 	quest.47CB136D7764B86D.quest_desc: ["As Torreya Vines são encontradas penduradas nas Árvores de Torreya. \\n\\nElas estão penduradas porque não podem ser colocadas de outra forma... \\n\\nO bulbo na parte inferior delas emitirá Luz!"]
 	quest.484ABFF266C8791E.quest_desc: ["Orbflora são plantas que crescem do fundo do mar. \\n\\nElas podem ser colhidas a qualquer momento, mas se você quiser as Luzes de Orbflora, precisará esperar! \\n\\nQuando crescem até o Nível do Mar, elas florescem. Após a floração, elas crescerão a Luz!"]
 	quest.49D1EA8E812A12F6.quest_desc: ["É apenas uma planta legal. \\n\\nVocê precisará de uma Foice de Prata do Pântano para coletá-la! \\n\\nNão sei por que nunca me importei com plantas, mas Juncos são legais para mim. Talvez seja por estarem perto da Água, ou por Taboas parecerem Corndogs. Não sei, mas eu gosto deles."]
 	quest.49DC0BD7DC1B893C.quest_desc: ["O Abismo são fossas profundas dentro dos Mares Estrelados. Estas indo tão fundo quanto -50! \\n\\nEles têm várias camadas coloridas de Pedra que os revestem e abrigam muitos Blocos, Musgos e Peixes diferentes!"]
 	quest.49DC0BD7DC1B893C.title: "O Abismo"
 	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss surge dentro do Abismo. \\n\\nVocê pode minerar os verdes para obter Bolas de Velvetumoss, que podem ser comidas ou transformadas em uma Bola de Slime! \\n\\nOs vermelhos gerarão plantas bonitas!"]
-	quest.4A5EA948F5DCEB73.quest_desc: ["Prata do Pântano pode ser raramente encontrada na Lama do Crepúsculo. \\n\\nPode ser usada para criar Armaduras e Ferramentas!"]
+	quest.4A5EA948F5DCEB73.quest_desc: ["Prata Abissal costumava ser chamado de Pântano Prata e só era Gerado em Pântano Sombrio. \\n\\nAgora é encontrado em todos os lugares no subsolo... provavelmente é por isso que mudaram o nome!"]
 	quest.4C23D7E3DC8327C2.quest_desc: ["Para matar a Monstruosidade Lunar, você precisará incendiá-la! \\n\\nVocê pode usar Pederneira e Isqueiro ou uma Caixa de Fósforos de Salitre. \\n\\nPessoalmente, acho que a Caixa de Fósforos é mais adequada!"]
 	quest.4C23D7E3DC8327C2.title: "Queime-o!"
 	quest.4D0B50731FED3CEE.quest_desc: ["Para obter a Lança Crescente, você precisará fabricá-la a partir de Itens derrubados pela Monstruosidade Lunar e pelo Ódio Emaranhado, ou tê-la derrubada pela Monstruosidade Lunar. (Você terá que matá-lo de qualquer maneira, basicamente). \\n\\nVocê pode usar a Lança como um Tridente e apenas bater nos Mobs ou pode segurar o Clique Direito para ser lançado para a frente com ela. Se você atingir algum Mob com o segundo ataque, qualquer Mob próximo também sofrerá dano."]
@@ -151,20 +175,34 @@
 	]
 	quest.50674FE3C6BE9990.title: "Floresta Starlight Densa"
 	quest.516AC1F0E0BCAE55.quest_desc: ["Tubos Congelados são dropados por Freezes na Forja de Golem. \\n\\nEles podem ser arremessados como Poções para ferir quem for atingido."]
+	quest.51B1AF28328FFBAD.quest_desc: [
+		"A Floresta de Algas Espirais é um Bioma muito decepcionante para os entusiastas de Madeira. \\n\\nEste Bioma não é uma Floresta, é um Oceano! E nem mesmo o Bioma de Oceano com uma Árvore, esse seria o Mar Raso Exuberante. \\n\\nSinto muito."
+		"{image:atm:textures/questpics/eternal/starlight_spiral.png width:200 height:100 align:center}"
+	]
+	quest.51B1AF28328FFBAD.title: "Floresta de Algas Espirais"
+	quest.51B6D203E28D92BE.quest_desc: ["Odeia esperar por Chuvas de Meteoros? Por que não começar uma você mesmo! \\n\\nO Foguetes de Golpe Etéreo agirá como Fogos de Artifício normal. Voa para o ar, dá um belo show, só que este também invoca uma Chuva de Meteoros. \\n\\nSim, ele iniciará uma Chuva de Meteoros de onde foi disparado. \\n\\nNo entanto, ele tem um tempo de recarga."]
 	quest.5244B2D6B5FA0487.quest_desc: [
 		"O Deserto Cristalizado parece um Deserto normal, mas com tons de Roxo. \\n\\nTambém com cristais gigantes adicionados, eu não acho que Desertos normais tenham isso..."
 		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
 	]
 	quest.5244B2D6B5FA0487.title: "Deserto Cristalizado"
+	quest.5282190D0C0C2AA9.quest_desc: ["Diamante Estrelado são Gerados nas profundezas do subsolo em todos os lugares no Starlight. \\n\\nAo redor de Pedra do Vazio é onde você os encontrará. \\nJulgando pelo Diamante no nome, sim, é muito bom para Ferramentas e Armas."]
+	quest.53149C516E544FE9.quest_desc: ["Creteors e Mini Creteors podem vir de Chuvas de Meteoros. \\n\\nCreteors são Neutros, você precisará Atingi-los primeiro. Eles têm 8 Corações. \\n\\nQuando Atingidos, eles rolarão até você e começarão a piscar. Eles vão Atingir você causando um pouco de Dano, mas também vão explodir! A explosão demora um pouco para acontecer, então você tem tempo para correr, mas quando explodirem, eles vão Gerar... \\n\\nMini Creteors! Esses caras são muito menos amigáveis do que seus equivalentes maiores. \\n\\nCreteors voarão até você e explodirão. Esses caras têm apenas 2 Corações e meio. \\n\\nQuando Mortos (não por explosão), ambos vão Derrubar Golpe Etéreo e Couro de Creteor."]
+	quest.53149C516E544FE9.quest_subtitle: "Mobs do espaço sideral? Alienígenas?"
+	quest.53149C516E544FE9.title: "Creteors"
 	quest.5424A0E1292B13EE.quest_desc: ["Perto da Starlight você pode encontrar Lagoas Quentes. \\n\\n(Estes não são um bioma ou estrutura, então você precisará apenas procurar para encontrá-los!) \\n\\nDentro delas você pode encontrar Pedra de Fonte Termal."]
 	quest.5466CB622A637DCD.quest_desc: ["A Fruta Abissal tecnicamente pode aparecer em qualquer corpo d'água, mas é a única que vive nos Rios Cintilantes. \\n\\nEla cresce como Kelp do chão para cima, mas também funciona como Glowberries, pois a Fruta cresce e pode ser coletada dela."]
 	quest.54DE8AAAE2181F18.quest_desc: ["A Moonring Greatsword precisa ser criada a partir de drops de ambos os Chefes! Obviamente, tornando-a a mais difícil de obter e a mais poderosa! \\n\\nEla funciona como uma Espada normal, pouco antes da 1.9. Ela pode bloquear ataques como um escudo, mas não pode ser usada repetidamente para dano total."]
+	quest.59613CCE59689263.quest_desc: ["Peixe Torre são Lulas fofas em forma de peças de xadrez que nadam pelo Starlight. \\nEles têm 5 Corações e vão Derrubar a si mesmos e seus Airsacs ao morrer."]
+	quest.59613CCE59689263.title: "Peixe Torre"
+	quest.5C11E99FF201C3F9.quest_desc: ["A Grande Espada de Aço de Golem é uma Arma muito divertida. \\n\\nPrimeiro, ela pode Bloquear. Basta clicar com o Botão Direito para Bloquear. \\n\\nSegundo, BOLAS DE RAIO! Sempre que você clicar com o Botão Esquerdo, 3 Bolas de Raio serão enviadas da Espada. O Raio se conectará entre todas as 3 e causará Dano a qualquer coisa que tocarem. Elas também quicam em Blocos. \\n\\nAlém disso, é uma ótima Espada de qualquer maneira!"]
 	quest.5DFE3CB5B0130A7A.quest_desc: ["Há muita vida vegetal no topo do Rio Cintilante, em algumas você pode ficar de pé!"]
 	quest.60FDCA2FDFE74056.quest_desc: [
 		"É ROSA! \\n\\nAqui você encontrará Árvores Escarlates com suas folhas caídas empilhadas abaixo delas. Você também pode encontrar Cogumelos Luminosos aqui!"
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
 	quest.60FDCA2FDFE74056.title: "Floresta Escarlate"
+	quest.62B44B688D09C939.quest_desc: ["Fluído Vítreo! \\n\\nAo clicar com o Botão Direito com Fogo Estelar na mão, ele o arremessará. Isso pode Afetar Mobs com Fogo Estelar, ou se Atingir Areia, transformará a Areia em Fluído Vítreo Bruto. \\n\\nBasta Fundir o Fluído Vítreo e podemos usá-lo com o Molde de Melhoria para fazer Armas e Ferramentas."]
 	quest.62F33BBE7BDFE404.quest_desc: ["A Varinha de Teletransporte é outra queda da Monstruosidade Lunar, e apenas dela! \\n\\nVocê pode segurar o botão direito com a Varinha para iniciá-la, então, quando soltar, ela o teleportará para o Bloco que você estava olhando por último! \\n\\nHá um alcance, mas é bem longe. E há um tempo de recarga após o uso!"]
 	quest.6314B892B569A0A5.quest_desc: ["A Starlight! \\n\\nUma Dimensão onde é constantemente Crepúsculo, e não, você não pode mudar isso. \\n\\nHá dezenas de Biomas, Mobs, Chefes e até mesmo Blocos para encontrar! Você consegue descobrir todos eles?"]
 	quest.6314B892B569A0A5.title: "Eternal Starlight"
@@ -183,11 +221,14 @@
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
 	]
 	quest.68B2D3B985FC1378.title: "Floresta Torreya"
+	quest.699C6DDE6B2D51C1.quest_desc: ["As Árvores de Caule Tilintante crescem debaixo d'água... Eu me pergunto se existem Árvores assim na vida real? \\n\\nElas têm Alga Suspensas, em vez de Folhas normais."]
 	quest.6B00D5DBB3552F15.quest_desc: [
 		"Tangleds são inimigos que surgem no Jardim Amaldiçoado. \\n\\nEles têm 10 Corações e atacarão dando tapas em você. Se você for atingido, receberá uma pequena quantidade de veneno. \\n\\nAo morrer, eles droparão Vinhas e Ossos, mas também gerarão uma Caveira de Tangled! \\n\\nAs Caveiras de Tangled agem de forma semelhante aos Vexes, voarão através de blocos e o atingirão. Elas têm apenas 5 Corações e, ao morrer, lhe darão elas como um Item."
 		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
 	]
 	quest.6B00D5DBB3552F15.title: "Tangled"
+	quest.6DCC11671A2BAA1C.quest_desc: ["Raramente nas Florestas do Starlight você pode encontrar Pássaros. \\n\\nSe você Alimentar 2 Pássaros com algumas Sementes perto de um Ninho, eles mudarão de Pássaros para pombinhos apaixonados. \\n\\nNão exatamente, mas ambos vão se aconchegar em seu Ninho. Depois disso, eles deixarão um presente para você. Às vezes, esse presente será..."]
+	quest.6DCC11671A2BAA1C.title: "Os pássaros e os... pássaros?"
 	quest.6E970CF05B96EB20.quest_desc: ["Para danificar o Golem, você precisará desligar sua fonte de energia! \\n\\nPara fazer isso, você precisará Clicar com o Botão Direito nos Blocos de Energia quando eles ficarem azuis. \\n\\nVocê geralmente pode encontrar 2 nos cantos da sala do chefe e 2 acima dele!"]
 	quest.6E970CF05B96EB20.title: "Desligando"
 	quest.6EC289857CDC4969.quest_desc: [
@@ -199,17 +240,18 @@
 	quest.713548E540B18E07.quest_desc: ["O Moonring Bow só pode ser dropado pela Lunar Monstrosity. \\n\\nEle atira Flechas como um Arco normal, mas Espigões de Chão surgirão na mesma direção que a Flecha foi!"]
 	quest.713EF442D59501BA.quest_desc: ["A Chain of Souls só pode ser criada a partir de drops do Tangled Hatred e da Lunar Monstrosity. \\n\\nÉ um gancho! Toque com o Botão Direito para enviá-lo e, assim que atingir algo, ele começará a te puxar. Então, você tem que clicar com o Botão Direito novamente para soltá-lo. \\n\\nTambém é necessário para a ATM Star!"]
 	quest.71C58666D4BC2508.quest_desc: ["Funciona como Pederneira e Aço!"]
+	quest.76BFC5815FC6565C.quest_desc: ["Raramente acima do solo no Starlight, uma Chuva de Meteoros pode ocorrer. \\n\\nEnquanto pedaços de Meteoros atingindo o solo a poucos metros de você na vida real é aterrorizante, no Minecraft é útil! \\n\\nQuando isso acontece, um Material chamado Golpe Etéreo será Gerado no solo onde os Meteoros caírem. Assim como alguns Mobs podem Gerar a partir desses mesmos Meteoros!"]
+	quest.76BFC5815FC6565C.title: "Chuva de Meteoros"
 	quest.770C0975CA61CE46.quest_desc: ["Glacite pode ser encontrada nas profundezas das Florestas de Permafrost. \\n\\nPode ser usada para criar Armaduras e Ferramentas que ajudam contra o dano de Congelamento!"]
 	quest.7A16D2EB63359294.quest_desc: [
 		"Cervos Aurora são animais de casco amigáveis que também vivem no frio. \\n\\nEstes Cervos não tentarão te machucar, mas se você ficar no caminho deles quando correm, pode sentir alguns Chifres. \\n\\nChifres que também podem ser dropados por eles na morte e podem ser usados como arma ou enxada! \\n\\nEles também podem dropar Couro ou Bife de Cervo Aurora."
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
 	quest.7A16D2EB63359294.title: "Cervo Aurora"
-	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite pode ser encontrada no subsolo na Starlight. \\n\\nFunciona como uma Pedra normal, podendo ser transformada em outros Blocos. \\n\\nSua versão Derretida funciona como um Bloco de Magma normal!"]
-	quest.7B5D34650BBD97D9.quest_desc: ["Muito raramente na Dimensão da Luz Estrelar, uma Chuva de Meteoros pode ocorrer. \\n\\nA maioria das vezes os Meteoros são pequenos e desaparecem antes de atingir o chão. \\n\\nMas alguns são maiores e sobrevivem, lá você encontrará Minério de Aethersent!"]
+	quest.7B5D34650BBD97D9.quest_desc: ["Golpe Etéreo é Derrubado de Creteors e de Chuvas de Meteoros. \\n\\nA maioria das Chuvas de Meteoros Derruba uma tonelada deles, então não se preocupe!"]
 	quest.7D7BD1458CF12021.quest_desc: ["É um Deserto, claro que há Cactos! \\n\\nOs Cactos, quando totalmente crescidos, podem dar Frutos no topo!"]
 	quest.7E90138B0A2C3210.quest_desc: ["As Árvores da Terra do Norte são árvores grandes e robustas nas Florestas de Permafrost. \\n\\nElas parecem Abetos, mas muito mais claras! Talvez sejam um Abeto albino. \\n\\nSuas mudas precisam ser plantadas na Terra, não na Grama, e em uma formação 2x2."]
-	quest.7FBB431AC055FE93.quest_desc: ["O Espectador Soulit é criado com uma Alma Aprisionada e um Olho de Aranha do Anoitecer. \\n\\nFunciona de forma semelhante a uma Câmera Adesiva de Tom Clancy's Splinter Cell. Você pode Clicar com o Botão Direito para enviar o Espectador e, após um tempo, poderá ver através dele. Você pode até se ver com ele! \\n\\nNão pode ser encerrado antes do tempo, então cuidado ao usá-lo. Ele também tem durabilidade e tempo de recarga."]
+	quest.7FBB431AC055FE93.quest_desc: ["O Espectador Iluminado pela Alma é fabricado com um Orvalho da Alma e um Olho de Aranha do Anoitecer. \\n\\nEle funciona de forma semelhante a uma Câmera Pegajosa do Splinter Cell de Tom Clancy. Você pode clicar com o Botão Direito para enviar o Espectador e, depois de um tempo, poderá ver através dele. Você pode até ver a si mesmo com ele! \\n\\nEle não pode ser encerrado precocemente, então tome cuidado ao usá-lo. Ele também tem durabilidade e um tempo de recarga."]
 	quest.7FF77463F2A0E210.quest_desc: ["Lama do Anoitecer só pode ser encontrada nos Pântanos Escuros. \\n\\nVocê pode fazer mais Blocos com ela!"]
 	task.0AD8AC7ECCD8002A.title: "TodosOsDireitosReservados"
 	task.2510A7EE5D886B63.title: "TodosOsDireitosReservados"
