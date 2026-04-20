@@ -149,13 +149,13 @@
     "curseForgeHash": 17749550,
     "modrinthHash": "265ef9d825d217e4dd6bf9b0c0824da982cc5c22"
   },
-  "alltheleaks-1.1.7+1.21.1-neoforge.jar": {
-    "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+  "alltheleaks-1.1.8+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
     "name": "All The Leaks",
-    "version": "1.1.7+1.21.1-neoforge",
-    "curseForgeHash": 3702505508,
-    "modrinthHash": "a36da3b274d7612f3696788434cb5a717e065d70"
+    "version": "1.1.8+1.21.1-neoforge",
+    "curseForgeHash": 810386014,
+    "modrinthHash": "f91b11a1cfa718b9291fbe7b80356f17a572577e"
   },
   "allthemodium-3.0.0_mc_1.21.1.jar": {
     "jarName": "allthemodium-3.0.0_mc_1.21.1.jar",
@@ -165,13 +165,13 @@
     "curseForgeHash": 3791403444,
     "modrinthHash": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949"
   },
-  "allthemons-0.1.1.jar": {
-    "jarName": "allthemons-0.1.1.jar",
+  "allthemons-0.1.3.jar": {
+    "jarName": "allthemons-0.1.3.jar",
     "modId": "allthemons",
     "name": "All The Mons",
-    "version": "0.1.1",
-    "curseForgeHash": 103914041,
-    "modrinthHash": "175ba2113ad0012281cfff6e5e55a4f32559a362"
+    "version": "0.1.3",
+    "curseForgeHash": 320909835,
+    "modrinthHash": "1a250cfdd757aab87ee4ee59284fd5419dfc6394"
   },
   "alltheores-3.2.0_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.2.0_neoforge_1.21.1.jar",
