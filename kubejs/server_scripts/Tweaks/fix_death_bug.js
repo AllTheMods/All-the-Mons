@@ -16,6 +16,7 @@ function syncBattleTowerShop(/** @type {$SimplePlayerKubeEvent} */  event) {
     /** @type {$ListTag} */
     let shopItems = NBT.listTag()
     syncData.put("shop_items", shopItems)
+    let mapById = Utils.newMap()
     let loadDefaultItems = btJsonConfig.getAsJsonObject().get("load_default_items").getAsBoolean()
     if (loadDefaultItems) {
       let defaultItems = btJsonConfig.getAsJsonObject().get("_default_items").getAsJsonArray()
@@ -28,7 +29,7 @@ function syncBattleTowerShop(/** @type {$SimplePlayerKubeEvent} */  event) {
           currentItem.putString("item", itemId.getAsString())
           currentItem.putInt("count", itemObj.get("quantity").getAsInt())
           currentItem.putInt("cost", itemObj.get("bp_cost").getAsInt())
-          shopItems.addLast(currentItem)
+          mapById.put(itemObj.get("id").getAsString(), currentItem)
           //allthemods.add(itemId.getAsString(), [`This item is for sale at Holo Battle Tower. Each ${itemObj.get("quantity").getAsInt()} for ${itemObj.get("bp_cost").getAsInt()} Battle Points.`])
         }
       }
@@ -42,10 +43,14 @@ function syncBattleTowerShop(/** @type {$SimplePlayerKubeEvent} */  event) {
           currentItem.putString("item", itemId.getAsString())
           currentItem.putInt("count", itemObj.get("quantity").getAsInt())
           currentItem.putInt("cost", itemObj.get("bp_cost").getAsInt())
-          shopItems.addLast(currentItem)
+          mapById.put(itemObj.get("id").getAsString(), currentItem)
         //allthemods.add(itemId.getAsString(), [`This item is for sale at Holo Battle Tower. Each ${itemObj.get("quantity").getAsInt()} for ${itemObj.get("bp_cost").getAsInt()} Battle Points.`])
       }
     }
+
+    mapById.values().forEach(value => {
+      shopItems.addLast(value)
+    })
 
     event.player.sendData("battle_tower_shop_items", syncData)
   }
