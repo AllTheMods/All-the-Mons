@@ -11,7 +11,7 @@
 		"  - &bAbra&r, &bRattata&r, &bCharmander&r, &bPikachu&r, &bGrimer&r, &bStaryu&r "
 		"- &ePreencher as Vitrines&r com quaisquer &dMega Pedra&r."
 		"- &aOferecer as 4 Pokébolas ancestrais&r"
-		"- &cOferecer a Estrela Pika Desvinculada &rpara iniciar o &dritual&r."
+		"- &cOferecer a Estrela Pika Libertada &rpara iniciar o &dritual&r."
 		""
 		"&oClique na próxima página para ver um exemplo&r"
 		"{@pagebreak}"
@@ -31,7 +31,7 @@
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/allthemons/pika_star_ritual.png width:200 height:200 align:center}"
 	]
-	quest.2DBB88E1C147F496.title: "Estrela Pika Desvinculada"
+	quest.2DBB88E1C147F496.title: "Estrela Pika Libertada"
 	quest.3B7A4929A1FCFFC6.quest_desc: [
 		"Como ler as receitas do &5Altar &rno JEI:"
 		""
