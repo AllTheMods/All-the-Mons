@@ -18,14 +18,19 @@
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
 	quest.0576C32B0FB360B0.title: "Lunar Monstrosity"
+	quest.0720474D384F4774.quest_desc: ["Marimold are Mushrooms that grow Underwater. \\n\\nYou can find big and little versions of them. \\n\\nThe Blocks look like a mix of Honey and Shroomlights. "]
 	quest.0BB8D556305EB307.quest_desc: [
 		"Ether River is something you'll know when you see it. \\n\\nIt's bright, very bright and might appear red in your Map, that's a bug ignore that. "
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
 	]
 	quest.0BB8D556305EB307.title: "Ether River"
 	quest.0C096EE635645E43.quest_desc: ["The Crystal Crossbow is a crafted like a Mechanical Crossbow just with Crystals instead of sticks. \\n\\nIt shoots Arrows and does same damage as a normal Crossbow but this one gives Crystal Infection. Crystal Infection does 1 damage every second with the Crystals that spawn on them! And yes it will kill them."]
+	quest.0D1C143B2C788204.quest_desc: ["Seekers are Hostile Mobs which can Spawn anywhere in the Starlight. \\n\\nThey have 12 and a half Hearts and fly around. \\n\\nThey will Attack you by flying close and shooting their tongue at you. \\n\\nSeekers are also a great way of Farming Seeking Eyes!"]
+	quest.0D1C143B2C788204.title: "Seekers"
 	quest.0F0D41F29386333A.quest_desc: ["Scarlet Trees range in size and shape and even sometimes fallen down! \\n\\nBut all have pink leaves! Including the ones on the ground."]
 	quest.0F4783FA019C4567.quest_desc: ["Amaraber is found rarely by stripping Torreya Logs. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
+	quest.0FE15701F2EDC3E9.quest_desc: ["By stacking an Aethersent Block with a Lunaris Cactus Fruit we can make an Aethersent Golem! \\n\\nThis bad boy has one job, prevent Creteor Spawns from Meteor Showers. \\n\\nIf a Meteor Shower happens, he'll shoot them down before they can even Spawn! "]
+	quest.0FE15701F2EDC3E9.title: "Aethersent Golem"
 	quest.10AB188AC6FB24D3.quest_desc: [
 		"The Starlight Golem has 220 Hearts and 2 Modes. \\n\\n1st mode is his attack mode, here he can't be damaged instead you'll have to wait for his attacks to go before hitting him. He attacks with Fireballs, Ground Pound, or a devastating Laser Beam! \\n\\nHis 2nd mode is his charging mode; in this one he'll begin taking power from the Energy Blocks which will need to be turned off in order to damage him. \\n\\nOn death he will drop plenty of Ingots and Arrows, Golem Steel, Forge Armor Trim, and maybe even the Energy Sword!"
 		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
@@ -35,6 +40,8 @@
 	quest.144ECED643031A9A.quest_desc: ["Glowing Mushrooms are huge Mushroom plants you can find in the Scarlet Forests! \\n\\nThey function just like Brown or Red Mushrooms just these ones Glow much brighter! \\n\\n(If you didn't know Brown and Red Mushrooms actually emit a Light Source level of 1)."]
 	quest.15195F456D8AD4C8.quest_desc: ["When Ether touches Water Thioquartz will form. This can happen naturally with random generation or you can make it happen! \\n\\nThese aren't how we get Shards though, those are from Budding Thioquartz!"]
 	quest.1533D98B3B2A758E.quest_desc: ["Shattered Swords can either be dropped from Lonestar Skeletons or crafted using the dropped Blades. \\n\\nThe Shattered Sword is used more like a Trident than a Sword, instead of hitting you'll throw it. Then, you can Right Click to bring back the Blade like a Loyalty Trident, and Right Click again to reload it if needed."]
+	quest.17A8E4151DE37015.quest_desc: ["In order to make the Starfire Tools and Weapons you'll first need Thermal Springstone Tools to upgrade. Then, the Upgrade Template. \\n\\nThe Starfire Upgrade Template is found in the Boss Structures: Cursed Garden and Golem Forge."]
+	quest.17A8E4151DE37015.title: "Starfire Template"
 	quest.17D82EEA20D02EC8.quest_desc: ["Lining the Sea floor is Dusted Gravel. \\n\\nIt can be used as a replacement for normal Gravel and can rarely drop Dusted Shards which can make other Blocks!"]
 	quest.17EC65B33AC5F0B4.quest_desc: [
 		"Thirst Walkers are neutral Mobs that spawn on the surface of the Crystallized Deserts. \\n\\nWhen aggro-ed they will hit you and give you Hunger. \\n\\nThey have 20 Hearts and can drop Tooth of Hunger on death."
@@ -46,12 +53,18 @@
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
 	quest.1815A439BA9879B7.title: "Warm Shore"
+	quest.18AA0B2E9C3B912A.quest_desc: ["It's a Snail. \\n\\nIt will Drop its Shell and Meat."]
+	quest.18AA0B2E9C3B912A.title: "Shadow Snail"
+	quest.19F7BAD1150A2107.quest_desc: ["Starfire! \\n\\nNo, not like from Teen Titans or Teen Titans Go. This one is a material which can be used to make Tools and Weapons or..."]
+	quest.1A95BFE57029F9C4.quest_desc: ["Upset we didn't get the Tuff Golem? Well don't you fret, we have the Grimstone Golem! \\n\\nHe does the same exact thing, just stands there and holds a Block or Item. \\n\\nJust place a Lunaris Cactus Fruit over Grimstone Bricks and you'll get it."]
+	quest.1A95BFE57029F9C4.title: "Grimstone Golem"
 	quest.1AB17923F87AE264.quest_desc: [
 		"The Yeti is a name that strikes fear into all those who explore the Cold! An abominable furry creature that lives in the harshest coldest climate eating anything that dare venture there! \\n\\nWell not this Yeti, these ones are cute and friendly! They'd rather roll around than eat you. \\n\\nHeck they don't even fight back and only have 10 Hearts. \\n\\nOn death they will drop their Fur and String, the former which can be used as a replacement for Wool."
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
-	quest.1BE8F864AB9147C0.quest_desc: ["Atalphaite Ore can be found when Mining anywhere underground in the Starlight. \\n\\nIt can't be made into Tools or Armor but it can make different types of Lights!"]
+	quest.1AFCA421A6A50DA4.quest_desc: ["Flowgaze Upgrade Template also Spawns in Boss Structures: Cursed Garden and Golem Forge. \\n\\nYou'll need to apply the Flowgaze and Upgrade Template to Glacite to make Flowgaze Weapons."]
+	quest.1AFCA421A6A50DA4.title: "Flowgaze Template"
 	quest.1ECD4331DDFBBB52.quest_desc: ["Torreya Trees are huge purple/pink Trees that stand around 40 Blocks tall. \\n\\nThe leaves will sprout out in every direction and the Torreya Vines hang from them."]
 	quest.252AD9C886DE45C8.quest_desc: [
 		"Twilight Gaze are a neutral Fish located in The Abyss. \\n\\nIf you hit one, all will attack you, similar to Wolves or Zombified Piglins. If you get too far from The Abyss they will stop following you and swim back to the depths. \\n\\nThey don't drop anything on death so maybe don't hit them..."
@@ -79,26 +92,32 @@
 		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
 	]
 	quest.2E29DC243E8AD61E.title: "Shimmer Lacewing"
+	quest.2E9D3DA2DF3E3AC9.quest_desc: ["The Petal Scythe gives Poison to all it Hits. \\n\\nJEI says it can make Farmland but in game it won't... \\n\\nWhen Hitting Water a bunch of Particles will come up. \\n\\nI don't think this Item is finished."]
 	quest.2F3E7233129F2B89.quest_desc: [
 		"Acts exactly like a Luminofish just these have a horn on their head!"
 		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
 	]
 	quest.2F3E7233129F2B89.title: "Luminaris"
+	quest.3124D945A54938C2.quest_desc: ["Swamp Silver used to Spawn in the Swamps but it has been promoted (or demoted I don't know) to Spawning everywhere and in the Swamp Malarite now Spawns. "]
 	quest.342EEB042DEC2B8C.quest_desc: ["Magma and Geysers both spawn on the bottom of The Abyss. \\n\\nMagma will help you get down below and help keep your breath. \\n\\nGeysers just look cool!"]
 	quest.362F4CFD1B8B12B1.quest_desc: ["All living things will die in Ether as if it were Lava. Funny enough you can put it in a Bucket though! \\n\\nThe only way to get it is finding it in the Ether River. \\n\\nWhen Water touches Ether it will form Thioquartz Blocks!"]
 	quest.36BCCF7395658A5C.quest_desc: ["The Bosses in the Starlight live in their structures. These aren't common (thankfully) so you might need assistance aka the Seeking Eyes. \\n\\nSeaking Eyes work like Ender Eyes, Right Click with them to throw them and follow them to get to the structures. \\n\\nTo set the structure you'll need a certain Item in your Offhand, items like..."]
 	quest.36BCCF7395658A5C.title: "Finding the Bosses"
 	quest.37355F60E45777FE.quest_desc: ["The Orb of Prophecy can be crafted or obtained through beating the Gatekeeper! \\n\\nIt's main use is activating the Portal, but there will be more uses for it!"]
+	quest.373CA701008A9584.quest_desc: ["Another hybrid Item needing both the Lunar Monstrosity and Starlight Golem killed. \\n\\nThe Wilted Crossbow is like a normal Crossbow, just every Arrow will deal Wither and Slowness."]
 	quest.375F0A098589CF29.quest_desc: [
 		"Using your Seeking Eyes you might become confused why they've suddenly gone underground. That's probably because the Golem Forge is deep underground, like in the negative Y levels. \\n\\nThere's many winding rooms each full of Loot, Lava, and Freezes! The room we are looking for holds the Starlight Golem!"
 		"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
 	]
 	quest.375F0A098589CF29.title: "Golem Forge"
+	quest.378A7484CF999F03.quest_desc: ["These would be perfect for tiny underwater dollhouses... \\n\\nIf there's even a single other person in history who thought of that as an idea..."]
+	quest.39796595B42BB41E.quest_desc: ["The Energy Boomerang is a unique Weapon made of Golem Steel. \\n\\nTo use it, just Right Click. This will Throw it. \\n\\nLike every other Boomerang except for the ones I've thrown, it will return to you. It will come back after around 10 Blocks or if it Hits a Block. \\n\\nIf it Hits a Mob it will Deal Damage and set them on Fire."]
 	quest.3991EEEFDD263A91.quest_desc: [
 		"Nightfall Spiders, like Lonestar Skeletons, are Hostile and spawn anywhere. \\n\\nThey have 5 Hearts and attack by hitting you. After hitting you they will give you the Glowing effect for a few seconds. \\n\\nOn death they will drop String and their eyes!"
 		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
 	]
 	quest.3991EEEFDD263A91.title: "Nightfall Spiders"
+	quest.3AFEE53B4276F8CA.quest_desc: ["Finally, a Tool! \\n\\nThe Underminer is a Pickaxe. Its gimmick is that the lower your Y Level, the faster it Mines. \\n\\nHow does it know how low it is though?"]
 	quest.3C74DAE7EC844A98.quest_desc: ["The Lunar Berries are an excellent Food Source, plus very easy to get! \\n\\nThey spawn growing down from Lunar Tree Leaves, you can pluck the Berries off the Vines like Glow Berries. \\nJust these give much more Food Points and Saturation!"]
 	quest.3CAD0701EC16C2D8.quest_desc: [
 		"Dark Swamps litter the world of the Starlight. \\n\\nHere you can find plenty of plants, animals, and of course Mud."
@@ -126,13 +145,18 @@
 	quest.41C70F0873E14307.quest_desc: ["There is Trees in the Desert! \\n\\nNo, wait, there was Trees..."]
 	quest.429785E8F64929CE.quest_desc: ["In order to get to the Starlight Dimension you'll need to find Portal Ruins in the Overworld. \\n\\nThere you will find a Gatekeeper, Right Click to initiate a conversation and challenge them to a duel! Careful, they are very tough. \\n\\nOnce you win the duel you'll be gifted a few Items, the Orb of Prophecy being one. Right Click the Portal with the Orb to activate it! Then, walk in to get to the..."]
 	quest.429785E8F64929CE.title: "The Gatekeeper and The Gate"
+	quest.45D73CA0A7BE4666.quest_desc: [
+		"The Lush Shallow Sea lives up to its name, it has a lot of Plant life and isn't that deep! \\n\\nIt's only around 20 Blocks deep."
+		"{image:atm:textures/questpics/eternal/starlight_shallow.png width:200 height:100 align:center}"
+	]
+	quest.45D73CA0A7BE4666.title: "Lush Shallow Sea"
 	quest.47CB136D7764B86D.quest_desc: ["Torreya Vines are found hanging from Torreya Trees. \\n\\nThey are hanging because they can't be placed any other way... \\n\\nThe bulb at the bottom of them will emit Light!"]
 	quest.484ABFF266C8791E.quest_desc: ["Orbflora are plants that grow from the Sea floor. \\n\\nThey can be harvested anytime but if you want the Orbflora Lights you'll need to wait! \\n\\nWhen they grow to the Sea Level they will flower. After flowering they will grow the Light!"]
 	quest.49D1EA8E812A12F6.quest_desc: ["It's just a neat plant. \\n\\nYou'll need a Swamp Silver Sickle to collect it! \\n\\nI don't know why I've never cared about plants but Reeds are cool to me. Maybe it's the being by Water, or Cattails looking like Corndogs. I don't know but I like them."]
 	quest.49DC0BD7DC1B893C.quest_desc: ["The Abyss are deep trenches within Starlit Seas. These going as far down as -50! \\n\\nThey have multiple colored layers of Stone lining them and hold many different Blocks, Mosses, and Fish!"]
 	quest.49DC0BD7DC1B893C.title: "The Abyss"
 	quest.4A54288FD22C903D.quest_desc: ["Velvetumoss spawns within The Abyss. \\n\\nYou can mine green ones to get Velvetumoss Balls which can either be eaten or made into a Slimeball! \\n\\nThe Red ones will spawn pretty plants!"]
-	quest.4A5EA948F5DCEB73.quest_desc: ["Swamp Silver can be rarely found within the Nightfall Mud. \\n\\nIt can be used to craft Armor and Tools!"]
+	quest.4A5EA948F5DCEB73.quest_desc: ["Deepsilver used to be called Swamp Silver and only Spawned in Dark Swamps. \\n\\nNow it is found everywhere underground... that is probably why they changed the name!"]
 	quest.4C23D7E3DC8327C2.quest_desc: ["In order to kill the Lunar Monstrosity you'll need to set it on Fire! \\n\\nYou can use Flint and Steel or a Saltpeter Matchbox. \\n\\nPersonally I think the Matchbox is more fitting!"]
 	quest.4C23D7E3DC8327C2.title: "Burn it!"
 	quest.4D0B50731FED3CEE.quest_desc: ["To get the Cresant Spear you will need to either craft it from Items dropped by the Lunar Monstrosity and the Tangled Hatred, or have it dropped from the Lunar Monstrosity. (You'll have to kill him regardless basically). \\n\\nYou can use the Spear like a Trident and just smack Mobs or you can hold Right Click to be sent flying forward with it. If you hit any Mobs with the second attack, any Mobs nearby will also take damage."]
@@ -151,20 +175,34 @@
 	]
 	quest.50674FE3C6BE9990.title: "Dense Starlight Forest"
 	quest.516AC1F0E0BCAE55.quest_desc: ["Frozen Tubes are dropped from Freezes in the Golem Forge. \\n\\nThey can be thrown like Potions to hurt whoever it hits."]
+	quest.51B1AF28328FFBAD.quest_desc: [
+		"The Spiral Kelp Forest is a very disappointing Biome for Wood enthusiasts. \\n\\nThis Biomes not a Forest, it is an Ocean! And not even the Ocean Biome with a Tree, that would be the Lush Shallow Sea. \\n\\nI'm sorry."
+		"{image:atm:textures/questpics/eternal/starlight_spiral.png width:200 height:100 align:center}"
+	]
+	quest.51B1AF28328FFBAD.title: "Spiral Kelp Forest"
+	quest.51B6D203E28D92BE.quest_desc: ["Hate waiting for Meteor Showers? Why not start one yourself! \\n\\nThe Aethersent Rocket will act like a normal Firework. Flies into the air, gives a pretty show, just this one also summons a Meteor Shower. \\n\\nYep, it will start a Meteor Shower where it was fired from. \\n\\nIt does have a Cooldown though."]
 	quest.5244B2D6B5FA0487.quest_desc: [
 		"Crystallized Desert looks like a normal Desert but shaded Purple. \\n\\nAlso with added giant crystals, I don't think normal Deserts have that..."
 		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
 	]
 	quest.5244B2D6B5FA0487.title: "Crystallized Desert"
+	quest.5282190D0C0C2AA9.quest_desc: ["Starlit Diamonds Spawn far Underground everywhere in the Starlight. \\n\\nAround Voidstone is where you'll find it. \\nJudging by the Diamond in the name, yeah it is very good for Tools and Weapons."]
+	quest.53149C516E544FE9.quest_desc: ["Creteor and Mini Creteors can come from Meteor Showers. \\n\\nCreteors are Neutral, you'll need to Hit them first. They have 8 Hearts. \\n\\nWhen Hit they will roll at you and start flashing. They will Hit you for a little bit of Damage, but they will also explode! The explosion takes awhile to happen so you get time to run but when they do they will Spawn... \\n\\nMini Creteors! These guys are much less friendly then their bigger counterparts. \\n\\nCreteors will fly at you and explode. These guys only have 2 and a half Hearts. \\n\\nWhen Killed (not by exploding) both will Drop Aethersent and Creteor Hide."]
+	quest.53149C516E544FE9.quest_subtitle: "Mobs from out of space? Aliens?"
+	quest.53149C516E544FE9.title: "Creteors"
 	quest.5424A0E1292B13EE.quest_desc: ["Around the Starlight you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find Thermal Springstone."]
 	quest.5466CB622A637DCD.quest_desc: ["Abyssal Fruit technically can spawn in any body of water but its the only one that lives within the Shimmer Rivers. \\n\\nIt grows like Kelp from the floor up, but also works like Glowberries as in Fruit grows and can be collected from it."]
 	quest.54DE8AAAE2181F18.quest_desc: ["The Moonring Greatsword needs to be crafted from drops by both Bosses! Obviously making it the hardest to get and the most powerful! \\n\\nIt works like a normal Sword, just before 1.9. It can block attacks like a shield, but it can't be spammed for full damage."]
+	quest.59613CCE59689263.quest_desc: ["Rookfish are cute Chess-piece-shaped Squids who Swim around in the Starlight. \\nThey have 5 Hearts and will Drop themselves and their Airsacs on death."]
+	quest.59613CCE59689263.title: "Rookfish"
+	quest.5C11E99FF201C3F9.quest_desc: ["The Golem Steel Greatsword is a very fun Weapon. \\n\\nFirst, it can Block. Just Right Click to Block. \\n\\nSecond, LIGHTNING BALLS! Whenever you Left Click 3 Lightning Balls will be sent out of the Sword. Lightning will connect between all 3 and will Damage anything they touch. They also bounce off Blocks. \\n\\nPlus, it's just a great Sword regardless!"]
 	quest.5DFE3CB5B0130A7A.quest_desc: ["There's plenty of plant life on top of the Shimmer River, some you can stand on!"]
 	quest.60FDCA2FDFE74056.quest_desc: [
 		"IT'S PINK! \\n\\nHere you will find Scarlet Trees with their dropped leaves piled below them. You can also find Glowing Mushrooms here!"
 		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
 	]
 	quest.60FDCA2FDFE74056.title: "Scarlet Forest"
+	quest.62B44B688D09C939.quest_desc: ["Flowgaze! \\n\\nBy Rightclicking with Starfire in hand it will throw it. This can Effect Mobs with Starfire, or if it Hits Sand it will change the Sand into Raw Flowgaze. \\n\\nJust Smelt the Flowgaze and we can use that with the Upgrade Template to make Weapons and Tools."]
 	quest.62F33BBE7BDFE404.quest_desc: ["Wand of Teleportation is another drop from the Lunar Monstrosity, and only that! \\n\\nYou can hold Right Click with the Wand to start it, then when you release it will teleport you to the Block you were looking at last! \\n\\nThere is a range but it's pretty far. And there is a cooldown after use!"]
 	quest.6314B892B569A0A5.quest_desc: ["The Starlight! \\n\\nA Dimension where it is constantly Dusk, and no you can't change that. \\n\\nThere is dozens of Biomes, Mobs, Bosses, and even just Blocks to find! Can you discover them all?"]
 	quest.6314B892B569A0A5.title: "Eternal Starlight"
@@ -183,11 +221,14 @@
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
 	]
 	quest.68B2D3B985FC1378.title: "Torreya Forest"
+	quest.699C6DDE6B2D51C1.quest_desc: ["Jinglestem Trees grow underwater... I wonder if there's any Trees like that in real life? \\n\\nThey have Algaeleaves, instead of normal Leaves."]
 	quest.6B00D5DBB3552F15.quest_desc: [
 		"Tangled are enemies that spawn within the Cursed Garden. \\n\\nThey have 10 Hearts and will attack by smacking you. If you get hit, you'll get a small amount of poison. \\n\\nOn death they will drop Vines and Bones but also will spawn a Tangled Skull! \\n\\nTangled Skulls act similar to Vexes, they will fly around through blocks and hit you. They only have 5 Hearts and on death will give you them as an Item."
 		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
 	]
 	quest.6B00D5DBB3552F15.title: "Tangled"
+	quest.6DCC11671A2BAA1C.quest_desc: ["Rarely in the Forests of the Starlight you can come across Birds. \\n\\nIf you Feed 2 Birds some Seeds near a Nest, they'll change from Birds to love birds. \\n\\nNot really, but they'll both cuddle in their Nest. After that they will leave you a gift. Sometimes that gift will be..."]
+	quest.6DCC11671A2BAA1C.title: "The birds and the... birds?"
 	quest.6E970CF05B96EB20.quest_desc: ["In order to damage the Golem you'll need to turn off his power supply! \\n\\nTo do so you'll need to Right Click the Energy Blocks when they turn blue. \\n\\nYou can usually find 2 in the corners of the boss room and 2 above him!"]
 	quest.6E970CF05B96EB20.title: "Powering down"
 	quest.6EC289857CDC4969.quest_desc: [
@@ -199,17 +240,18 @@
 	quest.713548E540B18E07.quest_desc: ["The Moonring Bow can only drop from the Lunar Monstrosity. \\n\\nIt shoots Arrows like a normal Bow but Ground Spikes will come the same direction the Arrow went!"]
 	quest.713EF442D59501BA.quest_desc: ["The Chain of Souls can only be crafted from drops by the Tangled Hatred and Lunar Monstrosity. \\n\\nIt's a grappling hook! Tap Right Click to send it and once it hits something it will start reeling you in. Then, you have to Right Click again to detach it. \\n\\nAlso needed for the ATM Star!"]
 	quest.71C58666D4BC2508.quest_desc: ["Works like Flint and Steel!"]
+	quest.76BFC5815FC6565C.quest_desc: ["Rarely above ground in the Starlight a Meteor Shower may occur. \\n\\nWhile chunks of Meteors striking the ground just feet away from you in real life it is terrifying but in Minecraft it is helpful! \\n\\nWhen these happen a Material called Aethersent will Spawn on the ground where Meteors hit. As well as some Mobs might Spawn from those same Meteors!"]
+	quest.76BFC5815FC6565C.title: "Meteor Shower"
 	quest.770C0975CA61CE46.quest_desc: ["Glacite can be found deep underground in the Permafrost Forests. \\n\\nIt can be used to craft Armor and Tools which help against Freezing damage!"]
 	quest.7A16D2EB63359294.quest_desc: [
 		"Aurora Deers are friendly hooved animals who also live in the cold. \\n\\nThese Deers won't try to harm you but if you get in their way when you run you might feel some Antlers. \\n\\nAntlers which can also be dropped by them on death which can be used as either a weapon or a hoe! \\n\\nThey might also drop Leather or Aurora Deer Steak."
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
 	quest.7A16D2EB63359294.title: "Aurora Deer"
-	quest.7AB2FECE47F558F8.quest_desc: ["Stellagmite can be found underground in the Starlight. \\n\\nIt works as a normal Stone being able to be made into other Blocks. \\n\\nIts Molten version works as a normal Magma Block!"]
-	quest.7B5D34650BBD97D9.quest_desc: ["Very rarely in the Starlight Dimension a Meteor Shower might occur. \\n\\nMost times the Meteors are tiny and disappear before hitting the ground. \\n\\nBut some are bigger and survive, there you will find Aethersent Ore!"]
+	quest.7B5D34650BBD97D9.quest_desc: ["Aethersent is Dropped from Creteors and from Meteor Showers. \\n\\nMost Meteor Showers Drop a ton of them so don't worry!"]
 	quest.7D7BD1458CF12021.quest_desc: ["It is a Desert of course there's Cacti! \\n\\nThe Cacti when fully grown can grow Fruit on top of them!"]
 	quest.7E90138B0A2C3210.quest_desc: ["The Northland Trees are big sturdy Trees up in the Permafrost Forests. \\n\\nThey look like Spruce but much lighter! Maybe they're an albino Spruce. \\n\\nTheir saplings need to be placed on Dirt, not Grass, and in a 2x2 formation."]
-	quest.7FBB431AC055FE93.quest_desc: ["The Soulit Spectator is crafted with a Trapped Soul and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
+	quest.7FBB431AC055FE93.quest_desc: ["The Soulit Spectator is crafted with a Soul Dew and a Nightfal Spider Eye. \\n\\nIt works similar to a Sticky Camera from Tom Clancy's Splinter Cell. You can Right Click to send the Spectator and after a bit you will be able to see out of it. You can even see yourself with it! \\n\\nIt can't be ended early so careful when you use it. It also has durability and a cooldown."]
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the Dark Swamps. \\n\\nYou can make more Blocks out of it!"]
 	task.0AD8AC7ECCD8002A.title: "AllRightsReserved"
 	task.2510A7EE5D886B63.title: "AllRightsReserved"
