@@ -1,8 +1,8 @@
 {
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r é sobre usar o Arcano para fazer rituais com a Forja para se tornar mais forte!\\n\\nOu o que a maioria conhece, Eternal Stella. Há mais no Mod, você sabe!"]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
-	quest.03564837ECB5CC79.quest_desc: ["Outro Ritual, claro, este sendo o &2Encantamento de Ihagan&r. (A propósito, para sacrificar um Cavalo, você precisa dele por perto enquanto faz o ritual)\\n\\nUma vez feito, você receberá um Ovo de Invocação para um &2Familiar Dragão&r. Estes podem ser usados na criação para obter a &6&lEstrela ATM&r, ou você pode invocar o &2Familiar&r.\\n\\nEste irá segui-lo e pode ser acariciado usando Shift + Clique Direito nele."]
-	quest.03564837ECB5CC79.title: "Ovo de Invocação de &2Familiar Dragão&r"
+	quest.03564837ECB5CC79.quest_desc: ["Outro Ritual, claro, este sendo o &2Encantamento de Ihagan&r. (A propósito, para sacrificar um Cavalo, você precisa dele por perto enquanto faz o ritual)\\n\\nUma vez feito, você receberá um Ovo Gerador para um &2Familiar Dragão&r. Estes podem ser usados na criação para obter a &6&lEstrela ATM&r, ou você pode invocar o &2Familiar&r.\\n\\nEste irá segui-lo e pode ser acariciado usando Shift + Clique Direito nele."]
+	quest.03564837ECB5CC79.title: "Ovo Gerador de &2Familiar Dragão&r"
 	quest.038812A14456236C.quest_desc: ["Combinando alguns Processadores, uma Célula de Energia e qualquer Cabo Denso, obtemos o Anel Quântico ME.\\n\\nNormalmente, nós o usaríamos para conectar nosso sistema ME através de Dimensões, mas nós só nos importamos com a &6&lEstrela ATM&r!"]
 	quest.0573B6F1BE5110FD.quest_desc: ["As Abelhas do &2&lMinecraft&r são adoráveis, mas as coisas limitadas que o Mel nos dá não justificam o trabalho para obtê-lo.\\n\\nBem, a menos que você possa obter quase tudo das Abelhas, então seria diferente!"]
 	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
@@ -35,7 +35,7 @@
 	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oO desconhecido que, no entanto, é tudo o que conhecemos."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
-	quest.1EB04FE105ACA4BE.quest_desc: ["Quando um &9Warden&r morre, ele tem a chance de dropar um &9Coração das Profundezas&r. \\n\\nIsso pode ser usado para a &6&lEstrela ATM&r, ou para ativar o Portal na Cidade Ancestral! \\n\\nNão pode haver nada no Portal para ativá-lo, isso inclui &9Sculk&r!"]
+	quest.1EB04FE105ACA4BE.quest_desc: ["Quando um &9Defensor&r morre, ele tem a chance de dropar um &9Coração das Profundezas&r. \\n\\nIsso pode ser usado para a &6&lEstrela ATM&r, ou para ativar o Portal na Cidade Ancestral! \\n\\nNão pode haver nada no Portal para ativá-lo, isso inclui &9Sculk&r!"]
 	quest.1EB04FE105ACA4BE.title: "&9Coração das Profundezas"
 	quest.1FCC474860587169.quest_desc: ["Para obter receitas posteriores, você provavelmente precisará de um &6Prisma de Fundição&r e não se preocupe, só precisamos de uma Forja de Nível 1 para obtê-lo! \\n\\nVocê pode verificar a quantidade de cada atributo na Forja que você precisa no JEI! Além disso, você precisará de 4 &6Pó de Blaze&r, 2 &8Carvões&r e um &bCristal Arcano&r. \\n\\nPor último, você precisará de &9Elementarium&r, que pode ser encontrado em Templos da Selva, Pirâmides do Deserto e Ruínas Subaquáticas!"]
 	quest.1FCC474860587169.title: "&6Prisma de Fundição"
@@ -146,7 +146,7 @@
 	quest.5791F3000D18E2C9.quest_desc: ["O &8Wither&r tem a tendência de quebrar e explodir Blocos. \\n\\nA maioria dos jogadores não gosta disso, então os &8Tijolos à Prova de Wither&r são exatamente o que você está procurando! \\n\\nEles são como os &8Blocos à Prova de Wither&r, mas com um design melhor!"]
 	quest.5791F3000D18E2C9.title: "&8Tijolos à Prova de Wither"
 	quest.57F107892FFA1F52.quest_desc: ["Para cultivar Sementes de Estrela do Nether, você precisará de um Crux abaixo da Farmland. Sim, o cultivo de Estrelas do Nether precisava ser mais caro! \\n\\nPara fazer o Crux da Estrela do Nether, você precisará de &7Almas Languinhentas&r, que têm 1/3 de chance de drop de &8Withers&r."]
-	quest.5869E198DA416346.quest_desc: ["O Fim de Jogo do &5&lMekanism&r é simplesmente insano. Para 1 &5Pellet de Antimatéria&r, você precisa cristalizar 1.000mb de &5Antimatéria&r. \\n\\nPara 1mb de &5Antimatéria&r, você precisa energizar 1.000mb de &3Polônio&r através do AFS. \\n\\nPara obter 1mb de &3Polônio&r, você precisará ativar os Nêutrons de 5mb de &2Lixo Nuclear&r. \\n\\nE &2Lixo Nuclear&r você obtém processando &9Combustível Fóssil&r através de um Reator de Fissão!"]
+	quest.5869E198DA416346.quest_desc: ["O fim de jogo do &5&lMekanism&r é simplesmente insano. Para 1 &5Pellet de Antimatéria&r, você precisa cristalizar 1.000mb de &5Antimatéria&r. \\n\\nPara 1mb de &5Antimatéria&r, você precisa energizar 1.000mb de &3Polônio&r através do AFS. \\n\\nPara obter 1mb de &3Polônio&r, você precisará ativar os Nêutrons de 5mb de &2Lixo Nuclear&r. \\n\\nE &2Lixo Nuclear&r você obtém processando &9Combustível Fóssil&r através de um Reator de Fissão!"]
 	quest.5869E198DA416346.title: "2 &5Pastilhas de Antimatéria"
 	quest.59EC02C1FBCF14EA.quest_desc: ["Você pode atualizar seu &5Gerador de Obsidiana&r para um &3Gerador do End&r. \\n\\nEntão, ele pode usar &3Pérolas do End&r ou &3Olhos do End&r para gerar Energia! \\n\\nOu fazer a &6&lEstrela&r, sua escolha."]
 	quest.59EC02C1FBCF14EA.title: "&3Gerador do End"

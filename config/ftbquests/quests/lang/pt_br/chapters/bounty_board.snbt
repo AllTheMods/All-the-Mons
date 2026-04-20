@@ -1,11 +1,11 @@
 {
 	quest.08B60D8A25008CCC.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
-	quest.08D1CC753F6B4283.quest_desc: ["O Guardião Ancião era considerado um terceiro Chefe para o Minecraft antes do Warden, mas eu o considero um Minichefe.\\n\\nOs Guardiões Anciões aparecem em Monumentos Oceânicos. Três deles aparecem lá e infligirão Fadiga de Mineração em qualquer um por perto.\\n\\nSe você quer os tesouros do Monumento Oceânico, precisará encontrá-los e matá-los! (Dica: sempre encontrei 1 na Sala do topo, 1 no extremo esquerdo e 1 no extremo direito!)\\n\\nEles têm 80 Corações e atacam como Guardiões normais, Lasers e Espinhos!\\n\\nAo morrer, eles droparão: Esponjas, Prismarinho e o almoço deles..."]
+	quest.08D1CC753F6B4283.quest_desc: ["O Guardião Ancião era considerado um terceiro Chefe para o Minecraft antes do Defensor, mas eu o considero um Minichefe.\\n\\nOs Guardiões Anciões aparecem em Monumentos Oceânicos. Três deles aparecem lá e infligirão Fadiga de Mineração em qualquer um por perto.\\n\\nSe você quer os tesouros do Monumento Oceânico, precisará encontrá-los e matá-los! (Dica: sempre encontrei 1 na Sala do topo, 1 no extremo esquerdo e 1 no extremo direito!)\\n\\nEles têm 80 Corações e atacam como Guardiões normais, Lasers e Espinhos!\\n\\nAo morrer, eles droparão: Esponjas, Prismarinho e o almoço deles..."]
 	quest.08D1CC753F6B4283.title: "&fMate um &7Guardião Ancião"
 	quest.09C82CDDA800D8C9.quest_desc: ["O Wither é o segundo Chefe do Minecraft, sendo este mais eletivo.\\n\\nVocê terá que construir o Wither para invocá-lo. Usar 4 Areias das Almas em forma de T e colocar 3 Crânios de Esqueleto Wither no topo irá invocá-lo!\\n\\nEle tem 300 Corações e voará por aí atirando Crânios de Wither em Jogadores ou Mobs.\\n\\nQuando chegar à metade da vida, ele ganhará um escudo contra Projéteis e precisará ser morto com uma Espada ou Machado.\\n\\nQuando você o matar, ele dropará: Estrela do Nether, chance de uma Alma Wither e um monte de Itens Corail."]
 	quest.09C82CDDA800D8C9.title: "&fMate o &8Wither"
-	quest.0E20A9B79D1C6637.quest_desc: ["O Warden é um chefe adicionado na 1.20.\\n\\nEle aparece quando 3 Sculk Shriekers que surgem naturalmente são ativados em sequência, ou quando qualquer Shrieker é ativado após a aparição do primeiro Warden.\\n\\nEle é o Mob mais poderoso adicionado pelo Minecraft, com 500 Corações e mais de 20 Corações de dano com seus ataques.\\n\\nSeus ataques incluem te atingir e Explosões Sônicas para os mais distantes.\\n\\nSua única fraqueza é ser cego, mas como o Demolidor, isso apenas tornou seus outros sentidos muito mais fortes! Se você estiver perto, ele pode te cheirar e cuidado ao fazer barulho!\\n\\nSe de alguma forma você matá-lo, ele dropará: Catalisadores de Sculk, Carapaça de Warden e Coração das Profundezas."]
-	quest.0E20A9B79D1C6637.title: "&fMate o &3Warden"
+	quest.0E20A9B79D1C6637.quest_desc: ["O Defensor é um chefe adicionado na 1.20.\\n\\nEle aparece quando 3 Sculk Shriekers que surgem naturalmente são ativados em sequência, ou quando qualquer Shrieker é ativado após a aparição do primeiro Defensor.\\n\\nEle é o Mob mais poderoso adicionado pelo Minecraft, com 500 Corações e mais de 20 Corações de dano com seus ataques.\\n\\nSeus ataques incluem te atingir e Explosões Sônicas para os mais distantes.\\n\\nSua única fraqueza é ser cego, mas como o Demolidor, isso apenas tornou seus outros sentidos muito mais fortes! Se você estiver perto, ele pode te cheirar e cuidado ao fazer barulho!\\n\\nSe de alguma forma você matá-lo, ele dropará: Catalisadores de Sculk, Carapaça de Defensor e Coração das Profundezas."]
+	quest.0E20A9B79D1C6637.title: "&fMate o &3Defensor"
 	quest.0F55D0B4D5094EDB.quest_desc: ["Enquanto fazia muitas das &elinhas de missões&r para o &eATM7&r, o &9Aldeão Comerciante&r achou que seria engraçado me empurrar constantemente na tela de missões.\\n\\n\"Acabe com eles. Todos eles.\"\\n\\n- AlfredGG\\n\\n\"Eu concordo com isso!\"\\n\\n- Toshiba"]
 	quest.0F55D0B4D5094EDB.quest_subtitle: "\"Isso é Pessoal\" - AlfredGG"
 	quest.0F55D0B4D5094EDB.title: "&fMate o &9Aldeão Comerciante&f e Suas&9 Lhamas&f Irritantes"
@@ -49,8 +49,8 @@
 	task.1809F1F9A3043683.title: "Matar 1 Dragão do End"
 	task.1D136D138EF82DA9.title: "Matar 2 Lhamas de Vendedor"
 	task.2F28B803C75DA3B2.title: "Mate 1 Guardião Ancião"
-	task.452B65E139D9E12D.title: "Mate 1 Wilden Chimera"
+	task.452B65E139D9E12D.title: "Mate 1 Wilden Quimera"
 	task.596ABB45C0612AAF.title: "Mate 1 Wandering Trader"
 	task.65E53C9C5AE98B69.title: "TodosOsDireitosReservados"
-	task.69678CAC075C8EA5.title: "Mate 1 Warden"
+	task.69678CAC075C8EA5.title: "Mate 1 Defensor"
 }

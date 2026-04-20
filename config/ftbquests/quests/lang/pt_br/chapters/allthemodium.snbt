@@ -103,7 +103,7 @@
 	quest.6E0624750DF8CD18.quest_desc: ["Não é mais possível criá-las, agora você precisa sempre aprimorar a &cNetherita&r para elas. \\nSim, isso salva Encantamentos e as repara!"]
 	quest.6E0624750DF8CD18.title: "Ferramentas de &6Allthemodium"
 	quest.6ECDD26CCCBC07C3.quest_desc: [
-		"Melhora direta da &cArmadura de Netherita&r, por isso manterá os &5Encantamentos&r. \\n\\nO conjunto completo de &6AllTheModium&r tem 24 Pontos de Armadura, 20 de Resistência de Armadura e 50% de Resistência a Repulsão. \\n\\nVocê acha que é só isso que eles dão? \\n\\n&6Elmos&r: &9Respiração Aquática&r, Imunidade ao &0Efeito de Escuridão&r do &3&lWarden&r e nenhum Dano de &7Élitro&r. \\n&6Peitoral&r: 50% de &dResistência a Dano Mágico&r e &cResistência ao Fogo&r. \\n&6Calças&r: &9Passos Profundos&r e Imunidade ao &0Wither&r. \\n&6Botas&r: Resistem a dano de queda, permitem que você ande sobre &bNeve Fofa&r e &cLava&r."
+		"Melhora direta da &cArmadura de Netherita&r, por isso manterá os &5Encantamentos&r. \\n\\nO conjunto completo de &6AllTheModium&r tem 24 Pontos de Armadura, 20 de Resistência de Armadura e 50% de Resistência a Repulsão. \\n\\nVocê acha que é só isso que eles dão? \\n\\n&6Elmos&r: &9Respiração Aquática&r, Imunidade ao &0Efeito de Escuridão&r do &3&lDefensor&r e nenhum Dano de &7Élitro&r. \\n&6Peitoral&r: 50% de &dResistência a Dano Mágico&r e &cResistência ao Fogo&r. \\n&6Calças&r: &9Passos Profundos&r e Imunidade ao &0Wither&r. \\n&6Botas&r: Resistem a dano de queda, permitem que você ande sobre &bNeve Fofa&r e &cLava&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_all.png width:100 height:175 align:center}"
 	]
 	quest.6ECDD26CCCBC07C3.title: "Armadura de &6Allthemodium"
