@@ -425,7 +425,7 @@ SummoningRituals.start(event => {
       let levelBlock = event.altar.level.getBlock(event.altar.blockPos.offset(offset))
       if (levelBlock.getBlock().id == "cobblemon:display_case") {
         let be = levelBlock.getEntity()
-        if (!be.hasAnyMatching(stack => stack.hasTag("mega_showdown:mega_stone"))) {
+        if (!be.hasAnyMatching(stack => stack.hasTag("mega_showdown:mega_stone") || stack.hasTag("zamega:mega_stone"))) {
           firstPass = false
         }
         containers.add(be)
