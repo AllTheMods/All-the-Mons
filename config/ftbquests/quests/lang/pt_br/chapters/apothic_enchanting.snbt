@@ -57,10 +57,10 @@
 	quest.45161821C221EF0B.title: "&4Estantes Infernais Infundidas"
 	quest.4E895C54651A3CB3.quest_desc: ["&8Tomos&r são &7Livros&r... apenas &7Livros&r mais úteis! \\n\\nCada &8Tomo&r é Fabricado com &7Livros&r, Varetas, &cVaras de Blaze &fe &cPó de Blaze&r. \\n\\n&8Tomos&r podem ser &5Encantados&r, como Itens, para obter certos &5Encantamentos&r. \\n\\nHá também os &8Tomos da Desmontagem&r que podem ser usados em Bigornas para tirar &5Encantamentos&r de Itens."]
 	quest.4E895C54651A3CB3.title: "&8&lTomos"
-	quest.516E66BE01EE5B31.quest_desc: ["&8Tomos de Armamento&r darão &5Encantamentos&r para Espadas e Machados. \\n\\nPrincipalmente aqueles que ajudam a Matar coisas! Como &5Afiação &fe &5Aspecto Flamejante&r. \\n&8Tomos de Arquearia&r darão &5Encantamentos&r para Armas de longo alcance, o Arco e a Besta. \\n\\n&5Perfuração&f, &5Força&f, e &5Repulsão&r!"]
+	quest.516E66BE01EE5B31.quest_desc: ["&8Tomos de Armamento&r darão &5Encantamentos&r para Espadas e Machados. \\n\\nPrincipalmente aqueles que ajudam a Matar coisas! Como &5Afiação &fe &5Aspecto de Fogo&r. \\n&8Tomos de Arquearia&r darão &5Encantamentos&r para Armas de longo alcance, o Arco e a Besta. \\n\\n&5Perfuração&f, &5Força&f, e &5Repulsão&r!"]
 	quest.516E66BE01EE5B31.title: "&8Tomos de Armas"
-	quest.51E554305FFEBA1D.quest_desc: ["&4Estantes Infernais Flamejantes&r dão um pouco de &cQuanta&r e &aEterna&r, mas não são a opção barata que estamos procurando para nossas &d&lInfusões&r!"]
-	quest.51E554305FFEBA1D.title: "&4Estante Infernal Flamejante"
+	quest.51E554305FFEBA1D.quest_desc: ["&4Estantes Infernais Blazing&r dão um pouco de &cQuanta&r e &aEterna&r, mas não são a opção barata que estamos procurando para nossas &d&lInfusões&r!"]
+	quest.51E554305FFEBA1D.title: "&4Estante Infernal Blazing"
 	quest.523DC411241B470A.quest_desc: [
 		"Todos os &5Encantamentos&r da &5Mesa de Encantamentos&r são determinados pelos Níveis de &aEterna&r, &cQuanta&r e &5Arcana&r. \n\nPodemos ver o conjunto de &5Encantamentos&r disponíveis clicando no ? no Canto Superior Direito da GUI da &5Mesa de Encantamentos&r quando um Item está sendo &5Encantado&r. \n\nQuanto maior o &cQuanta&r, maior a chance de aparecer um &5Encantamento&r mais fraco. \n\nCom a &6Estante de Livros Envolta em Geodo de Estabilidade&r, as chances aumentadas de Encantamentos piores serão eliminadas."
 		"{@pagebreak}"
