@@ -254,6 +254,7 @@ function getPokemonRegion(pokemon, fromRegion) {
 let $RCTMod = Java.loadClass("com.gitlab.srcmc.rctmod.api.RCTMod")
 
 SummoningRituals.start(event => {
+  if (event.player == null) event.cancel()
   let altarBlockState = event.altar.level.getBlockState(event.altar.blockPos)
   let facing
   for (let prop of altarBlockState.getProperties()) {
