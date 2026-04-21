@@ -103,7 +103,7 @@
 	quest.362F4CFD1B8B12B1.quest_desc: ["Todos os seres vivos morrerão em Éter como se fosse Lava. Engraçado que você pode colocá-lo em um Balde, no entanto! \\n\\nA única maneira de obtê-lo é encontrando-o no Rio de Éter. \\n\\nQuando a Água toca o Éter, formará Blocos de Thioquartz!"]
 	quest.36BCCF7395658A5C.quest_desc: ["Os Chefes no Starlight vivem em suas estruturas. Elas não são comuns (felizmente), então você pode precisar de ajuda, também conhecida como os Olhos Rastreadores. \\n\\nOs Olhos Rastreadores funcionam como os Olhos do End, Clique com o Botão Direito com eles para lançá-los e siga-os para chegar às estruturas. \\n\\nPara definir a estrutura, você precisará de um certo Item em sua mão secundária, itens como..."]
 	quest.36BCCF7395658A5C.title: "Encontrando os Chefes"
-	quest.37355F60E45777FE.quest_desc: ["O Orbe da Profecia pode ser criado ou obtido ao vencer o Gatekeeper! \\n\\nSeu uso principal é ativar o Portal, mas haverá mais usos para ele!"]
+	quest.37355F60E45777FE.quest_desc: ["O Orbe da Profecia pode ser criado ou obtido ao vencer o Guardião do Portal! \\n\\nSeu uso principal é ativar o Portal, mas haverá mais usos para ele!"]
 	quest.373CA701008A9584.quest_desc: ["Outro Item híbrido que precisa que tanto a Monstruosidade Lunar quanto o Golem Starlight sejam mortos. \\n\\nA Besta Murcha é como uma Besta normal, só que cada Flecha causará Wither e Lentidão."]
 	quest.375F0A098589CF29.quest_desc: [
 		"Usando seus Olhos Buscadores, você pode ficar confuso por que eles de repente foram para o subsolo. Isso provavelmente ocorre porque a Forja do Golem está nas profundezas do subsolo, como nos níveis Y negativos. \\n\\nHá muitas salas sinuosas, cada uma cheia de Saques, Lava e Congelamentos! A sala que estamos procurando abriga o Golem da Luz Estrelar!"
@@ -143,7 +143,7 @@
 	]
 	quest.4147D247E4D754D0.title: "Gleech"
 	quest.41C70F0873E14307.quest_desc: ["Há Árvores no Deserto! \\n\\nNão, espere, havia Árvores..."]
-	quest.429785E8F64929CE.quest_desc: ["Para chegar à Dimensão Starlight, você precisará encontrar Ruínas do Portal no Mundo Superior. \\n\\nLá você encontrará um Guardião do Portal, clique com o botão direito para iniciar uma conversa e desafiá-lo para um duelo! Cuidado, eles são muito difíceis. \\n\\nAssim que vencer o duelo, você receberá alguns Itens, sendo o Orbe da Profecia um deles. Clique com o botão direito no Portal com o Orbe para ativá-lo! Então, entre para chegar ao..."]
+	quest.429785E8F64929CE.quest_desc: ["Para chegar à Dimensão Starlight, você precisará encontrar Ruínas do Portal no Mundo Superior. \\n\\nLá você encontrará um Guardião do Portal, clique com o botão direito para iniciar uma conversa e desafiá-lo para um duelo! Cuidado, eles são muito difíceis. \\n\\nO Guardião do Portal também o considerará digno se você tiver derrotado o Dragão do Ender e permitirá que você pule o duelo. \\n\\Assim que vencer o duelo, você receberá alguns Itens, sendo o Orbe da Profecia um deles. Clique com o botão direito no Portal com o Orbe para ativá-lo! Então, entre para chegar ao..."]
 	quest.429785E8F64929CE.title: "O Guardião e o Portal"
 	quest.45D73CA0A7BE4666.quest_desc: [
 		"O Mar Raso Exuberante faz jus ao seu nome, tem muita vida vegetal e não é tão profundo! \\n\\nTem apenas cerca de 20 Blocos de profundidade."

@@ -456,7 +456,7 @@
 	quest.5A9B2246E33065A5.quest_desc: ["Afeta a quantidade de favos que você recebe sempre que uma abelha produz favos de mel. Existem 4 níveis disso: &aNormal&r, &9Médio&r, &dAlto&r, &cMuito Alto&r. &cMuito Alto&r é o que estamos procurando.\\n\\nEle é encontrado na Abelha Kamikaz e na BeeBee. A BeeBee está atualmente de férias lá embaixo, no entanto, então a Abelha Kamikaz é nossa única opção.\\n\\nPara obter uma Abelha Kamikaz, você precisa de um Capacete Ninho de Abelha. Seja atacado por criaturas (ou atire em si mesmo com uma flecha) enquanto usa o capacete para ter 30% de chance de uma Abelha Kamikaz emergir. Ela é bem rápida e vai picar o agressor (a menos que seja você), então é melhor pegá-la rapidamente ou usar o Apanhador."]
 	quest.5A9B2246E33065A5.quest_subtitle: "A grande!"
 	quest.5A9B2246E33065A5.title: "&a&lProdutividade"
-	quest.5AE851B8074BC7E6.quest_subtitle: "Luminoso + Mineradora de Chocolate"
+	quest.5AE851B8074BC7E6.quest_desc: ["Você pode jogar um &cOvo Gerador de Abelha Redstone&r, um &5Cristal de Fluix&r e &ePó de Pedra Luminosa&r na Água para criar um Ovo Gerador de Abelha de Cristal Redstone."]
 	quest.5AE851B8074BC7E6.title: "&fAbelha de Cristal Redstone"
 	quest.5CC9CB0911954215.quest_desc: ["Um &fNinho de &aCana&r funcionará em qualquer bioma do Mundo Superior e atrairá uma Abelha Pedreira ou uma Abelha de Junco."]
 	quest.5CC9CB0911954215.quest_subtitle: "Atrai abelhas em qualquer Bioma do Mundo Superior"
