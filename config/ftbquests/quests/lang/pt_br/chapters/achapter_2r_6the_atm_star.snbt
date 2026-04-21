@@ -58,7 +58,7 @@
 	quest.360B150190A5C894.quest_desc: [
 		"Uma coisa que incomoda muitos jogadores de mods é que o &5Encantamento&r não pode ser completamente automatizado! E você não pode escolher quais &5Encantamentos&r você quer, você tem que ter Sorte! \\n\\nBem, não se preocupe, ambos os desejos foram realizados! Com o &5&lEncantador Rúnico&r. \\n\\nPara usá-lo, você não precisará tocar na &5Mesa de Encantamento&r, apenas enviar os Itens, &dFonte&r e &aFluido de XP&r corretos. \\n\\n&aFluido de XP&r precisará ser obtido engarrafando alguma forma de &aXP Líquida&r com a Máquina de Engarrafamento do &8&lImmersive Engineering&r, depois processando-o através da Máquina de Enlatamento do &7&lExtended Industrialization&r. \\n\\nVocê precisará fazer &dHálito de Dragão Infundido&r e &5Livros de Reparo&r para refazer a &6&lEstrela ATM&r!"
 		"{@pagebreak}"
-		"(&bCarpete Azul Claro&r é &bPrateleira Profunda Toca-Almas&r"
+		"(&bCarpete Azul Claro&r é &bEstante das Profundezas Tocada por Almas&r"
 		"&5Carpete Roxo&r é &5Prateleira de Sculk Ecoante&r"
 		"&9Carpete Azul&r é &9Prateleira de Sculk Toca-Almas&r)"
 		"{image:atm:textures/questpics/chap3/creative_enchanter1.png width:125 height:100 align:center}"
