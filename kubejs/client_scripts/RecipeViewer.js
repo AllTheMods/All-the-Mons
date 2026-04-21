@@ -36,7 +36,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove(/mekmm:.*recycl.*/)
   allthemods.remove(/mekmm:.*planting.*/)
   // allthemods.remove('mekmm:cnc_lathe')
-  allthemods.remove(/mekmm:.*lathing.*/)
+  // allthemods.remove(/mekmm:.*lathing.*/)
   allthemods.remove(/mekmm:.*rolling_mill.*/)
 
   allthemods.remove("supplementaries:faucet")
@@ -86,6 +86,9 @@ RecipeViewerEvents.addInformation('item', allthemods => {
   ])
   allthemods.add('justdirethings:portal_fluid_catalyst', [
     '§8Drop a §dPortal Fluid Catalyst§8 into Polymorphic Fluid§8 in t§dThe End§8 to get §5Unstable Portal Fluid'
+  ])
+  allthemods.add('cobblemon:leftovers', [
+    'Can be randomly obtained from eating Apples'
   ])
 })
 

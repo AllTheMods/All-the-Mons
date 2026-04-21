@@ -42,6 +42,7 @@ ServerEvents.recipes(allthemods => {
     prediction_convert('eternal_starlight:raw_aethersent', '#c:gems/diamond')
     prediction_convert('16x eternal_starlight:springstone', 'minecraft:blackstone')
     prediction_convert('8x eternal_starlight:thermal_springstone', 'minecraft:gilded_blackstone')
+	prediction_convert('16x eternal_starlight:pungency_fruit', '#c:foods/onion')
 
     allthemods.shapeless('8x eternal_starlight:red_starlight_crystal_block', [
         'kubejs:starlight_prediction',

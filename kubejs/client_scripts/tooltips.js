@@ -4,13 +4,6 @@
 ItemEvents.modifyTooltips(allthemods => {
 
     //AllTheModium
-    allthemods.add('allthemodium:teleport_pad',[
-        Text.of('Place the pad down in the specified Dimension'),
-        Text.of('Sneak Right Click with both hands empty to teleport'),
-        Text.of('§aOverworld TO Mining Dimension'),
-        Text.of('§cThe Nether TO The Other'),
-        Text.of('§bThe End TO The Beyond')
-    ])
 
     allthemods.add(['allthemodium:allthemodium_ore', 'allthemodium:allthemodium_slate_ore'],[
         Text.of('§7Needs at least Netherite to be mined'),
@@ -59,6 +52,10 @@ ItemEvents.modifyTooltips(allthemods => {
     ])
     allthemods.add('allthemodium:unobtainium_upgrade_smithing_template',[
         Text.of('§dDropped by the Trial Spawner in the Library of the Dungeon within The Other')
+    ])
+	// All The Mons
+	allthemods.add('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]',[
+        Text.of("§6Patrickyu Variant"),
     ])
 
     //Forbidden Arcanus
