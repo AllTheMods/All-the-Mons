@@ -1,8 +1,8 @@
 {
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
-	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a Spawn Egg for a &2Dragon Familiar&r. These can either be used in crafting to get the &6&lATM Star&r, or you can spawn the &2Familiar&r. \\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
-	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r Spawn Egg"
+	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a &2Dragon Familiar&r. You will have to throw a Creature Catcher at it to use it for the &6&lATM Star&r.\\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
+	quest.03564837ECB5CC79.title: "&2Dragon Familiar&r in a Creature Catcher"
 	quest.038812A14456236C.quest_desc: ["By combining some Processors, an Energy Cell, and any Dense Cable we get the ME Quantum Ring. \\n\\nUsually we'd use it to connect our ME system across Dimensions but we only care about the &6&lATM Star&r!"]
 	quest.0573B6F1BE5110FD.quest_desc: ["&2&lMinecraft&r Bees are adorable but the limited things Honey gives us isn't enough to justify the work to get it. \\n\\nWell unless you can get just about anything from the Bees, then that'd be different!"]
 	quest.0573B6F1BE5110FD.title: "&e&lProductive Bees&r"
@@ -13,7 +13,7 @@
 	quest.0848056FDD3F9BDA.title: "&9Singularity"
 	quest.08CE14FFED813992.quest_subtitle: "13 Wet Dark Pink Blocks"
 	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Dry Pink Blocks"
-	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make. \\n\\nIf repetitive Crafting makes you hate &2&lMinecraft&r, then you might want to Craft the &2Blastproof Casing&r! \\n\\nWe'll need either 2 256M Portable Item Cells, 2 &2Blastproof Casings&r, or a mix of both to Craft the &3&lImprobable Probability Device&r."]
+	quest.0923C941A9696122.quest_desc: ["Incase you have to bring 256 Million Items on an Adventure with you! \\n\\nYou'll need a few simple Items like &8MEGA Item Cell Housing&r, &5ME Chest&r, and a &5Dense Energy Cell&r. \\n\\nAnd we'll then need the &d256M MEGA Storage Component&r... this one is much harder to make."]
 	quest.0923C941A9696122.title: "256M Portable Item Cell"
 	quest.09D76E9B8CABC31E.quest_desc: ["For &5&lCreative Essence&r you'll need 4 &5Insanium Essence Blocks&r. Each Block is 9 &5Essence&r now let me do the math... \\n\\nYou'll need 9,216 &aInferium Essence&r to get just one of these Blocks. So you'll need 36,864 &aInferium Essence&r total!"]
 	quest.09D76E9B8CABC31E.title: "4 &5Insanium Blocks"
@@ -55,13 +55,16 @@
 	quest.21AB14A8553896E9.title: "&2&lProductive Trees"
 	quest.23254CE8487D2E68.quest_desc: ["The &8Wither Builder&r is one of the greatest Machines you can get from &lIndustrial Foregoing&r, and because of that it's expensive. \\n\\nFirst you will need the parts that make a &8Wither&r and a drop from the &8Wither&r. \\n\\nThen, you'll need a &6Supreme Machine Frame&r which you need &bEther Gas&r to make. Guess what you need for &bEther Gas&r? That's right! A &8Wither&r! You'll need a Laser Drill working on a &8Wither&r to get it. \\n\\n&8Withers&r like to leave and kill things so a Stasis Chamber would make milking them easier! "]
 	quest.23254CE8487D2E68.title: "&8Wither Builder"
+	quest.233AFC56C01A3EEC.quest_desc: ["Another one we need a &4Mechanical Fusion Anvil&r for. This means you need to defeat 3 bosses.\\n\\nTo get the &4Anvil&r, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &dGauntlet of Guard&r. That is a Drop from the &d&lEnder Guardian&r. No, not an Elder Guardian.\\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &d&lEnder Guardian&r. Defeat it for the &dGauntlet of Guard&r!\\n\\nLast and probably easiest is the &eSandstorm in a Bottle&r.  \\n\\nIn Deserts, you can find a &eCursed Pyramid&r, within you can find the &e&lAncient Remnant&r. It requires the &eNecklace of the Desert&r to be awakened. This one will drop us our &eBottled Sandstorm&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &dGauntlet of Guard&r and &eSandstorm in a Bottle&r to create the &dGauntlet of &eMaelstrom&r."]
+	quest.233AFC56C01A3EEC.title: "&dGauntlet of &eMaelstrom"
 	quest.23AE395433AED3C0.quest_desc: ["The &6&lATM Star&r needs a few Blocks to hold together the different Items, and make its star shape! \\n\\nThe first Blocks are &5Unobtainium&r - &6Allthemodium&r &5Alloy&r &6Blocks&r. You need to use an Enchanting Apparatus from &d&lArs Nouveau&r to make them!"]
 	quest.23AE395433AED3C0.title: "&6&lThe Star's&r Casing"
 	quest.263C9A0FC04472AB.quest_desc: ["This one can either eat &cLava&r like no other, or be used for the &6&lStar&r. \\n\\nThis one's a hard one, I like seeing &cLava&r disappear instead of my stuff disappearing into &cLava&r."]
 	quest.263C9A0FC04472AB.title: "&464x Magmatic Generator"
 	quest.268EA2DEC8840D13.quest_desc: ["When working on &4Computers&r, especially Quantum ones, the Hammers and Pliers on the Crafting Table won't be able to craft us what we need, we'll need a &bCrystal Assembler&r. \\n\\nFor this one we'll need a whole bunch of &9Singularities&r!"]
-	quest.268EA2DEC8840D13.quest_subtitle: ""
 	quest.268EA2DEC8840D13.title: "&4Quantum Computer Multi-Threader"
+	quest.28DB59B20109D0D4.quest_desc: ["&6&lOritech&r is a Tech Mod (go figure!) known for lots of &lMultiblock Machines&r, Dangerous Blocks, and Colorful Titled Blocks! \\n\\nYou'll need a bunch of Machines, many different Alloys and Materials, and lots of time. \\n\\nYou'll need a &6Magnetic Coil&r to start, and good luck!"]
+	quest.28DB59B20109D0D4.title: "&6&lOritech"
 	quest.29D28983E0200A3C.quest_desc: ["&l&dArs Nouveau&r is all about using Glyphs in Spellbooks to be able to cast them as Spells!"]
 	quest.29D28983E0200A3C.title: "&d&lArs Nouveau"
 	quest.2A444F4CCC72545D.quest_desc: ["The easiest Item we'll need for the &6&lATM Star&r from &4&lCataclysm&r is the &5Abyssal Sacrifice&r. \\n\\nThe most basic Items needed is the Blocks of Ingots and Amethyst which are just &2&lVanilla&r Items. \\n\\nThen, you'll need a Nautilus Shell and a Heart of the Sea. These are &2&lVanilla&r Items which are rare to get... unless you kill &5Deeplings&r which can drop them! \\n\\nYou'll also need an Athame which is a weapon used by &5Deepling Warlocks &fand &5Priests&r and dropped by them on death. \\nThe last part gives us a choice, either Crystallized Coral or Coral Chunk. Both are drops from &5Coral Golem&r and &5Coralssus&r."]
@@ -80,8 +83,6 @@
 	quest.2F76D074AEA84A4D.title: "&dEnder Dragon &bData Model"
 	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r is all about upgrading... well your Carts! \\n\\nWhat sort of upgrades? Pretty much everything but the kitchen sink! \\n\\nFrom Drills, to guns, to arcade machines! What more could you want with your Carts?"]
 	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
-	quest.30CC20E33EFA2EDA.quest_desc: ["The &cBlaze Burner&r is actually probably one of the easiest &6&lStar&r Ingrediants! \\n\\nFirst, we'll need an &cEmpty Blaze Burner&r. These are just 4 &7Iron Plates&r and a single &cNetherrack&r. \\n\\nThen, take your &cEmpty Blaze Burner&r and find a &cBlaze&r. You should know where they spawn but incase you don't: &cBlazes&r spawn in Structures in &c&lThe Nether&r. Just Right Click the &cBlaze&r with the &cEmpty Blaze Burner&r to capture it! \\n\\nOnce captured, it can be used to make the &c&lPhilosopher's Fuel&r."]
-	quest.30CC20E33EFA2EDA.title: "&cBlaze Burner"
 	quest.3145B847A15F97F2.quest_desc: ["You can combine the Essences from &2&lMystical Agriculture&r to make... &8Coal&r. \\n\\nObviously it works as an amazing Fuel source but &5Insanium Coal&r seems a little too insane for me. "]
 	quest.3145B847A15F97F2.title: "&5Insanium Coal Block"
 	quest.31B0267C47DB9D98.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -93,6 +94,8 @@
 	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
 	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r is one of the most popular Machine and Technology Mods. Quite frankly I have a hard time summarizing it as it has so much in it! \\n\\nIt has so much we even had to make 2 Quest Pages for it! \\n\\nThe stuff we need for the &6&lATM Star&r is in the Reactors page but you'll need to get through the Mekanism page to get there."]
 	quest.372B5BF416CA83A4.title: "&5&lMekanism"
+	quest.37640F28614CDC51.quest_desc: ["Fossil fuels alone aren't going to cut it for the &c&lPhilosopher's Fuel&r. The vegans will complain about the lack of representation.\\n\\nWith some &2Biomass&r and &6Wood&r, you can make some &cSolid Biofuel&r."]
+	quest.37640F28614CDC51.title: "&cSolid Biofuel"
 	quest.39B4F361EF611927.quest_desc: [""]
 	quest.39B4F361EF611927.quest_subtitle: "&oPower over Death itself."
 	quest.39B4F361EF611927.title: "&l&8Wither's Compass"
@@ -114,11 +117,12 @@
 	quest.4195800B4D7631E2.title: "&6Stable Wormhole"
 	quest.4485C4ABD57874EB.quest_desc: ["&b&lApplied Energistics&r isn't a Storage Mod, it is &lTHE&r Storage Mod. \\n\\nI personally don't know much about the Mod but the Quest page should help you learn it!"]
 	quest.4485C4ABD57874EB.title: "&b&lApplied Energistics"
-	quest.486B5A605D79EA10.quest_desc: [""]
+	quest.486B5A605D79EA10.quest_desc: ["The &cManhattan &aModule&r is a complicated Recipe. It needs &cTNT&r, &dPlutonium Pellets&r, and &5Heisenberg Compensators&r. Okay maybe 2/3 of it is complicated. \\n\\nTo make &dPlutonium Pellets&r, start by Energizing &5Amethyst Shards&r. This will make &5Fluxite&r, which can be used with &aUranium Dust&r in a &l&5Particle Accelerator&r to make &dPlutonium Dust&r. \\n\\n&dPlutonium Dust&r can be Crafted with Plastic Sheets and an Ingot to make our &dPellets&r. \\n\\nThe &5Heisenberg Compensator&r has 2 Recipes we can use. Each will need the &c&lAtomic Forge&r to &cEngrave&r them with &bAdamant Ingots&r. \\n\\n1. Is with &bUnholy Intelligence&r. Which is created by filling a &2Dubious Container&r with &5Strange Matter&r. &5Strange Matter&r is found by putting &cLava&r and an &3Enderic Compound&r through a &d&lFluid Refinery&r with 2 Extra Chambers attached to it. \\n\\n2. Is with the &eSuper AI Chip&r. AI in &2&lMinecraft&r? Yes, and it requires a Recipe Tree of &cEngraving&r, with the &c&lAtomic Forge&r, in order to Craft. Lots of &8Silicon&r for sure."]
 	quest.486B5A605D79EA10.title: "&cManhattan Module"
 	quest.4B12425E74C5E511.quest_desc: ["The &cExplosive Mycelial Generator&r does an amazing job at soaking up Explosions. \\n\\nWe could use that for a &d&lPulsating &8Black Hole&r!"]
 	quest.4B12425E74C5E511.title: "&cExplosive Mycelial Generator"
-	quest.4B7D387CEFF9667E.quest_desc: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC. \\n\\nIf it has been so long that you don't remember how to use &6&lCreate&r, you can use &7&lModern Industrialization&r to Craft the &6&lATM Star&r."]
+	quest.4B7D387CEFF9667E.quest_desc: ["Finally! &6&lCreate&r has been updated and it is definitely worth the wait! \\n\\n&6&lCreate&r is all about rotating and using Rotational Power... well for practically everything! Crafting, crushing, mixing, brewing, ETC."]
+	quest.4B7D387CEFF9667E.quest_subtitle: ""
 	quest.4B7D387CEFF9667E.title: "&6&lCreate"
 	quest.4BD203AD481DDE8F.quest_desc: ["The &4Meat Shredder&r is made from &4Witherite&r, which is a Drop from &4&lThe Harbringer&r. \\n\\nYou'll need to find the &4Ancient Factory&r which lies deep underground in the &2&lOverworld&r. \\n\\nThen you'll find the powered down &4&lHarbringer&r, to power it up we'll need to feed it a Nether Star! \\n\\nThen, after a very difficult and long boss fight, you can Craft the &4Meat Shredder&r!"]
 	quest.4BD203AD481DDE8F.title: "&4Meat Shredder"
@@ -127,9 +131,11 @@
 	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
 	quest.4E82E843737045D9.title: "&d&lDragon Soul"
-	quest.4E8C32CD6057A1AB.quest_desc: ["To make the &c&lPhilosopher's Fuel&r, you need to craft the &cBlaze Burner&r. \\n\\nThis &ccomponent&r is essential for crafting this powerful (or almost) fuel, so there’s no skipping this step! \\n\\nMake sure to gather everything you need to craft your &cBlaze Burner&r before moving forward."]
+	quest.4E8C32CD6057A1AB.quest_desc: ["The &cBlaze Burner&r is actually probably one of the easiest &6&lStar&r Ingredients! \\n\\nFirst, we'll need an &cEmpty Blaze Burner&r. These are just 4 &7Iron Plates&r and a single &cNetherrack&r. \\n\\nThen, take your &cEmpty Blaze Burner&r and find a &cBlaze&r. You should know where they spawn but incase you don't: &cBlazes&r spawn in Structures in &c&lThe Nether&r. Just Right Click the &cBlaze&r with the &cEmpty Blaze Burner&r to capture it! \\n\\nOnce captured, it can be used to make the &c&lPhilosopher's Fuel&r."]
 	quest.4E8C32CD6057A1AB.quest_subtitle: "Ever-burning fuel… or is it? 🔥"
 	quest.4E8C32CD6057A1AB.title: "&cBlaze Burner&f"
+	quest.4E94B723CA20F978.quest_desc: ["This &dBomb&r works similarly to TNT, except it also leaves behind a lingering cloud capable of making your enemies (or yourself) cry.\\n\\n&dPungency Fruit&r can be found in Dark Swamps."]
+	quest.4E94B723CA20F978.title: "&dTear Bomb"
 	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r is a Boss added by &6&lAllthemodium&r which lives in the Ancient Pyramid in &l&bThe Other&r. \\n\\nOn death he'll drop 1 of his Hearts! You'll need 9 of them dead to make a Block of it... \\n\\nThankfully there are ways to farm them!"]
 	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
 	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \\n\\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
@@ -151,18 +157,18 @@
 	quest.5869E198DA416346.title: "2 &5Antimatter Pellets"
 	quest.59EC02C1FBCF14EA.quest_desc: ["You can upgrade your &5Obsidian Generator&r into an &3Ender Generator&r. \\n\\nThen, it can use &3Ender Pearls&r or &3Eyes of Ender&r to make Energy! \\n\\nOr make the &6&lStar&r, your choice."]
 	quest.59EC02C1FBCF14EA.title: "&3Ender Generator"
-	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThe first two you can get as drops from a &5Tangled Hatred&r while the last you'll need to kill a &9Lunar Monstrocity&r. "]
+	quest.5A955C0F53AED3ED.quest_desc: ["The &bChain of Souls&r works similar to a Grappling Hook. \\n\\nYou can Right Click for it to send a &bChain&r which will drag you toward the Block you shot it at. You can Right Click again to release it. Plus it has a Range of 90 Blocks give or take a few. \\n\\nTo make it you'll need a &bTrapped Soul&r, 2 &5Tenacious Vines&r, and a &9Tenacious Petal&r. \\n\\nThese are drops from the &9Lunar Monstrosity&r. "]
 	quest.5A955C0F53AED3ED.title: "&bChain of Souls"
 	quest.5B2FD54E425D5C9D.quest_desc: ["Now this ones hard to get... we'll need to kill 2 Bosses and a Miniboss to get everything for the &dVoid &cForge&r. \\n\\nFirst, we'll need a &4Mechanical Fusion Anvil&r. To get it, visit the &4Ancient Factory&r which lies beneath the &2&lOverworld&r. \\n\\nThen, feed &4&lThe Harbringer&r a Nether Star to power it up and kill it! &4&lThe Harbringer&r will drop &4Witherite&r which can Craft the &4Mechanical Fusion Anvil&r. \\n\\nNext, we'll need the &cInfernal Forge&r. That is a Drop from the &c&lNetherite Monstrosity&r. \\n\\nGo to &c&lThe Nether&r to find the &cSoul Blacksmith&r structure. Then, fight and kill the &c&lNetherite Monstrosity&r to get your &cInfernal Forge&r! \\n\\nLast and probably easiest is the &dVoid Core&r. Thankfully it isn't dropped from a Boss, instead it is a Miniboss! \\n\\nVisit &5&lThe End&r to find a &dRuined Citadel&r, within you'll find the &dEnder Golem&r. This one will drop us our &dVoid Core&r. \\n\\nOnce you have everything, use the &4Mechanical Fusion Anvil&r to combine the &cInfernal Forge&r and &dVoid Core&r to create the &dVoid &cForge&r."]
 	quest.5B2FD54E425D5C9D.title: "&dVoid &cForge"
 	quest.5EC1B868720BF521.quest_desc: ["&8&lImmersive Engineering&r is all about Multiblock Machines, fun Tools, and of course engineering. \\n\\nDon't worry you won't need 4 years of college for this! But a Manual might help you get started."]
 	quest.5EC1B868720BF521.title: "&8&lImmersive Engineering"
 	quest.601C719C8FD513F0.quest_desc: ["3 &cNetherite Ingots&r, 3 Wireless Boosters, and a bunch of &2fancy &eGears&r we can get an Infinity Range Booster! \\n\\nThe most confusing parts are the Gears. We can't make the Ingots directly we need to mix Dusts together then Smelt the result to get the Ingots.\\n\\nThis doesn't work across Dimensions sorry!"]
-	quest.601C719C8FD513F0.quest_subtitle: ""
-	quest.601C719C8FD513F0.title: ""
 	quest.616F9B78B16B42A5.quest_desc: ["The recipe for the &6Tesla Coil&r might seem complicated, especially in a recipe tree, but we can break it down to be simpler!\\n\\nThe &7Aluminum Plates&r are very simple, just needing to use a Hammer on Ingots or the Metal Press Multiblock.\\n\\nThe &8Iron Mechanical Component&r is simple as well, just a few Iron Plates and a &6Copper Ingot&r.\\n\\n&eElectrum Coil Block&r will need a bunch of &eElectrum Ingots&r cut up into Wires. &eElectrum&r is an alloy of &eGold&r and Silver.\\n\\nThe &6Advanced Electronic Component&r is a whole array of using the Engineers Workbench and &9Blueprints&r. It's Duroplast Sheet requires a lot of refining and fermenting with Multiblock Machines!\\n\\nThe last item, the &cHV Accumulator&r needs some simple Items like &8Steel&r, &7Aluminum Plate&r, &cRedstone Acid&r, and &4Treated Wood&r. It also needs a more complicated Item called &8HOP Graphite Ingot&r."]
 	quest.616F9B78B16B42A5.title: "&6Tesla Coil"
 	quest.62B5A84753ADFC35.quest_subtitle: "8 Dry Dark Pink Blocks"
+	quest.646DC356539C293A.quest_desc: ["Through the ritual of &6Sevira's Permanent Confinement&r we can combine a &8Wither Skeleton Skull&r, a &8Wither Rose&r, &8Crushed &0Blackstone&r and &cNetherite Dust&r to get our &8Witherite Dust&r!"]
+	quest.646DC356539C293A.title: "&8Witherite Dust"
 	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
 	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
 	quest.6877F33323910716.quest_desc: ["Tier 4 Pocket Storage has 64 Slots for Items and each hold 1,048,575 Items. That's 67,108,800 Items total. Move over Backpacks you've been replaced! \\n\\nIt only costs a few Nether Stars which in Modded honestly isn't expensive for what you get!"]
@@ -190,7 +196,6 @@
 	quest.752DD0BF36B70D88.quest_desc: ["Furnaces just aren't fast enough in normal &2&lMinecraft&r, so how do you think they're going to fair in Modded!?\\n\\nThankfully &7&lIron Furnaces&r helps speed them up by a lot! \\n\\nIt also has a Quest page it is just rooming together with &c&lGenerator Galore&r."]
 	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
-	quest.75EE965CBA598FEA.quest_subtitle: ""
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
 	quest.764609E41957DA69.quest_subtitle: "6,561 Emerald Blocks"
 	quest.76C63670624C3C56.quest_desc: ["&c&lGenerator Galore&r gives us tons of helpful and simple Power Generators! \\n\\nSome can even be combined with each other to be more powerful. \\n\\nThere is a Quest page for them it's just roomates with &7&lIron Furnaces&r."]
@@ -211,6 +216,10 @@
 	quest.7D972A3C4211EB26.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
 	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \\n\\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
+	task.36105483ADE4D24B.title: ""
+	task.3AD90F6C73519D77.title: ""
 	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
 	task.662F6B4EF078E3A2.title: "AllRightsReserved"
+	task.69B6361FB09315EB.title: ""
+	task.763B80798E8AFCD3.title: ""
 }

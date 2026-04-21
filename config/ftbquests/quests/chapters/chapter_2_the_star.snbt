@@ -432,6 +432,7 @@
 				"0848056FDD3F9BDA"
 				"6A12188E50EAEB78"
 				"0923C941A9696122"
+				"7D1A27CBF1508712"
 			]
 			id: "36DF0D83EBC2B6A9"
 			rewards: [
@@ -534,6 +535,7 @@
 				"55BF254B1831359B"
 				"5B2FD54E425D5C9D"
 				"4BD203AD481DDE8F"
+				"233AFC56C01A3EEC"
 			]
 			id: "54B1A876E9F6707A"
 			rewards: [
@@ -648,6 +650,7 @@
 				"59EC02C1FBCF14EA"
 				"7D972A3C4211EB26"
 				"4E8C32CD6057A1AB"
+				"37640F28614CDC51"
 			]
 			id: "2188C52C1F384DE4"
 			rewards: [
@@ -701,6 +704,7 @@
 				"2D474F8075E9DBD0"
 				"4B12425E74C5E511"
 				"486B5A605D79EA10"
+				"4E94B723CA20F978"
 			]
 			id: "1CE7B24E7E62C25B"
 			rewards: [
@@ -754,6 +758,7 @@
 				"3F8AEBB994716318"
 				"5791F3000D18E2C9"
 				"71581992E8E4C43E"
+				"646DC356539C293A"
 			]
 			id: "39B4F361EF611927"
 			rewards: [
@@ -2121,7 +2126,6 @@
 				id: "megacells:portable_item_cell_256m"
 			}
 			id: "0923C941A9696122"
-			optional: true
 			rewards: [{
 				id: "444C4EC6F089D917"
 				type: "xp_levels"
@@ -3399,7 +3403,6 @@
 				id: "create:andesite_alloy"
 			}
 			id: "4B7D387CEFF9667E"
-			optional: true
 			shape: "rsquare"
 			size: 2.0d
 			tasks: [{
@@ -3413,28 +3416,8 @@
 		{
 			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
-			id: "30CC20E33EFA2EDA"
-			optional: true
-			rewards: [{
-				id: "04B21AD545674E51"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "63C76BC24DF941C2"
-				item: { count: 1, id: "create:blaze_burner" }
-				type: "item"
-			}]
-			x: 10.0d
-			y: -4.0d
-		}
-		{
-			dependencies: ["4B7D387CEFF9667E"]
-			dependency_requirement: "one_completed"
 			hide_dependent_lines: true
 			id: "5608C74936CA9E81"
-			optional: true
 			rewards: [{
 				id: "383A3B5BA05B3A67"
 				type: "xp_levels"
@@ -3505,15 +3488,14 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["30CC20E33EFA2EDA"]
+			dependencies: ["4B7D387CEFF9667E"]
 			dependency_requirement: "one_completed"
-			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "4E8C32CD6057A1AB"
 			rewards: [{
 				id: "0EBE593E002AB633"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.25d
 			tasks: [{
@@ -3521,8 +3503,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item(create:blaze_burner)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 10.0d
+			y: -2.5d
 		}
 		{
 			id: "28DB59B20109D0D4"
@@ -3535,6 +3517,95 @@
 			}]
 			x: -3.0d
 			y: 14.0d
+		}
+		{
+			dependencies: ["792990DC06DB98F9"]
+			hide_dependent_lines: true
+			id: "4E94B723CA20F978"
+			rewards: [
+				{
+					count: 4
+					id: "7CC05D097DEA4E36"
+					item: {
+						count: 1
+						id: "eternal_starlight:pungency_fruit"
+					}
+					type: "item"
+				}
+				{
+					id: "5BA7669FF4F87E05"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "763B80798E8AFCD3"
+				item: { count: 1, id: "eternal_starlight:tear_bomb" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7D359283625C1869"]
+			hide_dependent_lines: true
+			id: "233AFC56C01A3EEC"
+			size: 1.25d
+			tasks: [{
+				id: "69B6361FB09315EB"
+				item: { count: 1, id: "cataclysm:gauntlet_of_maelstrom" }
+				type: "item"
+			}]
+			x: 9.61904761904762d
+			y: -3.955782312925159d
+		}
+		{
+			dependencies: ["28DB59B20109D0D4"]
+			hide_dependent_lines: true
+			id: "37640F28614CDC51"
+			rewards: [{
+				id: "35079A87E9070293"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "3AD90F6C73519D77"
+				item: { count: 1, id: "oritech:solid_biofuel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["216DA9782EBDFF34"]
+			hide_dependent_lines: true
+			id: "646DC356539C293A"
+			rewards: [
+				{
+					count: 3
+					id: "74AF6108AC3B8EC9"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+				{
+					id: "0AD3D8F8526C0D50"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "36105483ADE4D24B"
+				item: { count: 1, id: "occultism:witherite_dust" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.0d
 		}
 	]
 }

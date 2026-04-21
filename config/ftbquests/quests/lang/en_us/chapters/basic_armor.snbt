@@ -109,7 +109,7 @@
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r is a reward from Neptune's Bounty which is gotten through Fishing! \\nIt also grants buffs to being Underwater."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Neptunium Armor"
-	quest.34D14B807A2DAC0F.quest_desc: ["You think &5&lMekanism&r and &l&7Modern Industrialization&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no where you are. "]
+	quest.34D14B807A2DAC0F.quest_desc: ["You think &5&lMekanism&r can have all the fun? \\n\\nThis &5Quantum Armor&r has default stats similar to &cNetherite Armor&r but, like the &aMekaSuit&r it can use Energy as a shield. \\nIt also has upgrades which can be installed to make you even more powerful! Like Flight, Night Vision, and even the ability to recharge. \\n\\nBut the best part is that it can Linked to your Storage System! Then, you can automatically take Energy out from it and take out any Item from it no where you are. "]
 	quest.34D14B807A2DAC0F.quest_subtitle: "As much Energy you can supply"
 	quest.34D14B807A2DAC0F.title: "&5Quantum Armor&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]

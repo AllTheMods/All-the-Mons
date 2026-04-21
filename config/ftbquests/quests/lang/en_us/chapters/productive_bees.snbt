@@ -406,7 +406,8 @@
 	quest.5A9B2246E33065A5.quest_desc: ["Affects the amount of combs you receive whenever a bee produces honeycombs. There are 4 levels of this: &aNormal&r, &9Medium&r, &dHigh&r, &cVery High&r. &cVery High&r is what we are after.\\n\\nIt is found on KamikazBee and BeeBee. BeeBee is currently on vacation down below, though, so KamikazBee is our only option.\\n\\nTo get a KamikazBee, you need a Bee Nest Helmet. Get attacked by mobs (or shoot yourself with an arrow) while wearing the helmet for a 30% chance of having a KamikazBee emerge. It is quite fast, and will sting the aggressor (unless it's you), so better catch it quickly or use the Catcher."]
 	quest.5A9B2246E33065A5.quest_subtitle: "The big one"
 	quest.5A9B2246E33065A5.title: "&a&lProductivity"
-	quest.5AE851B8074BC7E6.quest_subtitle: "Glowing + Choco Mining"
+	quest.5AE851B8074BC7E6.quest_desc: ["You can throw a &cRedstone Bee Spawn Egg&r, a &5Fluix Crystal&r and &eGlowstone Dust&r into Water to create a Redstone Crystal Bee Spawn Egg."]
+	quest.5AE851B8074BC7E6.quest_subtitle: ""
 	quest.5AE851B8074BC7E6.title: "Redstone Crystal Bee"
 	quest.5CC9CB0911954215.quest_desc: ["A Reed Nest will work in any overworld biome, and will lure in a Mason Bee or a Reed Bee."]
 	quest.5CC9CB0911954215.quest_subtitle: "Lures bees in any Overworld Biome"
