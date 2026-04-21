@@ -44,8 +44,8 @@
 	quest.0E1C2DA415D5742D.title: "&bGlacite Sword"
 	quest.0F0D41F29386333A.quest_desc: ["&dScarlet Trees&r range in size and shape and even sometimes fallen down! \\n\\nBut all have &dpink Leaves&r! Including the ones on the ground."]
 	quest.0F0D41F29386333A.title: "&dScarlet Trees"
-	quest.0F4783FA019C4567.quest_desc: ["&4Amaraber&r is found rarely by stripping &cTorreya Logs&r. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
-	quest.0F4783FA019C4567.title: "&4Amaraber"
+	quest.0F4783FA019C4567.quest_desc: ["&4Amaramber&r is found rarely by stripping &cTorreya Logs&r. \\n\\nIt can be crafted into Ingots to make Armor and Tools or used in other recipes like a campfire which will you give you regen!"]
+	quest.0F4783FA019C4567.title: "&4Amaramber"
 	quest.0F812AE4F247FF1C.title: "&bGlacite Chestplate"
 	quest.0F8955B74DBDF5F9.title: "&cStarfire Scythe"
 	quest.0FE15701F2EDC3E9.quest_desc: ["By stacking an &5Aethersent Block&r with a &5Lunaris Cactus Fruit&r we can make an &5Aethersent Golem&r! \\n\\nThis bad boy has one job, prevent &5Creteor&r Spawns from &5Meteor Showers&r. \\n\\nIf a &5Meteor Shower&r happens, he'll shoot them down before they can even Spawn! "]
@@ -388,7 +388,6 @@
 	quest.7FBD51663C1A711A.title: "&4Amaramber Sword"
 	quest.7FF77463F2A0E210.quest_desc: ["Nightfall Mud can only be found within the &9Dark Swamps&r. \\n\\nYou can make more Blocks out of it!"]
 	task.0AD8AC7ECCD8002A.title: "AllRightsReserved"
-	task.0B73A8927E11CEF5.title: ""
 	task.2510A7EE5D886B63.title: "AllRightsReserved"
 	task.452736994864F623.title: "Visit a Shimmer River"
 	task.67690077D4273A36.title: "Visit the Starlight"
