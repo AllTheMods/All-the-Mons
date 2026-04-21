@@ -165,13 +165,13 @@
     "curseForgeHash": 3791403444,
     "modrinthHash": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949"
   },
-  "allthemons-0.1.3.jar": {
-    "jarName": "allthemons-0.1.3.jar",
+  "allthemons-0.1.4.jar": {
+    "jarName": "allthemons-0.1.4.jar",
     "modId": "allthemons",
     "name": "All The Mons",
-    "version": "0.1.3",
-    "curseForgeHash": 320909835,
-    "modrinthHash": "1a250cfdd757aab87ee4ee59284fd5419dfc6394"
+    "version": "0.1.4",
+    "curseForgeHash": 1531854149,
+    "modrinthHash": "3de4c01dfb12bfb3d4791a74d567ff7d65398e98"
   },
   "alltheores-3.2.0_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.2.0_neoforge_1.21.1.jar",
