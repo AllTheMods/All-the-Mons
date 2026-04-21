@@ -102,17 +102,17 @@
 			id: "6314B892B569A0A5"
 			rewards: [
 				{
-					id: "2B074F0E970A2952"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-				{
 					id: "6774D6E57CA8B363"
 					item: {
 						count: 1
 						id: "eternal_starlight:starlight_flower"
 					}
 					type: "item"
+				}
+				{
+					id: "2B074F0E970A2952"
+					type: "xp_levels"
+					xp_levels: 1
 				}
 			]
 			shape: "gear"
@@ -241,6 +241,15 @@
 		{
 			dependencies: ["5244B2D6B5FA0487"]
 			id: "41C70F0873E14307"
+			rewards: [{
+				count: 8
+				id: "2C806D020D530565"
+				item: {
+					count: 1
+					id: "eternal_starlight:dead_lunar_log"
+				}
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				id: "059F0F7C2F8A8313"
@@ -1281,7 +1290,7 @@
 				entity: "eternal_starlight:nightfall_spider"
 				id: "0B73A8927E11CEF5"
 				type: "kill"
-				value: 3L
+				value: 1L
 			}]
 			x: -1.0d
 			y: 0.0d
@@ -1313,9 +1322,9 @@
 			dependencies: ["3CAD0701EC16C2D8"]
 			id: "2E29DC243E8AD61E"
 			rewards: [{
-				id: "2EBED3B3589D0457"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "700616990FD311E0"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "circle"
 			size: 1.2d
@@ -2768,9 +2777,9 @@
 			dependencies: ["10AB188AC6FB24D3"]
 			id: "0C096EE635645E43"
 			rewards: [{
-				id: "6D4E2E7D19753F7C"
+				id: "265B55D72C114C6F"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2785,9 +2794,9 @@
 			dependencies: ["10AB188AC6FB24D3"]
 			id: "29283BF1B6ED3634"
 			rewards: [{
-				id: "4D77AD59502D4048"
+				id: "57D471790A0534B3"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2802,9 +2811,9 @@
 			dependencies: ["0576C32B0FB360B0"]
 			id: "4D0B50731FED3CEE"
 			rewards: [{
-				id: "40873C51B4826BD5"
+				id: "2FE744D196CC54DA"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2819,9 +2828,9 @@
 			dependencies: ["0576C32B0FB360B0"]
 			id: "713548E540B18E07"
 			rewards: [{
-				id: "6A64D414FD4E76C2"
+				id: "46345466663E3F4C"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2836,9 +2845,9 @@
 			dependencies: ["0576C32B0FB360B0"]
 			id: "62F33BBE7BDFE404"
 			rewards: [{
-				id: "05B75092DB5755EB"
+				id: "59B9E3DD1AA18238"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2853,9 +2862,9 @@
 			dependencies: ["0576C32B0FB360B0"]
 			id: "713EF442D59501BA"
 			rewards: [{
-				id: "64BD7A242E300236"
+				id: "0042EC7460AA34DE"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2867,15 +2876,12 @@
 			y: 1.5d
 		}
 		{
-			dependencies: [
-				"0576C32B0FB360B0"
-				"10AB188AC6FB24D3"
-			]
+			dependencies: ["0576C32B0FB360B0"]
 			id: "54DE8AAAE2181F18"
 			rewards: [{
-				id: "0DC29C1CBFDA38E4"
+				id: "0138EF2F042FCC36"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2890,9 +2896,9 @@
 			dependencies: ["10AB188AC6FB24D3"]
 			id: "70A82A5D17D558FB"
 			rewards: [{
-				id: "09929AE4C05ECE65"
+				id: "015760536A0F4BFB"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -2907,9 +2913,9 @@
 			dependencies: ["00453FF528AA0B1C"]
 			id: "1533D98B3B2A758E"
 			rewards: [{
-				id: "290B41E1BC4268D5"
+				id: "07C5B8DA00BBEEF3"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -2924,9 +2930,9 @@
 			dependencies: ["17EC65B33AC5F0B4"]
 			id: "29EC143D7E0347DE"
 			rewards: [{
-				id: "6AE3C785F1CE0472"
+				id: "51525B37CB75FC15"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -2941,9 +2947,9 @@
 			dependencies: ["6B00D5DBB3552F15"]
 			id: "01F322AEFCC6109E"
 			rewards: [{
-				id: "4B94F59C6742231F"
+				id: "1BBBE24B93347301"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -2959,9 +2965,9 @@
 			hide_dependency_lines: true
 			id: "37355F60E45777FE"
 			rewards: [{
-				id: "6A3F32983F867FC5"
+				id: "5057E385D7ACBC1F"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -2976,9 +2982,9 @@
 			dependencies: ["36BCCF7395658A5C"]
 			id: "4D4DE266A2A325B0"
 			rewards: [{
-				id: "5A50D67CE1467C4D"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "2B030424D5CF6C90"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "diamond"
 			size: 1.3d
@@ -2994,9 +3000,9 @@
 			dependencies: ["36BCCF7395658A5C"]
 			id: "40C776497D68367F"
 			rewards: [{
-				id: "7A1617268A5E0C01"
-				type: "xp_levels"
-				xp_levels: 1
+				id: "3F27CC5DCAF8DE0A"
+				type: "xp"
+				xp: 100
 			}]
 			shape: "diamond"
 			size: 1.3d
@@ -3059,9 +3065,9 @@
 			dependencies: ["127D085D6C9DB690"]
 			id: "71C58666D4BC2508"
 			rewards: [{
-				id: "6C0AD1D01701A9C7"
+				id: "3681E5048B9C86BC"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -3076,9 +3082,9 @@
 			dependencies: ["7A16D2EB63359294"]
 			id: "25E782DB4309A1B8"
 			rewards: [{
-				id: "03FBC41F3B19711A"
+				id: "091220325D942149"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -3152,9 +3158,9 @@
 			dependencies: ["4DBC3B4D38CC6152"]
 			id: "3D4032E7119AF8B7"
 			rewards: [{
-				id: "5AB99EA59B5C20CD"
+				id: "767AEC5FACE2FC53"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -3208,9 +3214,9 @@
 			dependencies: ["02B574B09AB45D09"]
 			id: "516AC1F0E0BCAE55"
 			rewards: [{
-				id: "3CB9BA34CDD20DA0"
+				id: "1597FC76E0CD5BDA"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 1
 			}]
 			size: 1.3d
 			tasks: [{
@@ -3228,9 +3234,9 @@
 			]
 			id: "7FBB431AC055FE93"
 			rewards: [{
-				id: "178BD4DDD894603E"
+				id: "7465F10018BB5D5A"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -3407,6 +3413,15 @@
 			dependencies: ["3CAD0701EC16C2D8"]
 			hide_dependent_lines: true
 			id: "3124D945A54938C2"
+			rewards: [{
+				count: 2
+				id: "252426D399F57376"
+				item: {
+					count: 1
+					id: "eternal_starlight:malarite"
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.3d
 			tasks: [{
@@ -3466,9 +3481,9 @@
 			]
 			id: "373CA701008A9584"
 			rewards: [{
-				id: "555715C931EFF7DA"
+				id: "7576401A579DF027"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -3482,9 +3497,9 @@
 		{
 			id: "5C11E99FF201C3F9"
 			rewards: [{
-				id: "4861405EE8A44466"
+				id: "291148832113C5D0"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -3498,9 +3513,9 @@
 		{
 			id: "39796595B42BB41E"
 			rewards: [{
-				id: "5582C1C1A4F0FB39"
+				id: "7B1861F14177A47D"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
@@ -3513,18 +3528,11 @@
 		}
 		{
 			id: "3AFEE53B4276F8CA"
-			rewards: [
-				{
-					id: "30AD5AC8E499A3A2"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-				{
-					id: "2F8A413FF92F7F4F"
-					type: "xp_levels"
-					xp_levels: 10
-				}
-			]
+			rewards: [{
+				id: "01C1F531C026B9B8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
 			size: 1.4d
 			tasks: [{
 				id: "4CACC81844ADB172"
@@ -4343,6 +4351,11 @@
 		{
 			dependencies: ["6314B892B569A0A5"]
 			id: "76BFC5815FC6565C"
+			rewards: [{
+				id: "4CAFF0E91486D12C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -4903,9 +4916,9 @@
 			dependencies: ["0576C32B0FB360B0"]
 			id: "2E9D3DA2DF3E3AC9"
 			rewards: [{
-				id: "566979C9528A9006"
+				id: "58F022AB9A4B6C7C"
 				type: "xp_levels"
-				xp_levels: 10
+				xp_levels: 3
 			}]
 			size: 1.4d
 			tasks: [{
