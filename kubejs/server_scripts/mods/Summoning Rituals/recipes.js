@@ -254,6 +254,7 @@ function getPokemonRegion(pokemon, fromRegion) {
 let $RCTMod = Java.loadClass("com.gitlab.srcmc.rctmod.api.RCTMod")
 
 SummoningRituals.start(event => {
+  if (event.player == null) event.cancel()
   let altarBlockState = event.altar.level.getBlockState(event.altar.blockPos)
   let facing
   for (let prop of altarBlockState.getProperties()) {
@@ -425,7 +426,7 @@ SummoningRituals.start(event => {
       let levelBlock = event.altar.level.getBlock(event.altar.blockPos.offset(offset))
       if (levelBlock.getBlock().id == "cobblemon:display_case") {
         let be = levelBlock.getEntity()
-        if (!be.hasAnyMatching(stack => stack.hasTag("mega_showdown:mega_stone"))) {
+        if (!be.hasAnyMatching(stack => stack.hasTag("mega_showdown:mega_stone") || stack.hasTag("zamega:mega_stone"))) {
           firstPass = false
         }
         containers.add(be)

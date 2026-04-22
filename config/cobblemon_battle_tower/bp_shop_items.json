@@ -1,0 +1,601 @@
+{
+  "_comment_1": "BP Shop Config",
+  "_comment_2": "Add items to override defaults or create custom ones",
+  "_comment_3": "For commands use 'command' instead of 'item_id', use {player} for player name",
+  "_comment_4": "Optional command context prefix: [player] or [server] (example: [server] pokegive {player} random shiny=true)",
+  
+  "load_default_items": true,
+  
+  "items": [
+    {
+      "id": "mega_stone",
+      "display_name": "Mega Stone",
+      "bp_cost": 10,
+      "item_id": "mega_showdown:mega_stone",
+      "quantity": 1
+    }
+    // {
+    //   "id": "random_shiny",
+    //   "display_name": "Random Shiny Pokemon",
+    //   "bp_cost": 500,
+    //   "command": "[server] pokegive {player} random shiny=true"
+    // }
+  ],
+  
+  "_default_items": [
+    {
+      "id": "booster_energy",
+      "display_name": "Booster Energy",
+      "bp_cost": 10,
+      "item_id": "mega_showdown:booster_energy",
+      "quantity": 1
+    },
+    {
+      "id": "ability_patch",
+      "display_name": "Ability Patch",
+      "bp_cost": 10,
+      "item_id": "cobblemon:ability_patch",
+      "quantity": 1
+    },
+    {
+      "id": "rare_candy",
+      "display_name": "Rare Candy",
+      "bp_cost": 5,
+      "item_id": "cobblemon:rare_candy",
+      "quantity": 1
+    },
+    {
+      "id": "exp_candy_xs",
+      "display_name": "Exp Candy XS",
+      "bp_cost": 1,
+      "item_id": "cobblemon:exp_candy_xs",
+      "quantity": 1
+    },
+    {
+      "id": "exp_candy_s",
+      "display_name": "Exp Candy S",
+      "bp_cost": 2,
+      "item_id": "cobblemon:exp_candy_s",
+      "quantity": 1
+    },
+    {
+      "id": "exp_candy_m",
+      "display_name": "Exp Candy M",
+      "bp_cost": 3,
+      "item_id": "cobblemon:exp_candy_m",
+      "quantity": 1
+    },
+    {
+      "id": "exp_candy_l",
+      "display_name": "Exp Candy L",
+      "bp_cost": 4,
+      "item_id": "cobblemon:exp_candy_l",
+      "quantity": 1
+    },
+    {
+      "id": "exp_candy_xl",
+      "display_name": "Exp Candy XL",
+      "bp_cost": 5,
+      "item_id": "cobblemon:exp_candy_xl",
+      "quantity": 1
+    },
+    {
+      "id": "health_candy",
+      "display_name": "Health Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:health_candy",
+      "quantity": 1
+    },
+    {
+      "id": "mighty_candy",
+      "display_name": "Mighty Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:mighty_candy",
+      "quantity": 1
+    },
+    {
+      "id": "tough_candy",
+      "display_name": "Tough Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:tough_candy",
+      "quantity": 1
+    },
+    {
+      "id": "smart_candy",
+      "display_name": "Smart Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:smart_candy",
+      "quantity": 1
+    },
+    {
+      "id": "courage_candy",
+      "display_name": "Courage Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:courage_candy",
+      "quantity": 1
+    },
+    {
+      "id": "quick_candy",
+      "display_name": "Quick Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:quick_candy",
+      "quantity": 1
+    },
+    {
+      "id": "sickly_candy",
+      "display_name": "Sickly Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:sickly_candy",
+      "quantity": 1
+    },
+    {
+      "id": "weak_candy",
+      "display_name": "Weak Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:weak_candy",
+      "quantity": 1
+    },
+    {
+      "id": "brittle_candy",
+      "display_name": "Brittle Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:brittle_candy",
+      "quantity": 1
+    },
+    {
+      "id": "numb_candy",
+      "display_name": "Numb Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:numb_candy",
+      "quantity": 1
+    },
+    {
+      "id": "coward_candy",
+      "display_name": "Coward Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:coward_candy",
+      "quantity": 1
+    },
+    {
+      "id": "slow_candy",
+      "display_name": "Slow Candy",
+      "bp_cost": 2,
+      "item_id": "cobblemon:slow_candy",
+      "quantity": 1
+    },
+    {
+      "id": "pp_max",
+      "display_name": "PP Max",
+      "bp_cost": 5,
+      "item_id": "cobblemon:pp_max",
+      "quantity": 1
+    },
+    {
+      "id": "protein",
+      "display_name": "Protein",
+      "bp_cost": 2,
+      "item_id": "cobblemon:protein",
+      "quantity": 1
+    },
+    {
+      "id": "iron",
+      "display_name": "Iron",
+      "bp_cost": 2,
+      "item_id": "cobblemon:iron",
+      "quantity": 1
+    },
+    {
+      "id": "calcium",
+      "display_name": "Calcium",
+      "bp_cost": 2,
+      "item_id": "cobblemon:calcium",
+      "quantity": 1
+    },
+    {
+      "id": "zinc",
+      "display_name": "Zinc",
+      "bp_cost": 2,
+      "item_id": "cobblemon:zinc",
+      "quantity": 1
+    },
+    {
+      "id": "carbos",
+      "display_name": "Carbos",
+      "bp_cost": 2,
+      "item_id": "cobblemon:carbos",
+      "quantity": 1
+    },
+    {
+      "id": "hp_up",
+      "display_name": "HP Up",
+      "bp_cost": 2,
+      "item_id": "cobblemon:hp_up",
+      "quantity": 1
+    },
+    {
+      "id": "pomeg_berry",
+      "display_name": "Pomeg Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:pomeg_berry",
+      "quantity": 1
+    },
+    {
+      "id": "kelpsy_berry",
+      "display_name": "Kelpsy Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:kelpsy_berry",
+      "quantity": 1
+    },
+    {
+      "id": "qualot_berry",
+      "display_name": "Qualot Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:qualot_berry",
+      "quantity": 1
+    },
+    {
+      "id": "hondew_berry",
+      "display_name": "Hondew Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:hondew_berry",
+      "quantity": 1
+    },
+    {
+      "id": "grepa_berry",
+      "display_name": "Grepa Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:grepa_berry",
+      "quantity": 1
+    },
+    {
+      "id": "tamato_berry",
+      "display_name": "Tamato Berry",
+      "bp_cost": 10,
+      "item_id": "cobblemon:tamato_berry",
+      "quantity": 1
+    },
+    {
+      "id": "mega_stone",
+      "display_name": "Mega Stone",
+      "bp_cost": 15,
+      "item_id": "mega_showdown:mega_stone",
+      "quantity": 1
+    },
+    {
+      "id": "blank_z",
+      "display_name": "Blank Z-Crystal",
+      "bp_cost": 10,
+      "item_id": "mega_showdown:blank_z",
+      "quantity": 1
+    },
+    {
+      "id": "max_mushroom",
+      "display_name": "Max Mushroom",
+      "bp_cost": 10,
+      "item_id": "mega_showdown:max_mushroom",
+      "quantity": 1
+    },
+    {
+      "id": "normal_gem",
+      "display_name": "Normal Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:normal_gem",
+      "quantity": 1
+    },
+    {
+      "id": "fire_gem",
+      "display_name": "Fire Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:fire_gem",
+      "quantity": 1
+    },
+    {
+      "id": "water_gem",
+      "display_name": "Water Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:water_gem",
+      "quantity": 1
+    },
+    {
+      "id": "grass_gem",
+      "display_name": "Grass Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:grass_gem",
+      "quantity": 1
+    },
+    {
+      "id": "electric_gem",
+      "display_name": "Electric Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:electric_gem",
+      "quantity": 1
+    },
+    {
+      "id": "ice_gem",
+      "display_name": "Ice Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:ice_gem",
+      "quantity": 1
+    },
+    {
+      "id": "fighting_gem",
+      "display_name": "Fighting Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:fighting_gem",
+      "quantity": 1
+    },
+    {
+      "id": "poison_gem",
+      "display_name": "Poison Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:poison_gem",
+      "quantity": 1
+    },
+    {
+      "id": "ground_gem",
+      "display_name": "Ground Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:ground_gem",
+      "quantity": 1
+    },
+    {
+      "id": "flying_gem",
+      "display_name": "Flying Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:flying_gem",
+      "quantity": 1
+    },
+    {
+      "id": "psychic_gem",
+      "display_name": "Psychic Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:psychic_gem",
+      "quantity": 1
+    },
+    {
+      "id": "bug_gem",
+      "display_name": "Bug Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:bug_gem",
+      "quantity": 1
+    },
+    {
+      "id": "rock_gem",
+      "display_name": "Rock Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:rock_gem",
+      "quantity": 1
+    },
+    {
+      "id": "ghost_gem",
+      "display_name": "Ghost Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:ghost_gem",
+      "quantity": 1
+    },
+    {
+      "id": "dragon_gem",
+      "display_name": "Dragon Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:dragon_gem",
+      "quantity": 1
+    },
+    {
+      "id": "dark_gem",
+      "display_name": "Dark Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:dark_gem",
+      "quantity": 1
+    },
+    {
+      "id": "steel_gem",
+      "display_name": "Steel Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:steel_gem",
+      "quantity": 1
+    },
+    {
+      "id": "fairy_gem",
+      "display_name": "Fairy Gem",
+      "bp_cost": 3,
+      "item_id": "cobblemon:fairy_gem",
+      "quantity": 1
+    },
+    {
+      "id": "blue_orb",
+      "display_name": "Blue Orb",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:blue_orb",
+      "quantity": 1
+    },
+    {
+      "id": "red_orb",
+      "display_name": "Red Orb",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:red_orb",
+      "quantity": 1
+    },
+    {
+      "id": "griseous_orb",
+      "display_name": "Griseous Orb",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:griseous_orb",
+      "quantity": 1
+    },
+    {
+      "id": "lustrous_globe",
+      "display_name": "Lustrous Globe",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:lustrous_globe",
+      "quantity": 1
+    },
+    {
+      "id": "adamant_crystal",
+      "display_name": "Adamant Crystal",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:adamant_crystal",
+      "quantity": 1
+    },
+    {
+      "id": "prison_bottle",
+      "display_name": "Prison Bottle",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:prison_bottle",
+      "quantity": 1
+    },
+    {
+      "id": "gracidea",
+      "display_name": "Gracidea Flower",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:gracidea_flower",
+      "quantity": 1
+    },
+    {
+      "id": "reveal_glass",
+      "display_name": "Reveal Glass",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:reveal_glass",
+      "quantity": 1
+    },
+    {
+      "id": "rusted_sword",
+      "display_name": "Rusted Sword",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:rusted_sword",
+      "quantity": 1
+    },
+    {
+      "id": "rusted_shield",
+      "display_name": "Rusted Shield",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:rusted_shield",
+      "quantity": 1
+    },
+    {
+      "id": "legend_plate",
+      "display_name": "Legend Plate",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:legend_plate",
+      "quantity": 1
+    },
+    {
+      "id": "scroll_of_waters",
+      "display_name": "Scroll of Waters",
+      "bp_cost": 20,
+      "item_id": "cobblemon:scroll_of_waters",
+      "quantity": 1
+    },
+    {
+      "id": "scroll_of_darkness",
+      "display_name": "Scroll of Darkness",
+      "bp_cost": 20,
+      "item_id": "cobblemon:scroll_of_darkness",
+      "quantity": 1
+    },
+    {
+      "id": "meteorite",
+      "display_name": "Deoxys Meteorite",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:deoxys_meteorite",
+      "quantity": 1
+    },
+    {
+      "id": "cornerstone_mask",
+      "display_name": "Cornerstone Mask",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:cornerstone_mask",
+      "quantity": 1
+    },
+    {
+      "id": "wellspring_mask",
+      "display_name": "Wellspring Mask",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:wellspring_mask",
+      "quantity": 1
+    },
+    {
+      "id": "hearthflame_mask",
+      "display_name": "Hearthflame Mask",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:hearthflame_mask",
+      "quantity": 1
+    },
+    {
+      "id": "auspicious_armor",
+      "display_name": "Auspicious Armor",
+      "bp_cost": 4,
+      "item_id": "cobblemon:auspicious_armor",
+      "quantity": 1
+    },
+    {
+      "id": "malicious_armor",
+      "display_name": "Malicious Armor",
+      "bp_cost": 4,
+      "item_id": "cobblemon:malicious_armor",
+      "quantity": 1
+    },
+    {
+      "id": "shell_helmet",
+      "display_name": "Shell Helmet",
+      "bp_cost": 5,
+      "item_id": "cobblemon:shell_helmet",
+      "quantity": 1
+    },
+    {
+      "id": "metal_alloy",
+      "display_name": "Metal Alloy",
+      "bp_cost": 5,
+      "item_id": "cobblemon:metal_alloy",
+      "quantity": 1
+    },
+    {
+      "id": "zygarde_cell",
+      "display_name": "Zygarde Cell",
+      "bp_cost": 1,
+      "item_id": "mega_showdown:zygarde_cell",
+      "quantity": 5
+    },
+    {
+      "id": "zygarde_core",
+      "display_name": "Zygarde Core",
+      "bp_cost": 5,
+      "item_id": "mega_showdown:zygarde_core",
+      "quantity": 1
+    },
+    {
+      "id": "master_ball",
+      "display_name": "Master Ball",
+      "bp_cost": 30,
+      "item_id": "cobblemon:master_ball",
+      "quantity": 1
+    },
+    {
+      "id": "ancient_origin_ball",
+      "display_name": "Ancient Origin Ball",
+      "bp_cost": 30,
+      "item_id": "cobblemon:ancient_origin_ball",
+      "quantity": 1
+    },
+    {
+      "id": "cherish_ball",
+      "display_name": "Cherish Ball",
+      "bp_cost": 1,
+      "item_id": "cobblemon:cherish_ball",
+      "quantity": 1
+    },
+    {
+      "id": "relic_coin_sack",
+      "display_name": "Relic Coin Sack",
+      "bp_cost": 9,
+      "item_id": "cobblemon:relic_coin_sack",
+      "quantity": 1
+    },
+    {
+      "id": "star_core",
+      "display_name": "Star Core",
+      "bp_cost": 20,
+      "item_id": "mega_showdown:star_core",
+      "quantity": 1
+    }
+  ]
+}
