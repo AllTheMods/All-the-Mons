@@ -88,7 +88,7 @@ RecipeViewerEvents.addInformation('item', allthemods => {
     Text.translate('kubejs.atm.rv.portal_fluid_catalyst.1')
   ])
   allthemods.add('cobblemon:leftovers', [
-    'Can be randomly obtained from eating Apples'
+    Text.translate('kubejs.atm.rv.leftovers.1')
   ])
 })
 

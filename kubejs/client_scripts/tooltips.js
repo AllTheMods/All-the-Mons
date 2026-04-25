@@ -55,7 +55,7 @@ ItemEvents.modifyTooltips(allthemods => {
     ])
 	// All The Mons
 	allthemods.add('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]',[
-        Text.of("§6Patrickyu Variant"),
+        Text.translate('kubejs.atm.tooltip.patrickyu_egg')
     ])
 
     //Forbidden Arcanus
