@@ -1,9 +1,9 @@
 {
-  "neoforge-21.1.224 (modloader)": {
-    "jarName": "neoforge-21.1.224 (modloader)",
+  "neoforge-21.1.226 (modloader)": {
+    "jarName": "neoforge-21.1.226 (modloader)",
     "modId": "neoforge",
     "name": "neoforge",
-    "version": "neoforge-21.1.224"
+    "version": "neoforge-21.1.226"
   },
   "[1.21.1] SecurityCraft v1.10.1.jar": {
     "jarName": "[1.21.1] SecurityCraft v1.10.1.jar",
@@ -149,13 +149,13 @@
     "curseForgeHash": 17749550,
     "modrinthHash": "265ef9d825d217e4dd6bf9b0c0824da982cc5c22"
   },
-  "alltheleaks-1.1.7+1.21.1-neoforge.jar": {
-    "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+  "alltheleaks-1.1.8+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-1.1.8+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
     "name": "All The Leaks",
-    "version": "1.1.7+1.21.1-neoforge",
-    "curseForgeHash": 3702505508,
-    "modrinthHash": "a36da3b274d7612f3696788434cb5a717e065d70"
+    "version": "1.1.8+1.21.1-neoforge",
+    "curseForgeHash": 810386014,
+    "modrinthHash": "f91b11a1cfa718b9291fbe7b80356f17a572577e"
   },
   "allthemodium-3.0.0_mc_1.21.1.jar": {
     "jarName": "allthemodium-3.0.0_mc_1.21.1.jar",
@@ -165,13 +165,13 @@
     "curseForgeHash": 3791403444,
     "modrinthHash": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949"
   },
-  "allthemons-0.0.46.jar": {
-    "jarName": "allthemons-0.0.46.jar",
+  "allthemons-0.1.4.jar": {
+    "jarName": "allthemons-0.1.4.jar",
     "modId": "allthemons",
     "name": "All The Mons",
-    "version": "0.0.46",
-    "curseForgeHash": 4030529802,
-    "modrinthHash": "8e6430f4fd45efe6dd39730db0d80a3bbfc9e2b7"
+    "version": "0.1.4",
+    "curseForgeHash": 1531854149,
+    "modrinthHash": "3de4c01dfb12bfb3d4791a74d567ff7d65398e98"
   },
   "alltheores-3.2.0_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.2.0_neoforge_1.21.1.jar",
@@ -653,6 +653,14 @@
     "curseForgeHash": 1279005502,
     "modrinthHash": "68c984455c13ea96d244f4a5d3789cdfec6463e7"
   },
+  "cobblemon_ultra_wormholes-neoforge-1.1.1.jar": {
+    "jarName": "cobblemon_ultra_wormholes-neoforge-1.1.1.jar",
+    "modId": "cobblemon_ultra_wormholes",
+    "name": "Cobblemon Ultra Wormholes",
+    "version": "1.1.1",
+    "curseForgeHash": 3924295411,
+    "modrinthHash": "03fd8618057a7d775168539fd2b4cf7dec7b43bb"
+  },
   "cobblemonextrastructures-1.21.1-1.2.1-neoforge.jar": {
     "jarName": "cobblemonextrastructures-1.21.1-1.2.1-neoforge.jar",
     "modId": "cobblemonextrastructures",
@@ -1117,13 +1125,13 @@
     "curseForgeHash": 1585337905,
     "modrinthHash": "f71aa503738f2e23a8d939b7ea9f96f2fe203f11"
   },
-  "epitaphs-1.0.14_neoforge_1.21.1.jar": {
-    "jarName": "epitaphs-1.0.14_neoforge_1.21.1.jar",
+  "epitaphs-2.0.0_neoforge_1.21.1.jar": {
+    "jarName": "epitaphs-2.0.0_neoforge_1.21.1.jar",
     "modId": "epitaphs",
     "name": "Epitaphs",
-    "version": "1.0.14",
-    "curseForgeHash": 2406907945,
-    "modrinthHash": "862a4e13cf4bb7f2dc5e5bc168a1635b7c1af52c"
+    "version": "2.0.0",
+    "curseForgeHash": 1544235753,
+    "modrinthHash": "2d3b954c9adfefaa009bb40e9821cc5b6a24c88d"
   },
   "eternalstarlight-0.6.4+1.21.1+neoforge.jar": {
     "jarName": "eternalstarlight-0.6.4+1.21.1+neoforge.jar",
@@ -1685,13 +1693,13 @@
     "curseForgeHash": 828156772,
     "modrinthHash": "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
   },
-  "journeymap-neoforge-1.21.1-6.0.0-beta.60.jar": {
-    "jarName": "journeymap-neoforge-1.21.1-6.0.0-beta.60.jar",
+  "journeymap-neoforge-1.21.1-6.0.0-beta.63.jar": {
+    "jarName": "journeymap-neoforge-1.21.1-6.0.0-beta.63.jar",
     "modId": "journeymap",
     "name": "Journeymap",
-    "version": "1.21.1-6.0.0-beta.60",
-    "curseForgeHash": 2321485727,
-    "modrinthHash": "0dac47d19815ac44f49435e37ae58c7f42be7082"
+    "version": "1.21.1-6.0.0-beta.63",
+    "curseForgeHash": 3294349818,
+    "modrinthHash": "89c04bea5f5ca901b7cfa5ccc559138dd0709655"
   },
   "jumpboat-1.21.0-1.0.5.jar": {
     "jarName": "jumpboat-1.21.0-1.0.5.jar",
@@ -1778,13 +1786,13 @@
     "curseForgeHash": 2672915247,
     "modrinthHash": "6548ec47aa6b0498c3018cde40d9d0a203b67446"
   },
-  "L_Ender\u0027s Cataclysm 1.21.1-3.26.jar": {
-    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.26.jar",
+  "L_Ender\u0027s Cataclysm 1.21.1-3.27.jar": {
+    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.27.jar",
     "modId": "cataclysm",
     "name": "L_Ender\u0027s Cataclysm 1.21.1",
-    "version": "3.26",
-    "curseForgeHash": 1646778924,
-    "modrinthHash": "5fff47ae29af42aa2a7e0d91e0d70dbb1c722061"
+    "version": "3.27",
+    "curseForgeHash": 2946987299,
+    "modrinthHash": "f34a5e3994fff1953c631b87b3dfa89ed62c26dc"
   },
   "laserbridges-1.21.1-neoforge-5.3.jar": {
     "jarName": "laserbridges-1.21.1-neoforge-5.3.jar",
@@ -1802,13 +1810,13 @@
     "curseForgeHash": 738702240,
     "modrinthHash": "0545bff65926346c9663fe3c397029561a87400f"
   },
-  "lionfishapi-2.6.jar": {
-    "jarName": "lionfishapi-2.6.jar",
+  "lionfishapi-2.7-fix-fix.jar": {
+    "jarName": "lionfishapi-2.7-fix-fix.jar",
     "modId": "lionfishapi",
     "name": "lionfishapi",
-    "version": "2.6",
-    "curseForgeHash": 1097140670,
-    "modrinthHash": "3d9059ea05839e0daab926848d91ecb14ca5a4d4"
+    "version": "2.7",
+    "curseForgeHash": 3722162517,
+    "modrinthHash": "af90b807eed100e899b9afa13bb75e7d45294ba3"
   },
   "lithostitched-1.6.5-neoforge-21.1.jar": {
     "jarName": "lithostitched-1.6.5-neoforge-21.1.jar",
@@ -2783,6 +2791,14 @@
     "curseForgeHash": 2921274506,
     "modrinthHash": "c613e2a17f012fd735ca72e8c726c5b9f108fb09"
   },
+  "summoningrituals-neoforge-1.21.1-3.11.1.jar": {
+    "jarName": "summoningrituals-neoforge-1.21.1-3.11.1.jar",
+    "modId": "summoningrituals",
+    "name": "Summoning Rituals",
+    "version": "1.21.1-3.11.1",
+    "curseForgeHash": 3206042087,
+    "modrinthHash": "10681c96130b8144707c56205a22ee0dcb7a091c"
+  },
   "Super Factory Manager (SFM)-MC1.21.1-4.32.0.jar": {
     "jarName": "Super Factory Manager (SFM)-MC1.21.1-4.32.0.jar",
     "modId": "sfm",
@@ -2951,13 +2967,13 @@
     "curseForgeHash": 2918046519,
     "modrinthHash": "7eb055cfadf940882aac57dcc4a7162774a53a95"
   },
-  "utilitarian-1.21.1-0.19.0.jar": {
-    "jarName": "utilitarian-1.21.1-0.19.0.jar",
+  "utilitarian-1.21.1-0.19.1.jar": {
+    "jarName": "utilitarian-1.21.1-0.19.1.jar",
     "modId": "utilitarian",
     "name": "Utilitarian",
-    "version": "1.21.1-0.19.0",
-    "curseForgeHash": 3741021762,
-    "modrinthHash": "184ee8b6efc3c64fe60ee2b09b1b6cb53aa13444"
+    "version": "1.21.1-0.19.1",
+    "curseForgeHash": 4237511421,
+    "modrinthHash": "0da7f3166f24b8115638891fd1c24fb9bdf0a498"
   },
   "utilityvest-1.2.6.jar": {
     "jarName": "utilityvest-1.2.6.jar",

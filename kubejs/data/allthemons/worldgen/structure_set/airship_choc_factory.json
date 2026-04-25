@@ -6,11 +6,9 @@
     }
   ],
   "placement": {
-    "type": "minecraft:concentric_rings",
-    "distance": 32,
-    "count": 128,
-    "spread": 3,
-	"preferred_biomes": "#c:is_plateau",
-	"salt": 30084232
+    "type": "minecraft:random_spread",
+    "salt": 30084232,
+    "spacing": 104,
+    "separation": 88
   }
 }

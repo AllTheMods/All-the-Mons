@@ -6,11 +6,9 @@
     }
   ],
   "placement": {
-    "type": "minecraft:concentric_rings",
-    "distance": 32,
-    "count": 128,
-    "spread": 3,
-	"preferred_biomes": "allthemons:ancient_apricorn_forest",
-	"salt": 0
+    "type": "minecraft:random_spread",
+    "salt": 233061,
+    "spacing": 113,
+    "separation": 102
   }
 }

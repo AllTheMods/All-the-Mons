@@ -111,7 +111,11 @@ global.battleStartedPre = (startedPreEvent) => {
           let region = getPokemonRegion(originalPokemon)
           if (region == null) continue
           if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
-            startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name())
+            if (originalPokemon.hasLabels("ultra_beast")) {
+              player.tell(Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name()))
+            } else {
+              startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name())
+            }            
             startedPreEvent.cancel()
           }
         }

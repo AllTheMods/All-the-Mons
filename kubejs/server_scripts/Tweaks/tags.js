@@ -25,7 +25,7 @@ ServerEvents.tags('block', allthemods => {
         ['@ae2', '@advancedae', '@extendedae', '@megacells', '@appflux', '@appmek']
     )
 
-    let denyTickAcceleration = ['@industrialforegoingsouls',"cobblemon:pasture"]
+    let denyTickAcceleration = ['@industrialforegoingsouls', "cobblemon:pasture"]
 
     // Just Dire Things
     allthemods.add('justdirethings:lawnmowerable', '#c:grass')
@@ -102,13 +102,60 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add('forbidden_arcanus:modifier/eternal_incompatible', 'ars_additions:undying_charm')
 
     // FTBChunks
-    allthemods.add("ftbchunks:right_click_whitelist",["#cobblemon:poke_balls"])
+    allthemods.add("ftbchunks:right_click_whitelist", ["#cobblemon:poke_balls"])
 
     allthemods.add('c:gems/rose_quartz', 'create:rose_quartz')
 
     allthemods.add("apothic_enchanting:cannot_be_converted_to_xp", ["trophymanager:trophy"])
 
-    allthemods.remove("reliquified_artifacts:anglers_hat_valuables",["#c:raw_materials"])
+    allthemods.remove("reliquified_artifacts:anglers_hat_valuables", ["#c:raw_materials"])
+
+    // ZA Mega Stones
+    allthemods.add("zamega:mega_stone", ["zamega:darkranite",
+        "zamega:magearnite",
+        "zamega:meganiumite",
+        "zamega:starminite",
+        "zamega:excadrite",
+        "zamega:garchompitez",
+        "zamega:greninjite",
+        "zamega:pyroarite",
+        "zamega:baxcalibrite",
+        "zamega:emboarite",
+        "zamega:malamarite",
+        "zamega:golisopite",
+        "zamega:zygardite",
+        "zamega:tatsugirinite",
+        "zamega:barbaracite",
+        "zamega:clefablite",
+        "zamega:delphoxite",
+        "zamega:dragalgite",
+        "zamega:chimechite",
+        "zamega:falinksite",
+        "zamega:raichunitex",
+        "zamega:chesnaughtite",
+        "zamega:feraligite",
+        "zamega:chandelurite",
+        "zamega:meowsticite",
+        "zamega:zeraorite",
+        "zamega:glimmoranite",
+        "zamega:drampanite",
+        "zamega:hawluchanite",
+        "zamega:eelektrossite",
+        "zamega:lucarionitez",
+        "zamega:golurkite",
+        "zamega:floettite",
+        "zamega:heatranite",
+        "zamega:scraftinite",
+        "zamega:dragoninite",
+        "zamega:froslassite",
+        "zamega:victreebelite",
+        "zamega:absolitez",
+        "zamega:scovillainite",
+        "zamega:staraptite",
+        "zamega:skarmorite",
+        "zamega:scolipite",
+        "zamega:raichunitey",
+        "zamega:crabominite"])
 })
 
 ServerEvents.tags('entity_type', allthemods => {
@@ -152,7 +199,7 @@ ServerEvents.tags('entity_type', allthemods => {
         'the_bumblezone:bee_queen'
     ])
 
-    allthemods.add('ars_nouveau:jar_blacklist', ["the_bumblezone:bee_queen","@cobblemon"])
+    allthemods.add('ars_nouveau:jar_blacklist', ["the_bumblezone:bee_queen", "@cobblemon"])
     allthemods.add('apothic_spawners:blacklisted_from_spawners', '#allthemods:jank_blacklist')
     allthemods.add('enderio:soul_vial_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('industrialforegoing:mob_duplicator_blacklist', '#allthemods:jank_blacklist')
@@ -171,22 +218,22 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add("occultism:trinity_gem_deny_list", "#c:capturing_not_supported")
     //allthemods.add("industrialforegoing:mob_imprisonment_tool_blacklist", "#c:capturing_not_supported")
 
-	allthemods.add("ftbchunks:entity_interact_whitelist",["rctmod:trainer","rctmod:trainer_association"])
+    allthemods.add("ftbchunks:entity_interact_whitelist", ["rctmod:trainer", "rctmod:trainer_association"])
 
-	allthemods.add("minecraft:beehive_inhabitors", "occultism:possessed_bee")
+    allthemods.add("minecraft:beehive_inhabitors", "occultism:possessed_bee")
 });
 
 ServerEvents.tags('worldgen/structure', allthemods => {
     // Cataclysm
     allthemods.add('cataclysm:berserker_spawn', "betterfortresses:fortress");
 
-    allthemods.remove("villagesandpillages:village_witch",["villagesandpillages:village_witch"])
+    allthemods.remove("villagesandpillages:village_witch", ["villagesandpillages:village_witch"])
 });
 
 ServerEvents.tags('raid:boss', allthemods => {
-    allthemods.remove("cobblemonraiddens:avalugg_hisuian",["cobblemonraiddens:avalugg_hisuian"])
-    allthemods.remove("cobblemonraiddens:arcanine_hisuian",["cobblemonraiddens:arcanine_hisuian"])
-    allthemods.remove("cobblemonraiddens:growlithe_hisuian",["cobblemonraiddens:growlithe_hisuian"])
+    allthemods.remove("cobblemonraiddens:avalugg_hisuian", ["cobblemonraiddens:avalugg_hisuian"])
+    allthemods.remove("cobblemonraiddens:arcanine_hisuian", ["cobblemonraiddens:arcanine_hisuian"])
+    allthemods.remove("cobblemonraiddens:growlithe_hisuian", ["cobblemonraiddens:growlithe_hisuian"])
 });
 
 ServerEvents.tags('enchantment', allthemods => {
@@ -201,28 +248,28 @@ ServerEvents.tags('block_entity_type', allthemods => {
 });
 
 ServerEvents.tags('item', allthemods => {
-  allthemods.remove("minecraft:head_armor",["pkgbadges:alians_scraf_helmet"])
-  allthemods.add("minecraft:head_armor",["pkgbadges:alians_scraf"])
-  allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot"]);
+    allthemods.remove("minecraft:head_armor", ["pkgbadges:alians_scraf_helmet"])
+    allthemods.add("minecraft:head_armor", ["pkgbadges:alians_scraf"])
+    allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot"]);
 })
 
 ServerEvents.tags('block', allthemods => {
-  allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm", "cobblemon:display_case"]);
+    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm", "cobblemon:display_case"]);
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
-  allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
-  allthemods.remove('pneumaticcraft:has_surface_oil_lakes', ["#minecraft:is_overworld"]);
-  allthemods.add('pneumaticcraft:has_surface_oil_lakes', ["#c:is_beach"]);
+    allthemods.add('justdirethings:unstable_portal_fluid_viable', ["nullscape:crystal_peaks", "nullscape:shadowlands", "nullscape:void_barrens"]);
+    allthemods.remove('pneumaticcraft:has_surface_oil_lakes', ["#minecraft:is_overworld"]);
+    allthemods.add('pneumaticcraft:has_surface_oil_lakes', ["#c:is_beach"]);
 });
 
 ServerEvents.generateData('last', allthemons => {
     allthemons.json("industrialforegoing:tags/entity_type/mob_imprisonment_tool_blacklist.json", {
-		"values": ["#c:capturing_not_supported"],
-		"remove": [
-			"cobblemon:pokemon"
-		]
-	})
+        "values": ["#c:capturing_not_supported"],
+        "remove": [
+            "cobblemon:pokemon"
+        ]
+    })
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
