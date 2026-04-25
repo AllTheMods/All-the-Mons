@@ -7,7 +7,7 @@ Ponder.registry((allthemods) => {
 		'mekanism:induction_port'
 		])
 		
-	.scene('induction_mek','Mekanism: Induction Matrix', 'kubejs:induction_matrix',
+	.scene('induction_mek', Text.translate('kubejs.ponder.induction_mek.header'), 'kubejs:induction_matrix',
 		
 	(scene, util) => {
 		
@@ -17,7 +17,7 @@ Ponder.registry((allthemods) => {
 			scene.world.showSection([0, 0, 0, 4, 4, 4], Facing.down);
             scene.idle(10);
 			
-			scene.text(80, 'The Induction Matrix is used to store tons of Power.', [0, 4.5, 4.5]).placeNearTarget().attachKeyFrame();
+			scene.text(80, Text.translate('kubejs.ponder.induction_mek.text_1'), [0, 4.5, 4.5]).placeNearTarget().attachKeyFrame();
 			scene.idle(85);
 			
 			//Hide and build
@@ -47,7 +47,7 @@ Ponder.registry((allthemods) => {
                 scene.idle(5);
 			});
 			
-			scene.text(80, 'The Edges Must Be Casings', [0, 4.5, 4.5]).placeNearTarget().attachKeyFrame();
+			scene.text(80, Text.translate('kubejs.ponder.induction_mek.text_2'), [0, 4.5, 4.5]).placeNearTarget().attachKeyFrame();
 			scene.idle(5);
 			
 			scene.world.showSection([4, 4, 0], Facing.down);
@@ -67,7 +67,7 @@ Ponder.registry((allthemods) => {
             scene.idle(60);
 
 		
-			scene.text(80, 'The Faces Can Be Either Casings Or Structural Glass.', [0, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
+			scene.text(80, Text.translate('kubejs.ponder.induction_mek.text_3'), [0, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
 			
 			//Side Sections
 			
@@ -97,10 +97,10 @@ Ponder.registry((allthemods) => {
 			
 			//Talk about Ports
 			
-			scene.text(60, 'Ports Are Used To Transfer Power.', [1.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.induction_mek.text_4'), [1.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
 			scene.idle(80);
 			
-			scene.text(80, 'Ports Can Be Changed Using A Configurator.', [1.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
+			scene.text(80, Text.translate('kubejs.ponder.induction_mek.text_5'), [1.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
 			scene.showControls(80, [1.5, 2.5, 0], 'down').rightClick().withItem('mekanism:configurator').whileSneaking();
 			scene.world.modifyBlock([1, 1, 0], (curState) => curState.with("active", "false"), true);
 			scene.idle(20);
@@ -114,16 +114,16 @@ Ponder.registry((allthemods) => {
 			scene.world.hideSection([1, 4, 1, 3, 4, 3], Facing.up)
 			scene.idle(20);
 			
-			scene.text(60, 'Induction Cells Are Used To Increase Power Storage.', [2.5, 1.5, 2.5]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.induction_mek.text_6'), [2.5, 1.5, 2.5]).placeNearTarget().attachKeyFrame();
 			scene.world.setBlock([2, 1, 2], 'mekanism:basic_induction_cell', false);
             scene.world.showSection([2, 1, 2], Facing.down)
             scene.idle(65);
-			scene.text(60, 'Induction Providers Are Used To Increase Power Transfer Rate.', [2.5, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.induction_mek.text_7'), [2.5, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
 			scene.world.setBlock([2, 2, 2], 'mekanism:basic_induction_provider', false);
             scene.world.showSection([2, 2, 2], Facing.down)
             scene.idle(65)
 			
-			scene.text(60, 'The Matrix Must Have One Cell and One Provider.', [2, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.induction_mek.text_8'), [2, 2.5, 2.5]).placeNearTarget().attachKeyFrame();
 			scene.idle(65)
 			
 			

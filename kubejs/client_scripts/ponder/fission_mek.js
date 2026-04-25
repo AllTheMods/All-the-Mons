@@ -3,7 +3,7 @@
 
 Ponder.registry((allthemods) => {
     allthemods.create('mekanismgenerators:fission_reactor_casing')
-	.scene('fission_mek','Mekanism Fission Reactor', 'kubejs:fission_mek',
+    .scene('fission_mek', Text.translate('kubejs.ponder.fission_mek.header'), 'kubejs:fission_mek',
 		
 	(scene, util) => {
 		
@@ -30,7 +30,7 @@ Ponder.registry((allthemods) => {
                 scene.idle(5)
 				});
 				
-			scene.text(80, 'The Edges Must Be Casings', [0, 4.5, 4.5]).placeNearTarget();
+            scene.text(80, Text.translate('kubejs.ponder.fission_mek.text_1'), [0, 4.5, 4.5]).placeNearTarget();
 			
             scene.world.showSection([4, 4, 0], Facing.down);
             scene.world.showSection([0, 4, 4], Facing.down);
@@ -70,7 +70,7 @@ Ponder.registry((allthemods) => {
             scene.world.showSection([0, 1, 1, 0, 3, 3], Facing.east);
             scene.idle(5)
 		
-			scene.text(80, 'The Walls Can Be Either Casings Or Glass', [0, 2.5, 2.5]).placeNearTarget();
+            scene.text(80, Text.translate('kubejs.ponder.fission_mek.text_2'), [0, 2.5, 2.5]).placeNearTarget();
 
             // east glass
             scene.world.showSection([4, 1, 1, 4, 3, 3], Facing.west);
@@ -82,7 +82,7 @@ Ponder.registry((allthemods) => {
 			scene.world.hideSection([1, 4, 1, 3, 4, 3], Facing.up)
 			scene.idle(10);
 			
-			scene.text(60, 'Place Fuel Assembly Blocks Inside To Make The Fuel Rods', [2.5, 2.5, 2.5]).placeNearTarget();
+            scene.text(60, Text.translate('kubejs.ponder.fission_mek.text_3'), [2.5, 2.5, 2.5]).placeNearTarget();
 			scene.world.setBlock([2, 1, 2], 'mekanismgenerators:fission_fuel_assembly', false);
             scene.world.showSection([2, 1, 2], Facing.down)
             scene.idle(10)
@@ -95,7 +95,7 @@ Ponder.registry((allthemods) => {
 			scene.world.setBlock([2, 3, 2], 'mekanismgenerators:control_rod_assembly', false);
 			scene.world.showSection([2, 3, 2], Facing.down)
 			scene.idle(10)
-			scene.text(60, 'Place Control Rod Assembly At The Top Of Each Fuel Rod', [2.5, 3.5, 2.5]).placeNearTarget();
+            scene.text(60, Text.translate('kubejs.ponder.fission_mek.text_4'), [2.5, 3.5, 2.5]).placeNearTarget();
 			scene.idle(20);
 			scene.addKeyframe();
 			scene.idle(60);
