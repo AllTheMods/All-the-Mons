@@ -68,7 +68,7 @@ NetworkEvents.dataReceived("battle_tower_shop_items", event => {
         let itemId = item.get("item").getAsString()
         if (Item.exists(itemId)) {
           let stack = Item.of(itemId)
-          let recipe = $IngredientInfoRecipe.create(jeiRuntime.getIngredientManager(), [stack], $VanillaTypes.ITEM_STACK, [Text.of(`This item is for sale at Holo Battle Tower. Each ${count} for ${cost} Battle Points.`)])
+          let recipe = $IngredientInfoRecipe.create(jeiRuntime.getIngredientManager(), [stack], $VanillaTypes.ITEM_STACK, [Text.translate('kubejs.atm.rv.battle_tower_sale', count, cost)])
           recipes.push(recipe)			
         } else {
           console.log("[Battle Tower Shop] Item for id " + itemId + " does not exist!")
@@ -82,10 +82,10 @@ NetworkEvents.dataReceived("battle_tower_shop_items", event => {
 
 RecipeViewerEvents.addInformation('item', allthemods => {
   allthemods.add('justdirethings:polymorphic_catalyst', [
-    '§8Drop a §cPolymorphic Catalyst§8 into §1Water§8 to get Polymorphic Fluid'
+    Text.translate('kubejs.atm.rv.polymorphic_catalyst.1')
   ])
   allthemods.add('justdirethings:portal_fluid_catalyst', [
-    '§8Drop a §dPortal Fluid Catalyst§8 into Polymorphic Fluid§8 in t§dThe End§8 to get §5Unstable Portal Fluid'
+    Text.translate('kubejs.atm.rv.portal_fluid_catalyst.1')
   ])
   allthemods.add('cobblemon:leftovers', [
     'Can be randomly obtained from eating Apples'
@@ -94,13 +94,13 @@ RecipeViewerEvents.addInformation('item', allthemods => {
 
 RecipeViewerEvents.addInformation('fluid', allthemods => {
   allthemods.add("advanced_ae:quantum_infusion_source", [
-    '§8In the Reaction Chamber: §e4000mb of Water§8 + §e1x Quantum Infused Dust§8 = §b1000mb of Quantum Infusion'
+    Text.translate('kubejs.atm.rv.quantum_infusion_source.1')
   ])
   allthemods.add("justdirethings:polymorphic_fluid_source", [
-    '§8Drop a §cPolymorphic Catalyst§8 into §bWater§8 to get Polymorphic Fluid'
+    Text.translate('kubejs.atm.rv.polymorphic_fluid_source.1')
   ])
   allthemods.add("justdirethings:unstable_portal_fluid_source", [
-    '§8Drop a §dPortal Fluid Catalyst§8 into §dPolymorphic Fluid§8 in §5The End§8 to get §5Unstable Portal Fluid'
+    Text.translate('kubejs.atm.rv.unstable_portal_fluid_source.1')
   ])
 })
 
@@ -110,3 +110,4 @@ RecipeViewerEvents.registerSubtypes("item", event => {
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
+
