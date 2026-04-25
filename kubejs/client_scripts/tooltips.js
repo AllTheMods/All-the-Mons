@@ -167,19 +167,5 @@ ItemEvents.modifyTooltips(allthemods => {
     ])
 })
 
-/** @type {typeof import("net.neoforged.neoforge.event.entity.player.ItemTooltipEvent").$ItemTooltipEvent} */
-let $ItemTooltipEvent = Java.loadClass("net.neoforged.neoforge.event.entity.player.ItemTooltipEvent")
-
-NativeEvents.onEvent($ItemTooltipEvent, event => {
-    if (event.itemStack.id == "allthemons:pika_star") {
-        let count = event.itemStack.get("allthemons:count")
-        if (count!= null && count == 0) {
-            let region = event.itemStack.get("allthemons:region")
-            if (region != null && region.serializedName.equals("unbound")) return
-            event.toolTip.add(Text.translate("kubejs.atm.tooltip.update_progress").aqua().italic())
-        }
-    }
-})
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
 // As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
