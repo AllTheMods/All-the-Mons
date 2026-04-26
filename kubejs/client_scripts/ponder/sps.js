@@ -6,7 +6,7 @@ Ponder.registry((allthemods) => {
 	'mekanism:sps_casing',
 	'mekanism:sps_port',
 	'mekanism:supercharged_coil'])
-	.scene('sps','Mekanism: Supercritical Phase Shifter (SPS)', 'kubejs:sps',
+	.scene('sps', Text.translate('kubejs.ponder.sps.header'), 'kubejs:sps',
 		
 	(scene, util) => {
 		
@@ -15,13 +15,13 @@ Ponder.registry((allthemods) => {
 			scene.setSceneOffsetY(-1);
             scene.idle(20);
 			
-			scene.text(60, 'The SPS converts Polonium into Antimatter Gas using a large amount of power', [0, 3.5, 6.5]).placeNearTarget();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_1'), [0, 3.5, 6.5]).placeNearTarget();
 			scene.addKeyframe();
 			scene.idle(80)
 			
 			scene.addKeyframe()
 			
-			scene.text(60, 'Ports Can Be Changed Using A Configurator', [2.5, 1.5, 0]).placeNearTarget();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_2'), [2.5, 1.5, 0]).placeNearTarget();
 			scene.showControls(60, [2.5, 2.5, 0], 'down').rightClick().withItem('mekanism:configurator').whileSneaking();
 			scene.idle(10);
 			scene.world.modifyBlock([2, 1, 0], (curState) => curState.with("active", "true"), false);
@@ -32,18 +32,18 @@ Ponder.registry((allthemods) => {
 			scene.world.hideSection([0, 0, 0, 6, 6, 5], Facing.up);
 			scene.idle(10);
 			
-			scene.text(60, 'The SPS is built using this pattern for each face.', [2.5, 4, 5]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_3'), [2.5, 4, 5]).placeNearTarget().attachKeyFrame();
 			scene.idle(60);
 			
 			//east face
 			scene.world.showSection([6, 0, 0, 6, 7, 5], Facing.down);
 			scene.idle(10);
 			
-			scene.text(60, 'On one side, you will need a Port in the middle to input power.', [5.5, 4, 3]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_4'), [5.5, 4, 3]).placeNearTarget().attachKeyFrame();
 			scene.idle(70);
 			
 			scene.world.showSection([5, 3, 3], Facing.down);
-			scene.text(60, 'On the inside, place a Supercharged Coil on the Port.', [5, 4, 3]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_5'), [5, 4, 3]).placeNearTarget().attachKeyFrame();
 			scene.idle(80);
 			
 			//west face
@@ -51,7 +51,7 @@ Ponder.registry((allthemods) => {
 			scene.idle(30);
 			
 			scene.world.showSection([1, 3, 3], Facing.down);
-			scene.text(60, 'You can also use two Supercharged Coils for max power usage.', [0, 4, 3]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_6'), [0, 4, 3]).placeNearTarget().attachKeyFrame();
 			scene.idle(80);
 			
 			//bottom face
@@ -67,11 +67,11 @@ Ponder.registry((allthemods) => {
 			scene.idle(30);
 			
 			
-			scene.text(60, 'You will need one Port for inputting Polonium.', [4.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_7'), [4.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
 			scene.idle(70);
 			
 			scene.world.modifyBlock([2, 1, 0], (curState) => curState.with("active", "true"), true);
-			scene.text(60, 'And another for exporting Antimatter Gas.', [2.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
+			scene.text(60, Text.translate('kubejs.ponder.sps.text_8'), [2.5, 1.5, 0]).placeNearTarget().attachKeyFrame();
 			scene.idle(70);
 			
 				

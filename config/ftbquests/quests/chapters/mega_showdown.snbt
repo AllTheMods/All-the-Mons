@@ -373,8 +373,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "250DF8CF8A07A888"
-				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:mega_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "1CBDF43B0961C245"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:mega_stone)mod(zamega))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -3.5d
