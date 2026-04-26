@@ -20,7 +20,7 @@ ItemEvents.dynamicTooltips('cobblemon_species', event => {
 
     var gender = raw.match(/Gender:"([^"]+)"/)
 
-    event.add(Text.translatable('§6Captured: ').append(Text.translatable('cobblemon.species.' + nameOnly + '.name')))
+    event.add(Text.translatable('cobblemon.species.' + nameOnly + '.name'))
     if (gender) event.add(Text.translatable('cobblemon.gender.' + gender[1].toLowerCase()))
-    if (isShiny) event.add(Text.of('§e★ SHINY ★'))
+    if (isShiny) event.add(Text.translatable('cobblemon.command.pcsearch.tooltip.shiny'))
 })
