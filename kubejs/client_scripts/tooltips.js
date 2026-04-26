@@ -4,13 +4,6 @@
 ItemEvents.modifyTooltips(allthemods => {
 
     //AllTheModium
-    allthemods.add('allthemodium:teleport_pad',[
-        Text.translate('kubejs.atm.tooltip.teleport_pad.1'),
-        Text.translate('kubejs.atm.tooltip.teleport_pad.2'),
-        Text.translate('kubejs.atm.tooltip.teleport_pad.3'),
-        Text.translate('kubejs.atm.tooltip.teleport_pad.4'),
-        Text.translate('kubejs.atm.tooltip.teleport_pad.5')
-    ])
 
     allthemods.add(['allthemodium:allthemodium_ore', 'allthemodium:allthemodium_slate_ore'],[
         Text.translate('kubejs.atm.tooltip.allthemodium_ore.1'),
@@ -59,6 +52,10 @@ ItemEvents.modifyTooltips(allthemods => {
     ])
     allthemods.add('allthemodium:unobtainium_upgrade_smithing_template',[
         Text.translate('kubejs.atm.tooltip.smithing_template.unobtainium')
+    ])
+	// All The Mons
+	allthemods.add('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]',[
+        Text.translate('kubejs.atm.tooltip.patrickyu_egg')
     ])
 
     //Forbidden Arcanus

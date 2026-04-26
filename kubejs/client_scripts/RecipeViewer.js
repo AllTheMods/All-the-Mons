@@ -36,7 +36,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove(/mekmm:.*recycl.*/)
   allthemods.remove(/mekmm:.*planting.*/)
   // allthemods.remove('mekmm:cnc_lathe')
-  allthemods.remove(/mekmm:.*lathing.*/)
+  // allthemods.remove(/mekmm:.*lathing.*/)
   allthemods.remove(/mekmm:.*rolling_mill.*/)
 
   allthemods.remove("supplementaries:faucet")
@@ -86,6 +86,9 @@ RecipeViewerEvents.addInformation('item', allthemods => {
   ])
   allthemods.add('justdirethings:portal_fluid_catalyst', [
     Text.translate('kubejs.atm.rv.portal_fluid_catalyst.1')
+  ])
+  allthemods.add('cobblemon:leftovers', [
+    Text.translate('kubejs.atm.rv.leftovers.1')
   ])
 })
 
