@@ -1,5 +1,5 @@
 {
-    "_comment_id": "Items",
+    "_comment": "Items",
     "item.ironfurnaces.upgrade_iron": "Aprimoramento de Fornalha de Pedra para Ferro",
     "item.ironfurnaces.upgrade_gold": "Aprimoramento de Fornalha de Ferro para Ouro",
     "item.ironfurnaces.upgrade_diamond": "Aprimoramento de Fornalha de Ouro para Diamante",
@@ -28,10 +28,10 @@
     "item.ironfurnaces.upgrade_gold2": "Aprimoramento de Fornalha de Prata para Ouro",
     "item.ironfurnaces.item_copy": "Vinculador de Configurações de Fornalha",
 
-    "_comment_id": "TAB",
+    "_comment": "TAB",
     "itemGroup.ironfurnaces": "Iron Furnaces",
 
-    "_comment_id": "Blocks",
+    "_comment": "Blocks",
     "block.ironfurnaces.iron_furnace": "Fornalha de Ferro",
     "block.ironfurnaces.gold_furnace": "Fornalha de Ouro",
     "block.ironfurnaces.diamond_furnace": "Fornalha de Diamante",
@@ -44,7 +44,7 @@
     "block.ironfurnaces.million_furnace": "Fornalha de Arco-íris",
     "block.ironfurnaces.heater": "Transmissor de Calor Sem Fio",
 
-    "_comment_id": "ATM",
+    "_comment": "ATM",
     "block.ironfurnaces.allthemodium_furnace": "Fornalha de Allthemodium",
     "block.ironfurnaces.vibranium_furnace": "Fornalha de Vibranium",
     "block.ironfurnaces.unobtainium_furnace": "Fornalha de Unobtainium",
@@ -57,7 +57,7 @@
 
 
 
-    "_comment_id": "GUI",
+    "_comment": "GUI",
     "container.ironfurnaces.iron_furnace": "Fornalha de Ferro",
     "container.ironfurnaces.gold_furnace": "Fornalha de Ouro",
     "container.ironfurnaces.diamond_furnace": "Fornalha de Diamante",
@@ -73,7 +73,7 @@
     "ironfurnaces.jei_category_blasting": "Gerador | Alto-forno",
     "ironfurnaces.jei_category_smoking": "Gerador | Defumação",
 
-    "_comment_id": "Tooltips",
+    "_comment": "Tooltips",
     "tooltip.ironfurnaces.cooktime": "Tempo de Cozimento",
     "tooltip.ironfurnaces.upgrade_right_click": "Agache e clique com o botão direito para aprimorar",
     "tooltip.ironfurnaces.xmas_right_click": "Clique com o botão direito na fornalha para embrulhá-la como um presente!",
@@ -151,10 +151,11 @@
     "tooltip.ironfurnaces.rainbow_gen5": "Você só pode ter um Gerador de Arco-íris",
 
 
-    "_comment_id": "Updates",
+    "_comment": "Updates",
     "ironfurnaces.update.speech": "[{\"text\":\"Há uma Atualização para \"},{\"text\":\"Iron Furnaces \",\"color\":\"dark_green\"},{\"text\":\"disponível!\",\"color\":\"none\"}]",
     "ironfurnaces.update.version": "[{\"text\":\"Versão Atual: \"},{\"text\":\"%s\",\"color\":\"dark_red\"},{\"text\":\", Versão Mais Nova: \",\"color\":\"none\"},{\"text\":\"%s\",\"color\":\"dark_green\"}]",
     "ironfurnaces.update.buttons": "[{\"text\":\"[\"},{\"text\":\"Clique para Changelog\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"] [\",\"color\":\"none\"},{\"text\":\"Clique para Download\",\"color\":\"green\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"%s\"}},{\"text\":\"]\",\"color\":\"none\"}]",
     "ironfurnaces.update.buttonOptions": "Clique: Changelog, Shift-Clique: Download! (No Navegador)",
     "ironfurnaces.update.failed": "[{\"text\":\"A Verificação de Atualização para \"},{\"text\":\"Iron Furnaces \",\"color\":\"dark_green\"},{\"text\":\"falhou! Verifique os Logs para mais informações!\",\"color\":\"none\"}]"
+
 }
