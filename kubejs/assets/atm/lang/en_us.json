@@ -308,7 +308,7 @@
 	"kubejs.atm.tooltip.mekanism.increased_production_speed": "Increased Production Speed!",
 	"kubejs.atm.tooltip.mekanism.waste_to_plutonium_buffed": "Waste -> Plutonium buffed!",
 	"kubejs.atm.tooltip.mekanism.waste_to_polonium_buffed": "Waste -> Polonium buffed!",
-	"kubejs.atm.tooltip.patrickyu_egg": "§6Patrickyu Variant"
+	"kubejs.atm.tooltip.patrickyu_egg": "§6Patrickyu Variant",
 	"kubejs.atm.tooltip.runic.1": "§7Spawns at the bottom of the world up to Y 2",
 	"kubejs.atm.tooltip.silent_ingot.1": "§7§oThese arent the ingots you are looking for",
 	"kubejs.atm.tooltip.silent_ingot.allthemodium": "§6Look for the [Silent Allthemodium Plate]",
@@ -360,5 +360,8 @@
 	"crop.mysticalagriculture.sky_steel": "Sky Steel",
 	"crop.mysticalagriculture.unexplored_wood": "Unexplored Wood",
 	"crop.mysticalagriculture.unobtainium": "Unobtainium",
-	"crop.mysticalagriculture.vibranium": "Vibranium"
+	"crop.mysticalagriculture.vibranium": "Vibranium",
+	"kubejs.atm.sr.mekasuit_req": "You are not wearing MekaSuit with Radiation Shielding Unit on every piece.",
+	"kubejs.atm.sr.meteor_shower_check_error": "Something went wrong when trying to find Meteor Shower, report to ATM Devs!",
+	"kubejs.atm.sr.meteor_shower_forecast": "Next Meteor Shower will be in %s"
 }
