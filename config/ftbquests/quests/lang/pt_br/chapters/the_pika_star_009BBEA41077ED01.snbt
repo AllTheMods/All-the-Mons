@@ -1,5 +1,7 @@
 {
-	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r."]
+	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r cruzando um &3Ditto&r com um &ePatrickyu&r segurando uma &7Pedra da Eternidade."]
+	quest.1B09DCB8AC3A420A.quest_subtitle: ""
+	quest.1B09DCB8AC3A420A.title: ""
 	quest.279FADB5CBA260D7.quest_desc: [
 		"Para fabricar uma &dEstrela Pika regional&r você precisa:"
 		""
@@ -7,9 +9,9 @@
 		"- &aEnviar 6 Pokémon &rda mesma &6Região &rperto do &5altar&r."
 		"  - &7Exemplo para &6Kanto&r:"
 		"  - &bAbra&r, &bRattata&r, &bCharmander&r, &bPikachu&r, &bGrimer&r, &bStaryu&r "
-		"- &ePreencher as Vitrines&r com quaisquer &dMega Stones&r."
+		"- &ePreencher as Vitrines&r com quaisquer &dMega Pedra&r."
 		"- &aOferecer as 4 Pokébolas ancestrais&r"
-		"- &cOferecer a Estrela Pika Livre &rpara iniciar o &dritual&r."
+		"- &cOferecer a Estrela Pika Libertada &rpara iniciar o &dritual&r."
 		""
 		"&oClique na próxima página para ver um exemplo&r"
 		"{@pagebreak}"
@@ -29,7 +31,7 @@
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/allthemons/pika_star_ritual.png width:200 height:200 align:center}"
 	]
-	quest.2DBB88E1C147F496.title: "Estrela Pika Livre"
+	quest.2DBB88E1C147F496.title: "Estrela Pika Libertada"
 	quest.3B7A4929A1FCFFC6.quest_desc: [
 		"Como ler as receitas do &5Altar &rno JEI:"
 		""
@@ -47,8 +49,8 @@
 	]
 	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &eEstrela Pikas &cregionais."]
 	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &eEstrela Pika &cregional."]
-	task.0C959B11B37F53C6.title: "Como Usar o Altar"
+	task.0C959B11B37F53C6.title: "Como usar o Altar"
 	task.37F598DD9EEE414F.title: "Create: Sand Papers"
 	task.53851DD297E86E63.title: "Estrela Pika Regional"
-	task.7ED7D21BBF1C5F3F.title: "Mega Showdown Mega Stones"
+	task.7ED7D21BBF1C5F3F.title: "Mega Confronto, Mega Pedra"
 }

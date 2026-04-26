@@ -25,7 +25,7 @@
 	quest.3142A40E1EAEBAA3.quest_desc: ["A &6Varinha de Prospecção&r lhe dá Descoberta Mágica e Vidência quando usada. \\n\\nIsso permite que você veja criaturas mágicas próximas, bem como o ajuda a encontrar ametista!"]
 	quest.3142A40E1EAEBAA3.quest_subtitle: "Localizador Mágico"
 	quest.3182E8AF755104E4.quest_desc: ["Ao bloquear dano, o &9Escudo do Encantador&r dará ao usuário Regeneração de Mana e Dano de Feitiço por um curto período de tempo. \\n\\nAdicionalmente, o escudo se reparará ao longo do tempo usando a mana do usuário."]
-	quest.33682F4B44950123.quest_desc: ["Para obter mais conhecimento sobre feitiços, precisaremos de um tipo específico de madeira mágica! \\n\\nÁrvores de Archwood podem ser encontradas no Mundo Superior."]
+	quest.33682F4B44950123.quest_desc: ["Para obter mais conhecimento sobre feitiços, precisaremos de um tipo específico de madeira mágica! \\n\\nÁrvores de Archwood podem ser encontradas na Superfície."]
 	quest.36CDA39C23D3AA2B.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
 	quest.3D4D88B8BE881351.quest_desc: ["Se você quiser lançar feitiços melhores, precisará de uma &6Mesa de Escriba&r para desbloquear novos glifos para seu livro de feitiços. \\n\\nExistem 3 tiers de glifos para desbloquear, e cada um requer alguma experiência e itens. \\n\\nA Mesa de Escriba também é usada para anexar feitiços a Pergaminhos de Feitiço. Para fazer isso, coloque um Pergaminho de Feitiço na mesa, selecione o feitiço em seu Livro de Feitiços e, em seguida, agache e clique com o botão direito do mouse com o livro na mesa. \\n\\nPara criar um Glifo, clique com o botão direito na Mesa de Escriba com seu livro de feitiços. Procure o glifo que deseja fazer e clique em Selecionar na parte inferior. Clique com o botão direito na mesa com os itens necessários e o glifo será criado. Use o glifo para aprendê-lo. \\n\\nNota: A mesa pode puxar itens de inventários próximos."]
 	quest.3D4D88B8BE881351.quest_subtitle: "Aprimorando Feitiços"
@@ -44,16 +44,16 @@
 	quest.51162B9185A45BB1.quest_desc: ["Este arco pode ser inscrito com um feitiço usando uma Mesa de Escriba. \\n\\nAo custo de mana, as flechas se tornarão Flechas de Feitiço e aplicarão o feitiço em seu alvo. \\n\\nSe você não tiver flechas, uma flecha de feitiço que causa 0 de dano será lançada. Se não houver mana suficiente, flechas normais serão disparadas. \\n\\nO &9Arco do Encantador&r também pode usar Flechas de Aumento especiais que fortalecem o feitiço inscrito."]
 	quest.542C6D76B579886C.quest_desc: ["Usando nossa estrutura de Aparato de Encantamento, vamos querer criar nossa primeira semente, a &5Semente de Magebloom&r. \\n\\nIsso será usado para criar algumas roupas mágicas para nós!"]
 	quest.5766C8B9E850C186.quest_desc: [
-		"Para criar um dos principais itens de criação em Ars, a &9Source Gem&r, precisaremos fazer uma &6Imbuement Chamber&r. \\n\\nA Imbuement Chamber requer Fonte para imbuir itens. Ela produz uma pequena quantidade de Source por si só, mas também pode usar Source Jars como fonte de energia. \\n\\nVárias receitas também exigem que Pedestais Arcanos sejam colocados ao redor dela.\\n"
+		"Para criar um dos principais itens de criação em Ars, a &9Gema de Fonte&r, precisaremos fazer uma &6Imbuement Chamber&r. \\n\\nA Imbuement Chamber requer Fonte para imbuir itens. Ela produz uma pequena quantidade de Fonte por si só, mas também pode usar Jarro de Fonte como fonte de energia. \\n\\nVárias receitas também exigem que Pedestais Arcanos sejam colocados ao redor dela.\\n"
 		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
 	]
 	quest.5766C8B9E850C186.quest_subtitle: "Criando Gemas de Fonte"
 	quest.58EC47584C773B82.quest_desc: ["Usando nossa estrutura do Aparato de Encantamento, vamos querer criar nossa primeira semente, a &5Semente de Magebloom&r. \\n\\nIsso será usado para criar algumas roupas mágicas para nós!"]
 	quest.58EC47584C773B82.quest_subtitle: "Cultivando Magia"
 	quest.58EC47584C773B82.title: "Semente de Magebloom"
-	quest.5C3FF43CF16BCF30.quest_desc: ["Com as Gemas de Fonte, você pode começar a criar as várias máquinas, criando &5Sourcestones&r."]
+	quest.5C3FF43CF16BCF30.quest_desc: ["Com as Gemas de Fonte, você pode começar a criar as várias máquinas, criando &5Pedras de Fonte&r."]
 	quest.5C3FF43CF16BCF30.quest_subtitle: "Anteriormente \"Pedras Arcanas\""
-	quest.5C3FF43CF16BCF30.title: "Pedra de Fonte"
+	quest.5C3FF43CF16BCF30.title: "Pedras de Fonte"
 	quest.5CFBA24B3E0CDEDD.quest_desc: [
 		"Enquanto segura seu Livro de Feitiços, você pode pressionar C para abrir a página de criação de feitiços. \\n\\nCada feitiço deve ter uma forma. Você começa com 3 formas básicas: Projétil, Autolançamento e Toque. \\n\\nQuanto ao Efeito, isso determina o que acontece quando você lança o feitiço. Você pode ter até 9 efeitos por feitiço. \\n\\nPara começar, você tem Dano e Quebrar. \\n\\nSelecione uma Forma e um Efeito, dê um nome ao seu feitiço e clique em criar!"
 		""
@@ -77,7 +77,7 @@
 	quest.77145113CD5B26FB.quest_desc: ["Bagas de Fonte produzem mais Fonte do que outras fontes. \\n\\nIsso também converterá grama ou terra em Micélio em uma área de 3x3 ao seu redor. Também fará crescer cogumelos ao seu redor se o espaço estiver vazio."]
 	quest.77145113CD5B26FB.quest_subtitle: "Gera Fonte de Comida Próxima"
 	task.01FD75641E5EA5E4.title: "Mana"
-	task.03EB390E79866058.title: "Sourcestones"
+	task.03EB390E79866058.title: "Pedra de Fontes"
 	task.0E6876A34D1975EB.title: "TodosOsDireitosReservados"
 	task.15C6E9C02D1FBEC0.title: "Glifos de Nível 2"
 	task.1B916AE67F84E6D7.title: "Criando Seu Primeiro Feitiço"

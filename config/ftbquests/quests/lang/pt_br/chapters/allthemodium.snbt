@@ -59,8 +59,8 @@
 		"{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.24934231538B6492.title: "Pirâmide Ancestral"
-	quest.2C4299D33D419AA0.quest_desc: ["Coloque o Bloco de Teleporte no &2&lMundo Superior&r para ir para a &7&lDimensão de Mineração&r."]
-	quest.2C4299D33D419AA0.title: "&2&lMundo Superior"
+	quest.2C4299D33D419AA0.quest_desc: ["Coloque o Bloco de Teleporte na &2&lSuperfície&r para ir para a &7&lDimensão de Mineração&r."]
+	quest.2C4299D33D419AA0.title: "&2&lSuperfície"
 	quest.2CF6EA138B53CE1B.quest_desc: ["&3Vibranium&r combinado com &5Unobtainium&r!"]
 	quest.2CF6EA138B53CE1B.title: "Barra de Liga de &5Unobtainium&r - &3Vibranium&r"
 	quest.2D8026E10FBA7A72.quest_desc: ["Uma picareta muito rápida."]
@@ -103,7 +103,7 @@
 	quest.6E0624750DF8CD18.quest_desc: ["Não é mais possível criá-las, agora você precisa sempre aprimorar a &cNetherita&r para elas. \\nSim, isso salva Encantamentos e as repara!"]
 	quest.6E0624750DF8CD18.title: "Ferramentas de &6Allthemodium"
 	quest.6ECDD26CCCBC07C3.quest_desc: [
-		"Melhora direta da &cArmadura de Netherita&r, por isso manterá os &5Encantamentos&r. \\n\\nO conjunto completo de &6AllTheModium&r tem 24 Pontos de Armadura, 20 de Resistência de Armadura e 50% de Resistência a Repulsão. \\n\\nVocê acha que é só isso que eles dão? \\n\\n&6Elmos&r: &9Respiração Aquática&r, Imunidade ao &0Efeito de Escuridão&r do &3&lWarden&r e nenhum Dano de &7Élitro&r. \\n&6Peitoral&r: 50% de &dResistência a Dano Mágico&r e &cResistência ao Fogo&r. \\n&6Calças&r: &9Passos Profundos&r e Imunidade ao &0Wither&r. \\n&6Botas&r: Resistem a dano de queda, permitem que você ande sobre &bNeve Fofa&r e &cLava&r."
+		"Melhora direta da &cArmadura de Netherita&r, por isso manterá os &5Encantamentos&r. \\n\\nO conjunto completo de &6AllTheModium&r tem 24 Pontos de Armadura, 20 de Resistência de Armadura e 50% de Resistência a Repulsão. \\n\\nVocê acha que é só isso que eles dão? \\n\\n&6Elmos&r: &9Respiração Aquática&r, Imunidade ao &0Efeito de Escuridão&r do &3&lDefensor&r e nenhum Dano de &7Élitro&r. \\n&6Peitoral&r: 50% de &dResistência a Dano Mágico&r e &cResistência ao Fogo&r. \\n&6Calças&r: &9Passos Profundos&r e Imunidade ao &0Wither&r. \\n&6Botas&r: Resistem a dano de queda, permitem que você ande sobre &bNeve Fofa&r e &cLava&r."
 		"{image:atm:textures/questpics/allthemodium/all_armor_all.png width:100 height:175 align:center}"
 	]
 	quest.6ECDD26CCCBC07C3.title: "Armadura de &6Allthemodium"
@@ -129,7 +129,7 @@
 		"{image:atm:textures/questpics/allthemodium/all_armor_vib.png width:100 height:175 align:center}"
 	]
 	quest.7DE2154159D273C3.title: "&3Armadura de Vibranium"
-	task.00DDA48F9632A5C1.title: "Visitar o Mundo Superior"
+	task.00DDA48F9632A5C1.title: "Visite a Superfície"
 	task.03ACF4486D706DEE.title: "Armadura de Vibranium"
 	task.05256FE880D981D5.title: "Ferramentas de Vibranium"
 	task.0F9FCFCEE795FD41.title: "Visitar o Outro"

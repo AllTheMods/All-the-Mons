@@ -69,8 +69,8 @@
 			image: "atm:textures/questpics/justdirethings/goo_spread_ferricore.png"
 			rotation: 0.0d
 			width: 3.003550295857988d
-			x: -5.5d
-			y: 14.5d
+			x: -5.8d
+			y: 14.2d
 		}
 		{
 			height: 3.0d
@@ -93,7 +93,7 @@
 			image: "atm:textures/questpics/gettingstarted/started_pressure.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -14.5d
+			x: -14.0d
 			y: 0.5d
 		}
 		{
@@ -166,15 +166,15 @@
 			rotation: 0.0d
 			width: 2.0d
 			x: -2.0d
-			y: 10.5d
+			y: 10.0d
 		}
 		{
 			height: 5.0d
 			image: "immersiveengineering:textures/gui/workbench.png"
 			rotation: 0.0d
 			width: 5.0d
-			x: 6.0d
-			y: 14.5d
+			x: 6.5d
+			y: 14.75d
 		}
 		{
 			height: 2.0d
@@ -651,7 +651,7 @@
 				"59EC02C1FBCF14EA"
 				"7D972A3C4211EB26"
 				"4E8C32CD6057A1AB"
-				"37640F28614CDC51"
+				"4D2A93D9B246F961"
 			]
 			id: "2188C52C1F384DE4"
 			rewards: [
@@ -705,7 +705,7 @@
 				"2D474F8075E9DBD0"
 				"4B12425E74C5E511"
 				"486B5A605D79EA10"
-				"4E94B723CA20F978"
+				"75206FB2D4AA534A"
 			]
 			id: "1CE7B24E7E62C25B"
 			rewards: [
@@ -759,7 +759,7 @@
 				"3F8AEBB994716318"
 				"5791F3000D18E2C9"
 				"71581992E8E4C43E"
-				"646DC356539C293A"
+				"4D660BB94FD3D1D4"
 			]
 			id: "39B4F361EF611927"
 			rewards: [
@@ -2031,8 +2031,8 @@
 				item: { count: 1, id: "occultism:soul_gem" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: 0.0d
+			x: -8.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -2088,7 +2088,7 @@
 				item: { count: 1, id: "ironfurnaces:rainbow_coal" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: 0.0d
 			y: 8.0d
 		}
 		{
@@ -2494,7 +2494,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -2.0d
+			y: -1.875d
 		}
 		{
 			hide_dependent_lines: true
@@ -2645,8 +2645,8 @@
 				item: { count: 1, id: "occultism:datura_seeds" }
 				type: "item"
 			}]
-			x: -12.0d
-			y: 1.0d
+			x: -10.0d
+			y: 0.0d
 		}
 		{
 			id: "21AB14A8553896E9"
@@ -2790,8 +2790,8 @@
 				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: -2.0d
+			y: 8.0d
 		}
 		{
 			id: "7377C657CED885AC"
@@ -2875,8 +2875,8 @@
 				item: { count: 1, id: "alltheores:uranium_ingot" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 1.0d
+			x: 10.0d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -2984,7 +2984,7 @@
 				item: { count: 1, id: "eternal_starlight:book" }
 				type: "item"
 			}]
-			x: 14.0d
+			x: 15.0d
 			y: -2.0d
 		}
 		{
@@ -3432,7 +3432,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: -2.0d
+			y: -1.875d
 		}
 		{
 			icon: {
@@ -3552,6 +3552,7 @@
 		}
 		{
 			dependencies: ["792990DC06DB98F9"]
+			hide_dependent_lines: true
 			id: "75206FB2D4AA534A"
 			rewards: [
 				{
@@ -3579,28 +3580,12 @@
 				item: { count: 1, id: "eternal_starlight:tear_bomb" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 11.875d
 			y: 0.0d
 		}
 		{
-			dependencies: ["7D359283625C1869"]
-			id: "0FD6725306EC9CD8"
-			rewards: [{
-				id: "6A8A7A8E48FEF2DB"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "16CBA4FE49A16C7A"
-				item: { count: 1, id: "cataclysm:gauntlet_of_maelstrom" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -2.0d
-		}
-		{
 			dependencies: ["28DB59B20109D0D4"]
+			hide_dependent_lines: true
 			id: "4D2A93D9B246F961"
 			rewards: [
 				{
@@ -3629,6 +3614,7 @@
 		}
 		{
 			dependencies: ["216DA9782EBDFF34"]
+			hide_dependent_lines: true
 			id: "4D660BB94FD3D1D4"
 			rewards: [
 				{
@@ -3669,7 +3655,7 @@
 				id: "50A9A9BD3114EE45"
 				type: "advancement"
 			}]
-			x: -12.0d
+			x: -11.7d
 			y: 13.0d
 		}
 		{
@@ -3683,35 +3669,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["792990DC06DB98F9"]
-			hide_dependent_lines: true
-			id: "4E94B723CA20F978"
-			rewards: [
-				{
-					count: 4
-					id: "7CC05D097DEA4E36"
-					item: {
-						count: 1
-						id: "eternal_starlight:pungency_fruit"
-					}
-					type: "item"
-				}
-				{
-					id: "5BA7669FF4F87E05"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "763B80798E8AFCD3"
-				item: { count: 1, id: "eternal_starlight:tear_bomb" }
-				type: "item"
-			}]
-			x: 12.0d
-			y: -0.5d
-		}
-		{
 			dependencies: ["7D359283625C1869"]
 			hide_dependent_lines: true
 			id: "233AFC56C01A3EEC"
@@ -3721,55 +3678,8 @@
 				item: { count: 1, id: "cataclysm:gauntlet_of_maelstrom" }
 				type: "item"
 			}]
-			x: 9.61904761904762d
-			y: -3.955782312925159d
-		}
-		{
-			dependencies: ["28DB59B20109D0D4"]
-			hide_dependent_lines: true
-			id: "37640F28614CDC51"
-			rewards: [{
-				id: "35079A87E9070293"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			size: 1.25d
-			tasks: [{
-				id: "3AD90F6C73519D77"
-				item: { count: 1, id: "oritech:solid_biofuel" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 8.0d
-		}
-		{
-			dependencies: ["216DA9782EBDFF34"]
-			hide_dependent_lines: true
-			id: "646DC356539C293A"
-			rewards: [
-				{
-					count: 3
-					id: "74AF6108AC3B8EC9"
-					item: {
-						count: 1
-						id: "minecraft:wither_skeleton_skull"
-					}
-					type: "item"
-				}
-				{
-					id: "0AD3D8F8526C0D50"
-					type: "xp_levels"
-					xp_levels: 1
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "36105483ADE4D24B"
-				item: { count: 1, id: "occultism:witherite_dust" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: 4.0d
+			x: 8.0d
+			y: -1.875d
 		}
 	]
 }

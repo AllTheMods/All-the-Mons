@@ -37,7 +37,7 @@
 	quest.36DEA17CBB696CC7.quest_subtitle: "Tornando-se um Admin de Rede!"
 	quest.3BDB94F17765EE77.quest_desc: ["Se você está procurando gerar uma tonelada de energia, pode começar ampliando algumas das opções da seção &9Energia de Meio de Jogo&r. Aumente seus &aReatores&r. Aprimore seus &9Geradores Térmicos&r para Nitro. Enlouqueça.\\n\\nNo entanto, você pode precisar de ainda mais energia."]
 	quest.3BDB94F17765EE77.quest_subtitle: "Mais Energia do que Você Precisará"
-	quest.3BDB94F17765EE77.title: "Opções de Energia de Fim de Jogo"
+	quest.3BDB94F17765EE77.title: "Opções de Energia do fim de jogo"
 	quest.42D173B9FF8D16E4.quest_desc: ["Procurando por opções de energia no início do jogo? Estas são boas maneiras de começar a gerar energia.\\n\\nElas não produzem uma tonelada de energia, mas geralmente são fáceis ou baratas de obter no início do jogo!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Energia Inicial"
 	quest.42D173B9FF8D16E4.title: "&8&lOpções de Energia de Início de Jogo"
@@ -80,7 +80,7 @@
 	quest.79AD74A863EA43CB.quest_desc: ["A Flux Networks fornece uma maneira de armazenar a energia que você gera para sua rede!\\n\\nEstes armazenam enormes quantidades de energia no geral e podem ser atualizados para armazenar ainda mais!"]
 	quest.79AD74A863EA43CB.quest_subtitle: "Armazenando Energia"
 	quest.79AD74A863EA43CB.title: "Armazenamento Flux"
-	quest.7A979BEB20C9591E.quest_desc: ["Pó de Flux pode ser automatizado usando &6Productive Bees&r!\\n\\nOvos de Geração de Abelha de Redstone podem ser convertidos em Ovos de Geração de Abelha de Pó de Flux usando uma Abelha de Obsidiana."]
+	quest.7A979BEB20C9591E.quest_desc: ["Pó de Flux pode ser automatizado usando &6Productive Bees&r!\\n\\nOvos Gerador de Abelha de Redstone podem ser convertidos em Ovos Gerador de Abelha de Pó de Flux usando uma Abelha de Obsidiana."]
 	quest.7A979BEB20C9591E.title: "Pó de Flux Automatizado"
 	quest.7FE969CB4B419FC6.quest_desc: ["Com um pouco de trabalho no Mekanism, esta máquina permite transferir qualquer coisa sem fio.\\n\\nVocê pode definir canais específicos para transferir itens individuais, energia ou até mesmo gases do Mekanism. É bem legal."]
 	quest.7FE969CB4B419FC6.quest_subtitle: "Não funciona só para Energia"

@@ -32,9 +32,9 @@
 	quest.1366B946928C873B.quest_desc: ["Confira a Página de Missões da &6&lBumblezone&r para saber mais!"]
 	quest.1366B946928C873B.quest_subtitle: "10"
 	quest.1366B946928C873B.title: "Armadura de Abelha 1"
-	quest.15978093237448FE.quest_desc: ["Por que atualizar &cNetherita&r para &6Allthemodium&r ou até mesmo qualquer outra coisa quando podemos atualizá-la para &3Armadura do Warden&r! \\n\\nVocê precisará de alguns Drops do Warden para fazê-la, no entanto!"]
+	quest.15978093237448FE.quest_desc: ["Por que atualizar &cNetherita&r para &6Allthemodium&r ou até mesmo qualquer outra coisa quando podemos atualizá-la para &3Armadura do Defensor&r! \\n\\nVocê precisará de alguns Drops do Defensor para fazê-la, no entanto!"]
 	quest.15978093237448FE.quest_subtitle: "24"
-	quest.15978093237448FE.title: "Armadura do &3Warden"
+	quest.15978093237448FE.title: "Armadura do &3Defensor"
 	quest.16359196D49A6223.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_froststeel.png width:100 height:150 align:center}"]
 	quest.16359196D49A6223.title: "&bAço Gelado&r"
 	quest.17A68C4E9E9EA2B7.quest_desc: ["A &eArmadura de Ouro&r está entre a de Ferro e a de &7Couro&r. Mas sua Durabilidade é muito mais próxima da de &7Couro&r. \\n\\nNão há muito uso para ela, além de fazer com que os Piglins fiquem neutros em relação a você quando estiver usando alguma &eArmadura de Ouro&r."]
@@ -109,7 +109,7 @@
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r é uma recompensa da Recompensa de Netuno, que é obtida através da Pesca! \\nTambém concede bônus por estar debaixo d'água."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Armadura de Neptunium"
-	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMeka-Traje&r, pode usar Energia como um escudo. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
+	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r pode ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMeka-Traje&r, pode usar Energia como um escudo. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
 	quest.34D14B807A2DAC0F.quest_subtitle: "Tanta Energia quanto você puder fornecer"
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
