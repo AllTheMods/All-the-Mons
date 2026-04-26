@@ -113,7 +113,7 @@
     "hostilenetworks.msg.no_model": "Nenhum modelo conhecido existe para este espécime.",
     "hostilenetworks.msg.built": "Modelo de Dados de %s construído com sucesso",
 
-    "_comment_id": "Vanilla Passives",
+    "_comment": "Vanilla Passives",
     "hostilenetworks.trivia.glow_squid": "No fundo do oceano elas se guardam.\nAbençoadas por um brilho luminescente.\nVocê ousa tomá-lo como seu?",
     "hostilenetworks.trivia.sheep": "Mestres da cor, e de todas as coisas quentes.\nNormalmente contidas, a menos que abençoadas por _jeb.",
     "hostilenetworks.trivia.iron_golem": "A mente de uma abóbora,\npilotando uma estrutura de metal.\nDefende a vila,\nmas não é totalmente dócil.",
@@ -129,12 +129,12 @@
     "hostilenetworks.trivia.cod": "Peixe.\n\n\nPeeeeeeixe.",
     "hostilenetworks.trivia.pig": "O porco é um caso interessante.\nPior que uma vaca para drops,\ne pior que um cavalo para montar.\nTalvez matá-lo seja um ato de bondade...",
 
-    "_comment_id": "Vanilla Hostiles",
+    "_comment": "Vanilla Hostiles",
     "hostilenetworks.trivia.breeze": "Um parente aéreo do Blaze,\nVórtices só podem ser encontrados\ndentro dos confins de uma Câmara de Desafios.",
     "hostilenetworks.trivia.blaze": "Traga baldes e observe em desespero\nenquanto tudo evapora, e tudo está\nem chamas. Você está em chamas.",
     "hostilenetworks.trivia.creeper": "Um arquiteto inverso por profissão.\nGeralmente incompreendido.",
     "hostilenetworks.trivia.drowned": "Um morto-vivo que desafiou\na morte novamente.\nDe alguma forma, ele aprendeu a usar um Tridente.",
-    "hostilenetworks.trivia.ender_dragon": "Senhor do Fim, mas não guarda tesouros.\nDestrua os cristais, quebre o ciclo.",
+    "hostilenetworks.trivia.ender_dragon": "Senhor do End, mas não guarda tesouros.\nDestrua os cristais, quebre o ciclo.",
     "hostilenetworks.trivia.enderman": "Amigável, a menos que provocado.\nEnganado por abóboras.\nTeleporta a curtas distâncias.",
     "hostilenetworks.trivia.ghast": "Se você ouvir algo que parece\numa lhama chorando, você provavelmente\nestá ouvindo um ghast.",
     "hostilenetworks.trivia.skeleton": "Um arqueiro formidável, mas talvez\nesteja usando algum tipo de cheat.\nUm escudo seria útil.",
@@ -154,17 +154,17 @@
     "hostilenetworks.trivia.warden": "O senhor adormecido de\numa Cidade Ancestral.\nEle não pode ver,\nmas ele não precisa.",
     "hostilenetworks.trivia.zombified_piglin": "Um pobre habitante do Nether que se\ntornou um zumbi.\nTem muito ouro, no entanto.",
 
-    "_comment_id": "Ars Nouveau",
+    "_comment": "Ars Nouveau",
     "name.hostilenetworks.ars_wilden": "Wilden",
     "hostilenetworks.trivia.ars_wilden": "Protetores das Selvas.\nA forma deles depende de seu lar.\nAh, e um deles pode invocar lobos.",
 
-    "_comment_id": "Artifacts",
+    "_comment": "Artifacts",
     "hostilenetworks.trivia.mimic": "Um baú com fome.\nUm que você deseja saquear.\nTenha cuidado,\npara não ser despedaçado.",
 
-    "_comment_id": "AllTheModium",
+    "_comment": "AllTheModium",
     "hostilenetworks.trivia.piglich": "Ele reside no Outro.\nSua barra de vida faz os fracos tremerem.\nReze para que ele não pronuncie as palavras:\n\"Sua Mãe.\"",
 
-    "_comment_id": "Twilight Forest",
+    "_comment": "Twilight Forest",
     "hostilenetworks.trivia.raven": "Um pássaro de ébano, cheio de histórias.\nDisse o Corvo \"Nunca mais.\"",
     "hostilenetworks.trivia.alpha_yeti": "Líder da Tribo Yeti.\nA caverna é seu projeto.\nSerá que ele aceitaria um suborno,\npara te deixar pular a luta?",
     "hostilenetworks.trivia.carminite_golem": "Um golem sem uma abóbora\né como um castelo sem um rei.\nEste é alimentado por magia negra.\nÉ algo bem assustador.",
@@ -194,7 +194,7 @@
     "hostilenetworks.trivia.twilight_wraith": "O espectro de um rei há muito morto.\nBusca impedir que você pegue\nas coisas dele.",
     "hostilenetworks.trivia.yeti": "Um Yeti normal e sem graça.\nDeseja ser legal, como\no Yeti Alfa.",
 
-    "_comment_id": "Thermal",
+    "_comment": "Thermal",
     "hostilenetworks.trivia.basalz": "O primo bem mais robusto\ndo nosso amigo inflamável.\nDotado de força terrena.",
     "hostilenetworks.trivia.blitz": "Um elemental do vento\ncom outro nome.\nFelizmente, eles não têm controle\ndo trovão.",
     "hostilenetworks.trivia.blizz": "Pegue um Blaze\ne remova o calor.\nA carcaça resultante é\no gélido Blizz.",
