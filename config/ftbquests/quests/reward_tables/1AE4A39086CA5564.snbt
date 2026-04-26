@@ -90,10 +90,8 @@
 		{ id: "5E72FAE57BED61E1", item: { count: 1, id: "mysticalagriculture:hop_graphite_seeds" } }
 		{ id: "730EAC5B743F8F4F", item: { count: 1, id: "mysticalagriculture:dark_steel_seeds" } }
 		{ id: "211A632DEF33C51E", item: { count: 1, id: "mysticalagriculture:energetic_alloy_seeds" } }
-		{ id: "525CD6F4CE36503D", item: { count: 1, id: "mysticalagriculture:fiery_ingot_seeds" } }
 		{ id: "485E1A21D954A6E3", item: { count: 1, id: "mysticalagriculture:soularium_seeds" } }
 		{ id: "1D08ABD695691522", item: { count: 1, id: "mysticalagriculture:pulsating_alloy_seeds" } }
-		{ id: "69D0E41FAF7E30A7", item: { count: 1, id: "mysticalagriculture:knightmetal_seeds" } }
 	]
 	use_title: true
 }

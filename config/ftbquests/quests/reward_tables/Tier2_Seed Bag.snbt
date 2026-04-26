@@ -84,7 +84,6 @@
 		{ id: "2A3F2D925E3AF8B3", item: { count: 1, id: "mysticalagriculture:turtle_seeds" } }
 		{ id: "2AF1216DEB00C1FC", item: { count: 1, id: "mysticalagriculture:squid_seeds" } }
 		{ id: "65E20B7682393A2C", item: { count: 1, id: "mysticalagriculture:fish_seeds" } }
-		{ id: "50BAAACBD52ED650", item: { count: 1, id: "mysticalagriculture:unexplored_wood_seeds" } }
 		{ id: "219103634B3CA701", item: { count: 1, id: "mysticalagriculture:grains_of_infinity_seeds" } }
 		{ id: "56035CF5589C0AF1", item: { count: 1, id: "mysticalagriculture:saltpeter_seeds" } }
 		{
