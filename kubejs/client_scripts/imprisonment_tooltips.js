@@ -14,14 +14,13 @@ ItemEvents.dynamicTooltips('cobblemon_species', event => {
     if (!speciesMatch) return
 
     var nameOnly = speciesMatch[1].includes(':') ? speciesMatch[1].split(':')[1] : speciesMatch[1]
-    var formatted = nameOnly.charAt(0).toUpperCase() + nameOnly.slice(1)
 
     var shinyMatch = raw.match(/Shiny:(\w+)/)
     var isShiny = shinyMatch && shinyMatch[1] === '1b'
 
     var gender = raw.match(/Gender:"([^"]+)"/)
 
-    event.add(Text.of('§6Captured: §f' + formatted))
-    if (gender) event.add(Text.of('§7Gender: §f' + gender[1].charAt(0) + gender[1].slice(1).toLowerCase()))
+    event.add(Text.translatable('§6Captured: ').append(Text.translatable('cobblemon.species.' + nameOnly + '.name')))
+    if (gender) event.add(Text.translatable('cobblemon.gender.' + gender[1].toLowerCase()))
     if (isShiny) event.add(Text.of('§e★ SHINY ★'))
 })
