@@ -45,7 +45,7 @@
 	quest.184F98BE0F6710E2.quest_desc: ["Estes 2 &cKits de Trilho&r são para usar &7Carrinhos&r e Redstone.\\n\\nO &cKit Ativador&r ativará qualquer &7Carrinho&r que passar sobre ele. \\nO &cKit Detector&r ativará um sinal de redstone sempre que um &7Carrinho&r passar sobre ele. \\n\\nAmbos são semelhantes aos seus equivalentes &2Vanilla&r para &6trilhos&r regulares."]
 	quest.184F98BE0F6710E2.title: "&cKits de Trilho&r para usar Redstone"
 	quest.21693C4DE6531D73.quest_desc: [
-		"O Triturador é exatamente como o nome sugere. Ele pode triturar blocos para obter os materiais de criação, como tijolos de uma escada de tijolos, ou pós de barras. \\n\\nEle precisa de energia para funcionar! \\n\\nPara construir um, são 3x2x2 de blocos de Triturador."
+		"O Triturador é exatamente como o nome sugere. Ele pode triturar blocos para obter os materiais de criação, como tijolos de uma escada de tijolos, ou pó de lingotes. \\n\\nEle precisa de energia para funcionar! \\n\\nPara construir um, são 3x2x2 de blocos de Triturador."
 		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
 	]
 	quest.21693C4DE6531D73.title: "Triturador"

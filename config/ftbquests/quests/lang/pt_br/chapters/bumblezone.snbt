@@ -55,7 +55,7 @@
 	]
 	quest.0C8180524757B238.title: "&7Flutuadores"
 	quest.0C9C5639D76FDF65.quest_desc: ["Salve 12 &6A&8b&6e&8l&6h&8a&6s&r recolocando seu Ferrão.\\n\\nQuando uma &6A&8b&6e&8l&6h&8a&6s&r atinge um Mob ou até mesmo você, ela perde seu Ferrão, o que lhe dá um Veneno Fatal.\\n\\nSe você clicar com o botão direito nela com um Ferrão, pode recolocá-lo e salvá-la!"]
-	quest.0E32DB6B8E023764.quest_desc: ["&6&lProductive Bees&r? O que vocês estão fazendo aqui?\\n\\nÀs vezes, ao longo das &6&lHive Walls&r ou &6&lPillars&r, você pode encontrar depósitos de Combs das &l&6Productive Bees&r!\\n\\nMeio como minerar Minérios no &2Mundo Superior&r."]
+	quest.0E32DB6B8E023764.quest_desc: ["&6&lProductive Bees&r? O que vocês estão fazendo aqui?\\n\\nÀs vezes, ao longo das &6&lHive Walls&r ou &6&lPillars&r, você pode encontrar depósitos de Combs das &l&6Productive Bees&r!\\n\\nMeio como minerar na &2Superfície&r."]
 	quest.0E32DB6B8E023764.title: "Crossover?"
 	quest.0F5549B02D1B383B.quest_desc: ["Mate 16 Aranhas da Caverna.\\n\\nNão se preocupe, há muitas coisas do &6&lBumblezone&r para ajudar com Veneno."]
 	quest.1207E5C3E7BD0584.title: "Padrão de Estandarte de Abelha"
@@ -286,7 +286,7 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_rootmin1.png width:100 height:100 align:center}"
 	]
 	quest.61500C8F68509E5D.title: "Rootmin"
-	quest.61768CFEDA041E4D.quest_desc: ["Depois de entrar na &6&lBumblezone&r, você pode precisar retornar ao &2Mundo Superior&r. Caso você tenha deixado seu fogão ligado! \\n\\nPara sair da &6&lBumblezone&r, você pode minerar para baixo ou para cima, passando pela &eCera de Abelha da Colmeia&r, para entrar no Vazio. \\n\\nEste Vazio não irá matá-lo, em vez disso, ele irá teleportá-lo de volta para onde você estava no &2Mundo Superior&r!"]
+	quest.61768CFEDA041E4D.quest_desc: ["Depois de entrar na &6&lBumblezone&r, você pode precisar retornar a &2Superfície&r. Caso você tenha deixado seu fogão ligado! \\n\\nPara sair da &6&lBumblezone&r, você pode minerar para baixo ou para cima, passando pela &eCera de Abelha da Colmeia&r, para entrar no Vazio. \\n\\nEste Vazio não irá matá-lo, em vez disso, ele irá teleportá-lo de volta para onde você estava n &2Superfície&r!"]
 	quest.61768CFEDA041E4D.quest_subtitle: "Deixe-me sair daqui!"
 	quest.61768CFEDA041E4D.title: "Escapando"
 	quest.6434796EAAF2A4EC.quest_desc: ["Depois de completar todas estas Missões, você pode Clicar com o Botão Direito na &5Rainha&r para obter a Essência das Abelhas. \\n\\n&lComa-a!&r \\n\\nAgora você pode basicamente fazer qualquer coisa aqui. Você pode coletar &6Mel&r com segurança de todas as &eColmeias&r, &6Favos de Mel&r e &6Slimes de Mel&r. Você pode caminhar pelo Labirinto de Células sem a Ira da Colmeia, pode entrar no &5Pilar do Trono&r sem Fadiga de Mineração e pode andar sobre Cera Ancestral sem os efeitos horríveis. E quando você entrar em &6Mel Fluido&r ou Geleia Real, receberá efeitos incríveis. \\n\\nA melhor parte é que isso fica com você mesmo após a Morte! Agora você pode entrar no endgame!"]

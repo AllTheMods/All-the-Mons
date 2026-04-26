@@ -49,17 +49,17 @@
 	]
 	quest.1C829609915E0012.title: "Gerando Energia com &cMercúrio"
 	quest.20C3AADEE2D4800D.quest_desc: [
-		"Você também pode mover Fluidos de um Tanque para outro com &cMercúrio&r. \\n\\nConecte o Fluid Extrator de onde você quer que o Fluido seja retirado, como uma Pia. Em seguida, coloque o Fluid Inserter onde você quer que o Fluido vá, como um &dSal Ammoniac&r Accumulator. Conecte ambos com Fios e ele deve estar se movendo!"
+		"Você também pode mover Fluidos de um Tanque para outro com &cMercúrio&r. \\n\\nConecte o Fluid Extrator de onde você quer que o Fluido seja retirado, como uma Pia. Em seguida, coloque o Fluid Inserter onde você quer que o Fluido vá, como um &dSal Amoníaco&r Accumulator. Conecte ambos com Fios e ele deve estar se movendo!"
 		"{image:atm:textures/questpics/theurgy/theurgy_fluid.png width:200 height:75 align:center}"
 	]
 	quest.20C3AADEE2D4800D.title: "Movimento de Fluidos"
 	quest.26B462F2F41A77C7.quest_desc: ["Todos os presentes da Mãe Natureza... podem ser impiedosamente queimados em um Forno até virar nada além de &bSal&r! \\n\\nTroncos, Folhas e Colheitas podem ser Tostados e virar &bSais de Planta&r."]
 	quest.26B462F2F41A77C7.title: "&bSal de Planta"
 	quest.285B3FB38B12F8CA.quest_desc: [
-		"Precisaremos desses dois Blocos para fazer &dSal Ammoniac (Sal Ammoniac)&r (senti vontade de chamar de Multi-bloco, mas não considero 2 Blocos um Multi-Bloco). Um Tanque de &dSal Ammoniac&r na parte inferior com um &dAcumulador de Sal Ammoniac&r em cima dele. \\n\\nO &dAcumulador de Sal Ammoniac&r é onde a &9Água&r e os &dCristais&r irão; ele pode conter 10.000mb de &9Água&r ou 10 Baldes, e uma pilha de &dCristais de Sal Ammoniac&r. O Tanque irá conter o &dSal Ammoniac&r criado e pode conter 2.000mb ou 2 Baldes."
+		"Precisaremos desses dois Blocos para fazer &dSal Amoníaco&r (senti vontade de chamar de Multi-bloco, mas não considero 2 Blocos um Multi-Bloco). Um Tanque de &dSal Amoníaco&r na parte inferior com um &dAcumulador de Sal Amoníaco&r em cima dele. \\n\\nO &dAcumulador de Sal Amoníaco&r é onde a &9Água&r e os &dCristais&r irão; ele pode conter 10.000mb de &9Água&r ou 10 Baldes, e uma pilha de &dCristais de Sal Amoníaco&r. O Tanque irá conter o &dSal Amoníaco&r criado e pode conter 2.000mb ou 2 Baldes."
 		"{image:atm:textures/questpics/theurgy/theurgy_sal_front.png width:100 height:200 align:center}"
 	]
-	quest.285B3FB38B12F8CA.title: "Fazendo &dSal Ammoniac"
+	quest.285B3FB38B12F8CA.title: "Fazendo &dSal Amoníaco"
 	quest.2B29E9AB9447E1C6.quest_desc: [
 		"Agora, isso sim é uma Máquina Multibloco! \\n\\nPara recuperar Itens do &eAlchemical Sulfur&r, precisaremos Incubá-los. Isso requer o Incubador com todos os 3 Recipientes adjacentes a ele. A ordem não importa, desde que estejam tocando a metade inferior. \\n\\nQuando tiver todos os Itens nos Recipientes e Calor, ele começará a Incubar seus Itens! Você saberá que está funcionando quando partículas de Fumaça saírem dele."
 		"{image:atm:textures/questpics/theurgy/theurgy_incubator.png width:200 height:200 align:center}"
@@ -73,7 +73,7 @@
 	quest.393DA9C9D808A851.quest_desc: ["A Chave Inglesa da &l&6Teurgia&r é a Varinha &cMercurial&r. Você pode usar Shift e Scroll para mudar seus Modos. \\n\\nVocê pode Habilitar/Desabilitar para basicamente impedir a transferência por Fios. \\n\\nVocê pode mudar o lado de onde os Itens serão Extraídos ou Inseridos. \\n\\nE você pode mudar o Canal de Frequência!"]
 	quest.393DA9C9D808A851.quest_subtitle: "Pensei que este era um mod de magia..."
 	quest.393DA9C9D808A851.title: "Claro que tem uma Chave Inglesa"
-	quest.3B6F723B03C4BF55.quest_desc: ["A Digestão (uma forma muito rudimentar de processamento) é como mudamos os &3Nitratos Alquímicos&r para diferentes formas. \\n\\nPrimeiro, precisaremos de Ouro Purificado, que pode ser feito colocando Ouro, &bSal Alquímico&r e &9Água&r no Tanque de Digestão e clicando com Shift + botão direito para fechá-lo como o Tanque de Fermentação. \\n\\nDepois, podemos combinar 4 de um &3Nitrato Alquímico&r com Ouro Purificado e &dSal Ammoniac&r para obter um Tier superior ou fazer o inverso para um Tier inferior."]
+	quest.3B6F723B03C4BF55.quest_desc: ["A Digestão (uma forma muito rudimentar de processamento) é como mudamos os &3Nitratos Alquímicos&r para diferentes formas. \\n\\nPrimeiro, precisaremos de Ouro Purificado, que pode ser feito colocando Ouro, &bSal Alquímico&r e &9Água&r no Tanque de Digestão e clicando com Shift + botão direito para fechá-lo como o Tanque de Fermentação. \\n\\nDepois, podemos combinar 4 de um &3Nitrato Alquímico&r com Ouro Purificado e &dSal Amoníaco&r para obter um Tier superior ou fazer o inverso para um Tier inferior."]
 	quest.3B6F723B03C4BF55.title: "Tanque de Digestão"
 	quest.3C5734448FEC128B.quest_desc: ["A Vareta de Adivinhação mais barata, a Vareta de Adivinhação de Vidro. \\n\\nEla pode encontrar todos os Minérios que uma Picareta de Pedra pode minerar. Ou seja, Cobre, Carvão e Ferro. Nada superior."]
 	quest.3EB63AF53E70C931.quest_desc: [
@@ -83,7 +83,7 @@
 	quest.3EB63AF53E70C931.title: "Passo 4: Energizando"
 	quest.41ABC09C798CA8BE.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
 	quest.457CAE66B0FA4CCF.quest_desc: ["Todos os Minérios &2Vanilla&r podem ser encontrados com a Vareta de Adivinhação de Diamante. Sendo capaz de encontrar todos, mais Netherita!"]
-	quest.45996B848792379E.quest_desc: ["Você pode Minerar &dCristais de Sal Ammoniac&r no &2Mundo Superior&r, mas não é tão fácil. Ainda precisaremos de &9Água&r e das Máquinas para fazer &dSal Ammoniac&r para fazer &eAlchemical Sulfur&r. \\n\\nOs &dCristais&r são opcionais, mas ajudam muito; com apenas Água, 1000mb serão transformados em 100mb de &dSal Ammoniac&r. Com 1000mb de &9Água&r e um &dCristal de Sal Ammoniac&r, obteremos 1000mb de &dSal Ammoniac&r. \\n\\n10 vezes a produção com apenas um Item a mais!"]
+	quest.45996B848792379E.quest_desc: ["Você pode Minerar &dCristais de Sal Amoníaco&r na &2Superfície&r, mas não é tão fácil. Ainda precisaremos de &9Água&r e das Máquinas para fazer &dSal Amoníaco&r para fazer &eAlchemical Sulfur&r. \\n\\nOs &dCristais&r são opcionais, mas ajudam muito; com apenas Água, 1000mb serão transformados em 100mb de &dSal Amoníaco&r. Com 1000mb de &9Água&r e um &dCristal de Sal Amoníaco&r, obteremos 1000mb de &dSal Amoníaco&r. \\n\\n10 vezes a produção com apenas um Item a mais!"]
 	quest.45996B848792379E.quest_subtitle: "Por que precisamos de Máquinas se podemos apenas Minerar?"
 	quest.45996B848792379E.title: "Por que Máquinas?"
 	quest.48EE6C807C1668D4.quest_desc: ["Se você precisar que os Fios vão mais longe ou se conectem a mais lugares, talvez precise de um Nó Conector. \\n\\nSimples assim!"]
@@ -111,7 +111,7 @@
 	quest.6A8E748B642DD16F.title: "Recipiente de &bSal&r"
 	quest.6C6F4EB5CBE2FBC2.quest_desc: ["A Vara de Adivinhação de Ferro é um pouco superior, sendo capaz de encontrar Minérios que uma Picareta de Ferro pode minerar! Então Diamantes, Redstone e Ouro."]
 	quest.6CAD27627A3F8FD7.quest_desc: [
-		"Agora finalmente chegamos ao Cerne do Mod, os &eAlchemical Sulfur&r! \\n\\nPara fazê-los, precisaremos de um Caldeirão de Liquefação, um Item, &dSal Ammoniac&r e um Aquecedor. \\n\\nO calor é explicado em outra Missão, mas você precisará do Braseiro Piromântico ou do Emissor de Fluxo Calórico sob o Caldeirão para aquecê-lo. \\n\\nEm seguida, o &dSal Ammoniac&r Líquido dentro dele. \\n\\nE, finalmente, o Item que você quer transformar em um &eAlchemical Sulfur&r. \\n\\nVocê saberá que está funcionando quando estiver borbulhando."
+		"Agora finalmente chegamos ao Cerne do Mod, os &eAlchemical Sulfur&r! \\n\\nPara fazê-los, precisaremos de um Caldeirão de Liquefação, um Item, &dSal Amoníaco&r e um Aquecedor. \\n\\nO calor é explicado em outra Missão, mas você precisará do Braseiro Piromântico ou do Emissor de Fluxo Calórico sob o Caldeirão para aquecê-lo. \\n\\nEm seguida, o &dSal Amoníaco&r Líquido dentro dele. \\n\\nE, finalmente, o Item que você quer transformar em um &eAlchemical Sulfur&r. \\n\\nVocê saberá que está funcionando quando estiver borbulhando."
 		"{image:atm:textures/questpics/theurgy/theurgy_lique.png width:100 height:100 align:center}"
 	]
 	quest.6CAD27627A3F8FD7.title: "Fazendo &eAlchemical Sulfur"
@@ -124,10 +124,10 @@
 	quest.72FADEAEE2DA03AF.title: "Passo 3: Pedestal de Resultado"
 	quest.730F2D3329C4FF88.quest_desc: ["&nFermentação&r: \\nO processo químico pelo qual moléculas como a glicose são quebradas anaerobicamente. \\n\\nTambém conhecido como: &9Água&r e tempo mudam as coisas! \\n\\nPara usar o Tanque de Fermentação, coloque os Itens e o Fluido no Tanque e depois clique com Shift + Botão Direito para fechá-lo. \\n\\nDepois de um tempo, deve fermentar! É assim que transformamos &eAlchemical Sulfur&r em &3Nitrato Alquímico&r, que pode ser transformado em mais Itens!"]
 	quest.730F2D3329C4FF88.title: "Tanque de Fermentação"
-	quest.76F675A898EAB4E8.quest_desc: ["O &dSal Ammoniac&r é uma parte crítica do &eAlchemical Sulfur&r, que é o que usaremos para fazer e reproduzir Itens. \\n\\nPara obter &dSal Ammoniac&r, precisaremos de um pouco de &9Água&r."]
-	quest.76F675A898EAB4E8.title: "&dSal Ammoniac"
+	quest.76F675A898EAB4E8.quest_desc: ["O &dSal Amoníaco&r é uma parte crítica do &eAlchemical Sulfur&r, que é o que usaremos para fazer e reproduzir Itens. \\n\\nPara obter &dSal Amoníaco&r, precisaremos de um pouco de &9Água&r."]
+	quest.76F675A898EAB4E8.title: "&dSal Amoníaco"
 	quest.7878F190BC8ADC82.quest_desc: ["O melhor dos melhores. De Diamantes, à Estrela do Nether, ao Allthemodium. Esta Vareta encontra apenas os melhores Itens!"]
-	quest.7A1C117CA8FB7C31.quest_desc: ["Este é único!\\n\\nEm vez de encontrar Minérios, ele encontrará blocos de Ametista em Broto!\\n\\nChega de lutar para encontrar Geodos para você, bom senhor!"]
+	quest.7A1C117CA8FB7C31.quest_desc: ["Este é único!\\n\\nEm vez de encontrar Minérios, ele encontrará Blocos de Drusa de Ametista!\\n\\nChega de lutar para encontrar Geodos para você, bom senhor!"]
 	quest.7A271F425C3934CE.quest_desc: ["Atualmente, isso só pode ser criado cozinhando 2 &bSais de Planta&r para fazer 1 &bSal de Criatura&r. \\n\\nEsperançosamente, em atualizações mais recentes, poderemos matar mais criaturas vivas por &bSal&r!"]
 	quest.7A271F425C3934CE.title: "&bSal de Criatura"
 	task.339A5D32CC00D60C.title: "TodosOsDireitosReservados"

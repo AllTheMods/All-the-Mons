@@ -69,7 +69,7 @@
 		"O menor valor possível é 1 bloco de distância, e o maior é um raio de 48 blocos."
 	]
 	quest.3E2A411FF5B4B0E7.title: "&3Raio de Ativação"
-	quest.3F55F3CC8519D783.quest_desc: ["O Gerador Soulium é o Gerador presenteado a nós pelo Mystical Agriculture. Ele usa Essência de Criatura e Energia para gerar as criaturas. Essência de Criatura é obtida através da colheita de Mob Plants, feitas por Soul Jars. Então você terá que matar as criaturas primeiro, ou usar o Soul Extractor."]
+	quest.3F55F3CC8519D783.quest_desc: ["O Gerador Soulium é o Gerador presenteado a nós pelo Mystical Agriculture. Ele usa Essência de Criatura e Energia para gerar as criaturas. Essência de Criatura é obtida através da colheita de Mob Plants, feitas por Frascos de alma. Então você terá que matar as criaturas primeiro, ou usar o Soul Extractor."]
 	quest.3F55F3CC8519D783.quest_subtitle: "Gerador do Mystical Agriculture"
 	quest.40096ED0B04C3EC5.quest_desc: [
 		"O item indispensável para todos os &2Geradores&r. Quando diz que ignora todas as condições, significa a maioria.\\n"
@@ -106,7 +106,7 @@
 	]
 	quest.6A497B063CF32A5C.title: "&cContagem de Surgimento"
 	quest.6D3B958E49AE7BDB.quest_desc: ["Fragmentos de Amuleto podem ser transformados em Amuletos ou Ovos Geradores. Eles são do Reliquary e raramente caem de suas respectivas criaturas. Alguns podem até ser fabricados! Pegue 2 e um Ovo normal e você poderá fabricar um Ovo Gerador."]
-	quest.6D68D9941049E806.quest_desc: ["Este gerador irá, como o próprio nome sugere, fazer uso de &dSource&r como combustível. Para decidir qual criatura gerar, você precisará de um Containment Jar contendo a criatura na área."]
+	quest.6D68D9941049E806.quest_desc: ["Este gerador irá, como o próprio nome sugere, fazer uso de &dFonte&r como combustível. Para decidir qual criatura gerar, você precisará de um Jarro de Contenção contendo a criatura na área."]
 	quest.6D68D9941049E806.quest_subtitle: "Gerador do Ars Nouveau"
 	quest.6F71FD826C29C31A.quest_desc: [
 		"Essa pode ser nova para quem está voltando de versões anteriores.\\n"
@@ -130,8 +130,8 @@
 	task.24893D6EDE0BD819.title: "Fragmentos de Amuleto de Criatura"
 	task.39702880D9133E3E.title: "Lã"
 	task.3B219688DA1CF9C8.title: "TodosOsDireitosReservados"
-	task.45250DA4433007C6.title: "Livros de Capturando"
-	task.524CBF7058496E7F.title: "Outros Geradores"
-	task.55587BA32D30318C.title: "Ovos Geradores"
+	task.45250DA4433007C6.title: "Livros de Captura"
+	task.524CBF7058496E7F.title: "Outros Gerador"
+	task.55587BA32D30318C.title: "Ovos Gerador"
 	task.73B56F2139A98F77.title: "TodosOsDireitosReservados"
 }

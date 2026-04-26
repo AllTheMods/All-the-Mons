@@ -139,7 +139,7 @@
 	quest.411A463E98C3B102.quest_desc: [
 		"Alguns ingredientes que você precisará para fazer o Computador, o Criador e a Armadura Quânticos."
 		""
-		"A Singularidade Estilhaçada é feita com uma Singularidade, 2 Pós de Ender, 2 Pós de Sky Stone e 100 mB de Lava em uma Câmara de Reação."
+		"A Singularidade Estilhaçada é feita com uma Singularidade, 2 Pó de Ender, 2 Pó de Pedra do Céu e 100 mB de Lava em uma Câmara de Reação."
 		""
 		"1 balde de Infusão Quântica é feito com 4 baldes de Água e um Pó com Infusão Quântica, que é obtido triturando a Singularidade Estilhaçada em um Inscriber ou Triturador do Mekanism."
 		""
@@ -207,7 +207,7 @@
 		"De um Provedor de Padrão que pode enviar para lados específicos de uma máquina, a um computador multibloco que é capaz de executar trabalhos de crafting ilimitados, compartilhando coprocessadores entre esses crafts, e tudo mais."
 	]
 	quest.7725CB7D0AE55180.title: "Advanced AE"
-	quest.78215D704E6095B0.quest_desc: ["Você acha que &5&lMekanism&r e &l&7Modern Industrialization&r podem ter toda a diversão com seus conjuntos de armadura de fim de jogo? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r mas, como a &aMekaSuit&r, ela pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para te deixar ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar Energia dele automaticamente e retirar qualquer Item dele, não importa onde você esteja. \\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
+	quest.78215D704E6095B0.quest_desc: ["Você acha que o &5&lMekanism&r pode se divertir bastante com os conjuntos de armadura de fim de jogo? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r mas, como a &aMekaSuit&r, ela pode usar Energia como um escudo. \\nEla também tem melhorias que podem ser instaladas para te deixar ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser Vinculada ao seu Sistema de Armazenamento! Então, você pode retirar Energia dele automaticamente e retirar qualquer Item dele, não importa onde você esteja. \\n\\nAlém disso, usar o conjunto completo pode impedir que a &aRadiação&r te mate."]
 	quest.78215D704E6095B0.quest_subtitle: "Não vai te deixar totalmente invencível"
 	quest.78215D704E6095B0.title: "Sistema ME como Armadura: A Armadura Quântica"
 	quest.7900A4836CC55428.quest_desc: [
