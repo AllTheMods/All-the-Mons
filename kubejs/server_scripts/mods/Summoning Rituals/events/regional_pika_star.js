@@ -54,6 +54,7 @@ function startRegionalPikaStar(/** @type {import("com.almostreliable.summoningri
     if (levelBlock.getBlock().id == "cobblemon:display_case") {
       let be = levelBlock.getEntity()
       if (!be.hasAnyMatching(stack => stack.hasTag("mega_showdown:mega_stone") || stack.hasTag("zamega:mega_stone"))) {
+        event.highlightPositions(be.blockPos)
         firstPass = false
       }
       containers.add(be)

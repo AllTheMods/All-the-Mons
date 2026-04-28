@@ -38,8 +38,7 @@ function completeDeoxysCrystal(/** @type {import("com.almostreliable.summoningri
   let facing = getBlockStateProperty(event.altar.level.getBlockState(event.altar.blockPos), "facing")
   let crystalPos = event.altar.blockPos.relative(facing.opposite)
   let crystalPosCenter = crystalPos.getCenter()
-  let $TargetingConditions = Java.loadClass("net.minecraft.world.entity.ai.targeting.TargetingConditions")
-  let players = event.altar.level.getNearbyPlayers($TargetingConditions.forNonCombat(), null, AABB.ofBlock(event.altar.blockPos).inflate(32))
+  let players = getNearbyPlayers(event.altar.level, event.altar.blockPos, 16)
 
   for (let player of players) {
     event.altar.level.sendParticles(player, "eternal_starlight:meteor",true, crystalPosCenter.x(), crystalPosCenter.y() + 75, crystalPosCenter.z(), 0, 0, 0, 0, 0)
@@ -68,9 +67,9 @@ function completeDeoxysCrystal(/** @type {import("com.almostreliable.summoningri
 /**
  * 
  * @param {import("net.minecraft.server.level.ServerLevel").$ServerLevel} level 
- * @param {import("net.minecraft.server.level.ServerPlayer").$ServerPlayer} player 
  */
 function getNextMeteorShowerEvent(level){
+  /** @type {typeof import("cn.leolezury.eternalstarlight.common.util.ESWeatherUtil").$ESWeatherUtil} */
   let $ESWeatherUtil = Java.loadClass("cn.leolezury.eternalstarlight.common.util.ESWeatherUtil")
   let weathers = $ESWeatherUtil.getOrCreateWeathers(level)
   let nextTick = -1
@@ -92,14 +91,14 @@ function getNextMeteorShowerEvent(level){
   }
 }
 
-function scheduleDeoxysCrystalEffects(altar) {
+function scheduleDeoxysCrystalEffects(/** @type {import("com.almostreliable.summoningrituals.altar.AltarBlockEntity").$AltarBlockEntity} */altar) {
   let altarPos = altar.blockPos
   
   for (let index = 0; index <= 8; index++) {
     altar.level.server.scheduleInTicks(40 * index, () => {
+      if (altar.isRemoved()) return
       let randomPos = altarPos.getCenter().offsetRandom(altar.level.random, 1.5)
-      let $TargetingConditions = Java.loadClass("net.minecraft.world.entity.ai.targeting.TargetingConditions")
-      let players = altar.level.getNearbyPlayers($TargetingConditions.forNonCombat(), null, AABB.ofBlock(altarPos).inflate(32))
+      let players = getNearbyPlayers(altar.level, altarPos, 16)
       
       for (let player of players) {
         altar.level.sendParticles(player, "eternal_starlight:meteor",true, randomPos.x(), randomPos.y() + 75, randomPos.z(), 0, 0, 0, 0, 0)
@@ -107,6 +106,7 @@ function scheduleDeoxysCrystalEffects(altar) {
 
       altar.level.server.schedule(2000, () => {
         altar.level["playSound(net.minecraft.world.entity.player.Player,net.minecraft.core.BlockPos,net.minecraft.sounds.SoundEvent,net.minecraft.sounds.SoundSource,float,float)"](null, randomPos, "creeperoverhaul:entity.plant.creeper.explosion", "ambient", 1, 1)
+        /** @type {typeof import("cn.leolezury.eternalstarlight.common.vfx.ScreenShakeVfx").$ScreenShakeVfx} */
         let $ScreenShakeVfx = Java.loadClass("cn.leolezury.eternalstarlight.common.vfx.ScreenShakeVfx")
         $ScreenShakeVfx.createInstance(altar.level.dimensionKey, randomPos, 40, 50, 0.5, 0.5, 3, 5.5).send(altar.level)
         altar.level.server.runCommandSilent(`execute in ${altar.level.dimensionKey.location()} run summon area_effect_cloud ${randomPos.x()} ${altarPos.y} ${randomPos.z} {Radius:2,Duration:20,potion_contents:{custom_color:3847130}}`)

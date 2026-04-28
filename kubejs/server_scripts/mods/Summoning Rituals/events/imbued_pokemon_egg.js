@@ -6,7 +6,7 @@ let $RCTMod = Java.loadClass("com.gitlab.srcmc.rctmod.api.RCTMod")
 
 function startImbuedPokemonEgg(/** @type {import("com.almostreliable.summoningrituals.compat.kubejs.event.SummoningKubeEvent").$SummoningKubeEvent}*/ event) {
   assertRealPlayerContext(event)
-  let facing = getBlockStateProperty(event.altar.level.getBlockState(event.altar.blockPos), "facing")
+  let facing = event.altarFacing //getBlockStateProperty(event.altar.level.getBlockState(event.altar.blockPos), "facing")
   let level = event.altar.level
   let recipeOpt = level.recipeManager.byKey("allthemons:pika_star")
   

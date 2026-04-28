@@ -18,17 +18,17 @@ ServerEvents.recipes(event => {
     .entityInputZone([5, 3, 5])
     .ticks(240)
     .blockPattern(pattern => {
-        pattern
-          .name(Text.translatable("kubejs.atm.sr.mega_stones_statues"))
-          .block([0, 0, -3], "cobblefurnies:statue_pikachu", { "facing": "south", "half": "lower" })
-          .block([0, 0, 3], "cobblefurnies:statue_charmander", { "facing": "north", "half": "lower" })
-          .block([-3, 0, 0], "cobblefurnies:statue_bulbasaur", { "facing": "east", "half": "lower" })
-          .block([3, 0, 0], "cobblefurnies:statue_squirtle", { "facing": "west", "half": "lower" })
-          .queryableBlock([2, 0, 2], "cobblemon:display_case", "mega_stones_inv")
-          .queryableBlock([-2, 0, 2], "cobblemon:display_case", "mega_stones_inv")
-          .queryableBlock([2, 0, -2], "cobblemon:display_case", "mega_stones_inv")
-          .queryableBlock([-2, 0, -2], "cobblemon:display_case", "mega_stones_inv")
-        return pattern
+      pattern
+        .name(Text.translatable("kubejs.atm.sr.mega_stones_statues"))
+        .block([0, 0, -3], "cobblefurnies:statue_pikachu", { "facing": "south", "half": "lower" })
+        .block([0, 0, 3], "cobblefurnies:statue_charmander", { "facing": "north", "half": "lower" })
+        .block([-3, 0, 0], "cobblefurnies:statue_bulbasaur", { "facing": "east", "half": "lower" })
+        .block([3, 0, 0], "cobblefurnies:statue_squirtle", { "facing": "west", "half": "lower" })
+        .queryableBlock([2, 0, 2], "cobblemon:display_case", "mega_stones_inv")
+        .queryableBlock([-2, 0, 2], "cobblemon:display_case", "mega_stones_inv")
+        .queryableBlock([2, 0, -2], "cobblemon:display_case", "mega_stones_inv")
+        .queryableBlock([-2, 0, -2], "cobblemon:display_case", "mega_stones_inv")
+      return pattern
     })
     .fakeEntityInputs(
       SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:charizard","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.pika_star_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore1"}','{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore2"}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)

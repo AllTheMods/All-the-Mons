@@ -45,3 +45,16 @@ function getBlockStateProperty(blockState, propertyString){
   }
   return result
 }
+
+/**
+ * 
+ * @param {import("net.minecraft.server.level.ServerLevel").$ServerLevel} level 
+ * @param {import("net.minecraft.core.BlockPos").$BlockPos} pos 
+ * @param {double} radius 
+ * @returns 
+ */
+function getNearbyPlayers(level, pos, radius){
+  /** @type {typeof import("net.minecraft.world.entity.ai.targeting.TargetingConditions").$TargetingConditions} */
+  let $TargetingConditions = Java.loadClass("net.minecraft.world.entity.ai.targeting.TargetingConditions")
+  return level.getNearbyPlayers($TargetingConditions.forNonCombat(), null, AABB.ofBlock(pos).inflate(radius))
+}

@@ -363,5 +363,7 @@
 	"crop.mysticalagriculture.vibranium": "Vibranium",
 	"kubejs.atm.sr.mekasuit_req": "You are not wearing MekaSuit with Radiation Shielding Unit on every piece.",
 	"kubejs.atm.sr.meteor_shower_check_error": "Something went wrong when trying to find Meteor Shower, report to ATM Devs!",
-	"kubejs.atm.sr.meteor_shower_forecast": "Next Meteor Shower will be in %s"
+	"kubejs.atm.sr.meteor_shower_forecast": "Next Meteor Shower will be in %s",
+	"kubejs.atm.condition.summoningrituals.player": "Player",
+	"kubejs.atm.condition.summoningrituals.mekasuit_with_radiation_shielding": "Wear full %s with %s"
 }
