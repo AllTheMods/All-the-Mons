@@ -371,7 +371,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				advancement: "rctmod:trainers/defeat_trainer_brendan_3"
+				advancement: "rctmod:trainers/defeat_rival_wayne_3"
 				criterion: ""
 				id: "4A9F80AB3555E063"
 				type: "advancement"
