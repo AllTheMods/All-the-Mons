@@ -36,6 +36,9 @@ ServerEvents.tags('block', allthemods => {
 
     // IF Souls
     allthemods.add('industrialforegoingsouls:cant_accelerate', denyTickAcceleration)
+
+    //Make epitaphs immune to Cataclysm block destruction
+    allthemods.add("cataclysm:netherite_monstrosity_immune","epitaphs:grave")
 })
 
 ServerEvents.tags('fluid', allthemods => {
