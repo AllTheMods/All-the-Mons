@@ -67,60 +67,74 @@ global.thrownBallHit = (hitEvent) => {
   }
 }
 
-global.battleStartedPre = (startedPreEvent) => {
-  //console.log("Started Pre Event is:" + startedPreEvent)
+global.battleStartedPre = (/** @type {import("com.cobblemon.mod.common.api.events.battles.BattleStartedEvent$Pre").$BattleStartedEvent$Pre} */ startedPreEvent) => {
   let battle = startedPreEvent.battle
-  let isPvW = battle.isPvW()
-  //console.log("IsPvW: " + isPvW)
-  
-  let playerSide = battle.side1
-  let playerActors = playerSide.actors
-  //console.log("Player Actors is: " + playerActors)
-  /** @type {import("net.minecraft.server.level.ServerPlayer").$ServerPlayer} */
-  let player
-  for (let playerActor of playerActors) {
-    if (playerActor.type == "player" && player == null) {
-      player = playerActor.entity
-    }
-    for (let pokemon of playerActor.pokemonList) {
-      let originalPokemon = pokemon.originalPokemon
-      let restrictedByPika = isRestrictedByPikaStar(originalPokemon)
-      if (restrictedByPika) {
-        let region = getPokemonRegion(originalPokemon)
-        if (region == null || player == null) continue
-        if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
-          startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.own_pika_knowledge", region.name(), originalPokemon.getDisplayName(false))
-          startedPreEvent.cancel()
-          return
-        }
-      }
-    }
-  }
-  //console.log(player)
-  if (player == null) return
 
-  if (isPvW) {
-    let wildSide = battle.side2
-    //console.log("player Side is: " + playerSide)
-    let actors = wildSide.actors
-    for (let actor of actors) {
+  ;[battle.side1, battle.side2].forEach(side => {
+    if (startedPreEvent.isCanceled()) return
+    for (let actor of side.actors) {
+      if (actor.type != "player") continue
       for (let pokemon of actor.pokemonList) {
-        let originalPokemon = pokemon.originalPokemon
-        let restrictedByPika = isRestrictedByPikaStar(originalPokemon)
-        if (restrictedByPika) {
-          let region = getPokemonRegion(originalPokemon)
-          if (region == null) continue
-          if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
-            if (originalPokemon.hasLabels("ultra_beast")) {
-              player.tell(Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name()))
-            } else {
-              startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name())
-            }            
-            startedPreEvent.cancel()
+        let owner = pokemon.originalPokemon.getOwnerPlayer()
+        console.log("Owner is: " + owner)
+        console.log("Original Pokemon is: " + pokemon.originalPokemon)
+        if (owner != null) {
+          let restrictedByPika = isRestrictedByPikaStar(pokemon.originalPokemon)
+          console.log("Restricted is: " + restrictedByPika)
+          if (restrictedByPika) {
+            let region = getPokemonRegion(pokemon.originalPokemon)
+            console.log("Region is: " + region)
+            if (region == null) continue
+            if (!owner.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
+              startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.own_pika_knowledge", region.name(), pokemon.originalPokemon.getDisplayName(false))
+              startedPreEvent.cancel()
+              return
+            }
           }
         }
       }
     }
+  })
+  if (startedPreEvent.isCanceled()) return
+
+  let isPvW = battle.isPvW()
+  if (isPvW) {
+    /** @type {import("net.minecraft.server.level.ServerPlayer").$ServerPlayer[]} */
+    let players = []
+    ;[battle.side1, battle.side2].forEach(side => {
+      for (let actor of side.actors) {
+        if (actor.type == "player") {
+          players.push(actor.entity)
+        }
+      }
+    })
+    if (players.length == 0) {
+      return
+    }
+    ;[battle.side1, battle.side2].forEach(side => {
+      for (let actor of side.actors) {
+        if (actor.type == "wild") {
+          for (let pokemon of actor.pokemonList) {
+            let originalPokemon = pokemon.originalPokemon
+            let restrictedByPika = isRestrictedByPikaStar(originalPokemon)
+            if (restrictedByPika) {
+              let region = getPokemonRegion(originalPokemon)
+              if (region == null) continue
+              players.forEach(player => {
+                if (!player.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
+                  if (originalPokemon.hasLabels("ultra_beast")) {
+                    player.tell(Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name()))
+                  } else {
+                    startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.pika_knowledge", region.name())
+                  }            
+                  startedPreEvent.cancel()
+                }
+              })
+            }
+          }
+        }
+      }
+    })
   }
 }
 
@@ -129,6 +143,7 @@ function isRestrictedByPikaStar(pokemon){
 }
 
 let $Dexes = Java.loadClass("com.cobblemon.mod.common.api.pokedex.Dexes")
+/** @type {typeof import("net.allthemods.allthemons.util.Region").$Region} */
 let $Region = Java.loadClass("net.allthemods.allthemons.util.Region")
 
 function getPokemonRegion(pokemon, fromRegion) {
@@ -155,6 +170,11 @@ function getPokemonRegion(pokemon, fromRegion) {
       })
     })
   })
+  if (result == null) {
+    map.keySet().stream().findFirst().ifPresent(key => {
+      result = key
+    })
+  }
   if (result != null) {
     for (let region of $Region.values()) {
       if (region.name().equalsIgnoreCase(result.getPath())){
