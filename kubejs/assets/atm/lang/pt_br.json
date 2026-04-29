@@ -368,5 +368,7 @@
 	"crop.mysticalagriculture.vibranium": "Vibranium",
 	"kubejs.atm.sr.mekasuit_req": "Você não está usando o MekaSuit com a Unidade de Proteção contra Radiação em todas as peças.",
 	"kubejs.atm.sr.meteor_shower_check_error": "Algo deu errado ao tentar encontrar a Chuva de Meteoros, reporte aos Desenvolvedores do ATM!",
-	"kubejs.atm.sr.meteor_shower_forecast": "A próxima Chuva de Meteoros será em %s"
+	"kubejs.atm.sr.meteor_shower_forecast": "A próxima Chuva de Meteoros será em %s",
+	"kubejs.atm.condition.summoningrituals.player": "Jogador",
+	"kubejs.atm.condition.summoningrituals.mekasuit_with_radiation_shielding": "Vestir todas as peças de %s com %s"
 }
