@@ -3,7 +3,7 @@
 
   "curios.identifier.feet": "Pés",
 
-  "relics.description.researching.info": "Segure [%1$s] para pesquisar...",
+  "relics.description.researching.info": "Segure [%1$s] para buscar...",
 
   "relics.description.researching.bookmarks.relic_description": "Descrição da Relíquia",
   "relics.description.researching.bookmarks.relic_statistic": "Estatísticas da Relíquia",
@@ -483,5 +483,5 @@
 
   "info.relics.researching.wrong_container": "Não é possível trabalhar com uma relíquia neste inventário. Move o item para o inventário principal do jogador e tenta de novo.",
 
-  "key.relics.research_relic": "Pesquisar Relíquia Sob o Cursor"
+  "key.relics.research_relic": "Buscar Relíquia sob o cursor"
 }

@@ -72,18 +72,18 @@
     "message.rftoolspower.coalgenerator.info": "Produzindo: ",
 
     "message.rftoolspower.dimensionalcell.header": "Este bloco pode armazenar energia. Opcionalmente em uma grande estrutura multidimensional",
-    "message.rftoolspower.dimensionalcell.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tick",
+    "message.rftoolspower.dimensionalcell.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tique",
     "message.rftoolspower.dimensionalcell.info": "Energia: ",
 
     "message.rftoolspower.dimensionalcell_advanced.header": "Este bloco pode armazenar energia. Opcionalmente em uma grande estrutura multidimensional",
-    "message.rftoolspower.dimensionalcell_advanced.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tick",
+    "message.rftoolspower.dimensionalcell_advanced.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tique",
     "message.rftoolspower.dimensionalcell_advanced.info": "Energia: ",
 
     "message.rftoolspower.dimensionalcell_simple.header": "Este bloco pode armazenar energia. Opcionalmente em uma grande estrutura multidimensional",
-    "message.rftoolspower.dimensionalcell_simple.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tick",
+    "message.rftoolspower.dimensionalcell_simple.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tique",
     "message.rftoolspower.dimensionalcell_simple.info": "Energia: ",
 
     "message.rftoolspower.dimensionalcell_creative.header": "Este bloco pode armazenar energia. Opcionalmente em uma grande estrutura multidimensional",
-    "message.rftoolspower.dimensionalcell_creative.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tick",
+    "message.rftoolspower.dimensionalcell_creative.gold": "Bônus de infusão: custo reduzido de extração de energia a longa distância e aumento da saída de RF/tique",
     "message.rftoolspower.dimensionalcell_creative.info": "Energia: "
 }

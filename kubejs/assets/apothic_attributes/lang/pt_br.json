@@ -137,21 +137,21 @@
     "death.attack.apothic_attributes:bleeding.item": "%1$s sangrou até morrer devido a %3$s de %2$s",
     "death.attack.apothic_attributes:bleeding.player": "%1$s sangrou até morrer enquanto tentava escapar de %2$s",
 
-    "death.attack.apothic_attributes:detonation": "%1$s foi detonado por chamas",
-    "death.attack.apothic_attributes:detonation.item": "%1$s foi detonado por chamas",
-    "death.attack.apothic_attributes:detonation.player": "%1$s foi detonado por chamas",
+    "death.attack.apothic_attributes:detonation": "Chamas detonaram %1$s",
+    "death.attack.apothic_attributes:detonation.item": "Chamas detonaram %1$s",
+    "death.attack.apothic_attributes:detonation.player": "Chamas detonaram %1$s",
 
-    "death.attack.apothic_attributes:current_hp_damage": "%1$s foi abatido",
-    "death.attack.apothic_attributes:current_hp_damage.item": "%1$s foi abatido por %2$s usando %3$s",
-    "death.attack.apothic_attributes:current_hp_damage.player": "%1$s foi abatido enquanto lutava com %2$s",
+    "death.attack.apothic_attributes:current_hp_damage": "Abateram %1$s",
+    "death.attack.apothic_attributes:current_hp_damage.item": "%2$s abateu %1$s usando %3$s",
+    "death.attack.apothic_attributes:current_hp_damage.player": "Abateram %1$s enquanto lutava com %2$s",
 
-    "death.attack.apothic_attributes:fire_damage": "%1$s foi queimado até a morte",
-    "death.attack.apothic_attributes:fire_damage.item": "%1$s foi queimado até a morte por %2$s usando %3$s",
-    "death.attack.apothic_attributes:fire_damage.player": "%1$s foi queimado até a morte enquanto lutava com %2$s",
+    "death.attack.apothic_attributes:fire_damage": "%1$s queimou até a morte",
+    "death.attack.apothic_attributes:fire_damage.item": "%2$s queimou %1$s até a morte usando %3$s",
+    "death.attack.apothic_attributes:fire_damage.player": "%1$s queimou até a morte enquanto lutava com %2$s",
 
-    "death.attack.apothic_attributes:cold_damage": "%1$s foi congelado até a morte",
-    "death.attack.apothic_attributes:cold_damage.item": "%1$s foi congelado até a morte por %2$s usando %3$s",
-    "death.attack.apothic_attributes:cold_damage.player": "%1$s foi congelado até a morte enquanto lutava com %2$s",
+    "death.attack.apothic_attributes:cold_damage": "%1$s congelou até a morte",
+    "death.attack.apothic_attributes:cold_damage.item": "%2$s congelou %1$s até a morte usando %3$s",
+    "death.attack.apothic_attributes:cold_damage.player": "%1$s congelou até a morte enquanto lutava com %2$s",
 
     "item.minecraft.potion.effect.minecraft.resistance": "Poção de Resistência",
     "item.minecraft.splash_potion.effect.minecraft.resistance": "Poção Arremessável de Resistência",

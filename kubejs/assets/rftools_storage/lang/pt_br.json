@@ -28,7 +28,7 @@
     "message.rftoolsstorage.tablet_scanner.header": "Tablet que pode ser usado para referenciar GUIs e informações remotas",
     "message.rftoolsstorage.tablet_scanner.gold": "O Tablet contém um link para o scanner de armazenamento: clique com o botão direito para a GUI do scanner, clique com Shift para a GUI do tablet",
 
-    "message.rftoolsstorage.storage_scanner.header": "Esta máquina irá escanear todos os inventários próximos e mostrá-los em uma lista. Você pode então pesquisar e acessar itens desses inventários",
+    "message.rftoolsstorage.storage_scanner.header": "Esta máquina irá escanear todos os inventários próximos e mostrá-los em uma lista. Você pode então buscar e acessar itens desses inventários",
     "message.rftoolsstorage.storage_scanner.gold": "Bônus de infusão: consumo de energia reduzido",
 
     "message.rftoolsstorage.storage_control_module.header": "Este módulo de tela permite que você monitore 9 itens diferentes através de um scanner de armazenamento. Este módulo também pode ser combinado com um tablet para acesso remoto a um sistema controlado pelo scanner de armazenamento",

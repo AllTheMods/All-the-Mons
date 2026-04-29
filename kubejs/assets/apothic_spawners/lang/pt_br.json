@@ -20,10 +20,10 @@
     "misc.apothic_spawners.off": "%s: Desligado",
     
     "stat.apothic_spawners.min_delay": "Atraso Mín. de Geração",
-    "stat.apothic_spawners.min_delay.desc": "O número mínimo de ticks entre as gerações",
+    "stat.apothic_spawners.min_delay.desc": "O número mínimo de tiques entre as gerações",
     
     "stat.apothic_spawners.max_delay": "Atraso Máx. de Geração",
-    "stat.apothic_spawners.max_delay.desc": "O número máximo de ticks entre as gerações",
+    "stat.apothic_spawners.max_delay.desc": "O número máximo de tiques entre as gerações",
     
     "stat.apothic_spawners.spawn_count": "Quantidade de Geração",
     "stat.apothic_spawners.spawn_count.desc": "O número de entidades geradas de uma só vez",
