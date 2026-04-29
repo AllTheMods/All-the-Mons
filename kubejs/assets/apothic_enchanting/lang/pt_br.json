@@ -115,7 +115,7 @@
     "enchantment.apothic_enchanting.stable_footing.desc": "Anula a penalidade de velocidade de mineração por voar.",
 
     "enchantment.apothic_enchanting.scavenger": "Saqueador",
-    "enchantment.apothic_enchanting.scavenger.desc": "Criaturas mortas podem rolar suas tabelas de saque duas vezes.",
+    "enchantment.apothic_enchanting.scavenger.desc": "Criaturas mortas podem rolar suas tabelas de saques duas vezes.",
 
     "enchantment.apothic_enchanting.life_mending": "Remendo Vital",
     "enchantment.apothic_enchanting.life_mending.desc": "Consome a cura recebida para reparar itens.",
@@ -134,7 +134,7 @@
 
     "item.apothic_enchanting.inert_trident": "Tridente Inerte",
     "item.apothic_enchanting.other_tome": "Tomo dos Outros",
-    "item.apothic_enchanting.helmet_tome": "Tomo de Elmos",
+    "item.apothic_enchanting.helmet_tome": "Tomo de Capacetes",
     "item.apothic_enchanting.chestplate_tome": "Tomo de Peitorais",
     "item.apothic_enchanting.leggings_tome": "Tomo de Perneiras",
     "item.apothic_enchanting.boots_tome": "Tomo de Botas",
@@ -154,21 +154,21 @@
     "item.apothic_enchanting.occult_ender_lead": "Laço de Ender Oculto",
     "item.apothic_enchanting.occult_ender_lead.desc": "Pode capturar e mover a maioria das entidades, e prendê-las a Geradores de Criaturas",
 
-    "item.apothic_enchanting.music_disc_eterna": "Disco de Música",
+    "item.apothic_enchanting.music_disc_eterna": "Disco Musical",
     "jukebox_song.apothic_enchanting.eterna": "Firel - Eterna",
     "subtitle.apothic_enchanting.music_disc.eterna": "Firel - Eterna",
 
-    "item.apothic_enchanting.music_disc_quanta": "Disco de Música",
+    "item.apothic_enchanting.music_disc_quanta": "Disco Musical",
     "jukebox_song.apothic_enchanting.quanta": "Firel - Quanta",
     "subtitle.apothic_enchanting.music_disc.quanta": "Firel - Quanta",
 
-    "item.apothic_enchanting.music_disc_arcana": "Disco de Música",
+    "item.apothic_enchanting.music_disc_arcana": "Disco Musical",
     "jukebox_song.apothic_enchanting.arcana": "Firel - Arcana",
     "subtitle.apothic_enchanting.music_disc.arcana": "Firel - Arcana",
 
     "info.apothic_enchanting.tome_error": "Item Bugado - Clique com o botão direito no ar para transformar em um livro encantado.",
     "info.apothic_enchanting.other_tome": "Aceita encantamentos diversos.",
-    "info.apothic_enchanting.helmet_tome": "Aceita encantamentos de elmo.",
+    "info.apothic_enchanting.helmet_tome": "Aceita encantamentos de capacete.",
     "info.apothic_enchanting.chestplate_tome": "Aceita encantamentos de peitoral.",
     "info.apothic_enchanting.leggings_tome": "Aceita encantamentos de perneira.",
     "info.apothic_enchanting.boots_tome": "Aceita encantamentos de botas.",

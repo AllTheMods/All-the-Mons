@@ -1,0 +1,31 @@
+{
+  "advancement.cobblemonextrastructures.cobblemonextrastructures.title": "§cCobblemon: Extra Structures",
+  "advancement.cobblemonextrastructures.cobblemonextrastructures.description": "Explore o mundo com o Cobblemon: Extra Structures!",
+  "advancement.cobblemonextrastructures.bell_tower.title": "§eTorre do Sino",
+  "advancement.cobblemonextrastructures.bell_tower.description": "Encontre a Torre do Sino.",
+  "advancement.cobblemonextrastructures.golems.title": "§8Despertar dos Golems",
+  "advancement.cobblemonextrastructures.golems.description": "Entre em uma das tumbas dos Golems.",
+  "advancement.cobblemonextrastructures.sea_mauville.title" : "§3Sea Mauville",
+  "advancement.cobblemonextrastructures.sea_mauville.description": "Encontre o naufrágio de Sea Mauville",
+  "advancement.cobblemonextrastructures.sky_pillar.title" : "§aPilar do Céu",
+  "advancement.cobblemonextrastructures.sky_pillar.description": "Encontre o Pilar do Céu",
+  "advancement.cobblemonextrastructures.the_under.title" : "§5The Under",
+  "advancement.cobblemonextrastructures.the_under.description": "Encontre a cidade dos ladrões.",
+
+  "advancement.cobblemonextrastructures.burned_tower.title" : "§8Um segundo despertar",
+  "advancement.cobblemonextrastructures.burned_tower.description": "Encontre a Torre Queimada.",
+  "advancement.cobblemonextrastructures.fishing_hut.title" : "§2Lá nos pântanos",
+  "advancement.cobblemonextrastructures.fishing_hut.description": "Encontre a cabana de pesca.",
+  "advancement.cobblemonextrastructures.kurt_house.title" : "§6Fábrica de Pokébolas",
+  "advancement.cobblemonextrastructures.kurt_house.description": "Encontre a casa do Kurt.",
+  "advancement.cobblemonextrastructures.outskirt_stand.title" : "§eO deserto intransponível",
+  "advancement.cobblemonextrastructures.outskirt_stand.description": "Encontre o Outskirt Stand.",
+  "advancement.cobblemonextrastructures.pharmacy.title" : "§bO remédio",
+  "advancement.cobblemonextrastructures.pharmacy.description": "Encontre a farmácia.",
+  "advancement.cobblemonextrastructures.pokemon_center.title" : "§cOásis",
+  "advancement.cobblemonextrastructures.pokemon_center.description": "Encontre o Centro Pokémon.",
+  "advancement.cobblemonextrastructures.berry_house.title" : "§2Os mestres das frutas",
+  "advancement.cobblemonextrastructures.berry_house.description": "Encontre a Casa de Frutas.",
+      
+  "creativetab.cobblemonextrastructures": "Cobblemon: Extra Structures"
+}

@@ -160,11 +160,11 @@
 	"item.kubejs.imperium_enchanting_base": "Base de Encantamento de Imperium",
 	"item.kubejs.inferium_enchanting_base": "Base de Encantamento de Inferium",
 	"item.kubejs.lava_cell": "Célula de Lava",
-	"item.kubejs.light_blue_cell": "Célula Azul Claro",
-	"item.kubejs.light_gray_cell": "Célula Cinza Claro",
+	"item.kubejs.light_blue_cell": "Célula Azul-Claro",
+	"item.kubejs.light_gray_cell": "Célula Cinza-Claro",
 	"item.kubejs.lightning_eye": "Olho de Raio",
 	"item.kubejs.lightning_pearl": "Pérola de Raio",
-	"item.kubejs.lime_cell": "Célula Verde Limão",
+	"item.kubejs.lime_cell": "Célula Verde-Limão",
 	"item.kubejs.magenta_cell": "Célula Magenta",
 	"item.kubejs.modularium_plate": "Chapa de Modularium",
 	"item.kubejs.moss_cell": "Célula de Musgo",
@@ -332,7 +332,7 @@
 	"kubejs.atm.tooltip.unobtainium_ore.2": "§dEncontrado nas Terras Altas do End",
 	"kubejs.atm.tooltip.update_progress": "Use para atualizar o progresso",
 	"kubejs.atm.tooltip.vibranium_ore.1": "§7Precisa de pelo menos Allthemodium para ser minerado",
-	"kubejs.atm.tooltip.vibranium_ore.2": "§bEncontrado em qualquer bioma dO Nether",
+	"kubejs.atm.tooltip.vibranium_ore.2": "§bEncontrado em qualquer bioma do Nether",
 	"kubejs.atm.tooltip.vibranium_ore.3": "§bTambém encontrado em O Outro",
 	"kubejs.atm.tooltip.watering_can.1": "§cDesativado para Jogador Falso",
 	"kubejs.atm.tooltip.watering_can.2": "§c(Blocos como Roteadores Modulares, Clicadores, etc)",
@@ -368,5 +368,7 @@
 	"crop.mysticalagriculture.vibranium": "Vibranium",
 	"kubejs.atm.sr.mekasuit_req": "Você não está usando o MekaSuit com a Unidade de Proteção contra Radiação em todas as peças.",
 	"kubejs.atm.sr.meteor_shower_check_error": "Algo deu errado ao tentar encontrar a Chuva de Meteoros, reporte aos Desenvolvedores do ATM!",
-	"kubejs.atm.sr.meteor_shower_forecast": "A próxima Chuva de Meteoros será em %s"
+	"kubejs.atm.sr.meteor_shower_forecast": "A próxima Chuva de Meteoros será em %s",
+	"kubejs.atm.condition.summoningrituals.player": "Jogador",
+	"kubejs.atm.condition.summoningrituals.mekasuit_with_radiation_shielding": "Vestir todas as peças de %s com %s"
 }
