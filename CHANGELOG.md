@@ -4,6 +4,7 @@
 In-depth changelog of the new versions of the pack.
 
 _Note: use some browser extension like [Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) if changelog is too big._
+## 📦 [1.0.0-rc.5] - 🗓️ 2026-05-15
 ## 📦 [1.0.0-rc.1] - 🗓️ 2026-04-18
 ## 📦 [0.18.0] - 🗓️ 2026-04-08
 ## 📦 [0.17.0] - 🗓️ 2026-04-06
@@ -33,3 +34,4 @@ _Note: use some browser extension like [Markdown Viewer](https://chromewebstore.
 [0.17.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.16.0-beta-0.17.0-beta.md
 [0.18.0]: ./changelogs/CHANGELOG-All%20The%20Mons-0.17.0-beta-0.18.0-beta.md
 [1.0.0-rc.1]: ./changelogs/CHANGELOG-All%20The%20Mons-0.18.0-beta-1.0.0-rc.1.md
+[1.0.0-rc.5]: ./changelogs/CHANGELOG-All%20The%20Mons-1.0.0-rc.4-1.0.0-rc.5.md

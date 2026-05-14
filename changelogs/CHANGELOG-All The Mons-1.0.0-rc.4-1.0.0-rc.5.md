@@ -1,0 +1,151 @@
+# Changelog
+
+# 📦 1.0.0-rc.5
+
+## 📰 General changes and notes
+
+Summary of changes here!
+
+Cobblemon Extra Structures now have respawnable mons in their structures. Only freshly generated structures will have this change.
+
+<details open>
+<summary>Pack changes :octocat:</summary>
+<blockquote>
+
+- Eternal Starlight Quest (ToshibaMicrowave)
+- Aether Quest (ToshibaMicrowave)
+- A bunch of tweaks (DivineFinal)
+- Updated PT_BR Localization (PrincessStellar)
+- Add dynamic tooltips for mob imprisonment tool (EjahDev)
+- A bunch of quest changes (DivineFinal)
+- Make Epitaphs Graves immune to Cataclysm destruction (Jonh09)
+- fix: catch restriction when playing coop (Uncandango)
+- Mekanism Quest Fix (PrincessStellar)
+- ATM Team Series Quest (ToshibaMicrowave)
+- Chocolate is not candy (LobsterJonn)
+- Only allowed occultism eldritch miner to only be crafted with an allthemodium pickaxe (TardisKing40)
+- updated lego trainer (LobsterJonn)
+- Pasture breeding code improvements for better performance (LobsterJonn)
+- Pigliches are always replaced even with the config off (LobsterJonn)
+- Fixed Roaring Moon paradox spawning (LobsterJonn)
+- Fixed crash when breeding region biased mons (LobsterJonn)
+- Fixed exponential log spam with wormholes (LobsterJonn)
+- Added ability and ball inheritance for breeding (LobsterJonn)
+- Fixed egg move inheritance (LobsterJonn)
+- feat(i18n): comprehensive localization overhaul & updates (Jiahe Yan)
+
+</blockquote>
+
+</details>
+
+---
+
+## 🛠️ Mods
+
+<details open>
+<summary>Updated (103)</summary>
+
+- quarryplus (21.1.152 > 21.1.153)
+- ae2importexportcard (1.21.1-1.4.3 > 1.21.1-1.5.0)
+- ae2wtlib (19.4.1 > 19.5.0)
+- allthemodium (3.0.0 > 3.0.1)
+- allthemons (0.1.4 > 0.1.5)
+- allthetweaks (2.9.2 > 2.9.3)
+- aquaculture (2.7.19 > 2.7.21)
+- ars_elemancy (1.16 > 1.17)
+- ars_elemental (0.7.9_beta > 0.7.9.3)
+- ars_nouveau (5.11.3 > 5.11.5)
+- ars_ocultas (2.4.0 > 2.4.1)
+- athena (4.0.2 > 4.0.6)
+- bwncr (3.20.3 > 3.20.4)
+- camol (1.21.1-0.3.0 > 1.21.1-0.3.1)
+- cloudglass (1.0.1 > 1.0.2)
+- cobblefurnies (1.0 > 1.1)
+- cobblemon_battle_extras (1.13.43 > 1.13.45)
+- cobblemon_battle_tower (1.10.19 > 1.10.22)
+- cobblemonextrastructures (1.21.1-1.2.1 > 1.21.1-1.3.0)
+- cobblemonraiddens (0.10.0+1.21.1 > 0.11.0+1.21.1)
+- cobblenav (2.3.2 > 2.3.3)
+- colorwheel (1.2.3+mc1.21.1 > 1.2.6+mc1.21.1)
+- colorwheel_patcher (1.0.4+mc1.21.1 > 1.0.5+mc1.21.1)
+- cookingforblockheads (21.1.20 > 21.1.23)
+- craftingtweaks (21.1.7 > 21.1.10)
+- crash_assistant (1.11.6 > 1.11.9)
+- create (6.0.9 > 6.0.10)
+- create_dragons_plus (1.8.7 > 1.10.0b)
+- create_enchantment_industry (2.3.0 > 2.3.1)
+- create_hypertube (0.4.0 > 0.4.0-COMPAT)
+- cucumber (8.0.15 > 8.0.16)
+- cyclopscore (1.29.0 > 1.29.1)
+- deeperdarker (1.3.5 > 1.4)
+- defaultoptions (21.1.5 > 21.1.6)
+- deimos (2.5 > 2.6)
+- drippyloadingscreen (3.1.0 > 3.1.2)
+- dummmmmmy (1.21-2.0.11 > 1.21-2.0.12)
+- easy_villagers (1.21.1-1.1.41 > 1.21.1-1.1.42)
+- enderio (8.2.5-beta > 8.2.9-beta)
+- epitaphs (2.0.0 > 2.0.2)
+- extendedae (1.21-2.2.31-neoforge > 1.21-2.2.32-neoforge)
+- extremesoundmuffler (3.55 > 3.56)
+- fancymenu (3.8.1 > 3.9.0)
+- farmersdelight (1.2.11 > 1.3.2)
+- farmingforblockheads (21.1.12 > 21.1.13)
+- ftbultimine (2101.1.13 > 2101.1.14)
+- glassential (3.4.1 > 3.4.2)
+- integratedcrafting (1.4.5 > 1.4.6)
+- integrateddynamics (1.32.3 > 1.33.0)
+- integratedtunnels-1.21.1-neoforge-1.9.4-606.jar > integratedtunnels-1.21.1-neoforge-1.9.4-632.jar
+- journeymap (1.21.1-6.0.0-beta.63 > 1.21.1-6.0.0-beta.72)
+- jei_mekanism_multiblocks (7.14 > 7.15)
+- justenoughprofessions (4.0.4 > 4.0.5)
+- kubejs (2101.7.2-build.348 > 2101.7.2-build.368)
+- lithostitched (1.6.5 > 1.7.3)
+- little_big_redstone (1.5.2-beta-1.21.1 > 1.6.3-beta-1.21.1)
+- lootr (1.21.1-1.11.37.118 > 1.21.1-1.11.37.120)
+- mega_showdown (1.7.3+1.7.3+1.21.1 > 1.8.4+1.7.3+1.21.1-hotfix-hotfix)
+- megacells (4.10.2 > 4.11.0)
+- mekanism (10.7.18 > 10.7.19)
+- mekanismgenerators (10.7.18 > 10.7.19)
+- mekanismtools (10.7.18 > 10.7.19)
+- mekmm (1.3.1 > 1.3.3)
+- memorysettings (5.9 > 6.0)
+- modernfix (5.26.1+mc1.21.1 > 5.27.7+mc1.21.1)
+- modularbees (1.21.1-2.11-neoforge > 1.21.1-3.0-neoforge)
+- monolib (2.1.0 > 4.0.2)
+- moonlight (1.21-2.29.29 > 1.21.1-3.0.7)
+- mysticalagriculture (8.0.24 > 8.0.26)
+- not_enough_glyphs (4.2.9 > 4.4.0)
+- occultism (1.208.0 > 1.215.0)
+- octolib (0.6.1 > 0.6.2)
+- oracle_index (1.1.1 > 1.2.0)
+- oritech (1.1.0 > 1.2.6)
+- pneumaticcraft (8.2.19 > 8.2.20)
+- powah (6.2.8 > 6.2.10)
+- productivebees (1.21.1-13.13.3 > 1.21.1-13.13.5)
+- rctapi (0.15.0-beta > 0.15.2-beta)
+- rctmod (0.17.7-beta > 0.18.1-beta)
+- relics (0.11.14 > 0.12.4)
+- reliquary (2.0.66 > 2.0.70)
+- reliquified_artifacts (1.0.4 > 1.0.6)
+- repeatable_trial_vaults (1.0.2 > 1.0.3)
+- sgearmetalworks (1.21.1-1.4.6 > 1.21.1-1.5.0)
+- silentgear (4.1.5 > 4.2.1)
+- silentlib (10.5.1 > 10.6.0)
+- simplebackups (1.21-4.0.29 > 1.21-4.0.30)
+- sophisticatedbackpacks (3.25.37 > 3.25.45)
+- sophisticatedcore (1.4.21 > 1.4.39)
+- sophisticatedstorage (1.5.35 > 1.5.47)
+- sophisticatedstoragecreateintegration (0.1.14 > 0.1.17)
+- sophisticatedstorageinmotion (0.10.27 > 0.10.28)
+- summoningrituals (1.21.1-3.11.1 > 1.21.1-3.13.2)
+- supplementaries (1.21-3.5.34 > 1.21.1-3.6.4)
+- tesseract_api (1.11.10-1.21.1 > 1.11.12-1.21.1)
+- the_bumblezone (7.13.1+1.21.1-neoforge > 7.13.2+1.21.1-neoforge)
+- theurgy (1.71.0 > 1.73.1)
+- titanium (4.0.42 > 4.0.43)
+- utilitarian (1.21.1-0.19.1 > 1.21.1-0.19.2)
+- utilityvest (1.2.6 > 1.3.0)
+- waystones (21.1.29 > 21.1.32)
+- zamega (1.7.2 > 1.7.3)
+
+</details>
