@@ -214,6 +214,7 @@ ServerEvents.tags('entity_type', allthemods => {
     allthemods.add('enderio:spawner_blacklist', '#allthemods:jank_blacklist')
     allthemods.add('ars_additions:source_spawner_denylist', '#allthemods:jank_blacklist')
     allthemods.add('oritech:spawner_blacklist', '#allthemods:jank_blacklist')
+    allthemods.add('occultism:soul_shattered_deny_list', '#allthemods:jank_blacklist') 
     allthemods.add('ars_elemental:charm_blacklist', '#allthemods:jank_blacklist')
     allthemods.add("justdirethings:creature_catcher_deny", ['@cobblemon', '@rctmod'])
     allthemods.add("justdirethings:polymorphic_target_deny", ['@cobblemon', '@rctmod', '@cobbleloots'])
@@ -254,6 +255,12 @@ ServerEvents.tags('item', allthemods => {
     allthemods.remove("minecraft:head_armor", ["pkgbadges:alians_scraf_helmet"])
     allthemods.add("minecraft:head_armor", ["pkgbadges:alians_scraf"])
     allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot"]);
+    allthemods.remove('minecraft:enchantable/crossbow',["allthemodium:unobtainium_crossbow"])
+    allthemods.remove('minecraft:enchantable/bow',["allthemodium:allthemodium_bow"])
+    allthemods.remove('minecraft:enchantable/equippable',["allthemodium:vibranium_shield"])
+    allthemods.remove("c:tools/bow",["allthemodium:allthemodium_bow"])
+    allthemods.remove("c:tools/crossbow",["allthemodium:unobtainium_crossbow"])
+    allthemods.remove("c:tools/shield",["allthemodium:vibranium_shield"])
 })
 
 ServerEvents.tags('block', allthemods => {
