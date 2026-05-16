@@ -54,7 +54,7 @@ ItemEvents.modifyTooltips(allthemods => {
         Text.translate('kubejs.atm.tooltip.smithing_template.unobtainium')
     ])
 	// All The Mons
-	allthemods.add('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]',[
+	allthemods.add('allthemons:pokemon_egg[allthemons:features=["atm=true"],allthemons:species="cobblemon:staryu"]',[
         Text.translate('kubejs.atm.tooltip.patrickyu_egg')
     ])
 

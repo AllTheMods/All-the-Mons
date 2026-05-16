@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
     ])
     .id("allthemons:regional_pika_star")
 
-  event.recipes.summoningrituals.altar('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]')
+  event.recipes.summoningrituals.altar('allthemons:pokemon_egg[allthemons:features=["atm=true"],allthemons:species="cobblemon:staryu"]')
     .itemInputs([
       "allthetweaks:patrick_star",
       "#create:sandpaper",

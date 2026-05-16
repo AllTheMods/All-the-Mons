@@ -107,7 +107,7 @@ function completeImbuedPokemonEgg(/** @type {import("com.almostreliable.summonin
         setTimeout(() => {
           let remainder = $ItemHandlerHelper.insertItem(capability, output.copy(), false);
           if (remainder.count == output.count) {
-            event.altar.spawnItemAboveAltar('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]')
+            event.altar.spawnItemAboveAltar('allthemons:pokemon_egg[allthemons:features=["atm=true"],allthemons:species="cobblemon:staryu"]')
             event.altar.spawnItemAboveAltar('allthetweaks:patrick_star')
           } else {
             let lightningbolt = event.player.entityType.LIGHTNING_BOLT.create(event.altar.level);
@@ -123,7 +123,7 @@ function completeImbuedPokemonEgg(/** @type {import("com.almostreliable.summonin
       }
     }
   }
-  event.altar.spawnItemAboveAltar('allthemons:pokemon_egg[allthemons:features=["atm"],allthemons:species="cobblemon:staryu"]')
+  event.altar.spawnItemAboveAltar('allthemons:pokemon_egg[allthemons:features=["atm=true"],allthemons:species="cobblemon:staryu"]')
   event.altar.spawnItemAboveAltar('allthetweaks:patrick_star')
 }
 
