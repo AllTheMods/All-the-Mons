@@ -248,5 +248,9 @@ KubeJSTweaks.beforeRecipes(event => {
       entry.json().add("neoforge:conditions", [{ "type": "neoforge:mod_loaded", "modid": "createlowheated"}])
     })
 
+  if (!Platform.isLoaded("aeronautics")){
+    event.disable(["create_dragons_plus:crafting/fragile_fluid_tank","create_dragons_plus:crafting/levitite_fragile_fluid_tank"])
+  }
+  
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
