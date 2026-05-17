@@ -44,6 +44,7 @@ ServerEvents.tags('block', allthemods => {
 ServerEvents.tags('fluid', allthemods => {
     // Pneumaticcraft
     allthemods.add('c:ethanol', 'pneumaticcraft:ethanol')
+    allthemods.add('c:crude_oil', 'oritech:still_oil')
 })
 
 ServerEvents.tags('item', allthemods => {
