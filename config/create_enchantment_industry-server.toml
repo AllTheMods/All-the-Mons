@@ -65,7 +65,7 @@
 		#[@cui:RequiresReload:server]
 		# Default: 4000
 		# Range: > 1000
-		printerFluidCapacity = 4000
+		printerFluidCapacity = 6000
 		#.
 		#If printing Written Book function of Printer should be enabled.
 		#[@cui:RequiresReload:server]
