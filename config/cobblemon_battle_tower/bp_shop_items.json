@@ -14,12 +14,6 @@
       "item_id": "mega_showdown:mega_stone",
       "quantity": 1
     }
-    // {
-    //   "id": "random_shiny",
-    //   "display_name": "Random Shiny Pokemon",
-    //   "bp_cost": 500,
-    //   "command": "[server] pokegive {player} random shiny=true"
-    // }
   ],
   
   "_default_items": [

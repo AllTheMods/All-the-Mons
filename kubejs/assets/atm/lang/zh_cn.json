@@ -353,14 +353,13 @@
 	"trainer_type.allthemons.team_allthemods_elite_gym.title": "精英道馆",
 	"trainer_type.allthemons.team_allthemods_trainer.title": "道馆训练家",
 	"trainer_type.allthemons.team_allthemods_wandering.title": "游荡训练家",
-	"crop.mysticalagriculture.allthemodium": "ATM",
-	"crop.mysticalagriculture.azure_silver": "蔚蓝银",
-	"crop.mysticalagriculture.black_quartz": "焦黑石英",
-	"crop.mysticalagriculture.crimson_iron": "绯红铁",
-	"crop.mysticalagriculture.darkstone": "暗黑石",
-	"crop.mysticalagriculture.entro": "恩特罗",
-	"crop.mysticalagriculture.sky_steel": "苍穹钢",
-	"crop.mysticalagriculture.unexplored_wood": "未至之木",
-	"crop.mysticalagriculture.unobtainium": "难得素",
-	"crop.mysticalagriculture.vibranium": "振金"
+	"crop.mysticalcustomization.allthemodium": "ATM",
+	"crop.mysticalcustomization.azure_silver": "蔚蓝银",
+	"crop.mysticalcustomization.black_quartz": "焦黑石英",
+	"crop.mysticalcustomization.crimson_iron": "绯红铁",
+	"crop.mysticalcustomization.darkstone": "暗黑石",
+	"crop.mysticalcustomization.entro": "恩特罗",
+	"crop.mysticalcustomization.sky_steel": "苍穹钢",
+	"crop.mysticalcustomization.unobtainium": "难得素",
+	"crop.mysticalcustomization.vibranium": "振金"
 }

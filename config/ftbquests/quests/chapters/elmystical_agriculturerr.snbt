@@ -5083,34 +5083,6 @@
 			y: -1.375d
 		}
 		{
-			dependencies: [
-				"576ABF43FCF886B7"
-				"0B37355262121DD5"
-			]
-			id: "10098A4B38BBF0B1"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5737008C5146CB8B"
-					table_id: 2427872771413920777L
-					type: "random"
-				}
-				{
-					id: "30534CEFF8BE763A"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "47991E13B91F2F3B"
-				item: { count: 1, id: "mysticalagriculture:unexplored_wood_seeds" }
-				type: "item"
-			}]
-			x: 15.5d
-			y: -4.375d
-		}
-		{
 			dependencies: ["202B1F54D3F06DAB"]
 			id: "6D0A876D4E4D35AB"
 			rewards: [

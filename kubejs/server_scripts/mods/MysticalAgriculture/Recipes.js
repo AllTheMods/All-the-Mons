@@ -90,76 +90,7 @@ ServerEvents.recipes(allthemods => {
         N: 'mysticalagriculture:nether_essence'
     }).id('allthemods:essence/minecraft/weeping_vines')
 
-    // Regions Unexplored Logs
-    // allthemods.shaped('8x regions_unexplored:alpha_log', ['AAA', '   ', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/alpha_log')
-    // allthemods.shaped('8x regions_unexplored:ashen_log', ['   ', 'AAA', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/ashen_log')
-    // allthemods.shaped('8x regions_unexplored:bamboo_log', ['   ', '   ', 'AAA'], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/bamboo_log')
-    // allthemods.shaped('8x regions_unexplored:silver_birch_log', ['A  ', 'A  ', 'A  '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/silver_birch_log')
-    // allthemods.shaped('8x regions_unexplored:small_oak_log', [' A ', ' A ', ' A '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/small_oak_log')
-    // allthemods.shaped('8x regions_unexplored:baobab_log', ['  A', '  A', '  A'], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/baobab_log')
-    // allthemods.shaped('8x regions_unexplored:blackwood_log', ['A  ', ' A ', '  A'], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/blackwood_log')
-    // allthemods.shaped('8x regions_unexplored:brimwood_log', ['  A', ' A ', 'A  '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/brimwood_log')
-    // allthemods.shaped('8x regions_unexplored:cobalt_log', ['AA ', '  A', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/cobalt_log')
-    // allthemods.shaped('8x regions_unexplored:cypress_log', ['A A', ' A ', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/cypress_log')
-    // allthemods.shaped('8x regions_unexplored:dead_log', ['  A', 'AA ', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/dead_log')
-    // allthemods.shaped('8x regions_unexplored:eucalyptus_log', [' AA', 'A  ', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/eucalyptus_log')
-    // allthemods.shaped('8x regions_unexplored:joshua_log', ['   ', 'AA ', '  A'], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/joshua_log')
-    // allthemods.shaped('8x regions_unexplored:kapok_log', ['   ', 'A  ', 'AA '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/kapok_log')
-    // allthemods.shaped('8x regions_unexplored:larch_log', ['   ', 'A A', ' A '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/larch_log')
-    // allthemods.shaped('8x regions_unexplored:magnolia_log', ['   ', '  A', 'AA '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/magnolia_log')
-    // allthemods.shaped('8x regions_unexplored:maple_log', ['   ', ' AA', 'A  '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/maple_log')
-    // allthemods.shaped('8x regions_unexplored:mauve_log', ['AA ', 'A  ', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/mauve_log')
-    // allthemods.shaped('8x regions_unexplored:palm_log', [' AA', '  A', '   '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/palm_log')
-    // allthemods.shaped('8x regions_unexplored:pine_log', ['   ', 'A  ', 'AA '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/pine_log')
-    // allthemods.shaped('8x regions_unexplored:redwood_log', ['   ', '  A', ' AA'], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/redwood_log')
-    // allthemods.shaped('8x regions_unexplored:socotra_log', ['A  ', 'A  ', ' A '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/socotra_log')
-    // allthemods.shaped('8x regions_unexplored:willow_log', ['A  ', ' A ', ' A '], {
-        // A: 'mysticalagriculture:unexplored_wood_essence'
-    // }).id('allthemods:essence/regions_unexplored/willow_log')
+
     //addInfustion('mysticalagriculture:silicon_seeds', 'ae2:silicon', 'mysticalagriculture:prudentium_essence')
     //addInfustion('mysticalagriculture:steel_seeds', 'alltheores:steel_ingot', 'mysticalagriculture:imperium_essence')
 
