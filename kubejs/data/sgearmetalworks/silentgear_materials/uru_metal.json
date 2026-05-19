@@ -24,6 +24,32 @@
     "name_prefix": ""
   },
   "properties": {
+    "silentgear:coating": {
+      "armor_durability": {
+        "operation": "MULTIPLY_TOTAL",
+        "value": 4.0
+      },
+      "durability": {
+        "operation": "MULTIPLY_TOTAL",
+        "value": 2.5
+      },
+      "enchantment_value": {
+        "operation": "ADD",
+        "value": 500.0
+      },
+      "harvest_tier": {
+        "incorrect_blocks_for_tool": "minecraft:incorrect_for_netherite_tool",
+        "level_hint": "4",
+        "name": "netherite"
+      },
+      "traits": [
+        {
+          "conditions": [],
+          "level": 1,
+          "trait": "silentgear:sting_resist"
+        }
+      ]
+    },
     "silentgear:main": {
       "armor": 42.0,
       "armor/boots": 8.0,
