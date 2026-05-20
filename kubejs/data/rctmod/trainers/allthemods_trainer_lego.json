@@ -26,7 +26,7 @@
       "moveset": [
         "knockoff",
         "flowertrick",
-        "tripleaxle",
+        "tripleaxel",
         "uturn"
       ],
       "ivs": {
@@ -174,7 +174,7 @@
         "vcreate",
         "boltstrike",
         "uturn",
-        "zenheadbut"
+        "zenheadbutt"
       ],
       "ivs": {
         "hp": 31,
@@ -189,7 +189,7 @@
         "spe": 252
       },
       "heldItem": [
-        "choiceband"
+        "choice_band"
       ]
     }
   ]
