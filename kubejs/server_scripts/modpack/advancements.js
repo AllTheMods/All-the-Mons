@@ -41,7 +41,7 @@ ServerEvents.generateData("after_mods", event => {
             {
               "items": "allthemons:pokemon_egg",
               "components": {
-                "allthemons:features": ["atm"],
+                "allthemons:features": ["atm=true"],
                 "allthemons:species": "cobblemon:staryu"
               }
             }
@@ -63,7 +63,7 @@ ServerEvents.generateData("after_mods", event => {
         "components": {
           "cobblemon:pokemon_item": {
             "species": "cobblemon:staryu",
-            "aspects": ["atm"]
+            "aspects": ["atm=true"]
           }
         }
       },
