@@ -400,26 +400,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_sword)item(allthemodium:allthemodium_pickaxe)item(allthemodium:allthemodium_axe)item(allthemodium:allthemodium_shovel)item(allthemodium:allthemodium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
-			hide_dependency_lines: true
-			hide_text_until_complete: false
-			id: "1F6C8117F3CED939"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "04CA935E34BFC9C0"
-				item: { count: 1, id: "allthemodium:allthemodium_bow" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -2.0d
+			x: 5.5d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -510,25 +492,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:unobtainium_sword)item(allthemodium:unobtainium_pickaxe)item(allthemodium:unobtainium_axe)item(allthemodium:unobtainium_shovel)item(allthemodium:unobtainium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"3F8D515D7B81B0E3"
-				"4A079D40C0AF6BC3"
-			]
-			hide_dependency_lines: true
-			id: "47F734CDD5793F26"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "26E4BA33D4069317"
-				item: { count: 1, id: "allthemodium:unobtainium_crossbow" }
-				type: "item"
-			}]
-			x: 14.5d
-			y: -2.0d
+			x: 14.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -619,25 +584,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:vibranium_sword)item(allthemodium:vibranium_pickaxe)item(allthemodium:vibranium_axe)item(allthemodium:vibranium_shovel)item(allthemodium:vibranium_hoe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"226B8B60AF864FEF"
-				"144BB025516E0994"
-			]
-			hide_dependency_lines: true
-			id: "151D836C7B0E6FAF"
-			invisible: true
-			optional: true
-			tasks: [{
-				id: "418913E28EACAC43"
-				item: { count: 1, id: "allthemodium:vibranium_shield" }
-				type: "item"
-			}]
-			x: 11.5d
-			y: -2.0d
+			x: 11.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
