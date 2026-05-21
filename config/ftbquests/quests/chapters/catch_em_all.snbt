@@ -679,8 +679,10 @@
 			shape: "heart"
 			size: 1.5d
 			tasks: [{
-				id: "363B6ED2213F1DEB"
-				type: "custom"
+				id: "5F3EC459B169A873"
+				stat: "cobblemon:reel_ins"
+				type: "stat"
+				value: 1
 			}]
 			x: 18.0d
 			y: 0.0d
@@ -835,37 +837,6 @@
 			y: -3.0d
 		}
 		{
-			dependencies: [
-				"131ACE9712128876"
-				"410492282A446A06"
-			]
-			icon: {
-				id: "cobblemon:pokedex_red"
-			}
-			id: "57CE837EC3FD5BA1"
-			rewards: [{
-				id: "68D82C10EDCFD293"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			shape: "pentagon"
-			size: 1.25d
-			tasks: [
-				{
-					id: "425244D2FE1B969C"
-					item: { count: 1, id: "cobblenav:pokenav_item_base" }
-					type: "item"
-				}
-				{
-					id: "7DA1C949AC80BCBF"
-					item: { components: { "ftbfiltersystem:filter": "or(item(cobblenav:pokefinder_item_black)item(cobblenav:pokefinder_item_blue)item(cobblenav:pokefinder_item_green)item(cobblenav:pokefinder_item_pink)item(cobblenav:pokefinder_item_red)item(cobblenav:pokefinder_item_white)item(cobblenav:pokefinder_item_yellow))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-					type: "item"
-				}
-			]
-			x: 12.5d
-			y: 1.0d
-		}
-		{
 			id: "3A7120AD61BC6D74"
 			invisible: true
 			optional: true
@@ -881,6 +852,33 @@
 				}
 			]
 			x: 16.0d
+			y: 1.0d
+		}
+		{
+			id: "5E64DDC28C1AD3FF"
+			rewards: [
+				{
+					id: "05E33E9CAFE4F242"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+				{
+					id: "15107BE05D97616D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "58E76F873772AABB"
+				item: { count: 1, id: "cobblenav:fishingnav_item" }
+				type: "item"
+			}]
+			x: 12.5d
 			y: 1.0d
 		}
 	]

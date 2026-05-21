@@ -12,7 +12,7 @@
 		"{image:atm:textures/questpics/pokemon/find_skeleton.png width:200 height:100 align:center}"
 	]
 	quest.07392142A0166032.title: "Prehistoric Preserved Skeleton"
-	quest.131ACE9712128876.quest_desc: ["&3PokeFinder&r, does as the name suggests! It gives a map of &cPokemon&r near you, and comes with Filters to find specific &cPokemon&r. \\n\\nYou can open up your &3PokeFinder&r to type in Filters. The Species you only want, Aspects, and Labels. \\n\\nWhen the Filters are set, only those who fit the Filters will be shown on the map. \\n\\nMaking them Strict Filters means, when there is multiple Aspects or Labels, it will look only for &cPokemon&r with all listed Aspects or Labels."]
+	quest.131ACE9712128876.quest_desc: ["&3PokeFinder&r, does as the name suggests! It helps you find &cPokemon&r! \\n\\nJust holding the &3PokeFinder&r out will give you a map in the bottom right corner of your screen. It will show (X) on your map for each &cPokemon&r nearby. It also shows your coordinates and a compass! \\n\\nOpening the &3PokeFinder&r will give us Filtering options. The first is &cPokemon&r name. Make sure you spell it right, there's no autocorrect here. \\n\\nThen we get the &cPokemon&r Properties and Labels. Properties seems to be broken for me but with Labels we can add in different ones like gen1 for First Generation &cPokemon&r. \\n\\nAfter those we get the EVs. Different &cPokemon&r have different EV Values, no I can't tell you each specific one. But you can click and combine any amount of them to try and find more specific &cPokemon&r! \\n\\nLast is whether a &cPokemon&r has been caught by you or not."]
 	quest.131ACE9712128876.title: "&3PokeFinders"
 	quest.16B06A4C0B9F8DFB.quest_desc: [
 		"Within Swamps you can find Rooted Pits. \\n\\n&8Mud &fand &2Roots&r with a bit of &7Suspicious Gravel&r."
@@ -87,7 +87,7 @@
 		"{image:atm:textures/questpics/pokemon/find_powder.png width:200 height:100 align:center}"
 	]
 	quest.3FC34BEE629F4037.title: "Prehistoric Powdered Deposit"
-	quest.410492282A446A06.quest_desc: ["The &aPokeNav&r is a tool to help understand what &cPokemon&r will (or can) Spawn near you. \\n\\nIt is set to whatever Biome you are in. \\n\\nOpening up the &aPokeNav&r and you'll get a long list of &cPokemon&r! \\n\\nThe Buttons on top will change what Rarity of each &cPokemon&r Spawn, if it's listed by most common to least or vice versa, and the last refreshes the list! \\n\\nHovering over a &cPokemon&r in the list will show information. Their Species, chance of Spawn, if you've encountered them, how many you've Caught or Knocked Out, and any specific Spawn Requirements. \\n\\nRequirements like Skylight, Weather, or even Time of Day!"]
+	quest.410492282A446A06.quest_desc: ["The &aPokeNav&r is a tool to help understand what &cPokemon&r will (or can) Spawn near you. \\n\\nIt is set to whatever Biome you are in. \\n\\nOpening up the &aPokeNav&r and you'll get a long list of &cPokemon&r! \\n\\nThe Buttons on top will change what Rarity of each &cPokemon&r Spawn, if it's listed by most common to least or vice versa, and the last refreshes the list! \\n\\nHovering over a &cPokemon&r in the list will show information. Their Species, chance of Spawn, and if they spawn in the sky or on the ground. \\n\\nClicking on the &cPokemon&r will show even more information on their Spawns. From Time restrictions, to Blocks they can or can't Spawn on, to even Light Levels. \\n\\nIf a &cPokemon&r is nearby, a Button will appear above and to the right of them in the screen. Click it and it will give you an Arrow in the direction of the closest of that &cPokemon&r. Right Click again to get rid of it."]
 	quest.410492282A446A06.title: "&aPokeNav"
 	quest.421C02BBAF6616FC.quest_desc: ["Congrats on finding a &6Fossil Site&r!... now what? \\n\\nTake (or make) a Brush. Then, look at &eSuspicious Sand &for &7Gravel&r and Hold Right Click. \\n\\nThis will Brush the Suspicious Blocks and will uncover Items. The Items are set from Random Loot Pools, like Dungeon Chests. \\n\\nDifferent Locations give different &6Fossils&r though."]
 	quest.421C02BBAF6616FC.title: "&6&lArcheology"
@@ -96,13 +96,14 @@
 		"{image:atm:textures/questpics/pokemon/find_spruce.png width:200 height:100 align:center}"
 	]
 	quest.55BF1E9BB9F0768D.title: "Prehistoric Spruce Tree"
-	quest.57CE837EC3FD5BA1.quest_desc: ["With both these Tools, no &cPokemon&r will be able to hide from us! \\n\\nClicking on a &cPokemon&r in the &aPokeNav&r will open their Page. If there is one near, it will show all of their Stats! And more importantly, let us Track it. \\n\\nWhen Tracking a &cPokemon&r, a &cPok&reball on your Screen will point in the &cPokemons&r direction and will count how many Blocks away they are. \\n\\nAnd if you struggle with typing &cPokemon&r Names (like 99% of us), you can use the Button to the Left of the Track Button when viewing a &cPokemon&r to add it to your &3PokeFinder&r!"]
-	quest.57CE837EC3FD5BA1.title: "Find em' all!"
 	quest.5B8A381EFA3D836B.quest_desc: [
 		"Above the Icy Biomes some Spikes might be like the Submerged Spike. \\n\\nThese come with &eSuspicious Sand&r!"
 		"{image:atm:textures/questpics/pokemon/find_submerged_spike.png width:200 height:100 align:center}"
 	]
 	quest.5B8A381EFA3D836B.title: "Prehistoric Submerged Spike"
+	quest.5E64DDC28C1AD3FF.quest_desc: ["Some &cPokemon&r need to be &bFished&r, but how can we tell which &cPokemon&r we can &bFish&r up? \\n\\nThe &bFishingNav&r is how! Why is mine not showing any &cPokemon&r? \\n\\nYou'll need to have a &cPoke&rRod in your Inventory to actually see the &cPokemon&r you can Catch nearby. When you have one, it will show them based on the closest Water Biome you are near, like Oceans and Rivers. \\n\\nJust like the &aPokeNav&r it will show their Species, Rarities, and Chances for Spawn!"]
+	quest.5E64DDC28C1AD3FF.quest_subtitle: ""
+	quest.5E64DDC28C1AD3FF.title: "&bFishingNav"
 	quest.5ECE56EAB6773769.quest_desc: ["Fish (and &cPokemon&r Fish) aren't attracted to scary hooks! Only scary hooks that have tasty Bait on them. \\n\\nTo catch &cPokemon&r, we'll need &2Berries&r! \\n\\nDifferent &2Berries&r give different Effects for Fishing. Whether it makes a certain &cPokemon&r Type more common, gives better Stats, or even increases the &cPokemons&r Level. \\n\\nTo use them, Hold the &2Berries&r in your Offhand when Fishing."]
 	quest.5ECE56EAB6773769.title: "Fishing Bait"
 	quest.6F2E30BE5CF82C77.quest_desc: [
@@ -151,5 +152,4 @@
 	task.495FB1055FFDC998.title: "AllRightsReserved"
 	task.570E6A812FFE21EF.title: "Fossils"
 	task.6A9462E51E54383F.title: "Berries"
-	task.7DA1C949AC80BCBF.title: "PokeFinders"
 }

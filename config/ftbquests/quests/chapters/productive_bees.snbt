@@ -4392,29 +4392,6 @@
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
-				id: "minecraft:blaze_rod"
-			}
-			id: "40F8A44DF4D8DBD6"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0573F0E7B1C11FFB"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "23B7842BA790C6E3"
-				item: { components: { "productivebees:bee_type": "productivebees:blazing" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: -10.0d
-			y: 25.5d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
 				id: "minecraft:breeze_rod"
 			}
 			id: "78CCD8075249E2B7"
@@ -4593,29 +4570,6 @@
 			}]
 			x: -9.5d
 			y: 26.5d
-		}
-		{
-			dependencies: ["17419401147B5C02"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
-				id: "integrateddynamics:crystalized_menril_chunk"
-			}
-			id: "516289A040EE9FDC"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "506DD45B7388455A"
-				table_id: 6438168168113377309L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "53B34960A7D288A2"
-				item: { components: { "productivebees:bee_type": "productivebees:menril" }, count: 1, id: "productivebees:configurable_honeycomb" }
-				match_components: "fuzzy"
-				type: "item"
-			}]
-			x: 10.5d
-			y: 24.0d
 		}
 		{
 			dependencies: ["17419401147B5C02"]
