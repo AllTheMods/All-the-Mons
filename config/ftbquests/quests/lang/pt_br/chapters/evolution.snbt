@@ -59,7 +59,7 @@
 	quest.5FC88C5D97FFE44E.title: "Evoluindo por meio de Trocas"
 	quest.6C3E88C02ED3C1F0.quest_desc: ["Seja por níveis, itens, &3trocas&r ou quem sabe o que mais! Para levar seu &cPokémon&r à próxima &bevolução&r, o processo é sempre o mesmo. \\n\\nQuando o &cPokémon&r estiver pronto, use (M) para abrir sua equipe. \\n\\nLá, visualize o &cPokémon&r e o botão &bEvoluir&r estará abaixo da imagem do &cPokémon&r. \\n\\nClique nele e o &cPokémon&r &bevoluirá&r!"]
 	quest.6C3E88C02ED3C1F0.title: "&bEvolua&r seu &cPokémon"
-	quest.6E780D295717056D.quest_desc: ["A &cPedra do Fogo&f &bevoluirá&r &cVulpix&r em &cNinetails&r, &cGrowlithe&r em &cArcanine&r e Eevee em &cFlareon&r."]
+	quest.6E780D295717056D.quest_desc: ["A &cPedra do Fogo&r &bevoluirá&r &cVulpix&r em &cNinetails&r, &cGrowlithe&r em &cArcanine&r e &6Eevee&r em &cFlareon&r."]
 	quest.6E780D295717056D.title: "&cPedra do Fogo"
 	quest.7A4A07325C00A238.quest_desc: ["O &9Slowpoke&r é bem parecido com o &cCharcadet&r; ambos possuem 2 &bevoluções&r diferentes que podem ser obtidas com itens. \\n\\nAo dar ao &9Slowpoke&r uma &6Braçadeira de Galarica&r, você obterá um &9Slowbro&r. \\n\\nUse uma &6Coroa de Galarica&r em vez disso e você obterá um &9Slowking&r!"]
 	quest.7A4A07325C00A238.title: "Itens de &bevolução&r do &9Slowpoke"
