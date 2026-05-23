@@ -12,10 +12,6 @@ let permanentAnnouncements = Utils.newList()
 
 // Add your announcements here
 function initAnnouncements(){
-  addAnnouncement("0.3.0-beta", Text.translate('kubejs.atm.ann.0_3_0_beta'))
-  addAnnouncement("0.11.0-beta", Text.translate('kubejs.atm.ann.0_11_0_beta'))
-  addAnnouncement("0.12.0-beta", Text.translate('kubejs.atm.ann.0_12_0_beta'))
-  addAnnouncement("0.13.0-beta", Text.translate('kubejs.atm.ann.0_13_0_beta'))
   addAnnouncement("0.15.0-beta", Text.translate('kubejs.atm.ann.0_15_0_beta'))
 
   addPermanentAnnouncement(Text.of('').append(Text.translate('kubejs.atm.ann.beta_warning').red()))
