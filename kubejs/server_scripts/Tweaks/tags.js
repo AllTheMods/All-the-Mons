@@ -249,7 +249,7 @@ ServerEvents.tags('enchantment', allthemods => {
 ServerEvents.tags('block_entity_type', allthemods => {
     // Apoth Enchanting
     allthemods.add('packingtape:blacklist/problematic', ["extrastorage:block_16384k_fluid", "extrastorage:block_65536k_fluid", "extrastorage:block_262144k_fluid", "extrastorage:block_1048576k_fluid"]);
-    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm", "cobblemon:display_case"]);
+    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "cobblemon:pc", "cobblemon:healing_machine", "simpletms:machine_tm", "cobblemon:display_case"]);
 });
 
 ServerEvents.tags('item', allthemods => {
@@ -265,7 +265,7 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('block', allthemods => {
-    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "simpletms:machine_tm", "cobblemon:display_case"]);
+    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot", "cobblemon:pc", "cobblemon:healing_machine", "simpletms:machine_tm", "cobblemon:display_case"]);
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
