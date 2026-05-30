@@ -1,0 +1,46 @@
+{
+	quest.19188EA560161CCF.quest_desc: ["&8Tumblestone&r is an important Resource, so obviously we need a way to Farm it. \\n\\nHere we can give &7Steel&r Type Pokemon a Job at Farming it. \\n\\nWhen &8Black Tumblestone&r is placed next to &cLava&r or &cMagma&r it will grow like &5Amethyst&r. &7Steel &cPokemon&r in a &6Pasture&r will Harvest fully mature &8Black Tumblestone&r."]
+	quest.19188EA560161CCF.title: "&8Tumblestone&r Auto-Mining"
+	quest.1F0DC2F7794A0288.quest_desc: ["Do you really miss the &2Passive Mobs&r that much? \\n\\nWell I guess you might need them for certain things. Fine, you may have them back. \\n\\nFor a Price in the Market! \\n\\nWelcome to the real world! Nothing is free AHAHAHAHA!!!"]
+	quest.1F0DC2F7794A0288.title: "&2&lVanilla&r Mobs"
+	quest.211AE5F590087251.quest_desc: ["If you have an empty Cauldron, &cFire&r Types will fill it up with &cLava&r every 90 Seconds."]
+	quest.211AE5F590087251.title: "Free &cLava"
+	quest.27CD92EF07EAE50A.quest_desc: ["&cFire&r is no longer a risk to our Bases if we have &bWater&r Types at the ready! \\n\\nIn a &6Pasture&r, &bWater&r Types will extinguish &cFire&r. \\n\\nNot sure how handy this is... but it is pretty cool!"]
+	quest.27CD92EF07EAE50A.title: "Firefighting?"
+	quest.28F136444E69CA08.quest_desc: ["If you still make &dPotions&r with &dBrewing Stands&r (for some reason) you can use &9Dragon&r Types to add in extra &cBlaze Powder&r! \\n\\nEvery 80 Seconds they'll add the equivalent of 2 &cBlaze Powder&r to a &dBrewing Stand&r."]
+	quest.28F136444E69CA08.title: "&dBrewing Stand&r fill ups"
+	quest.29C5E1F7ECDE3D14.quest_desc: ["There's always other ways of getting Drops... other not so ethic ways. \\n\\nWhen Pokemon are defeated in Battle, either against a Pokemon or a Player (aka Killing them) they will Drop Items. \\n\\nEach Pokemon has different Drops, you can see these and even filter by them in the Pokedex."]
+	quest.29C5E1F7ECDE3D14.title: "Unethical Farming..."
+	quest.2B75BBE79045C25A.quest_desc: ["&2Grass&r Types keep proving their worth, they can also Farm Berries!"]
+	quest.2B75BBE79045C25A.title: "Berry Tending"
+	quest.2F28B8949C088C00.quest_desc: ["Ender hoppers too expensive? Why not use magical &cPokemon&r! \\n\\n&dPsychic &cPokemon&r can grab Items from the ground and place them into Inventories. \\n\\nExcept I'm pretty sure they're using their Hands which makes me confused on why any &cPokemon&r can't just do that then!"]
+	quest.2F28B8949C088C00.title: "Item Pickup"
+	quest.41FC412D91C6A8F0.quest_desc: ["If you have an empty Cauldron, &bWater&r Types will fill it with &bWater&r every 90 Seconds."]
+	quest.41FC412D91C6A8F0.title: "Free &bWater"
+	quest.4519A9C7A77C5398.quest_desc: ["No more Cows... but we do have Cow like &cPokemon&r! \\n\\nJust use a Bucket on a Miltank and you'll get yourself some Milk. \\n\\nI don't know if I would Drink it... but it is the only option here for Milk."]
+	quest.4519A9C7A77C5398.title: "Ew &cPoke&fMilk"
+	quest.47C13756D74186F2.quest_desc: ["Here in &l&cAll&7The&fMons&r we do things a little differently. \\n\\nYou might notice a lack of &2Passive&r Mobs like Sheeps and Chickens and Cows. \\n\\nYeah, they've been replaced by &cPokemon&r! \\n\\nWe also have another Mod called &c&lCobble &fWorkers&r, this gives our &cPokemon&r even more Farming options."]
+	quest.47C13756D74186F2.title: "Cobble Workers and Poke Farming"
+	quest.4D3800272EF65A37.quest_desc: ["&5Amethyst&r can be farmed with extensive Redstone Machines... \\n\\nOr just with &6Rock&r Types in a &6Pasture&r!"]
+	quest.4D3800272EF65A37.title: "&5Amethyst&r Auto-Harvesting"
+	quest.503012CEA79A0328.quest_desc: ["Don't worry there are ethical ways of getting Eggs! \\n\\nSome 'Bird-like' &cPokemon&r will randomly Lay Eggs while in a &6Pasture&r. \\n\\n&cPokemon&r like Pidgey! \\n\\nYou'll either want a &dPsychic&r &cPokemon&r with them to Pickup and Store the Eggs or use a Hopper because they will just toss them around randomly."]
+	quest.503012CEA79A0328.title: "&2&lVanilla&r Eggs"
+	quest.5FAF3153F0D7F9DC.quest_desc: ["One of the only unique Crops in &2&lVanilla Minecraft&r. \\n\\nIf you want it Farmed with &cPokemon&r you'll need a &5Ghost&r Type to do that. \\n\\nMaybe the other &cPokemon&r are too scared to pick it up because you have literal Ghosts doing it."]
+	quest.5FAF3153F0D7F9DC.title: "&4Nether Wart"
+	quest.616E5709D0008953.quest_desc: ["There are some Sheep like &cPokemon&r. \\n\\nWooloo, Dubwool, and &eMareep&r can all be Sheared to get their Wool. \\n\\nLike Sheep they can also Eat &2Grass&r to regrow their Wool. \\n\\nPlus they can be Dyed!"]
+	quest.616E5709D0008953.title: "Shearing &cPokemon"
+	quest.6C1B33D7DC8E9574.quest_desc: ["If you have an empty Cauldron, &bIce&r Types will fill it with Powdered Snow every 90 Seconds."]
+	quest.6C1B33D7DC8E9574.title: "Free Snow"
+	quest.6E0983AFA6D23A06.quest_desc: ["Now we finally know why &cPokemon&r hide in Tall Grass, they're Farming Crops! \\n\\n&2Grass&r Types can automatically Harvest and replant Seeds for Crops. \\n\\nI'm not sure which Crops can or can't be Harvested... looks like you got to find out on your own."]
+	quest.6E0983AFA6D23A06.title: "&cPoke&fFarmers"
+	quest.6F6EFA2631EFC35F.quest_desc: ["&aBug &cPokemon&r can Harvest Mature &6Apricorns&r off Trees. \\n\\nOnly if they can reach them and only normal &6Apricorns&r. &6Allthemodium Apricorns&r can't be Harvested by &cPokemon&r."]
+	quest.6F6EFA2631EFC35F.title: "&6Apricorn&r picking"
+	quest.70A03755ACCD7163.quest_desc: ["Mints are useful (and difficult to find) Items in &c&lCobble&fmon&r. \\n\\nAutofarming them is pretty strange, so why not just use &dFairy&r Types! "]
+	quest.70A03755ACCD7163.title: "Mint Farming"
+	quest.76EA1F7B05A315B4.quest_desc: ["Ever get tired of constantly Fueling up your &cFurnaces&r? \\n\\nThen, take your &cFire Pokemon&r out in the &6Pasture&r and they'll give the equivalent of a &0Block of Coal&r then go on Cooldown for the same time."]
+	quest.76EA1F7B05A315B4.title: "&cFurnace&r Fueling"
+	task.02B912D44C5ABB86.title: "Berries"
+	task.0409B0E69C451C08.title: "Apricorns"
+	task.0CA978DAF9AB1C1A.title: "Mints"
+	task.0FF5DC05DE332A95.title: "Pokedex"
+}
