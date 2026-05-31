@@ -29,7 +29,7 @@ ServerEvents.recipes(allthemods => {
 
     // All AllTheOres materials with plates and rods
     const alltheoresMaterials = [
-        'aluminum', 'brass', 'bronze', 'constantan', 'copper', 'diamond',
+        'aluminum', 'brass', 'bronze', 'constantan', 'copper',
         'electrum', 'enderium', 'gold', 'invar', 'iridium', 'iron',
         'lead', 'lumium', 'netherite', 'nickel', 'osmium', 'platinum',
         'signalum', 'silver', 'steel', 'tin', 'uranium', 'zinc'
@@ -63,6 +63,24 @@ ServerEvents.recipes(allthemods => {
             }).id(`allthemons:mekmm/stamper/${material}_plate`)
         }
     })
+    //Diamond Rods and plate as Diamond's tag is c:gems/diamond not c:ingot/diamond
+    allthemods.custom({
+                type: 'mekmm:lathe',
+                input: { count: 1, tag: `c:gems/diamond` },
+                output: { count: 2, id: `alltheores:diamond_rod` }
+    }).id(`allthemons:mekmm/lathe/diamond_rod`)
+    allthemods.custom({
+                type: 'mekmm:stamper',
+                input: { count: 1, tag: `c:gems/diamond` },
+                mold: { count: 1, item: 'immersiveengineering:mold_rod' },
+                output: { count: 2, id: `alltheores:diamond_rod`}
+        }).id(`allthemons:mekmm/stamper/diamond_rod`)
+    allthemods.custom({
+                type: 'mekmm:stamper',
+                input: { count: 1, tag: `c:gems/diamond` },
+                mold: { count: 1, item: 'immersiveengineering:mold_plate' },
+                output: { count: 1, id: `alltheores:diamond_plate` }
+        }).id(`allthemons:mekmm/stamper/diamond_plate`)
 
     // CNC Stamper wire recipes
     const stamperWires = ['electrum', 'iron', 'copper', 'gold']
