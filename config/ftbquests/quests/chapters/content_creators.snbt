@@ -14,120 +14,114 @@
 		{
 			click: "https://www.youtube.com/@ChosenArchitect"
 			dependency: "7AB52F600829F468"
-			height: 1.0d
+			height: 3.5d
 			hover: ["ChosenArchitect"]
-			image: "atm:textures/contentcreators/contentcreators_chosenarchitect_outlined.png"
+			image: "atm:textures/questpics/series/content_chosen.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -6.5d
-			y: 10.5d
+			width: 3.5d
+			x: -0.2d
+			y: -4.8d
 		}
 		{
 			click: "https://www.youtube.com/@Danrique"
 			dependency: "261E8EE0C7E7E2F0"
-			height: 1.0d
+			height: 3.5d
 			hover: ["Danrique"]
-			image: "atm:textures/contentcreators/contentcreators_danrique_outlined.png"
+			image: "atm:textures/questpics/series/content_danrique.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -9.5d
-			y: 10.5d
+			width: 3.5d
+			x: -10.5d
+			y: -4.8d
 		}
 		{
 			click: "https://www.youtube.com/@direwolf20"
 			dependency: "507635FE52E22D7D"
-			height: 1.0d
+			height: 3.5d
 			hover: ["Direwolf20"]
-			image: "atm:textures/contentcreators/contentcreators_direwolf20_outlined.png"
+			image: "atm:textures/questpics/series/content_dire.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -8.0d
-			y: 10.5d
-		}
-		{
-			dependency: "4E921DD32E1C4ABA"
-			height: 1.0d
-			hover: ["Joeychin01"]
-			image: "atm:textures/contentcreators/contentcreators_joeychin01_outlined.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.5d
-			y: 9.0d
+			width: 3.5d
+			x: -5.4d
+			y: -4.8d
 		}
 		{
 			click: "https://www.youtube.com/@MitinhoPlayer"
 			dependency: "0709CE22181A74BB"
-			height: 1.0d
+			height: 3.5d
 			hover: ["MitinhoPlayer"]
-			image: "atm:textures/contentcreators/contentcreators_mitinhoplayer_outlined.png"
+			image: "atm:textures/questpics/series/content_mitinho.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -8.0d
-			y: 9.0d
+			width: 3.5d
+			x: -0.25d
+			y: -13.5d
 		}
 		{
 			click: "https://www.youtube.com/@Nofaxu"
 			dependency: "13EB9A996928ED60"
-			height: 1.0d
+			height: 3.5d
 			hover: ["Nofaxu"]
-			image: "atm:textures/contentcreators/contentcreators_nofaxu_outlined.png"
+			image: "atm:textures/questpics/series/content_nofaxu.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -5.0d
-			y: 10.5d
+			width: 3.5d
+			x: 4.9d
+			y: -4.8d
 		}
 		{
 			click: "https://www.youtube.com/@Pilpoh"
 			dependency: "273605A191309522"
-			height: 1.0d
+			height: 3.5d
 			hover: ["Pilpoh"]
-			image: "atm:textures/contentcreators/contentcreators_pilpoh_outlined.png"
+			image: "atm:textures/questpics/series/content_pilpoh1.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -6.5d
-			y: 9.0d
+			width: 3.5d
+			x: 10.0d
+			y: -13.5d
 		}
 		{
 			click: "https://www.youtube.com/@virtcreates"
 			dependency: "31749B21AD674C5F"
-			height: 1.0d
+			height: 3.5d
 			hover: ["Virtuositas"]
-			image: "atm:textures/contentcreators/contentcreators_virtuositas_outlined.png"
+			image: "atm:textures/questpics/series/content_virt.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -11.0d
-			y: 10.5d
+			width: 3.5d
+			x: -15.7d
+			y: -4.8d
 		}
 		{
 			click: "https://www.twitch.tv/princessstellar"
 			dependency: "349E8C0C3F9CC99B"
-			height: 1.0d
+			height: 3.5d
 			hover: ["PrincessStellar"]
-			image: "atm:textures/contentcreators/contentcreators_princessstellar_outlined.png"
+			image: "atm:textures/questpics/series/content_princess.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -11.0d
-			y: 9.0d
+			width: 3.5d
+			x: -10.5d
+			y: -13.5d
 		}
 		{
 			click: "https://www.youtube.com/@BucketSt"
 			dependency: "508F619C2764FB5B"
-			height: 1.0d
+			height: 3.5d
 			hover: ["BucketSt"]
-			image: "atm:textures/contentcreators/contentcreators_bucketst_outlined.png"
+			image: "atm:textures/questpics/series/content_bucket.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -5.0d
-			y: 9.0d
+			width: 3.5d
+			x: 4.9d
+			y: -13.5d
+		}
+		{
+			height: 24.0d
+			image: "atm:textures/questpics/series/content_background.png"
+			order: -1
+			rotation: 0.0d
+			width: 43.0d
+			x: -4.5d
+			y: -11.0d
 		}
 	]
 	order_index: 4
-	quest_links: [{
-		id: "036B96847AA79D28"
-		linked_quest: "269D24B28FA92DF8"
-		x: -8.0d
-		y: -2.0d
-	}]
+	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["349E8C0C3F9CC99B"]
@@ -144,26 +138,26 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "2A355AF88F4975C5"
+					id: "4C7FB7548BBC9FA4"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "749A9F7BAA63AC0B"
+					id: "7768DEA912287BA3"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_contentcreators_joeychin01"
 				criterion: ""
 				id: "717A8B04D44CC651"
 				type: "advancement"
 			}]
-			x: -11.0d
-			y: 1.0d
+			x: -5.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["4E921DD32E1C4ABA"]
@@ -179,26 +173,26 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "3FF57A1799A7B986"
+					id: "2557FF401C53CC9B"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "1E2BE270CE04FB93"
+					id: "5CC38B536D13587C"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_contentcreators_mitinhoplayer"
 				criterion: ""
 				id: "0BC1951CD461BC0B"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 1.0d
+			x: -0.3d
+			y: -16.5d
 		}
 		{
 			dependencies: ["508F619C2764FB5B"]
@@ -214,26 +208,26 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "6E7709EA6587311E"
+					id: "33739432D39129BB"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "4554F069D561D007"
+					id: "16AABE675D01ACBF"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_contentcreators_pilpoh"
 				criterion: ""
 				id: "472A4F6925D02972"
 				type: "advancement"
 			}]
-			x: -2.0d
-			y: 1.0d
+			x: 10.0d
+			y: -16.5d
 		}
 		{
 			dependencies: ["273605A191309522"]
@@ -249,26 +243,26 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "12A7A9A128B28BB0"
+					id: "203AA8B16E999397"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "75418555C52A0D60"
+					id: "255280D729A0BA2F"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_contentcreators_virtuositas"
 				criterion: ""
 				id: "538F2ECA1A066DBC"
 				type: "advancement"
 			}]
-			x: -14.0d
-			y: 4.0d
+			x: -15.7d
+			y: -7.6d
 		}
 		{
 			dependencies: ["31749B21AD674C5F"]
@@ -284,18 +278,18 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "7460A61A802A2C35"
+					id: "654AD85EEEBF265F"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "429CB37B4AAA4070"
+					id: "125A3636C51BB0DB"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [
 				{
 					id: "03493876EF6CB850"
@@ -309,8 +303,8 @@
 					type: "advancement"
 				}
 			]
-			x: -11.0d
-			y: 4.0d
+			x: -10.5d
+			y: -7.6d
 		}
 		{
 			dependencies: ["261E8EE0C7E7E2F0"]
@@ -326,18 +320,18 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "5788B1D499130A99"
+					id: "759100875159DC0B"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "2C8BECB89688BA92"
+					id: "7C925A6A8C0FDEF3"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [
 				{
 					id: "751B523AF8C3790F"
@@ -351,8 +345,8 @@
 					type: "advancement"
 				}
 			]
-			x: -8.0d
-			y: 4.0d
+			x: -5.4d
+			y: -7.6d
 		}
 		{
 			dependencies: ["507635FE52E22D7D"]
@@ -368,18 +362,18 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "186FD93B331E1CCC"
+					id: "490BA52AF9A5E7DE"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "09A11EDAB3B3036E"
+					id: "79A47EB23B4CD15A"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [
 				{
 					id: "1C3A975231D95F6F"
@@ -393,8 +387,8 @@
 					type: "advancement"
 				}
 			]
-			x: -5.0d
-			y: 4.0d
+			x: -0.2d
+			y: -7.6d
 		}
 		{
 			dependencies: ["7AB52F600829F468"]
@@ -409,18 +403,18 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "5CF66EACEDFC3AE4"
+					id: "5F0B894F4362B6AC"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "767A9A4518B01E77"
+					id: "54EE1D3B87288A33"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [
 				{
 					id: "4FFF3A1A51D303FC"
@@ -434,11 +428,14 @@
 					type: "advancement"
 				}
 			]
-			x: -2.0d
-			y: 4.0d
+			x: 4.9d
+			y: -7.6d
 		}
 		{
-			dependencies: ["269D24B28FA92DF8"]
+			dependencies: [
+				"269D24B28FA92DF8"
+				"64EBFB904388B206"
+			]
 			hide_dependency_lines: true
 			hide_dependent_lines: true
 			icon: {
@@ -452,26 +449,26 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "3EA6C349CFA00FB4"
+					id: "091E5A5690E398A0"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "44FDE960876B2A81"
+					id: "7E981A1CE13C2D67"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_contentcreators_princessstellar"
 				criterion: ""
 				id: "6DAE45F9B7E0242C"
 				type: "advancement"
 			}]
-			x: -14.0d
-			y: 1.0d
+			x: -10.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["0709CE22181A74BB"]
@@ -487,18 +484,18 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "6481774446775C39"
+					id: "76CD5890862E94BF"
 					table_id: 4875026022556716679L
 					type: "random"
 				}
 				{
-					id: "5E6D05A458A1FA87"
+					id: "115FCA34A20AFAAB"
 					type: "xp_levels"
 					xp_levels: 5
 				}
 			]
 			shape: "none"
-			size: 2.0d
+			size: 3.0d
 			tasks: [
 				{
 					id: "070D8EEBD78D4F8C"
@@ -512,8 +509,8 @@
 					type: "advancement"
 				}
 			]
-			x: -5.0d
-			y: 1.0d
+			x: 4.9d
+			y: -16.5d
 		}
 		{
 			id: "5AF01BC5631ED1BD"
@@ -530,8 +527,25 @@
 					type: "checkmark"
 				}
 			]
-			x: -8.0d
-			y: -3.0d
+			x: -15.7d
+			y: -13.0d
+		}
+		{
+			id: "64EBFB904388B206"
+			rewards: [{
+				id: "6993D124B9CE78B3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 4.0d
+			tasks: [{
+				id: "4199603151639979"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -15.7d
+			y: -15.5d
 		}
 	]
 }
