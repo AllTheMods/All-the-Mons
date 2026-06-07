@@ -60,7 +60,7 @@
 	chapter.51A2FE60D8B76FC6.title: "Extended \\& Advanced AE"
 	chapter.5712300EF4E5E846.title: "Pylons"
 	chapter.59395B6806F2A98A.title: "Cataclysm"
-	chapter.5B00676D79306EA2.title: "Welcome"
+	chapter.5B00676D79306EA2.title: "Bienvenue"
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5D045EF1AB73DF70.title: "Basic Power"
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
@@ -4796,7 +4796,8 @@
 	quest.3705D303CF423804.quest_subtitle: "Hands"
 	quest.3705D303CF423804.title: "&ePower Glove&r"
 	quest.3707C3EDA1C5A0B2.quest_subtitle: "Firecracker + Flickering Sun"
-	quest.3708A4780ACEB34E.quest_desc: ["In this modpack, quests are optional. Mods are not gated behind completing any quests!\\n\\nA lot of the individual questlines outside of the Main questline are meant to serve as mod guides. If you want to follow the progression, make sure to check out the Main Questline!"]
+	quest.3708A4780ACEB34E.quest_desc: ["Dans ce Modpack, les quêtes sont optionnelles. Les mods ne sont pas bloqués derrière la validation d'une quête!\\n\\nLa plupart des suites de quêtes à l'exception de la suite Principale ont pour objectif de servir de guide pour le mod qu'elles traitent. Si vous souhaitez poursuivre une progression générale dans le modpack, nous vous recommandons de jeter un oeil aux Quêtes Principales!"]
+	quest.3708A4780ACEB34E.title: "Quêtes"
 	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft is all about Pressure! These quests won't go over everything the mod has, but will still go over a lot! Please remember to check JEI, read the tooltips and read the PCB:R, they are all very useful.\\n\\nTo get started, you'll need to craft some &3Compressed Iron Ingots&r! The easiest way to do this is to make a hole in the ground, throw in some iron ingots (or blocks) and then blow it up with some TNT!\\n\\nSome might get lost in the explosion, but that's a risk we'll have to take!"]
 	quest.371A34B297C8A8EF.quest_subtitle: "The Power of Air"
 	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurized"
@@ -5210,8 +5211,8 @@
 	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
 	quest.3BB3AA6C29285837.quest_desc: ["Buffs:\\n\\n - Absorption II (3:00)\\n - Speed II (3:00)"]
 	quest.3BB3AA6C29285837.title: "&2Prudentium Apple"
-	quest.3BC0A50886A3222B.quest_desc: ["&dAll the Mons&r is a kitchensink pack that includes &3Cobblemon&r.\\n\\nThe pack uses All the Mods - 10 as a base, but changes some stuff around in order to work with &3Cobblemon&r.\\n\\nIf you have any questions or issues, feel free to join the ATM Discord!"]
-	quest.3BC0A50886A3222B.title: "&dWelcome to All the Mons!"
+	quest.3BC0A50886A3222B.quest_desc: ["&dAll the Mons&r est un pack dit \\\"kitchensink\\\" qui inclut &3Cobblemon&r.\\\\n\\\\nLe pack a pour base All the Mods - 10, avec quelques modifications pour fonctionner avec &3Cobblemon&r.\\\\n\\\\nSi vous avez des questions ou n'importe quel problème, n'hésitez pas à rejoindre le Discord ATM!"]
+	quest.3BC0A50886A3222B.title: "&dBienvenue dans All the Mons!"
 	quest.3BC94B0B922C0708.quest_desc: ["These are crafting ingredients for stuff that does importing, whether it be items, fluids, or energy."]
 	quest.3BD304D851F49EC0.quest_subtitle: "Elderberry + Silver Fir"
 	quest.3BD73FEAE853D350.quest_desc: [" Legends speak of hunters who trusted not only their &cown hands&r but the &2fangs of their companions&r. Their &cleather belts&r, adorned with &2bone charms&r, carry the memory of countless battles fought together. \\n\\n- &lIt has 1 ability: \\n\\n &5Pack&r: \\n Increases the damage dealt by the relic wearer’s &cpets&r. \\n\\n- A &6relic&r for hunters who trust their pack… and make every companion &cstrike count&r."]
