@@ -1,0 +1,74 @@
+{
+	quest.02F23D223E792587.quest_desc: ["You should know how this goes by now! \\n\\nBeat! \\n\\nThat! \\n\\n&4Trainer&r!"]
+	quest.02F23D223E792587.title: "Beat that &4Trainer&r!"
+	quest.03E605A91496B257.quest_desc: ["&7Peat&r is actually a really cheap Item to Craft! \\n\\nNow just wait for a Full Moon and give it to an Ursaring to &bEvolve&r it into a &6Ursa&rluna. \\n\\nI'm pretty sure that just means bear moon!"]
+	quest.03E605A91496B257.title: "&bEvolving&r Ursaring"
+	quest.03E8FB54B87524E1.quest_desc: ["&9Moon Stone&r will &bEvolve&r &dClefairy&r into &dClefable&r and Jiggly&dpuff&r into Wiggly&dtuff&r."]
+	quest.03E8FB54B87524E1.title: "&9Moon Stone"
+	quest.04D0FAEF00F88A15.quest_desc: ["Remember &bEvolving&r through &3Trading&r? You should it was the Quest right before this one! \\n\\nThis works the exact same but some &cPokemon&r will need to Hold an Item while being &3Traded&r in order to &bEvolve&r. \\n\\nYes, my fellow Singleplayers, we can use the &3Linking Cable&r to simulate &3Trading&r. \\n\\nI'm not listing every single &bEvolution&r you can get from these..."]
+	quest.04D0FAEF00F88A15.title: "&3Trading&r with an Item in Hand"
+	quest.093D21D44BE4D923.quest_desc: ["Savannahs, Badlands, and Lush Caves are where you should look for &cSun Stones&r. \\n\\nIf that isn't enough you might find them in Deserts too."]
+	quest.093D21D44BE4D923.title: "Finding &cSun Stones"
+	quest.0AABCD95FABC6025.quest_desc: ["&5Dusk Stones&r can be found in Taigas and rarely in Swamps."]
+	quest.0AABCD95FABC6025.title: "Finding &5Dusk Stones"
+	quest.0ADFE26AD63EC714.quest_desc: ["To find a specific &4Trainer&r you could use the Right Arrow to see every Biome they Spawn in. \\n\\nIf you don't happen to have a million years free to wander in &2&lMinecraft&r then I recommend Crafting a &4Trainer Spawner&r! \\n\\nWhere you can see the Biomes to find &4&oSeries&r &4Trainers&r, you can also find a Signature Item. This Item will need to be placed within the &4Trainer Spawner&r. \\n\\nOnce set, give the &4Spawner&r a &4Redstone Signal&r and it will make that &4&oSeries&r &4Trainer&r magically appear in front of you, ready to Battle! \\n\\nI hope he wasn't doing anything important before you summoned him..."]
+	quest.0CB92F8E8C685159.quest_desc: ["&cSun Stone&r will &bEvolve&r &2Glo&5om&r into &2Bellossom&r, &2Sunkern&r into &2Sunflora&r, &2Cotto&dnee&r into &2Whimsi&dcott&r, and &2Petilil&r into &2Lilligant&r."]
+	quest.0CB92F8E8C685159.title: "&cSun Stone"
+	quest.0D501F8E9C5EC0B4.quest_desc: ["&9Water Stones&r are found beneath Oceans and Rivers and Swamps. \\n\\nIf that isn't enough for you, try Jungles!"]
+	quest.0D501F8E9C5EC0B4.title: "Finding &9Water Stones"
+	quest.16DFD50997856CFA.quest_desc: ["&5Dusk Stone&r will &bEvolve&r &9Murkrow&r into &9Honchkrow&r, &5Misdreavus &finto &5Mismagius&r, &5Lamp&cent&r into &5Chande&clure&r, and &7Doub&5lade&r into &7Aegis&5lash&r."]
+	quest.16DFD50997856CFA.title: "&5Dusk Stone"
+	quest.1B06907584B3405B.quest_desc: ["&bDawn Stones&r are found in Peaks Biomes: Stony, Snowy, any Peaks! Basically any Biome that has Blocks near Height Limit. \\n\\nThey are rarely found in Flower Fields, Icy Biomes, or Hills Biomes."]
+	quest.1B06907584B3405B.title: "Finding &bDawn Stones"
+	quest.1E0E07B8CCC48531.quest_desc: ["&aThunder Stones&r spawn in Hill Biomes. \\n\\nSometimes in Jungles as well."]
+	quest.1E0E07B8CCC48531.title: "Finding &aThunder Stone"
+	quest.2182F3E8D8696D6C.quest_desc: ["&cFire Stones&r spawn in Deserts as well as some Biomes in &c&lThe Nether&r. \\n\\nVery rarely in Beaches too!"]
+	quest.2182F3E8D8696D6C.title: "Finding &cFire Stones"
+	quest.252E8C0AA0C61575.quest_desc: ["&cCharcadet&r has 2 different &bEvolution&r paths he can go through. \\n\\nFirst is &cArma&drogue&r which is made by giving him &eAuspicious Armor&r. \\n\\nYou can find &eAuspicious Armor&r in Bastion Remnant Chests! \\n\\nSecond is &cCeru&5ledge&r which uses &5Malicious Armor&r. \\n\\n&5Malicious Armor&r spawns in Nether Fortress Chests!"]
+	quest.252E8C0AA0C61575.title: "&cCharcadet &bEvolution&r Items"
+	quest.269D24B28FA92DF8.quest_desc: ["&4Trainer Associates&r are Villagers. They will Spawn around you if you Hold a &4Trainer Card&r in your Hand and don't have a &4&oSeries&r. They also just Spawn in Villages, like normal Villagers. \\n\\nYou can give them Items to receive a &4Trainer Card&r or give them a &4Trainer Card&r and they'll give you a &4&oSeries&r! \\n\\nRight Click the &4Trainer Card&r to view its Information. Here you can find Infomation of every &4Trainer&r you have fought, or Information on the &4Trainer&r in your &4&oSeries&r. \\n\\nWhen viewing a &4Trainer&r you can see their Name and Level Cap. Click the Right Arrow to view their Biomes they Spawn in! \\n\\nWith &4&oSeries &r&4Trainers&r their Names will start out like &krandom&r until you view them. Then, it'll show the Name and Level Cap they have. \\n\\nIf you beat the &4Trainer&r with a higher Level Cap in a &4&oSeries&r, your Level Cap will increase!"]
+	quest.269D24B28FA92DF8.title: "&4&oSeries"
+	quest.311E949E3299C95C.quest_desc: ["&bIce Stone&r will &bEvolve&r &6Sandshrew&r into &6Sandslash&r and &cVulpix&r into &cNinetails&r."]
+	quest.311E949E3299C95C.title: "&bIce Stone"
+	quest.3602CA4E5D3687DF.quest_desc: ["&aShiny Stones&r spawn in Flower Biomes and some Peak Biomes."]
+	quest.3602CA4E5D3687DF.title: "Finding &aShiny Stones"
+	quest.36B8B3C61E0CFAD1.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.37E3E12CFC8DCA4F.quest_desc: ["&2Leaf Stone&r will &bEvolve&r &2Glo&5om&r into &2Vile&5plum&r, &2Weepin&5bell&r into &2Victree&5bell&r, &2Exegg&dcute&r into &2Exegg&dutor&r, and &2Nuz&9leaf&r into &2Shif&9try&r."]
+	quest.37E3E12CFC8DCA4F.title: "&2Leaf Stone"
+	quest.39E4FD684972B543.quest_desc: ["There's quite a few things you've got to complete in order to &bEvolve&r a &cPokemon&r... so it is pretty hard to accidentally &bEvolve&r one... \\n\\nBut I guess if you want to &bDevolve&r your &cPokemon&r, just give them this Item! \\n\\nNo, it doesn't work on first &bEvolution &cPokemon&r to find negative &bEvolutions&r."]
+	quest.3ACC787A0ED75A11.quest_desc: ["&aShiny Stone&r will &bEvolve&r &2Rose&5lia&r into &2Rose&5rade&r and &dFloette&r into &dFlorges&r."]
+	quest.3ACC787A0ED75A11.title: "&aShiny Stone"
+	quest.3B04DBF92FDF859F.quest_desc: ["Great job! You got your (&bTier 1 Evolution&r) &cPokemon&r to Level 15! \\n\\nWhy can't we &bEvolve&r them yet? \\n\\nThanks to &4&lRadical Trainers&r, we will need to Beat a certain &4Trainer&r in Battle in order to unlock our Level Cap. \\n\\nGet a &4Trainer Card&r and find a &4Trainer Associate&r (I found them most at Villages!)"]
+	quest.3B04DBF92FDF859F.title: "Level Caps"
+	quest.3F67085593A2DF93.quest_desc: ["&9Moon Stones&r are found in Taigas and Dripstone Caves."]
+	quest.3F67085593A2DF93.title: "Finding &9Moon Stones"
+	quest.402F1F09F5AB59FD.quest_desc: ["&dAlcremie&r is a &cPokemon&r based on ice cream! \\n\\nSo when you &bEvolve &dMilcery&r into &dAlcremie&r with these Sweets, they will use them as toppings! Very cute."]
+	quest.402F1F09F5AB59FD.title: "&dMilcery &bEvolution&r Item"
+	quest.46342661700839E0.quest_desc: ["&bDawn Stone &fwill &bEvolve&r &dKirlia &finto &dGall&4ade&r and &bSnorunt&f into &bFros&5lass&r."]
+	quest.46342661700839E0.title: "&bDawn Stone"
+	quest.4DC435B42889FE12.quest_desc: ["Any Biome with Ice or Snow is where you'll find these!"]
+	quest.4DC435B42889FE12.title: "Finding &bIce Stones"
+	quest.4F460A7A6F0C704B.quest_desc: ["&2Leaf Stones&r spawn in Forests, Jungles, and Lush Caves. \\n\\nSo pretty much anywhere!"]
+	quest.4F460A7A6F0C704B.title: "Finding &2Leaf Stones"
+	quest.5387480428BC6E0A.quest_desc: ["&9Water Stone&r will &bEvolve&r &9Poliwhirl&r into &9Poli&4wrath&r, &9Shellder&r into &9Cloy&bster&r, &9Staryu&r into &9Star&dmie&r, &9Lom&2bre&r into &9Ludi&2colo&r, and finally Eevee into &9Vaporeon&r!"]
+	quest.5387480428BC6E0A.title: "&9Water Stone"
+	quest.53B3B9A401360586.quest_desc: ["&aThunder Stone&r will &bEvolve&r &ePikachu&r into &eRaichu&r and Eevee into &eJolteon&r."]
+	quest.53B3B9A401360586.title: "&aThunder Stone"
+	quest.53E70A8232A8F06E.quest_desc: ["Wandering Traders and &4Trainers&r?!?!?! How many visitors do we need! \\n\\nWell we can get rid of the &4Trainers&r with a &4Trainer Repel Rod&r. \\n\\nJust place it down and they won't Spawn near it!"]
+	quest.5FC88C5D97FFE44E.quest_desc: ["If you're playing with friends, you can use R on them to start Battles and &3Trade &cPokemon&r! \\n\\nYou might need to change that Keybind if it conflicts. \\n\\nSome &cPokemon&r will &bEvolve&r after they've been &3Traded&r to someone else. \\n\\nDon't have friends? I mean, don't play on Servers? Then, don't fret, we have the &3Link Cable&r! \\n\\nUse this Item on a &cPokemon&r to \"&3Trade&r\" them, which will make them &bEvolve&r!"]
+	quest.5FC88C5D97FFE44E.title: "&bEvolving &fthrough &3Trading"
+	quest.6C3E88C02ED3C1F0.quest_desc: ["Whether through Levels, Items, &3Trading&r, or who knows what! In order to get your &cPokemon&r at the next &bEvolution&r, it works all the same. \\n\\nOnce the &cPokemon&r is ready, use (M) to open your Team. \\n\\nHere, view the &cPokemon&r and the &bEvolve&r Button will be below the &cPokemons&r Picture. \\n\\nClick it, and the &cPokemon&r will &bEvolve&r!"]
+	quest.6C3E88C02ED3C1F0.title: "&bEvolve&r your &cPokemon"
+	quest.6E780D295717056D.quest_desc: ["&cFire Stone &fwill &bEvolve&r &cVulpix&r into &cNinetails&r, &cGrowlithe&r into &cArcanine&r, and Eevee into &cFlareon&r."]
+	quest.6E780D295717056D.title: "&cFire Stone"
+	quest.7A4A07325C00A238.quest_desc: ["&9Slow&dpoke&r is very similar to &cCharcadet&r, both have 2 different &bEvolutions&r they can get with Items. \\n\\nBy giving &9Slow&dpoke&r a &6Glarica Cuff&r you will get a &9Slow&dbro&r. \\n\\nUse a &6Glarica Wreath&r instead and you'll get a &9Slow&dking&r!"]
+	quest.7A4A07325C00A238.title: "&9Slow&dpoke &bEvolution&r Items"
+	task.09E7D93E692CB782.title: "Level up to 15"
+	task.2FF61E9EBBEDE7EF.title: "Trade Items"
+	task.385FFCF622B7C550.title: "AllRightsReserved"
+	task.47E6E6B51447C8DC.title: "Slowpoke Evolution Items"
+	task.48230014D8628136.title: "Milcrey Evolution&r Items"
+	task.6097F6DEBA79FDF0.title: "Charcadet Evolution Items"
+	task.6D8B0FFD3F4C0BCB.title: "Evolve a Pokémon"
+	task.7FC2F6F453502ACF.title: "AllRightsReserved"
+}
