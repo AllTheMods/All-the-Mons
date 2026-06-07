@@ -1,2 +1,0 @@
-guiScale:2
-darkMojangStudiosBackground:true

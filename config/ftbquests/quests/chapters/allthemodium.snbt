@@ -415,7 +415,7 @@
 			optional: true
 			tasks: [{
 				id: "04CA935E34BFC9C0"
-				item: { count: 1, id: "allthemodium:allthemodium_bow" }
+				item: { components: { "ftbquests:missing_item": "allthemodium:allthemodium_bow" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -524,7 +524,7 @@
 			optional: true
 			tasks: [{
 				id: "26E4BA33D4069317"
-				item: { count: 1, id: "allthemodium:unobtainium_crossbow" }
+				item: { components: { "ftbquests:missing_item": "allthemodium:unobtainium_crossbow" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 14.5d
@@ -633,7 +633,7 @@
 			optional: true
 			tasks: [{
 				id: "418913E28EACAC43"
-				item: { count: 1, id: "allthemodium:vibranium_shield" }
+				item: { components: { "ftbquests:missing_item": "allthemodium:vibranium_shield" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 11.5d

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "kubejs:block/blaze_block",
-    "bottom": "kubejs:block/blaze_block_top",
-    "top": "kubejs:block/blaze_block_top"
-  }
-}

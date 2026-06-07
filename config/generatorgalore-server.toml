@@ -1,3 +1,0 @@
-[General]
-	#Make 8x and 64x increase the consumption rate and not just the production rate. This will be default on in 1.22
-	increasedConsumption = true
