@@ -1,15 +1,15 @@
 {
-	quest.0C93D7A607AB8B83.quest_desc: ["To claim chunks, open up your map using &6M&r, then click the &aClaimed Chunks&r icon in the top left.\\n\\nTo claim a chunk, left click and drag to claim.\\n\\nTo force load a chunk, shift-left click the chunk. If done properly, you'll see lines across the chunk."]
-	quest.3708A4780ACEB34E.quest_desc: ["In this modpack, quests are optional. Mods are not gated behind completing any quests!\\n\\nA lot of the individual questlines outside of the Main questline are meant to serve as mod guides. If you want to follow the progression, make sure to check out the Main Questline!"]
-	quest.3BC0A50886A3222B.quest_desc: ["&dAll the Mons&r is a kitchensink pack that includes &3Cobblemon&r.\\n\\nThe pack uses All the Mods - 10 as a base, but changes some stuff around in order to work with &3Cobblemon&r.\\n\\nIf you have any questions or issues, feel free to join the ATM Discord!"]
-	quest.3BC0A50886A3222B.title: "&dWelcome to All the Mons!"
-	quest.49EDAA2F57D3BF1D.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.5AC1BE754210429E.quest_desc: ["If you want to create a team for you and your friends, use the command &a/ftbteams party create (name of team)&r to create the team!"]
-	quest.7658C1C663394E85.quest_desc: ["There are plenty of helpful commands within ATM. Here are a few:\\n\\n&e/sethome&r (name of home) | Let's you set a home that you can teleport back to using /home (name). Example: /sethome farm - then teleport with /home farm.\\n\\n&e/spawn&r | This will teleport you to the spawn of your overworld.\\n\\n&e/rtp&r | 'Random Teleport' will teleport you to a random location in the world.\\n\\nNote: These commands have cooldowns and limits. If you'd like to change them, you can edit the config file which can be found here:\\n\\n - For Singleplayer | &osaves/(name of save)/serverconfig/ftbessentials.snbt&r\\n\\n - For Servers | &oworld/serverconfig/ftbessentials.snbt&r"]
-	task.103C42C743E2A2DB.title: "Claiming Chunks"
-	task.10A16F89D4AD238D.title: "Useful Commands"
-	task.201F519941A2C7F4.title: "AllRightsReserved"
-	task.2C816285392535F0.title: "AllRightsReserved"
-	task.4F13A02FB0055A62.title: "Creating a Team"
-	task.52BB142F044075B4.title: "Quests"
+	quest.0C93D7A607AB8B83.quest_desc: ["Pour Claim des Chunks, ouvrez votre carte en appuyant sur &6","&r, puis cliquez sur l'icône des &aChunks Claims&r en haut à gauche.\\n\\nPour Claim un chunk, clic gauche et faire glisser sur les chunks désirés.\\n\\nPour forcer le chargement d'un chunk, faites Maj + Clic Gauche sur le chunk désiré. Si effectué correctement, des lignes apparaîtront sur le chunk sélectionné."]
+	quest.3708A4780ACEB34E.quest_desc: ["Dans ce Modpack, les quêtes sont optionnelles. Les mods ne sont pas verrouillés derrière une quelconque quête!\\n\\nLa plupart des suites de quêtes en dehors de  la Suite de Quêtes Principale sont là pour servir de guide aux mods. Si vous souhaitez suivre une ligne de progression, nous vous recommandons de suivre la Suite de Quêtes Principale!"]
+	quest.3BC0A50886A3222B.quest_desc: ["&dAll the Mons&r est un pack dit "kitchensink" qui inclut &3Cobblemon&r.\\n\\nLe pack a pour base All the Mods - 10, agrémenté de quelques changements pour le rendre compatible avec &3Cobblemon&r.\\n\\nSi vous avez la moindre question ou problème, n'hésitez pas à rejoindre le Discord ATM!"]
+	quest.3BC0A50886A3222B.title: "&dBienvenue dans All the Mons!"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["Cette quête a été écrite par le &6Staff AllTheMods&r, ou un &2Contributeur de la Communauté&r pour être utilisé dans les Modpacks AllTheMods. \\n\\nComme tous les packs &6AllTheMods&r sont sous license &eTous Droits Réservés&r, cette quête ne peut être utilisé dans aucun pack non publié par l'&6Equipe AllTheMods&r sans sa permission explicite. \\n\\nCette quête est intentionellement cachée, si vous voyez ceci, vous êtes en mode Edition."]
+	quest.5AC1BE754210429E.quest_desc: ["Si vous souhaitez créer une Equipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!"]
+	quest.7658C1C663394E85.quest_desc: ["Il y a une multitude de commandes utiles dans ATM. En voici quelques unes:\\n\\n&e/sethome&r (nom du lieu) | Vous permet de définir un lieu auquel vous pourrez vous téléporter en entrant /home (nom du lieu). Exemple: /sethome ferme - vous téléportera en entrant /home ferme.\\n\\n&e/spawn&r | Cette commande vous téléportera au spawn de l'Overworld.\\n\\n&e/rtp&r | 'Téléportation au Hasard' vous téléportera à un endroit au hasard dans le monde.\\n\\nNote: Ces commandes ont des temps de rechargement et des limites. Dans le cas où vous souhaitez les modifier, vous pouvez éditer le fichier config que vous pourrez trouver:\\n\\n - En Jeu Solo | &osaves/(nom du monde)/serverconfig/ftbessentials.snbt&r\\n\\n - En Serveur | &oworld/serverconfig/ftbessentials.snbt&r"]
+	task.103C42C743E2A2DB.title: "Claim de Chunks"
+	task.10A16F89D4AD238D.title: "Commandes Utiles"
+	task.201F519941A2C7F4.title: "TousDroitsRéservés"
+	task.2C816285392535F0.title: "TousDroitsRéservés"
+	task.4F13A02FB0055A62.title: "Création d'Equipe"
+	task.52BB142F044075B4.title: "Quêtes"
 }
