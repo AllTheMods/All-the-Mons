@@ -1,0 +1,194 @@
+{
+	quest.00C0536DE2878A36.quest_desc: [
+		"Level Increase to 53."
+		""
+		"Signature Item is Black Augurite."
+	]
+	quest.00C0536DE2878A36.title: "&7Boss Zeph"
+	quest.01ABEC296643443F.quest_desc: [
+		"No Level Increase..."
+		""
+		"Signature Item is Electric Gem."
+	]
+	quest.01ABEC296643443F.title: "&aLeader Galavan"
+	quest.01B54F372558DCE5.quest_desc: [
+		"Level Increase to 65."
+		""
+		"Signature Item is Water Gem. I think I'm seeing a pattern here too."
+	]
+	quest.01B54F372558DCE5.title: "&aLeader Tessy"
+	quest.023BF4B6D80621EA.quest_desc: [
+		"Level Increase to 34."
+		""
+		"Signature Item is Dark Gem."
+	]
+	quest.023BF4B6D80621EA.title: "&aLeader Vega"
+	quest.072329284468B14C.quest_desc: ["Last guy to beat from the Borrius Region, &6Trainer Blue&r. \\\\n\\\\nIf you played &4&oRadical Red&r you might remember &6Trainer Red&r, he is very similar. \\\\n\\\\nHe is an Optional Fighter so he doesn't have a Signature Item, instead you need to find him in certain Biomes, also with End Cities. \\\\n\\\\nIf you can beat him you'll get a ton of Rewards, plus you'll become the Borrius Legend!"]
+	quest.072329284468B14C.title: "&6Trainer Blue"
+	quest.0C72FEE8AF6A3DDC.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Spell Tag."
+	]
+	quest.0C72FEE8AF6A3DDC.title: "&3Elite Four Elias"
+	quest.0EF1ABF3185E4C47.quest_desc: [
+		"Level Increase to 28."
+		""
+		"Signature Item is Medicinal Leek."
+	]
+	quest.0EF1ABF3185E4C47.title: "&aLeader Mirskle"
+	quest.1A3CF2D85E20CA99.quest_desc: [
+		"Seriously &6Wayne&r I don't care to Fight you if you keep forgetting to increase my Level!"
+		""
+		"Signature Item is Link Cable."
+	]
+	quest.1A3CF2D85E20CA99.title: "&6Rival Wayne"
+	quest.1AAAD0BB67A94487.quest_desc: [
+		"Still no Level Increase for us."
+		""
+		"Signature Item is Kings Rock."
+	]
+	quest.1AAAD0BB67A94487.title: "&7Ruin Leader Aklove"
+	quest.1CE0095340328C08.quest_desc: ["Still not satisified? You need to beat even more Trainers? \\n\\nThe Battleground includes even more Optional Trainers to fight! Also ones Spawning where End Cities Spawn. \\n\\nThese being &5Battleground Alice&f, &5Battleground Benjamin&f, &5Battleground Big Mo&f, &5Battleground Mel&f, &5Battleground Mirskle&f, &5Battleground Tessy&f, and &5Battleground Vega&r. \\nBeat all of them and you'll win the Battleground!"]
+	quest.1CE0095340328C08.title: "Battleground Gladiator"
+	quest.1FBF130C71A2112F.quest_desc: [
+		"No Level Increase here either."
+		""
+		"Signature Item is an Ender Pearl."
+	]
+	quest.1FBF130C71A2112F.title: "&7Boss Zeph"
+	quest.201F9E2D3FF0533F.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Black Apricorn Sprout."
+	]
+	quest.201F9E2D3FF0533F.title: "&7Shadow Admin Ivory"
+	quest.23503DF29786B519.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Iron Ball."
+	]
+	quest.23503DF29786B519.title: "&3Elite Four Moleman"
+	quest.2B4286EFCE51CC21.quest_desc: [
+		"Level Increase to 21."
+		""
+		"Signature Item is Guard Spec."
+	]
+	quest.2B4286EFCE51CC21.title: "&6Rival Wayne"
+	quest.2EEA11E6CE65C317.quest_desc: [
+		"Small Level Increase to 38. "
+		""
+		"Signature Item is Normal Gem."
+	]
+	quest.2EEA11E6CE65C317.title: "&aLeader Mel"
+	quest.3270D40010F5C78A.quest_desc: [
+		"Level Increase to 41."
+		""
+		"Signature Item is Black Apricorn."
+	]
+	quest.3270D40010F5C78A.title: "&7Shadow Admin Ivory and Grunt"
+	quest.38FE871A5867D6F3.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Quick Claw."
+	]
+	quest.38FE871A5867D6F3.title: "&3Elite Four Penny"
+	quest.3B750DFAF99B858A.quest_desc: ["In order to unlock &4&oUnbound&r you'll need to beat either &4&oRadical Red&r or &4&oBDSP&r. \\\\n\\\\nThese are two &4&oSeries&r which come before &4&oUnbound&r. The &4Trainer Associate&r won't offer &4&oUnbound&r until one of them is complete. \\\\n\\\\nThat's right, you don't need to finish both, just one!"]
+	quest.3B750DFAF99B858A.title: "Beat &4&oRadical Red"
+	quest.3C108354DB6D9562.quest_desc: [
+		"No Level Increase, I'm seeing the pattern."
+		""
+		"Signature Item is Sky Tumblestone."
+	]
+	quest.3C108354DB6D9562.title: "&7Ruin Leader Aklove"
+	quest.4160EC0860E9CA4C.quest_desc: ["&4&oUnbound&r was created in response to Generation II Games having the same storyline as Gen I. \\\\n\\\\nSame mechanics as Firered, just new &cPokemon&r and most importantly a new story! \\\\n\\\\nLike always, hand your &4Trainer Card&r to a &4Trainer Associate&r and you'll get it back set to &4&oUnbound&r."]
+	quest.4160EC0860E9CA4C.title: "&4&oUnbound"
+	quest.45686EA3EC85C958.quest_desc: ["In order to unlock &4&oUnbound&r you'll need to beat either &4&oRadical Red&r or &4&oBDSP&r. \\\\n\\\\nThese are two &4&oSeries&r which come before &4&oUnbound&r. The &4Trainer Associate&r won't offer &4&oUnbound&r until one of them is complete. \\\\n\\\\nThat's right, you don't need to finish both, just one!"]
+	quest.45686EA3EC85C958.title: "Beat &4&oBDSP"
+	quest.4816190648A0F176.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Fairy Feather."
+	]
+	quest.4816190648A0F176.title: "&3Elite Four Arabella"
+	quest.49264B6A20E2657E.quest_desc: [
+		"No Level Increase here, this guys a real cheep-o!"
+		""
+		"Signature Item is a Binding Band."
+	]
+	quest.49264B6A20E2657E.title: "&6Rival Wayne"
+	quest.49598F74E0F165D1.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is a Nether Star."
+	]
+	quest.49598F74E0F165D1.title: "&7Ruin Leader Aklove"
+	quest.4A82BC9DA2759C9E.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Relic Coin."
+	]
+	quest.4A82BC9DA2759C9E.title: "&7Ruin Admin Ivory"
+	quest.524606135B91B536.quest_desc: [
+		"Level Increase to 76."
+		""
+		"Signature Item is Bug Gem."
+	]
+	quest.524606135B91B536.title: "&aLeader Benjamin"
+	quest.554FADF336FF2D04.quest_desc: [
+		"No Level Increase again and again and again."
+		""
+		"Signature Item is Black Glasses."
+	]
+	quest.554FADF336FF2D04.title: "&7Light of Ruin Vega"
+	quest.5A15FBB64AB9369B.quest_desc: [
+		"Level Increase to 47."
+		""
+		"Signature Item is Colbur Berry."
+	]
+	quest.5A15FBB64AB9369B.title: "&7Shadow Admin Marlon"
+	quest.5F2AB0F9166A6AD5.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is a Diamond."
+	]
+	quest.5F2AB0F9166A6AD5.title: "&6Sucessor Maxima"
+	quest.65E76C4AD74338E4.quest_desc: [
+		"Still no Level Increase? What did we do wrong?"
+		""
+		"His Signature Item this time is a Dire Hit."
+	]
+	quest.65E76C4AD74338E4.title: "&6Rival Wayne"
+	quest.67A3611F07575F71.quest_desc: [
+		"Level Increase to 58."
+		""
+		"Signature Item is Fighting Gem."
+	]
+	quest.67A3611F07575F71.title: "&aLeader Big Mo"
+	quest.6E7DC2CDA7147743.quest_desc: [
+		"Level Increase to 84."
+		""
+		"Signature Item is a Totem of Undying."
+	]
+	quest.6E7DC2CDA7147743.title: "&5Champion Jax"
+	quest.76CA3D98A4772886.quest_desc: ["The &4&oSeries&r may be over but if you want to stay the &5Champ&r you need to fight to keep it! \\\\n\\\\nSome of the people who've lost to you before are coming back for revenge, and the title of &5Champ&r! \\\\n\\\\nThese being: &5Title Defense Jax&f, &5Title Defense Marlon&f, &5Title Defense Milo&f, &5Title Defense Solenk&f, &5Title Defense Wayne&f, and &5Title Defense Zeph&r. \\\\n\\\\nThese are optional Fights so unfortunately they don't have a Signature Item. Instead they will randomly Spawn in certain Biomes. (Hint: all are Biomes where End Cities can Spawn). \\\\n\\\\nIf you beat them all you will get the Borrius Title!"]
+	quest.76CA3D98A4772886.title: "Still the &5Champ&r!"
+	quest.7CD47C3C2F1223A1.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is Ink Sac."
+	]
+	quest.7CD47C3C2F1223A1.title: "&7Shadow Admin Marlon and Grunt"
+	quest.7D88BBE64DC2A9D0.quest_desc: [
+		"No Level Increase... why does this &4&oSeries&r give the least amount of Levels?"
+		""
+		"Signature Item is Dusk Stone."
+	]
+	quest.7D88BBE64DC2A9D0.title: "&7Ex-Shadow Admin Marlon"
+	quest.7F132BF6D4B5F803.quest_desc: [
+		"Finally a Level Increase. To 37."
+		""
+		"Signature Item is Flying Gem."
+	]
+	quest.7F132BF6D4B5F803.title: "&aLeader Alice"
+}

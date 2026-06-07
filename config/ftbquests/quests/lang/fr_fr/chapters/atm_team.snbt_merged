@@ -1,0 +1,72 @@
+{
+	quest.035DBF19839FB73B.quest_desc: ["5 of the first &6Team Members&r Spawn in the &2&lOverworld&r in Custom Gyms. \\n\\nYep! Each of these Gyms were built by &e&lRosary&r and &6Pack Developers&r. \\n\\nSearch around in the &2&lOverworld&r to find them, even use an Explorer's Compass for help!"]
+	quest.035DBF19839FB73B.title: "Custom Gyms"
+	quest.13635B28AB1F2E68.quest_desc: ["In the Lobby of the &4Elite Gym&r you'll find &l&8CesarZorak&r waiting for you. \\n\\n&l&8CesarZorak&r does digital art, now what does that mean for the Modpacks? Lots of Item designs! \\n\\nYou like the Badges? Thank him for it. \\n\\nEven his own &8Badge&r! Which you'll need to Beat him for."]
+	quest.13635B28AB1F2E68.title: "&8&lCesarZorak"
+	quest.1C0FA8A4EFD02DFF.quest_desc: [
+		"Another Structure flying high in the sky. \\n\\nThe name is exactly what it is, a flying &5chocolate factory&r. If only Hershey had something like this... \\n\\nYou'll find the captain of the Ship within the control room up top."
+		"{image:atm:textures/questpics/series/atmteam_airship.png width:125 height:100 align:center}"
+	]
+	quest.1C0FA8A4EFD02DFF.title: "&5Airship Chocolate Factory"
+	quest.1CE940627F4BC431.quest_desc: ["The &4&oATM Team Series&r has you beating members of the &6&lATM Team&r! \\n\\nThere's 3 different ways to find the different &6Team Members&r, some Spawn in their Custom Gyms, some Wander and have Signature Items to summon them, and the rest Spawn in the &4Elite Gym&r. \\n\\nYou'll need to Beat all the &6Team Members&r to get the Items to Craft the &e&lPika Star&r. Which is how you officially beat &l&cAll&7The&fMons&r."]
+	quest.1CE940627F4BC431.title: "&4&oATM Team Series"
+	quest.1D236A72F7EC11AE.quest_desc: ["No you can't buy this &7Microwave&r, but you can Beat him in Battle! \\n\\n&7&lToshiba&r works almost solely on Quests, that doesn't mean he is the only one though. \\n\\nThere's lots of &6Team Members&r, Content Creators, and even just normal Players who submit changes on Github who all help to make them! \\n\\nIf you Beat him you'll get a &7Microwave&r shaped &7Badge&r. I wonder if you can plug it in?"]
+	quest.1D236A72F7EC11AE.title: "&7&lToshiba Microwave"
+	quest.1E1CF820CF7E88C9.quest_desc: ["In the &3Bee Gym&r, once you Beat both &3Lego &fand &3Nektar&r you can take on &l&3LobsterJonn&r. \\n\\nShow him a nice big thank you for all the different Mods he has made (with the help of &3Lego &fand &3Nektar&r) by Beating him in his own &3Gym&r. \\n\\nIf you do, you get a &3Lobster Badge&r! It's a &3Blue Lobster&r, does that mean &l&3Lobsterjonn&r himself is a Shiny?"]
+	quest.1E1CF820CF7E88C9.title: "&3&lLobsterjonn"
+	quest.1EA1CDA0099B2E2F.quest_desc: [
+		"Where else would &4Pokemon Trainers&r get their &9PCs&r and &aHealing Stations&r but an Appliance Store! \\n\\nHere you can find all sorts of goodies including working Vending Machines out front. \\n\\nIf you're looking for a &7&lToshiba Microwave&r, try looking next to the Pikachu Mech."
+		"{image:atm:textures/questpics/series/atmteam_store.png width:100 height:110 align:center}"
+	]
+	quest.1EA1CDA0099B2E2F.title: "&7Bestbuy Gym"
+	quest.2974542418F17450.quest_desc: ["&3Nektar &fand &3Lego&r stand in your way from Fighting &3&lLobsterJonn&r. \\n\\nJust like any other &5Trainer&r in this Modpack, you'll need to Defeat them! \\n\\nBoth &3Lego &fand &3Nektar&r work in developing the different &6&lProductive&r Mods, so it only makes sense they help him here!"]
+	quest.2974542418F17450.title: "&3Nektar &fand &3Lego"
+	quest.327A838DB087D0EA.quest_desc: [
+		"One of the biggest and prettiest of the custom Gyms, the &3Bee Gym&r! \\n\\nHow many giant structures do you see with huge Flowers and &6Bees&r? Okay so there is a few but trust me this one is the best looking. \\n\\nInside it you'll come across a room with you guessed it, another &6Bee Statue&r! There'll be a Button you can press to open up the Gym section. \\n\\nYou might be wondering why there's multiple Battle Courts, that's because you'll need to take on 2 Trainers before fighting &3&lLobsterJonn&r!"
+		"{image:atm:textures/questpics/series/atmteam_bee.png width:125 height:100 align:center}"
+	]
+	quest.327A838DB087D0EA.title: "&3Bee Gym"
+	quest.357C9381A8155C08.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.48254318628B60F7.quest_desc: [
+		"Hey, this place looks familiar! \\n\\nIf you've played &b&lATM10: TTS&r you'll recognize &2Steve's Staycation&r. \\n\\nIn the sky you'll find a floating Island, with a cute little RV on top. Here you'll find &2&lOly&r!"
+		"{image:atm:textures/questpics/series/atmteam_staycation.png width:100 height:100 align:center}"
+	]
+	quest.48254318628B60F7.title: "&2Steve's Staycation"
+	quest.4C15052DCF8371A3.quest_desc: ["Either take the Elevator or Stairs to the 1st Floor, the Containment Facilities. This floor operates all the power and data for the &4Gym&r. \\n\\nLike the reactor which is where you'll find &4&lSatherov&r! He may not be in the Discord anymore but he will always be with us in our hearts... and as a &4Trainer&r in this Modpack. \\n\\nBeat him and you'll get the &4Kitty Badge&r! Isn't it cute."]
+	quest.4C15052DCF8371A3.title: "&4&lSatherov"
+	quest.5081E5E0BA982973.quest_desc: ["The final floor, the Team Commons. Here you'll find where the Team Members eat, sleep, and recreate. TV, Billiards, we are well taken care of! \\n\\nThere's also the work section. Follow it all the way to the end to find the Simulations Labratory. \\n\\n\"Use\" (by Jumping while inside) the Chamber and you'll be taken to a Maze. Through a bunch of walking, jumping, swimming, and climbing you'll arrive to the Temple of Notch. \\n\\nThe creator of &2&lMinecraft&r himself, &lNotch&r. Must I say more? \\n\\nHis Badge is his face! He definitely rocks the beard well."]
+	quest.5081E5E0BA982973.title: "&lNotch"
+	quest.54530BFB46624C51.quest_desc: ["The Captain of the &5Airship Chocolate Factory&r himself, &5&lToblerone&r. \\n\\n&5&lToblerone&r does a ton of work with the &6&lATM Packs&r, including fixing &7&lToshiba's&r mistakes in the Quests. \\n\\nHe does more than just the Quests though don't worry! \\n\\n&5&lToblerone's&r &5Badge&r is a very shiny &5Chocolate Bar&r perfect for breaking into triangle servings."]
+	quest.54530BFB46624C51.title: "&5&lToblerone0508"
+	quest.56A11740B93819D4.quest_desc: ["The &6ATM Badge Box&r is where we'll hold our Badges we get for defeating each member of the &6&lATM Team&r. \\n\\nTo use the &6Badge Box&r just Right Click to Open or Close it, or use Shift Right Click when it is Open to interact with it."]
+	quest.56A11740B93819D4.title: "&6ATM Badge Box"
+	quest.580A66080AB6B117.quest_desc: ["Level 3 the Solaris Hall. The biggest room in the &4Elite Gym&r. \\n\\nMany Libraries and rooms for study but the most important is the labratory where you'll find &9&lVortex&r. \\n\\nThe bane of all ne'er-do-wells in the Discord and the creator of &c&lGravitas&r! If you hate &2&lMinecraft&r being even remotely close to easy then you'd love &c&lGravitas&r. \\n\\nHis &9Badge &fis a &9Vortex&r... duh."]
+	quest.580A66080AB6B117.title: "&9&lThevortex"
+	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r will soon have a Custom Gym of a &dBath&r suit for him... \\n\\nSoon isn't now though. \\n\\nIf you've heard a joke in the &6&lATM&r Discord Server about someone being old, 9/10 times it was directed at &d&lBathsalts&r. \\n\\nThe other 1/10 is from &d&lBathsalts&r himself. \\n\\nHis &dBadge&r is &dbath salts&r... the legal kind."]
+	quest.5A7E0848E16A5453.title: "&d&lBathsalts"
+	quest.670756F02FD8179F.quest_desc: ["Some &6ATM Team Members&r don't have a home. \\n\\nI meant in &l&cAll&7The&fMons&r, in real life we're all taken very good care of. \\n\\nTo find these you'll have to wander around &b&lThe Other&r or use a &4Trainer Spawner&r! Just place down the &4Trainer Spawner&r, give it an &5Unobtainium Block&r, and a &4Redstone Signal&r to turn it on! \\n\\nIf a &4Trainer's&r Signature Item is the &5Unobtainium Block&r, they might Spawn. Wrong Trainer? Just kill them and they'll be replaced! \\n\\nThe &6Wandering Team Members&r are: Bored, Drack_ion, Helix Ranmara, Mitchell52, Mutant Gumdrop, ShinyPorygon, and Ultra Megaa."]
+	quest.670756F02FD8179F.title: "Beat &6Wandering ATM Team Members"
+	quest.671208DA73DF3987.quest_desc: [
+		"Trust me, when you see the &4Elite Gym&r you'll recognize it. It is massive and gorgeous. And it is even prettier on the inside! \\n\\nDon't let the sheer height of the &4Gym&r scare you, there's an Elevator inside."
+		"{image:atm:textures/questpics/series/atmteam_elite.png width:125 height:200 align:center}"
+	]
+	quest.671208DA73DF3987.title: "The &4Elite Gym"
+	quest.68518CCD2EF8B22F.quest_desc: ["The rest of the &6Team&r spawns in &b&lThe Other&r. \\n\\nGo to The &c&lNether&r and place down a &6Teleport Pad&r. Make sure both your Hands are empty and Shift Right Click the &6Teleport Pad&r. \\n\\nThis will take you to &b&lThe Other&r."]
+	quest.68518CCD2EF8B22F.title: "&b&lThe Other"
+	quest.6B409AE2D10E174B.quest_desc: ["From one artist to another, just in a different way. \\n\\nAlso in the Lobby you'll find &e&lRosary&r. \\n\\n&e&lRosary&r did most of the designing for the various Custom Gyms we have here in &c&lAll&7The&fMons&r. \\n\\nFrom the &3Bee House&r to &5Chocolate Airship&r to the &4Elite Gym&r. You can thank him and the groups of others who helped build them and made them fully functional! \\n\\nThank him by stealing his &8Badge&r from him!"]
+	quest.6B409AE2D10E174B.title: "&e&l_Rosary_"
+	quest.6C57E0C60AA72B9E.quest_desc: ["After beating &lNotch&r we will find an &dAncient D&3N&dA &3Sample&r. \\n\\nMust have been a result of the testings within the &4Elite Gym&r. \\n\\nIf you use the &dAncient D&3N&dA &3Sample&r with an &eUnbound Pika Star&r in the Fossil Analyzer we can create &dMewtwo&r. \\n\\nJust make sure you have the Fossil Analyzer, with the Data Monitor on top of it, and Restoration Tank next to them. Plus enough biofuel to fill up the Restoration Tank. \\n\\nOnce he is all cloned up, just use a &cPoke&rball on the Tank to collect &dMewtwo&r."]
+	quest.6C57E0C60AA72B9E.title: "Capturing &dMewtwo"
+	quest.6DBF2F6AE30CAA75.quest_desc: ["In order to store our Badges we'll need a Badge Box. In order to get that Badge Box we'll need to beat the &4&oBrilliant Diamond and Shining Pearl Series&r. \\n\\nYou can start the &4&oSeries&r like any other, giving a &4Trainer Card&r to a &4Trainer Associate&r. \\n\\nIn the end after beating &5Champion Cynthia&r (for a third time) you'll be rewarded with the &6ATM Badge Box&r."]
+	quest.6DBF2F6AE30CAA75.title: "Beat &4&oBrilliant Diamond and Shining Pearl"
+	quest.6F976023ECB5CA63.quest_desc: ["The 2nd floor is the Wellness Center. Beautiful gardens, quiet studies, and even a balcony. \\n\\nNext to the balcony is a Pokemon Fighting court, and ready and relaxed &0&lUncandango&r will be there! \\n\\n&0&lUncandango&r works with making sure the packs can actually be played on more than just Nasa Computers. He also handles a lot of the mainline Pack Development! \\n\\nOnce defeated he'll give a very &0Pokemon esque Badge&r."]
+	quest.6F976023ECB5CA63.title: "&0&lUncandango"
+	quest.71AB7656B8B0C84B.quest_desc: ["Rising high into the 4th floor, the Champion's Club. The place for all sorts of entertainment, its got a bar and a karaoke stage. \\n\\nPlus the balcony where you'll find &6&lWhatTheDrunk&r. I hope he's not too tipsy out there, we're pretty high up. \\n\\n&6&lWhatTheDrunk&r is the man in charge of &6&lAllTheMods&r, if it wasn't for him we wouldn't have it! \\n\\n&6&lWhatTheDrunk's&r &6Badge&r is a fermented drink usually made of barley and hops... are we allowed to call it &6Beer&r? This game is technically E10 up..."]
+	quest.71AB7656B8B0C84B.title: "&6&lWhatthedrunk"
+	quest.73CE51862BA4F68B.quest_desc: ["Resting upon his secluded vacation in the Sky... comes you the Player to ruin the peace and quiet. \\n\\nWhere are your manners? He's hundreds of Blocks above the ground in a place with 'cation, in the name. Clearly he wants to relax but nope \"winning\" is more important. \\n\\n&2&lOly2o6&r leads the development of lots of the spin off &6&lATM Modpacks&r, most prominently the &b&lSkyblocks&r! \\n\\nHence why his Custom Gym and &bBadge&r are both &bSkyblocks&r."]
+	quest.73CE51862BA4F68B.title: "&2&lOly2o6"
+	quest.7E3857288A505801.quest_desc: ["In order to advance in the &4&oATM Team Series&r, you'll need to beat all 5 of the &6Team Members&r at their Gyms, plus the 2 &4Trainers&r before &3&lLobsterJonn&r. \\n\\n&2&lOly206&r at his &2Steve's Staycation&r, &3&lLobsterJonn&r &3Lego &fand &3Nektar&r at the &3Bee Gym&r, &d&lBathsalts&r at his soon to be &dBath&r, &5&lToblerone&r on his &5Chocolate Airship&r, and &7&lToshiba&r at his &7Store&r. \\n\\nOnce all are Beat, you won't be able to advance. You also need to beat the &6Wandering Team Members&r. \\n\\nIf you Beat those too, then you can advance!"]
+	quest.7E3857288A505801.title: "Beat all &6Team Members&r at their Gyms"
+	task.2162ED741BA0D5EB.title: "AllRightsReserved"
+	task.568553C4E059B622.title: "AllRightsReserved"
+}
