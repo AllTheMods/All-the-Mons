@@ -55,9 +55,9 @@
 	quest.3A4C17878FC8315B.quest_desc: ["A &6Allthemodium Furnace&r é praticamente a mesma coisa que a Fornalha de Netherita. Você precisará dela para criar a &3Vibranium Furnace&r."]
 	quest.3A4C17878FC8315B.title: "&6Allthemodium Furnace"
 	quest.40DB6E3DE87F16EF.quest_desc: [
-		"O &bSopro do Dragão&r é um item poderoso, (fedorento) e misterioso. Poderoso significa que podemos gerar Energia a partir dele, e muita! O &5Gerador de Halitose&r gera Energia a partir do &bSopro do Dragão&r!"
+		"O &dBafo do Dragão&r é um item poderoso, (fedorento) e misterioso. Poderoso significa que podemos gerar Energia a partir dele, e muita! O &5Gerador de Halitose&r gera Energia a partir do &dBafo do Dragão&r!"
 		""
-		"(A propósito, você pode farmar &bSopro do Dragão&r com um Extrator do XyCraft com uma Cabeça de Dragão)."
+		"(Aliás, você pode produzir o &dBafo do Dragão&r com o &b&lHNN&r usando o &5Modelo de Dragão Ender&r.)"
 	]
 	quest.40DB6E3DE87F16EF.title: "&5Gerador de Halitose"
 	quest.420FE84DEE12CCE0.quest_desc: ["A &eFornalha de Ouro&r é melhor que as de Ferro, com um tempo de cozimento de 120 Ticks.\\n\\nEla pode ser criada com uma &7Silver&r ou Fornalha de Ferro e é transformada em uma de &bDiamand&r!"]
