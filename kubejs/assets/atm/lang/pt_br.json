@@ -222,7 +222,7 @@
 	"kubejs.atm.catch_restrictions.catch_without_leader": "Você não tem permissão pra capturar um pokémon acima do level 15 sem um líder de grupo!",
 	"kubejs.atm.catch_restrictions.leader_too_weak": "Líder de grupo %s (nível %s) é muito fraco para permitir capturar pokémon fora de batalha!",
 	"kubejs.atm.catch_restrictions.own_pika_knowledge": "Você não tem o conhecimento da Estrela Pika da Região %s para usar %s em uma batalha!",
-	"kubejs.atm.catch_restrictions.pika_knowledge": "Você não tem o conhecimento da Estrela Pika para lutar contra este Pokémon!",
+	"kubejs.atm.catch_restrictions.pika_knowledge": "Você não tem o conhecimento da Estrela Pika de %s para lutar contra este Pokémon!",
 	"kubejs.atm.catch_restrictions.special_pokemons": "Esse pokemon é muito especial pra ser capturado fora de batalha!",
 	"kubejs.atm.click_here": "Clique aqui para dispensar",
 	"kubejs.atm.hyper.removal_warning": "Hyperboxes podem ser removidas em breve, por favor, mude para o Compact Machines",
