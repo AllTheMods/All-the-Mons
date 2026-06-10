@@ -1,16 +1,75 @@
 {
+	quest.0152938EE5651409.quest_desc: ["Cette quête a été écrite par le &6Staff AllTheMods&r, ou un &2Contributeur de la Communauté&r pour être utilisé dans les Modpacks AllTheMods. \\n\\nComme tous les packs &6AllTheMods&r sont sous license &eTous Droits Réservés&r, cette quête ne peut être utilisé dans aucun pack non publié par l'&6Equipe AllTheMods&r sans sa permission explicite. \\n\\nCette quête est intentionnellement cachée, si vous voyez ceci, vous êtes en mode Edition."]
+	quest.0790D3BB481162A6.quest_desc: [
+		"Besoin d'une Table de Craft? Qu'en est-il d'une Table de Craft Portable? "
+		""
+		"&l&8Crafting On A Stick&r ajoute des versions portables de certaines de vos stations d'artisanat favorites! C'est un essentiel en début de partie."
+	]
+	quest.0790D3BB481162A6.quest_subtitle: "Moins de Placement, Plus d'Artisanat"
 	quest.0790D3BB481162A6.title: "l'Artisanat... sur un bâton!"
 	quest.0C856BBB1679A7DD.quest_desc: ["Sur cette page, vous trouverez quelques objets utiles et des informations pour vous aider dans votre périple!"]
 	quest.0C856BBB1679A7DD.quest_subtitle: "Et d'autres objets utiles!"
 	quest.0C856BBB1679A7DD.title: "Conseils et Astuces!"
+	quest.0E9CE6241CDBC420.quest_desc: ["La &9Ranged Pump&r est tellement spéciale qu'elle a son propre Mod! \\n\\nLa &9Pompe&r collectera des &9Sources d'Eau&r sous elle et les remplacera avec de la Pierre. \\nElle a cependant besoin d'énergie, mais elle en vaut la peine, elle a une longue portée! \\n\\nL'&9Eau&r collectée devra être évacuée avec des tuyaux."]
+	quest.0E9CE6241CDBC420.title: "&l&9Ranged Pump"
 	quest.0F8F37D7E12078F5.quest_subtitle: "Terminez tous les conseils!"
 	quest.0F8F37D7E12078F5.title: "Conseils pour être bien équipé"
+	quest.159FAAE66F20FB4F.quest_desc: ["La &2Copain&f, la &8Luxe&f, et la &dSoin&r &cPoke&rBalls aident toutes votre &cPokemon&r après l'avoir attrapé! \\n\\nL'&2Ami Ball&r fait démarrer votre &cPokemon&r à 150 points d'Amitié (ça sonne comme de la manipulation, pas une amitié!). \\n\\nLe &cPokemon&r dans la &8Luxe Balls&r gagnera de l'Amitié 2x plus vite que les &cPokemons&r dans d'autres &cBalls&r. \\n\\nEt la &dSoin Ball&r agira comme si le &cPokemon&r avait pris un bon bain dans la &aMachine de Soin&r après l'avoir attrapé. Oui, juste cette fois là, pas constamment."]
+	quest.159FAAE66F20FB4F.title: "Des &cBalls&r qui aident les &cPokemons"
+	quest.1CA43B9A95159AD0.quest_desc: ["Les Joyaux sont des objets très funs trouvables dans les Structures &cPokemon&r et dans les Suspicious Blocks. \\n\\nVous pouvez en faire tenir à vos &cPokemon&r pour augmenter la puissance de leur première capacité du type du Joyau. \\n\\nUn &bJoyau Eau&r rendra la première &bAttaque de type Eau&r meilleure. Un &cJoyau Feu&r améliorera une &cAttaque de type Feu&r, etc."]
+	quest.219AA017149C36E2.quest_desc: ["Les Trapped Trader Carpets tueront instantanément tout Marchand Ambulant apparaîssant à proximité!\\n\\nCe sont probablement les meilleurs objets de tout le pack."]
+	quest.219AA017149C36E2.quest_subtitle: "Plus Jamais de ces Insupportables Marchands !"
+	quest.23D1F785BACBD39B.quest_desc: ["Des fois on ne peut juste pas trouver ce &cPokemon&r &dFemale pour faire des &dOeufs&r. \\n\\nAlors pourquoi ne pas juste transformer par Magie un &bMâle&r en &dFemelle&r! Et vice versa! \\nFaites Clic Droit sur un &cPokemon&r avec une &aOrbe de &dTransmutation&r et il changera de genre. \\n\\nJe me demande si vous pouvez l'utiliser sur Metamorph pour faire Metamorph?"]
+	quest.23D1F785BACBD39B.title: "&aOrbes de &dTransmutation"
+	quest.28E60192912BEBAD.quest_desc: ["En &l&2Vanilla&r, les Villageois peuvent être frustrants. Passer à travers les offres d'échanges à la recherche du Villageois Racommodage..., et les professions peuvent parfois être agaçantes.\\n\\n&l&2Easy Villagers&r est un mod qui simplifie beaucoup tout cela! Pour commencer, vous pouvez ramasser un villageois en faisant Clic Droit dessus en étant accroupi. Ils peuvent ensuite être placés dans le monde, ou dans des blocs spécifiques du mod &l&2Easy Villager&r!\\n\\nVous pouvez rechercher &d@EasyVillagers&r dans JEI pour voir les blocs proposés par le mod!"]
+	quest.28E60192912BEBAD.quest_subtitle: "Villageois, rendus faciles"
+	quest.28E60192912BEBAD.title: "&l&2Easy Villagers"
+	quest.32ECD93A8F2FAB8F.quest_desc: ["Les &6Jetpacks&r sont un moyen de déplacement très populaire. \\n\\npour commencer à en faire, vous devrez commencer par fabriquer un &6Wood Jetpack&r! Il pourra ensuite être amélioré jusqu'au &5Creative Jetpack&r. \\n\\nBien qu'il y ait une multitude de versions, elles fonctionnent toutes de la même manière. Ils peuvent tous être placés dans votre espace de Torse, ou dans l'espace Curio de Dos, ou dans l'espace Curio Curio. \\n\\nTous ont besoin de FE pour fonctionner, vous pouvez utiliser n'importe quel Item Charger pour les recharger! Ils utiliseront les FE pour voler et Oui, vous vous écraserez s'ils tombent à court. \\nPour voler, vous devrez démarrer vos réacteurs avec (V), puis maintenir la barre espace enfoncée vous fera voler, tandis que la lacher vous fera tomber. \\n\\nPour ceux qui n'apprécient pas les chutes, vous pouvez activer la fonction Flotter "Hover" en lui affectant une touche, une fois activé, cette option vous permettra de flotter en vous maintenant à la bonne altitude; montez avec Espace, descendez avec (Maj) par défaut. \\n\\nPour ajuster votre vitesse de vol, modifiez votre jauge de Gaz. Diminuez la avec (,) par défaut et augmentez la avec (.)!"]
+	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
+	quest.3B4BF42C55C8BBBF.quest_desc: ["Vous ne détestez pas quand vous cassez quelque chose et que le bloc tombe hors de votre portée?! \\n\\nEh bien ne vous inquiétez plus car nous avons &4Magnets&r! Faites simplement Clic Droit en tenant le &4Magnet&r pour l'activer. Alors, tous les blocs et objets tombés dans un rayon de 5 blocs autour de vous viendront directement à vous. \\n\\nVous pouvez aussi équiper le &4Magnet&r dans vos espaces Curio pour vous libérer les mains! \\n\\nSi vous ne souhaitez plus utiliser le &4Magnet&r (ce qui arrive souvent près des fermes à monstres...) refaites juste clic droit avec pour le désactiver. \\n\\nIls peuvent être améliorés pour en augmenter la portée!"]
+	quest.3B4BF42C55C8BBBF.title: "&l&9Simple &4Magnets"
+	quest.3DA07EE81C9E13BF.quest_desc: ["Le Ball &eSynchronizer&r peut-être utilisé pour changer la &cBall&r dans laquelle un &cPokemon&r est. \\n\\nFaites tenir à un &cPokemon&r la &cBall&r de remplacement, puis utilisez le Ball &eSynchronizer&r sur le Pokemon pour le faire changer. La &cBall&r dans laquelle le Pokemon était sera perdue... \\n\\nJe ne vois pas bien à quoi ça sert en dehors d'utiliser des Balls qui apportent des bonus durables aux &cPokemons&r!"]
+	quest.3DA07EE81C9E13BF.title: "Le Ball &eSynchronizer"
+	quest.3FEFD0340A60DD5F.quest_subtitle: "Complétez toutes les Poke Astuces!"
+	quest.40708C304424C3FE.quest_desc: ["Trop de &4Dresseurs&r impromptus? Débarrassez vous d'eux avec le &4Trainer Repel Rod&r! \\n\\nje ne suis pas sur de sur quelle surface exactement il empêche leur apparition, il ne me le dit pas.... \\n\\nAu moins il empêche les &4Générateurs de Dresseurs&r de fonctionner."]
+	quest.40708C304424C3FE.title: "&4Trainer Repel Rod"
+	quest.47043AF7D1FABC43.quest_desc: ["La &bDis-Enchanting Table&r est probablement l'astuce la plus utile ici. \\n\\nMettez un objet enchanté dans l'emplacement de gauche, un livre dans celui du milieu. Puis les enchantements iront dans l'emplacement de droite, dans le livre! \\n\\nVous pouvez aussi utiliser des livres enchantés pour séparer les enchantements"]
+	quest.47043AF7D1FABC43.title: "&l&bTable de Dés-Enchantement"
+	quest.58D3CBB518020833.quest_desc: ["Je ne vais pas lister toutes les &cPoke&rBalls. \\n\\nToutes ces &cPoke&rBalls auront de meilleures chances de capturer un &cPokemon&r sous certaines circonstances. \\n\\nDes Stats des &cPokemon's&r sauvages, au temps en Combat, aux endroits dans le Monde, même l'heure de la journée. Toutes ces &cPoke&rBalls sont uniques à leur manière! \\n\\nToutes dans la plupart des circonstances, n'auront qu'une Chance x1... SAUF mention contraire."]
+	quest.58D3CBB518020833.title: "Les &cBalls&r avec de Meilleures Chances de Capture"
+	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r ajoute les &7Drawers&r qui peuvent contenir plusieurs stacks d'un objet. Ils peuvent être améliorés pour contenir encore plus de stacks!\\n\\nC'est très intéressant pour les objets que vous aurez en quantité comme la Pierre Taillée ou les Graines!"]
+	quest.5EE945A1185E8336.quest_subtitle: "Casiers de Stockage?"
+	quest.5EE945A1185E8336.title: "&l&7Functional Storage&r"
+	quest.620913A1FF09255F.quest_desc: ["Ces 6 &cPoke&rBalls sont jetées différemment des autres &cBall&r. \\n\\nLa &bPlume&f, l'&bEnvol&f, et la &bPropulse Ball&r peuvent être lancées bien plus loin qu'une &cPokeBall&r normale. \\n\\nLa &8Masse&f, la &8Mégamasse&f, et la  &8Gigamasse Ball&r ne peuvent pas être lancées aussi loin qu'une &cPokeBall&r normale. \\n\\nLes chances de capture 1.5x et 2x ne sont pas en fonction de la distance mais en fonction des chances de capture du &cPokemon&r cible!"]
+	quest.620913A1FF09255F.title: "&cBalls&r qui se jettent différemment"
+	quest.637981B64BBE0D92.quest_desc: ["La &aCharging Station&r est un bloc très utile en début de partie. \\n\\nIl s'utilise pour charger des objets. Envoyez lui de l'énergie par câble ou branchez le à un générateur pour l'alimenter en FE. \\n\\nAlors, vous pourrez poser n'importe quel objet à charger dans l'emplacement le plus à droite."]
+	quest.637981B64BBE0D92.title: "&l&aCharging Gadgets"
+	quest.6E17595887A051C2.quest_desc: ["&l&2Minecraft Moddé&r introduit de nouvelles professions de Villageois! \\n\\nLe Forge Hammer: crée l'&5Industrialist&r \\n\\nLe Charger: crée le &bFluix Researcher&r \\n\\nL'Advanced Beehive: crée le &6Beekeeper&r \\n\\nLe Coffee Maker: crée l'&9Engineer&r \\n\\nL'Arcane Core: Crée le &dShady Wizard&r \\n\\nLa Foragers Table: Crée le &aForager&r \\n\\nLa Powered Rolling Machine: Crée le &eCartman&r \\nLa Manual Rolling Machine: Crée le &eTrackman&r \\n\\nL'Engineer's Workbench: Crée le &7Gunsmith&r \\nLa White Banner: Crée l'&7Outfitter&r \\nL'Engineer's Circuit Workbench: Crée l'&7Electrician&r \\nL'Engineer's Crafting Table: Crée le &7Machinist&r \\nLa Turntable: Crée le &7Structural Engineer&r \\n\\nLa Charging Station: Crée le &4Pressure Mechanic&r \\n\\nLa Saw: Crée le &8Carpenter&r"]
+	quest.6E17595887A051C2.title: "Plus de Jobs"
+	quest.70B6C9409AE69284.quest_desc: ["La Boussole de la Nature vous permet de rechercher des Biomes dans une Liste.\\n\\nSélectionnez un Biome puis cliquez sur 'Rechercher'. Vous verrez quelques infos en haut à gauche et la boussole pointera vers le biome recherché.\\n\\nLa Boussole de l'Explorateur fonctionne de la même manière mais pour les structures."]
 	quest.70B6C9409AE69284.quest_subtitle: "Aide à trouver des biomes"
 	quest.70B6C9409AE69284.title: "Boussole de la nature"
 	quest.722978AC0C1B2649.quest_desc: ["Objet simple pour automatiser l'eau infinie. Besoin de plus d'eau? En fabriquer un autre!"]
 	quest.722978AC0C1B2649.quest_subtitle: "Peut être utilisé comme fluide de refroidissement pour le réacteur"
 	quest.722978AC0C1B2649.title: "Eau infinie"
+	quest.7A514E27E1A7FE32.quest_desc: ["Les Diamants nous permettent aussi de créer des Gadgets cools avec &l&cBuilding Gadgets&r.\\n\\nCe sont de super outils pouv vous aider à créer des bases plus grandes, ou pour nettoyer des espaces avec le &cDestruction Gadget&r."]
+	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
 	quest.7EC8814940C4C3D7.quest_desc: ["Utilisez cet objet pour rétrécir. Utile pour travailler sur l'automatisation et aussi juste pour s'amuser en général."]
 	quest.7EC8814940C4C3D7.quest_subtitle: "Chéri(e), j'ai rétréci les dimensions"
 	quest.7EC8814940C4C3D7.title: "Dispositif de rétrécissement personnel"
+	task.0B0B4FE92ACE168D.title: "Balls qui se jettent différemment"
+	task.0D5203048B6E068C.title: "Trapped Trader Carpets"
+	task.14F7981692060FAA.title: "Apprendre de nouveaux Tours à un Pokemon!"
+	task.2F4F472A9D461347.title: "Job Sites"
+	task.3B1F1A7CAC8B7BC7.title: "Casiers"
+	task.3DC008A578A93CCF.title: "Trucs et Poke Astuces!"
+	task.41D4434AE6ABBE2A.title: "Des Balls qui aident les Pokemons"
+	task.42DA8E971B27ACED.title: "Tipped Out"
+	task.47A1F59A538E3C4B.title: "Building Gadgets"
+	task.4AEB792F6A939B3A.title: "TousDroitsRéservés"
+	task.58E3131A3EA2661E.title: "Boussoles"
+	task.59CCC8560F55F743.title: "Balls avec de Meilleurs Chances de Capture"
+	task.6038387EA35404CD.title: "Crafting on a Stick"
+	task.6A965CD027BF762F.title: "TousDroitsRéservés"
+	task.7CF36B2DD1136490.title: "Poke Joyaux"
 }

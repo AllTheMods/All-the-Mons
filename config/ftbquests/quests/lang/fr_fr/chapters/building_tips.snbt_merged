@@ -1,0 +1,174 @@
+{
+	quest.0052E5592A6BBEC1.quest_desc: [
+		"C'est &2&lMinecraft&r, Je ne peux pas vous apprendre à construire..."
+		"{@pagebreak}"
+		"Mais je peux vous donner des astuces pour!"
+	]
+	quest.0052E5592A6BBEC1.title: "&lAstuces de Construction!&r"
+	quest.005CC8A3325FE2BD.quest_desc: ["Le &bFroststeel&r, le &7Cloggrum&r, et le &eRegalium&r peuvent être minés. \\nL'&cUtheric&r et le &aForgotten&r vous devrez tuer pour les obtenir. \\n\\nD'autres questions?"]
+	quest.005CC8A3325FE2BD.title: "&2&rMétaux de l'&lUndergarden&r "
+	quest.01516BC726013B7C.quest_desc: ["Cette quête a été écrite par le &6Staff AllTheMods&r, ou un &2Contributeur de la Communauté&r pour être utilisé dans les Modpacks AllTheMods. \\n\\nComme tous les packs &6AllTheMods&r sont sous license &eTous Droits Réservés&r, cette quête ne peut être utilisé dans aucun pack non publié par l'&6Equipe AllTheMods&r sans sa permission explicite. \\n\\nCette quête est intentionellement cachée, si vous voyez ceci, vous êtes en mode Edition."]
+	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r est un mod fait-maison pour aider à unifier les minerais.\\n\\nAvec lui, viennent beaucoup de blocs décoratifs très utiles!\\n\\nLa &dFluorite&r et le &9Sapphire&r ont l'air très cools!"]
+	quest.034DB3C64F24C7B7.title: "&l&rBlocs d'&6AllTheOres&r"
+	quest.0539AF15A10B2859.quest_desc: ["&lCompact Machines&r vous permet d'entrer dans une dimension compactée. Après avoir placé une &lCompact Machine&r, vous pouvez y entrer en utilisant un Personal Shrinking Device.\\n\\nla taille des &lCompact Machine&r dépend de leur recette, allant de 5x5x5 à 45x45x45!\\n\\nVous ne pouvez par détruire les murs d'une &lCompact Machine&r, et vous pouvez en sortir en faisant Clic Droit sur le Personal Shrinking Device."]
+	quest.0539AF15A10B2859.title: "&lCompact Machines"
+	quest.0596F6C70758EEC0.quest_desc: ["En étant les plus chers, ce sont aussi les plus beaux! \\n\\nEt c'est ce qui importe en construction!"]
+	quest.06FFBB12CFA87815.quest_desc: ["Les Bûches de &2&lMinecraft Vanilla&r, trouvées dans les Biomes &2Vanilla&r! \\n\\nJe ne devrais pas avoir à élaborer sur le sujet!"]
+	quest.06FFBB12CFA87815.title: "Bûches &2Vanilla&r"
+	quest.09955CF85F579E0F.quest_desc: ["Vous en obtiendrez à un moment, c'est littéralement le bloc le plus abondant de &2&lMinecraft&r."]
+	quest.09955CF85F579E0F.title: "Blocs de Pierre"
+	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r est un autre mod basé sur &lChiseled&r. \\n\\nL'essence du mod est d'utiliser le Chisel Tool pour modifier le design de certains blocs. \\n\\nVous pouvez faire Clic Droit avec le Chisel pour ouvrir son Interface, vous pouvez y placer jusqu'à un stack de blocs, puis choisir le design que vous souhaitez, et le récupérer. Ou vous pouvez le garder dans le Chisel, même si je ne vois pas pourquoi vous pourriez vouloir faire ça. \\n\\nVous pouvez aussi faire Clic Gauche sur un bloc avec le Chisel pour modifier son design sans passer par l'interface! \\n\\nNe vous inquiétez pas, cet outil n'a pas de durabilité."]
+	quest.09F49ED309152E24.title: "&l&cChisel Reborn"
+	quest.0A21773B773F34F8.quest_desc: ["Les couleurs sont une des parties les plus importantes pour rendre un build plus vivant! \\n\\nElles apportent vie, personnalité, et couleurs! \\n\\nCommencez avec les teintures!"]
+	quest.0A21773B773F34F8.title: "Blocs Colorés"
+	quest.0EB6ED88895366D0.quest_desc: ["Vous vous souvenez quand c'était juste de la Pierre et de la Pierre Taillée?"]
+	quest.0EB6ED88895366D0.title: "Pierres &2Vanilla&r"
+	quest.0FE30548F25FEDB1.quest_desc: ["Si vous êtes comme moi et que vous n'aimez pas vivre dans une boîte (ça me rappelle trop l'école), alors vous apprécierez avoir du Verre dans vos construction pour voir dehors. \\n\\nBien que les Verres Vanilla soient bien, on peut faire mieux! \\n\\nOn peut même en avoir quelque usage!"]
+	quest.106884349C9FF3BA.quest_desc: ["Certaines sources de lumière sont vraiment immondes hein ?! \\n\\nChangeons ça!"]
+	quest.106884349C9FF3BA.title: "Lumières &l&bChipped&r"
+	quest.10A2E758D7743DD0.quest_desc: ["L'&5&lEternal Starlight&r abrite bien des blocs, êtres et objets intéressants. \\n\\nDes arbres aussi! \\n\\nVous pourrez trouver ces arbres partout dans la dimension et dans tous les Biomes."]
+	quest.10A2E758D7743DD0.title: "&5Arbres d'&lEternal Starlight&r"
+	quest.11C43962B06D5092.quest_desc: ["Est-ce vraiment nécessaire?"]
+	quest.11C43962B06D5092.title: "Vous essayez juste de frimer"
+	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r sert à faire de votre cuisine votre foyer. \\n\\nJe vous recommande de tout utiliser car chaque objet a un usage et tous ont l'air incroyables!"]
+	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
+	quest.1972B36F72808D55.quest_desc: ["Seules certaines de ces pierres sont sculptées cependant."]
+	quest.1972B36F72808D55.title: "&lPierres &bChipped&r"
+	quest.2094D1CE4BA66091.quest_desc: ["La lumière est une partie importante de chaque base. \\n\\nElle empêche les monstres d'apparaître, aide à voir, et ajoute même un peu de couleur et de vie à vos constructions! \\n\\nOu vous pouvez juste utiliser Vision Nocturne mais c'est beaucoup moins fun!"]
+	quest.22D2CFDDB06C720C.quest_desc: ["Les Outils sont très importants dans &2&lMinecraft&r mais l'espace d'inventaire l'est tout autant. Donc pourquoi ne pas libérer un peu d'espace en faisant une Paxel! \\n Les Paxels sont une combinaison de pioche, hache et pelle. \\n\\nElles peuvent retirer l'écorce des arbres, terrasser l'herbe et miner des minerais comme les outils de base le permettraient!"]
+	quest.22D2CFDDB06C720C.title: "Paxel"
+	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, ajoute quelques Pierres pour la Décoration... Et des Train! \\n\\nLes Pierres Quarried Abyssal peuvent être utilisées pour faire leurs versions Polies, Sculptées et en Briques! \\n\\N'oubliez pas les Escaliers et Dalles! "]
+	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
+	quest.23631A4A743D4F0C.quest_desc: ["Ne commencez pas à vous plaindre pour celui-là. \\n\\nIl y a des dizaines de moyens d'obtenir du fer, et vous avez de toute façon besoin pour progresser dans le jeu. \\n\\nVous obtiendrez du fer, vous le combinerez en blocs, et vous le rendrez joli!"]
+	quest.23631A4A743D4F0C.title: "&lMétaux &bChipped&r"
+	quest.266127E7947CB3D4.quest_desc: ["Toutes les constructions sublimes que vous voyez ont été réalisés par des membres du Discord ATM! \\n\\nNe vous en faites, ils ont tous donnée leur consentement et ont été crédités! \\n\\nSi vous souhaitez partager vos construction, jetez un oeil au channel #artwork-builds-showoff du Discord! \\n\\n(On ne garantit pas que les constructions aient été faites dans ATMons, seulement qu'elles aient été faites par d'autres Joueurs de Minecraft. Tout comme vous pourriez utiliser des Shaders, donc si vos constructions ont l'air différentes, c'est peut-être pour ça!)"]
+	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r est un mod qui ajoute quelques objets très utiles. \\n\\nTous pour, bien sûr... Construire! \\n\\nChacun requiert de l'&cEnergie&r pour focntionner et a un menu qui, par défaut, s'ouvre avec &lG&r."]
+	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
+	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r est similaire à Chisels Mods puisqu'il modifie l'apparence des blocs, mais &b&lChipped&r a sa propre manière de le faire! \\n\\n&b&lChipped&r utilise plutôt des stations auxquelles vous devrez vous rendre pour modifier vos blocs. \\n\\nIl y a 7 stations différentes, chacune affectant un type de blocs: la Carpenters Table modifie le Bois, le Glassblower modifie le Verre. \\n\\nEt 6 de ces station peuvent être changées en objets portables pour plus de confort. \\n\\nIl y a même des améliorations de Sac à Dos pour!"]
+	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r"
+	quest.2B4801CD3E90BD40.quest_desc: ["&l&3Handcrafted&r est pour tout ce qui touche à la Décoration. \\n\\nIl y a des Lits (qui sont suffisamment beaux pour dormir dedans, et je suis un dormeur difficile!) et des Tables de Nuit pour les chambres. \\n\\nIl y a des Chaises et des Tables pour les salons. \\n\\nIl y a un Four, des Plaques de Cuisson et des Bols pour la Cuisine. \\n\\nIl y a même des Statues pour frimer!"]
+	quest.2B4801CD3E90BD40.title: "&l&3Handcrafted&r"
+	quest.2B864D741F7C7549.quest_desc: ["&lProductive Trees&r est un mod dans lequel on plante des arbres et on les fait se reproduire pour créer de nouveaux arbres. \\n\\nVous devinerez à raison que cela signifie de nouveaux Bois pour &2&lMinecraft&r! \\n\\nIl y a même des Bois de Spécialité!"]
+	quest.2B864D741F7C7549.title: "&lProductive Trees"
+	quest.2BA0E5D48E234FE9.quest_desc: ["Le Royaume Magique d'&d&lArs Nouveau&r nous apporte les Magelights! Des Source de Lumière de Magie Pure! \\n\\nElles peuvent être placées normalement par magie, ou en fabriquant une Magelight Lantern et en la plaçant."]
+	quest.2BA0E5D48E234FE9.title: "&dLumières d'&lArs Nouveau&r"
+	quest.313F5AFF459201EB.quest_desc: ["&l&5Eternal Starlight&r est une nouvelle dimension à explorer! \\n\\nEt pour ceux qui veulent uniquement construire dans &2&lMinecraft&r, vous pourrez y trouver un tas de nouvelles Pierres! \\n\\nPour entrer dans la dimension, vous devrez trouver son Portail!"]
+	quest.313F5AFF459201EB.title: "&lPierres de &5Eternal Starlight&r"
+	quest.318A2CC03D1D0B04.quest_desc: ["La &lConstruction Wands&r vous a manqué? \\n\\nA moi oui, et à &9Mrbysco&r aussi! Donc il a fait les &l&6Construction Sticks&r! \\n\\nIl y a pas mal de niveaux de &6Construction Stick&r. Plus ils sont chers, plus il sont durables et plus de blocs ils peuvent placer. \\n\\nIl commenceront par remplir simplement des espaces de blocs mais vous pouvez ouvrir leur interface pour modifier leur comportement. Vous devrez choisir une touche vous-même pour cela. \\n\\nUne fois dans l'interface vous pourrez changer où ils placent les Blocs, dans quelle configuration, et même quels Blocs poser! \\n\\nIls ont aussi leurs propres améliorations que vous pouvez fabriquer!. Pour les utiliser, combinez l'amélioration avec le &6Construction Stick&r dans une Table de Forge. "]
+	quest.318A2CC03D1D0B04.title: "&l&6Construction Sticks"
+	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapis&r, Quartz, &5Amethystes&r, &aEmeraudes&r, et &bDiamants&r sont tous des gemmes précieuses. \\n\\nDonc bien sûr, nous les transformons en blocs, de très précieux et jolis blocs à extraire!"]
+	quest.3497C2E05DF5A87C.title: "&lBlocs de Gemmes &bChipped&r"
+	quest.35C46E6E27C9CB1A.quest_desc: ["Les 10 Bûches &2Vanilla&r sont superbes, mais très vite limitées en designs! \\n\\nDonc bien sûr, &l&bChipped&r, est venu ajouter des dizaines de designs à ces Bûches!"]
+	quest.35C46E6E27C9CB1A.title: "&lBûches &bChipped&r"
+	quest.392F34FD4FCC794A.quest_desc: ["Bien que chers, ils sont aussi super stylés!"]
+	quest.392F34FD4FCC794A.title: "&2Blocs de &lMystical Agriculture&r"
+	quest.3BA4504DEFB87264.quest_desc: ["Fonctionne un peu comme &lSimply Lights&r, les lampes "Inverted" s'allumeront quand aucun signal Redstone ne leur sera envoyé alors que les lampes normales ne fonctionneront qu'avec de la Redstone. \\n\\nElles doivent cependant toutes être placées sur des murs."]
+	quest.3BA4504DEFB87264.title: "Wall Lamps"
+	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r est le mod de construction le PLUS important. En fait si vous me donnez un modpack et que &l&6Framed Blocks&r n'est pas dedans, je n'y jouerai pas. C'est important à ce point! \\n\\n&l&6Framed Blocks&r nous donne des faux blocs qui peuvent être remplis avec n'importe quel bloc qui n'est pas un "Block Entity" (Les Tables de Craft, Fours, Chambres d'Enrichissement,... par exemple). \\n\\nCes cadres peuvent prendre n'importe quelle forme! Des dalles verticales aux pentes en passant par les quarts de bloc! \\n\\nVous voulez des escaliers en &5Netherite&r? Alors utilisez des Framed Blocks! Vous voulez une Table de Craft en Botte de Paille? Vous pouvez l'avoir! Vous voulez des angles parfaits pour vos constructions? Alors commencez à faire des &l&6Framed Blocks&r!"]
+	quest.3E4B27759C973006.title: "&l&6Framed Blocks&r"
+	quest.3ED8365BAD406CC5.quest_desc: ["Ce sont les mods que je trouve parfaits pour décorer votre maison ou votre base! \\n\\nSentez-vous libre de jeter un oeil à ce qu'il y a ici!"]
+	quest.3ED8365BAD406CC5.title: "Mods de Décoration!"
+	quest.3EEF17C57375CC39.quest_desc: ["&lSimply Lights&r ajoute quelques lumières simples à fabriquer et utiliser.\\n\\nQuand "inverted" elles fonctionneront sans Redstone et s'éteindront quand touchées par un signal redstone.\\n\\nIl y a plein de couleurs et de formes disponibles!"]
+	quest.3EEF17C57375CC39.title: "&lSimply Light&r"
+	quest.3F185554793CCE54.quest_desc: ["Pour construire, vous aurez besoin d'Outils. Et vous voudrez des Outils. \\n\\nLes Outils vous permettent d'obtenir des blocs, d'obtenir d'autres variantes de ces blocs et même à placer certains blocs! \\n\\nVous devrez commencer avec un bâton!"]
+	quest.3F185554793CCE54.title: "Outils!"
+	quest.3FD9DC6B7844A79C.quest_desc: ["J'ai toujours détesté à quel point le béton a l'air plat et ennuyeux. \\n\\nAu moins dans &2&lMinecraft&r avec le mod &l&bChipped&r on peut en avoir différents designs!"]
+	quest.3FD9DC6B7844A79C.title: "&lBéton &bChipped&r"
+	quest.40C068B2B8AC0F33.quest_desc: ["Le Terraforming est une partie essentielle même des constructions les plus simples. Mais nous, joueurs de &2&lMinecraft&r n'avons juste pas le temps et la motivation de le faire. \\n\\nAlors pourquoi ne pas laisser des machines le faire pour nous? \\n\\nLes Quarries sont très simples à faire et commencent toutes avec des Block Breakers. Le Simple Block Breaker ne brisera que ce qui est devant lui, pas le plus utile...\\n\\Mais le Advanced Block Breaker minera une zone définie! Bien mieux pour le Terraforming!"]
+	quest.40C068B2B8AC0F33.title: "Mines et Quarries"
+	quest.44688FC2E34FF09F.quest_desc: ["Minecraft ajoute déjà des centaines de Blocs, et les mods en ajoutent des centaines de plus! Mais des fois cela ne suffit pas. \\n\\nAvec certains mods, nous pouvons modifier certains blocs que nous possédons déjà, leurs designs, et même les transformer en de tous nouveaux blocs!"]
+	quest.44688FC2E34FF09F.title: "Modifier les Blocs"
+	quest.48971CE964CF037F.quest_desc: ["Bien que protéger nos Réacteurs Nucléaires soit important et que voir leur contenu garantisse un petit peu de sécurité. \\n\\nLe Verre peut aussi être utilisé pour embellir nos bases! \\n\\nEt franchement, qu'est ce qui est le plus important: la sécurité et la protection de nos réacteurs nucléaires? Ou rendre nos bases plus belles!"]
+	quest.51E77B9CD3FB6DEA.quest_desc: ["Ce n'est pas nécessaire, mais je trouve que ça aide beaucoup. \\n\\nLes Digging Claws augmente le niveau de vos pioches, pour vos mains. Donc vous pouvez miner jusqu'au minerai de fer, avec vos poings! \\n\\nCe qui inclut aussi la pierre, la Terre Cuited et le Béton. Et vous pouvez même miner ces blocs avec ces mêmes blocs dans votre main. \\n\\nHonnetement c'est juste une nécessité."]
+	quest.5716E84828EC0C23.quest_desc: ["Les Plastic Construction Bricks sont des blocs fabriqués avec &l&7PneumaticCraft: Repressurized&r. \\n\\nTout comme dans la vraie vie, il font mal quand on marche dessus! \\n\\nDonc portez des chaussures ou polissez vos briques."]
+	quest.5716E84828EC0C23.title: "Briques de Construction en Plastique"
+	quest.59B6C6BF0550D13D.quest_desc: ["De nouveaux types de Verre peuvent être utilisés avec vos Trains! Ou bases, \\n\\nJe ne peux pas vous les faire utiliser pour un truc en particulier."]
+	quest.59B6C6BF0550D13D.title: "&7Verre de &lRailcraft&r"
+	quest.5AD09CCEEDC0B50F.quest_desc: ["Celles là sont vraiment utiles, vous devriez les essayer! \\n\\nLa source de lumière réelle est la Feral Flare Lantern. Elle placera des sources de lumière invisibles dans les 20 blocs ou plus autour d'elle. \\n\\nla Mega Torch est différente: elle n'émet pas de lumière mais empêche les monstres d'apparaître dans un rayon de 64 blocs autour d'elle! Utile pour les utilisateurs de Vision Nocturne. \\n\\nLa Dread Lamp fait l'inverse, elle empêche l'apparition de monstres passifs autour d'elle."]
+	quest.5AD09CCEEDC0B50F.title: "&l&eTorchmaster&r"
+	quest.5C2B30655A44227F.quest_desc: ["Oh, vous pensiez qu'&5&lEternal Starlight&r vous permettrait d'obtenir tous ses métaux facilement? \\n\\nHA! Ne soyez pas stupide. Vous devrez vaincre des Bosses, creuser la Boue, et trouver des Pluies de Météores!"]
+	quest.5C2B30655A44227F.title: "&5Métaux d'&lEternal Starlight&r"
+	quest.5D5563142917495A.quest_desc: ["&l&eFarmer's Delight&r est un mod d'agriculture et de cuisine d'objets comestibles! On peut aussi utiliser certains objets pour la Décoration! \\n\\nLa Plaque de Cuisson, les Pots, et les Poeles sont parfaits pour une Cuisine. \\n\\nLes tonneaux de nourriture sont parfaits pour une salle de stockage. \\n\\nLes objets de culture sont parfaits pour l'extérieur et les Cabinets sont parfaits partout!"]
+	quest.5D5563142917495A.title: "&l&eFarmer's Delight&r"
+	quest.5EB488C393B084C4.quest_desc: ["Une continuation de &lChiseled&r, &4&lRechiseled&r! \\n\\nTout le mod fonctionne avec le Chisel Tool, Clic Droit avec pour entrer dans son interface. \\nChoisissez le design à gauche et posez le bloc en bas à droite. \\n\\nAu dessus, vous pouvez visualiser le design en patterns: juste 1 Bloc, 3x1 Blocs, ou un mur en 3x3 de ce Bloc. Vous pouvez aussi faire tourner l'image ou non avec un bouton! \\n\\nA côté de là où les blocs vont, vous pouvez cliquer sur le Chisel, ce qui entrera le design choisi et l'appliquera à tous les blocs modifiables dans votre inventaire. \\n\\nEt il n'y a pas de durabilité!"]
+	quest.5EB488C393B084C4.title: "&4&lRechiseled&r"
+	quest.5F7F753FD72BFBBF.quest_desc: ["Plus de blocs ajoutés par &l&7Railcraft&r? Je commence à me demander ce que ce mod a à voir avec des Trains!"]
+	quest.5F7F753FD72BFBBF.title: "&lBlocs Colorés de &7Railcraft&r"
+	quest.61BE7882EE0E6FAF.quest_desc: ["Qu'est-ce qui roule dans les escaliers \\nSeul ou en paires... \\nEcrase le chien du voisin \\nQu'est ce qui est super pour un en-cas \\nEt rentre sur votre dos? \\nC'est Bûche! Bûche! Bûche!"]
+	quest.6258F26293B9C1C1.quest_desc: ["Qu'est ce que &9&lCrystalix&r nous apporte vous demandez? \\nCa apporte du Verre!Tous les types de Verre différents! Il y a le Normal, le Clair et celui avec des Bordures. \\n\\nAvec Bordure est le design standard de &2&lMinecraft&r. Il a des bordure et des pixels près des angles pour vous montrer qu'il y a du Verre. Le Clair a les bordures mais pas les pixels, dans l'intérieur est juste transparent. Et le Normal n'a rien de cela, il est juste transparent et de la couleur choisie. \\n\\nChaque Verre &9&lCrystalix&r a ses propriétés: Shadeless, Reinforced, Light, and Ghost. \\n\\nShadeless affectera s'il réagit aux Shaders et à la lumière de &2&lMinecraft&r. Reinforced affectera sa résistance aux explosions. Light affectera s'il émet de la lumière, l'absorbe ou la laisse passer comme du Verre Vanilla. Ghost affectera si vous pouvez marcher à travers, ce mod a le plus de paramètres."]
+	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
+	quest.6607E5CDB3D17D67.quest_desc: ["Ne vous inquiétez pas, elles ne s'enflammeront pas!"]
+	quest.6607E5CDB3D17D67.title: "&lLaines&bChipped&r"
+	quest.6B0D84B730C6C76C.quest_desc: ["Les 16 couleurs de &2&lMinecraft&r ne suffisent pas? \\n\\nJ'imagine que vous pourriez en avoir 18 de plus! \\n\\n&l&cDy&6en&ea&ami&bcs&r nous donne 18 teintures de plus pour les mêmes usages que les teintures de &2&lMinecraft's&r! \\n\\nVous voulez une Bougie couleur &6Pêche&r? Vous pouvez en avoir! Vous voulez un Shulker &dRose Bonbon&r? Pourquoi pas! Vous voulez un Lit &eFluorescent&r? Bien sûr!"]
+	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
+	quest.6BC78AF7C9D93F11.quest_desc: ["Même les versions vitrées!"]
+	quest.6BC78AF7C9D93F11.title: "&lTerre Cuite &bChipped&r"
+	quest.6F65216B13E9FFA9.quest_desc: ["Prenez un Bloc. N'importe quel Bloc. \\n\\nChaque joueur devrait savoir que les Blocs sont les Blocs de Construction d'une construction. Pour construire quelque chose, vous aurez besoin de blocs."]
+	quest.6F65216B13E9FFA9.title: "Blocs!"
+	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r est très important pour construire! \\nCe n'est pas juste du Verre normal, ils ont des capacités qui peuvent être examinées en mettant la souris au dessus de l'objet! \\n\\nComme l'Ethereal Glass à travers lequel vous pouvez marcher mais les monstres ne peuvent pas. (J'ai utilisé ça pour mon dôme à abeille dans TTSky9!)"]
+	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
+	quest.7C2ED69E07988DF4.quest_desc: ["La chaise &2&lMinecraft&r originelle, les escaliers. \\n\\nBienvenue dans &2&lMinecraft&r moddé, où nous avons bien plus que des escaliers pour la décoration. \\n\\nIl y a des dizaines de mods de décoration et bien plus qui ajoutent des objets qui peuvent être utilisés pôur la décoration!"]
+	quest.7C2ED69E07988DF4.title: "Décoration!"
+	quest.7CF13A4941F608E5.quest_desc: ["Du Verre normal, aux Panneaux de Verre, même jusqu'au Mosaïques!"]
+	quest.7CF13A4941F608E5.title: "&lVerre &bChipped&r"
+	quest.7DA8ACE06DE8097F.quest_desc: ["Le &6Cuivre&r est le minerai le plus abondant dans &2&lMinecraft&r et son usage principal est la décoration. \\n\\nIl y a déjà plein de variantes ajoutées par &2&lMinecraft&r mais &l&bChipped&r n'a pas pensé que ça suffisait! Donc on en a plus! \\n\\nMême les variantes des versions oxydées. \\n\\nVous pouvez faire de faux &aBlocs d'Emeraude&r."]
+	quest.7DA8ACE06DE8097F.title: "&l&6Cuivre &bChipped"
+	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r est un mod très simple. Vous aimez les Lumières Colorées? Vous pouvez avoir des Lumières Colorées. \\n\\nElles viennent de toutes les couleurs, sans texture et sous toutes les formes, même en plaque de pression! \\n\\nElles fonctionnent même avec &l&cDy&6en&ea&ami&bcs&r!"]
+	quest.7DABD82393713B5A.title: "&l&cLuminax"
+	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r est un mod de Magie très fun qui apporte sont lot de nouveaux bois! \\n\\nL'Archwood vient sous 5 formes qui apparaîssent dans la plupart des Biomes et surtout dans leur Biome dédié, l'Archwood Forrest!"]
+	quest.7E49C985A0433B20.title: "&dBûches d'&lArs Nouveau&r"
+	task.0138936FB4DD8A88.title: "Ateliers Chipped"
+	task.022D9FAD58AEE2C8.title: "Blocs de Lumanix"
+	task.064B1841F9288CC3.title: "Blocs"
+	task.06F2EC3901908BF1.title: "Briques de Construction en Plastique"
+	task.074BDA389D0FB989.title: "Cuivre Chipped"
+	task.0BAEC53DD32C9870.title: "Bûches de Productive Trees"
+	task.0D1F556618F008B4.title: "Métaux d'Eternal Starlight"
+	task.0EBE231AB868C868.title: "Blocs"
+	task.0ED255BCB75ECCF1.title: "Verre de Crystalix"
+	task.104E1A4BF3520D67.title: "Verre de Réacteur"
+	task.16EF7FF802D5A2BB.title: "Blocs Framed"
+	task.195338A3977C682E.title: "Blocs de Mystical Agriculture"
+	task.1A66B7FFB4E2163E.title: "Bûches Vanilla"
+	task.1A7078C3984DD910.title: "Blocs de Netherite"
+	task.1E7A57902EA62332.title: "Sources de Lumière"
+	task.225F53F8A0E9E822.title: "Cooking for Blockheads"
+	task.238F4D40E6D9238E.title: "Teintures"
+	task.27BABC4910038807.title: "Pierres Vanilla"
+	task.27DF6EE4B85F1792.title: "Blocs d'AllTheOres"
+	task.2BECEC3EFA8F6DA3.title: "Pierres Chipped"
+	task.2E92D23F149C142D.title: "Métaux Chipped"
+	task.32CB6A7BC1AB644E.title: "Simply Light"
+	task.36E85C17C558F436.title: "Torchmaster"
+	task.389B5B0F35B89FC8.title: "Béton Chipped"
+	task.3BE936F7D054FDDA.title: "Bâtons!"
+	task.3C16167530BEC231.title: "TousDroitsRéservés"
+	task.3C18AB7133946682.title: "Paxels"
+	task.3C4997133CCECBE0.title: "Fait-Main"
+	task.40B245AFD0DAB3A0.title: "Verre de Railcraft"
+	task.41602F0D9097E74F.title: "Terre Cuite Chipped"
+	task.41FF171C7D97B574.title: "Blocs de Gemmes Chipped"
+	task.46803BBAC2069773.title: "Blocs"
+	task.4732C2BE50DB2A80.title: "Teintures Dyenamics"
+	task.484375E0BC0F9177.title: "Constructions de nos amis"
+	task.4B274207A9646FE9.title: "Farmer's Delight"
+	task.4E28970476CABACD.title: "Lumières Chipped"
+	task.50BED71A6677392E.title: "Pierres de Railcraft"
+	task.53A682560123F9B6.title: "Glassential"
+	task.58B9B9D13F4CD1B2.title: "Pierres d'Eternal Starlight"
+	task.5936B8B8EDE0AE55.title: "Métaux et blocs de Gemmes"
+	task.5FB27C61053F7FB5.title: "Lumières d'Ars Nouveau"
+	task.690A9C3BC2417BB9.title: "Métaux de l'Undergarden"
+	task.6AA335ED81844F9F.title: "TousDroitsRéservés"
+	task.6BD970777103D55D.title: "Escaliers"
+	task.6D2E8755BB3463FF.title: "Blocs Colorés de Railcraft"
+	task.70367F545A9CB4D0.title: "Lits"
+	task.712552C459B5BD54.title: "Bois d'Ars Nouveau"
+	task.720CE629EA4E37D0.title: "Bûches Chipped"
+	task.7213278CEE1B25A3.title: "Bûches"
+	task.74CA4DE423248784.title: "Lampes Murales"
+	task.76C92D826994D92B.title: "Verre Chipped"
+	task.773B7F8C77B21B28.title: "Laine Chipped"
+	task.79400615E3A7401D.title: "Building Gadgets"
+	task.7A119F7B40F2D64D.title: "Bûches d'Eternal Starlight"
+}
