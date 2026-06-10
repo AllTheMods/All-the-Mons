@@ -1,33 +1,81 @@
 {
-	quest.08D1CC753F6B4283.title: "Tuer le Gardien Ancien"
-	quest.09C82CDDA800D8C9.title: "Tuer le Wither"
-	quest.0E20A9B79D1C6637.title: "Tuer le Gardien des Profondeurs"
-	quest.0F55D0B4D5094EDB.quest_desc: ["'En créant de nombreuses lignes de quêtes pour l'ATM7, le Villageois Marchand a pensé que ce serait amusant de me pousser constamment dans l'écran de quête.\\n\\nÉliminez-les. Tous.'\\n\\n- AlfredGG"]
-	quest.0F55D0B4D5094EDB.quest_subtitle: "'C'est personnel' - AlfredGG"
-	quest.0F55D0B4D5094EDB.title: "Tuer le Villageois Marchand et ses Ennuyeux Lamas"
-	quest.17F3AC15ADCFB175.quest_subtitle: "Tuer 5 Enderman"
-	quest.17F3AC15ADCFB175.title: "&l&9Prime dans l'End:&r&e Enderman"
-	quest.1F18B64C84C8809D.quest_subtitle: "Tuer 5 Araignées"
-	quest.1F18B64C84C8809D.title: "&l&9Prime dans l'Overworld:&r&e Araignées"
-	quest.2B05A29C62676EB2.quest_subtitle: "Tuer 5 Zombies"
-	quest.2B05A29C62676EB2.title: "&l&9Prime dans l'Overworld:&r&e Zombies"
-	quest.3371F9248D403664.quest_subtitle: "Tuer 5 Wither Squelettes"
-	quest.3371F9248D403664.title: "&l&cPrime dans le Nether:&r&e Wither Squelettes"
-	quest.41C0948CD9D50322.quest_desc: [
-		"Ici, vous trouverez toutes les récompenses que vous pouvez obtenir en tuant des ennemis."
-		""
-		"Cette page est en cours d'élaboration!"
-	]
-	quest.41C0948CD9D50322.quest_subtitle: "Tuer toutes ces choses"
-	quest.42822B1E8A53D051.quest_subtitle: "Tuer 5 Squelettes"
-	quest.42822B1E8A53D051.title: "&l&9Prime dans l'Overworld:&r&e Squelettes"
-	quest.56DA46DC82F6665D.quest_subtitle: "Ce n'est même pas ma forme finale"
-	quest.56DA46DC82F6665D.title: "Tuer la Chimère Wilden"
-	quest.5AC497F76A086A5C.quest_subtitle: "Tuer 5 Sorcières"
-	quest.5AC497F76A086A5C.title: "&l&9Prime dans l'Overworld:&r&e Sorcières"
-	quest.6141DE779232C8AA.quest_subtitle: "Tuer 5 Blazes"
-	quest.6141DE779232C8AA.title: "&l&cPrime dans le Nether:&r&e Blazes"
-	quest.728BE1816DA23DC0.title: "Tuer l'Ender Dragon"
-	quest.77FC692AC94D2EEF.quest_subtitle: "Tuer 5 Creepers"
-	quest.77FC692AC94D2EEF.title: "&l&9Prime dans l'Overworld:&r&e Creepers"
+	quest.08B60D8A25008CCC.quest_desc: ["Cette quête a été écrite par le &6Staff AllTheMods&r, ou un &2Contributeur de la Communauté&r pour être utilisé dans les Modpacks AllTheMods. \\n\\nComme tous les packs &6AllTheMods&r sont sous license &eTous Droits Réservés&r, cette quête ne peut être utilisé dans aucun pack non publié par l'&6Equipe AllTheMods&r sans sa permission explicite. \\n\\nCette quête est intentionellement cachée, si vous voyez ceci, vous êtes en mode Edition."]
+	quest.08D1CC753F6B4283.quest_desc: ["Le Grand Gardien était considéré comme le 3ème Boss de Minecraft avant l'arrivée du Warden, mais je le considère comme un Miniboss. \\n\\nLes Grand Gardiens apparaîssent dans les Monuments des Océans. Ils sont trois et infligeront Fatigue de Minage à tous les joueurs alentours. \\n\\nSi vous convoitez les trésors des Monuments des Océans, vous devrez d'abord les trouver et les vaincre! (Astuce:J'en ai toujours trouvé un dans l'aile gauche, un dans l'aile droite et un dans la salle la plus haute!) \\n\\nIls ont 80 Coeurs et attaquent comme les Gardiens normaux, avec Lasers et Epines! \\n\\nA leur mort, ils laisseront: des Eponges, de la Prismarine, et leur déjeuner..."]
+	quest.08D1CC753F6B4283.title: "Triomphez du Grand Gardien"
+	quest.09C82CDDA800D8C9.quest_desc: ["Le Wither est le deuxième Boss de Minecraft, celui-ci étant plus électif. \\n\\nVous devrez le construire pour le faire apparaître. Placez 4 blocs de Sable des Âmes en T et trois crânes de Squelette du Wither par dessus pour invoquer votre Ennemi! \\n\\nIl a 300 Coeurs et volera tout en tirant des Crânes de Wither vers vous et les êtres vivants alentours. \\n\\nQuand arrivé à la moitié de ses PV, il gagnera un bouclier contre les projectiles vous forçant à finir le travail à la main. \\n\\nUne fois vaincu, il donnera: une Nether Star, peut-être une Withering Soul, et beaucoup de coraux."]
+	quest.09C82CDDA800D8C9.title: "Triomphez du Wither"
+	quest.0E20A9B79D1C6637.quest_desc: ["Le Warden est un Boss ajouté en 1.20. \\n\\nIl apparît quand 3 Hurleurs Sculk apparus naturellement se sont déclenchés en série, ou qu'un Hurleur se déclenche après qu'un premier Warden soit apparu. \\n\\nIl est le monstre le plus puissant jamais ajouté par Minecraft, avec 500 Coeurs et des attaques à plus de 20 Coeurs. \\n\\nSes attaques incluent des frappes et des décharges soniques si vous êtes plus loin. \\n\\nSa seule faiblesse est d'être aveugle, mais comme daredevil, cela a juste rendu ses autres sens bien plus aiguisés! Si vous êtes près, il peut vous sentir, et faites attention à ne faire aucun bruit!\\n\\nSi par un quelconque miracle vous parvenez à le vaincre, il lachera des: Catalystes de Sculk, de la carapace de Warden, et un Coeur des Profondeurs."]
+	quest.0E20A9B79D1C6637.title: "Triomphez du Warden"
+	quest.0F55D0B4D5094EDB.quest_desc: ["En faisant beaucoup des séries de quêtes pour ATM7, le Marchand Ambulant s'est dit que ça serait amusant de me bousculer constamment dans l'écran de quêtes.\\n\\n\"Eliminez les! Tous!\"\\n\\n- AlfredGG \\n\\n\"Je valide!\" \\n\\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "\"C'est personnel\" - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Eliminez le Marchand Ambulant et ses insupportables Lamas"
+	quest.13BB75A7E1973488.quest_desc: ["La Lunar Monstrosity est le premier Boss ajouté par Eternal Starlight. \\n\\nElle vit au milieu du Cursed Garden, bonne chance pour la trouver et la vaincre!"]
+	quest.13BB75A7E1973488.title: "Triomphez de la Lunar Monstrosity"
+	quest.17F3AC15ADCFB175.title: "&l&9Prime de l'End:&r&e Endermen"
+	quest.199932BF623A6785.quest_desc: ["Le Forgotten Guardian est le Boss de l'Undergarden. \\n\\nIl repose dans les structures de Catacombes."]
+	quest.199932BF623A6785.title: "Triomphez du Forgotten Guardian"
+	quest.1F18B64C84C8809D.title: "&l&9Prime de l'Overworld:&r&e Araignées"
+	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers est un mod qui ajoute diverses variantes de Creepers dans différents Biomes. \\n\\nChacune lache des objets différents en mourrant et certaines sont même pacifiques! \\n\\nToutes ont peur des chats cependant..."]
+	quest.1F31EBF49079F9D3.title: "Variantes de Creepers"
+	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zombies"
+	quest.2BD077EFE77B8EBB.quest_desc: ["Les Zombies ont différentes variantes qui apparaîssent dans divers Biomes. \\n\\nLes Momifiés- apparaîssent dans les Déserts. \\nLes noyés- apparaîssent sous l'eau. \\nLes Gelid- apparaîssent dans les Biomes Froids. \\nLes Thickets- apparaîssent dans les Jungles."]
+	quest.2BD077EFE77B8EBB.title: "Variantes de Zombies"
+	quest.2CA9394459C24012.quest_desc: ["Les Rotbeasts sont des Minibosses qui apparaîssent partout dans l'Undergarden."]
+	quest.2CA9394459C24012.title: "Vainquez une Rotbeast"
+	quest.3813F5C1760C3A79.quest_desc: ["Le fait que les Piglin Barbares soient là peut être controversé mais je les cosidère comme des Minibosses. \\n\\nIls apparaîssent dans les Bastions avec les Piglins normaux mais sont Hostiles et non Neutres. Personnellement, je déteste ça, en particuliez parce que si vous les frappez, tous les Piglins deviennent hostiles envers vous. \\n\\nIls ont 50 Coeurs et une hache d'Or pour vous attaquer. Habituellement, les Haches d'Or ne font que très peu de dégâts, mais quand c'est eux qui l'utilisent, elles font des dégâts absurdes! \\n\\nQuand tués, ils ne lachent rien et sont surtout un obstacle dans les Bastions!"]
+	quest.3813F5C1760C3A79.title: "Vainquez un Piglin Barbare"
+	quest.41C0948CD9D50322.quest_desc: ["Vous trouverez ici toutes les récompenses que vous pouvez obtenir pour avoir défait vos ennemis."]
+	quest.41C0948CD9D50322.quest_subtitle: "Vaincre vos Ennemis"
+	quest.41C0948CD9D50322.title: "Tableau des Primes"
+	quest.42822B1E8A53D051.title: "&l&9Prime de l'Overworld:&r&e Squelettes"
+	quest.56DA46DC82F6665D.quest_desc: ["la Chimère Wilden est un boss ajouté par Ars Nouveau que vous devez défaire pour progresser dans le mod. \\n\\nElle doit être invoquée au travers d'un rituel puis être vaincue!"]
+	quest.56DA46DC82F6665D.title: "Triomphez de la Chimère Wilden"
+	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen est un mod similaire à Overhauled Creepers... Avec des Endermen! \\n\\nVous trouverez ces Endermen dans divers Biomes et chaque variante est unique à sa manière! Certaines ont différentes attaques, d'autres, différentes Perles, et elles ont toutes l'air différentes!"]
+	quest.570223A03231DF8C.title: "Variantes d'Endermen"
+	quest.5AC497F76A086A5C.title: "&l&9Prime de l'Overworld:&r&e Sorcières"
+	quest.6141DE779232C8AA.title: "&l&cPrime du Nether:&r&e Blazes"
+	quest.6827836C8E675A94.quest_desc: ["Les Squelettes ont des variantes, comme les Zombies! \\n\\nLes Errants- qui apparaîssent dans les Biomes Froids. \\nLes Embourbés- qui apparaîssent dans les Marais et les Chambres d'Epreuves. \\nLes Murks- qui apparaîssent sous l'eaux, dans les Récifs Coralliens. \\nLes Verdants- qui apparaîssent dans les Jungles."]
+	quest.6827836C8E675A94.title: "Variantes de Squelettes"
+	quest.6DCDD55786025911.quest_desc: ["Le Starlight Golem est le deuxième Boss d'Eternal Starlight. \\n\\nIl se recharge dans la Golem Forge en attendant un adversaire!"]
+	quest.6DCDD55786025911.title: "Triomphez du Starlight Golem"
+	quest.728BE1816DA23DC0.quest_desc: ["L'Ender Dragon est le Boss qui garde l'End. \\n\\nEn passant à travers le Portail de l'End, vous arriverez à l'Ile de l'End où elle apparaît. \\n\\nElle a 200 Coeurs et peut vous lancer des Boules de Feu et vous charger. \\n\\nVous devrez briser les Cristaux de l'End placés aux sommets des piliers, pour pouvoir la tuer, car ils la soignent! \\n\\nUne fois vaincue, elle laissera derrière elle: des Arcane Essence, des Epic Shaderbags, des Dragonskin, des Dragon Scales de deux mods différents, et beaucoup d'expérience! \\n\\nLe Portail s'ouvrira alors pour vous permettre de retourner dans l'Overworld, ainsi qu'une Porte de l'End pour partir explorer d'autres Iles. Vous pourrez aussi trouver l'Oeuf de Dragon sur le Portail."]
+	quest.728BE1816DA23DC0.title: "Triomphez de l'Ender Dragon"
+	quest.734411D931A8CDBF.quest_desc: ["Le Ravageur est un Miniboss qui n'apparaît que dans les Invasions. \\n\\nSi vous ne savez pas ce qu'est une Invasion ou comment elles fonctionnent aujourd'hui, tout va bien, c'est à ça que servent ces quêtes! \\n\\nEn tuant des Capitaines d'Invasion (les Illageois avec des bannières) vous pouvez obtenir des fioles funestes, en les buvant, vous obtiendrez l'effet "Mauvais Présage". Vous pourrez alors marcher aux alentours d'un village ce qui déclenchera une Invasion. \\n\\nLes Raids feront apparaître des Pillards, des Evocateurs, des Sorcières, des Ravageurs et des Vindicateurs que vous devrez affronter!"]
+	quest.734411D931A8CDBF.title: "Vainquez un Ravageur"
+	quest.77FC692AC94D2EEF.title: "&l&9Prime de l'Overworld:&r&e Creepers"
+	task.00CBF98DE4E9CC90.title: "Tous Droits Réservés"
+	task.171FD27057746E80.title: "Tuez 1 Wither"
+	task.1809F1F9A3043683.title: "Tuez 1 Ender Dragon"
+	task.1D136D138EF82DA9.title: "Tuez 2 Lamas de Marchand"
+	task.2F28B803C75DA3B2.title: "Tuez 1 Grand Gardien"
+	task.452B65E139D9E12D.title: "Tuez 1 Chimère Wilden"
+	task.596ABB45C0612AAF.title: "Tuez 1 Marchand Ambulant"
+	task.65E53C9C5AE98B69.title: "TousDroitsRéservés"
+	task.69678CAC075C8EA5.title: "Tuez 1 Warden"
+	quest.7D5B36BF3EC0C93F.title: "Eliminez: 100x Zombies"
+	quest.76A29816F19E33A2.title: "Eliminez: 50x Creepers"
+	quest.738E94C4CFB05D11.title: "Eliminez: 10x Wither Squelettes"
+	quest.6E4FD0B568BEB3F9.title: "Eliminez: 10x Sorcières"
+	quest.6F93A02E620C69FE.title: "Eliminez: 100x Sorcières"
+	quest.6C9BC3A699E57162.title: "Eliminez: 50x Blazes"
+	quest.63A1F25DF658928A.title: "Eliminez: 50x Araignées"
+	quest.65BBA5C0DAEEC31F.title: "Eliminez: 10x Creepers"
+	quest.65CE9117B923C0DB.title: "Eliminez: 50x Wither Squelettes"
+	quest.5FCA4FF8C135435E.title: "Eliminez: 100x Creepers"
+	quest.4F48A4839B549C92.title: "Eliminez: 10x Blazes"
+	quest.555957ED58ABF8F8.title: "Eliminez: 100x Squelettes"
+	quest.444ACE285311ECB4.title: "Eliminez: 10x Zombies"
+	quest.4748831E75A840BE.title: "Eliminez: 10x Squelettes"
+	quest.479A4E778D8D7317.title: "Eliminez: 100x Endermen"
+	quest.410E0DD607CB3469.title: "Eliminez: 50x Squelettes"
+	quest.35CC1F1DA9530688.title: "Eliminez: 100x Blazes"
+	quest.2CA9394459C24012.title: "Vainquez une Rotbeast"
+	quest.2D136FCDA92C92AC.title: "Eliminez: 50x Sorcières"
+	quest.2D7E335B9D780E70.title: "Eliminez: 100x Araignées"
+	quest.283CA6DB77D5D2EB.title: "Eliminez: 10x Araignées"
+	quest.2916F873A4DA84E8.title: "Eliminez: 10x Endermen"
+	quest.2AAF57D1D8AB6BF8.title: "Eliminez: 50x Endermen"
+	quest.180B3AFF8C552F3F.title: "Eliminez: 100x Wither Squelettes"
+	quest.146232B8504789C1.title: "Eliminez: 50x Zombies"
+	quest.3371F9248D403664.title: "&l&cPrime du Nether:&r&e Wither Squelettes"
 }
