@@ -1,0 +1,46 @@
+{
+	quest.19188EA560161CCF.quest_desc: ["&8Seixo&r é um recurso importante, então obviamente precisamos de uma forma de cultivá-lo. \\n\\nAqui podemos dar a Pokémon do tipo &7Aço&r um trabalho para cultivá-lo. \\n\\nQuando &8Seixo Preto&r é colocado próximo a &cLava&r ou &cMagma&r, ele crescerá como &5Ametista&r. &cPokémon&r do tipo &7Aço&r em um &6Pasto&r colherão &8Seixo Preto&r totalmente maduro."]
+	quest.19188EA560161CCF.title: "Mineração Auto. de &8Seixos&r"
+	quest.1F0DC2F7794A0288.quest_desc: ["Você realmente sente tanta falta das &2Monstros Passivos&r? \\n\\nBem, acho que você pode precisar delas para certas coisas. Certo, pode tê-las de volta. \\n\\nPor um preço no Mercado! \\n\\nBem-vindo(a) ao mundo real! Nada é de graça, AHAHAHAHA!!!"]
+	quest.1F0DC2F7794A0288.title: "Criaturas &2&lVanilla&r"
+	quest.211AE5F590087251.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &cFogo&r o encherão com &cLava&r a cada 90 segundos."]
+	quest.211AE5F590087251.title: "&cLava grátis"
+	quest.27CD92EF07EAE50A.quest_desc: ["&cFogo&r não é mais um risco para nossas bases se tivermos tipos &bÁgua&r prontos! \\n\\nEm um &6Pasto&r, tipos &bÁgua&r extinguirão &cFogo&r. \\n\\nNão tenho certeza do quanto isso é útil... mas é bem legal!"]
+	quest.27CD92EF07EAE50A.title: "Combate a incêndios?"
+	quest.28F136444E69CA08.quest_desc: ["Se você ainda faz &dPoções&r com &dSuportes de Poções&r (por algum motivo), pode usar tipos &9Dragão&r para adicionar &cPó de Blaze&r extra! \\n\\nA cada 80 segundos, eles adicionarão o equivalente a 2 &cPó de Blaze&r a um &dSuporte de Poções&r."]
+	quest.28F136444E69CA08.title: "Abastecimento de &dSuporte de Poções&r"
+	quest.29C5E1F7ECDE3D14.quest_desc: ["Sempre existem outras formas de obter itens largados... formas nem tão éticas. \\n\\nQuando Pokémon são derrotados em batalha, seja contra um Pokémon ou um jogador (ou seja, matá-los), eles largarão itens. \\n\\nCada Pokémon tem itens largados diferentes; você pode vê-los e até filtrá-los na Pokédex."]
+	quest.29C5E1F7ECDE3D14.title: "Cultivo antiético..."
+	quest.2B75BBE79045C25A.quest_desc: ["Tipos &2Grama&r continuam provando seu valor, eles também podem cultivar Frutas!"]
+	quest.2B75BBE79045C25A.title: "Cuidado com Frutas"
+	quest.2F28B8949C088C00.quest_desc: ["Funis de Ender muito caros? Por que não usar &cPokémon&r mágicos! \\n\\n&cPokémon&r &dPsíquico&r podem pegar itens do chão e colocá-los em inventários. \\n\\nExceto que tenho quase certeza de que eles usam as mãos, o que me deixa confuso sobre por que qualquer &cPokémon&r não pode simplesmente fazer isso!"]
+	quest.2F28B8949C088C00.title: "Coleta de itens"
+	quest.41FC412D91C6A8F0.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &Água&r o encherão com &bÁgua&r a cada 90 segundos."]
+	quest.41FC412D91C6A8F0.title: "&bÁgua grátis"
+	quest.4519A9C7A77C5398.quest_desc: ["Chega de vacas... mas temos &cPokémon&r que parecem vacas! \\n\\nUse um balde em um Miltank e você conseguirá um pouco de leite. \\n\\nNão sei se eu beberia... mas é a única opção aqui para leite."]
+	quest.4519A9C7A77C5398.title: "Eca, &cPoké&fLeite"
+	quest.47C13756D74186F2.quest_desc: ["Aqui no &l&cAll&7The&fMons&r fazemos as coisas de um jeito um pouco diferente. \\n\\nVocê pode notar a falta de criaturas &2passivas&r como ovelhas, galinhas e vacas. \\n\\nSim, elas foram substituídas por &cPokémon&r! \\n\\nTambém temos outro mod chamado &c&lCobble&fWorkers&r, isso dá aos nossos &cPokémon&r ainda mais opções de cultivo."]
+	quest.47C13756D74186F2.title: "CobbleWorkers e PokéCultivo"
+	quest.4D3800272EF65A37.quest_desc: ["&5Ametista&r pode ser cultivada com máquinas complexas de Redstone... \\n\\nOu apenas com tipos &6Pedra&r em um &6Pasto&r!"]
+	quest.4D3800272EF65A37.title: "Colheita auto. de &5Ametista&r"
+	quest.503012CEA79A0328.quest_desc: ["Não se preocupe, existem formas éticas de conseguir ovos! \\n\\nAlguns &cPokémon&r que parecem pássaros colocarão ovos aleatoriamente enquanto estiverem em um &6Pasto&r. \\n\\n&cPokémon&r como Pidgey! \\n\\nVocê vai querer um &cPokémon&r &dPsíquico&r com eles para pegar e armazenar os ovos ou usar um funil, porque eles apenas os jogarão por aí aleatoriamente."]
+	quest.503012CEA79A0328.title: "Ovos &2&lVanilla&r"
+	quest.5FAF3153F0D7F9DC.quest_desc: ["Uma das únicas plantações únicas no &2&lMinecraft Vanilla&r. \\n\\nSe você quiser que seja cultivado com &cPokémon&r, precisará de um tipo &5Fantasma&r para fazer isso. \\n\\nTalvez os outros &cPokémon&r estejam com medo demais de pegar, já que você tem fantasmas literais fazendo isso."]
+	quest.5FAF3153F0D7F9DC.title: "&4Fungo do Nether"
+	quest.616E5709D0008953.quest_desc: ["Existem alguns &cPokémon&r que parecem ovelhas. \\n\\nWooloo, Dubwool e &eMareep&r podem ser tosquiados para obter sua lã. \\n\\nComo as ovelhas, eles também podem comer &2grama&r para fazer a lã crescer novamente. \\n\\nAlém disso, eles podem ser tingidos!"]
+	quest.616E5709D0008953.title: "Tosquiando &cPokémon"
+	quest.6C1B33D7DC8E9574.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &bGelo&r o encherão com neve em pó a cada 90 segundos."]
+	quest.6C1B33D7DC8E9574.title: "Neve grátis"
+	quest.6E0983AFA6D23A06.quest_desc: ["Agora finalmente sabemos por que os &cPokémon&r se escondem na grama alta: eles estão cultivando plantações! \\n\\nTipos &2Grama&r podem colher e replantar sementes automaticamente. \\n\\nNão tenho certeza de quais plantações podem ou não ser colhidas... parece que você terá que descobrir por conta própria."]
+	quest.6E0983AFA6D23A06.title: "Agricultores &cPoké&f"
+	quest.6F6EFA2631EFC35F.quest_desc: ["&cPokémon&r &aInseto&r podem colher &6Bolotas&r maduras das árvores. \\n\\nSomente se conseguirem alcançá-las e apenas &6Bolotas&r normais. &6Bolotas de Allthemodium&r não podem ser colhidas por &cPokémon&r."]
+	quest.6F6EFA2631EFC35F.title: "Colheita de &6Bolotas&r"
+	quest.70A03755ACCD7163.quest_desc: ["Mentas são itens úteis (e difíceis de encontrar) em &c&lCobble&fmon&r. \\n\\nCultivá-las automaticamente é bem estranho, então por que não usar tipos &dFada&r!"]
+	quest.70A03755ACCD7163.title: "Cultivo de Mentas"
+	quest.76EA1F7B05A315B4.quest_desc: ["Cansado de abastecer constantemente suas &cFornalhas&r? \\n\\nEntão, leve seu &cPokémon do tipo Fogo&r para o &6Pasto&r e eles darão o equivalente a um &0Bloco de Carvão&r, entrando em espera pelo mesmo tempo."]
+	quest.76EA1F7B05A315B4.title: "Abastecimento de &cFornalhas&r"
+	task.02B912D44C5ABB86.title: "Frutas"
+	task.0409B0E69C451C08.title: "Bolotas"
+	task.0CA978DAF9AB1C1A.title: "Mentas"
+	task.0FF5DC05DE332A95.title: "Pokédex"
+}
