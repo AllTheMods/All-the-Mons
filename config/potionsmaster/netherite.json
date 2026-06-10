@@ -1,0 +1,8 @@
+{
+    "entryname": "netherite_scrap",
+    "oretag": "c:ores/netherite_scrap",
+    "color": -23296,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "minecraft:netherite_scrap"
+}

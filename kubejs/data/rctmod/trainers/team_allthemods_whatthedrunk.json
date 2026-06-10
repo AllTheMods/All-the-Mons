@@ -1,0 +1,190 @@
+{
+  "name": "Whatthedrunk",
+  "identity": "Whatthedrunk",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "slowpoke",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "bold",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "slowbro",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "psychic",
+        "calmmind",
+        "slackoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "mega_showdown:slowbronite",
+        "leftovers"
+      ]
+    },
+    {
+      "species": "slowbro",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "sludgebomb",
+        "psyshock",
+        "icebeam",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spa": 252
+      },
+      "heldItem": [
+        "choice_specs"
+      ],
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "slowking",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "careful",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "trumpcard",
+        "psychup",
+        "healpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252
+      }
+    },
+    {
+      "species": "slowking",
+      "gender": "FEMALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "owntempo",
+      "moveset": [
+        "nastyplot",
+        "swagger",
+        "psychic",
+        "trumpcard"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252
+      }
+    },
+    {
+      "species": "mewtwo",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "psystrike",
+        "fireblast",
+        "icebeam",
+        "recover"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 0,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spe": 4,
+        "spa": 252
+      }
+    }
+  ]
+}

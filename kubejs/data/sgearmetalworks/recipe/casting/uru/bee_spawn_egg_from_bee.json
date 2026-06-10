@@ -1,0 +1,44 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "productivelib:lazy",
+      "value": {
+        "type": "productivebees:bee_exists",
+        "bee": "productivebees:spirited_crystal"
+      }
+    },
+    {
+      "type": "productivelib:lazy",
+      "value": {
+        "type": "productivebees:bee_exists",
+        "bee": "productivebees:uru_metal"
+      }
+    }
+  ],
+  "type": "productivemetalworks:item_casting",
+  "cast": {
+    "type": "productivebees:component",
+    "components": {
+      "minecraft:entity_data": {
+        "type": "productivebees:spirited_crystal",
+        "id": "productivebees:configurable_bee"
+      }
+    },
+    "items": "productivebees:spawn_egg_configurable_bee"
+  },
+  "consume_cast": true,
+  "fluid": {
+    "amount": 810,
+    "tag": "c:molten_uru_metal"
+  },
+  "result": {
+    "components": {
+      "minecraft:entity_data": {
+        "type": "productivebees:uru_metal",
+        "id": "productivebees:configurable_bee"
+      }
+    },
+    "count": 1,
+    "id": "productivebees:spawn_egg_configurable_bee"
+  }
+}

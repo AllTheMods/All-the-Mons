@@ -1,0 +1,197 @@
+{
+  "name": "Uncandango",
+  "identity": "Uncandango",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonclaw",
+        "aerialace",
+        "brickbreak",
+        "rockslide"
+      ],
+      "ivs": {
+        "hp": 16,
+        "atk": 31,
+        "def": 28,
+        "spa": 7,
+        "spd": 28,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 6,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_band"
+      ]
+    },
+    {
+      "species": "espeon",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "hiddenpower",
+        "psychic",
+        "morningsun",
+        "signalbeam"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 10,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 4,
+        "atk": 2,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "superpower",
+        "fireblast",
+        "hiddenpower",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 30,
+        "spe": 30
+      },
+      "evs": {
+        "atk": 194,
+        "spa": 252,
+        "spe": 64
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "charizard",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "blaze",
+      "moveset": [
+        "substitute",
+        "fireblast",
+        "hiddenpower",
+        "ancientpower"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 12,
+        "def": 21,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 2,
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "swordsdance",
+        "rockslide",
+        "megahorn",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 28,
+        "spa": 7,
+        "spd": 29,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "earthquake",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "hp": 252
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    }
+  ]
+}

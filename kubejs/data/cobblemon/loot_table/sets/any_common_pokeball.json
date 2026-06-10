@@ -1,0 +1,76 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+            },
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:blank_ball_lid",
+                    "weight": 70
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:poke_ball",
+                    "weight": 40
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:red_ball_lid",
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:green_ball_lid",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:blue_ball_lid",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:yellow_ball_lid",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:white_ball_lid",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:black_ball_lid",
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:pink_ball_lid",
+                    "weight": 5
+                },
+				{
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:copper_ball_mechanism",
+                    "weight": 30
+                },
+				{
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:iron_ball_mechanism",
+                    "weight": 15
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "createmonballsoverhaul:brass_ball_mechanism",
+                    "weight": 7
+                }
+            ]
+        }
+    ],
+    "random_sequence": "cobblemon:sets/common_any_pokeball"
+}

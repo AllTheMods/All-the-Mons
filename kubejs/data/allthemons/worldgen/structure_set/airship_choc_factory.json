@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:airship_choc_factory",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 30084232,
+    "spacing": 104,
+    "separation": 88
+  }
+}

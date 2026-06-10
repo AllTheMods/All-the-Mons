@@ -1,0 +1,157 @@
+{
+  "name": "Helix Ranmaru",
+  "identity": "Helix Ranmaru",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+     {
+      "species": "pachirisu",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "glaceon",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "slushrush",
+      "moveset": [
+        "blizzard",
+        "earthpower",
+        "freezedry",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_specs"
+      ]
+    },
+    {
+      "species": "vibrava",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "earthquake",
+        "superpower",
+        "crunch"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "dragonair",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "thunderwave",
+        "outrage"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "hasty",
+      "ability": "sturdy",
+      "moveset": [
+        "strength",
+        "rocksmash",
+        "rockclimb",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "slash",
+        "shadowforce",
+        "earthpower",
+        "healblock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 244,
+        "atk": 12,
+        "spa": 252
+      },
+      "heldItem": [
+        "mega_showdown:griseous_orb",
+        "life_orb"
+      ],
+      "aspects": [
+        "origin"
+      ]
+    }
+  ]
+}

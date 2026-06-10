@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:bucketst_gym",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 466123,
+    "spacing": 90,
+    "separation": 70
+  }
+}

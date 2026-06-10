@@ -1,0 +1,183 @@
+{
+  "name": "LobsterJonn",
+  "identity": "LobsterJonn",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    },
+    {
+      "item": "cobblemon:revival_herb",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "combee",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "bashful",
+      "ability": "honeygather",
+      "moveset": [
+        "sweetscent",
+        "terablast",
+        "strugglebug",
+        "bugbite"
+      ],
+      "ivs": {},
+      "evs": {}
+    },
+    {
+      "species": "cutiefly",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "sweetscent",
+        "bugbuzz",
+        "dazzlinggleam",
+        "aromatherapy"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "def": 252,
+        "spd": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "ribombee",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "shielddust",
+      "moveset": [
+        "moonblast",
+        "reflect",
+        "lightscreen",
+        "stickyweb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "vespiquen",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "unnerve",
+      "moveset": [
+        "powergem",
+        "attackorder",
+        "aerialace",
+        "defendorder"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252
+      },
+      "heldItem": [
+        "sitrus_berry"
+      ]
+    },
+        {
+      "species": "beedrill",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "uturn",
+        "drillrun",
+        "poisonjab",
+        "pursuit"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:beedrillite",
+        "life_orb"
+      ]
+    },
+    {
+      "species": "crawdaunt",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "dragondance",
+        "crabhammer",
+        "knockoff",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:futuristic_steelworks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 456138,
+    "spacing": 98,
+    "separation": 82
+  }
+}

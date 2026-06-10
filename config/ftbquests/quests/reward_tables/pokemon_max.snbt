@@ -1,0 +1,19 @@
+{
+	id: "48E12813837504D5"
+	loot_size: 1
+	order_index: 50
+	rewards: [
+		{ id: "0C105798FDC2B7A0", item: { count: 1, id: "cobblemon:red_mint_leaf" } }
+		{ id: "495680553DD6387F", item: { count: 1, id: "cobblemon:blue_mint_leaf" } }
+		{ id: "7AD3C3D82511B915", item: { count: 1, id: "cobblemon:cyan_mint_leaf" } }
+		{ id: "2B0C476BC5813972", item: { count: 1, id: "cobblemon:pink_mint_leaf" } }
+		{ id: "6131AC1D7C2B9ED6", item: { count: 1, id: "cobblemon:green_mint_leaf" } }
+		{ id: "7C625AC13E5E83D3", item: { count: 1, id: "cobblemon:white_mint_leaf" } }
+		{ id: "3C8A86CB6AA297AF", item: { count: 1, id: "cobblemon:max_revive" } }
+		{ id: "67834B9B3F918B7E", item: { count: 1, id: "cobblemon:max_potion" } }
+		{ id: "00710109FE485577", item: { count: 1, id: "cobblemon:max_ether" } }
+		{ id: "79CEF2CAFFB1AB89", item: { count: 1, id: "cobblemon:max_elixir" } }
+		{ id: "6A31CF90E269F188", item: { count: 1, id: "cobblemon:pp_max" } }
+		{ id: "3AD53F11C5052E61", item: { count: 1, id: "cobblemon:ultra_ball" } }
+	]
+}

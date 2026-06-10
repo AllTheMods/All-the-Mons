@@ -1,0 +1,174 @@
+{
+  "name": "Satherov",
+  "identity": "Satherov",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+     {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "surf",
+        "hurricane",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "electivire",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "spark",
+        "wildcharge",
+        "thunderpunch",
+        "playrough"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "expert_belt"
+      ]
+    },
+    {
+      "species": "cinderace",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "protean",
+      "moveset": [
+        "pyroball",
+        "firepledge",
+        "doublekick",
+        "blastburn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+     {
+      "species": "pikachu",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "thunder",
+        "toxic",
+        "irontail",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "eevee",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "toxic",
+        "synchronoise",
+        "lastresort",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {}
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "dragonrage",
+        "flareblitz",
+        "dragonpulse",
+        "fireblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:charizardite_y",
+        "life_orb"
+      ]
+    }
+  ]
+}

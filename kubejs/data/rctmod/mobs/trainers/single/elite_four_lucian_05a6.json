@@ -1,0 +1,25 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_nether"
+  ],
+  "biomeTagWhitelist": [
+    "is_spooky",
+    "is_sparse_vegetation",
+    "has_structure/end_city"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "elite_four_flint_05a5"
+    ]
+  ],
+  "series": [
+    "bdsp"
+  ],
+  "spawnWeightFactor": 0.25,
+  "type": "normal"
+}

@@ -1,0 +1,8 @@
+{
+    "entryname": "uranium",
+    "oretag": "c:ores/uranium",
+    "color": -8460424,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "alltheores:raw_uranium"
+}

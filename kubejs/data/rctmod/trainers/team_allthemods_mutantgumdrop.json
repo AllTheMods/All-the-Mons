@@ -1,0 +1,199 @@
+{
+  "name": "MutantGumdrop",
+  "identity": "MutantGumdrop",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "landorus",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "superpower",
+        "rockslide",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "aspects": [
+        "therian"
+      ]
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "dragonpulse",
+        "solarbeam",
+        "focusblast",
+        "fireblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:charizardite_y",
+        "life_orb"
+      ]
+    },
+    {
+      "species": "azumarill",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "aquajet",
+        "superpower",
+        "playrough",
+        "waterfall"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 8
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    },
+    {
+      "species": "gengar",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "psychic",
+        "confuseray",
+        "hypnosis"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "psychic",
+        "aurasphere",
+        "thunderbolt",
+        "calmmind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "ferrothorn",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "moveset": [
+        "stealthrock",
+        "gyroball",
+        "leechseed",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 248,
+        "def": 252,
+        "atk": 8
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    }
+  ]
+}

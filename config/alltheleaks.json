@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "ingredientDedupe": true,
+  "entitySectionCME": false,
+  "debugItemStackModifications": false,
+  "scoreboardDebug": false,
+  "debugNativeImage": false,
+  "disableEternalStarlightProgress": false,
+  "skipTickingUnloadedFluxNetworks": true
+}

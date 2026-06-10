@@ -1,0 +1,46 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "greavard-1",
+      "pokemon": "greavard",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "3-33",
+      "weight": 10,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "terralith:haunted_forest",
+          "terralith:haunted_mire",
+          "regions_unexplored:haunted_forest"
+        ],
+        "timeRange": "night"
+      }
+    },
+    {
+      "id": "greavard-2",
+      "pokemon": "greavard",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "3-33",
+      "weight": 10,
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "minecraft:basalt_deltas"
+        ]
+      }
+    }
+  ]
+}

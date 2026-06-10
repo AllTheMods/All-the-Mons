@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:steves_staycation",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 15042116,
+    "spacing": 108,
+    "separation": 92
+  }
+}

@@ -1,0 +1,45 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "intro"
+	group: "21FB9D458E942C6D"
+	icon: {
+		id: "rctmod:trainer_card"
+	}
+	id: "479D424D5BCA1EDA"
+	images: [{
+		click: "https://srcmc.gitlab.io/rct/docs/0.16/gameplay/progression/"
+		height: 1.0d
+		hover: ["Online Guide"]
+		image: "minecraft:item/writable_book"
+		rotation: 0.0d
+		width: 1.0d
+		x: 1.0d
+		y: 4.5d
+	}]
+	order_index: 0
+	quest_links: [{
+		id: "444ABA990EC3F29B"
+		linked_quest: "269D24B28FA92DF8"
+		x: 1.0d
+		y: 2.5d
+	}]
+	quests: [{
+		id: "1DAEB18081B4F22B"
+		invisible: true
+		optional: true
+		shape: "circle"
+		tasks: [
+			{
+				id: "304D934EA294735D"
+				type: "checkmark"
+			}
+			{
+				id: "7555D68F63A0C8CF"
+				type: "checkmark"
+			}
+		]
+		x: 1.0d
+		y: 1.5d
+	}]
+}

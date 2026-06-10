@@ -1,0 +1,184 @@
+{
+  "name": "Toshiba Microwave",
+  "identity": "Toshiba Microwave",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "liquidation",
+        "earthquake",
+        "icepunch",
+        "poweruppunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:swampertite",
+        "leftovers"
+      ]
+    },
+    {
+      "species": "lucario",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "nastyplot",
+        "aurasphere",
+        "vacuumwave",
+        "flashcannon"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:lucarionite",
+        "life_orb"
+      ]
+    },
+    {
+      "species": "groudon",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "careful",
+      "ability": "drought",
+      "moveset": [
+        "firepunch",
+        "precipiceblades",
+        "thunderwave",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "spd": 252
+      },
+      "heldItem": [
+        "mega_showdown:red_orb"
+      ],
+      "aspects": [
+        "primal"
+      ]
+    },
+    {
+      "species": "magnezone",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "hiddenpower",
+        "magnetrise"
+      ],
+      "ivs": {
+        "hp": 30,
+        "atk": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 6
+      },
+      "heldItem": [
+        "weakness_policy"
+      ]
+    },
+    {
+      "species": "lairon",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "magnitude",
+        "metalclaw",
+        "irondefense",
+        "roar"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "piplup",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "growl"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    }
+  ]
+}

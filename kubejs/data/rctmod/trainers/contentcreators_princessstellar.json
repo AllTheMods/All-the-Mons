@@ -1,0 +1,156 @@
+{
+  "name": "PrincessStellar",
+  "identity": "PrincessStellar",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "toxapex",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "recover",
+        "haze",
+        "toxicspikes"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "black_sludge",
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "dragapult",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "shadowball",
+        "dracometeor",
+        "flamethrower",
+        "uturn"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_specs",
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "corviknight",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "roost",
+        "defog",
+        "bodypress",
+        "uturn"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "excadrill",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "rapidspin",
+        "stealthrock"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "heavy_duty_boots",
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "rotom",
+      "aspects": [
+        "wash"
+      ],
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "voltswitch",
+        "willowisp",
+        "painsplit"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "aegislash",
+      "nature": "quiet",
+      "ability": "stancechange",
+      "moveset": [
+        "shadowball",
+        "flashcannon",
+        "shadowsneak",
+        "kingsshield"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 0,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "gender": "FEMALE",
+      "level": 100
+    }
+  ]
+}

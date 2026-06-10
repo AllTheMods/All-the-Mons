@@ -1,0 +1,195 @@
+{
+  "name": "CesarZorak",
+  "identity": "CesarZorak",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "earthquake",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "hp": 252
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    },
+    {
+      "species": "gastly",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "sludgebomb",
+        "shadowball",
+        "dazzlinggleam",
+        "substitute"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 236,
+        "hp": 36,
+        "spe": 236
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "mew",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "willowisp",
+        "taunt",
+        "roost",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spe": 252,
+        "def": 4
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    },
+    {
+      "species": "ceruledge",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "swordsdance",
+        "bitterblade",
+        "shadowsneak",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "heavy_duty_boots"
+      ]
+    },
+    {
+      "species": "omastar",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "weakarmor",
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "icebeam",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "white_herb"
+      ]
+    },
+    {
+      "species": "blaziken",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": [
+        "swordsdance",
+        "flareblitz",
+        "closecombat",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spe": 252,
+        "spd": 4,
+        "atk": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }
+  ]
+}

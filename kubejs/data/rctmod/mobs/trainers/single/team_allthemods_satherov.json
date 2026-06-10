@@ -1,0 +1,22 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void"
+  ],
+  "biomeTagWhitelist": [
+    "allthemodium:other_biomes"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+	  "team_allthemods_rosary"
+    ]
+  ],
+  "series": [
+   "atm_team"
+  ],
+  "spawnWeightFactor": 0,
+  "type": "team_allthemods_elite_gym"
+}

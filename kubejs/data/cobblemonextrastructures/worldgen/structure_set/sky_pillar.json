@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "cobblemonextrastructures:sky_pillar",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 321110,
+    "spacing": 300,
+    "separation": 250
+  }
+}

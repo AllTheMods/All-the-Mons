@@ -1,0 +1,60 @@
+{
+	// Moves that spawn angry_villager particle around the pokemon
+	"self_angry_moves": [
+		"partingshot",
+		"lashout",
+		"ragingfury",
+		"thrash",
+		"outrage",
+		"temperflare"
+	],
+	// Moves that spawn soul_fire_flame particle around the pokemon's target
+	"target_soul_fire_moves": [
+		"willowisp",
+		"infernalparade",
+		"bitterblade"
+	],
+	// Moves that spawn soul particle around the pokemon's target
+	"target_soul_moves": [
+		"nightshade",
+		"astralbarrage"
+	],
+	// Slicing moves
+	"slicing_moves": [
+		"cut",
+		"razorleaf",
+		"slash",
+		"furycutter",
+		"aircutter",
+		"aerialace",
+		"leafblade",
+		"nightslash",
+		"airslash",
+		"x-scissor",
+		"psychocut",
+		"crosspoison",
+		"sacredsword",
+		"razorshell",
+		"secretsword",
+		"solarblade",
+		"behemothblade",
+		"stoneaxe",
+		"ceaselessedge",
+		"populationbomb",
+		"kowtowcleave",
+		"psyblade",
+		"bitterblade",
+		"aquacutter",
+		"mightycleave",
+		"tachyoncutter",
+		"spacialrend"
+	],
+	// If you want to enable the move indicator?
+	"enable_move_indicator": false,
+	// Set the size of the move indicator
+	"move_indicator_size": 0.5,
+	// Set the horizontal position of the move indicator.(0-1,0 is the left side, 1 is the right side)
+	"move_indicator_x_relative": 0.8999999761581421,
+	// Set the horizontal position of the move indicator.(0-1,0 is the top, 1 is the bottom)
+	"move_indicator_y_relative": 0.8999999761581421
+}

@@ -1,0 +1,878 @@
+{
+	autofocus_id: "5FC88C5D97FFE44E"
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "evolution"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "cobblemon:great_ball"
+	}
+	id: "16AFF8DC26A023AE"
+	images: [
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/pokemon/evo_title.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			hover: ["Alcreamie"]
+			image: "atm:textures/questpics/pokemon/evo_alcreamie.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			height: 5.0d
+			hover: ["Ursaluna"]
+			image: "atm:textures/questpics/pokemon/evo_ursaluna.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.0d
+			y: 6.0d
+		}
+		{
+			height: 4.0d
+			hover: ["Slowbro"]
+			image: "atm:textures/questpics/pokemon/evo_slowbro.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			height: 4.0d
+			hover: ["Ceruledge"]
+			image: "atm:textures/questpics/pokemon/evo_ceruledge.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			height: 3.0d
+			hover: ["Mudkip"]
+			image: "atm:textures/questpics/pokemon/evo_mudkip.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -6.5d
+			y: 10.5d
+		}
+		{
+			height: 5.0d
+			hover: ["Marshstomp"]
+			image: "atm:textures/questpics/pokemon/evo_marshstomp.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			height: 6.0d
+			hover: ["Swampbert"]
+			image: "atm:textures/questpics/pokemon/evo_swampbert.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 3.5d
+			y: 11.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/helper_arrow.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/helper_arrow.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 10.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["269D24B28FA92DF8"]
+			id: "0ADFE26AD63EC714"
+			rewards: [{
+				count: 2
+				id: "6D341F17DD9A7329"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [{
+				id: "0E36648CDB6ED73A"
+				item: { count: 1, id: "rctmod:trainer_spawner" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "3B04DBF92FDF859F"
+			rewards: [
+				{
+					id: "7CE85115954A2ABC"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "6F409FFAEA0110E4"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "09E7D93E692CB782"
+				type: "custom"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["02F23D223E792587"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "6C3E88C02ED3C1F0"
+			rewards: [
+				{
+					id: "33311BFC0DAFC2BD"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					id: "14DED15576BA2FBB"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "cobblemon:great_ball"
+				}
+				id: "6D8B0FFD3F4C0BCB"
+				type: "custom"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0ADFE26AD63EC714"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "02F23D223E792587"
+			rewards: [
+				{
+					id: "78BCF2C67E43AD7E"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+				{
+					id: "49352CB432EB45C4"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_any"
+				criterion: ""
+				id: "5D31E78BF3718CB2"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1B06907584B3405B"]
+			id: "46342661700839E0"
+			rewards: [{
+				count: 3
+				id: "12610D4B006F62CB"
+				item: {
+					count: 1
+					id: "cobblemon:dawn_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "415DFF51616CAC8A"
+				item: { count: 1, id: "cobblemon:dawn_stone" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:dawn_stone_ore"
+			}
+			id: "1B06907584B3405B"
+			rewards: [{
+				id: "2E0969B542C68627"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_dawn_stone_normal"
+				id: "18FA361DAF02663F"
+				type: "biome"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0AABCD95FABC6025"]
+			id: "16DFD50997856CFA"
+			rewards: [{
+				count: 3
+				id: "21B9C54050138775"
+				item: {
+					count: 1
+					id: "cobblemon:dusk_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "115465DF16D7E375"
+				item: { count: 1, id: "cobblemon:dusk_stone" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:dusk_stone_ore"
+			}
+			id: "0AABCD95FABC6025"
+			rewards: [{
+				id: "3E61F058EE4E6555"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_dusk_stone_normal"
+				id: "330FD832E33A86CB"
+				type: "biome"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2182F3E8D8696D6C"]
+			id: "6E780D295717056D"
+			rewards: [{
+				count: 3
+				id: "1DE30F793BA037CE"
+				item: {
+					count: 1
+					id: "cobblemon:fire_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "4D47AB42B527E2E8"
+				item: { count: 1, id: "cobblemon:fire_stone" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 5.5d
+		}
+		{
+			icon: {
+				id: "cobblemon:fire_stone_ore"
+			}
+			id: "2182F3E8D8696D6C"
+			rewards: [{
+				id: "040F86A33A99042F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_fire_stone_normal"
+				id: "65700253E2BA328E"
+				type: "biome"
+			}]
+			x: -6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4DC435B42889FE12"]
+			id: "311E949E3299C95C"
+			rewards: [{
+				count: 3
+				id: "0E5374217CBF6979"
+				item: {
+					count: 1
+					id: "cobblemon:ice_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "713A7438439797FD"
+				item: { count: 1, id: "cobblemon:ice_stone" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:ice_stone_ore"
+			}
+			id: "4DC435B42889FE12"
+			rewards: [{
+				id: "7A66F2A5B489D8E9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_ice_stone_normal"
+				id: "5BAE6D076E0B6E99"
+				type: "biome"
+			}]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4F460A7A6F0C704B"]
+			id: "37E3E12CFC8DCA4F"
+			rewards: [{
+				count: 3
+				id: "7570910304D8BD36"
+				item: {
+					count: 1
+					id: "cobblemon:leaf_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "210688F090CF6D36"
+				item: { count: 1, id: "cobblemon:leaf_stone" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:leaf_stone_ore"
+			}
+			id: "4F460A7A6F0C704B"
+			rewards: [{
+				id: "1CFBEA27C20EC616"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_leaf_stone_normal"
+				id: "3C469F080D9DC423"
+				type: "biome"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3F67085593A2DF93"]
+			id: "03E8FB54B87524E1"
+			rewards: [{
+				count: 3
+				id: "4601A902B5042AF2"
+				item: {
+					count: 1
+					id: "cobblemon:moon_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "3BD49875368C7A3A"
+				item: { count: 1, id: "cobblemon:moon_stone" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:moon_stone_ore"
+			}
+			id: "3F67085593A2DF93"
+			rewards: [{
+				id: "65805704CC959E4C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_moon_stone_normal"
+				id: "182BFFC510BD2105"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3602CA4E5D3687DF"]
+			id: "3ACC787A0ED75A11"
+			rewards: [{
+				count: 3
+				id: "44816CFA4A402352"
+				item: {
+					count: 1
+					id: "cobblemon:shiny_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "58404E9895F351B4"
+				item: { count: 1, id: "cobblemon:shiny_stone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:shiny_stone_ore"
+			}
+			id: "3602CA4E5D3687DF"
+			rewards: [{
+				id: "014F42469AB8E469"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_shiny_stone_normal"
+				id: "0BA646204CABB7C1"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["093D21D44BE4D923"]
+			id: "0CB92F8E8C685159"
+			rewards: [{
+				count: 3
+				id: "3487C7E1E5CFD83D"
+				item: {
+					count: 1
+					id: "cobblemon:sun_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "2075FD31918332E1"
+				item: { count: 1, id: "cobblemon:sun_stone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			icon: {
+				id: "cobblemon:sun_stone_ore"
+			}
+			id: "093D21D44BE4D923"
+			rewards: [{
+				id: "2E60B060A925C721"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_sun_stone_normal"
+				id: "6073924F7DA32D8F"
+				type: "biome"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1E0E07B8CCC48531"]
+			id: "53B3B9A401360586"
+			rewards: [{
+				count: 3
+				id: "42DBC85CD459230A"
+				item: {
+					count: 1
+					id: "cobblemon:thunder_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "272B591F3447511F"
+				item: { count: 1, id: "cobblemon:thunder_stone" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:thunder_stone_ore"
+			}
+			id: "1E0E07B8CCC48531"
+			rewards: [{
+				id: "0D37038D77A7EFBC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_thunder_stone_normal"
+				id: "1E704C3D8EE1419D"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D501F8E9C5EC0B4"]
+			id: "5387480428BC6E0A"
+			rewards: [{
+				count: 3
+				id: "12D4C662751B7552"
+				item: {
+					count: 1
+					id: "cobblemon:water_stone"
+				}
+				type: "item"
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "120C4FCB5BFEBB66"
+				item: { count: 1, id: "cobblemon:water_stone" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:water_stone_ore"
+			}
+			id: "0D501F8E9C5EC0B4"
+			rewards: [{
+				id: "340B906D94C69223"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				biome: "#cobblemon:has_ore/ore_water_stone_normal"
+				id: "14C96F5173A1917D"
+				type: "biome"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "5FC88C5D97FFE44E"
+			rewards: [
+				{
+					id: "139FECD0A9B3AACE"
+					item: {
+						count: 1
+						id: "cobblemon:link_cable"
+					}
+					type: "item"
+				}
+				{
+					id: "7B58AB9D32C1C89E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "5917223A3635904C"
+				item: { count: 1, id: "cobblemon:link_cable" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5FC88C5D97FFE44E"]
+			id: "04D0FAEF00F88A15"
+			rewards: [
+				{
+					count: 2
+					id: "6E838B5D3E508047"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "74A81E3E936C27BF"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "2FF61E9EBBEDE7EF"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:deep_sea_scale)item(cobblemon:deep_sea_tooth)item(cobblemon:kings_rock)item(cobblemon:metal_coat)item(cobblemon:protector)item(cobblemon:dragon_scale)item(cobblemon:electirizer)item(cobblemon:magmarizer)item(cobblemon:upgrade)item(cobblemon:dubious_disc)item(cobblemon:prism_scale)item(cobblemon:reaper_cloth)item(cobblemon:sachet)item(cobblemon:whipped_dream))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "402F1F09F5AB59FD"
+			optional: true
+			rewards: [
+				{
+					id: "79528150D17F9E0B"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "1D5EB977EC18F318"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "48230014D8628136"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:strawberry_sweet)item(cobblemon:love_sweet)item(cobblemon:berry_sweet)item(cobblemon:clover_sweet)item(cobblemon:flower_sweet)item(cobblemon:star_sweet)item(cobblemon:ribbon_sweet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "252E8C0AA0C61575"
+			optional: true
+			rewards: [
+				{
+					id: "68DC2238F6CF3EC0"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "07AA4B66A7F2D534"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "6097F6DEBA79FDF0"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:auspicious_armor)item(cobblemon:malicious_armor))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "7A4A07325C00A238"
+			optional: true
+			rewards: [
+				{
+					id: "27A8325C26EE518F"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "1B91E8F89F48A437"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "47E6E6B51447C8DC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:galarica_cuff)item(cobblemon:galarica_wreath))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "03E605A91496B257"
+			optional: true
+			rewards: [
+				{
+					id: "46754F98D916C178"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "336BE6EB208513C9"
+					item: {
+						count: 1
+						id: "cobblemon_utility:poketreat"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				id: "536C58A7A772534F"
+				item: { count: 1, id: "cobblemon:peat_block" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6C3E88C02ED3C1F0"]
+			id: "39E4FD684972B543"
+			rewards: [{
+				id: "431BA6D1BC82FE0C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "24D5E80BBED8D4AA"
+				item: { count: 1, id: "cobblemon_utility:devolutionrelic" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["269D24B28FA92DF8"]
+			id: "53E70A8232A8F06E"
+			rewards: [{
+				id: "5607FC6794E277D3"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "772E9CA855C52E00"
+				item: { count: 1, id: "rctmod:trainer_repel_rod" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3B04DBF92FDF859F"]
+			id: "269D24B28FA92DF8"
+			rewards: [
+				{
+					count: 3
+					id: "753F7CFA3B90992F"
+					item: {
+						count: 1
+						id: "cobblemon:remedy"
+					}
+					type: "item"
+				}
+				{
+					id: "340FA0D1B69A8C73"
+					item: {
+						count: 1
+						id: "cobblemon:revive"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "2FA2AF7976882BDE"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			id: "36B8B3C61E0CFAD1"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "7FC2F6F453502ACF"
+					type: "checkmark"
+				}
+				{
+					id: "385FFCF622B7C550"
+					type: "checkmark"
+				}
+			]
+			x: -8.5d
+			y: -0.5d
+		}
+	]
+}

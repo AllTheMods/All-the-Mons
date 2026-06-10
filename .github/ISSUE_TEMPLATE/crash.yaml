@@ -1,0 +1,82 @@
+---
+name: 💥 Crash/Disconnect Report
+description: File a crash report or disconnect issue
+title: "[Crash]: "
+labels:
+  - Crash
+body:
+  - type: input
+    id: pack-version
+    attributes:
+      label: Modpack Version
+      description: What version of the pack are you using?
+      placeholder: Pack version
+    validations:
+      required: true
+  - type: textarea
+    id: crash-assistant-message
+    attributes:
+      label: Crash Assistant Message (big green button)
+      description: When you crash, Crash Assistant should popup and click Upload all
+        and copy message, wait for logs to be uploaded, after it is done, paste
+        here.
+      placeholder: "All the Mons - 1.0.0 crashed. The logs have been uploaded to
+        `gnomebot.dev`:
+
+        ###
+        [latest.log](<https://gnomebot.dev/paste/mclogs/...>)   |   [debug.log]\
+        (<https://gnomebot.dev/paste/mclogs/...>)   |   [crash-2025-05-08_13.40\
+        .26-client.txt](<https://gnomebot.dev/paste/mclogs/...>)   |   CurseFor\
+        ge:
+        [launcher_log.txt](<https://gnomebot.dev/paste/mclogs/...>)   |   KubeJ\
+        S: [client.log](<https://gnomebot.dev/paste/mclogs/...>) /
+        [startup.log](<https://gnomebot.dev/paste/mclogs/...>)   |   [crash_ass\
+        istant_app.log](<https://gnomebot.dev/paste/mclogs/...>)
+
+
+        ### Mod list changes beyond the modpack:
+
+        ```ansi
+
+        \e[2;34mMod list wasn't modified.\e[0m
+
+        ```\n"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Please give a thorough explanation of what happened. Attach/Link
+        relevant images/files in relation to the issue!
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: input
+    id: crash-log
+    attributes:
+      label: Crash Log or Disconnect Log
+      description: Please upload your crash log to https://mclo.gs/ and leave the link
+        here. Located in `/<instance name>/crash-reports/` or `/<instance
+        name>/debug/`
+      placeholder: https://mclo.gs/... (Not required if already sent message from Crash Assistant...)
+    validations:
+      required: false
+  - type: input
+    id: latest-log
+    attributes:
+      label: Latest.Log
+      description: Please upload your latest.log to https://mclo.gs/ and leave the
+        link here. Note this file is different to a crash report. Located in
+        `/<instance name>/logs/`.
+      placeholder: https://mclo.gs/... (Not required if already sent message from Crash Assistant...)
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Read this!
+      description: Make sure you are on latest version of the pack and provide either a Crash Assistant Message or logs.
+        Your post will be closed if you do NOT meet those requirements.
+      options:
+        - label: I agree that my post will be closed if above requirements does not meet.
+          required: true

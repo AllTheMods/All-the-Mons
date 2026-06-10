@@ -1,0 +1,130 @@
+{
+  "music.game": {
+    "sounds": [
+      {
+        "name": "allthemons:gamechops/poke_ambient/echoes_through_time",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/mythical",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_center",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_gym",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_league",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/route_47",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/scarlet",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/snowbelle_city",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/snowpoint_city",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/twinleaf_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/undella_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/unwavering_heart",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/vanville_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/verdanturf_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/water_type",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "allthemons:gamechops/poke_ambient/echoes_through_time",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/mythical",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_center",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_gym",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/poke_league",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/route_47",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/scarlet",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/snowbelle_city",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/snowpoint_city",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/twinleaf_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/undella_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/unwavering_heart",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/vanville_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/verdanturf_town",
+        "stream": true
+      },
+      {
+        "name": "allthemons:gamechops/poke_ambient/water_type",
+        "stream": true
+      }
+    ]
+  }
+}

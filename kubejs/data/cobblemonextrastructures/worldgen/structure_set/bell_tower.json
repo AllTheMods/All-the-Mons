@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "cobblemonextrastructures:bell_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 187351794,
+    "spacing": 300,
+    "separation": 250
+  }
+}

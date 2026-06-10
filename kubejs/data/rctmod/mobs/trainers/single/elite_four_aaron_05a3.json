@@ -1,0 +1,25 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+    "is_forest",
+    "is_swamp"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "champion_cynthia_05a2"
+    ]
+  ],
+  "series": [
+    "bdsp"
+  ],
+  "spawnWeightFactor": 0.25,
+  "type": "normal"
+}

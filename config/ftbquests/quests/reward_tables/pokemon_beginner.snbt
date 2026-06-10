@@ -1,0 +1,123 @@
+{
+	id: "241A0A87F1C13323"
+	loot_size: 1
+	order_index: 49
+	rewards: [
+		{
+			id: "1335E914B277D42E"
+			item: {
+				count: 1
+				id: "cobblemon:red_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7F3C475B802DE25F"
+			item: {
+				count: 1
+				id: "cobblemon:yellow_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3C8A6DC156A65977"
+			item: {
+				count: 1
+				id: "cobblemon:green_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3A63041941D10E8D"
+			item: {
+				count: 1
+				id: "cobblemon:blue_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3B8972C8A76206A2"
+			item: {
+				count: 1
+				id: "cobblemon:pink_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "4F17F29F7ABD448B"
+			item: {
+				count: 1
+				id: "cobblemon:black_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "077A8C90D394792D"
+			item: {
+				count: 1
+				id: "cobblemon:white_apricorn"
+			}
+			weight: 2.0f
+		}
+		{ id: "705B2D34B5863F4D", item: { count: 1, id: "cobblemon:medicinal_leek" } }
+		{ id: "0C36264657EA8E3C", item: { count: 1, id: "cobblemon:vivichoke" } }
+		{ id: "670BFF34AB313FD7", item: { count: 1, id: "cobblemon:poke_ball" } }
+		{ id: "575B8781D9D33903", item: { count: 1, id: "cobblemon:remedy" } }
+		{
+			id: "7D0AE75CDA7E053B"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "0ED25349209F7F57"
+			item: {
+				count: 1
+				id: "cobblemon:health_feather"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "68489CFBA6E0E02A"
+			item: {
+				count: 1
+				id: "cobblemon:muscle_feather"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "573A08DE34ED4A92"
+			item: {
+				count: 1
+				id: "cobblemon:resist_feather"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "14ECCD57E23EB993"
+			item: {
+				count: 1
+				id: "cobblemon:genius_feather"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "17A6C5E5C1BA1CB2"
+			item: {
+				count: 1
+				id: "cobblemon:clever_feather"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "014E7E2EB4973CCC"
+			item: {
+				count: 1
+				id: "cobblemon:swift_feather"
+			}
+			weight: 0.25f
+		}
+	]
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Nektar",
+  "identity": "Nektar",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "curse",
+        "extremespeed",
+        "morningsun"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    },
+    {
+      "species": "delcatty",
+      "gender": "FEMALE",
+      "level": 87,
+      "nature": "bold",
+      "ability": "cutecharm",
+      "moveset": [
+        "blizzard",
+        "bodyslam",
+        "thunder",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "closecombat",
+        "bulletpunch",
+        "facade",
+        "knockoff"
+      ],
+      "gimmicks": {
+        "dynamax": true,
+        "gmax": true
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "flame_orb"
+      ]
+    },
+    {
+      "species": "perrserker",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "toughclaws",
+      "moveset": [
+        "ironhead",
+        "closecombat",
+        "knockoff",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "eruption",
+        "fireblast",
+        "focusblast",
+        "scorchingsands"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_scarf"
+      ]
+    },
+    {
+      "species": "venusaur",
+      "gender": "FEMALE",
+      "level": 88,
+      "nature": "bold",
+      "ability": "overgrow",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "knockoff",
+        "synthesis"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252
+      },
+      "heldItem": [
+        "mega_showdown:venusaurite",
+        "rocky_helmet"
+      ]
+    }
+  ]
+}

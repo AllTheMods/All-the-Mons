@@ -1,0 +1,10 @@
+{
+    "processors": [
+        {
+            "processor_type": "allthemons:replace_with_lava",
+            "target": {
+                "Name": "minecraft:pink_glazed_terracotta"
+            }
+        }
+    ]
+}

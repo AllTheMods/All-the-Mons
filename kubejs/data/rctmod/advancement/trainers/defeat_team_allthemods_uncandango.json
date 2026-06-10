@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "defeat_team_allthemods_uncandango": {
+      "conditions": {
+        "count": 1,
+        "entity": {
+          "type": null
+        },
+        "trainer_ids": [
+		"team_allthemods_uncandango"
+        ],
+        "trainer_type": null
+      },
+      "trigger": "rctmod:defeat_count"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": null,
+    "description": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_uncandango.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "id": "cobblemon:poke_ball"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.rctmod.defeat_team_allthemods_uncandango.title"
+    }
+  },
+  "parent": "rctmod:trainers/defeat_team_allthemods_satherov",
+  "requirements": [
+    [
+      "defeat_team_allthemods_uncandango"
+    ]
+  ]
+}

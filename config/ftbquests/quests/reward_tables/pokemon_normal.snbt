@@ -1,0 +1,136 @@
+{
+	id: "3C487DC37C52C5FF"
+	loot_size: 1
+	order_index: 51
+	rewards: [
+		{
+			count: 3
+			id: "7161F20EA2509B57"
+			item: {
+				count: 1
+				id: "cobblemon:red_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "37FE0A08A1066195"
+			item: {
+				count: 1
+				id: "cobblemon:yellow_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "4940720C084B53ED"
+			item: {
+				count: 1
+				id: "cobblemon:green_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "3E082317DA961940"
+			item: {
+				count: 1
+				id: "cobblemon:blue_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "76A27D420ABB59BF"
+			item: {
+				count: 1
+				id: "cobblemon:pink_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "45EABB8CB2AF917C"
+			item: {
+				count: 1
+				id: "cobblemon:black_apricorn"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "487B96569A83F1F3"
+			item: {
+				count: 1
+				id: "cobblemon:white_apricorn"
+			}
+			weight: 2.0f
+		}
+		{ id: "2CA9F92C9EF53A03", item: { count: 1, id: "cobblemon:revival_herb" } }
+		{ id: "4185102EA50A655C", item: { count: 1, id: "cobblemon:fine_remedy" } }
+		{
+			id: "4B285579A6CACAB4"
+			item: {
+				count: 1
+				id: "cobblemon:super_potion"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "76080F0283B66A18"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+		}
+		{
+			id: "1C9D233CF9BE2C64"
+			item: {
+				count: 1
+				id: "cobblemon:health_mochi"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "31D20164133B836F"
+			item: {
+				count: 1
+				id: "cobblemon:muscle_mochi"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "591F42BB583E7F17"
+			item: {
+				count: 1
+				id: "cobblemon:resist_mochi"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "14266B804BA97F12"
+			item: {
+				count: 1
+				id: "cobblemon:genius_mochi"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "0FED3818A24C6126"
+			item: {
+				count: 1
+				id: "cobblemon:clever_mochi"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "2B31EC1CC2C773DC"
+			item: {
+				count: 1
+				id: "cobblemon:swift_mochi"
+			}
+			weight: 0.25f
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "lithostitched:delegating",
+  "delegate": {
+  "type": "lithostitched:jigsaw",
+  "biomes": "allthemons:ancient_apricorn_forest",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "allthemons:elite_gym_101",
+  "start_jigsaw_name": "allthemons:elite_gym/start",
+  "size": 7,
+  "start_height": {
+    "absolute": 0
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+    "max_distance_from_center": {
+      "horizontal": 116
+    },
+  "use_expansion_hack": false
+},
+  "spawn_condition": {
+    "type": "lithostitched:grid",
+    "radius": 40,
+    "distance_between_points": 32,
+    "condition": {
+      "type": "lithostitched:not",
+      "condition": {
+        "type": "lithostitched:height_filter",
+        "range_type": "heightmap_relative",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "permitted_range": [
+          -20,
+          20
+        ]
+      }
+    },
+    "allowed_count": 0
+  }
+}

@@ -1,0 +1,1175 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "31418B71DABE377A"
+	images: [{
+		height: 3.0d
+		image: "atm:textures/questpics/pokemon/poke_title.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 1.5d
+		y: -5.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 1.5d
+			id: "270BEFADE842144B"
+			rewards: [{
+				id: "3852F9C64EBB3C45"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				advancement: "cobblemon:root"
+				criterion: ""
+				id: "08AC2537F326D9C8"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			id: "4E943465A0F727A9"
+			rewards: [{
+				id: "64C7EB67CD7596B8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "627ADA33FEF51C73"
+				item: { components: { "patchouli:book": "cobblepedia:cobblepedia" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			icon_scale: 1.5d
+			id: "22FCEAECFBC734DD"
+			rewards: [{
+				count: 4
+				id: "2388099C3284E263"
+				item: {
+					count: 1
+					id: "cobblemon:red_apricorn"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 1.25d
+			tasks: [{
+				id: "06D7446522B1CF78"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:apricorns))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["22FCEAECFBC734DD"]
+			id: "7B758074DB4BD138"
+			rewards: [
+				{
+					count: 3
+					id: "200A4CB1ABA28B74"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "14AB2E86690ECD26"
+					item: {
+						count: 1
+						id: "cobblemon:yellow_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "41505CF9592CF53B"
+					item: {
+						count: 1
+						id: "cobblemon:green_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5768F9329291AF84"
+					item: {
+						count: 1
+						id: "cobblemon:blue_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "363DE3224B43E08C"
+					item: {
+						count: 1
+						id: "cobblemon:pink_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "29D84FBC17CEC64F"
+					item: {
+						count: 1
+						id: "cobblemon:black_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "096D0504EBC82074"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				id: "4E9620F93F7144CB"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:pokedex))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.625d
+			y: 0.625d
+		}
+		{
+			dependencies: [
+				"4E943465A0F727A9"
+				"64320561B2275D90"
+			]
+			id: "6214530BEC461C9D"
+			rewards: [
+				{
+					count: 3
+					id: "5F367E93A8CEE124"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+				{
+					id: "00B002C6BBB99FBB"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "cobblemon:first_catch"
+				criterion: ""
+				id: "754C96E14EF29755"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "012A8C905608C86E"
+			rewards: [{
+				count: 3
+				id: "0989BB292B014650"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "75C0A362F2FC3118"
+				structure: "allthemons:poke_center"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			id: "1A609549BBCFFFAE"
+			rewards: [{
+				count: 4
+				id: "5A3D5D2F39770C1C"
+				item: {
+					count: 1
+					id: "cobblemon:medicinal_leek"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C605280D0F2BD81"
+				item: { count: 1, id: "cobblemon:medicinal_leek" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			id: "7217BEFB0088A442"
+			rewards: [{
+				count: 4
+				id: "13A54E78C16CDBF0"
+				item: {
+					count: 1
+					id: "cobblemon:revival_herb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "19890C681B8C8023"
+				item: { count: 1, id: "cobblemon:revival_herb" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7217BEFB0088A442"]
+			id: "404DE5C374A17479"
+			rewards: [{
+				id: "265A274F78901501"
+				item: {
+					count: 1
+					id: "cobblemon:revive"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "07C87391923D927B"
+				item: { count: 1, id: "cobblemon:revive" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73C7479D929498AE"]
+			id: "0338E3A881A6DD98"
+			rewards: [{
+				id: "694D46DE06CA9896"
+				item: {
+					count: 1
+					id: "cobblemon:remedy"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5934DE99886C52E9"
+				item: { count: 1, id: "cobblemon:remedy" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["270BEFADE842144B"]
+			id: "73C7479D929498AE"
+			rewards: [{
+				count: 4
+				id: "3845118DD74F5275"
+				item: {
+					count: 1
+					id: "cobblemon:big_root"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D46DA1CB2ED5ACA"
+				item: { count: 1, id: "cobblemon:big_root" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1A609549BBCFFFAE"]
+			id: "5405C436B4489E0C"
+			rewards: [{
+				id: "54248870492FE304"
+				item: {
+					count: 1
+					id: "cobblemon:medicinal_brew"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "638C61886C9F95C4"
+				item: { count: 1, id: "cobblemon:medicinal_brew" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6214530BEC461C9D"]
+			id: "3932FF3765BFACD3"
+			rewards: [{
+				count: 3
+				id: "23FC454FE58AC116"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "24EE604FB9AEE284"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4E943465A0F727A9"]
+			id: "22B99F88295EC967"
+			rewards: [
+				{
+					count: 3
+					id: "5F565ED97A4D6EA8"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
+				}
+				{
+					id: "50E94EEBBE3E8303"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "cobblemon:rare_candy"
+				}
+				id: "45917FB36443E72A"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4E943465A0F727A9"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "366A1733E63AB3AD"
+			rewards: [{
+				id: "47A472B3EEE912B6"
+				item: {
+					count: 1
+					id: "rctmod:trainer_card"
+				}
+				type: "item"
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "1B2F05BF5D48329D"
+				type: "custom"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["22FCEAECFBC734DD"]
+			id: "64320561B2275D90"
+			rewards: [{
+				id: "245E00B69705CB33"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "55EC49744EF03C63"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:poke_balls))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["22B99F88295EC967"]
+			id: "2EA725733AC5B290"
+			rewards: [{
+				id: "563D86B2BA29D76D"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "4F84FBE12A48BD57"
+				item: { count: 1, id: "cobblemon:soothe_bell" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["22B99F88295EC967"]
+			id: "77DF4336700646D0"
+			rewards: [{
+				id: "4A42D41A95F843AF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			tasks: [{
+				id: "097BC444CAD0A412"
+				item: { count: 1, id: "rctmod:trainer_card" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6214530BEC461C9D"]
+			id: "211A39A0881A4E1A"
+			rewards: [{
+				id: "5AB2EF894D4CE07C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			size: 0.9d
+			tasks: [{
+				id: "4C70EAC5B9366766"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6214530BEC461C9D"]
+			id: "2EA9DBB7F8F4EF40"
+			rewards: [{
+				id: "5E5476FB64E06312"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "square"
+			size: 0.9d
+			tasks: [{
+				id: "5E5117605732A592"
+				item: { count: 1, id: "minecraft:barrel" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3932FF3765BFACD3"]
+			id: "447F3DCAB7F60641"
+			rewards: [{
+				count: 3
+				id: "62DB3342CF0BFA31"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5AC5EE253FB81CB3"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["012A8C905608C86E"]
+			icon: {
+				id: "cobblemon:healing_machine"
+			}
+			id: "10C1718C792F3ABB"
+			rewards: [{
+				count: 3
+				id: "165E8AE883E55694"
+				item: {
+					count: 1
+					id: "cobblemon:fine_remedy"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "794FC4EC023FB646"
+				observe_type: 0
+				timer: 0L
+				to_observe: "cobblemon:healing_machine"
+				type: "observation"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "35815F62705D1D53"
+			rewards: [{
+				id: "638B0E8FE9A74FE9"
+				item: {
+					count: 1
+					id: "cobblemon:normal_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_normal.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "20B3F9F1CE3390F0"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "0328E5E416D0F785"
+			rewards: [{
+				id: "6344A4773ACA78BA"
+				item: {
+					count: 1
+					id: "cobblemon:fire_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fire.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "43147E2E5C5F82FE"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "23DAF5129F244C2C"
+			rewards: [{
+				id: "3AA64C00EF3CF0FF"
+				item: {
+					count: 1
+					id: "cobblemon:water_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_water.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4AE93F7B08939F9E"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "3940A15B6CE854D0"
+			rewards: [{
+				id: "1A8CBDDEAFB921F9"
+				item: {
+					count: 1
+					id: "cobblemon:grass_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_grass.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1F594257CC0242C5"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "277D15B7FC23784D"
+			rewards: [{
+				id: "3369E5ED9849D7DF"
+				item: {
+					count: 1
+					id: "cobblemon:electric_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_electric.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "00A19B1AF9190E63"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "7D0F4EF83BA40D66"
+			rewards: [{
+				id: "0EE5E0DD867B824B"
+				item: {
+					count: 1
+					id: "cobblemon:ice_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ice.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0AA2B65F753F73C2"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fight.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "3F33E55B8D9E09A4"
+			rewards: [{
+				id: "1797DBBBB4925152"
+				item: {
+					count: 1
+					id: "cobblemon:fighting_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fight.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "5B8FFDAD3656AC1F"
+				type: "custom"
+			}]
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "194DA601C17C50D5"
+			rewards: [{
+				id: "68BEF9E96E27EE7D"
+				item: {
+					count: 1
+					id: "cobblemon:poison_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_poison.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "300456D611679CBD"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "6F3B6275D2BBEA5B"
+			rewards: [{
+				id: "457BCC25CF9B7A76"
+				item: {
+					count: 1
+					id: "cobblemon:ground_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ground.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "57FC96B0E217BDDD"
+				type: "custom"
+			}]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fly.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "40E89CCC6DFDA49A"
+			rewards: [{
+				id: "3F5FB3918C953B84"
+				item: {
+					count: 1
+					id: "cobblemon:flying_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fly.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6316CFB3E914AFA6"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "351CFE6AD802F065"
+			rewards: [{
+				id: "1FF3F2BFFB3C96A4"
+				item: {
+					count: 1
+					id: "cobblemon:psychic_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_psychic.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2EC0B91DDBE09BEE"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "4975A8FD77155647"
+			rewards: [{
+				id: "4D98D629AE1B52D2"
+				item: {
+					count: 1
+					id: "cobblemon:rock_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_rock.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "175ACBBE95D80432"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "113087E13651BFAB"
+			rewards: [{
+				id: "1304E26A54DF1205"
+				item: {
+					count: 1
+					id: "cobblemon:ghost_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_ghost.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3BFEB36624783EBC"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "503B409765D30E60"
+			rewards: [{
+				id: "624F247390B90AED"
+				item: {
+					count: 1
+					id: "cobblemon:dragon_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dragon.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6C915513662EB128"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "3CD6F0BBE9D7EB75"
+			rewards: [{
+				id: "038EAB4179E7BC7C"
+				item: {
+					count: 1
+					id: "cobblemon:dark_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_dark.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "66878F47E725797B"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "28F40B9DD4896B5E"
+			rewards: [{
+				id: "1C3CA6F5CAC0791E"
+				item: {
+					count: 1
+					id: "cobblemon:steel_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_steel.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3AC02DCA2CF8EB3B"
+				type: "custom"
+			}]
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "20A9DB41C6BDDE53"
+			rewards: [{
+				id: "69E46F45C2E6A3F6"
+				item: {
+					count: 1
+					id: "cobblemon:fairy_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_fairy.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "13EB39D62AF23E66"
+				type: "custom"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			hide_details_until_startable: false
+			icon: {
+				components: {
+					"ftbquests:icon": "atm:textures/questpics/pokemon/poke_bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "0FAAA8628228ABA4"
+			rewards: [{
+				id: "7484A69CE2E5F586"
+				item: {
+					count: 1
+					id: "cobblemon:bug_gem"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "atm:textures/questpics/pokemon/poke_bug.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "584C198D4FAB05FC"
+				type: "custom"
+			}]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["447F3DCAB7F60641"]
+			id: "25CDC402800CA4D1"
+			rewards: [{
+				id: "57295E23FF0932C4"
+				item: {
+					count: 1
+					id: "simpletms:tm_blank"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4305BA273407FC3A"
+				item: { count: 1, id: "allthemons:pokemon_egg" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25CDC402800CA4D1"]
+			hide_until_deps_complete: true
+			id: "0EE5B550E4752CF2"
+			rewards: [{
+				id: "1B7060930DBD829A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				icon: {
+					id: "camol:camo_item"
+				}
+				id: "5B0B010CE3AB414B"
+				type: "custom"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3932FF3765BFACD3"]
+			id: "2EEF25FE72F8E4A3"
+			rewards: [{
+				id: "7EA2E7E2E5280DD9"
+				item: {
+					count: 1
+					id: "cobblemon:revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0013283CFA96828D"
+				item: { count: 1, id: "allthemons:pc_on_a_stick" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			id: "0287136D3E986317"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "07BE9AE873DB60D3"
+					type: "checkmark"
+				}
+				{
+					id: "1341FBFC95647A1E"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: -0.5d
+		}
+	]
+}

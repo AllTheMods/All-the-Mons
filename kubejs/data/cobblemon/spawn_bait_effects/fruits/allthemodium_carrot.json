@@ -1,0 +1,15 @@
+{
+  "item": "allthemodium:allthemodium_carrot",
+  "effects": [
+    {
+      "type": "cobblemon:bite_time",
+      "chance": 1.0,
+      "value": 0.1
+    },
+    {
+      "type": "cobblemon:shiny_reroll",
+      "chance": 1.0,
+      "value": 10.0
+    }
+  ]
+}

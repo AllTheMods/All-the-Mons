@@ -1,0 +1,23 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void"
+  ],
+  "biomeTagWhitelist": [
+    "allthemodium:other_biomes"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+	"contentcreators_pilpoh"
+    ]
+  ],
+  "series": [
+    "contentcreators"
+  ],
+  "signatureItem": "allthemodium:allthemodium_ingot",
+  "spawnWeightFactor": 0.25,
+  "type": "contentcreators"
+}

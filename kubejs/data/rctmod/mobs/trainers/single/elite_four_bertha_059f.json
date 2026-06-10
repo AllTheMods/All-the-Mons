@@ -1,0 +1,28 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_nether",
+    "is_end",
+    "is_spooky"
+  ],
+  "biomeTagWhitelist": [
+    "is_cave",
+    "is_plateau",
+    "is_mountain",
+    "is_hill"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "elite_four_aaron_059e"
+    ]
+  ],
+  "series": [
+    "bdsp"
+  ],
+  "spawnWeightFactor": 0.25,
+  "type": "normal"
+}

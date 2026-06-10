@@ -1,0 +1,179 @@
+{
+  "name": "Mitchell52",
+  "identity": "Mitchell52",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+     {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "waterfall",
+        "dragonrage",
+        "dragonpulse",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "staraptor",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "fly",
+        "defog",
+        "aerialace",
+        "steelwing"
+      ],
+      "ivs": {
+        "hp": 5,
+        "atk": 5,
+        "def": 5,
+        "spa": 5,
+        "spd": 5,
+        "spe": 5
+      },
+      "evs": {
+        "hp": 56,
+        "atk": 148,
+        "def": 36,
+        "spd": 36,
+        "spe": 148
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "empoleon",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "bold",
+      "ability": "competitive",
+      "moveset": [
+        "bubblebeam",
+        "drillpeck",
+        "furyattack",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    },
+    {
+      "species": "crawdaunt",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "docile",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubblebeam",
+        "protect",
+        "falseswipe",
+        "taunt"
+      ],
+      "ivs": {
+        "hp": 15,
+        "atk": 15,
+        "def": 15,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "evs": {}
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "hasty",
+      "ability": "sturdy",
+      "moveset": [
+        "strength",
+        "rocksmash",
+        "rockclimb",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {}
+    },
+    {
+      "species": "giratina",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "slash",
+        "shadowforce",
+        "earthpower",
+        "healblock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 244,
+        "atk": 12,
+        "spa": 252
+      },
+      "heldItem": [
+        "mega_showdown:griseous_orb",
+        "life_orb"
+      ],
+      "aspects": [
+        "origin"
+      ]
+    }
+  ]
+}

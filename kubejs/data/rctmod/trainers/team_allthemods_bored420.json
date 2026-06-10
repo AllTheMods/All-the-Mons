@@ -1,0 +1,157 @@
+{
+  "name": "Bored",
+  "identity": "Bored420",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+  {
+    "species": "noivern",
+    "gender": "MALE",
+    "level": 90,
+    "nature": "timid",
+    "ability": "infiltrator",
+    "moveset": [
+      "dracometeor",
+      "hurricane",
+      "uturn",
+      "boomburst"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "spa": 252,
+      "spe": 252,
+      "hp": 4
+    },
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "toxtricity",
+    "gender": "FEMALE",
+    "level": 90,
+    "nature": "modest",
+    "ability": "punkrock",
+    "moveset": [
+      "voltswitch",
+      "thunderbolt",
+      "sludgebomb",
+      "boomburst"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 4,
+      "spa": 252,
+      "spe": 252
+    },
+    "heldItem": "throat_spray"
+  },
+  {
+    "species": "ludicolo",
+    "gender": "MALE",
+    "level": 90,
+    "nature": "modest",
+    "ability": "swiftswim",
+    "moveset": [
+      "hydropump",
+      "gigadrain",
+      "icebeam",
+      "raindance"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "spa": 252,
+      "spe": 252,
+      "hp": 4
+    },
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "bellibolt",
+    "gender": "FEMALE",
+    "level": 90,
+    "nature": "bold",
+    "ability": "electromorphosis",
+    "moveset": [
+      "voltswitch",
+      "thunderbolt",
+      "muddywater",
+      "slackoff"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spa": 4
+    },
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "exeggutor",
+    "aspects": ["alolan"],
+	"gender": "MALE",
+    "level": 90,
+    "nature": "modest",
+    "ability": "harvest",
+    "moveset": [
+      "dracometeor",
+      "leafstorm",
+      "flamethrower",
+      "trickroom"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spa": 252,
+      "def": 4
+    },
+    "heldItem": "sitrus_berry"
+  }
+]
+}

@@ -1,0 +1,8 @@
+{
+    "entryname": "gold",
+    "oretag": "c:ores/gold",
+    "color": -2838729,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "minecraft:raw_gold"
+}

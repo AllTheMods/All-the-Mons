@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:elite_gym",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 233061,
+    "spacing": 113,
+    "separation": 102
+  }
+}

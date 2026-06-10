@@ -1,0 +1,56 @@
+{
+	id: "63E11953DD289422"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 2
+			id: "03342204522FB922"
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			random_bonus: 2
+			weight: 4.0f
+		}
+		{
+			count: 2
+			id: "3CFE3D9740DC6D12"
+			item: {
+				count: 1
+				id: "mekanism:basic_control_circuit"
+			}
+			random_bonus: 2
+			weight: 4.0f
+		}
+		{
+			id: "2D6298DD9CCBAC35"
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			id: "63AD8CBB2EDAF73D"
+			item: {
+				count: 1
+				id: "mekanism:advanced_control_circuit"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			count: 4
+			id: "2719955565B2D283"
+			item: {
+				count: 1
+				id: "alltheores:osmium_ingot"
+			}
+			random_bonus: 2
+			weight: 4.0f
+		}
+	]
+	use_title: true
+}

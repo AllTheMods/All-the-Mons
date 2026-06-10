@@ -1,0 +1,187 @@
+{
+  "name": "thevortex",
+  "identity": "thevortex",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+  {
+    "species": "slowbro",
+    "gender": "FEMALE",
+    "level": 100,
+    "nature": "bold",
+    "ability": "regenerator",
+    "moveset": [
+      "scald",
+      "psychic",
+      "calmmind",
+      "slackoff"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spd": 4
+    },
+    "heldItem": [
+      "mega_showdown:slowbronite",
+      "leftovers"
+    ]
+  },
+  {
+    "species": "garchomp",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "jolly",
+    "ability": "roughskin",
+    "moveset": [
+      "earthquake",
+      "dragonclaw",
+      "swordsdance",
+      "stealthrock"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "spe": 252
+    },
+    "heldItem": "rocky_helmet"
+  },
+  {
+    "species": "toxapex",
+    "gender": "FEMALE",
+    "level": 100,
+    "nature": "bold",
+    "ability": "regenerator",
+    "moveset": [
+      "scald",
+      "toxicspikes",
+      "haze",
+      "recover"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spd": 4
+    },
+    "heldItem": "black_sludge"
+  },
+  {
+    "species": "dragapult",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "timid",
+    "ability": "infiltrator",
+    "moveset": [
+      "dracometeor",
+      "shadowball",
+      "thunderbolt",
+      "uturn"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 4,
+      "spa": 252,
+      "spe": 252
+    },
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "corviknight",
+    "gender": "MALE",
+    "level": 100,
+    "nature": "impish",
+    "ability": "pressure",
+    "moveset": [
+      "bravebird",
+      "defog",
+      "roost",
+      "uturn"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spd": 4
+    },
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "rotom",
+	"aspects": ["wash"],
+    "gender": "GENDERLESS",
+    "level": 100,
+    "nature": "timid",
+    "ability": "levitate",
+    "moveset": [
+      "hydropump",
+      "voltswitch",
+      "willowisp",
+      "painsplit"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spa": 4,
+      "spe": 252
+    },
+    "heldItem": "leftovers"
+  }
+]
+}

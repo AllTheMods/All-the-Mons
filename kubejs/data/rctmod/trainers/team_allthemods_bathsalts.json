@@ -1,0 +1,201 @@
+{
+  "name": "Bathsalts",
+  "identity": "Bathsalts",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "toxapex",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "recover",
+        "haze",
+        "toxicspikes"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "black_sludge",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    },
+    {
+      "species": "blissey",
+      "nature": "calm",
+      "ability": "naturalcure",
+      "moveset": [
+        "seismictoss",
+        "softboiled",
+        "toxic",
+        "teleport"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 252,
+        "def": 4,
+        "atk": 0
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    },
+    {
+      "species": "corviknight",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "roost",
+        "defog",
+        "bodypress",
+        "uturn"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    },
+    {
+      "species": "clefable",
+      "nature": "bold",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "softboiled",
+        "calmmind",
+        "storedpower"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    },
+    {
+      "species": "gliscor",
+      "nature": "impish",
+      "ability": "poisonheal",
+      "moveset": [
+        "earthquake",
+        "roost",
+        "toxic",
+        "protect"
+      ],
+      "evs": {
+        "hp": 244,
+        "spa": 0,
+        "spe": 0,
+        "spd": 12,
+        "def": 252,
+        "atk": 0
+      },
+      "heldItem": "toxic_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    },
+    {
+      "species": "ferrothorn",
+      "nature": "relaxed",
+      "ability": "ironbarbs",
+      "moveset": [
+        "stealthrock",
+        "leechseed",
+        "gyroball",
+        "protect"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 168,
+        "def": 88,
+        "atk": 0
+      },
+      "heldItem": "leftovers",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 90
+    }
+  ]
+}

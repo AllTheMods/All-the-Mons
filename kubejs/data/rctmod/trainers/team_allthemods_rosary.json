@@ -1,0 +1,195 @@
+{
+  "name": "_Rosary_",
+  "identity": "_Rosary_",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "swordsdance",
+        "closecombat",
+        "extremespeed",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "umbreon",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "careful",
+      "ability": "synchronize",
+      "moveset": [
+        "wish",
+        "protect",
+        "foulplay",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spd": 252
+      },
+      "heldItem": [
+        "leftovers"
+      ]
+    },
+    {
+      "species": "mismagius",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "nastyplot",
+        "shadowball",
+        "dazzlinggleam",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowball",
+        "fireblast",
+        "energyball",
+        "trick"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_scarf"
+      ]
+    },
+    {
+      "species": "froslass",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "spikes",
+        "taunt",
+        "icebeam",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 4,
+        "hp": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "zoroark",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "flamethrower",
+        "focusblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
+    }
+  ]
+}

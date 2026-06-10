@@ -1,0 +1,483 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_pika_star_009BBEA41077ED01"
+	group: "2084F3F6FB861C5B"
+	id: "009BBEA41077ED01"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"72FB20982A2940BF"
+				"4D4F8B4FF05E410E"
+				"7793F96BA31494F9"
+				"369F898BF46729E0"
+				"531A0EC04A6A8D5D"
+				"01D725FDE3EE2334"
+				"7B01BCEFF45C59EE"
+				"7D90A2C2869F8FC7"
+				"1B56BAFE94A1F83D"
+				"7EF5684946CC1B3A"
+			]
+			icon_scale: 1.25d
+			id: "7A0693A3016549F6"
+			shape: "pentagon"
+			size: 5.0d
+			tasks: [{
+				id: "04A6B605F4C2025D"
+				item: { count: 1, id: "allthemons:shiny_pika_star" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: ["atm"]
+						species: "cobblemon:staryu"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			icon_scale: 2.0d
+			id: "1B09DCB8AC3A420A"
+			shape: "none"
+			tasks: [
+				{
+					advancement: "allthemons:root"
+					criterion: ""
+					id: "6E37C502013E4ADE"
+					type: "advancement"
+				}
+				{
+					id: "67F9559E117D72A1"
+					item: { count: 1, id: "cobblemon:everstone" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["3B7A4929A1FCFFC6"]
+			icon: {
+				id: "allthemons:pika_star"
+			}
+			id: "2DBB88E1C147F496"
+			min_width: 250
+			tasks: [
+				{
+					advancement: "allthemons:unbound_pika_star"
+					criterion: ""
+					id: "3963004624AB8611"
+					type: "advancement"
+				}
+				{
+					id: "153B0124E24EB9EF"
+					item: { count: 1, id: "allthemons:pika_star" }
+					type: "item"
+				}
+				{
+					id: "3E2E7678FE41F6D9"
+					item: { count: 1, id: "allthetweaks:patrick_star" }
+					type: "item"
+				}
+				{
+					id: "0993E8C7850D5AA2"
+					item: { count: 1, id: "productivetrees:maple_syrup" }
+					type: "item"
+				}
+				{
+					id: "37F598DD9EEE414F"
+					item: { components: { "ftbfiltersystem:filter": "item_tag(create:sandpaper)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			id: "64CC314ECC49B92A"
+			tasks: [{
+				advancement: "allthemons:complete_regional_pika_star"
+				criterion: ""
+				id: "4A37656C44BFA18F"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			id: "6B4196A8DC3235D5"
+			tasks: [{
+				advancement: "allthemons:complete_regional_shiny_pika_star"
+				criterion: ""
+				id: "2B05194034E4D9AB"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -9.5d
+		}
+		{
+			id: "6A2810DEDC54A414"
+			tasks: [{
+				advancement: "allthemons:kantonian_pika_star"
+				criterion: ""
+				id: "13E4A6D1015C7DE1"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6A2810DEDC54A414"]
+			icon_scale: 0.8d
+			id: "72FB20982A2940BF"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:kantonian_complete_pika_star"
+				criterion: ""
+				id: "4819019DEE6016AC"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1965AE47C27D8385"]
+			icon_scale: 0.8d
+			id: "7EF5684946CC1B3A"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:johtonian_complete_pika_star"
+				criterion: ""
+				id: "2B34239A757E41EA"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			id: "1965AE47C27D8385"
+			tasks: [{
+				advancement: "allthemons:johtonian_pika_star"
+				criterion: ""
+				id: "376BC49AF78B5483"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			id: "0461FE9EE7BD285B"
+			tasks: [{
+				advancement: "allthemons:hoennian_pika_star"
+				criterion: ""
+				id: "3A3ACB30D492F587"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0461FE9EE7BD285B"]
+			icon_scale: 0.8d
+			id: "4D4F8B4FF05E410E"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:hoennian_complete_pika_star"
+				criterion: ""
+				id: "26945E2AC7259D5D"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["06CA9BE39EFE5EBD"]
+			icon_scale: 0.8d
+			id: "1B56BAFE94A1F83D"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:sinnohan_complete_pika_star"
+				criterion: ""
+				id: "1017C8465DD54C84"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			id: "06CA9BE39EFE5EBD"
+			tasks: [{
+				advancement: "allthemons:sinnohan_pika_star"
+				criterion: ""
+				id: "087D330876859EBD"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "5A94E168B6362E43"
+			tasks: [{
+				advancement: "allthemons:unovan_pika_star"
+				criterion: ""
+				id: "0151693F5030A138"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5A94E168B6362E43"]
+			icon_scale: 0.8d
+			id: "7793F96BA31494F9"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:unovan_complete_pika_star"
+				criterion: ""
+				id: "796C1EE6823BFE3A"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "3375020AEADFCFF1"
+			tasks: [{
+				advancement: "allthemons:kalosian_pika_star"
+				criterion: ""
+				id: "4F8AD0145A25415A"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D8C93346B6F70C1"]
+			icon_scale: 0.8d
+			id: "369F898BF46729E0"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:alolan_complete_pika_star"
+				criterion: ""
+				id: "73232A016AF57AD1"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3375020AEADFCFF1"]
+			icon_scale: 0.8d
+			id: "7D90A2C2869F8FC7"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:kalosian_complete_pika_star"
+				criterion: ""
+				id: "24E00A45BF6D7697"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "0D8C93346B6F70C1"
+			tasks: [{
+				advancement: "allthemons:alolan_pika_star"
+				criterion: ""
+				id: "673AB662C542B2EC"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			id: "03F291F815FBF85A"
+			tasks: [{
+				advancement: "allthemons:galarian_pika_star"
+				criterion: ""
+				id: "6970C0D05504DA28"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["03F291F815FBF85A"]
+			icon_scale: 0.8d
+			id: "7B01BCEFF45C59EE"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:galarian_complete_pika_star"
+				criterion: ""
+				id: "39A48D97419955A4"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "0B05185B65E41DEA"
+			tasks: [{
+				advancement: "allthemons:paldean_pika_star"
+				criterion: ""
+				id: "2CBCE06BB3258CE9"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0B05185B65E41DEA"]
+			icon_scale: 0.8d
+			id: "531A0EC04A6A8D5D"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:paldean_complete_pika_star"
+				criterion: ""
+				id: "23A2FA404FA6EB15"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "6251C22782FE194E"
+			tasks: [{
+				advancement: "allthemons:hisuian_pika_star"
+				criterion: ""
+				id: "25097426917F2574"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6251C22782FE194E"]
+			icon_scale: 0.8d
+			id: "01D725FDE3EE2334"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "allthemons:hisuian_complete_pika_star"
+				criterion: ""
+				id: "73481698E9AF8B44"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1B09DCB8AC3A420A"]
+			icon: {
+				id: "summoningrituals:altar"
+			}
+			id: "3B7A4929A1FCFFC6"
+			min_width: 300
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "36447A3CD52C7858"
+					item: { count: 1, id: "summoningrituals:altar" }
+					type: "item"
+				}
+				{
+					id: "0C959B11B37F53C6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["2DBB88E1C147F496"]
+			icon: {
+				components: {
+					"allthemons:region": "kantonian"
+					"allthemons:uuid": [I;
+						-1217726565
+						-315012259
+						-1471163515
+						-292980473
+					]
+				}
+				id: "allthemons:pika_star"
+			}
+			id: "279FADB5CBA260D7"
+			min_width: 530
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "53851DD297E86E63"
+					type: "checkmark"
+				}
+				{
+					id: "1538DC915FBE9D30"
+					item: { count: 1, id: "cobblemon:display_case" }
+					type: "item"
+				}
+				{
+					id: "73F3749558B098A3"
+					item: { count: 1, id: "cobblefurnies:statue_pikachu" }
+					type: "item"
+				}
+				{
+					id: "11974E28ABE56934"
+					item: { count: 1, id: "cobblefurnies:statue_charmander" }
+					type: "item"
+				}
+				{
+					id: "06EF3E6A5819AA65"
+					item: { count: 1, id: "cobblefurnies:statue_squirtle" }
+					type: "item"
+				}
+				{
+					id: "34BD2D0107958178"
+					item: { count: 1, id: "cobblefurnies:statue_bulbasaur" }
+					type: "item"
+				}
+				{
+					id: "7ED7D21BBF1C5F3F"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:mega_stone)item_tag(zamega:mega_stone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "5EAF0EF707A92C5C"
+					item: { count: 1, id: "allthemons:ancient_allthemodium_ball" }
+					type: "item"
+				}
+				{
+					id: "21CED1F8AE30E800"
+					item: { count: 1, id: "allthemons:ancient_vibranium_ball" }
+					type: "item"
+				}
+				{
+					id: "6031BE9889B4AC36"
+					item: { count: 1, id: "allthemons:ancient_unobtainium_ball" }
+					type: "item"
+				}
+				{
+					id: "63EF8361CC6CD92D"
+					item: { count: 1, id: "cobblemon:ancient_origin_ball" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.5d
+		}
+	]
+}

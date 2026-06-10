@@ -1,0 +1,10 @@
+{
+  "description": {
+    "translatable": "series.rctmod.atm_team.description"
+  },
+  "difficulty": 9,
+  "requiredSeries": [["bdsp"]],
+  "title": {
+    "translatable": "series.rctmod.atm_team.title"
+  }
+}

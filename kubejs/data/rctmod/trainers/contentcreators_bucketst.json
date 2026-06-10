@@ -1,0 +1,208 @@
+{
+  "name": "BucketSt",
+  "identity": "BucketSt",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "swampert",
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": [
+        "stealthrock",
+        "waterfall",
+        "earthquake",
+        "icepunch"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "mega_showdown:swampertite",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "grimmsnarl",
+      "nature": "adamant",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "taunt",
+        "foulplay"
+      ],
+      "gimmicks": {
+        "dynamax": true,
+        "gmax": true
+      },
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "light_clay",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "whimsicott",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "energyball",
+        "uturn",
+        "moonblast",
+        "psychic"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "mega_showdown:pixie_plate",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "FEMALE",
+      "level": 100
+    },
+    {
+      "species": "reshiram",
+      "nickname": "Blue Eyes",
+      "nature": "modest",
+      "ability": "turboblaze",
+      "moveset": [
+        "blueflare",
+        "dracometeor",
+        "roost",
+        "earthpower"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 0,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "GENDERLESS",
+      "level": 100
+    },
+    {
+      "species": "reshiram",
+      "nickname": "Blue Eyes",
+      "nature": "jolly",
+      "ability": "turboblaze",
+      "moveset": [
+        "blueflare",
+        "dragondance",
+        "outrage",
+        "ancientpower"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 0,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "GENDERLESS",
+      "level": 100
+    },
+    {
+      "species": "reshiram",
+      "nickname": "Blue Eyes",
+      "nature": "modest",
+      "ability": "turboblaze",
+      "moveset": [
+        "blueflare",
+        "dracometeor",
+        "earthpower",
+        "shadowball"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 0,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_specs",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "GENDERLESS",
+      "level": 100
+    }
+  ]
+}

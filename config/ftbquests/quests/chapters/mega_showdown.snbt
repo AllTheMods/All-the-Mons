@@ -1,0 +1,789 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "mega_showdown"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "mega_showdown:tera_orb"
+	}
+	id: "4CAF16B84BADF2CD"
+	images: [
+		{
+			height: 3.5d
+			image: "atm:textures/questpics/pokemon/mega_title.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/mega_mega.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/mega_tera.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			height: 1.5d
+			image: "atm:textures/questpics/pokemon/mega_z.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/mega_dynamax.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "mega_showdown:item/tera_orb"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 2.0d
+			image: "mega_showdown:item/hapu_z_power_ring"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			height: 2.0d
+			image: "mega_showdown:item/dynamax_band"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "mega_showdown:item/mega_bracelet_blue"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 1.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6309224455079059"]
+			icon: {
+				id: "mega_showdown:mega_stone_crystal"
+			}
+			id: "3FACB48732D14A79"
+			rewards: [{
+				count: 4
+				id: "3C133304D03C89C2"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.1d
+			tasks: [{
+				id: "350B42AD4BEC2CAA"
+				structure: "mega_showdown:mega_site"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			icon: {
+				id: "minecraft:oxidized_cut_copper"
+			}
+			id: "2E6646301ACD332E"
+			rewards: [{
+				count: 4
+				id: "39C73027CB4891A9"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.1d
+			tasks: [{
+				id: "2AEAD15B10E55686"
+				structure: "mega_showdown:observatory"
+				type: "structure"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2E6646301ACD332E"]
+			id: "53A556F14187F399"
+			rewards: [{
+				id: "1BDFEC112BDC0691"
+				item: {
+					count: 1
+					id: "mega_showdown:blank_z"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3C3AB03E5D14358E"
+				item: { count: 1, id: "mega_showdown:blank_z" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3FACB48732D14A79"]
+			id: "3D6167F673BB5256"
+			rewards: [{
+				id: "00BF74BFC92F7C11"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5BF07C448F5E7817"
+				item: { count: 1, id: "mega_showdown:mega_stone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "41CFA175B69E6639"
+			rewards: [{
+				count: 4
+				id: "524E5B55D6F7BB0B"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.1d
+			tasks: [{
+				id: "3FA72F26E90BC6BE"
+				structure: "mega_showdown:wishing_weald"
+				type: "structure"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["41CFA175B69E6639"]
+			id: "23DBBEFCE729AEA3"
+			rewards: [{
+				id: "37CFF51AF6546F2B"
+				item: {
+					count: 1
+					id: "mega_showdown:wishing_star"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "682197760F304B26"
+				item: { count: 1, id: "mega_showdown:wishing_star" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["23DBBEFCE729AEA3"]
+			id: "380C4222BDD65415"
+			rewards: [
+				{
+					id: "1E8EA7BE45A0044B"
+					item: {
+						count: 1
+						id: "cobblemon:blue_apricorn_seed"
+					}
+					type: "item"
+				}
+				{
+					id: "065056E2FBAE8A14"
+					item: {
+						count: 1
+						id: "cobblemon:pink_apricorn_seed"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "51D043800A091FE7"
+				item: { count: 1, id: "mega_showdown:dynamax_band" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"23DBBEFCE729AEA3"
+				"5C34376765740C16"
+			]
+			id: "69B766907C1226C0"
+			rewards: [{
+				id: "631281951E9C1BA5"
+				item: {
+					count: 1
+					id: "mega_showdown:power_spot"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "1A0208393172F230"
+				item: { count: 1, id: "mega_showdown:power_spot" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			icon: {
+				id: "mega_showdown:keystone_ore"
+			}
+			id: "33B301DB0637B6FC"
+			rewards: [{
+				count: 4
+				id: "5C556163BFDA5EA0"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.1d
+			tasks: [{
+				id: "7642235107D717F0"
+				structure: "mega_showdown:megaroid"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["33B301DB0637B6FC"]
+			id: "747580F66BCFB9B0"
+			rewards: [{
+				count: 16
+				id: "099637319DD01D78"
+				item: {
+					count: 1
+					id: "mega_showdown:mega_meteorid_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F6E8787BB1C5224"
+				item: { count: 1, id: "mega_showdown:keystone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["747580F66BCFB9B0"]
+			id: "16E0E86A19015F2A"
+			rewards: [{
+				id: "0E70B4D1F670C201"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "25A056981B7F62F0"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:mega_bracelet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			icon: {
+				id: "minecraft:suspicious_sand"
+			}
+			id: "7895490EEBDCF601"
+			rewards: [{
+				count: 4
+				id: "4C05E202670FB09E"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.1d
+			tasks: [{
+				id: "409D3B5208940226"
+				structure: "mega_showdown:archaeological_site"
+				type: "structure"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D6167F673BB5256"]
+			id: "0CFF4E3560CFFB49"
+			rewards: [{
+				id: "0095AADF57218274"
+				item: {
+					count: 1
+					id: "mega_showdown:mega_stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CBDF43B0961C245"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:mega_stone)mod(zamega))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"16E0E86A19015F2A"
+				"0CFF4E3560CFFB49"
+			]
+			id: "3642AF6FE63B1C90"
+			rewards: [
+				{
+					id: "75377D4EE59AF866"
+					item: {
+						count: 1
+						id: "mega_showdown:may_bracelet"
+					}
+					type: "item"
+				}
+				{
+					id: "3B3072933DD44ADF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/mega_evolve"
+				criterion: ""
+				id: "364F853E0932527B"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7895490EEBDCF601"]
+			id: "440B61C517B8BD09"
+			rewards: [{
+				count: 5
+				id: "5158EDB985F184D2"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2391300D60CC0D36"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mega_showdown:sparkling_stone_light)item(mega_showdown:sparkling_stone_dark))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["440B61C517B8BD09"]
+			id: "117ADB40CE01CE07"
+			rewards: [{
+				id: "6E32FF09A41BDBCC"
+				item: {
+					count: 1
+					id: "mega_showdown:sparkling_stone_dark"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "217F7677258AF94F"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:z_ring))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53A556F14187F399"]
+			id: "53C0C8BCCB804368"
+			rewards: [
+				{
+					count: 2
+					id: "6D6F21A3A37F487A"
+					item: {
+						count: 1
+						id: "cobblemon:fire_gem"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0ED1AA7DB3585A03"
+					item: {
+						count: 1
+						id: "cobblemon:water_gem"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "70F516EED0966F57"
+					item: {
+						count: 1
+						id: "cobblemon:grass_gem"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "5FEDBD789E019B8D"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:z_crystal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"53C0C8BCCB804368"
+				"117ADB40CE01CE07"
+			]
+			id: "658D2E531DDB116C"
+			rewards: [
+				{
+					id: "3B0F26283ABB9B17"
+					item: {
+						count: 1
+						id: "mega_showdown:olivia_z_power_ring"
+					}
+					type: "item"
+				}
+				{
+					id: "046F4688FE6C3499"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/z_moves"
+				criterion: ""
+				id: "283D2837B0F14D04"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			id: "00E4E946891014D9"
+			rewards: [{
+				id: "5BA5FA870B4419B7"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "47CA334B159F6C76"
+				item: { count: 1, id: "mega_showdown:tera_orb" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			id: "6F59C939D62FA6C8"
+			rewards: [
+				{
+					count: 5
+					id: "4337C2E56A7DD541"
+					item: {
+						count: 1
+						id: "minecraft:leather"
+					}
+					type: "item"
+				}
+				{
+					id: "55C9C49619963BF7"
+					item: {
+						count: 1
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "15B5242AD0DAF52A"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(mega_showdown:tera_shard))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6F59C939D62FA6C8"]
+			id: "1E01E377A2091AA6"
+			rewards: [{
+				count: 5
+				id: "710EC6F16ABC63E4"
+				item: {
+					count: 1
+					id: "mega_showdown:stellar_tera_shard"
+				}
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0CAA96E3FC123E4D"
+				item: { count: 1, id: "mega_showdown:stellar_tera_shard" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"00E4E946891014D9"
+				"6F59C939D62FA6C8"
+			]
+			id: "2C272D1D6DE6C0F1"
+			rewards: [
+				{
+					id: "2F28BE084E3C35AF"
+					item: {
+						count: 1
+						id: "mega_showdown:stellar_tera_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "5BBED2C5A5D07080"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/change_tera"
+				criterion: ""
+				id: "6EB635E643D6D678"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6F59C939D62FA6C8"]
+			id: "1690E9F6BBF820D1"
+			rewards: [{
+				id: "3C1B808BD19CCBEE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7A4A898E67110B8E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mega_showdown:tera_pouch_white)item(mega_showdown:tera_pouch_orange)item(mega_showdown:tera_pouch_magenta)item(mega_showdown:tera_pouch_light_blue)item(mega_showdown:tera_pouch_yellow)item(mega_showdown:tera_pouch_lime)item(mega_showdown:tera_pouch_pink)item(mega_showdown:tera_pouch_gray)item(mega_showdown:tera_pouch_light_gray)item(mega_showdown:tera_pouch_cyan)item(mega_showdown:tera_pouch_purple)item(mega_showdown:tera_pouch_blue)item(mega_showdown:tera_pouch_brown)item(mega_showdown:tera_pouch_green)item(mega_showdown:tera_pouch_red)item(mega_showdown:tera_pouch_black))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"00E4E946891014D9"
+				"747580F66BCFB9B0"
+				"23DBBEFCE729AEA3"
+				"440B61C517B8BD09"
+			]
+			hide_dependency_lines: true
+			id: "53F54C6A1EAB9574"
+			rewards: [
+				{
+					id: "0E139E15FF07F202"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
+				}
+				{
+					id: "29D5674AB732AFF1"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				id: "69A31A4764DAFE30"
+				item: { count: 1, id: "mega_showdown:omni_ring" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "6309224455079059"
+			rewards: [{
+				id: "2795ED8CA25C1F19"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				advancement: "cobblemon:first_catch"
+				criterion: ""
+				id: "6FEB3AA7532A8E9E"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"69B766907C1226C0"
+				"380C4222BDD65415"
+			]
+			id: "490A35A715E8E20E"
+			rewards: [
+				{
+					id: "5D7D5F44887DC333"
+					item: {
+						count: 1
+						id: "mega_showdown:max_soup"
+					}
+					type: "item"
+				}
+				{
+					id: "06477A400A1AB614"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/dynamax/dynamax"
+				criterion: ""
+				id: "1B542AF79A7B33D9"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6309224455079059"]
+			id: "5C34376765740C16"
+			rewards: [{
+				count: 3
+				id: "052C186BB3C03C05"
+				item: {
+					count: 1
+					id: "mega_showdown:max_mushroom"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "609B6F3CEC5BDE23"
+				item: { count: 1, id: "mega_showdown:max_mushroom" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"5C34376765740C16"
+				"69B766907C1226C0"
+				"380C4222BDD65415"
+			]
+			id: "56F6B205855AF7F2"
+			rewards: [
+				{
+					count: 3
+					id: "5769C04DAF3309B2"
+					item: {
+						count: 1
+						id: "mega_showdown:dynamax_candy"
+					}
+					type: "item"
+				}
+				{
+					id: "5AEF34FEFF6A5697"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/dynamax/gigantamax"
+				criterion: ""
+				id: "69DD10D718475DBF"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+	]
+}

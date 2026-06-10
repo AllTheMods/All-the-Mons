@@ -1,0 +1,31 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void"
+  ],
+  "biomeTagWhitelist": [
+    "allthemodium:other_biomes"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+      ["team_allthemods_bored420"],
+      ["team_allthemods_drackion"],
+      ["team_allthemods_dragondogemaster"],
+      ["team_allthemods_helix_ranmaru"],
+      ["team_allthemods_lobsterjonn"],
+      ["team_allthemods_mitchell52"],
+      ["team_allthemods_mutantgumdrop"],
+      ["team_allthemods_oly2o6"],
+      ["team_allthemods_shinyporygon"],
+      ["team_allthemods_toblerone0508"],
+      ["team_allthemods_ultramegaa"],
+	  ["team_allthemods_bathsalts"]
+  ],
+  "series": [
+    "atm_team"
+  ],
+  "spawnWeightFactor": 0,
+  "type": "team_allthemods_elite_gym"
+}

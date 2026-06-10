@@ -1,0 +1,15 @@
+{
+  "name": "allthemons:airship_choc_factory",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "allthemons:airship_choc_factory",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "cobblemon"
+    }
+  ],
+  "type": "pylons:harvesting",
+  "block": "cobblemon:pink_apricorn",
+  "output": {
+    "count": 1,
+    "id": "cobblemon:pink_apricorn"
+  }
+}
+
+
+
+
+
+
+
+

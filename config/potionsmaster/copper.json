@@ -1,0 +1,8 @@
+{
+    "entryname": "copper",
+    "oretag": "c:ores/copper",
+    "color": -4755398,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "minecraft:raw_copper"
+}

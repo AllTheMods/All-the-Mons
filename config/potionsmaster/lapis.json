@@ -1,0 +1,8 @@
+{
+    "entryname": "lapis",
+    "oretag": "c:ores/lapis",
+    "color": -16776961,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "minecraft:lapis_lazuli"
+}

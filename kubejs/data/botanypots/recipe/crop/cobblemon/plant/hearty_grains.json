@@ -1,0 +1,82 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "botanypots"
+    }
+  ],
+  "type": "botanypots:crop",
+  "grow_time": 1200,
+  "input": {
+    "item": "cobblemon:hearty_grains"
+  },
+  "soil": {
+    "tag": "botanypots:soil/dirt"
+  },
+  "drops": {
+    "type": "botanypots:items",
+    "items": [
+      {
+        "result": {
+          "id": "cobblemon:hearty_grains"
+        },
+        "chance": 1.0
+      }
+    ]
+  },
+  "display": {
+    "type": "botanypots:transitional",
+    "phases": [
+      {
+        "type": "botanypots:simple",
+        "block_state": {
+          "block": "cobblemon:hearty_grains",
+          "properties": {
+            "age": "0",
+            "half": "lower"
+          }
+        }
+      },
+      {
+        "type": "botanypots:simple",
+        "block_state": {
+          "block": "cobblemon:hearty_grains",
+          "properties": {
+            "age": "1",
+            "half": "lower"
+          }
+        }
+      },
+      {
+        "type": "botanypots:simple",
+        "block_state": {
+          "block": "cobblemon:hearty_grains",
+          "properties": {
+            "age": "2",
+            "half": "lower"
+          }
+        }
+      },
+      {
+        "type": "botanypots:simple",
+        "block_state": {
+          "block": "cobblemon:hearty_grains",
+          "properties": {
+            "age": "5",
+            "half": "upper"
+          }
+        }
+      },
+      {
+        "type": "botanypots:simple",
+        "block_state": {
+          "block": "cobblemon:hearty_grains",
+          "properties": {
+            "age": "6",
+            "half": "upper"
+          }
+        }
+      }
+    ]
+  }
+}

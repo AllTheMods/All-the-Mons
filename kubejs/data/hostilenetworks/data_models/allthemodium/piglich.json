@@ -1,0 +1,31 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:false"
+        }
+    ],
+    "entity": "allthemodium:piglich",
+    "variants": [],
+    "name": {
+        "translate": "entity.allthemodium.piglich",
+        "color": "#D3D3D3"
+    },
+    "display": {
+        "scale": 0.85
+    },
+    "sim_cost": 16384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction",
+        "count": 1
+    },
+    "trivia": "hostilenetworks.trivia.piglich",
+    "fabricator_drops": [
+        {
+            "id": "allthemodium:piglich_heart",
+            "count": 4
+        }
+    ]
+}

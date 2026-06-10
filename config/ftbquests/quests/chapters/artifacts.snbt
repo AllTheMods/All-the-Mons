@@ -1,0 +1,954 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "artifacts"
+	group: "15E5B587D291A4AA"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						power: {
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							stats: {
+								armor_ignore: {
+									initialQuality: 6
+								}
+								hits_required: {
+									initialQuality: 2
+								}
+								power_damage_bonus: {
+									initialQuality: 5
+								}
+							}
+						}
+					}
+					synergies: { }
+				}
+				leveling: { }
+				statistic: { }
+			}
+		}
+		id: "artifacts:power_glove"
+	}
+	id: "7AF827D2D101D343"
+	images: [
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/artifacts_head.png"
+			rotation: 0.0d
+			width: 3.1125d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/artifacts_hands.png"
+			rotation: 0.0d
+			width: 3.7375d
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/artifacts_hands.png"
+			rotation: 0.0d
+			width: 3.7375d
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/artifacts_necklace.png"
+			rotation: 0.0d
+			width: 5.15d
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/artifacts_belt.png"
+			rotation: 0.0d
+			width: 2.5625d
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/artifacts/artifacts_title.png"
+			rotation: 0.0d
+			width: 10.585365853658537d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/artifacts/artifacts_cowboy.png"
+			rotation: 0.0d
+			width: 2.67203513909224d
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/artifacts/artifacts_pool.png"
+			rotation: 0.0d
+			width: 2.5428571428571427d
+			x: -5.5d
+			y: 9.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/artifacts/artifacts_flameon.png"
+			rotation: 0.0d
+			width: 2.8474320241691844d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/artifacts/artifacts_lucky.png"
+			rotation: 0.0d
+			width: 2.0412517780938835d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/artifacts/artifacts_hungry.png"
+			rotation: 0.0d
+			width: 2.766990291262136d
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/feet_olyfans.png"
+			rotation: 0.0d
+			width: 2.775d
+			x: -2.0d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/artifacts/feet_olyfans.png"
+			rotation: 0.0d
+			width: 2.775d
+			x: 1.5d
+			y: 12.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "19B393433FB0C62F"
+			rewards: [{
+				id: "1D6B80A0E1346CA8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1ADC8526781E1773"
+				item: { components: { "relics:data": { abilities: { abilities: { lava_stride: { lock: { breaks: 5 }, points: 0, stats: { jump_bonus: { }, recovery_time: { }, speed_penalty: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:strider_shoes" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.5d
+		}
+		{
+			id: "010607466D565B53"
+			rewards: [{
+				id: "67AFD1C6A9878176"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7D3BB67D10EA5245"
+				item: { components: { "relics:data": { abilities: { abilities: { devouring: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 5 }, fertilizer_interval: { initialQuality: 1 }, healing: { initialQuality: 4 }, hunger_restore: { initialQuality: 10 }, restoration_delay: { initialQuality: 10 }, saturation_restore: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:rooted_boots" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.5d
+		}
+		{
+			id: "3EC8A0B89788D079"
+			rewards: [{
+				id: "0CA5EB7B12A44248"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "302D0A2C7FE07D17"
+				item: { components: { "relics:data": { abilities: { abilities: { swim: { lock: { breaks: 5 }, points: 0, stats: { air_loss_reduction: { initialQuality: 2 }, evasion: { }, speed: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:flippers" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			hide_details_until_startable: false
+			id: "2215FB0777D7029D"
+			rewards: [{
+				id: "436819C474E4E4F9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4323420D7FF4F583"
+				item: { components: { "relics:data": { abilities: { abilities: { resistance: { lock: { breaks: 5 }, points: 0, stats: { modifier: { initialQuality: 4 } } }, wall_slide: { lock: { breaks: 0 }, points: 0, stats: { damage_resistance: { initialQuality: 9 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:steadfast_spikes" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			id: "74B352457BF1541B"
+			rewards: [{
+				id: "66FA05EA0440A12F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "268319B4D86AF1FA"
+				item: { components: { "relics:data": { abilities: { abilities: { snow: { lock: { breaks: 5 }, points: 0, stats: { linger_duration: { initialQuality: 2 }, speed_bonus: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:snowshoes" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 11.5d
+		}
+		{
+			id: "4A7AEBEB87CEC274"
+			rewards: [{
+				id: "27A249F2662A57B2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7DABA35BECFBE1E2"
+				item: { components: { "relics:data": { abilities: { abilities: { runner: { lock: { breaks: 5 }, points: 0, stats: { jump_charge_bonus: { initialQuality: 1 }, max_speed_bonus: { initialQuality: 4 }, max_step_bonus: { initialQuality: 9 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:running_shoes" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			id: "122E6E7CABCB17E7"
+			rewards: [{
+				id: "4BB64F9FF51DBA77"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "294D97F3514A382B"
+				item: { components: { "relics:data": { abilities: { abilities: { feline_aura: { lock: { breaks: 5 }, points: 0, stats: { crouch_speed_bonus: { }, fall_damage_reduction: { initialQuality: 9 }, radius: { initialQuality: 6 } } }, nine_lives: { lock: { breaks: 5 }, points: 0, stats: { evasion_chance: { }, survival_chance: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:kitty_slippers" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			id: "5040B3D29F238BC0"
+			rewards: [{
+				id: "4B23025A3DF6FED3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "42875442667F74F9"
+				item: { components: { "relics:data": { abilities: { abilities: { jump: { lock: { breaks: 5 }, points: 0, stats: { duration: { initialQuality: 6 }, impact_damage_bonus: { initialQuality: 6 }, repel_radius: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:bunny_hoppers" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.5d
+		}
+		{
+			id: "4D3379D38237F830"
+			rewards: [{
+				id: "61AF877D7328B938"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "61C6CFA5DB18E2DC"
+				item: { components: { "relics:data": { abilities: { abilities: { water_dash: { lock: { breaks: 5 }, points: 0, stats: { jump_bonus: { initialQuality: 8 }, recovery_time: { initialQuality: 2 }, speed_penalty: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:aqua_dashers" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			id: "11C5F17C6BB1237B"
+			rewards: [{
+				id: "0BC4239F313D6CC9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "48632D9698EB1A29"
+				item: { components: { "relics:data": { abilities: { abilities: { withering: { lock: { breaks: 5 }, points: 0, stats: { chance: { initialQuality: 1 }, spread_duration: { initialQuality: 8 }, spread_radius: { initialQuality: 10 }, wither_duration: { initialQuality: 1 }, wither_level: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:withered_bracelet" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			id: "62622137648A4F56"
+			rewards: [{
+				id: "4D0311D0E6C9EE09"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3324A34D10894F27"
+				item: { components: { "relics:data": { abilities: { abilities: { heating: { lock: { breaks: 5 }, points: 0, stats: { fortune_chance: { initialQuality: 3 }, fortune_max_casts: { initialQuality: 7 }, ignite_duration: { initialQuality: 7 }, smelt_chance: { initialQuality: 2 }, stack_bonus: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:pickaxe_heater" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			id: "50A32AC6EDBC5854"
+			rewards: [{
+				id: "32ECEBDD3FC9EFCD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "749900AF5B497E65"
+				item: { components: { "relics:data": { abilities: { abilities: { hunger_mining: { lock: { breaks: 5 }, points: 0, stats: { food_boost: { initialQuality: 5 }, food_boost_duration: { initialQuality: 7 }, hunger_restore_chance: { initialQuality: 3 }, speed_per_hunger: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:onion_ring" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			id: "7188DC06A28AE30E"
+			rewards: [{
+				id: "0F118F21E3912277"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2F5269ABA03B3701"
+				item: { components: { "relics:data": { abilities: { abilities: { hook: { lock: { breaks: 5 }, points: 0, stats: { entities_pull_radius: { initialQuality: 3 }, experience_bonus: { initialQuality: 3 }, experience_pull_radius: { initialQuality: 7 }, steal_chance: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:golden_hook" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "73FC51144FC2DA52"
+			rewards: [{
+				id: "6D6A664B87EA7794"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "308C57B7ACB795F0"
+				item: { components: { "relics:data": { abilities: { abilities: { vampire: { lock: { breaks: 5 }, points: 0, stats: { kill_heal: { initialQuality: 3 }, lifesteal: { initialQuality: 3 }, max_streak_bonuses: { initialQuality: 8 }, overheal_absorption_cap: { initialQuality: 9 }, streak_heal_bonus: { initialQuality: 3 }, streak_window: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:vampiric_glove" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			id: "3B3BD39BA02DCA13"
+			rewards: [{
+				id: "067713AF0F04CB00"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "078D36F0A6A3F09C"
+				item: { components: { "relics:data": { abilities: { abilities: { piston: { lock: { breaks: 5 }, points: 0, stats: { distance_bonus_per_block: { initialQuality: 8 }, empty_hand_knockback: { initialQuality: 9 }, range_bonus: { initialQuality: 3 }, stun_duration: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:pocket_piston" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "427014BDE06DE631"
+			rewards: [{
+				id: "0012D00B951BDB21"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2C689F171E77768E"
+				item: { components: { "relics:data": { abilities: { abilities: { flame: { lock: { breaks: 5 }, points: 0, stats: { burning_damage_bonus: { initialQuality: 2 }, fire_duration: { initialQuality: 8 }, spark_count: { initialQuality: 6 }, spark_damage: { initialQuality: 3 }, spark_fire_duration: { initialQuality: 4 }, spread_fire_duration: { initialQuality: 9 }, spread_radius: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:fire_gauntlet" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			id: "3705D303CF423804"
+			rewards: [{
+				id: "2F22132F2DCE4DBD"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "58EBE55746C50688"
+				item: { components: { "relics:data": { abilities: { abilities: { power: { lock: { breaks: 5 }, points: 0, stats: { armor_ignore: { }, hits_required: { initialQuality: 10 }, power_damage_bonus: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:power_glove" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			id: "6A452BFC8A967C39"
+			rewards: [{
+				id: "7897EE0226BBAEFB"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "01D07B21B85FB2B8"
+				item: { components: { "relics:data": { abilities: { abilities: { feral: { lock: { breaks: 5 }, points: 0, stats: { attack_speed_per_charge: { initialQuality: 8 }, invulnerability_reduction: { initialQuality: 3 }, max_charges: { initialQuality: 6 }, window: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:feral_claws" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "3525D5DCC3A534D9"
+			rewards: [{
+				id: "50F3D3094E068198"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "29454B0A459EAA52"
+				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, stats: { bare_hands_speed: { initialQuality: 6 }, momentum_per_block: { initialQuality: 6 }, momentum_window: { }, speed: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "321F16645640C462"
+			rewards: [{
+				id: "1BA6843536347774"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "14A300B4DC9C8542"
+				item: { components: { "relics:data": { abilities: { abilities: { warp: { lock: { breaks: 5 }, points: 0, stats: { blind_duration: { }, blind_radius: { initialQuality: 4 }, cooldown: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:warp_drive" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			id: "5DE7C4FD5FA29236"
+			rewards: [{
+				id: "3DD92AF42189207A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "47974C878B90D0DC"
+				item: { components: { "relics:data": { abilities: { abilities: { chorus: { lock: { breaks: 5 }, points: 0, stats: { blind_duration: { initialQuality: 1 }, blind_radius: { initialQuality: 1 }, cooldown: { initialQuality: 10 }, regen_boost: { initialQuality: 8 }, regen_boost_duration: { initialQuality: 3 }, vanishing_duration: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:chorus_totem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			id: "589F1D502F680075"
+			rewards: [{
+				id: "2AEE686084EFFE16"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "744D283E79F6357A"
+				item: { components: { "relics:data": { abilities: { abilities: { flying: { lock: { breaks: 5 }, points: 0, stats: { ranged_damage_bonus: { initialQuality: 5 }, resistance: { initialQuality: 2 }, speed_bonus: { initialQuality: 7 }, time: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:helium_flamingo" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			id: "623796B1D7981E59"
+			rewards: [{
+				id: "2DD1B2EB53FA1B06"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "54E784C8438E430A"
+				item: { components: { "relics:data": { abilities: { abilities: { heart: { lock: { breaks: 5 }, points: 0, stats: { bonus_health: { initialQuality: 5 }, cooldown: { initialQuality: 1 }, full_health_resistance: { initialQuality: 1 }, heavy_hit_threshold: { initialQuality: 7 }, immortality_duration: { initialQuality: 8 }, low_health_heal_bonus: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:crystal_heart" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			id: "1E40ACF3E69A4100"
+			rewards: [{
+				id: "47FAD59E3EB18EB3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6D34B89C0FD0BA2B"
+				item: { components: { "relics:data": { abilities: { abilities: { antidote: { lock: { breaks: 5 }, points: 0, stats: { duration_reduction: { initialQuality: 7 }, immunity_duration: { initialQuality: 6 }, resistance_per_effect: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:antidote_vessel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			id: "5EB7CE3A1DCD3E9B"
+			rewards: [{
+				id: "27705590C2DBFCBE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1762FBFEF8647F60"
+				item: { components: { "relics:data": { abilities: { abilities: { magnetism: { lock: { breaks: 5 }, points: 0, stats: { radius: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:universal_attractor" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			id: "4933CF4675E77D50"
+			rewards: [{
+				id: "6262D735C724ACC5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "32245E61C3910041"
+				item: { components: { "relics:data": { abilities: { abilities: { lava: { lock: { breaks: 5 }, points: 0, stats: { damage_reduction: { initialQuality: 2 }, duration: { initialQuality: 5 }, low_reserve_speed_bonus: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:obsidian_skull" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			id: "436E4E3515BCCDE9"
+			rewards: [{
+				id: "695CA7D1EFB035F3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3FF51BD0B49B2F93"
+				item: { components: { "relics:data": { abilities: { abilities: { jump: { lock: { breaks: 5 }, points: 0, stats: { count: { }, slow_fall_duration: { initialQuality: 2 }, updraft_bonus: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:cloud_in_a_bottle" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			id: "0A1D4228271DECA3"
+			rewards: [{
+				id: "740BE05C2E4F0058"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "1F3F6A98B1A8D03E"
+				item: { components: { "relics:data": { abilities: { abilities: { size: { lock: { breaks: 5 }, points: 0, stats: { change_per_second: { initialQuality: 6 }, evasion_per_size: { initialQuality: 10 }, fall_reduction_per_size: { initialQuality: 2 }, min_scale: { initialQuality: 9 }, target_loss_chance_per_size: { initialQuality: 3 }, target_loss_radius: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:charm_of_shrinking" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "221C9EDA651144BA"
+			rewards: [{
+				id: "2613BC08CDB9516F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "28FC7C19E2A3E1B9"
+				item: { components: { "relics:data": { abilities: { abilities: { sinking: { lock: { breaks: 5 }, points: 0, stats: { air_restore_speed: { initialQuality: 7 }, immortality_delay: { initialQuality: 2 }, resistance_per_block: { } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:charm_of_sinking" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "3446803FB59D8875"
+			rewards: [{
+				id: "25B13403204151CF"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0562A0A5A57E8DD8"
+				item: { components: { "relics:data": { abilities: { abilities: { poison: { lock: { breaks: 5 }, points: 0, stats: { poison_duration: { initialQuality: 7 }, poison_level: { initialQuality: 9 }, poisoned_damage_bonus: { initialQuality: 3 }, reflect_damage: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:thorn_pendant" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "27E951F4F4F6F847"
+			rewards: [{
+				id: "78E44C67B75C7237"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "609310B07E907A4F"
+				item: { components: { "relics:data": { abilities: { abilities: { fire: { lock: { breaks: 5 }, points: 0, stats: { burning_damage_bonus: { initialQuality: 2 }, chance: { initialQuality: 6 }, fire_duration: { initialQuality: 2 }, healing: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:flame_pendant" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "70C7D92844089DEB"
+			rewards: [{
+				id: "624BB858D3CB0912"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "62EB681EEB76FCDB"
+				item: { components: { "relics:data": { abilities: { abilities: { shock: { lock: { breaks: 5 }, points: 0, stats: { bounces: { initialQuality: 7 }, chance: { }, damage: { initialQuality: 1 }, damage_modifier: { initialQuality: 5 }, distance: { initialQuality: 1 }, tremor_chance: { initialQuality: 5 }, tremor_duration: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:shock_pendant" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			id: "0E716B90E60C486B"
+			rewards: [{
+				id: "59599CA4761C5FE5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7CC5ED6BF577834C"
+				item: { components: { "relics:data": { abilities: { abilities: { panic: { lock: { breaks: 5 }, points: 0, stats: { attack_speed: { initialQuality: 4 }, heal: { initialQuality: 3 }, max_movement: { initialQuality: 2 }, movement: { initialQuality: 1 }, radius: { initialQuality: 10 }, resistance: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:panic_necklace" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			id: "72D6265E35814927"
+			rewards: [{
+				id: "244EB416BE853DED"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "5AA765DFA49DA1C9"
+				item: { components: { "relics:data": { abilities: { abilities: { protection: { lock: { breaks: 5 }, points: 0, stats: { fire_duration: { initialQuality: 7 }, invulnerability: { initialQuality: 7 }, survival_chance: { initialQuality: 8 }, undead_damage: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:cross_necklace" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "7503823ACDDB0491"
+			rewards: [{
+				id: "271F86DD9828F8D6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "07DB486C6CAF2E13"
+				item: { components: { "relics:data": { abilities: { abilities: { fortune: { lock: { breaks: 5 }, points: 0, stats: { chain_max_bonus_casts: { initialQuality: 1 }, chain_max_casts_per_proc: { initialQuality: 2 }, chance: { initialQuality: 10 }, max_casts: { initialQuality: 1 }, pity_per_fail: { initialQuality: 1 }, vein_efficiency_per_block: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:lucky_scarf" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "145E7D1A88B83DDD"
+			rewards: [{
+				id: "4AFFDBA7D63244B6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3244560CD2EE978D"
+				item: { components: { "relics:data": { abilities: { abilities: { invisibility: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 8 }, damage: { initialQuality: 6 }, delay: { initialQuality: 10 }, regeneration: { initialQuality: 9 }, stun: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:scarf_of_invisibility" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "29448D08C8777425"
+			rewards: [{
+				id: "738FEBB9C29A0B70"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7E2317305BD5F842"
+				item: { components: { "relics:data": { abilities: { abilities: { catch: { lock: { breaks: 5 }, points: 0, stats: { chance: { initialQuality: 3 }, heal: { }, max_casts: { }, treasure_chance: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:anglers_hat" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "6FBE5B5D5027B32C"
+			rewards: [{
+				id: "3BAE1E0F292410A8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7EC988A7F600F860"
+				item: { components: { "relics:data": { abilities: { abilities: { riding: { lock: { breaks: 5 }, points: 0, stats: { absorption: { initialQuality: 2 }, amount: { initialQuality: 5 }, reach: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:cowboy_hat" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "5F5E43B3F51CAE9E"
+			rewards: [{
+				id: "29087C6E2B87AD00"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1F1665E13DA82D42"
+				item: { components: { "relics:data": { abilities: { abilities: { looting: { lock: { breaks: 5 }, points: 0, stats: { animal_bonus: { initialQuality: 4 }, chance: { initialQuality: 7 }, first_kill_bonus: { initialQuality: 2 }, first_kill_window: { }, max_casts: { initialQuality: 10 }, streak_bonus: { initialQuality: 3 }, streak_max_effects: { initialQuality: 1 }, streak_window: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:superstitious_hat" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "73B73870B29DFAD9"
+			rewards: [{
+				id: "068B300389DB2FA0"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "6B7D97464175DAD6"
+				item: { components: { "relics:data": { abilities: { abilities: { golem_guard: { lock: { breaks: 0 }, points: 0, stats: { damage_reduction_per_golem: { initialQuality: 1 }, max_damage_reduction: { initialQuality: 3 }, radius: { initialQuality: 6 } } }, trade_surge: { lock: { breaks: 5 }, points: 0, stats: { discount: { initialQuality: 1 }, multicast: { initialQuality: 10 }, preserve_chance: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:villager_hat" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "2AD78E22988A92D3"
+			rewards: [{
+				id: "688DBF188490BF6D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "187EE75FF4C074B4"
+				item: { components: { "relics:data": { abilities: { abilities: { vision: { lock: { breaks: 5 }, points: 0, stats: { amount: { }, damage_bonus: { initialQuality: 3 }, miss_chance: { initialQuality: 6 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:night_vision_goggles" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "16255FB20F35A9D9"
+			rewards: [{
+				id: "012EC765D75BE091"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "4E77B753AADEF6A8"
+				item: { components: { "relics:data": { abilities: { abilities: { snorkeling: { lock: { breaks: 5 }, points: 0, stats: { drowning_resistance: { initialQuality: 7 }, reserve_duration: { initialQuality: 5 }, water_depth: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:snorkel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			id: "3E0643EA9183CDAE"
+			rewards: [{
+				id: "226C5CDF795A026A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "485807A0B369A8F7"
+				item: { components: { "relics:data": { abilities: { abilities: { drinking: { lock: { breaks: 5 }, points: 0, stats: { air: { initialQuality: 10 }, health: { initialQuality: 6 }, hunger: { initialQuality: 8 }, speed: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:novelty_drinking_hat" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			id: "2607F3DC07049785"
+			rewards: [{
+				id: "779361BFB6009F94"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "5D461DEF3DEDCA4A"
+				item: { components: { "relics:data": { abilities: { abilities: { drinking: { lock: { breaks: 5 }, points: 0, stats: { air: { initialQuality: 7 }, health: { initialQuality: 3 }, hunger: { initialQuality: 3 }, speed: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:plastic_drinking_hat" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			id: "789AF6D0A6321945"
+			rewards: [{
+				id: "7F76ED98F73DF59F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1572258C18AF7CED"
+				item: { components: { "relics:data": { abilities: { abilities: { push: { lock: { breaks: 5 }, points: 0, stats: { chance: { initialQuality: 1 }, cloud_spawn_chance: { initialQuality: 10 }, cooldown: { }, distance: { initialQuality: 1 }, paralysis_duration: { initialQuality: 9 }, paralysis_radius: { initialQuality: 9 }, retaliation_chance: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:whoopee_cushion" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4564B577CB4EC046"]
+			id: "161A90E134592D0E"
+			rewards: [{
+				id: "47E93F58F4876901"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "312B1C048832A594"
+				item: { components: { "relics:data": { abilities: { abilities: { meal: { lock: { breaks: 5 }, points: 0, stats: { consume_speed: { initialQuality: 2 }, durability: { initialQuality: 3 }, healing: { initialQuality: 4 }, preservation_chance: { initialQuality: 8 }, regeneration: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:eternal_steak" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			id: "4564B577CB4EC046"
+			rewards: [{
+				id: "628ED3546A3712E7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "5DF60B934B5F3EBB"
+				item: { components: { "relics:data": { abilities: { abilities: { meal: { lock: { breaks: 5 }, points: 0, stats: { consume_speed: { initialQuality: 4 }, durability: { initialQuality: 3 }, healing: { initialQuality: 9 }, preservation_chance: { initialQuality: 6 }, regeneration: { initialQuality: 4 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:everlasting_beef" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			id: "3E1A3BC8642390B3"
+			rewards: [{
+				id: "74CAAAE55F9C1000"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "17A1084B7A6C0540"
+				item: { components: { "relics:data": { abilities: { abilities: { glider: { lock: { breaks: 5 }, points: 0, stats: { bounces: { initialQuality: 9 }, fall_speed: { initialQuality: 4 }, strength: { initialQuality: 6 }, vanishing_duration: { initialQuality: 4 } } }, shield: { lock: { breaks: 5 }, points: 0, stats: { cooldown: { initialQuality: 9 }, hits: { initialQuality: 10 }, repel_distance: { initialQuality: 3 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:umbrella" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			id: "5CE44C58A470E48E"
+			rewards: [{
+				id: "4124A7CA30FAB48B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				entity: "artifacts:mimic"
+				id: "68DC39876E14FC1B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.25d
+		}
+		{
+			id: "5FD6A738754F6013"
+			invisible: true
+			optional: true
+			rewards: [{
+				id: "69C9634F74254088"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "376652638B9221C9"
+					type: "checkmark"
+				}
+				{
+					id: "72E89066290E3040"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 3.5d
+		}
+	]
+}

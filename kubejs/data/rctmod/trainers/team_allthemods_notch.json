@@ -1,0 +1,208 @@
+{
+  "name": "Notch",
+  "identity": "Notch",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "golurk",
+      "nickname": "Iron Golem",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "poltergeist",
+        "earthquake",
+        "dynamicpunch",
+        "icepunch"
+      ],
+      "evs": {
+        "hp": 252,
+        "spa": 0,
+        "spe": 0,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "assault_vest",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "lycanroc",
+      "aspects": ["dusk"],
+      "nickname": "Wolf",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "stoneedge",
+        "accelerock",
+        "closecombat",
+        "swordsdance"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 0,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 252
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "crobat",
+      "nickname": "Bat",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "moveset": [
+        "bravebird",
+        "uturn",
+        "roost",
+        "defog"
+      ],
+      "evs": {
+        "hp": 248,
+        "spa": 0,
+        "spe": 252,
+        "spd": 8,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "heavy_duty_boots",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "galvantula",
+      "nickname": "Spider",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunder",
+        "bugbuzz",
+        "stickyweb",
+        "voltswitch"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "focus_sash",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "chandelure",
+      "nickname": "Blaze",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "shadowball",
+        "fireblast",
+        "energyball",
+        "trick"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "choice_scarf",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    },
+    {
+      "species": "zoroark",
+      "nickname": "Enderman",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "flamethrower",
+        "focusblast"
+      ],
+      "evs": {
+        "hp": 0,
+        "spa": 252,
+        "spe": 252,
+        "spd": 4,
+        "def": 0,
+        "atk": 0
+      },
+      "heldItem": "life_orb",
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "gender": "MALE",
+      "level": 100
+    }
+  ]
+}

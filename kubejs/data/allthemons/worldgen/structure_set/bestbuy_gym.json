@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:bestbuy_gym",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 751658,
+    "spacing": 115,
+    "separation": 95
+  }
+}

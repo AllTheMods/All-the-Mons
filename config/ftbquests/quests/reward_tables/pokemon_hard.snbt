@@ -1,0 +1,146 @@
+{
+	id: "43A79256A9474E87"
+	loot_size: 1
+	order_index: 52
+	rewards: [
+		{
+			id: "7E1534F5657FBB3A"
+			item: {
+				count: 1
+				id: "cobblemon:red_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "029CCDE9D11E4036"
+			item: {
+				count: 1
+				id: "cobblemon:yellow_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7AD0C65806CB73E8"
+			item: {
+				count: 1
+				id: "cobblemon:green_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "16D31BCE3C01672A"
+			item: {
+				count: 1
+				id: "cobblemon:blue_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7B8E07C2149833D9"
+			item: {
+				count: 1
+				id: "cobblemon:pink_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "55C7F3AC2864C554"
+			item: {
+				count: 1
+				id: "cobblemon:black_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "4252E41EA9B8C12A"
+			item: {
+				count: 1
+				id: "cobblemon:white_apricorn_seed"
+			}
+			weight: 2.0f
+		}
+		{ id: "5246642BDF1DAEC0", item: { count: 1, id: "cobblemon:revive" } }
+		{ id: "72881BCA3D838365", item: { count: 1, id: "cobblemon:superb_remedy" } }
+		{
+			id: "63B35F35FCCEACF4"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+			weight: 0.5f
+		}
+		{ id: "3E3503C12EEFB5A1", item: { count: 1, id: "cobblemon:great_ball" } }
+		{
+			id: "00A3511139E57456"
+			item: {
+				count: 1
+				id: "cobblemon:hp_up"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "243F377A683BF7A6"
+			item: {
+				count: 1
+				id: "cobblemon:iron"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "772DE89B05100A85"
+			item: {
+				count: 1
+				id: "cobblemon:calcium"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "4356DC9EDF46FE93"
+			item: {
+				count: 1
+				id: "cobblemon:protein"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "7E3E8144928674F8"
+			item: {
+				count: 1
+				id: "cobblemon:zinc"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "5E1DC601C1CBEA59"
+			item: {
+				count: 1
+				id: "cobblemon:carbos"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "7913A67C28F1E95B"
+			item: {
+				count: 1
+				id: "cobblemon:pp_up"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "13E81D6A8BC178E1"
+			item: {
+				count: 1
+				id: "cobblemon:ether"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "4B3B22501568781B"
+			item: {
+				count: 1
+				id: "cobblemon:elixir"
+			}
+			weight: 0.25f
+		}
+	]
+}

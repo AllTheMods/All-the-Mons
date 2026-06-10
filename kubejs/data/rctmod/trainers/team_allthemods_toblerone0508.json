@@ -1,0 +1,183 @@
+{
+  "name": "Toblerone0508",
+  "identity": "Toblerone0508",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+  {
+    "species": "armarouge",
+    "gender": "FEMALE",
+    "level": 90,
+    "nature": "modest",
+    "ability": "flashfire",
+    "moveset": [
+      "psyshock",
+      "armorcannon",
+      "shadowball",
+      "energyball"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 4,
+      "spa": 252,
+      "spe": 252
+    },
+    "heldItem": "choice_specs"
+  },
+  {
+    "species": "umbreon",
+    "gender": "FEMALE",
+    "level": 90,
+    "nature": "calm",
+    "ability": "synchronize",
+    "moveset": [
+      "darkpulse",
+      "babydolleyes",
+      "confuseray",
+      "doubleedge"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "spd": 252,
+      "def": 4
+    },
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "greninja",
+    "gender": "MALE",
+    "level": 90,
+    "nature": "timid",
+    "ability": "protean",
+    "moveset": [
+      "watershuriken",
+      "nightslash",
+      "extrasensory",
+      "doubleteam"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "spa": 252,
+      "spe": 252,
+      "hp": 4
+    },
+    "heldItem": "life_orb"
+  },
+  {
+    "species": "suicune",
+    "gender": "GENDERLESS",
+    "level": 90,
+    "nature": "bold",
+    "ability": "pressure",
+    "moveset": [
+      "icefang",
+      "raindance",
+      "crunch",
+      "rocksmash"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spd": 4
+    },
+    "heldItem": "leftovers"
+  },
+  {
+    "species": "regigigas",
+    "gender": "GENDERLESS",
+    "level": 90,
+    "nature": "adamant",
+    "ability": "slowstart",
+    "moveset": [
+      "gigaimpact",
+      "zenheadbutt",
+      "ironhead",
+      "knockoff"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "spe": 4
+    },
+    "heldItem": "assault_vest"
+  },
+  {
+    "species": "squirtle",
+    "gender": "MALE",
+    "level": 90,
+    "nature": "bold",
+    "ability": "torrent",
+    "moveset": [
+      "waterpledge",
+      "brickbreak",
+      "mirrorcoat",
+      "terablast"
+    ],
+    "ivs": {
+      "hp": 31,
+      "atk": 0,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "evs": {
+      "hp": 252,
+      "def": 252,
+      "spd": 4
+    },
+    "heldItem": "eviolite"
+  }
+]
+}

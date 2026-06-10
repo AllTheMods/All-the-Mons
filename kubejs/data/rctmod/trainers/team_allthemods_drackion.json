@@ -1,0 +1,202 @@
+{
+  "name": "Drack_ion",
+  "identity": "Drack_ion",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+  {
+      "species": "dialga",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "roaroftime",
+        "flamethrower",
+        "rest",
+        "sleeptalk"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 252
+      },
+      "heldItem": [
+        "mega_showdown:adamant_orb",
+        "life_orb"
+      ]
+    },
+  {
+      "species": "latios",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "psychic",
+        "aurasphere",
+        "thunderbolt",
+        "calmmind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:latiosite",
+        "life_orb"
+      ]
+    },
+  {
+      "species": "guzzlord",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "modest",
+      "ability": "beastboost",
+      "moveset": [
+        "darkpulse",
+        "chatter",
+        "flamethrower",
+        "sludgewave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spa": 252
+      },
+      "heldItem": [
+        "mega_showdown:darkinium-z",
+        "dark_gem"
+      ]
+    },
+  {
+      "species": "latias",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "icebeam",
+        "calmmind",
+        "psyshock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:latiasite",
+        "leftovers"
+      ]
+    },
+  {
+      "species": "eternatus",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "meteorbeam",
+        "sludgebomb",
+        "flamethrower",
+        "dynamaxcannon"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "power_herb"
+      ]
+    },
+    {
+      "species": "palkia",
+      "gender": "GENDERLESS",
+      "level": 90,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "hydropump",
+        "spacialrend",
+        "thunder",
+        "aurasphere"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:lustrous_orb",
+        "life_orb"
+      ],
+      "aspects": [
+        "origin"
+      ]
+    }
+]
+}

@@ -1,0 +1,1858 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bounty_board"
+	group: ""
+	icon: {
+		id: "minecraft:zombie_head"
+	}
+	id: "18A429E7F56AF5A9"
+	images: [{
+		height: 3.0d
+		image: "atm:textures/questpics/bounty.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 0.0d
+		y: -10.0d
+	}]
+	order_index: 1
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			hide_until_deps_visible: false
+			id: "2B05A29C62676EB2"
+			rewards: [
+				{
+					count: 5
+					id: "4247F14C46042AFC"
+					item: {
+						count: 1
+						id: "minecraft:rotten_flesh"
+					}
+					type: "item"
+				}
+				{
+					id: "716EC603C1FC926F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5457CD8C1ABA0B9E"
+				type: "kill"
+				value: 5L
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2B05A29C62676EB2"]
+			hide_until_deps_visible: true
+			id: "444ACE285311ECB4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A111F9EEADA4BA2"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "6FCE69EAA8F7D08C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "3AD10C31CB6BA4C2"
+				type: "kill"
+				value: 10L
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["444ACE285311ECB4"]
+			id: "146232B8504789C1"
+			rewards: [
+				{
+					count: 20
+					id: "0030F09FB9D2DE22"
+					item: {
+						count: 1
+						id: "minecraft:rotten_flesh"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "03A2CFC2335A776A"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FDDD3EECB6D7A85"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "5E76EDDE93587CF1"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "51471254BFEBDAA7"
+				type: "kill"
+				value: 50L
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["146232B8504789C1"]
+			id: "7D5B36BF3EC0C93F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "180D2F31E833E6B5"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "60C9D5254F78453D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5056DC37AEF523E5"
+				type: "kill"
+				value: 100L
+			}]
+			x: -7.0d
+			y: -7.0d
+		}
+		{
+			id: "42822B1E8A53D051"
+			rewards: [
+				{
+					count: 5
+					id: "47DAFBFECB3B54BE"
+					item: {
+						count: 1
+						id: "minecraft:bone"
+					}
+					type: "item"
+				}
+				{
+					id: "3518A0200422A88E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "5B35720DF93CE2DB"
+				type: "kill"
+				value: 5L
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["42822B1E8A53D051"]
+			hide_until_deps_visible: true
+			id: "4748831E75A840BE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "056975CFED74BF64"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "750E749A079F915D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "015CB0D172D0712A"
+				type: "kill"
+				value: 10L
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4748831E75A840BE"]
+			id: "410E0DD607CB3469"
+			rewards: [
+				{
+					count: 20
+					id: "7A227BD20C66223A"
+					item: {
+						count: 1
+						id: "minecraft:bone"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "342AD2A33F43C0EE"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "649295B3143B081D"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "313019F9ED9DC6FE"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "2E17443A1BF2A0DA"
+				type: "kill"
+				value: 50L
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["410E0DD607CB3469"]
+			id: "555957ED58ABF8F8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F90CF0B7D2FED9B"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "033A2FCD299B5D6F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "00655AC734444E54"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			id: "77FC692AC94D2EEF"
+			rewards: [
+				{
+					count: 5
+					id: "311AAB7A9D64E946"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+				{
+					id: "02E39788C2347A3F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "423AF6C6647B1626"
+				type: "kill"
+				value: 5L
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["77FC692AC94D2EEF"]
+			hide_until_deps_visible: true
+			id: "65BBA5C0DAEEC31F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "01F13A0B354BBBFD"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "52557DBFFE61E796"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "1AB92CF7F0246D21"
+				type: "kill"
+				value: 10L
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65BBA5C0DAEEC31F"]
+			id: "76A29816F19E33A2"
+			rewards: [
+				{
+					count: 20
+					id: "27F653E02AC93F25"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C419A310D1686C7"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "1E1ACF28D0392E3B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "24BA89BD9898759B"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["76A29816F19E33A2"]
+			id: "5FCA4FF8C135435E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A4B7D60F897D023"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "486302C7D5B4041B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "045D1087A2692360"
+				type: "kill"
+				value: 100L
+			}]
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			id: "41C0948CD9D50322"
+			rewards: [{
+				id: "55CF29758364D4B2"
+				type: "xp"
+				xp: 10
+			}]
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "6E3ACC74E0987981"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/enderdragon/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "728BE1816DA23DC0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E3A9EB1F3AAB283"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DE4B3BE0F590D71"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "26ADAC29B5369011"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "1809F1F9A3043683"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/wither/wither.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "09C82CDDA800D8C9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "794A9665B0D9CCF1"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1434B9579016D3A0"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "2D22E6C0EABD5BFF"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "171FD27057746E80"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/guardian_elder.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "08D1CC753F6B4283"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2B969D67BA8AFD3B"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "6871AA890A24F11B"
+					type: "xp"
+					xp: 250
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "2F28B803C75DA3B2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "56DA46DC82F6665D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F951F75DBAF4D7C"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4296A74144EBD7F1"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "3F227FD8C4577EAE"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "ars_nouveau:wilden_boss"
+				icon: {
+					id: "ars_nouveau:wilden_tribute"
+				}
+				id: "452B65E139D9E12D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.75d
+			y: 4.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/wandering_trader.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0F55D0B4D5094EDB"
+			optional: true
+			rewards: [
+				{
+					id: "26EF416511A49817"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Sword of AlfredGG\"}"
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"For those brave enough to slaughter the Mighty and Annoying Trader\"}"]
+						}
+						count: 1
+						id: "minecraft:iron_sword"
+					}
+					type: "item"
+				}
+				{
+					id: "2052F84B9D14A141"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					entity: "minecraft:wandering_trader"
+					id: "596ABB45C0612AAF"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:trader_llama"
+					id: "1D136D138EF82DA9"
+					type: "kill"
+					value: 2L
+				}
+			]
+			x: 0.0d
+			y: 8.25d
+		}
+		{
+			id: "17F3AC15ADCFB175"
+			rewards: [
+				{
+					count: 5
+					id: "203C5104D0EE9774"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+				{
+					id: "36F858FD06683839"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "0EA4B08DAAFA4287"
+				type: "kill"
+				value: 5L
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["17F3AC15ADCFB175"]
+			hide_until_deps_visible: true
+			id: "2916F873A4DA84E8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2666996F798768C7"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "268C07B6CA4CDF5E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "58BF5D3267CF02F8"
+				type: "kill"
+				value: 10L
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2916F873A4DA84E8"]
+			id: "2AAF57D1D8AB6BF8"
+			rewards: [
+				{
+					count: 8
+					id: "05A65D5FBBCE30C9"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "46897BBCAF61CBCB"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "0E43D55ADBF66410"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "6BA6847A172C8DD7"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AAF57D1D8AB6BF8"]
+			id: "479A4E778D8D7317"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4EEDA3086FA8D846"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "6F2AC0995B13BC50"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "53C23DB8B4D1CEE2"
+				type: "kill"
+				value: 100L
+			}]
+			x: 7.0d
+			y: -7.0d
+		}
+		{
+			id: "1F18B64C84C8809D"
+			rewards: [
+				{
+					count: 5
+					id: "275D3078C224D84C"
+					item: {
+						count: 1
+						id: "minecraft:spider_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "18E8AA34DB10D4AF"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "18644A08B73A4B12"
+				type: "kill"
+				value: 5L
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1F18B64C84C8809D"]
+			hide_until_deps_visible: true
+			id: "283CA6DB77D5D2EB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4A6C2A97D769418B"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "524BCAEA8EC772F5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "5801AF8000768808"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["283CA6DB77D5D2EB"]
+			id: "63A1F25DF658928A"
+			rewards: [
+				{
+					count: 10
+					id: "6D9B9C1582E05FFD"
+					item: {
+						count: 1
+						id: "minecraft:string"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					count: 20
+					id: "13133B21B6680DA4"
+					item: {
+						count: 1
+						id: "minecraft:spider_eye"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "319B63A612336BE5"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "3F780B09E39A1F03"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "0F94F7427F99DAFE"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["63A1F25DF658928A"]
+			id: "2D7E335B9D780E70"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2B8E13883A6DEF5F"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "2DCDA6CE746BEBF0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "0F8ACB07CFA8CB33"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			id: "6141DE779232C8AA"
+			rewards: [
+				{
+					count: 5
+					id: "651B5C4C1024BC53"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "4FB5BA9D969A1025"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "1718CA0F8978181C"
+				type: "kill"
+				value: 5L
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6141DE779232C8AA"]
+			hide_until_deps_visible: true
+			id: "4F48A4839B549C92"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E7B0138373F4D28"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "375FDEF229AED155"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "00445193DEB7EAA0"
+				type: "kill"
+				value: 10L
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4F48A4839B549C92"]
+			id: "6C9BC3A699E57162"
+			rewards: [
+				{
+					count: 10
+					id: "3D8FB446CA3F27F4"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DD5D5A5D39C411C"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "633125E5D7705BFF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "404D3420276BD963"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6C9BC3A699E57162"]
+			id: "35CC1F1DA9530688"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0845C88CA6D644A3"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "4871EDD07934397F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "2038156A13C07BFC"
+				type: "kill"
+				value: 100L
+			}]
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			id: "5AC497F76A086A5C"
+			rewards: [
+				{
+					count: 5
+					id: "310682051A0C2291"
+					item: {
+						count: 1
+						id: "minecraft:glass_bottle"
+					}
+					type: "item"
+				}
+				{
+					id: "3545146C9E60CD9B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: {
+					id: "minecraft:potion"
+				}
+				id: "7BAB5E17D2DE4E3E"
+				type: "kill"
+				value: 5L
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5AC497F76A086A5C"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "minecraft:potion"
+			}
+			id: "6E4FD0B568BEB3F9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CCE54980E8D2003"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "4227DE8BC66C8470"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: {
+					id: "minecraft:potion"
+				}
+				id: "7127A76DEB4D1696"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6E4FD0B568BEB3F9"]
+			id: "2D136FCDA92C92AC"
+			rewards: [
+				{
+					count: 10
+					id: "52854A638D3FE878"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0049AE95E8647336"
+					item: {
+						count: 1
+						id: "minecraft:sugar"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2A0CD06747FBE0D8"
+					item: {
+						count: 1
+						id: "minecraft:glowstone_dust"
+					}
+					random_bonus: 10
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F4C40818D552881"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "2A063FC9FE48C54F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: {
+					id: "minecraft:potion"
+				}
+				id: "78A782913B7E6353"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D136FCDA92C92AC"]
+			id: "6F93A02E620C69FE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2019E33C08375AA8"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "7A8FF2B777E0E6D6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: {
+					id: "minecraft:splash_potion"
+				}
+				id: "5A3D6416BA0C7A20"
+				type: "kill"
+				value: 100L
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			id: "3371F9248D403664"
+			rewards: [
+				{
+					count: 5
+					id: "3C294799544A5584"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					id: "7221550A96E0CD00"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+				{
+					id: "65A4A21FEB144C30"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "1016033CBB003413"
+				type: "kill"
+				value: 5L
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3371F9248D403664"]
+			hide_until_deps_visible: true
+			id: "738E94C4CFB05D11"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "021EACDBD76A9D2E"
+					table_id: 487623848494439020L
+					type: "random"
+				}
+				{
+					id: "45DA910A0FE7A08E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "33107949548BC22D"
+				type: "kill"
+				value: 10L
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["738E94C4CFB05D11"]
+			id: "65CE9117B923C0DB"
+			rewards: [
+				{
+					count: 3
+					id: "578580004196BB13"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+				{
+					count: 30
+					id: "46FE70A8D25378BD"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24573A422CE166A4"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "1050FBCABC67BA5A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "29A605F8B896F3B9"
+				type: "kill"
+				value: 50L
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["65CE9117B923C0DB"]
+			id: "180B3AFF8C552F3F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E3E6BB30F0AF436"
+					table_id: 5564196992594175882L
+					type: "random"
+				}
+				{
+					id: "0D93F33D0C1A9F92"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "727813FFC599C36D"
+				type: "kill"
+				value: 100L
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/warden/warden.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0E20A9B79D1C6637"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49202375E31213C8"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B094578896C0276"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "48C26A872754A4F8"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "69678CAC075C8EA5"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "08B60D8A25008CCC"
+			invisible: true
+			optional: true
+			tasks: [
+				{
+					id: "00CBF98DE4E9CC90"
+					type: "checkmark"
+				}
+				{
+					id: "65E53C9C5AE98B69"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B05A29C62676EB2"]
+			hide_until_deps_complete: true
+			id: "2BD077EFE77B8EBB"
+			rewards: [
+				{
+					id: "5706AC6072D005A3"
+					item: {
+						count: 1
+						id: "minecraft:trident"
+					}
+					type: "item"
+				}
+				{
+					id: "57E03D5C83C0AC22"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:husk"
+					id: "27BA6318EA2571EF"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:drowned"
+					id: "44529CBD7ED7502A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "variantsandventures:gelid"
+					id: "3938CDF8DF2C1766"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "variantsandventures:thicket"
+					id: "3D59A3B7F940F8D0"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["42822B1E8A53D051"]
+			hide_until_deps_complete: true
+			id: "6827836C8E675A94"
+			rewards: [
+				{
+					id: "4DBB5B2919BC0D99"
+					item: {
+						count: 1
+						id: "mysticalagriculture:inferium_bow"
+					}
+					type: "item"
+				}
+				{
+					id: "4E90D5E8646C1C81"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:stray"
+					id: "2270A75156F454C2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:bogged"
+					id: "70FE879E07048556"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "variantsandventures:murk"
+					id: "1F2F14A414E02FF8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "variantsandventures:verdant"
+					id: "6E0C2317F20C947C"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["77FC692AC94D2EEF"]
+			hide_until_deps_complete: true
+			id: "1F31EBF49079F9D3"
+			rewards: [
+				{
+					id: "482EB089D051A610"
+					item: {
+						count: 1
+						id: "creeperoverhaul:cave_creeper_spawn_egg"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "425CF0235A15267D"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+				{
+					id: "30EE1106BBB241CA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					entity: "creeperoverhaul:badlands_creeper"
+					id: "731E8888AF95E703"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:dripstone_creeper"
+					id: "2C1B4079B2636255"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:spruce_creeper"
+					id: "155EE6983A63B091"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:swamp_creeper"
+					id: "40AA310A66CB42C4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:cave_creeper"
+					id: "61001A53475D7303"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:birch_creeper"
+					id: "4CCDC48B6CF0E9A6"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:ocean_creeper"
+					id: "697D13BE679C255C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:jungle_creeper"
+					id: "65FC7DCD1AD3551C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:desert_creeper"
+					id: "60CC38041D477625"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:dark_oak_creeper"
+					id: "3D9CA8869A46294A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:bamboo_creeper"
+					id: "53BDC9D0909029C8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:beach_creeper"
+					id: "5C29B98A93C02002"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:savannah_creeper"
+					id: "6501298CA7F25C22"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:hills_creeper"
+					id: "710A9E28A01EAE55"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:mushroom_creeper"
+					id: "665BA2AB6D013133"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:snowy_creeper"
+					id: "48731DD4B285EF6D"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["17F3AC15ADCFB175"]
+			hide_until_deps_complete: true
+			id: "570223A03231DF8C"
+			rewards: [
+				{
+					id: "309FE3D88633DEB8"
+					item: {
+						count: 1
+						id: "endermanoverhaul:cave_enderman_spawn_egg"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "43E622AE47323E2A"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "3EBF039B52EE3B68"
+					item: {
+						count: 1
+						id: "endermanoverhaul:soul_pearl"
+					}
+					type: "item"
+				}
+				{
+					id: "21E14E72D1CD4046"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					entity: "endermanoverhaul:mushroom_fields_enderman"
+					id: "1B12C1A4AC759504"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:swamp_enderman"
+					id: "4A0E0B8BF5F47AD7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:badlands_enderman"
+					id: "48C92AF818612EAE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:end_islands_enderman"
+					id: "10A3CB37865A3977"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:cave_enderman"
+					id: "61A3E71C7AF4D8DB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:snowy_enderman"
+					id: "03E9013007576E97"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:ice_spikes_enderman"
+					id: "1B54BDEF7517778E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:savanna_enderman"
+					id: "0BDBE858DB680768"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:crimson_forest_enderman"
+					id: "27CC6E8A08475943"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:windswept_hills_enderman"
+					id: "22FEA0AE155F815A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:nether_wastes_enderman"
+					id: "7F38E8E5DAAB86F7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:desert_enderman"
+					id: "4D60118A45E4AB00"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:coral_enderman"
+					id: "0BA3024B113FB4C0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:dark_oak_enderman"
+					id: "7C4AB0561CA3A82C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:soulsand_valley_enderman"
+					id: "62D9B47A7A46EB50"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:flower_fields_enderman"
+					id: "3FAE09970BADAF9C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:warped_forest_enderman"
+					id: "6713DD4E63A55772"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:end_enderman"
+					id: "2B53F437D7A01098"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "eternal_starlight:textures/painting/monstrous.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13BB75A7E1973488"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "47EE9DED85C4DFB2"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A3EF5F2876D7235"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "2FE20DB8B55821D1"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "eternal_starlight:lunar_monstrosity"
+				id: "17866842A275B4AA"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.25d
+			y: 4.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "eternal_starlight:block/chiseled_golem_steel_block"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6DCDD55786025911"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0FEDB3F957B8EFBA"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B040CCA92509D76"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "327AD5CF0D35765B"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				id: "38E34F997A59FDC3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.75d
+			y: 4.0d
+		}
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:forgotten_guardian"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "199932BF623A6785"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60C889EE9A26BB7D"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "721928BA80B3CDEC"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "00FCD620346CD937"
+					type: "xp"
+					xp: 500
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "undergarden:forgotten_guardian"
+				id: "4A68FB4E1FED5F47"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.25d
+			y: 4.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/illager/ravager.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "734411D931A8CDBF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B7DCC94C0CF66C4"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "22F455F176233430"
+					type: "xp"
+					xp: 250
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:ravager"
+				id: "6219443664D0465C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/piglin/piglin_brute.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3813F5C1760C3A79"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "78725DEDE162CADD"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "493A6DE589C23218"
+					type: "xp"
+					xp: 250
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				id: "5EB07157D785C3FC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "undergarden:rotbeast"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2CA9394459C24012"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "460EB4768EF41335"
+					table_id: 4196188979167302596L
+					type: "random"
+				}
+				{
+					id: "4CB0208C2757B1F3"
+					type: "xp"
+					xp: 250
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "undergarden:rotbeast"
+				id: "42474723672C2787"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.105427357601002E-15d
+			y: 6.839285714285715d
+		}
+	]
+}

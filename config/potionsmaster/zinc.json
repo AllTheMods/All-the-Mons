@@ -1,0 +1,8 @@
+{
+    "entryname": "zinc",
+    "oretag": "c:ores/zinc",
+    "color": -4868747,
+    "drawing": false,
+    "order": 0,
+    "recipeItem": "alltheores:raw_zinc"
+}

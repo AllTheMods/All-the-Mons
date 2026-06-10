@@ -1,0 +1,190 @@
+{
+  "name": "UltraMegaa",
+  "identity": "UltraMegaa",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "mimikyu",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "drainpunch",
+        "thunderwave",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 6
+      },
+      "heldItem": [
+        "mega_showdown:mimikium-z",
+        "fairy_gem"
+      ]
+    },
+    {
+      "species": "toxicroak",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "drainpunch",
+        "icepunch",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "mismagius",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "moongeistbeam",
+        "mysticalfire",
+        "dazzlinggleam",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      }
+    },
+    {
+      "species": "incineroar",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "darkestlariat",
+        "drainpunch",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "def": 252
+      },
+      "heldItem": [
+        "assault_vest"
+      ]
+    },
+    {
+      "species": "toxapex",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "impish",
+      "ability": "regenerator",
+      "moveset": [
+        "knockoff",
+        "toxic",
+        "recover",
+        "haze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": [
+        "aguav_berry"
+      ]
+    },
+    {
+      "species": "eelektross",
+      "gender": "MALE",
+      "level": 90,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "voltswitch",
+        "gigadrain",
+        "flamethrower",
+        "acidspray"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 6
+      }
+    }
+  ]
+}

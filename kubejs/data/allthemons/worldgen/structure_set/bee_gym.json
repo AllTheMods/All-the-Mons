@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:bee_gym",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 951123,
+    "spacing": 85,
+    "separation": 75
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void"
+  ],
+  "biomeTagWhitelist": [
+    "has_structure/end_city",
+    "is_rare"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "elite_four_bruno_0050",
+      "elite_four_bruno_0051"
+    ],
+    [
+      "elite_four_lance_0056",
+      "elite_four_lance_0057"
+    ],
+    [
+      "elite_four_lorelei_004d",
+      "elite_four_lorelei_004e"
+    ],
+    [
+      "elite_four_agatha_0053",
+      "elite_four_agatha_0054"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0,
+  "type": "champ"
+}

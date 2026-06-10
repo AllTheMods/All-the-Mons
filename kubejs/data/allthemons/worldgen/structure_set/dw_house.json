@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "allthemons:dw_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 563563,
+    "spacing": 95,
+    "separation": 75
+  }
+}
