@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
     "V": "allthemodium:vibranium_allthemodium_alloy_block",
     "T": "minecraft:crafting_table"
   }).id("allthemons:summoning_ritual_altar")
-  
+
   event.recipes.summoningrituals.altar(Ingredient.withData("allthemons:pika_star", {}, true))
     .itemInputs([
       "cobblemon:ancient_origin_ball",
@@ -146,4 +146,52 @@ ServerEvents.recipes(event => {
         return pattern
     })
     .id("allthemons:deoxys_crystal")
+
+    event.recipes.summoningrituals.altar(Ingredient.of("sgearmetalworks:ring_cast"))
+        .itemInputs([
+            "morered:red_network_cable",
+            "reliquary:salamander_eye",
+            "industrialforegoing:black_laser_lens"
+        ])
+        .ticks(120)
+        .displayOutputs([
+            `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:meltan","aspects":[]}]`
+        ])
+        .blockPattern(pattern => {
+            pattern
+                .tag([1, 0, 2], "productivemetalworks:foundry_drains")
+                .tag([0, 0, 2], "productivemetalworks:foundry_controllers")
+                .tag([-1, 0, 2], "productivemetalworks:foundry_drains")
+            return pattern
+        })
+        .id("allthemons:meltan")
+
+    event.recipes.summoningrituals.altar(Ingredient.of("cobblemon:metal_coat"))
+        .itemInputs([
+            "allthemodium:soul_lava_bucket",
+            "allthemodium:soul_lava_bucket",
+            "allthemodium:soul_lava_bucket"
+        ])
+        .entityInputZone([5, 3, 5])
+        .ticks(240)
+        .fakeEntityInputs(
+            SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:meltan","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.melmetal_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.melmetal_req_lore1"}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)
+        )
+        .displayOutputs([
+            `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:melmetal","aspects":[]}]`
+        ])
+        .blockPattern(pattern => {
+            pattern
+                .block([0, -1, 0], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([0, -1, 1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([0, -1, -1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([1, -1, 0], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([-1, -1, 0], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([1, -1, 1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([1, -1, -1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([-1, -1, 1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+                .block([-1, -1, -1], "productivemetalworks:high_powered_heating_coil", {"attached": true})
+            return pattern
+        })
+        .id("allthemons:melmetal")
 })

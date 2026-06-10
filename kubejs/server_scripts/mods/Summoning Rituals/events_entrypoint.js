@@ -4,6 +4,8 @@ let startEntryPoint = Utils.newMap()
 startEntryPoint.put("allthemons:imbued_pokemon_egg", startImbuedPokemonEgg)
 startEntryPoint.put("allthemons:regional_pika_star", startRegionalPikaStar)
 startEntryPoint.put("allthemons:deoxys_crystal", startDeoxysCrystal)
+startEntryPoint.put("allthemons:meltan", startMeltan)
+startEntryPoint.put("allthemons:melmetal", startMelmetal)
 
 SummoningRituals.start(event => {
   let func = startEntryPoint.get(event.recipeInfo.getRecipeId().toString())
@@ -18,6 +20,8 @@ let completeEntryPoint = Utils.newMap()
 completeEntryPoint.put("allthemons:imbued_pokemon_egg", completeImbuedPokemonEgg)
 completeEntryPoint.put("allthemons:regional_pika_star", completeRegionalPikaStar)
 completeEntryPoint.put("allthemons:deoxys_crystal", completeDeoxysCrystal)
+completeEntryPoint.put("allthemons:meltan", completeMeltan)
+completeEntryPoint.put("allthemons:melmetal", completeMelmetal)
 
 SummoningRituals.complete(event => {
   let func = completeEntryPoint.get(event.recipeInfo.getRecipeId().toString())

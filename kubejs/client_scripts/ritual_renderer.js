@@ -2,31 +2,47 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:regional_pika_star", (renderer, recipe, context) => {
     regionalPikaStarRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:melmetal", (renderer, recipe, context) => {
+    melmetalRitualRender(renderer, recipe, context)
+  })
+  event.register("allthemons:meltan", (renderer, recipe, context) => {
+    meltanRitualRender(renderer, recipe, context)
+  })
 })
 
-/** @type {typeof import("java.util.TreeMap").$TreeMap} */
-let $TreeMap = Java.loadClass("java.util.TreeMap")
+/** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
+let $DustParticleOptions = Java.loadClass("net.minecraft.core.particles.DustParticleOptions")
+/** @type {typeof import("org.joml.Vector3f").$Vector3f} */
+let $Vector3f = Java.loadClass("org.joml.Vector3f")
+
+let STEEL_PARTICLE = new $DustParticleOptions(new $Vector3f(0.60, 0.63, 0.68), 1.0)
+let GOLD_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.78, 0.15), 1.0)
+let SILVER_PARTICLE = new $DustParticleOptions(new $Vector3f(0.80, 0.82, 0.86), 1.0)
+
+/** @type {import("java.util.Map").$Map<(import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe),(any)>} */
+let meltanDrains = Utils.newMap()
+
+let melmetalState = {}
+let pikaState = {}
 
 /** @type {import("java.util.List").$List<(import("net.minecraft.world.entity.Entity").$Entity)>} */
 let cryEntities = Utils.newList()
-/** @type {import("java.util.Map").$Map<(import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe),(import("java.util.TreeMap").$TreeMap<(integer),import("java.util.List").$List<(Function)>>)>} */
-let recipeEffects = Utils.newMap()
 
 function regionalPikaStarRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
-  if (cryEntities.isEmpty() && context.recipeProgress == 0) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!pikaState[stateKey] && context.recipeProgress < recipe.ticks()) {
     let aabb = getAABB(context.altar.blockPos, recipe.zone())
+    cryEntities.clear()
     cryEntities.addAll(context.level.getEntitiesOfClass("com.cobblemon.mod.common.entity.pokemon.PokemonEntity", aabb, e => e.type == "cobblemon:pokemon" && e.isTame()))
-    //console.log("Created entity list: " + cryEntities)
+    pikaState[stateKey] = buildPikaSchedule()
   }
-  if (context.recipeProgress == 0 && !recipeEffects.containsKey(recipe)) {
-    recipeEffects.put(recipe, generateEffectsSchedule())
-    //console.log("Created recipe effects: " + recipeEffects)
-  }
-  let task = recipeEffects.get(recipe)
-  if (task != null && !task.isEmpty() && context.recipeProgress >= task.firstKey()) {
-    let entry = task.pollFirstEntry()
-    //console.log("Polled entry: " + entry)
-    entry.getValue().forEach(func => func(context, { "entityList": cryEntities, "index": Math.floor(context.recipeProgress / 40) }))
+  if (pikaState[stateKey]) {
+    pikaState[stateKey].forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
   }
 
   context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
@@ -38,28 +54,149 @@ function regionalPikaStarRitualRender(/**@type {import("com.almostreliable.summo
   renderer.renderItemOrbit(context)
 
   if (context.recipeProgress >= recipe.ticks()) {
-    //console.log("Cleanup...")
-    //console.log("Recipe Progress: " + context.recipeProgress)
     cryEntities.clear()
-    recipeEffects.remove(recipe)
+    delete pikaState[stateKey]
   }
 }
-
-function generateEffectsSchedule() {
-  /** @type {import("java.util.TreeMap").$TreeMap<(integer),import("java.util.List").$List<(Function)>>} */
-  let treeMap = new $TreeMap()
-  for (let index = 0; index < 6; index++) {
-    treeMap.computeIfAbsent(Java.cast("java.lang.Integer", index * 40), key => Utils.newList()).addLast((context, args) => {
-      triggerPokemonCryAtIndex(args.entityList, args.index)
+function melmetalRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!melmetalState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    let aabb = getAABB(context.altar.blockPos, recipe.zone())
+    cryEntities.clear()
+    cryEntities.addAll(context.level.getEntitiesOfClass("com.cobblemon.mod.common.entity.pokemon.PokemonEntity", aabb, e => e.type == "cobblemon:pokemon" && e.isTame()))
+    melmetalState[stateKey] = buildMelmetalSchedule(recipe.ticks())
+  }
+  if (melmetalState[stateKey]) {
+    melmetalState[stateKey].forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
     })
   }
-  treeMap.computeIfAbsent(Java.cast("java.lang.Integer", 40), key => Utils.newList()).addLast((context, args) => {
-    triggerEvolutionEffect(context)
+
+  let ratio = context.getRecipeProgressRatio()
+  let bp = context.altar.blockPos
+  let target = [bp.x + renderer.HALF, bp.y + renderer.ALTAR_RENDER_HEIGHT + 2.5 * ratio * renderer.HALF, bp.z + renderer.HALF]
+  cryEntities.forEach(entity => {
+    emitStream(context.level, entity.getX(), entity.getY() + 0.4, entity.getZ(), target, SILVER_PARTICLE)
   })
-  return treeMap
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    cryEntities.clear()
+    delete melmetalState[stateKey]
+  }
 }
 
-function triggerEvolutionEffect(context) {
+function meltanRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  if (context.recipeProgress == 0 && !meltanDrains.containsKey(recipe)) {
+    let drains = findFoundryDrains(context.level, context.altar.blockPos)
+    if (drains != null) {
+      meltanDrains.put(recipe, drains)
+    }
+  }
+
+  let drains = meltanDrains.get(recipe)
+  if (drains != null) {
+    let ratio = context.getRecipeProgressRatio()
+    let bp = context.altar.blockPos
+    let target = [bp.x + renderer.HALF, bp.y + renderer.ALTAR_RENDER_HEIGHT + 2.5 * ratio * renderer.HALF, bp.z + renderer.HALF]
+    spawnFluidStream(context.level, drains.steel, target, STEEL_PARTICLE)
+    spawnFluidStream(context.level, drains.gold, target, GOLD_PARTICLE)
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    meltanDrains.remove(recipe)
+  }
+}
+
+function findFoundryDrains(level, altarPos) {
+  let controllerPos = null
+  for (let dx = -3; dx <= 3 && controllerPos == null; dx++) {
+    for (let dy = -1; dy <= 1 && controllerPos == null; dy++) {
+      for (let dz = -3; dz <= 3 && controllerPos == null; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        if (String(level.getBlockState(p).block.id).includes("foundry_controller")) {
+          controllerPos = p
+        }
+      }
+    }
+  }
+  if (controllerPos == null) return null
+
+  let drains = []
+  let neighbors = [controllerPos.north(), controllerPos.south(), controllerPos.east(), controllerPos.west()]
+  neighbors.forEach(p => {
+    if (String(level.getBlockState(p).block.id).includes("foundry_drain")) {
+      drains.push(p)
+    }
+  })
+  if (drains.length < 2) return null
+
+  drains.sort((a, b) => (a.x - b.x) || (a.z - b.z))
+  return { "steel": drains[0], "gold": drains[1] }
+}
+
+function spawnFluidStream(level, drainPos, target, particle) {
+  let cx = drainPos.x + 0.5
+  let cz = drainPos.z + 0.5
+  let dirX = target[0] - cx
+  let dirZ = target[2] - cz
+  let len = Math.sqrt(dirX * dirX + dirZ * dirZ) || 1
+  let sx = cx + (dirX / len) * 0.55
+  let sy = drainPos.y + 0.5
+  let sz = cz + (dirZ / len) * 0.55
+  emitStream(level, sx, sy, sz, target, particle)
+}
+
+function emitStream(level, sx, sy, sz, target, particle) {
+  let samples = 6
+  for (let i = 0; i < samples; i++) {
+    let t = (i + Math.random()) / samples
+    let x = sx + (target[0] - sx) * t + (Math.random() - 0.5) * 0.08
+    let y = sy + (target[1] - sy) * t * t * t + (Math.random() - 0.5) * 0.08
+    let z = sz + (target[2] - sz) * t + (Math.random() - 0.5) * 0.08
+    level.addParticle(particle, x, y, z, 0, 0, 0)
+  }
+}
+
+function buildPikaSchedule() {
+  let schedule = []
+  for (let index = 0; index < 6; index++) {
+    let cryIndex = index
+    schedule.push({ "tick": index * 40, "done": false, "fn": context => triggerPokemonCryAtIndex(cryEntities, cryIndex) })
+  }
+  schedule.push({ "tick": 40, "done": false, "fn": context => triggerEvolutionEffect(context) })
+  return schedule
+}
+
+function buildMelmetalSchedule(ticks) {
+  let schedule = []
+  for (let index = 0; index < 6; index++) {
+    let cryIndex = index
+    schedule.push({ "tick": index * 40, "done": false, "fn": context => triggerPokemonCryAtIndex(cryEntities, cryIndex) })
+  }
+  schedule.push({ "tick": 50, "done": false, "fn": context => triggerEvolutionEffect(context, 2.5) })
+  return schedule
+}
+
+function triggerEvolutionEffect(context, aboveOffset) {
   /** @type {typeof import("com.cobblemon.mod.common.client.render.models.blockbench.bedrock.animation.BedrockAnimationRepository").$BedrockAnimationRepository} */
   let $BedrockAnimationRepository = Java.loadClass("com.cobblemon.mod.common.client.render.models.blockbench.bedrock.animation.BedrockAnimationRepository")
   /** @type {typeof import("com.cobblemon.mod.common.client.particle.ParticleStorm").$ParticleStorm} */
@@ -73,8 +210,8 @@ function triggerEvolutionEffect(context) {
 
     /** @type {import("net.minecraft.world.entity.LivingEntity").$LivingEntity} */
     let entity = context.altar.level.createEntity("minecraft:armor_stand")
-    let entityPos = context.altar.blockPos.above(2)
-    let particlePos = entityPos.getCenter()
+    let yOffset = aboveOffset == null ? 2.0 : aboveOffset
+    let particlePos = context.altar.blockPos.getCenter().add(0, yOffset, 0)
     entity.setPos(particlePos)
 
     Client.scheduleInTicks(240, () => {
@@ -126,8 +263,10 @@ function getAABB(/** @type {$BlockPos} */ bePos, /** @type {$BlockPos} */ sizePo
 }
 
 ClientEvents.loggedOut(event => {
-  recipeEffects.clear()
   cryEntities.clear()
+  meltanDrains.clear()
+  melmetalState = {}
+  pikaState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {
