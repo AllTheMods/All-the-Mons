@@ -114,6 +114,8 @@ ServerEvents.tags('item', allthemods => {
 
     allthemods.remove("reliquified_artifacts:anglers_hat_valuables", ["#c:raw_materials"])
 
+    allthemods.remove("modularrouters:player_module_blacklist", ["chisel:chisel"])
+
     // ZA Mega Stones
     allthemods.add("zamega:mega_stone", ["zamega:darkranite",
         "zamega:magearnite",

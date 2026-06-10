@@ -1,8 +1,6 @@
-let $TreeMap = Java.loadClass("java.util.TreeMap")
 /** @type {import("org.apache.maven.artifact.versioning.DefaultArtifactVersion").$DefaultArtifactVersion$$Type} */
 let $DefaultArtifactVersion = Java.loadClass("org.apache.maven.artifact.versioning.DefaultArtifactVersion")
-/** @type {import("java.util.TreeMap").$TreeMap$$Type<(import("org.apache.maven.artifact.versioning.DefaultArtifactVersion").$DefaultArtifactVersion$$Original), (import("java.util.List").$List$$Type<(import("net.minecraft.network.chat.MutableComponent").$MutableComponent$$Original) >) >} */
-let announcements = new $TreeMap()
+let announcements = []
 /** @type {import("org.apache.maven.artifact.versioning.DefaultArtifactVersion").$DefaultArtifactVersion$$Original} */
 let currentVersion = null
 /** @type {import("java.util.List").$List<import("net.minecraft.network.chat.MutableComponent").$MutableComponent$$Original>} */
@@ -26,7 +24,7 @@ function initAnnouncements(){
 
 ServerEvents.loaded(event => {
   if (!Platform.isLoaded("bcc")) return
-  announcements.clear()
+  announcements = []
   permanentAnnouncements.clear()
   /** @type {import("dev.wuffs.bcc.BetterCompatibilityChecker").$BetterCompatibilityChecker$$Original} */
   let $BccInstance = Java.loadClass("dev.wuffs.bcc.BetterCompatibilityChecker")
@@ -35,7 +33,13 @@ ServerEvents.loaded(event => {
 })
 
 function addAnnouncement(/** @type {string} */version, /** @type {import("net.minecraft.network.chat.MutableComponent").$MutableComponent$$Original} */ component) {
-  announcements.computeIfAbsent(new $DefaultArtifactVersion(version), (key) => Utils.newList()).addLast(typeof component == "string" ? Text.of(component) : component)
+  let parsedVersion = new $DefaultArtifactVersion(version)
+  let entry = announcements.find(e => e.version.compareTo(parsedVersion) == 0)
+  if (entry == null) {
+    entry = { "version": parsedVersion, "components": [] }
+    announcements.push(entry)
+  }
+  entry.components.push(typeof component == "string" ? Text.of(component) : component)
 }
 
 function addPermanentAnnouncement(/** @type {import("net.minecraft.network.chat.MutableComponent").$MutableComponent$$Original} */ component) {
@@ -52,17 +56,19 @@ PlayerEvents.loggedIn(event => {
   }
   let ableToDismiss = false
   let printHeader = true
-  announcements.forEach((key, listComponents) => {
+  announcements.sort((a, b) => a.version.compareTo(b.version))
+  announcements.forEach(entry => {
+    let key = entry.version
     if (currentDismissed.compareTo(key) < 0 && currentVersion.compareTo(key) >= 0) {
       ableToDismiss = true
       if (printHeader) {
         event.player.tell(Text.translate('kubejs.atm.ann.header_wrapper', Text.translate('kubejs.atm.ann.header_title').yellow().bold()).gold().bold())
         printHeader = false
       }
-      for (let component of listComponents) {
+      for (let component of entry.components) {
         let message = Text.translate('kubejs.atm.ann.versioned_entry', Text.gold(key.toString()), component.yellow()).yellow()
         event.player.tell(message)
-      }            
+      }
     }
   })
   
