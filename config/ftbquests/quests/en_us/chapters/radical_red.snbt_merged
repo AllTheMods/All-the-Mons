@@ -1,0 +1,182 @@
+{
+	quest.06AC44758A00C280.quest_desc: [
+		"Level increase to 21. "
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.06AC44758A00C280.title: "&aLeader Brock"
+	quest.0AE4F79296B6A4E4.quest_desc: [
+		"Level Increase to 85."
+		""
+		"Signature Item is &3Choice Scarf&r."
+	]
+	quest.0AE4F79296B6A4E4.title: "&6Trainer Brendan"
+	quest.0B7A76864B36BB51.quest_desc: [
+		"Level Increase to 82."
+		""
+		"Signature Item is &7Lucky Egg&r."
+	]
+	quest.0B7A76864B36BB51.title: "&6Rival Terry"
+	quest.0C92029DF6B9080A.quest_desc: [
+		"Level Increase to 79."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.0C92029DF6B9080A.title: "&aLeader Blaine"
+	quest.1665D7A3BDC93BEA.quest_desc: [
+		"No Level Increase. "
+		""
+		"Signature Item is &7Soothe &cBell&r."
+	]
+	quest.1665D7A3BDC93BEA.title: "&6Rival Terry "
+	quest.17CADE883895E1C4.quest_desc: [
+		"Level Increase to 46."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.17CADE883895E1C4.title: "&aLeader Erika"
+	quest.23A05E86B1DF7B1E.quest_desc: [
+		"Level Increase to 80."
+		""
+		"Signature Item is &0Utility Umbrella&r."
+	]
+	quest.23A05E86B1DF7B1E.title: "&7Rocket Admin Ariana"
+	quest.245203DBA9D45934.quest_desc: [
+		"Level Increase to 44."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.245203DBA9D45934.title: "&aLeader Lt. Surge"
+	quest.2CB4138503F71E7A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.3150CD77C1E90229.quest_desc: [
+		"Level Increase to 56."
+		""
+		"Signature Item is &8Black Sludge&r."
+	]
+	quest.3150CD77C1E90229.title: "&7Rocket Admins Archer and Ariana"
+	quest.34B53B764112A1BF.quest_desc: [
+		"Level Increase to 63."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.34B53B764112A1BF.title: "&aLeader Sabrina"
+	quest.3D24607A51997B39.quest_desc: [
+		"No Level Increase."
+		""
+		"Found at 3rd floor of &cKanto League&r."
+	]
+	quest.3D24607A51997B39.title: "&3Elite Four Agatha"
+	quest.49F4016F012BFA95.quest_desc: ["&4&oRadical Red&r is a ROM Hack for Pokemon Red, it follows the same story as Pokemon Red... just much harder. \\\\n\\\\nYeah, this won't be easy. \\\\n\\\\nYou can start the &4&oSeries&r by Trading with a &4Trainer Associate&r to give him your &4Trader Card&r so you can start &4&oRadical Red&r."]
+	quest.49F4016F012BFA95.title: "&4&oRadical Red"
+	quest.4FD9219B6005D90E.quest_desc: ["Once you've beat &4&oRadical Red&r you can find &6Trainer Red&r the main character of the earliest games and media! \\n\\nHe is an optional fighter. This means he doesn't have a Signature Item, instead you'll need to find him wandering around in a certain Biome. That being any that can have End Cities. \\n\\nAll the years of fighting Trainers throughout multiple games and media made him a pretty good fighter, so bring your best! \\n\\nIf you can beat him you'll become the Kanto Legend!"]
+	quest.4FD9219B6005D90E.title: "&6Trainer Red"
+	quest.514A8996A1C18BAF.quest_desc: [
+		"Level Increase to 29."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.514A8996A1C18BAF.title: "&aLeader Misty"
+	quest.5184669F1F038E9A.quest_desc: [
+		"Level Increase to 27."
+		""
+		"Signature Item is &eGold Nugget&r."
+	]
+	quest.5184669F1F038E9A.title: "&6Rival Terry"
+	quest.51C8B7AAA05EA266.quest_desc: [
+		"Some &aleaders &r&lONLY&r spawn in the &9Gyms&r that spawn in villages, so keep notes on which &aGym Leaders&r you found!"
+		"&6You will need them later!!!&r"
+	]
+	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lWARNING&r"
+	quest.51C8B7AAA05EA266.title: "Kanto &9Gyms"
+	quest.54B5E76DD69EA4CD.quest_desc: [
+		"Level Increase to 68."
+		""
+		"Signature Item is &5Expert Belt&r."
+	]
+	quest.54B5E76DD69EA4CD.title: "&6Trainer Brendan"
+	quest.5C335DBA0A7C23B5.quest_desc: [
+		"No Level Increase."
+		""
+		"Found at 4th floor of &cKanto League&r."
+	]
+	quest.5C335DBA0A7C23B5.title: "&3Elite Four Lance"
+	quest.5D635B2021C98D41.quest_desc: ["If you want to fight the &3Elite Four&r and &5Champion&r you'll need to make your way to the Kanto League Gym! \\n\\nThis is a giant tower found in &d&lThe End&r. It is made of Purpur, End Stone, and has a giant Orange Pokeball in the front. \\n\\nThe first floor has a few Pokemart Traders, Nurses, and Loot you can take. The next few floors have each of the &3Elite Four&r. The highest floor having the &5Champion&r!"]
+	quest.5D635B2021C98D41.title: "Kanto League Gym"
+	quest.60C7BBFC8CA911FF.quest_desc: [
+		"No Level Increase."
+		""
+		"Found at 2nd floor of &cKanto League&r."
+	]
+	quest.60C7BBFC8CA911FF.title: "&3Elite Four Bruno"
+	quest.61CC4CEE94D2B612.quest_desc: [
+		"Level Increase to 34."
+		""
+		"Signature Item is Silk Scarf."
+	]
+	quest.61CC4CEE94D2B612.title: "&6Trainer Brendan"
+	quest.6374DDC15639E3C3.quest_desc: [
+		"No Level Increase."
+		""
+		"Signature Item is &9Covert Cloak&r."
+	]
+	quest.6374DDC15639E3C3.title: "&7Rocket Admin Archer"
+	quest.643604ECFEE714D4.quest_desc: [
+		"Level Increase to 81."
+		""
+		"Signature Item is &cDestiny Knot&r."
+	]
+	quest.643604ECFEE714D4.title: "&7Boss Giovanni"
+	quest.67C1FC2100E5A73C.quest_desc: [
+		"Level Increase to 73."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+	]
+	quest.67C1FC2100E5A73C.title: "&aLeader Koga"
+	quest.68618D5F4FC2F331.quest_desc: [
+		"No Level Increase."
+		""
+		"Found at 1st floor of &cKanto League&r."
+	]
+	quest.68618D5F4FC2F331.title: "&3Elite Four Lorelei"
+	quest.71525B9B007ECD34.quest_desc: [
+		"No Level increase. "
+		""
+		"Signature Item is &8Black Tumblestone&r."
+	]
+	quest.71525B9B007ECD34.title: "&7Rocket Admin Archer"
+	quest.73AC47B946B9A388.quest_desc: [
+		"Level Increase to 55."
+		""
+		"Signature Item is Upgrade (that's the full name)."
+	]
+	quest.73AC47B946B9A388.title: "&7Boss Giovanni"
+	quest.7588ADA67F348B0C.quest_desc: [
+		"Level Increase to 76."
+		""
+		"Signature Item is &bVivichoke&r."
+	]
+	quest.7588ADA67F348B0C.title: "&6Trainer May"
+	quest.78843287D1EB98E2.quest_desc: [
+		"Level Increase to 81."
+		""
+		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+	]
+	quest.78843287D1EB98E2.title: "&aLeader Clair"
+	quest.7C112EF6EA2BB232.quest_desc: [
+		"Still no Level Increase but hey you beat the &5Champ&r!"
+		""
+		"Found at last floor of &cKanto League&r."
+		""
+		"&5Champion Terry&r is the last person to beat in the &4&oSeries&r, but that isn't it for the Kanto Region..."
+	]
+	quest.7C112EF6EA2BB232.title: "&5Champion Terry"
+	quest.7DF8583CAB36812E.quest_desc: [
+		"Level Increase to 59."
+		""
+		"Signature Item is &dDubious Disc&r."
+	]
+	quest.7DF8583CAB36812E.title: "&7Boss Giovanni"
+	task.0A55BA7668023573.title: "AllRightsReserved"
+	task.1092D3B8F9A7B0E7.title: "AllRightsReserved"
+}
