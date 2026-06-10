@@ -52,12 +52,12 @@
 	#By default, this mod prevents the spawning of a trainer if another entity with the same identity
 	#already exists anywhere in the world (in any dimension). However, if this is set to a positive value,
 	#the mod will check for the existence of a trainer with the same identity within the specified radius instead.
-	uniqueTrainerRadius = 500
+	uniqueTrainerRadius = 5
 	#━━━━━━━━━━
 	#Spawn cap of trainers per player.
 	# Default: 12
 	# Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 5
+	maxTrainersPerPlayer = 8
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
