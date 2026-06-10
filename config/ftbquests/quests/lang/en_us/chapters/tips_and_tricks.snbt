@@ -38,7 +38,7 @@
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adds &7Drawers&r that can hold several stacks of an item. These can be upgraded to hold even more stacks!\\n\\nThis is great for items you get a lot of, like Cobblestone or Seeds!"]
 	quest.5EE945A1185E8336.quest_subtitle: "Storage Drawers?"
 	quest.5EE945A1185E8336.title: "&l&7Functional Storage&r"
-	quest.620913A1FF09255F.quest_desc: ["These 6 &cPoke&rBalls are thrown in a different way from every other &cBall&r. \\n\\nThe &bFeather&f, &bWing&f, and &bJet Balls&r will be thrown much farther than the Normal &cPoke&rBall. \\n\\nThe &8Heavy&f, &8Leadon&f, and &8Gigaton Balls&r aren't thrown as far as the Normal &cPokeBall&r. \\n\\nThe 1.5x and 2x aren't related to distance but rather &cPokeman&r Catch Chance!"]
+	quest.620913A1FF09255F.quest_desc: ["These 6 &cPoke&rBalls are thrown in a different way from every other &cBall&r. \\n\\nThe &bFeather&f, &bWing&f, and &bJet Balls&r will be thrown much farther than the Normal &cPoke&rBall. \\n\\nThe &8Heavy&f, &8Leadon&f, and &8Gigaton Balls&r aren't thrown as far as the Normal &cPokeBall&r. \\n\\nThe 1.5x and 2x aren't related to distance but rather &cPokemon&r Catch Chance!"]
 	quest.620913A1FF09255F.title: "&cBalls&r that are thrown differently"
 	quest.637981B64BBE0D92.quest_desc: ["The &aCharging Station&r is a very helpful Early Game Block. \\n\\nIt is clearly used for charging Items. Either Pipe in Energy or use Furnace Fuel to make Energy in the form of FE. \\n\\nThen, you can put any Item that needs charging into the Right most Slot."]
 	quest.637981B64BBE0D92.title: "&l&aCharging Gadgets"
