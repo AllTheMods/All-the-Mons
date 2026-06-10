@@ -21,24 +21,24 @@
 			image: "generatorgalore:block/copper_generator_top_on"
 			rotation: 0.0d
 			width: 2.0d
-			x: 12.0d
-			y: 10.5d
+			x: 12.5d
+			y: 11.5d
 		}
 		{
 			height: 2.0d
 			image: "atm:textures/questpics/occultism/aviarcircle.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: -10.0d
-			y: 2.5d
+			x: -10.5d
+			y: 2.0d
 		}
 		{
 			height: 5.0d
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 7.5d
-			x: -10.0d
-			y: 5.5d
+			x: -11.0d
+			y: 6.0d
 		}
 		{
 			height: 3.0d
@@ -46,14 +46,14 @@
 			rotation: 0.0d
 			width: 3.9338654503990877d
 			x: 10.0d
-			y: 2.5d
+			y: 2.0d
 		}
 		{
 			height: 2.0d
 			image: "productivebees:item/all_bees"
 			rotation: 0.0d
 			width: 2.0d
-			x: -10.0d
+			x: -6.0d
 			y: -6.0d
 		}
 		{
@@ -62,7 +62,7 @@
 			rotation: 0.0d
 			width: 3.8063063063063063d
 			x: -12.0d
-			y: 10.5d
+			y: 11.5d
 		}
 		{
 			height: 3.0d
@@ -77,24 +77,24 @@
 			image: "atm:textures/questpics/allthemodium/all_piglich.png"
 			rotation: 0.0d
 			width: 1.8827258320126785d
-			x: 1.5d
-			y: -18.0d
+			x: 2.0d
+			y: -16.0d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_tree.png"
 			rotation: 0.0d
 			width: 2.836575875486381d
-			x: -6.0d
-			y: -6.0d
+			x: -3.5d
+			y: -8.5d
 		}
 		{
 			height: 3.0d
 			image: "atm:textures/questpics/gettingstarted/started_pressure.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -14.0d
-			y: 0.5d
+			x: -12.0d
+			y: 0.0d
 		}
 		{
 			height: 3.0d
@@ -109,7 +109,7 @@
 			image: "atm:textures/questpics/gettingstarted/started_reactor.png"
 			rotation: 0.0d
 			width: 2.644736842105263d
-			x: -14.0d
+			x: -10.0d
 			y: -6.0d
 		}
 		{
@@ -117,16 +117,16 @@
 			image: "atm:textures/questpics/gettingstarted/started_roots.png"
 			rotation: 0.0d
 			width: 3.527114967462039d
-			x: -4.0d
-			y: -9.5d
+			x: -4.5d
+			y: -12.5d
 		}
 		{
 			height: 2.0d
 			image: "atm:textures/questpics/gettingstarted/started_enchant.png"
 			rotation: 0.0d
 			width: 3.8555555555555556d
-			x: 4.0d
-			y: -14.0d
+			x: 4.5d
+			y: -13.0d
 		}
 		{
 			height: 2.0d
@@ -141,15 +141,15 @@
 			image: "atm:textures/questpics/gettingstarted/started_starlight.png"
 			rotation: 0.0d
 			width: 4.524033930254477d
-			x: 15.0d
-			y: -4.0d
+			x: 13.5d
+			y: 0.5d
 		}
 		{
 			height: 2.0d
 			image: "ae2:block/controller_lights"
 			rotation: 0.0d
 			width: 2.0d
-			x: 4.5d
+			x: 5.5d
 			y: -10.0d
 		}
 		{
@@ -157,7 +157,7 @@
 			image: "ae2:block/controller_powered"
 			rotation: 0.0d
 			width: 2.0d
-			x: 4.5d
+			x: 5.5d
 			y: -10.0d
 		}
 		{
@@ -181,8 +181,8 @@
 			image: "minecraft:textures/entity_icon/warden/warden.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 14.0d
-			y: -6.0d
+			x: 16.0d
+			y: -3.5d
 		}
 		{
 			height: 2.0d
@@ -197,8 +197,8 @@
 			image: "stevescarts:item/creative_hull_icon"
 			rotation: 0.0d
 			width: 2.0d
-			x: -2.5d
-			y: -14.0d
+			x: -2.0d
+			y: -16.0d
 		}
 		{
 			height: 4.0d
@@ -229,8 +229,24 @@
 			image: "mega_showdown:item/tera_orb"
 			rotation: 0.0d
 			width: 2.0d
-			x: -10.0d
+			x: -10.5d
 			y: 14.0d
+		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/forbidden/forbidden_forge2.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 11.0d
+			y: 6.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/create/create_largecog.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 14.0d
+			y: -6.0d
 		}
 	]
 	order_index: 2
@@ -249,7 +265,8 @@
 				"0C7D96DB3573EF9C"
 				"54B1A876E9F6707A"
 				"23AE395433AED3C0"
-				"3BF13DE88CB46116"
+				"47E35A6182A87276"
+				"197AC6B76C28E63B"
 			]
 			icon_scale: 1.25d
 			id: "05850541675B2493"
@@ -370,7 +387,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -423,8 +440,8 @@
 				item: { count: 1, id: "allthetweaks:dragon_soul" }
 				type: "item"
 			}]
-			x: -1.25d
-			y: -4.0d
+			x: -2.0d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -474,7 +491,7 @@
 				item: { count: 1, id: "allthetweaks:improbable_probability_device" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -3.5d
 			y: -2.0d
 		}
 		{
@@ -527,7 +544,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -578,7 +595,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -638,8 +655,8 @@
 				item: { count: 1, id: "allthetweaks:patrick_star" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 4.0d
+			x: 2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: [
@@ -693,7 +710,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -746,8 +763,8 @@
 				item: { count: 1, id: "allthetweaks:pulsating_black_hole" }
 				type: "item"
 			}]
-			x: 1.25d
-			y: -4.0d
+			x: 2.0d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -800,7 +817,7 @@
 				item: { count: 1, id: "allthetweaks:withers_compass" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.5d
 			y: -2.0d
 		}
 		{
@@ -848,8 +865,8 @@
 				item: { count: 1, id: "mysticalagradditions:creative_essence" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 4.0d
+			x: -2.0d
+			y: 3.5d
 		}
 		{
 			id: "23AE395433AED3C0"
@@ -966,7 +983,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: -8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["28DB59B20109D0D4"]
@@ -1077,7 +1094,7 @@
 				item: { count: 1, id: "pocketstorage:psu_4" }
 				type: "item"
 			}]
-			x: -12.0d
+			x: -14.0d
 			y: -4.0d
 		}
 		{
@@ -1096,7 +1113,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -12.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["11374A3B5BD644F5"]
@@ -1182,8 +1199,8 @@
 				item: { count: 1, id: "ars_nouveau:glyph_wither" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -6.0d
+			x: 6.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -1218,7 +1235,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -10.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
@@ -1306,7 +1323,7 @@
 				item: { count: 1, id: "deeperdarker:heart_of_the_deep" }
 				type: "item"
 			}]
-			x: 12.0d
+			x: 14.0d
 			y: -4.0d
 		}
 		{
@@ -1364,7 +1381,7 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.0d
 			y: -4.0d
 		}
 		{
@@ -1476,8 +1493,8 @@
 				item: { count: 1, id: "mysticalagradditions:insanium_coal_block" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 6.0d
+			x: -4.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["76C63670624C3C56"]
@@ -1590,7 +1607,7 @@
 				item: { count: 1, id: "allthecompressed:diamond_block_4x" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -6.0d
 			y: -4.0d
 		}
 		{
@@ -1674,7 +1691,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: -10.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -1702,7 +1719,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -12.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -1731,7 +1748,7 @@
 				type: "item"
 			}]
 			x: 1.875d
-			y: -11.875d
+			y: -9.875d
 		}
 		{
 			hide_dependent_lines: true
@@ -1757,8 +1774,8 @@
 				item: { count: 1, id: "allthecompressed:obsidian_5x" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: -2.0d
+			y: 6.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -1845,7 +1862,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: -2.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["0573B6F1BE5110FD"]
@@ -1880,7 +1897,7 @@
 				match_components: "fuzzy"
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.0d
 			y: -4.0d
 		}
 		{
@@ -1910,7 +1927,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -16.0d
+			y: -14.0d
 		}
 		{
 			dependencies: ["7A579E233C69871F"]
@@ -2031,8 +2048,8 @@
 				item: { count: 1, id: "occultism:soul_gem" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: 1.5d
+			x: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["3CFD27F273B97FDD"]
@@ -2060,7 +2077,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -10.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["752DD0BF36B70D88"]
@@ -2088,8 +2105,8 @@
 				item: { count: 1, id: "ironfurnaces:rainbow_coal" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.0d
+			x: -1.875d
+			y: 8.125d
 		}
 		{
 			dependencies: ["3AAB71E9BDFD4C1E"]
@@ -2139,7 +2156,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
@@ -2167,7 +2184,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -8.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["372B5BF416CA83A4"]
@@ -2229,7 +2246,6 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
-			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "601C719C8FD513F0"
 			rewards: [
@@ -2254,12 +2270,11 @@
 				item: { count: 1, id: "aeinfinitybooster:infinity_card" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -6.0d
+			x: 4.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
-			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "268EA2DEC8840D13"
 			rewards: [
@@ -2284,8 +2299,8 @@
 				item: { count: 1, id: "advanced_ae:quantum_multi_threader" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -6.0d
+			x: -4.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["372B5BF416CA83A4"]
@@ -2317,7 +2332,6 @@
 		}
 		{
 			dependencies: ["4485C4ABD57874EB"]
-			hide_dependency_lines: true
 			hide_dependent_lines: true
 			id: "75EE965CBA598FEA"
 			rewards: [
@@ -2341,7 +2355,7 @@
 				item: { count: 1, id: "ae2wtlib:wireless_universal_terminal" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 4.0d
 			y: -6.0d
 		}
 		{
@@ -2369,7 +2383,7 @@
 				item: { count: 1, id: "powah:player_transmitter_nitro" }
 				type: "item"
 			}]
-			x: -10.0d
+			x: -12.0d
 			y: -4.0d
 		}
 		{
@@ -2428,8 +2442,8 @@
 				item: { count: 1, id: "mysticalagradditions:insanium_gemstone_block" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 0.0d
+			x: -8.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["7377C657CED885AC"]
@@ -2475,8 +2489,8 @@
 				item: { count: 1, id: "minecraft:green_concrete" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 6.0d
+			x: 4.0d
+			y: 4.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2493,8 +2507,8 @@
 				item: { count: 1, id: "minecraft:green_concrete_powder" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.875d
+			x: 8.0d
+			y: 2.0d
 		}
 		{
 			hide_dependent_lines: true
@@ -2615,7 +2629,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: -12.0d
+			y: -11.0d
 		}
 		{
 			icon: {
@@ -2673,7 +2687,7 @@
 				item: { count: 1, id: "productivetrees:pollen" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -5.5d
 			y: -8.0d
 		}
 		{
@@ -2790,8 +2804,8 @@
 				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 8.0d
+			x: 0.0d
+			y: 9.0d
 		}
 		{
 			id: "7377C657CED885AC"
@@ -2818,7 +2832,7 @@
 				type: "item"
 			}]
 			x: -8.0d
-			y: 3.5d
+			y: 5.0d
 		}
 		{
 			id: "29D28983E0200A3C"
@@ -2905,8 +2919,8 @@
 				item: { count: 1, id: "alltheores:steel_ingot" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: 8.0d
+			x: -12.0d
+			y: 9.0d
 		}
 		{
 			icon: {
@@ -2967,8 +2981,8 @@
 				item: { count: 1, id: "minecraft:bookshelf" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -16.0d
+			x: 2.0d
+			y: -14.0d
 		}
 		{
 			id: "792990DC06DB98F9"
@@ -2984,7 +2998,7 @@
 				item: { count: 1, id: "eternal_starlight:book" }
 				type: "item"
 			}]
-			x: 15.0d
+			x: 14.0d
 			y: -2.0d
 		}
 		{
@@ -3015,8 +3029,8 @@
 				item: { count: 1, id: "minecraft:furnace" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 8.0d
+			x: 12.0d
+			y: 9.0d
 		}
 		{
 			id: "7154D73516548149"
@@ -3043,7 +3057,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -19.0d
+			y: -17.0d
 		}
 		{
 			id: "2171DC0B13C4BD43"
@@ -3070,8 +3084,8 @@
 				item: { count: 1, id: "rootsclassic:verdant_sprig" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -12.0d
+			x: -3.5d
+			y: -11.0d
 		}
 		{
 			icon: {
@@ -3130,8 +3144,8 @@
 				item: { count: 1, id: "hostilenetworks:blank_data_model" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 13.0d
+			x: 13.0d
+			y: 14.0d
 		}
 		{
 			id: "2E88CCBC7B97A1F0"
@@ -3190,7 +3204,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: 3.5d
+			y: 5.0d
 		}
 		{
 			id: "2B57C8D2F98A9279"
@@ -3367,7 +3381,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -14.0d
+			y: -12.0d
 		}
 		{
 			icon: {
@@ -3398,7 +3412,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: -16.0d
+			y: -14.0d
 		}
 		{
 			icon: {
@@ -3466,7 +3480,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -4.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["7D359283625C1869"]
@@ -3501,8 +3515,8 @@
 				item: { count: 1, id: "cataclysm:void_forge" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -4.0d
+			x: 8.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["4B7D387CEFF9667E"]
@@ -3580,8 +3594,8 @@
 				item: { count: 1, id: "eternal_starlight:tear_bomb" }
 				type: "item"
 			}]
-			x: 11.875d
-			y: 0.0d
+			x: 12.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["28DB59B20109D0D4"]
@@ -3655,18 +3669,8 @@
 				id: "50A9A9BD3114EE45"
 				type: "advancement"
 			}]
-			x: -11.7d
-			y: 13.0d
-		}
-		{
-			id: "3BF13DE88CB46116"
-			tasks: [{
-				id: "5761FE262D9FE049"
-				item: { count: 1, id: "sgearmetalworks:uru_metal_block" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 6.0d
+			x: -13.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["7D359283625C1869"]
@@ -3678,8 +3682,98 @@
 				item: { count: 1, id: "cataclysm:gauntlet_of_maelstrom" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -1.875d
+			x: 6.0d
+			y: 0.125d
+		}
+		{
+			id: "47E35A6182A87276"
+			rewards: [
+				{
+					id: "68FA410F62F021A9"
+					item: {
+						count: 1
+						id: "allthemons:allthemodium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "67BD4E7CFBD9BB21"
+					item: {
+						count: 1
+						id: "allthemons:vibranium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2A539AF1B7075C05"
+					item: {
+						count: 1
+						id: "allthemons:unobtainium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2DC9941067B54908"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "octagon"
+			size: 2.5d
+			tasks: [{
+				id: "0BC7C23D22A02ECF"
+				item: { count: 1, id: "cobblemon:master_ball" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "197AC6B76C28E63B"
+			rewards: [
+				{
+					count: 64
+					id: "10D49C2037FBA0C8"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "7D68493D04DDCA40"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3F4E81FB549CEB55"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					id: "571556C7DECDCD76"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "octagon"
+			size: 2.5d
+			tasks: [{
+				count: 55L
+				id: "1A089F55FEC6C333"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
 		}
 	]
 }

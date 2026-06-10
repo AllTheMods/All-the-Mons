@@ -336,6 +336,14 @@
 			x: -2.0d
 			y: 9.0d
 		}
+		{
+			height: 0.3d
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 4.0d
+			y: 7.75d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]

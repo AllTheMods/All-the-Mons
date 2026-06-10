@@ -1,0 +1,626 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "poke_farming"
+	group: "6614EE2378B8AFB9"
+	icon: {
+		id: "allthemons:pokemon_egg"
+	}
+	id: "4241469C42F4E18B"
+	images: [
+		{
+			height: 12.0d
+			image: "allthemons:item/pokemon_egg_level_1"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/farm_title1.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.5d
+			image: "atm:textures/questpics/pokemon/farm_title2.png"
+			rotation: 0.0d
+			width: 9.0d
+			x: 0.0d
+			y: 5.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "47C13756D74186F2"
+			rewards: [
+				{
+					id: "39F7A61572B95D36"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "48E98B8040658FBA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "34609B707FBE440F"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "4519A9C7A77C5398"
+			rewards: [
+				{
+					id: "3C8279ADED6D5BDB"
+					item: {
+						count: 1
+						id: "minecraft:bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "1047284F96DCF88C"
+					item: {
+						count: 1
+						id: "cobblemon:moomoo_milk"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "75BE7A4CC67CBD1F"
+				item: { count: 1, id: "minecraft:milk_bucket" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "616E5709D0008953"
+			rewards: [
+				{
+					count: 3
+					id: "5E6BF358CE5F2576"
+					item: {
+						count: 1
+						id: "minecraft:red_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7D0DE597D0576774"
+					item: {
+						count: 1
+						id: "minecraft:blue_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5CD6D42F3459B57F"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "39ADE92BD5E40554"
+				item: { count: 1, id: "minecraft:white_wool" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "4D3800272EF65A37"
+			rewards: [
+				{
+					count: 8
+					id: "652E205D191D88E1"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "39A6B0B86620F969"
+					item: {
+						count: 1
+						id: "cobblemon:rock_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "692312ABDD107121"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "41FC412D91C6A8F0"
+			rewards: [
+				{
+					id: "43BF27077A2FAD35"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					id: "3544A318663065B1"
+					item: {
+						count: 1
+						id: "cobblemon:water_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6AA2F563F8A8A2C9"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "6C1B33D7DC8E9574"
+			rewards: [
+				{
+					id: "03A505585E884EB1"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					id: "517ADC8290754D95"
+					item: {
+						count: 1
+						id: "cobblemon:ice_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5DFFF226A4B8C440"
+				item: { count: 1, id: "minecraft:powder_snow_bucket" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "76EA1F7B05A315B4"
+			rewards: [
+				{
+					id: "3E62892FD4ABBB66"
+					item: {
+						count: 1
+						id: "minecraft:coal_block"
+					}
+					type: "item"
+				}
+				{
+					id: "59740F9067261B6C"
+					item: {
+						count: 1
+						id: "cobblemon:fire_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "33E50F24561EAA39"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "6F6EFA2631EFC35F"
+			rewards: [
+				{
+					id: "13A491A2FE61AA90"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn_seed"
+					}
+					type: "item"
+				}
+				{
+					id: "7C45679E978CE4E7"
+					item: {
+						count: 1
+						id: "cobblemon:bug_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0409B0E69C451C08"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:red_apricorn)item(cobblemon:yellow_apricorn)item(cobblemon:green_apricorn)item(cobblemon:blue_apricorn)item(cobblemon:pink_apricorn)item(cobblemon:black_apricorn)item(cobblemon:white_apricorn))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "27CD92EF07EAE50A"
+			rewards: [
+				{
+					id: "2AE6E48CDB2E574E"
+					item: {
+						count: 1
+						id: "minecraft:lightning_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "026D62DF1FED4D51"
+					item: {
+						count: 1
+						id: "cobblemon:water_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06D94B0CDD7EF42E"
+				item: { count: 1, id: "minecraft:flint_and_steel" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "19188EA560161CCF"
+			rewards: [
+				{
+					count: 5
+					id: "1ADF42B2D6BF844B"
+					item: {
+						count: 1
+						id: "cobblemon:black_tumblestone_block"
+					}
+					type: "item"
+				}
+				{
+					id: "0D6701A86AAC250A"
+					item: {
+						count: 1
+						id: "cobblemon:steel_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "41494EC6E82E2CE7"
+				item: { count: 1, id: "cobblemon:black_tumblestone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "28F136444E69CA08"
+			rewards: [
+				{
+					count: 2
+					id: "2FB55A4769D5781D"
+					item: {
+						count: 1
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+				{
+					id: "156B403B2E0DA46B"
+					item: {
+						count: 1
+						id: "cobblemon:dragon_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B73DD704EFE409E"
+				item: { count: 1, id: "minecraft:brewing_stand" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "6E0983AFA6D23A06"
+			rewards: [
+				{
+					count: 9
+					id: "6211F8ED587277C6"
+					item: {
+						count: 1
+						id: "minecraft:wheat"
+					}
+					type: "item"
+				}
+				{
+					id: "75D561C401D56ECA"
+					item: {
+						count: 1
+						id: "cobblemon:grass_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "575DD06DAEE65E5A"
+				item: { count: 1, id: "minecraft:wheat_seeds" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "211AE5F590087251"
+			rewards: [
+				{
+					id: "3B521C4AB16C2D72"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					id: "14F1B0682E2A82CA"
+					item: {
+						count: 1
+						id: "cobblemon:fire_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "224F09589571399B"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "2F28B8949C088C00"
+			rewards: [
+				{
+					id: "299FE1BAA2385F24"
+					item: {
+						count: 1
+						id: "minecraft:chest"
+					}
+					type: "item"
+				}
+				{
+					id: "35F9247D1D010F13"
+					item: {
+						count: 1
+						id: "cobblemon:psychic_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6BFA2FEF9CD0299D"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "5FAF3153F0D7F9DC"
+			rewards: [
+				{
+					count: 5
+					id: "52CF2371EEEE0C43"
+					item: {
+						count: 1
+						id: "minecraft:nether_wart"
+					}
+					type: "item"
+				}
+				{
+					id: "3F183E141F748694"
+					item: {
+						count: 1
+						id: "cobblemon:ghost_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1DE0CF9C4FE71F0A"
+				item: { count: 1, id: "minecraft:nether_wart" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "70A03755ACCD7163"
+			rewards: [
+				{
+					id: "75D6D4A46C632A3A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "27AA894CE2F3B9D7"
+					item: {
+						count: 1
+						id: "cobblemon:fairy_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0CA978DAF9AB1C1A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cobblemon:red_mint_leaf)item(cobblemon:blue_mint_leaf)item(cobblemon:cyan_mint_leaf)item(cobblemon:pink_mint_leaf)item(cobblemon:green_mint_leaf)item(cobblemon:white_mint_leaf))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "2B75BBE79045C25A"
+			rewards: [
+				{
+					id: "5157193711A1D4A3"
+					item: {
+						count: 1
+						id: "handcrafted:berry_jam_jar"
+					}
+					type: "item"
+				}
+				{
+					id: "73724AC186B10083"
+					item: {
+						count: 1
+						id: "cobblemon:grass_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "02B912D44C5ABB86"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:berries))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "29C5E1F7ECDE3D14"
+			rewards: [{
+				id: "38A7296886025448"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"minecraft:looting": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0FF5DC05DE332A95"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(cobblemon:pokedex))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "1F0DC2F7794A0288"
+			rewards: [{
+				id: "0211FCC055687BEB"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "26B15D843977E784"
+				item: { count: 1, id: "farmingforblockheads:market" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["47C13756D74186F2"]
+			id: "503012CEA79A0328"
+			rewards: [
+				{
+					id: "2A0ECB95A92BE2E3"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "64A9380535785FA4"
+					item: {
+						count: 1
+						id: "minecraft:egg"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1CA67B2B88B77159"
+				item: { count: 1, id: "minecraft:egg" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+	]
+}

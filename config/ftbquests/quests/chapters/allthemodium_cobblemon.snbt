@@ -45,7 +45,7 @@
 			image: "atm:textures/questpics/pokemon/master_title1.png"
 			rotation: 0.0d
 			width: 20.0d
-			x: 5.5d
+			x: 9.0d
 			y: -6.5d
 		}
 		{
@@ -53,11 +53,19 @@
 			image: "atm:textures/questpics/pokemon/master_title2.png"
 			rotation: 0.0d
 			width: 20.0d
-			x: 5.5d
-			y: 6.5d
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			height: 14.0d
+			image: "cobblemon:item/poke_balls/ancient_origin_ball"
+			rotation: 0.0d
+			width: 14.0d
+			x: 28.5d
+			y: 0.5d
 		}
 	]
-	order_index: 4
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -131,6 +139,11 @@
 				{
 					id: "123EABB0B74BB5B6"
 					item: { count: 1, id: "createmonballsoverhaul:blank_ball_lid" }
+					type: "item"
+				}
+				{
+					id: "20D6BA6F31E239FB"
+					item: { count: 1, id: "createmonballsoverhaul:apricorn_ball_lid" }
 					type: "item"
 				}
 			]
@@ -395,7 +408,7 @@
 			]
 			size: 1.2d
 			tasks: [{
-				id: "3C8B3E7B28D3BC2D"
+				id: "689EBF2609425BBD"
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:allthemodium_ball_mechanism)item(allthemons:vibranium_ball_mechanism)item(allthemons:unobtainium_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
@@ -1006,8 +1019,8 @@
 			]
 			size: 1.2d
 			tasks: [{
-				id: "570B0CD67CEBCDA4"
-				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:copper_ball_mechanism)item(createmonballsoverhaul:iron_ball_mechanism)item(createmonballsoverhaul:brass_ball_mechanism)item(createmonballsoverhaul:sturdy_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "407DD09AFFF17D63"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createmonballsoverhaul:copper_ball_mechanism)item(createmonballsoverhaul:iron_ball_mechanism)item(createmonballsoverhaul:brass_ball_mechanism)item(createmonballsoverhaul:sturdy_ball_mechanism)item(createmonballsoverhaul:copper_ancient_ball_mechanism)item(createmonballsoverhaul:iron_ancient_ball_mechanism)item(createmonballsoverhaul:brass_ancient_ball_mechanism)item(createmonballsoverhaul:sturdy_ancient_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -3.5d
@@ -1224,6 +1237,348 @@
 			}]
 			x: -8.5d
 			y: -1.0d
+		}
+		{
+			dependencies: [
+				"5F60D0E8559AADB8"
+				"1734A0746239B5A2"
+			]
+			id: "68DFC9543F10B906"
+			rewards: [
+				{
+					id: "16EDA18D8DF7BAE0"
+					item: {
+						count: 1
+						id: "allthemons:ancient_allthemodium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "06F1F8DB3DBCBF3D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "48B4F4A23F590B90"
+				item: { count: 1, id: "allthemons:ancient_allthemodium_ball" }
+				type: "item"
+			}]
+			x: 28.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"5F60D0E8559AADB8"
+				"013065F73A676E7D"
+			]
+			id: "2E058260BFA30B26"
+			rewards: [
+				{
+					id: "40166CFEF234A8E2"
+					item: {
+						count: 1
+						id: "allthemons:ancient_vibranium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "4B1408CB6CB858D0"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "5766CA0B62B771AF"
+				item: { count: 1, id: "allthemons:ancient_vibranium_ball" }
+				type: "item"
+			}]
+			x: 27.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"5F60D0E8559AADB8"
+				"1D76272C64F9CBD5"
+			]
+			id: "7988678881B034C2"
+			rewards: [
+				{
+					id: "040B4B7C47ED2262"
+					item: {
+						count: 1
+						id: "allthemons:ancient_unobtainium_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "228800847EF41A68"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "69D7D5E170EAE4C4"
+				item: { count: 1, id: "allthemons:ancient_unobtainium_ball" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"7988678881B034C2"
+				"6E2C4FCFC03BA63E"
+				"6CA0AA9AD39EE0B1"
+			]
+			id: "0A7CF61C8500FE26"
+			rewards: [
+				{
+					id: "18936BD2CA9B13D1"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_block"
+					}
+					type: "item"
+				}
+				{
+					id: "03020B44CD1CC815"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_block"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "76FDC834A16B1460"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "566322784B2B7909"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			size: 4.0d
+			tasks: [{
+				id: "58853C0D2E2221FF"
+				item: { count: 1, id: "cobblemon:ancient_origin_ball" }
+				type: "item"
+			}]
+			x: 28.5d
+			y: 0.5d
+		}
+		{
+			id: "5F60D0E8559AADB8"
+			rewards: [
+				{
+					id: "087AC46623336CC4"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "32562B1C7D3C676C"
+					item: {
+						count: 1
+						id: "allthemodium:vibranium_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "68635B194D6B352A"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_nugget"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52DE3D85204A9E38"
+				item: { components: { "ftbfiltersystem:filter": "or(item(allthemons:ancient_allthemodium_ball_mechanism)item(allthemons:ancient_vibranium_ball_mechanism)item(allthemons:ancient_unobtainium_ball_mechanism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 28.5d
+			y: 4.0d
+		}
+		{
+			id: "60BF91B3640523A4"
+			rewards: [
+				{
+					count: 5
+					id: "78016612969B9269"
+					item: {
+						count: 1
+						id: "cobblemon:tumblestone"
+					}
+					type: "item"
+				}
+				{
+					id: "56B48ECF7578B986"
+					item: {
+						count: 1
+						id: "minecraft:magma_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3B7E1AD41E259B88"
+				item: { count: 1, id: "cobblemon:tumblestone" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["60BF91B3640523A4"]
+			id: "1734A0746239B5A2"
+			rewards: [{
+				count: 2
+				id: "1B502CD5CC14922B"
+				item: {
+					count: 1
+					id: "allthemodium:allthemodium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5203909097BC4CC9"
+				item: { count: 1, id: "allthemons:ancient_allthemodium_ball_lid" }
+				type: "item"
+			}]
+			x: 27.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["60BF91B3640523A4"]
+			id: "013065F73A676E7D"
+			rewards: [{
+				count: 2
+				id: "78A974701E04D03B"
+				item: {
+					count: 1
+					id: "allthemodium:vibranium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7835C3EE36A9D4D1"
+				item: { count: 1, id: "allthemons:ancient_vibranium_ball_lid" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"60BF91B3640523A4"
+				"013065F73A676E7D"
+			]
+			id: "1D76272C64F9CBD5"
+			rewards: [{
+				count: 2
+				id: "11BE7BA8A361B0FA"
+				item: {
+					count: 1
+					id: "allthemodium:unobtainium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D71D1266644942C"
+				item: { count: 1, id: "allthemons:ancient_unobtainium_ball_lid" }
+				type: "item"
+			}]
+			x: 31.0d
+			y: 2.5d
+		}
+		{
+			id: "6CA0AA9AD39EE0B1"
+			rewards: [
+				{
+					id: "046FE5AC68C89571"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "57D6137FA630BEB9"
+					item: {
+						count: 1
+						id: "cobblemon:tumblestone_block"
+					}
+					type: "item"
+				}
+				{
+					id: "7F0485CEB55442C2"
+					item: {
+						count: 1
+						id: "cobblemon:black_tumblestone_block"
+					}
+					type: "item"
+				}
+				{
+					id: "4ECA81E84519EDCC"
+					item: {
+						count: 1
+						id: "cobblemon:sky_tumblestone_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "3AC89D4B4257A583"
+				item: { count: 1, id: "createmonballsoverhaul:ancient_origin_ball_lid" }
+				type: "item"
+			}]
+			x: 25.5d
+			y: 0.0d
+		}
+		{
+			id: "6E2C4FCFC03BA63E"
+			rewards: [
+				{
+					count: 2
+					id: "3B298F46D4D68E6C"
+					item: {
+						count: 1
+						id: "allthemodium:unobtainium_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "592995391696637B"
+					item: {
+						count: 1
+						id: "allthemodium:allthemodium_ingot"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "67887E2DCADB4007"
+				item: { count: 1, id: "allthemodium:unobtainium_allthemodium_alloy_ingot" }
+				type: "item"
+			}]
+			x: 31.5d
+			y: 0.0d
 		}
 	]
 }

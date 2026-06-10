@@ -8,7 +8,7 @@
 		"{image:atm:textures/questpics/series/atmteam_airship.png width:125 height:100 align:center}"
 	]
 	quest.1C0FA8A4EFD02DFF.title: "&5Airship Chocolate Factory"
-	quest.1CE940627F4BC431.quest_desc: ["The &4&oATM Team Series&r has you beating members of the &6&lATM Team&r! \\n\\nThere's 3 different ways to find the different &6Team Members&r, some Spawn in their Custom Gyms, some Wander and have Signature Items to summon them, and the rest Spawn in the &4Elite Gym&r. \\n\\nYou'll need to Beat all the &6Team Members&r to get the Items to Craft the &e&lPika Star&r. Which is how you officially beat &l&cAll&7The&fMons&r."]
+	quest.1CE940627F4BC431.quest_desc: ["The &4&oATM Team Series&r has you beating members of the &6&lATM Team&r! \\n\\nThere's 3 different ways to find the different &6Team Members&r, some Spawn in their Custom Gyms, some Wander and have Signature Items to summon them, and the rest Spawn in the &4Elite Gym&r. \\n\\nYou'll need to Beat all the &6Team Members&r to get the Items to Craft the &e&lShiny Pika Star&r. Which is how you officially beat &l&cAll&7The&fMons&r."]
 	quest.1CE940627F4BC431.title: "&4&oATM Team Series"
 	quest.1D236A72F7EC11AE.quest_desc: ["No you can't buy this &7Microwave&r, but you can Beat him in Battle! \\n\\n&7&lToshiba&r works almost solely on Quests, that doesn't mean he is the only one though. \\n\\nThere's lots of &6Team Members&r, Content Creators, and even just normal Players who submit changes on Github who all help to make them! \\n\\nIf you Beat him you'll get a &7Microwave&r shaped &7Badge&r. I wonder if you can plug it in?"]
 	quest.1D236A72F7EC11AE.title: "&7&lToshiba Microwave"
