@@ -8,6 +8,12 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:meltan", (renderer, recipe, context) => {
     meltanRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:terabeegos", (renderer, recipe, context) => {
+    terabeegosRitualRender(renderer, recipe, context)
+  })
+  event.register("allthemons:terapagos", (renderer, recipe, context) => {
+    terapagosRitualRender(renderer, recipe, context)
+  })
 })
 
 /** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
@@ -24,6 +30,8 @@ let meltanDrains = Utils.newMap()
 
 let melmetalState = {}
 let pikaState = {}
+let terabeegosState = {}
+let terapagosState = {}
 
 /** @type {import("java.util.List").$List<(import("net.minecraft.world.entity.Entity").$Entity)>} */
 let cryEntities = Utils.newList()
@@ -126,6 +134,79 @@ function meltanRitualRender(/**@type {import("com.almostreliable.summoningritual
   }
 }
 
+function terabeegosRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!terabeegosState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    terabeegosState[stateKey] = buildTerabeegosSchedule(recipe.ticks())
+  }
+  if (terabeegosState[stateKey]) {
+    terabeegosState[stateKey].forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete terabeegosState[stateKey]
+  }
+}
+
+function buildTerabeegosSchedule(ticks) {
+  let schedule = []
+  for (let t = 0; t < ticks; t += 90) {
+    schedule.push({ "tick": t, "done": false, "fn": context => triggerEvolutionCircle(context, 1.5) })
+  }
+  return schedule
+}
+
+function terapagosRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!terapagosState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    terapagosState[stateKey] = { "crystal": findTerapagosCrystal(context.level, context.altar.blockPos), "done": false }
+  }
+  let state = terapagosState[stateKey]
+  if (state != null && !state.done && state.crystal != null) {
+    state.done = true
+    triggerEvolutionEffect(context, 0, state.crystal.getCenter())
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete terapagosState[stateKey]
+  }
+}
+
+function findTerapagosCrystal(level, altarPos) {
+  for (let dx = -7; dx <= 7; dx++) {
+    for (let dy = -2; dy <= 4; dy++) {
+      for (let dz = -7; dz <= 7; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        if (String(level.getBlockState(p).block.id) === "allthemons:terapagos_crystal") {
+          return p
+        }
+      }
+    }
+  }
+  return null
+}
+
 function findFoundryDrains(level, altarPos) {
   let controllerPos = null
   for (let dx = -3; dx <= 3 && controllerPos == null; dx++) {
@@ -196,7 +277,7 @@ function buildMelmetalSchedule(ticks) {
   return schedule
 }
 
-function triggerEvolutionEffect(context, aboveOffset) {
+function triggerEvolutionEffect(context, aboveOffset, posOverride) {
   /** @type {typeof import("com.cobblemon.mod.common.client.render.models.blockbench.bedrock.animation.BedrockAnimationRepository").$BedrockAnimationRepository} */
   let $BedrockAnimationRepository = Java.loadClass("com.cobblemon.mod.common.client.render.models.blockbench.bedrock.animation.BedrockAnimationRepository")
   /** @type {typeof import("com.cobblemon.mod.common.client.particle.ParticleStorm").$ParticleStorm} */
@@ -210,8 +291,7 @@ function triggerEvolutionEffect(context, aboveOffset) {
 
     /** @type {import("net.minecraft.world.entity.LivingEntity").$LivingEntity} */
     let entity = context.altar.level.createEntity("minecraft:armor_stand")
-    let yOffset = aboveOffset == null ? 2.0 : aboveOffset
-    let particlePos = context.altar.blockPos.getCenter().add(0, yOffset, 0)
+    let particlePos = posOverride != null ? posOverride : context.altar.blockPos.getCenter().add(0, aboveOffset == null ? 2.0 : aboveOffset, 0)
     entity.setPos(particlePos)
 
     Client.scheduleInTicks(240, () => {
@@ -247,6 +327,33 @@ function triggerEvolutionEffect(context, aboveOffset) {
   }
 }
 
+function triggerEvolutionCircle(context, aboveOffset) {
+  /** @type {typeof import("com.cobblemon.mod.common.client.particle.BedrockParticleOptionsRepository").$BedrockParticleOptionsRepository} */
+  let $BedrockParticleOptionsRepository = Java.loadClass("com.cobblemon.mod.common.client.particle.BedrockParticleOptionsRepository")
+  /** @type {typeof import("com.cobblemon.mod.common.client.particle.ParticleStorm").$ParticleStorm} */
+  let $ParticleStorm = Java.loadClass("com.cobblemon.mod.common.client.particle.ParticleStorm")
+  let $ParticleStormCompanion = $ParticleStorm.Companion
+  /** @type {typeof import("net.minecraft.resources.ResourceLocation").$ResourceLocation} */
+  let $ResourceLocation = Java.loadClass("net.minecraft.resources.ResourceLocation")
+
+  let particle = $BedrockParticleOptionsRepository.INSTANCE.getEffect($ResourceLocation.parse("cobblemon:evo_particles"))
+  if (particle == null) return
+
+  let entity = context.altar.level.createEntity("minecraft:armor_stand")
+  let yOffset = aboveOffset == null ? 1.5 : aboveOffset
+  let particlePos = context.altar.blockPos.getCenter().add(0, yOffset, 0)
+  entity.setPos(particlePos)
+
+  Client.scheduleInTicks(90, () => {
+    entity.discard()
+  })
+
+  let particles = $ParticleStormCompanion.createAtEntity(context.altar.level, particle, entity, [])
+  particles.forEach(part => {
+    part.spawn()
+  })
+}
+
 function triggerPokemonCryAtIndex(entityList, index) {
   if (entityList == null || index == null || index >= entityList.size()) return
   let entity = entityList.get(index)
@@ -267,6 +374,8 @@ ClientEvents.loggedOut(event => {
   meltanDrains.clear()
   melmetalState = {}
   pikaState = {}
+  terabeegosState = {}
+  terapagosState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {

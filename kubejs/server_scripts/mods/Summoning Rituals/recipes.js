@@ -194,4 +194,44 @@ ServerEvents.recipes(event => {
             return pattern
         })
         .id("allthemons:melmetal")
+
+    event.recipes.summoningrituals.altar('productivebees:spawn_egg_configurable_bee[minecraft:entity_data={id:"productivebees:configurable_bee",type:"productivebees:diamond"}]')
+        .itemInputs([
+            "bug", "dark", "dragon", "electric", "fairy", "fighting", "fire", "flying", "ghost",
+            "grass", "ground", "ice", "normal", "poison", "psychic", "rock", "steel", "stellar", "water"
+        ].map(type => `mega_showdown:${type}_tera_shard`))
+        .itemOutputs(['productivebees:spawn_egg_configurable_bee[minecraft:entity_data={id:"productivebees:configurable_bee",type:"productivebees:terabeegos"}]'])
+        .ticks(200)
+        .id("allthemons:terabeegos")
+
+    event.recipes.summoningrituals.altar(Ingredient.of("cobblemon:life_orb"))
+        .itemInputs([
+            "bhc:blue_heart",
+            "bhc:yellow_heart",
+            "bhc:red_heart",
+            "bhc:green_heart"
+        ])
+        .ticks(200)
+        .displayOutputs([
+            `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:terapagos","aspects":[]}]`
+        ])
+        .blockPattern(pattern => {
+            pattern
+                .block([-1, 0, 3], "extendedae:entro_cluster", {"facing": "north"})
+                .block([-1, 0, 4], "productivemetalworks:meat_block")
+                .block([-1, 0, 5], "extendedae:entro_cluster", {"facing": "north"})
+                .block([-1, 0, 6], "productivemetalworks:meat_block")
+                .block([-1, 2, 3], "pneumaticcraft:wall_lamp_inverted_gray", {"facing": "west"})
+                .block([0, 1, 4], "productivemetalworks:meat_block")
+                .block([0, 1, 5], "allthemons:terapagos_crystal", {"axis": "x"})
+                .block([0, 2, 3], "productivemetalworks:meat_block")
+                .block([0, 2, 4], "justdirethings:time_crystal_cluster", {"facing": "south"})
+                .block([1, 0, 3], "extendedae:entro_cluster", {"facing": "north"})
+                .block([1, 0, 4], "productivemetalworks:meat_block")
+                .block([1, 0, 5], "extendedae:entro_cluster", {"facing": "north"})
+                .block([1, 0, 6], "productivemetalworks:meat_block")
+                .block([1, 2, 3], "pneumaticcraft:wall_lamp_inverted_gray", {"facing": "east"})
+            return pattern
+        })
+        .id("allthemons:terapagos")
 })

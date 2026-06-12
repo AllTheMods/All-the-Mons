@@ -1,0 +1,8 @@
+#The number of slots in the Altar's inventory.
+#To apply changes to existing Altars, you will need to break and replace them.
+# Default: 16
+# Range: 1 ~ 64
+inventory_size = 19
+#Whether to announce in the log when a recipe output command is invoked.
+#This is useful to avoid confusion where the command originates from.
+announce_command = true
