@@ -14,6 +14,9 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:terapagos", (renderer, recipe, context) => {
     terapagosRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:mythical_pecha_berry", (renderer, recipe, context) => {
+    pechaBerryRitualRender(renderer, recipe, context)
+  })
 })
 
 /** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
@@ -24,6 +27,7 @@ let $Vector3f = Java.loadClass("org.joml.Vector3f")
 let STEEL_PARTICLE = new $DustParticleOptions(new $Vector3f(0.60, 0.63, 0.68), 1.0)
 let GOLD_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.78, 0.15), 1.0)
 let SILVER_PARTICLE = new $DustParticleOptions(new $Vector3f(0.80, 0.82, 0.86), 1.0)
+let PECHA_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.49, 0.71), 0.8)
 
 /** @type {import("java.util.Map").$Map<(import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe),(any)>} */
 let meltanDrains = Utils.newMap()
@@ -32,6 +36,9 @@ let melmetalState = {}
 let pikaState = {}
 let terabeegosState = {}
 let terapagosState = {}
+let pechaState = {}
+
+const PECHA_STREAM_TICKS = 20
 
 /** @type {import("java.util.List").$List<(import("net.minecraft.world.entity.Entity").$Entity)>} */
 let cryEntities = Utils.newList()
@@ -207,6 +214,56 @@ function findTerapagosCrystal(level, altarPos) {
   return null
 }
 
+function pechaBerryRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!pechaState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    pechaState[stateKey] = { "bushes": findPechaBushes(context.level, context.altar.blockPos), "schedule": buildTerabeegosSchedule(recipe.ticks()) }
+  }
+  let state = pechaState[stateKey]
+  if (state != null) {
+    state.schedule.forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
+    if (context.recipeProgress < PECHA_STREAM_TICKS) {
+      let bp = context.altar.blockPos
+      let target = [bp.x + renderer.HALF, bp.y + renderer.ALTAR_RENDER_HEIGHT, bp.z + renderer.HALF]
+      state.bushes.forEach(p => {
+        emitStream(context.level, p.x + 0.5, p.y + 0.6, p.z + 0.5, target, PECHA_PARTICLE, 2)
+      })
+    }
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete pechaState[stateKey]
+  }
+}
+
+function findPechaBushes(level, altarPos) {
+  let found = []
+  for (let dx = -3; dx <= 3; dx++) {
+    for (let dy = -1; dy <= 1; dy++) {
+      for (let dz = -3; dz <= 3; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        if (String(level.getBlockState(p).block.id) === "cobblemon:pecha_berry") {
+          found.push(p)
+        }
+      }
+    }
+  }
+  return found
+}
+
 function findFoundryDrains(level, altarPos) {
   let controllerPos = null
   for (let dx = -3; dx <= 3 && controllerPos == null; dx++) {
@@ -246,8 +303,8 @@ function spawnFluidStream(level, drainPos, target, particle) {
   emitStream(level, sx, sy, sz, target, particle)
 }
 
-function emitStream(level, sx, sy, sz, target, particle) {
-  let samples = 6
+function emitStream(level, sx, sy, sz, target, particle, sampleCount) {
+  let samples = sampleCount == null ? 6 : sampleCount
   for (let i = 0; i < samples; i++) {
     let t = (i + Math.random()) / samples
     let x = sx + (target[0] - sx) * t + (Math.random() - 0.5) * 0.08
@@ -376,6 +433,7 @@ ClientEvents.loggedOut(event => {
   pikaState = {}
   terabeegosState = {}
   terapagosState = {}
+  pechaState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {

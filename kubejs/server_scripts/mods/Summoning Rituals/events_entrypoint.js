@@ -7,6 +7,7 @@ startEntryPoint.put("allthemons:deoxys_crystal", startDeoxysCrystal)
 startEntryPoint.put("allthemons:meltan", startMeltan)
 startEntryPoint.put("allthemons:melmetal", startMelmetal)
 startEntryPoint.put("allthemons:terapagos", startTerapagos)
+startEntryPoint.put("allthemons:mythical_pecha_berry", startMythicalPechaBerry)
 
 SummoningRituals.start(event => {
   let func = startEntryPoint.get(event.recipeInfo.getRecipeId().toString())

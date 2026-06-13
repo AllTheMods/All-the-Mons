@@ -1,0 +1,27 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "allthemons:pecharunt_doll"
+  },
+  "chance": 0.4,
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "aether:chests/dungeon/bronze/bronze_dungeon_reward"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "aether:chests/dungeon/silver/silver_dungeon_reward"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "aether:chests/dungeon/gold/gold_dungeon_reward"
+        }
+      ]
+    }
+  ]
+}
