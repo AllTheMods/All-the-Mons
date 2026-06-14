@@ -1,0 +1,11 @@
+{
+  "config_version": 1,
+  "modules": {
+    "custom_structures": true,
+    "intro_message": false,
+    "recipe_changes": false,
+    "skylands": true,
+    "terrain_slabs": true,
+    "vanilla_stone_gen": false
+  }
+}

@@ -669,13 +669,13 @@
     "curseForgeHash": 3298745796,
     "modrinthHash": "c32f83f5405d11482a453aba7210f6a58e64526c"
   },
-  "cobblemonraiddens-neoforge-0.11.1+1.21.1.jar": {
-    "jarName": "cobblemonraiddens-neoforge-0.11.1+1.21.1.jar",
+  "cobblemonraiddens-neoforge-0.11.0+1.21.1.jar": {
+    "jarName": "cobblemonraiddens-neoforge-0.11.0+1.21.1.jar",
     "modId": "cobblemonraiddens",
     "name": "Cobblemon Raid Dens",
-    "version": "0.11.1+1.21.1",
-    "curseForgeHash": 1785832714,
-    "modrinthHash": "f971302251cb5a3310602a5a6fcf41dfc781ddad"
+    "version": "0.11.0+1.21.1",
+    "curseForgeHash": 2148807844,
+    "modrinthHash": "1a4da729e44308e461e425d770de8188aa411ae3"
   },
   "cobblenav-neoforge-2.3.3.jar": {
     "jarName": "cobblenav-neoforge-2.3.3.jar",
