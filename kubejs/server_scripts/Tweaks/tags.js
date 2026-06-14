@@ -38,7 +38,12 @@ ServerEvents.tags('block', allthemods => {
     allthemods.add('industrialforegoingsouls:cant_accelerate', denyTickAcceleration)
 
     //Make epitaphs immune to Cataclysm block destruction
+    allthemods.add("cataclysm:altar_destroy_immune","epitaphs:grave")
+    allthemods.add("cataclysm:harbinger_immune","epitaphs:grave")
+    allthemods.add("cataclysm:ignis_immune","epitaphs:grave")
+    allthemods.add("cataclysm:leviathan_immune","epitaphs:grave")
     allthemods.add("cataclysm:netherite_monstrosity_immune","epitaphs:grave")
+    allthemods.add("cataclysm:remnant_immune","epitaphs:grave")
 })
 
 ServerEvents.tags('fluid', allthemods => {
