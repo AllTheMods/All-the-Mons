@@ -362,6 +362,7 @@ PlayerEvents.loggedIn(event => {
 })
 
 PlayerEvents.advancement(event => {
+    if (event.advancement == null) return
     if (regularAdvancements.contains(event.advancement.id.toString())){
         if (regularAdvancements.stream().allMatch(key => event.player.isAdvancementDone(key))) {
             event.player.unlockAdvancement("allthemons:complete_regional_pika_star")
