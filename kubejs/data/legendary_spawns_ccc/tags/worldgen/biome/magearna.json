@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_deep_dark",
+    "#cobblemon:is_end"
+  ]
+}

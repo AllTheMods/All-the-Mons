@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-landorus-1",
+      "pokemon": "landorus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.1,
+      "condition": {
+        "isRaining": false,
+        "biomes": [
+          "#legendary_spawns_ccc:landorus"
+        ]
+      }
+    }
+  ]
+}

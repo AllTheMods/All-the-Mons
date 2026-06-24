@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "ccc-zarude-1",
+      "pokemon": "zarude",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.1,
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:zarude"
+        ]
+      }
+    }
+  ]
+}

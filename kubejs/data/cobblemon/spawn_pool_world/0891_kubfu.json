@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-kubfu-1",
+      "pokemon": "kubfu",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "15-30",
+      "weight": 0.1,
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:kubfu"
+        ]
+      }
+    }
+  ]
+}

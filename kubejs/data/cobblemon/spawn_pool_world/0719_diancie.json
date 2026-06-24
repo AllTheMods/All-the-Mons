@@ -1,0 +1,64 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-diancie-1",
+      "pokemon": "diancie",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "60",
+      "weight": 0.1,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "maxY": 0,
+        "canSeeSky": false,
+        "biomes": [
+          "#legendary_spawns_ccc:diancie/overworld_surface"
+        ],
+        "neededNearbyBlocks": [
+          "minecraft:amethyst_block",
+          "minecraft:amethyst_cluster",
+          "minecraft:budding_amethyst",
+          "minecraft:large_amethyst_bud",
+          "minecraft:medium_amethyst_bud",
+          "minecraft:small_amethyst_bud"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#legendary_spawns_ccc:diancie/overworld_surface_anticondition"
+        ]
+      }
+    },
+    {
+      "id": "ccc-diancie-2",
+      "pokemon": "diancie",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60",
+      "weight": 0.1,
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 7,
+        "maxY": 30,
+        "canSeeSky": false,
+        "biomes": [
+          "#legendary_spawns_ccc:diancie/overworld_cave"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#legendary_spawns_ccc:diancie/overworld_cave_anticondition"
+        ]
+      }
+    }
+  ]
+}

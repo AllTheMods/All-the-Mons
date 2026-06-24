@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-tornadus-1",
+      "pokemon": "tornadus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.1,
+      "weightMultipliers": [
+        {
+          "multiplier": 3.0,
+          "condition": {
+            "isRaining": true
+          }
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:tornadus"
+        ]
+      }
+    }
+  ]
+}

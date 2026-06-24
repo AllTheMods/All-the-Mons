@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-shaymin-1",
+      "pokemon": "shaymin",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.1,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#legendary_spawns_ccc:shaymin"
+        ],
+        "timeRange": "night",
+        "isRaining": false
+      }
+    }
+  ]
+}

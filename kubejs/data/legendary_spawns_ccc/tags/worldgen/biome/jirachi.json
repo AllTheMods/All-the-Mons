@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_magical",
+    "#cobblemon:is_mirage_island",
+    "#cobblemon:is_mushroom"
+  ]
+}

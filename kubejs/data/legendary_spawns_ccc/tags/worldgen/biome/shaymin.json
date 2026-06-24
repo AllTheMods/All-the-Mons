@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_floral",
+    "#cobblemon:is_highlands"
+  ]
+}

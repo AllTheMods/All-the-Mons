@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-thundurus-1",
+      "pokemon": "thundurus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.1,
+      "weightMultipliers": [
+        {
+          "multiplier": 4.0,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:thundurus"
+        ]
+      }
+    }
+  ]
+}

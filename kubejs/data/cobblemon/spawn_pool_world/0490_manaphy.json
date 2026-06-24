@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-manaphy-1",
+      "pokemon": "manaphy",
+      "type": "pokemon",
+      "context": "fishing",
+      "bucket": "ultra-rare",
+      "level": "50",
+      "weight": 0.1,
+      "condition": {
+        "biomes": [
+          "#legendary_spawns_ccc:manaphy"
+        ],
+        "minLureLevel": 2
+      }
+    }
+  ]
+}

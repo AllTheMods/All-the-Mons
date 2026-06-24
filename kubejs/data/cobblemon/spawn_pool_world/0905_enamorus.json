@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-enamorus-1",
+      "pokemon": "enamorus",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 0.1,
+      "condition": {
+        "isThundering": true,
+        "biomes": [
+          "#legendary_spawns_ccc:enamorus"
+        ]
+      }
+    }
+  ]
+}
