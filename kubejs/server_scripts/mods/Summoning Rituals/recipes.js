@@ -255,4 +255,56 @@ ServerEvents.recipes(event => {
             return pattern
         })
         .id("allthemons:mythical_pecha_berry")
+
+    // Shiny Pika Star — activated by an unbound Pika Star. Extra gates are in events/shiny_pika_star.js.
+    event.recipes.summoningrituals.altar(Ingredient.withData("allthemons:pika_star", {}, true))
+        .itemInputs([
+            "cobblemon:light_ball",
+            "cobblemon:thunder_stone",
+            "allthemodium:unobtainium_vibranium_alloy_ingot",
+            "cobblemon:master_ball"
+        ])
+        .itemOutputs(["allthemons:shiny_pika_star"])
+        .ticks(1202)
+        .blockPattern(pattern => {
+            pattern
+                .name(Text.translatable("kubejs.atm.sr.shiny_pika_star_structure"))
+                // Pikachu statues at the corners
+                .block([-4, 0, -4], "cobblefurnies:statue_pikachu")
+                .block([-4, 1, -4], "cobblefurnies:statue_pikachu")
+                .block([-4, 0, 4], "cobblefurnies:statue_pikachu")
+                .block([-4, 1, 4], "cobblefurnies:statue_pikachu")
+                .block([4, 0, -4], "cobblefurnies:statue_pikachu")
+                .block([4, 1, -4], "cobblefurnies:statue_pikachu")
+                .block([4, 0, 4], "cobblefurnies:statue_pikachu")
+                .block([4, 1, 4], "cobblefurnies:statue_pikachu")
+                // Display cases on the edges (contents checked in the event, not consumed)
+                .queryableBlock([-4, 1, -2], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([-4, 1, 0], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([-4, 1, 2], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([-2, 1, -4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([0, 1, -4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([2, 1, -4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([-2, 1, 4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([0, 1, 4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([2, 1, 4], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([4, 1, -2], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([4, 1, 0], "cobblemon:display_case", "pika_star_cases")
+                .queryableBlock([4, 1, 2], "cobblemon:display_case", "pika_star_cases")
+                // Note blocks under each case
+                .block([-4, 0, -2], "minecraft:note_block")
+                .block([-4, 0, 0], "minecraft:note_block")
+                .block([-4, 0, 2], "minecraft:note_block")
+                .block([-2, 0, -4], "minecraft:note_block")
+                .block([0, 0, -4], "minecraft:note_block")
+                .block([2, 0, -4], "minecraft:note_block")
+                .block([-2, 0, 4], "minecraft:note_block")
+                .block([0, 0, 4], "minecraft:note_block")
+                .block([2, 0, 4], "minecraft:note_block")
+                .block([4, 0, -2], "minecraft:note_block")
+                .block([4, 0, 0], "minecraft:note_block")
+                .block([4, 0, 2], "minecraft:note_block")
+            return pattern
+        })
+        .id("allthemons:shiny_pika_star")
 })

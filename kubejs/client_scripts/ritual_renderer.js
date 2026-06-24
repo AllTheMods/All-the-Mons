@@ -17,12 +17,17 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:mythical_pecha_berry", (renderer, recipe, context) => {
     pechaBerryRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:shiny_pika_star", (renderer, recipe, context) => {
+    shinyPikaStarRitualRender(renderer, recipe, context)
+  })
 })
 
 /** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
 let $DustParticleOptions = Java.loadClass("net.minecraft.core.particles.DustParticleOptions")
 /** @type {typeof import("org.joml.Vector3f").$Vector3f} */
 let $Vector3f = Java.loadClass("org.joml.Vector3f")
+/** @type {typeof import("net.minecraft.core.particles.ParticleTypes").$ParticleTypes} */
+let $ParticleTypes = Java.loadClass("net.minecraft.core.particles.ParticleTypes")
 
 let STEEL_PARTICLE = new $DustParticleOptions(new $Vector3f(0.60, 0.63, 0.68), 1.0)
 let GOLD_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.78, 0.15), 1.0)
@@ -37,6 +42,7 @@ let pikaState = {}
 let terabeegosState = {}
 let terapagosState = {}
 let pechaState = {}
+let shinyPikaState = {}
 
 const PECHA_STREAM_TICKS = 20
 
@@ -249,6 +255,64 @@ function pechaBerryRitualRender(/**@type {import("com.almostreliable.summoningri
   }
 }
 
+function shinyPikaStarRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!shinyPikaState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    shinyPikaState[stateKey] = {
+      "cases": findDisplayCases(context.level, context.altar.blockPos),
+      "schedule": buildTerabeegosSchedule(recipe.ticks())
+    }
+  }
+  let state = shinyPikaState[stateKey]
+  if (state != null) {
+    // Particle ring
+    state.schedule.forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
+    // Flames from each display case
+    state.cases.forEach(p => {
+      spawnCaseFlames(context.level, p)
+    })
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete shinyPikaState[stateKey]
+  }
+}
+
+function findDisplayCases(level, altarPos) {
+  let found = []
+  for (let dx = -5; dx <= 5; dx++) {
+    for (let dy = -1; dy <= 2; dy++) {
+      for (let dz = -5; dz <= 5; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        if (String(level.getBlockState(p).block.id) === "cobblemon:display_case") {
+          found.push(p)
+        }
+      }
+    }
+  }
+  return found
+}
+
+function spawnCaseFlames(level, p) {
+  let x = p.x + 0.5 + (Math.random() - 0.5) * 0.35
+  let y = p.y + 1.0
+  let z = p.z + 0.5 + (Math.random() - 0.5) * 0.35
+  level.addParticle($ParticleTypes.FLAME, x, y, z, 0, 0.03 + Math.random() * 0.03, 0)
+}
+
 function findPechaBushes(level, altarPos) {
   let found = []
   for (let dx = -3; dx <= 3; dx++) {
@@ -434,6 +498,7 @@ ClientEvents.loggedOut(event => {
   terabeegosState = {}
   terapagosState = {}
   pechaState = {}
+  shinyPikaState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {
