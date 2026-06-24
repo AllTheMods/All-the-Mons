@@ -1,0 +1,23 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "mega_showdown:red_orb"
+  },
+  "chance": 0.25,
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cataclysm:entities/ignis"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cataclysm:entities/maledictus"
+        }
+      ]
+    }
+  ]
+}
