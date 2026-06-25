@@ -269,6 +269,7 @@ ServerEvents.tags('item', allthemods => {
     allthemods.remove("c:tools/bow",["allthemodium:allthemodium_bow"])
     allthemods.remove("c:tools/crossbow",["allthemodium:unobtainium_crossbow"])
     allthemods.remove("c:tools/shield",["allthemodium:vibranium_shield"])
+    allthemods.add("c:drinks/milk", ["productivebees:milk_bottle"])
 })
 
 ServerEvents.tags('block', allthemods => {
