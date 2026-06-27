@@ -162,6 +162,9 @@ KubeJSTweaks.beforeRecipes(event => {
 
   event.disable("supplementaries:botany_flax")
 
+  // Fluorite ore should only enrich to 6 gems; drop the AllTheOres ore->dust enriching duplicate
+  event.disable("alltheores:processing/fluorite/dust/from_ore")
+
   event.getEntry(["mekmm:compat/immersiveengineering/lathe/aluminum_stick", "mekmm:compat/immersiveengineering/lathe/steel_stick"])
     .forEach(entry => {
       entry.renameKey("main_input", "input", false)
