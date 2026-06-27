@@ -269,10 +269,17 @@ ServerEvents.tags('item', allthemods => {
     allthemods.remove("c:tools/crossbow",["allthemodium:unobtainium_crossbow"])
     allthemods.remove("c:tools/shield",["allthemodium:vibranium_shield"])
     allthemods.add("c:drinks/milk", ["productivebees:milk_bottle"])
+    allthemods.add("minecraft:signs", ["ars_nouveau:archwood_sign"])
+    allthemods.add("minecraft:hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
+    allthemods.add("mega_showdown:mega_stone", ["mega_showdown:abomasite"])
 })
 
 ServerEvents.tags('block', allthemods => {
     allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot_black", "cobblemon:campfire_pot_blue", "cobblemon:campfire_pot_green", "cobblemon:campfire_pot_pink", "cobblemon:campfire_pot_red", "cobblemon:campfire_pot_white", "cobblemon:campfire_pot_yellow", "cobblemon:pc", "cobblemon:healing_machine", "simpletms:machine_tm", "cobblemon:display_case"]);
+    allthemods.add("minecraft:standing_signs", ["ars_nouveau:archwood_sign"])
+    allthemods.add("minecraft:wall_signs", ["ars_nouveau:archwood_wall_sign"])
+    allthemods.add("minecraft:ceiling_hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
+    allthemods.add("minecraft:wall_hanging_signs", ["ars_nouveau:archwood_hanging_wall_sign"])
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
