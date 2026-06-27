@@ -103,7 +103,7 @@
 	quest.2F16B6A173525277.quest_desc: [
 		"A última peça do quebra-cabeça para qualquer grande Rede ME é o &bControlador ME&r. "
 		""
-		"Um controlador fornece a uma Rede ME um número muito maior de canais do que os 8 canais padrão para redes ad-hoc, fornecendo &b32 canais&r de cada face do bloco para um total de &b216 canais&r. "
+		"Um controlador fornece a uma Rede ME um número muito maior de canais do que os 8 canais padrão para redes ad-hoc, fornecendo &b32 canais&r de cada face do bloco para um total de &b192 canais&r. "
 		""
 		"Isso é apenas para um controlador de um único bloco, no entanto, já que o Controlador ME é, na verdade, uma estrutura multi-bloco. O controlador pode ter até &e7x7x7 blocos&r de tamanho e pode vir em qualquer arranjo de forma livre dentro desse tamanho máximo. Cada bloco individual pode então fornecer seu próprio conjunto separado de canais, desde que nenhum bloco de controlador único esteja cercado por 4 outros blocos no mesmo plano. "
 		""
@@ -283,5 +283,5 @@
 	task.729773FF26CBB542.title: "TodosOsDireitosReservados"
 	task.75924053D6F5B242.title: "Célula de Armazenamento Espacial"
 	task.7E0D9E6342295AB0.title: "Prefácio sobre Canais"
-	task.7FC3DAA1BD5016A0.title: "Cabo ME Inteligente "
+	task.7FC3DAA1BD5016A0.title: "Cabo ME Inteligente"
 }

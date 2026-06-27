@@ -370,8 +370,6 @@
 	quest.3E301F3EEC8C763A.title: "&fIncubadora de &6Abelhas Bebê"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance de surgir ao quebrar Vagens de Cacau em uma Selva"
 	quest.40E4F1172A164DD1.title: "&fAbelha de Açucar"
-	quest.40F8A44DF4D8DBD6.quest_subtitle: "Magmatic + Nomad"
-	quest.40F8A44DF4D8DBD6.title: "&fAbelha de Blaze"
 	quest.419DD6FE84B91749.quest_desc: ["Ao coletar genes, você obterá uma porcentagem de uma característica. Você pode combiná-los em uma mesa de trabalho para somá-los, ou colocá-los em um Indexador de Genes para auto-combinar."]
 	quest.419DD6FE84B91749.quest_subtitle: "O Combinador e Baú de Genes"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["Quando colocado no &cNether&r e recebendo &ePedra Luminosa&r, o Ninho de &ePedra Luminosa&r atrairá uma &eAbelha Luminosa&r."]
@@ -420,8 +418,6 @@
 	quest.500BEAD94C97DF96.title: "&fMelhoria de &6Velocidade"
 	quest.50ED69AEEE808B24.quest_subtitle: "Alimente uma Abelha de Água com um Balde de Lítio Líquido"
 	quest.50ED69AEEE808B24.title: "&fAbelha de Lítio"
-	quest.516289A040EE9FDC.quest_subtitle: "Cristalina + Cuco Neon"
-	quest.516289A040EE9FDC.title: "&fAbelha de Menril"
 	quest.52B22C07818981D0.quest_subtitle: "Despeje Constantan Derretido sobre um Ovo Gerador de Abelha de Cobre/Níquel"
 	quest.52B22C07818981D0.title: "&fAbelha de Constantan"
 	quest.532F3E6868A29037.quest_desc: ["Pense na Melhoria anterior: Velocidade, agora pense nela tornando as coisas ainda mais rápidas! \\n\\nEstas Melhorias podem ser usadas nas Máquinas para fazê-las funcionar 40% mais rápido! \\nSim, seus efeitos se acumulam. \\n\\nNão, elas não podem ser usadas em Colmeias, para isso serve a Produtividade!"]

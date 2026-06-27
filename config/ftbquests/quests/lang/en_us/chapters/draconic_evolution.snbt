@@ -1,5 +1,4 @@
 {
-	task.664130FB28E419EF.title: "IO Crystal"
 	quest.0000A88BB40B2149.quest_desc: ["Now before you get to the Chaos Island I recommend preparing, he may look like the Ender Dragon but this one is much more difficult. You'll want Draconic Weapons or Tools that do a lot of damage as those will make it easier. He will also do a crap-ton of damage good Armor like Unobtainium or Meka-Suit will be recommeneded. (Also effects of Regeneration, Absorption, and Resistance will help you survive}. Don't worry you can always come back to fight another day if you aren't ready."]
 	quest.0000A88BB40B2149.title: "It's tough you'll need to prepare"
 	quest.01612963DBBAC9A1.quest_desc: ["Hopefully this should protect you."]
@@ -310,4 +309,5 @@
 	task.2AE8A0F6A6C2D453.title: "Quests By AllTheMods"
 	task.61CCAD2018478894.title: "Activation"
 	task.6EAC5BBFAA0184BC.title: "Preparation"
+	task.664130FB28E419EF.title: "IO Crystal"
 }
