@@ -82,7 +82,7 @@
       "gender": "GENDERLESS",
       "level": 90,
       "nature": "careful",
-      "ability": "drought",
+      "ability": "desolateland",
       "moveset": [
         "firepunch",
         "precipiceblades",
