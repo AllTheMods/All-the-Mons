@@ -58,7 +58,7 @@
 			y: -11.25d
 		}
 	]
-	order_index: 6
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -96,6 +96,8 @@
 		}
 		{
 			dependencies: ["3CBF4D703AA17199"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "540F3CA118762DDB"
 			rewards: [
 				{
@@ -125,6 +127,8 @@
 		}
 		{
 			dependencies: ["3CBF4D703AA17199"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "46932B57EF21D346"
 			rewards: [
 				{
@@ -153,6 +157,9 @@
 			y: -9.0d
 		}
 		{
+			icon: {
+				id: "minecraft:farmland"
+			}
 			id: "3CBF4D703AA17199"
 			rewards: [
 				{
@@ -186,6 +193,8 @@
 		}
 		{
 			dependencies: ["3CBF4D703AA17199"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "2AFB12E742596864"
 			rewards: [
 				{
@@ -839,6 +848,8 @@
 				"18A9E8789E1B560F"
 				"0E96B2A9B7FD39CD"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "167554E0A562B60A"
 			rewards: [{
 				count: 3
@@ -863,6 +874,8 @@
 				"167554E0A562B60A"
 				"488BC7224CAC720C"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "095024BF19ABA326"
 			rewards: [{
 				count: 3
@@ -887,6 +900,8 @@
 				"095024BF19ABA326"
 				"18A9E8789E1B560F"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "2117CE8C21A9EE98"
 			rewards: [{
 				count: 3
@@ -911,6 +926,8 @@
 				"167554E0A562B60A"
 				"0E96B2A9B7FD39CD"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "3E57854E27545581"
 			rewards: [{
 				count: 3
@@ -2244,6 +2261,8 @@
 				"3111C0CA63A82E7A"
 				"0C9EAA80B4AF1F5A"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "1699BD1B8B348B7C"
 			rewards: [{
 				count: 3
@@ -2267,6 +2286,8 @@
 				"06B197EB778C17AC"
 				"0C9EAA80B4AF1F5A"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "3111C0CA63A82E7A"
 			rewards: [{
 				count: 3
@@ -2291,6 +2312,8 @@
 				"1699BD1B8B348B7C"
 				"0D04BCF5940E2AF1"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "126CCC6B187C0B18"
 			rewards: [{
 				count: 3
@@ -2396,6 +2419,8 @@
 		}
 		{
 			dependencies: ["699F91BC5CA58FE2"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "18BB4D402AE19932"
 			rewards: [
 				{
@@ -2426,6 +2451,8 @@
 				"06B197EB778C17AC"
 				"18BB4D402AE19932"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "5B21A7A5ED1DDABB"
 			rewards: [{
 				count: 3
@@ -2518,6 +2545,8 @@
 		}
 		{
 			dependencies: ["699F91BC5CA58FE2"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "44816DC131B9E5AC"
 			rewards: [
 				{
@@ -2548,6 +2577,8 @@
 				"06B197EB778C17AC"
 				"44816DC131B9E5AC"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "223F47BDD763F306"
 			rewards: [{
 				id: "0B550BE86D471715"
@@ -2595,6 +2626,8 @@
 				"33C3C334981AF72E"
 				"223F47BDD763F306"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "2BFC97460B4B49F1"
 			rewards: [{
 				count: 3
@@ -3023,6 +3056,8 @@
 				"665F5D34A6282117"
 				"3C52E482EFA3C76E"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "507821D8F9C064CF"
 			rewards: [{
 				count: 3
@@ -3047,6 +3082,8 @@
 				"665F5D34A6282117"
 				"507821D8F9C064CF"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "66D27708343F9DB4"
 			rewards: [{
 				count: 3
@@ -3530,6 +3567,8 @@
 				"2BFC97460B4B49F1"
 				"4FB3047EBF555455"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "158978D35BDA805D"
 			rewards: [{
 				count: 3
@@ -3588,6 +3627,8 @@
 				"2A1A9B81AE3567AD"
 				"158978D35BDA805D"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "44DA8B6C651B3456"
 			rewards: [
 				{
@@ -3680,6 +3721,7 @@
 			size: 2.5d
 			tasks: [{
 				id: "46D65E8318D8B725"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:grass_block"
