@@ -92,7 +92,7 @@
 	quest.2F16B6A173525277.quest_desc: [
 		"The last piece of the puzzle for any large ME network is the &bME Controller&f. "
 		""
-		"A controller supplies an ME Network with a far larger number of channels than the standard 8 channels for ad-hoc networks, providing 32 channels out of each face of the block for a total of 216 channels. "
+		"A controller supplies an ME Network with a far larger number of channels than the standard 8 channels for ad-hoc networks, providing 32 channels out of each face of the block for a total of 192 channels. "
 		""
 		"That's only for a single-block controller, however, since the ME Controller is in fact a multi-block structure. The controller can be up to 7x7x7 blocks in size and can come in any freeform arrangement within that maximum size. Each individual block can then provide its own separate set of channels, so long as no single controller block is surrounded by 4 other blocks along the same plane. "
 		""

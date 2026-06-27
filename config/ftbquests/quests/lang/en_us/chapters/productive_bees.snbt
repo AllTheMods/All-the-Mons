@@ -333,8 +333,6 @@
 	quest.3E301F3EEC8C763A.quest_subtitle: "Baby Bee Daycare"
 	quest.40E4F1172A164DD1.quest_subtitle: "Chance to Spawn when breaking Cocoa Pods in a Jungle"
 	quest.40E4F1172A164DD1.title: "Sugarbag Bee"
-	quest.40F8A44DF4D8DBD6.quest_subtitle: "Magmatic + Nomad"
-	quest.40F8A44DF4D8DBD6.title: "BlazBee"
 	quest.419DD6FE84B91749.quest_desc: ["When collecting genes, you'll get a percentage of a trait. You can combine them in a crafting table to add them together, or place them in a Gene Indexer to auto-combine."]
 	quest.419DD6FE84B91749.quest_subtitle: "The Gene Combiner and Chest"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["When placed in the Nether and given Glowstone, the Glowstone Nest will lure in a Glowing Bee."]
@@ -375,8 +373,6 @@
 	quest.500BEAD94C97DF96.quest_subtitle: "Sonic Bees"
 	quest.50ED69AEEE808B24.quest_subtitle: "Feed Liquid Lithium Bucket to a Water Bee"
 	quest.50ED69AEEE808B24.title: "Lithium Bee"
-	quest.516289A040EE9FDC.quest_subtitle: "Crystalline + Neon Cuckoo"
-	quest.516289A040EE9FDC.title: "Menril Bee"
 	quest.52B22C07818981D0.quest_subtitle: "Molten Constantan over Nickel/Copper Bee Spawn Egg"
 	quest.52B22C07818981D0.title: "Constantan Bee"
 	quest.532F3E6868A29037.quest_desc: ["Think of the previous Upgrade: Speed, now think of it making things even faster! \\n\\nThese Upgrades can be used in the Machines to make them work 40% faster! \\nYes, their effects stack. \\n\\nNo, they can not be used in Hives, that's what Productivity is for!"]
