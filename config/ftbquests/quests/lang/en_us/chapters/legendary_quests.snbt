@@ -1,0 +1,451 @@
+{
+	quest.1E6E0001CA7C4111.quest_subtitle: "Gotta earn 'em all"
+	quest.1E6E0001CA7C4111.quest_desc: ["The rarest Pokémon will not come quietly. &6Legendaries&r, &dMythicals&r, &bUltra Beasts&r and &cParadox&r species cannot be battled or caught until you carry the &eregional Pika Star&r for the region they call home, and even then you have to beat each one in battle before a ball will hold it.\\n\\nThere is no single way to track them down. Some sleep inside ancient &6temples&r, some answer a &dsummoning ritual&r at the altar, and many wait at their own monument until you arrive with the right key item. Others slip through &bUltra Wormholes&r, leave faint footprints to follow, or only show themselves once you have proven your worth.\\n\\nThe quests in this chapter walk you through every one of them, grouped by where and how they are found. Build a strong team, gather what each legend asks for, and good luck out there, trainer."]
+	quest.1E6E0001CA7C4111.title: "&6&lCatching Legendaries"
+	quest.1E6E0002E57A0C75.quest_desc: ["Long before trainers walked these lands, great &6temples&r were raised to shelter the most powerful Pokémon of all. They still stand today, generating out in the world in the biomes that suit the legend within.\\n\\nThere is no key or ritual to worry about here. Find the structure, fight your way to the chamber at its heart, and the Pokémon waiting inside will turn to face you. An &bExplorer's Compass&r makes the search much quicker, though plain old wandering works just as well."]
+	quest.1E6E0002E57A0C75.title: "&6Ancient Temples"
+	quest.1E6E0003C0FFEE01.quest_desc: ["Far below the surface, in the flooded dark of the &9Origin Cave&r, sleeps the beast that shaped the seas. Old sailors told of a whale that raised the oceans high over the land and drowned the world in endless rain.\\n\\nMake your way down into the cave and reach its heart to wake it. Bring a team that can hold its own in the water, and be ready for a storm when the ancient sea Pokémon finally stirs."]
+	quest.1E6E0003C0FFEE01.title: "Kyogre"
+	task.1E6E0003571C0001.title: "Find the Origin Cave"
+	task.1E6E0003CA7C0001.title: "Catch Kyogre"
+	quest.1E6E0004C0FFEE02.quest_desc: ["Deep in the magma halls of the &cOrigin Tomb&r rests the titan that raised the continents from the sea. Its body runs with molten rock, and the ground itself shakes with every step it takes.\\n\\nPush through the heat to the core of the tomb to rouse it. Fire resistance and a sturdy team that can soak up heavy hits will serve you well against the land's oldest power."]
+	quest.1E6E0004C0FFEE02.title: "Groudon"
+	task.1E6E0004571C0002.title: "Find the Origin Tomb"
+	task.1E6E0004CA7C0002.title: "Catch Groudon"
+	quest.1E6E0005C0FFEE03.quest_desc: ["At the very top of the &aSky Pillar&r, high above the clouds, coils the guardian of the skies. It has drifted through the upper air for countless ages, feeding on meteors, and it alone can settle a quarrel between the sea and the land.\\n\\nClimb the pillar all the way to its peak to challenge it. The way up is long and a fall will kill you, so come prepared for both the climb and the dragon waiting at the summit."]
+	quest.1E6E0005C0FFEE03.title: "Rayquaza"
+	task.1E6E0005571C0003.title: "Find the Sky Pillar"
+	task.1E6E0005CA7C0003.title: "Catch Rayquaza"
+	quest.1E6F000000001001.quest_desc: ["Team Rocket carved a fortress into a live volcano and filled it with engineered legends. The monument generates out in the world, and three powerful Pokémon wait in its inner chambers.\\n\\nFight your way inside and take them on. This is hardware and ambition, not ancient myth, so expect a brawl rather than a shrine."]
+	quest.1E6F000000001001.title: "&cTeam Rocket Volcano"
+	quest.1E6F000000001004.quest_desc: ["Team Rocket's masterwork sits in the heart of the volcano - a 300 million year old fossil Pokémon rebuilt as a living weapon, with a cannon bolted to its back. Beat the machine and the bug beneath it is yours."]
+	quest.1E6F000000001004.title: "Genesect"
+	task.1E6F000000001005.title: "Find the Team Rocket Volcano"
+	task.1E6F000000001006.title: "Catch Genesect"
+	quest.1E6F00000000100A.quest_desc: ["Locked away in the volcano is Type: Null, a synthetic chimera built to fight other legends and masked so its power stays sealed. Catch it, raise its trust, and it sheds the mask to become Silvally."]
+	quest.1E6F00000000100A.title: "Type: Null"
+	task.1E6F00000000100B.title: "Find the Team Rocket Volcano"
+	task.1E6F00000000100C.title: "Catch Type: Null"
+	quest.1E6F000000001010.quest_desc: ["Deep in the volcano broods Volcanion, the only Pokémon that is both Fire and Water. It vents steam fierce enough to blow a mountain hollow. Corner it in the magma chambers and bring it down."]
+	quest.1E6F000000001010.title: "Volcanion"
+	task.1E6F000000001011.title: "Find the Team Rocket Volcano"
+	task.1E6F000000001012.title: "Catch Volcanion"
+	quest.1E6F000000001016.quest_desc: ["High in the floating realm of the &bAether&r, three dungeons have been rebuilt around the &dLoyal Three&r, the retainers of an old legend. Each dungeon guards one of them, and the Pecharunt Doll turns up among Aether loot.\\n\\nClear the Bronze, Silver and Gold dungeons to claim all three. You will want them together later."]
+	quest.1E6F000000001016.title: "&bAether Dungeons"
+	quest.1E6F000000001019.quest_desc: ["The Bronze Dungeon boss is Munkidori, the sage monkey of the Loyal Three, which toys with the minds of its foes from a safe distance. Defeat the dungeon and add it to your party, since Pecharunt will want it close."]
+	quest.1E6F000000001019.title: "Munkidori"
+	task.1E6F00000000101A.title: "Clear the Bronze Dungeon"
+	task.1E6F00000000101B.title: "Catch Munkidori"
+	quest.1E6F00000000101F.quest_desc: ["The Silver Dungeon boss is Fezandipiti, the vain bird of the Loyal Three, whose scent rallies allies and unsettles enemies. Clear the dungeon to catch it, one of the three Pecharunt demands."]
+	quest.1E6F00000000101F.title: "Fezandipiti"
+	task.1E6F000000001020.title: "Clear the Silver Dungeon"
+	task.1E6F000000001021.title: "Catch Fezandipiti"
+	quest.1E6F000000001025.quest_desc: ["The Gold Dungeon boss is Okidogi, the brawler hound of the Loyal Three, all muscle and menace. Beat the dungeon to claim it and complete the trio that answers to Pecharunt."]
+	quest.1E6F000000001025.title: "Okidogi"
+	task.1E6F000000001026.title: "Clear the Gold Dungeon"
+	task.1E6F000000001027.title: "Catch Okidogi"
+	quest.1E6F00000000103B.quest_desc: ["Some legendary Pokémon will not be found in the wild - they have to be called. The &dSummoning Altar&r is how you do it.\\n\\nPlace a catalyst item on the altar, scatter the ritual's ingredients on the ground around it, and raise the block pattern the recipe demands. Right-click the altar to begin, then wait for the summon to finish. Each quest below lists what its ritual needs - gather the rare pieces, build the structure, and draw the legend into the world."]
+	quest.1E6F00000000103B.title: "The Summoning Altar"
+	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r is not found in the wild - it is forged. Set a &6Ring Cast&r on the altar, add a Salamander Eye and a Black Laser Lens, and run the ritual beside a working foundry filled with molten gold and steel.\\n\\nThe ore-eating hex-nut Pokémon condenses straight out of the molten metal. Catch one, then gather more, because a single Meltan is only the start of something far larger."]
+	quest.1E6F00000000103D.title: "Meltan"
+	task.1E6F000000001041.title: "Catch Meltan"
+	quest.1E6F000000001044.quest_desc: ["Six &bMeltan&r can fuse into &9Melmetal&r, the steel titan of legend. This ritual is the most demanding of them all.\\n\\nLay &cHigh Powered Heating Coils&r in the ground beneath the altar - they only glow once they are attached to a working &6foundry&r, so build one to power them rather than expecting a switch on the coils themselves. Set a &7Metal Coat&r as the catalyst and pour in Soul Lava to drive the heat. Send out six Meltan around the altar, then trigger it - the swarm collapses into one enormous body."]
+	quest.1E6F000000001044.title: "Melmetal"
+	task.1E6F000000001047.title: "Catch Melmetal"
+	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r lies dormant as a crystal, the wellspring of the Terastal phenomenon itself.\\n\\nSet a &5Life Orb&r on the altar and offer the four colored hearts - blue, yellow, red, and green - taken from the world's mightiest foes. Raise the crystal frame the ritual calls for and begin. The Stellar Pokémon uncurls from its shell and takes form."]
+	quest.1E6F00000000104A.title: "Terapagos"
+	task.1E6F000000001050.title: "Catch Terapagos"
+	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r was never born - it was made, cloned from the DNA of the mythical &dMew&r and engineered into the most powerful Psychic-type ever recorded.\\n\\nRecreate that experiment here. Bring an &bAncient DNA Sample&r and complete the fossil ritual to revive the clone, then catch it before its fury turns on you."]
+	quest.1E6F000000001053.title: "Mewtwo"
+	task.1E6F000000001055.title: "Catch Mewtwo"
+	quest.1E6F000000001058.quest_desc: ["&5Pecharunt&r is the hidden master the &dLoyal Three&r once served, a mythical that bends others to its will with poisoned chains.\\n\\nTo call it you must first hold all three - Okidogi, Munkidori, and Fezandipiti - in your party. Place the &5Pecharunt Doll&r, send out the trio, and the puppet-master answers. Catch it, and the Loyal Three are free at last."]
+	quest.1E6F000000001058.title: "Pecharunt"
+	task.1E6F00000000105A.title: "Catch Pecharunt"
+	quest.1E6F00000000106D.quest_desc: ["Across the world stand &dLegendary Monuments&r - ancient pedestals, temples, and shrines, each raised to call a single legendary Pokémon.\\n\\nFind the monument, bring the key item it demands, and activate the pedestal to summon its guardian. Each quest below names the structure and the item you need. A &6Medallion of Renewal&r will reset a spent pedestal if you want another attempt."]
+	quest.1E6F00000000106D.title: "&dLegendary Monuments"
+	quest.1E6F000000001070.quest_desc: ["&7Lugia&r broods at the bottom of the sea, the guardian of storms and the keeper of the three legendary birds.\\n\\nSeek out the &bLugia Temple&r and bring a &9Vortex Stone&r - proof that you have mastered Articuno, Zapdos, and Moltres. Only then will the diving Pokémon rise to face you. Catch it, and the seas themselves answer to you."]
+	quest.1E6F000000001070.title: "Lugia"
+	task.1E6F000000001071.title: "Find the Lugia Temple"
+	task.1E6F000000001073.title: "Catch Lugia"
+	quest.1E6F000000001076.quest_desc: ["&cHeatran&r dwells in the magma, a beast of molten steel that crawls across cavern walls and ceilings on cross-shaped feet.\\n\\nDescend into the &6Heatran Cave&r and carry a &cMagma Stone&r to wake it. Be ready for a brawl in the heat - this is one of the few Pokémon that calls the inside of a volcano home."]
+	quest.1E6F000000001076.title: "Heatran"
+	task.1E6F000000001077.title: "Find the Heatran Cave"
+	task.1E6F000000001079.title: "Catch Heatran"
+	quest.1E6F00000000107C.quest_desc: ["&dMew&r is the ancestor of every Pokémon, said to carry the DNA of all species within its tiny body.\\n\\nIt hides on a remote island far out to sea. Follow an &bOld Sea Map&r to the &dFinal Island&r and search it out. Playful and shy, Mew rarely shows itself - but the map leads to where it waits."]
+	quest.1E6F00000000107C.title: "Mew"
+	task.1E6F00000000107D.title: "Find the Final Island"
+	task.1E6F00000000107F.title: "Catch Mew"
+	quest.1E6F000000001082.quest_desc: ["&eVictini&r is the Victory Pokémon, and a trainer who keeps it close is said to never lose.\\n\\nIt is sealed away beneath &bLiberty Island&r. Obtain a &eLiberty Pass&r to reach the hidden chamber under the lighthouse, and claim the small creature that burns with limitless energy."]
+	quest.1E6F000000001082.title: "Victini"
+	task.1E6F000000001083.title: "Find Liberty Island"
+	task.1E6F000000001085.title: "Catch Victini"
+	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r is the mischief-maker, a genie that warps space through its rings and spirits away anything it pleases.\\n\\nIts power is bound inside the &6Hoopa Pyramid&r. Carry a &eTemple Key&r to open the way and confront the trickster within. Catch it, and those rings can pull treasures - and trouble - from across the world."]
+	quest.1E6F000000001088.title: "Hoopa"
+	task.1E6F000000001089.title: "Find the Hoopa Pyramid"
+	task.1E6F00000000108B.title: "Catch Hoopa"
+	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r is the white dragon of truth, its tail blazing like a jet engine fierce enough to scorch the world clean.\\n\\nIt waits atop the &bDragonspiral Tower&r. Bring a &7Light Stone&r - the dormant shape it takes while it sleeps - to wake the dragon and challenge it. Catch it, and the flames of truth are yours."]
+	quest.1E6F00000000109E.title: "Reshiram"
+	task.1E6F00000000109F.title: "Find the Dragonspiral Tower"
+	task.1E6F0000000010A1.title: "Catch Reshiram"
+	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r is the black dragon of ideals, its tail a vast generator that crackles with raw thunder.\\n\\nIt sleeps within the &bDragonspiral Tower&r as a &9Dark Stone&r. Carry the stone to the tower's peak to rouse it, and meet the dragon in battle. Catch it, and the lightning of ideals answers your call."]
+	quest.1E6F0000000010A4.title: "Zekrom"
+	task.1E6F0000000010A5.title: "Find the Dragonspiral Tower"
+	task.1E6F0000000010A7.title: "Catch Zekrom"
+	quest.1E6F0000000010AA.quest_desc: ["&bKyurem&r is what is left when truth and ideals are torn away - a hollow dragon of ice, forever hunting the parts of itself it lost.\\n\\nFind it in the frozen &bKyurem Cave&r. You must bring both the &fTruth Bottle&r and the &8Ideals Bottle&r, gathered from Reshiram and Zekrom, before the empty dragon will face you."]
+	quest.1E6F0000000010AA.title: "Kyurem"
+	task.1E6F0000000010AB.title: "Find the Kyurem Cave"
+	task.1E6F0000000010AE.title: "Catch Kyurem"
+	quest.1E6F0000000010B1.quest_desc: ["&9Dialga&r is the master of time itself, a steel dragon whose heartbeat sets the rhythm of every passing moment.\\n\\nClimb to the &dSpear Pillar&r and bring a &dRed Chain&r to bind it. The temporal Pokémon tears a hole in the present to appear - be ready the instant it does."]
+	quest.1E6F0000000010B1.title: "Dialga"
+	task.1E6F0000000010B2.title: "Find the Spear Pillar"
+	task.1E6F0000000010B4.title: "Catch Dialga"
+	quest.1E6F0000000010B7.quest_desc: ["&dPalkia&r is the master of space, a dragon that can fold the distance between two points until they touch.\\n\\nIt answers the same call as Dialga at the &dSpear Pillar&r. Carry a &dRed Chain&r to the summit to draw the spatial Pokémon out of the void between worlds."]
+	quest.1E6F0000000010B7.title: "Palkia"
+	task.1E6F0000000010B8.title: "Find the Spear Pillar"
+	task.1E6F0000000010BA.title: "Catch Palkia"
+	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r was banished to the &5Distortion World&r for its violence, a ghostly dragon that watches our world from the far side of the mirror.\\n\\nSeek out &5Giratina Island&r and carry an &dAntimatter Globe&r to tear open the way. Face the renegade in its own reflected realm and bring it home."]
+	quest.1E6F0000000010BD.title: "Giratina"
+	task.1E6F0000000010BE.title: "Find Giratina Island"
+	task.1E6F0000000010C0.title: "Catch Giratina"
+	quest.1E6F0000000010C3.quest_desc: ["&cLatias&r is the gentle red half of the Eon duo, able to cloak itself from sight and sense the feelings of those around it.\\n\\nIt nests on the hidden &aSouthern Island&r. Offer a &cLatias Treat&r to coax the shy dragon into the open, and earn its trust."]
+	quest.1E6F0000000010C3.title: "Latias"
+	task.1E6F0000000010C4.title: "Find the Southern Island"
+	task.1E6F0000000010C6.title: "Catch Latias"
+	quest.1E6F0000000010C9.quest_desc: ["&9Latios&r is the noble blue half of the Eon duo, fast enough to outrun a jet and clever enough to show others the images it has seen.\\n\\nIt shares the &aSouthern Island&r with its sister. Bring a &9Latios Treat&r to call it down, and prove yourself worthy of the swift dragon."]
+	quest.1E6F0000000010C9.title: "Latios"
+	task.1E6F0000000010CA.title: "Find the Southern Island"
+	task.1E6F0000000010CC.title: "Catch Latios"
+	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r is the crowned hero-wolf of Galar, who once drove back the Darkest Day with a shining blade held in its jaws.\\n\\nIt waits in the &6Throne Room of Knightly Heroes&r. Carry the &bHero Sword&r - the rusted blade it wielded of old - and the warrior Pokémon will test your resolve."]
+	quest.1E6F0000000010CF.title: "Zacian"
+	task.1E6F0000000010D0.title: "Find the Throne Room of Knightly Heroes"
+	task.1E6F0000000010D2.title: "Catch Zacian"
+	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r is the shielded hero-wolf of Galar, who stood beside Zacian against the Darkest Day and turned aside every blow.\\n\\nIt guards the &6Throne Room of Knightly Heroes&r. Bring the &bHero Shield&r - its ancient, rusted aegis - and the guardian Pokémon will judge whether you are worthy."]
+	quest.1E6F0000000010D5.title: "Zamazenta"
+	task.1E6F0000000010D6.title: "Find the Throne Room of Knightly Heroes"
+	task.1E6F0000000010D8.title: "Catch Zamazenta"
+	quest.1E6F0000000010EB.quest_desc: ["&7Regirock&r is the rock golem of the legendary titans, its body assembled from boulders and held together by an unknown power.\\n\\nIt sleeps within the &bSnowpoint Temple&r. Bring the &7Rock Golem Key&r to unseal its chamber and wake the ancient construct."]
+	quest.1E6F0000000010EB.title: "Regirock"
+	task.1E6F0000000010EC.title: "Find the Snowpoint Temple"
+	task.1E6F0000000010EE.title: "Catch Regirock"
+	quest.1E6F0000000010F1.quest_desc: ["&bRegice&r is the ice golem of the legendary titans, its body frozen at hundreds of degrees below zero and never melting.\\n\\nIt waits sealed in the &bSnowpoint Temple&r. Carry the &bIce Golem Key&r to open its vault and challenge the frozen titan."]
+	quest.1E6F0000000010F1.title: "Regice"
+	task.1E6F0000000010F2.title: "Find the Snowpoint Temple"
+	task.1E6F0000000010F4.title: "Catch Regice"
+	quest.1E6F0000000010F7.quest_desc: ["&7Registeel&r is the steel golem of the legendary titans, its body harder than any known metal yet able to bend and flex.\\n\\nIt rests within the &bSnowpoint Temple&r. Bring the &7Steel Golem Key&r to break the seal and face the iron titan."]
+	quest.1E6F0000000010F7.title: "Registeel"
+	task.1E6F0000000010F8.title: "Find the Snowpoint Temple"
+	task.1E6F0000000010FA.title: "Catch Registeel"
+	quest.1E6F0000000010FD.quest_desc: ["&eRegieleki&r is the electric titan, a being of pure energy said to be able to flood an entire region with current.\\n\\nIt is locked deep in the &bSnowpoint Temple&r. Carry the &eElectric Golem Key&r to release the storm trapped inside."]
+	quest.1E6F0000000010FD.title: "Regieleki"
+	task.1E6F0000000010FE.title: "Find the Snowpoint Temple"
+	task.1E6F000000001100.title: "Catch Regieleki"
+	quest.1E6F000000001103.quest_desc: ["&5Regidrago&r is the dragon titan, shaped from crystallized dragon energy with a hunger that never fades.\\n\\nIt slumbers in the &bSnowpoint Temple&r. Bring the &5Dragon Golem Key&r to wake the ravenous titan and claim it."]
+	quest.1E6F000000001103.title: "Regidrago"
+	task.1E6F000000001104.title: "Find the Snowpoint Temple"
+	task.1E6F000000001106.title: "Catch Regidrago"
+	quest.1E6F000000001109.quest_desc: ["&6Regigigas&r is the master that built the lesser titans and is said to have hauled the continents into place with ropes.\\n\\nIt will not stir until all five Regis stand with you. Gather Regirock, Regice, Registeel, Regieleki and Regidrago, then bring the &6Titan Key&r to the &bSnowpoint Temple&r to wake the colossus."]
+	quest.1E6F000000001109.title: "Regigigas"
+	task.1E6F00000000110A.title: "Find the Snowpoint Temple"
+	task.1E6F00000000110C.title: "Catch Regigigas"
+	quest.1E6F00000000110F.quest_desc: ["&5Eternatus&r is the core of the Darkest Day, an alien dragon whose body is a living reactor of boundless energy.\\n\\nIt lies dormant inside the &dEternatus Cocoon&r. Gather enough &dGalar Particles&r to crack the shell and confront the source of the Dynamax phenomenon itself."]
+	quest.1E6F00000000110F.title: "Eternatus"
+	task.1E6F000000001110.title: "Find the Eternatus Cocoon"
+	task.1E6F000000001112.title: "Catch Eternatus"
+	quest.1E6F000000001115.quest_desc: ["&cYveltal&r is the Destruction Pokémon, whose wings drain the life from every living thing when its time comes.\\n\\nIt rests within the &cYveltal Cocoon&r. Bring the &8Soul Jars&r it craves to rouse the harbinger of death and test your strength against it."]
+	quest.1E6F000000001115.title: "Yveltal"
+	task.1E6F000000001116.title: "Find the Yveltal Cocoon"
+	task.1E6F000000001118.title: "Catch Yveltal"
+	quest.1E6F00000000111B.quest_desc: ["&aXerneas&r is the Life Pokémon, able to share eternal life and known to sleep for a thousand years in the form of a great glowing tree.\\n\\nFind it at the &2Tree of Life&r and offer an &bAurora Essence Jar&r to wake the giver of life. Catch it, and the forest itself rejoices."]
+	quest.1E6F00000000111B.title: "Xerneas"
+	task.1E6F00000000111C.title: "Find the Tree of Life"
+	task.1E6F00000000111E.title: "Catch Xerneas"
+	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r is the icy steed of the &dCrown Shrine&r, a fierce horse that radiates cold sharp enough to freeze the ground it treads.\\n\\nGrow an &bIceroot Carrot&r to lure it from the shrine. Tame the frozen charger - the king Calyrex will want a mount."]
+	quest.1E6F000000001121.title: "Glastrier"
+	task.1E6F000000001122.title: "Find the Crown Shrine"
+	task.1E6F000000001124.title: "Catch Glastrier"
+	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r is the spectral steed of the &dCrown Shrine&r, a ghostly horse that gallops faster than the eye can follow and saps the life from onlookers.\\n\\nGrow a &5Shaderoot Carrot&r to draw it out. Master the shadow steed - Calyrex may yet ride it."]
+	quest.1E6F000000001127.title: "Spectrier"
+	task.1E6F000000001128.title: "Find the Crown Shrine"
+	task.1E6F00000000112A.title: "Catch Spectrier"
+	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r is the king who once ruled all of Galar, a calm and gentle Pokémon said to see every past and future.\\n\\nIt waits at the &dCrown Shrine&r, but a king needs a steed. Claim both Glastrier and Spectrier first, then approach the throne to meet the monarch and choose your mount."]
+	quest.1E6F00000000112D.title: "Calyrex"
+	task.1E6F00000000112E.title: "Find the Crown Shrine"
+	task.1E6F00000000112F.title: "Catch Calyrex"
+	quest.1E6F000000001132.quest_desc: ["&fArceus&r is the Original One, the Pokémon said to have shaped the entire universe from itself.\\n\\nIts dwelling lies beyond the world. Play the &eAzure Flute&r to open the stairway to the &fHall of Origin&r and stand before the creator. Few ever earn the chance to face a god."]
+	quest.1E6F000000001132.title: "Arceus"
+	task.1E6F000000001133.title: "Reach the Hall of Origin"
+	task.1E6F000000001135.title: "Catch Arceus"
+	quest.1E6F000000001138.quest_desc: ["&dMesprit&r is the Being of Emotion, one of the lake guardians of Sinnoh, said to have taught people the joy and sorrow of feeling.\\n\\nIt hides beneath &bLake Verity&r. Earn a &aProof of Conquest&r and present it at the lake to call the sprite of emotion into the open."]
+	quest.1E6F000000001138.title: "Mesprit"
+	task.1E6F000000001139.title: "Find Lake Verity"
+	task.1E6F00000000113B.title: "Catch Mesprit"
+	quest.1E6F00000000113E.quest_desc: ["&9Azelf&r is the Being of Willpower, the lake guardian that gave people the strength to act and to decide.\\n\\nIt rests at the bottom of &bLake Valor&r. Bring a &aProof of Conquest&r to the lakeside to summon the sprite of willpower."]
+	quest.1E6F00000000113E.title: "Azelf"
+	task.1E6F00000000113F.title: "Find Lake Valor"
+	task.1E6F000000001141.title: "Catch Azelf"
+	quest.1E6F000000001144.quest_desc: ["&eUxie&r is the Being of Knowledge, the lake guardian said to have given humanity the intellect to build and to dream.\\n\\nIt dwells under &bLake Acuity&r. Carry a &aProof of Conquest&r to its shore to draw out the sprite of knowledge."]
+	quest.1E6F000000001144.title: "Uxie"
+	task.1E6F000000001145.title: "Find Lake Acuity"
+	task.1E6F000000001147.title: "Catch Uxie"
+	quest.1E6F00000000114A.quest_desc: ["&dCresselia&r is the lunar Pokémon, who scatters glowing crescents and brings restful sleep and pleasant dreams.\\n\\nThere is no shrine for her. Sound the &dFullmoon Whistle&r beneath the night sky and she will descend on wings of moonlight - catch her to banish the worst of nightmares."]
+	quest.1E6F00000000114A.title: "Cresselia"
+	task.1E6F00000000114C.title: "Catch Cresselia"
+	quest.1E6F00000000114F.quest_desc: ["&8Darkrai&r is the pitch-black Pokémon of new-moon nights, who slips into dreams and turns them into endless nightmares.\\n\\nIt answers only the dark. Sound the &8Newmoon Whistle&r after nightfall to call the bringer of nightmares out of the shadows, and catch it if you dare."]
+	quest.1E6F00000000114F.title: "Darkrai"
+	task.1E6F000000001151.title: "Catch Darkrai"
+	quest.1E6F000000001154.quest_desc: ["&bArticuno&r is the freezing bird of the legendary trio, said to appear to travellers lost in the mountains and freeze the air in its wake.\\n\\nThere is no monument for it. Charge an &bUrn of Frost&r by defeating Ice-type Pokémon, then release its power to summon the frozen bird."]
+	quest.1E6F000000001154.title: "Articuno"
+	task.1E6F000000001156.title: "Catch Articuno"
+	quest.1E6F000000001159.quest_desc: ["&eZapdos&r is the thunderbird of the legendary trio, which draws power from lightning and turns the storm clouds black wherever it flies.\\n\\nCharge an &eUrn of Storms&r by defeating Electric-type Pokémon, then unleash it to call down the storm bird."]
+	quest.1E6F000000001159.title: "Zapdos"
+	task.1E6F00000000115B.title: "Catch Zapdos"
+	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r is the flame bird of the legendary trio, whose wingbeats scatter embers and are said to herald the coming of spring.\\n\\nCharge an &cUrn of Embers&r by defeating Fire-type Pokémon, then loose its fire to summon the blazing bird."]
+	quest.1E6F00000000115E.title: "Moltres"
+	task.1E6F000000001160.title: "Catch Moltres"
+	quest.1E6F000000001173.quest_desc: ["The &8Treasures of Ruin&r are four cursed vessels, each holding the spite of an ancient ruler whose ambition once brought a kingdom to ruin.\\n\\nEach is pinned down at its own shrine by ritual stakes. Seek out the shrines scattered across the world and confront the calamities sealed within."]
+	quest.1E6F000000001173.title: "&8Treasures of Ruin"
+	quest.1E6F000000001175.quest_desc: ["&cChi-Yu&r is a goldfish wreathed in flame, said to have reduced mountains to ash with the envy it kindled in the hearts of people.\\n\\nIt is sealed at the &cFirescourge Shrine&r. Find the shrine and face the treasure of ruin born from jealousy."]
+	quest.1E6F000000001175.title: "Chi-Yu"
+	task.1E6F000000001176.title: "Find the Firescourge Shrine"
+	task.1E6F000000001177.title: "Catch Chi-Yu"
+	quest.1E6F00000000117A.quest_desc: ["&2Wo-Chien&r is an ancient snail trailing a cloak of wooden tablets, whose endless grudges once drained the life from entire forests.\\n\\nIt is bound at the &2Grasswither Shrine&r. Seek out the shrine and confront the treasure of ruin born from resentment."]
+	quest.1E6F00000000117A.title: "Wo-Chien"
+	task.1E6F00000000117B.title: "Find the Grasswither Shrine"
+	task.1E6F00000000117C.title: "Catch Wo-Chien"
+	quest.1E6F00000000117F.quest_desc: ["&bChien-Pao&r is a sword-eared beast that sleds across the snow, said to have buried whole towns beneath avalanches it called down for sport.\\n\\nIt is sealed at the &bIcerend Shrine&r. Find the shrine and challenge the treasure of ruin born from cruelty."]
+	quest.1E6F00000000117F.title: "Chien-Pao"
+	task.1E6F000000001180.title: "Find the Icerend Shrine"
+	task.1E6F000000001181.title: "Catch Chien-Pao"
+	quest.1E6F000000001184.quest_desc: ["&6Ting-Lu&r is an antlered giant hung with ritual vessels, whose sheer dread is said to be heavy enough to flatten the earth and swallow travellers whole.\\n\\nIt is bound at the &6Groundblight Shrine&r. Seek out the shrine and stand against the treasure of ruin born from fear."]
+	quest.1E6F000000001184.title: "Ting-Lu"
+	task.1E6F000000001185.title: "Find the Groundblight Shrine"
+	task.1E6F000000001186.title: "Catch Ting-Lu"
+	quest.1E6F000000001199.quest_desc: ["&5Ultra Wormholes&r tear open without warning in &8The Other&r, gateways to the alien dimension the Ultra Beasts call home.\\n\\nRoughly once an hour a wormhole forms and an Ultra Beast steps through as a buffed, high-level boss. Wear it down, then catch it before the rift closes. There is no shrine and no summoning item - you simply have to be there when the sky splits open. A &dBeast Ball&r gives you the best odds."]
+	quest.1E6F000000001199.title: "&5Ultra Wormholes"
+	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r is an Ultra Beast that drifts like a jellyfish, thought to be a parasite that latches onto a host and warps its mind with venom.\\n\\nWatch for it at an Ultra Wormhole in The Other, and bring it down when it emerges."]
+	quest.1E6F00000000119C.title: "Nihilego"
+	task.1E6F00000000119D.title: "Catch Nihilego"
+	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r is the Swollen Pokémon, an Ultra Beast of grotesque muscle that flaunts its bulging body with sudden, ground-cracking poses.\\n\\nCatch it from an Ultra Wormhole when it forces its way through."]
+	quest.1E6F0000000011A0.title: "Buzzwole"
+	task.1E6F0000000011A1.title: "Catch Buzzwole"
+	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r is the Lissome Pokémon, an Ultra Beast of blistering speed and grace that refuses to let anything dirty touch it.\\n\\nRun it down at an Ultra Wormhole before it slips away."]
+	quest.1E6F0000000011A4.title: "Pheromosa"
+	task.1E6F0000000011A5.title: "Catch Pheromosa"
+	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r is the Glowing Pokémon, an Ultra Beast like a tangle of living cables that drains whole power grids to feed its electric body.\\n\\nCatch it when it surges out of an Ultra Wormhole."]
+	quest.1E6F0000000011A8.title: "Xurkitree"
+	task.1E6F0000000011A9.title: "Catch Xurkitree"
+	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r is the Launch Pokémon, an enormous Ultra Beast shaped like a rocket, said to scorch the forests around it as it takes off.\\n\\nBring it down at an Ultra Wormhole in The Other."]
+	quest.1E6F0000000011AC.title: "Celesteela"
+	task.1E6F0000000011AD.title: "Catch Celesteela"
+	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r is the Drawn Sword Pokémon, an Ultra Beast folded like origami yet sharp enough to slice through a steel tower in a single stroke.\\n\\nCatch it when it cuts its way out of an Ultra Wormhole."]
+	quest.1E6F0000000011B0.title: "Kartana"
+	task.1E6F0000000011B1.title: "Catch Kartana"
+	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r is the Junkivore Pokémon, a colossal Ultra Beast that devours everything - buildings, mountains, the sea - and never seems to fill.\\n\\nFace the glutton at an Ultra Wormhole and catch it."]
+	quest.1E6F0000000011B4.title: "Guzzlord"
+	task.1E6F0000000011B5.title: "Catch Guzzlord"
+	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r is the Rampart Pokémon, an Ultra Beast that looks like a towering wall of stacked creatures roused into motion.\\n\\nTopple it at an Ultra Wormhole and add it to your team."]
+	quest.1E6F0000000011B8.title: "Stakataka"
+	task.1E6F0000000011B9.title: "Catch Stakataka"
+	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r is the Fireworks Pokémon, an Ultra Beast that lures people close with a dazzling show, then detonates its own head to scatter them.\\n\\nCatch it when it bursts out of an Ultra Wormhole."]
+	quest.1E6F0000000011BC.title: "Blacephalon"
+	task.1E6F0000000011BD.title: "Catch Blacephalon"
+	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r is the Poison Pin Pokémon, a rare and oddly affectionate Ultra Beast that fires venomous barbs when it gets excited.\\n\\nCatch it at an Ultra Wormhole - raise it with enough friendship and it evolves into the menacing &5Naganadel&r."]
+	quest.1E6F0000000011C0.title: "Poipole"
+	task.1E6F0000000011C1.title: "Catch Poipole"
+	quest.1E6F0000000011D4.quest_desc: ["Not every legendary needs a ritual or a monument. Some simply roam the world, waiting for a trainer sharp enough to find them.\\n\\nThese Pokémon turn up as rare wild spawns in their natural haunts - no structure, no summoning item, no key. Explore widely, keep your eyes open, and carry plenty of balls. Sooner or later, each one shows itself."]
+	quest.1E6F0000000011D4.title: "&2Natural Spawns"
+	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r is the Wish Pokémon, said to wake for only seven days every thousand years and to grant any wish written on the notes attached to its head.\\n\\nFind it during its rare waking days and make your own wish come true by catching it."]
+	quest.1E6F0000000011D7.title: "Jirachi"
+	task.1E6F0000000011D8.title: "Catch Jirachi"
+	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r is the Seafaring Pokémon, born on the cold seabed yet able to form a bond with any creature it meets.\\n\\nIt swims the open oceans - search the waters and catch the prince of the sea."]
+	quest.1E6F0000000011DB.title: "Manaphy"
+	task.1E6F0000000011DC.title: "Catch Manaphy"
+	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r is the Gratitude Pokémon, a hedgehog of the meadows that dissolves toxins and bursts them away as a field of flowers.\\n\\nSeek it among blooming flower fields and add the gentle legend to your team."]
+	quest.1E6F0000000011DF.title: "Shaymin"
+	task.1E6F0000000011E0.title: "Catch Shaymin"
+	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r is the Cyclone Pokémon, whose tail whips up winds strong enough to flatten houses as it streaks across the sky.\\n\\nChase the storms - it roams the open skies, and a sharp-eyed trainer can run it down."]
+	quest.1E6F0000000011E3.title: "Tornadus"
+	task.1E6F0000000011E4.title: "Catch Tornadus"
+	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r is the Bolt Strike Pokémon, hurling lightning from the spikes on its tail as it flies through the thunderheads.\\n\\nFind it where the storms gather and catch the wild bolt out of the sky."]
+	quest.1E6F0000000011E7.title: "Thundurus"
+	task.1E6F0000000011E8.title: "Catch Thundurus"
+	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r is the Abundance Pokémon, revered by farmers because the land it visits yields bountiful harvests.\\n\\nIt roams fertile country - seek the bringer of plenty in the wild."]
+	quest.1E6F0000000011EB.title: "Landorus"
+	task.1E6F0000000011EC.title: "Catch Landorus"
+	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r is the Love-Incarnate Pokémon, whose touch wakes the land from winter and coaxes the spring into bloom.\\n\\nFind the newest of the forces of nature roaming the wild."]
+	quest.1E6F0000000011EF.title: "Enamorus"
+	task.1E6F0000000011F0.title: "Catch Enamorus"
+	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r is the Jewel Pokémon, a carbon creature that can compress the air around it into glittering diamonds in an instant.\\n\\nSeek the radiant princess deep in the world and catch her."]
+	quest.1E6F0000000011F3.title: "Diancie"
+	task.1E6F0000000011F4.title: "Catch Diancie"
+	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r is a guardian deity of its island, a curious and impulsive Pokémon that crackles with stored lightning.\\n\\nFind the island guardian roaming the wild and earn its respect by catching it."]
+	quest.1E6F0000000011F7.title: "Tapu Koko"
+	task.1E6F0000000011F8.title: "Catch Tapu Koko"
+	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r is a guardian deity that scatters glittering scales which soothe and heal, though it acts without thought of malice or mercy.\\n\\nSeek the island guardian in the wild and catch it."]
+	quest.1E6F0000000011FB.title: "Tapu Lele"
+	task.1E6F0000000011FC.title: "Catch Tapu Lele"
+	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r is a guardian deity that commands the growth of plants and drags great trees about to mark the bounds of its domain.\\n\\nFind the bull guardian roaming the wild and bring it down."]
+	quest.1E6F0000000011FF.title: "Tapu Bulu"
+	task.1E6F000000001200.title: "Catch Tapu Bulu"
+	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r is a guardian deity that conjures fog to confound intruders and purifies tainted water with its mist.\\n\\nSeek the island guardian among the wilds and catch it."]
+	quest.1E6F000000001203.title: "Tapu Fini"
+	task.1E6F000000001204.title: "Catch Tapu Fini"
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThough made by human hands, it now turns up in the wild - find the clockwork legend and catch it."]
+	quest.1E6F000000001207.title: "Magearna"
+	task.1E6F000000001208.title: "Catch Magearna"
+	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, which races on all fours and discharges enough electricity from its paws to keep pace with a lightning bolt.\\n\\nChase down the blindingly fast legend in the wild."]
+	quest.1E6F00000000120B.title: "Zeraora"
+	task.1E6F00000000120C.title: "Catch Zeraora"
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r is the Wushu Pokémon, a small bear that trains relentlessly to steel both its body and its spirit.\\n\\nFind it in the wild - raise it well and it evolves into the mighty &7Urshifu&r, master of a single, devastating style."]
+	quest.1E6F00000000120F.title: "Kubfu"
+	task.1E6F000000001210.title: "Catch Kubfu"
+	quest.1E6F000000001213.quest_desc: ["&2Zarude&r is the Rogue Monkey Pokémon, a fierce troop-dweller that swings through dense jungle on vine-like arms.\\n\\nSeek it deep in the thickest forests and catch the jungle legend."]
+	quest.1E6F000000001213.title: "Zarude"
+	task.1E6F000000001214.title: "Catch Zarude"
+	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r is the Mask Pokémon, a shy ogre that hides behind a mask and was once wrongly branded a villain by those who feared it.\\n\\nFind it in the wild and earn the trust of the masked legend."]
+	quest.1E6F000000001217.title: "Ogerpon"
+	task.1E6F000000001218.title: "Catch Ogerpon"
+	quest.1E6F00000000122B.quest_desc: ["Some legendary Pokémon never settle - they wander the world endlessly, leaving only &2footprints&r behind.\\n\\nTo draw one out you have to follow its tracks and set down the food it favours. Each quest below names the lure that particular Pokémon cannot resist. Lay the bait, wait, and be ready to battle when it finally shows itself."]
+	quest.1E6F00000000122B.title: "&2Footprint Tracking"
+	quest.1E6F00000000122F.quest_desc: ["&7Cobalion&r is the calm, clear-headed leader of the Swords of Justice, with a steel body and a gaze that cows wild Pokémon into obedience.\\n\\nTrack it across the wilds and set out &7Special Meat Chunks&r to bring the steel blade to you."]
+	quest.1E6F00000000122F.title: "Cobalion"
+	task.1E6F000000001231.title: "Catch Cobalion"
+	quest.1E6F000000001234.quest_desc: ["&6Terrakion&r is a Sword of Justice whose charging body can shatter a castle wall, remembered in legend for shielding Pokémon from human cruelty.\\n\\nFollow its tracks and lay down &6Special Spices&r to lure the rock-breaker into the open."]
+	quest.1E6F000000001234.title: "Terrakion"
+	task.1E6F000000001236.title: "Catch Terrakion"
+	quest.1E6F000000001239.quest_desc: ["&2Virizion&r is a Sword of Justice with horns like blades, darting around foes with dizzying speed to leave them reeling.\\n\\nTrack it down and offer &2Special Leafy Greens&r to draw the graceful blade near."]
+	quest.1E6F000000001239.title: "Virizion"
+	task.1E6F00000000123B.title: "Catch Virizion"
+	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r is the youngest Sword of Justice, a colt that crosses any water at a gallop and proves its courage through battle.\\n\\nFollow its prints to the water's edge and serve a &bCurry of Justice&r to call the young swordsman out."]
+	quest.1E6F00000000123E.title: "Keldeo"
+	task.1E6F000000001240.title: "Catch Keldeo"
+	quest.1E6F000000001253.quest_desc: ["Deep in &8The Other&r reality frays, and creatures from the distant past and the far future bleed through.\\n\\nTo draw one out, carry a &dPika Star Chunk&r and let a &5Paradox Entity&r wash over you. The world warps, and a Pokémon that should not exist steps into view. The ancient ones lurk in The Other; their mechanical echoes wait deeper still, in The Beyond."]
+	quest.1E6F000000001253.title: "&5Paradox Pokémon"
+	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nCarry a Pika Star Chunk and let a Paradox Entity take you among them."]
+	quest.1E6F000000001255.title: "&cThe Other - Ancient"
+	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb you in The Other to face it."]
+	quest.1E6F000000001257.title: "Great Tusk"
+	task.1E6F000000001258.title: "Catch Great Tusk"
+	quest.1E6F00000000125B.quest_desc: ["&dScream Tail&r is an ancient Paradox Pokémon with a deafening cry, a primal cousin of Jigglypuff far fiercer than its round shape suggests.\\n\\nMeet it in The Other through a Paradox Entity."]
+	quest.1E6F00000000125B.title: "Scream Tail"
+	task.1E6F00000000125C.title: "Catch Scream Tail"
+	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r is an ancient Paradox Pokémon, a hulking and aggressive fungus that saps the spirit of anything that strays near it.\\n\\nDraw it out in The Other."]
+	quest.1E6F00000000125F.title: "Brute Bonnet"
+	task.1E6F000000001260.title: "Catch Brute Bonnet"
+	quest.1E6F000000001263.quest_desc: ["&dFlutter Mane&r is an ancient Paradox Pokémon, a wispy and ghostly thing said to resemble a Misdreavus from a forgotten age.\\n\\nFace it in The Other through a Paradox Entity."]
+	quest.1E6F000000001263.title: "Flutter Mane"
+	task.1E6F000000001264.title: "Catch Flutter Mane"
+	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r is an ancient Paradox Pokémon, a massive moth-like brute that batters its foes with burning wings.\\n\\nLet a Paradox Entity bring it to you in The Other."]
+	quest.1E6F000000001267.title: "Slither Wing"
+	task.1E6F000000001268.title: "Catch Slither Wing"
+	quest.1E6F00000000126B.quest_desc: ["&eSandy Shocks&r is an ancient Paradox Pokémon, a hovering iron-dust echo of Magneton that crackles with static.\\n\\nMeet it in The Other."]
+	quest.1E6F00000000126B.title: "Sandy Shocks"
+	task.1E6F00000000126C.title: "Catch Sandy Shocks"
+	quest.1E6F00000000126F.quest_desc: ["&8Roaring Moon&r is a fearsome ancient Paradox Pokémon, a primal dragon said to mirror Salamence at its most savage.\\n\\nDraw the apex predator out in The Other."]
+	quest.1E6F00000000126F.title: "Roaring Moon"
+	task.1E6F000000001270.title: "Catch Roaring Moon"
+	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r is the legendary ruler of the ancient Paradox Pokémon, a mighty dragon that races across any terrain.\\n\\nThe strongest Paradox Entities in The Other herald its arrival - catch the king of the past."]
+	quest.1E6F000000001273.title: "Koraidon"
+	task.1E6F000000001274.title: "Catch Koraidon"
+	quest.1E6F000000001277.quest_desc: ["&bWalking Wake&r is an ancient Paradox Pokémon, a serpentine dragon that recalls Suicune from a wilder era.\\n\\nFace it in The Other."]
+	quest.1E6F000000001277.title: "Walking Wake"
+	task.1E6F000000001278.title: "Catch Walking Wake"
+	quest.1E6F00000000127B.quest_desc: ["&cGouging Fire&r is an ancient Paradox Pokémon, a blazing horned dragon that echoes Entei's fury.\\n\\nMeet it in The Other through a Paradox Entity."]
+	quest.1E6F00000000127B.title: "Gouging Fire"
+	task.1E6F00000000127C.title: "Catch Gouging Fire"
+	quest.1E6F00000000127F.quest_desc: ["&eRaging Bolt&r is an ancient Paradox Pokémon, a towering electric dragon that calls down thunder like the Raikou of old.\\n\\nDraw it out in The Other."]
+	quest.1E6F00000000127F.title: "Raging Bolt"
+	task.1E6F000000001280.title: "Catch Raging Bolt"
+	quest.1E6F000000001283.quest_desc: ["&bThe Beyond&r reaches into the future. Its Paradox Pokémon are &9machine&r - cold, mechanical echoes of creatures yet to come.\\n\\nThe deepest Paradox Entities open the way; carry a Pika Star Chunk and let them pull you through."]
+	quest.1E6F000000001283.title: "&bThe Beyond - Future"
+	quest.1E6F000000001285.quest_desc: ["&9Iron Treads&r is a future Paradox Pokémon, a rolling machine that mirrors Donphan in chromed, humming steel.\\n\\nLet a Paradox Entity pull it through in The Beyond."]
+	quest.1E6F000000001285.title: "Iron Treads"
+	task.1E6F000000001286.title: "Catch Iron Treads"
+	quest.1E6F000000001289.quest_desc: ["&bIron Bundle&r is a future Paradox Pokémon, a mechanical echo of Delibird that fires ice with ruthless precision.\\n\\nMeet it in The Beyond."]
+	quest.1E6F000000001289.title: "Iron Bundle"
+	task.1E6F00000000128A.title: "Catch Iron Bundle"
+	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r is a future Paradox Pokémon, a hulking robotic bruiser with crushing, electrified grips.\\n\\nFace it in The Beyond through a Paradox Entity."]
+	quest.1E6F00000000128D.title: "Iron Hands"
+	task.1E6F00000000128E.title: "Catch Iron Hands"
+	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r is a future Paradox Pokémon, a three-headed flying machine that strafes the ground with beams from each maw.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F000000001291.title: "Iron Jugulis"
+	task.1E6F000000001292.title: "Catch Iron Jugulis"
+	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r is a future Paradox Pokémon, a mechanical moth that scatters searing, toxic scales as it flies.\\n\\nMeet it in The Beyond."]
+	quest.1E6F000000001295.title: "Iron Moth"
+	task.1E6F000000001296.title: "Catch Iron Moth"
+	quest.1E6F000000001299.quest_desc: ["&9Iron Thorns&r is a future Paradox Pokémon, a craggy machine bristling with steel and crackling current, echoing Tyranitar.\\n\\nFace it in The Beyond."]
+	quest.1E6F000000001299.title: "Iron Thorns"
+	task.1E6F00000000129A.title: "Catch Iron Thorns"
+	quest.1E6F00000000129D.quest_desc: ["&9Iron Valiant&r is a future Paradox Pokémon, a bladed machine that fuses the grace of Gardevoir and Gallade into one weapon.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F00000000129D.title: "Iron Valiant"
+	task.1E6F00000000129E.title: "Catch Iron Valiant"
+	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r is the legendary ruler of the future Paradox Pokémon, a dragon-machine that hovers and races on shaped energy.\\n\\nThe deepest Paradox Entities in The Beyond herald it - catch the king of the future."]
+	quest.1E6F0000000012A1.title: "Miraidon"
+	task.1E6F0000000012A2.title: "Catch Miraidon"
+	quest.1E6F0000000012A5.quest_desc: ["&9Iron Leaves&r is a future Paradox Pokémon, a gleaming machine that recalls Virizion's bladed grace.\\n\\nMeet it in The Beyond."]
+	quest.1E6F0000000012A5.title: "Iron Leaves"
+	task.1E6F0000000012A6.title: "Catch Iron Leaves"
+	quest.1E6F0000000012A9.quest_desc: ["&9Iron Boulder&r is a future Paradox Pokémon, a spinning steel echo of Terrakion that smashes through anything in its path.\\n\\nFace it in The Beyond."]
+	quest.1E6F0000000012A9.title: "Iron Boulder"
+	task.1E6F0000000012AA.title: "Catch Iron Boulder"
+	quest.1E6F0000000012AD.quest_desc: ["&9Iron Crown&r is a future Paradox Pokémon, a regal machine echoing Cobalion, its crowned head channeling raw psychic force.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F0000000012AD.title: "Iron Crown"
+	task.1E6F0000000012AE.title: "Catch Iron Crown"
+	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r is the volcano Pokémon, one of three legendary beasts reborn in the ashes of the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft an &cEntei Treat&r from a Poketreat Box and berries, then bring it to the Burned Tower to call the beast of fire and catch it."]
+	quest.1E6F0000000012C1.title: "Entei"
+	task.1E6F0000000012C2.title: "Enter the Burned Tower"
+	task.1E6F0000000012C3.title: "Hold an Entei Treat"
+	task.1E6F0000000012C4.title: "Catch Entei"
+	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r is the thunder Pokémon, a legendary beast that races like lightning and roars like a storm, reborn in the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft a &eRaikou Treat&r and bring it to the Burned Tower to summon it."]
+	quest.1E6F0000000012C7.title: "Raikou"
+	task.1E6F0000000012C8.title: "Enter the Burned Tower"
+	task.1E6F0000000012C9.title: "Hold a Raikou Treat"
+	task.1E6F0000000012CA.title: "Catch Raikou"
+	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r is the aurora Pokémon, the legendary beast of pure water that runs on the north wind, reborn in the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft a &bSuicune Treat&r and bring it to the Burned Tower to draw it out."]
+	quest.1E6F0000000012CD.title: "Suicune"
+	task.1E6F0000000012CE.title: "Enter the Burned Tower"
+	task.1E6F0000000012CF.title: "Hold a Suicune Treat"
+	task.1E6F0000000012D0.title: "Catch Suicune"
+	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r at Ecruteak and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
+	quest.1E6F0000000012D3.title: "Ho-Oh"
+	task.1E6F0000000012D4.title: "Climb the Bell Tower"
+	task.1E6F0000000012D5.title: "Hold a Rainbow Feather"
+	task.1E6F0000000012D6.title: "Catch Ho-Oh"
+	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r is the regal Galarian form of the legendary bird - a psychic flier whose serene gaze hides a cold and cruel streak.\\n\\nRaise the &bGalarian Urn of Frost&r the way the Kantonian bird answered the Urn of Frost, and the rival form sweeps in."]
+	quest.1E6F0000000012E9.title: "Galarian Articuno"
+	task.1E6F0000000012EA.title: "Hold the Galarian Urn of Frost"
+	task.1E6F0000000012EB.title: "Catch Galarian Articuno"
+	quest.1E6F0000000012EE.quest_desc: ["&eGalarian Zapdos&r is the Galarian form of the legendary bird - a flightless brawler that strikes with kicks as sudden and violent as a thunderclap.\\n\\nRaise the &eGalarian Urn of Storms&r to summon it."]
+	quest.1E6F0000000012EE.title: "Galarian Zapdos"
+	task.1E6F0000000012EF.title: "Hold the Galarian Urn of Storms"
+	task.1E6F0000000012F0.title: "Catch Galarian Zapdos"
+	quest.1E6F0000000012F3.quest_desc: ["&9Galarian Moltres&r is the Galarian form of the legendary bird - a sinister flier wreathed in cold blue flame that drains the spirit of any who meet its burning eyes.\\n\\nRaise the &cGalarian Urn of Embers&r to summon it."]
+	quest.1E6F0000000012F3.title: "Galarian Moltres"
+	task.1E6F0000000012F4.title: "Hold the Galarian Urn of Embers"
+	task.1E6F0000000012F5.title: "Catch Galarian Moltres"
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nCraft the &eGS Ball&r and use it on an &2Ilex Shrine&r to call Celebi across time, then catch it."]
+	quest.1E6F000000001308.title: "Celebi"
+	task.1E6F000000001309.title: "Hold the GS Ball"
+	task.1E6F00000000130A.title: "Catch Celebi"
+	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r is the gloomdweller Pokémon, a living shadow that hides underfoot and copies the moves of anyone it watches.\\n\\nStir &7Shadow Ichor&r in a cauldron together with the &8Shadowy Cowl&r and the &7Old Fighters Towel&r to draw it out of hiding, then catch it."]
+	quest.1E6F00000000130D.title: "Marshadow"
+	task.1E6F00000000130E.title: "Hold the Shadowy Cowl"
+	task.1E6F00000000130F.title: "Hold the Old Fighters Towel"
+	task.1E6F000000001310.title: "Catch Marshadow"
+	quest.1E6F000000001313.quest_desc: ["&dMeloetta&r is the melody Pokémon, whose songs stir such deep feeling that they can reshape its own body between graceful dance and soaring voice.\\n\\nRestore the &bDisc of the First Song&r from its fragments and play it at the &dMeloetta Jukebox&r to summon her, then catch her."]
+	quest.1E6F000000001313.title: "Meloetta"
+	task.1E6F000000001314.title: "Hold the Disc of the First Song"
+	task.1E6F000000001315.title: "Catch Meloetta"
+	quest.1E6F000000001318.quest_desc: ["&9Cosmog&r is the nebula Pokémon, a tiny cloud of stardust that drifts in from another world, so light a breeze can carry it away.\\n\\nUse the &bCosmic Catalyst&r to gather the cosmic dust it scatters and coax Cosmog into the open. Raise it and in time it hardens into &9Cosmoem&r, then ascends into the radiant &6Solgaleo&r or the lunar &dLunala&r - one capture opens the whole line."]
+	quest.1E6F000000001318.title: "Cosmog"
+	task.1E6F000000001319.title: "Hold the Cosmic Catalyst"
+	task.1E6F00000000131A.title: "Catch Cosmog"
+	quest.1E6F00000000131D.quest_desc: ["&8Necrozma&r is the prism Pokémon, a shard of living light that fell from the sky in ancient times and now hungers for the glow of others.\\n\\nIt prowls the wild on its own - track one down and catch it. Hold &6Solgaleo&r or &dLunala&r as well and Necrozma fuses into its blazing &eDusk Mane&r or &dDawn Wings&r form, and beyond even those lies its ultimate surge as &bUltra Necrozma&r."]
+	quest.1E6F00000000131D.title: "Necrozma"
+	task.1E6F00000000131E.title: "Catch Necrozma"
+	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r is the DNA Pokémon, a sliver of alien genetic code that rode a meteor down from the depths of space. Drawing it out is the most demanding rite in the world, performed in two stages.\\n\\nFirst, set an &eAncient DNA Sample&r on the altar with a &2Plutonium Pellet&r, lay a 3x3 platform of &7Magnets&r beneath it, and run the ritual in the &9Ether River&r of Eternal Starlight - but only while a &dmeteor shower&r falls and you wear four MekaSuit pieces fitted with Radiation Shielding Units. The sky answers, and a &bDeoxys Crystal&r drops into the world.\\n\\n&8The crystal still sleeps. The rite that wakes what lies within has yet to be uncovered.&r"]
+	quest.1E6F000000001331.title: "Deoxys"
+	task.1E6F000000001332.title: "Hold an Ancient DNA Sample"
+	task.1E6F000000001333.title: "Hold a Plutonium Pellet"
+	task.1E6F000000001334.title: "Catch Deoxys"
+}
