@@ -58,7 +58,7 @@
 	quest.1A53B6544782442E.title: "Módulo de Controle de Escudo Wyvern"
 	quest.1C8210712349A2E3.quest_desc: ["Premissa bem simples, Machados e Espadas podem causar mais Dano. Sim, ele acumula!"]
 	quest.1C8210712349A2E3.title: "Módulo de Dano Básico"
-	quest.1D3E2363CFD4C5E0.quest_desc: ["A Criação por Fusão tem Níveis que são determinados pelos Injetores. Os Níveis seguem em ordem ascendente: Draconium (eu me refiro a ele como Básico para ajudar a diferenciar), Wyvern, Dracônico e Caótico. Os Injetores precisam ser colocados à Esquerda e à Direita do Núcleo de Criação por Fusão, a alguns blocos de distância dele. Eles podem ser colocados em forma de cruz, com um máximo de 5 de cada lado do Núcleo de Criação. Para fornecer Energia a eles, colocar Cristais de Relé IO conectados a eles funcionará, confira a Vinculação de Cristais para saber mais."]
+	quest.1D3E2363CFD4C5E0.quest_desc: ["A Criação por Fusão tem Níveis que são determinados pelos Injetores. Os Níveis seguem em ordem ascendente: Draconium (eu me refiro a ele como Básico para ajudar a diferenciar), Wyvern, Dracônico e Caótico. Os Injetores precisam ser colocados à Esquerda e à Direita do Núcleo de Criação por Fusão, a alguns blocos de distância dele. Eles podem ser colocados em forma de cruz, com um máximo de 5 de cada lado do Núcleo de Criação. Para fornecer Energia a eles, colocar Cristais Retransmissor E/S conectados a eles funcionará, confira a Vinculação de Cristais para saber mais."]
 	quest.1D3E2363CFD4C5E0.title: "Nível Básico"
 	quest.1E41A5071854DEC8.title: "Módulo de Dano Wyvern"
 	quest.1F7D147C9AF6A4FC.quest_desc: [
@@ -97,8 +97,8 @@
 	]
 	quest.2DB2A4A1182FE0BB.quest_subtitle: "Armazena: 356.000.000.000 RF"
 	quest.2DB2A4A1182FE0BB.title: "Nível 6"
-	quest.2E74B5149D4BD0A0.quest_desc: ["O Cristal Básico (Relé de Energia) é o começo para mover Energia com o Draconic Evolution!"]
-	quest.2E74B5149D4BD0A0.title: "Cristal de Relé de Energia Básico"
+	quest.2E74B5149D4BD0A0.quest_desc: ["O Cristal Básico de E/S de Energia é o começo para mover Energia com o Draconic Evolution!"]
+	quest.2E74B5149D4BD0A0.title: "Cristal Básico de Energia"
 	quest.30F97EB743B0A07F.quest_desc: ["Confira os Módulos para aprender mais sobre como usar e aprimorar os itens do DE! O Machado Wyvern é semelhante aos Machados do Minecraft após as Atualizações de Combate. Eles podem ser projetados como uma arma para matar inimigos, ou uma ferramenta para derrubar árvores."]
 	quest.30F97EB743B0A07F.title: "Machado Wyvern"
 	quest.3235FBD9CE21D5EE.quest_desc: ["Confira os Módulos para aprender mais sobre como usar e aprimorar os itens do DE! Eu sei com o que vocês, colegas Jogadores, realmente se importam sobre a Pá Wyvern. Vocês não precisam mais passar noites em claro, porque agora vocês sabem, as Pás do DE podem fazer caminhos."]
@@ -127,7 +127,7 @@
 	quest.36DAFC3FECC67406.quest_desc: ["A melhor Bateria de Energia que o DE fornecerá."]
 	quest.36DAFC3FECC67406.title: "Capacitor Caótico"
 	quest.36F123B2A6B52A01.quest_desc: ["Estes podem mover mais Energia e ter mais links. O nível mais alto que os Cristais de Energia alcançam."]
-	quest.36F123B2A6B52A01.title: "Cristal de Relé de Energia Dracônico"
+	quest.36F123B2A6B52A01.title: "Cristal Dracônico Retransmissor de Energia"
 	quest.3765485408041FC6.quest_desc: ["Confira os Módulos para aprender mais sobre como usar e aprimorar os itens do DE! As Picaretas funcionam como uma Picareta normal de Nível 6. Elas podem minerar todos os níveis de bloco, de Pedra a Unobtainium. Os itens minerados irão automaticamente para o seu Inventário."]
 	quest.3765485408041FC6.title: "Picareta Wyvern"
 	quest.376D154F27A00BCD.quest_desc: ["Qual é o problema da Física e do DE em traí-los? A gravidade puxa a Flecha para baixo ao longo do tempo em que é disparada. A Compensação de Gravidade nos faz nos preocupar menos com isso."]
@@ -225,7 +225,7 @@
 		"{image:atm:textures/questpics/draconic/draconic_guardian.png width:150 height:100 align:1}"
 	]
 	quest.5C2CF51D28F84CBE.title: "Mate o Guardião do Caos"
-	quest.5D87088E8D71DB9B.quest_desc: ["Os Cristais IO funcionam como blocos que podem se conectar uns aos outros e mover energia entre si. Para vinculá-los, clique com Shift + Botão Direito com um Vinculador de Cristal para definir um e, em seguida, clique com o botão direito em qualquer Cristal que você queira conectar. Ao olhar para o Cristal, ele dirá Entrada do bloco ou Saída para o bloco. Entrada é aquele de onde você quer tirar OP e Saída para onde você quer que ele vá."]
+	quest.5D87088E8D71DB9B.quest_desc: ["Os Cristais E/S funcionam como blocos que podem se conectar uns aos outros e mover energia entre si. Para vinculá-los, clique com Shift + Botão Direito com um Vinculador de Cristal para definir um e, em seguida, clique com o botão direito em qualquer Cristal que você queira conectar. Ao olhar para o Cristal, ele dirá Entrada do bloco ou Saída para o bloco. Entrada é aquele de onde você quer tirar OP e Saída para onde você quer que ele vá."]
 	quest.5D87088E8D71DB9B.title: "Movendo OP"
 	quest.5E0D78B7B2CF1729.quest_desc: ["Eu sei que é o Nível Wyvern, então por que há um item Dracônico aqui? Para chegar ao Nível Dracônico, você precisa de Injetores Dracônicos. Para obter Injetores Dracônicos, você precisará de Núcleos Dracônicos. Entende por que eles estão aqui agora?"]
 	quest.5E0D78B7B2CF1729.title: "Núcleo Dracônico"
@@ -268,8 +268,8 @@
 	quest.713D3B3954E58C4A.title: "Nível 3"
 	quest.7143CE930D08F160.quest_desc: ["Área de Efeito é uma frase que a maioria dos Gamers conheceria. Basicamente, aprimora a área de trabalho da Ferramenta em que está. Picaretas com AdE 3x3 minerarão em uma área de 3x3. Espadas com AdE 3x3 matarão todos os mobs atingidos dentro dessa área. Quanto melhor o aprimoramento, maior a área. Não, não é acumulável!"]
 	quest.7143CE930D08F160.title: "Módulo de Área de Efeito Básico"
-	quest.715F9F7107374299.quest_desc: ["Cristal Wyvern (Relé de Energia). Faz exatamente o mesmo que o Cristal Básico, apenas com mais Energia e mais Links."]
-	quest.715F9F7107374299.title: "Cristal de Relé de Energia Wyvern"
+	quest.715F9F7107374299.quest_desc: ["Cristal Wyvern Retransmissor de Energia. Faz exatamente o mesmo que o Cristal Básico, apenas com mais Energia e mais Links."]
+	quest.715F9F7107374299.title: "Cristal Wyvern Retransmissor de Energia"
 	quest.731A70C25C2C7281.quest_desc: ["Itens obtidos com a Ferramenta em que isto está irão para o seu Baú do Ender. O do Minecraft, não um modificado."]
 	quest.731A70C25C2C7281.title: "Módulo de Coleta do Ender"
 	quest.7496B2380A23FDC6.title: "Lenhador de Árvores Caótico"
@@ -285,7 +285,7 @@
 	quest.79886D63280DBBF3.quest_desc: ["Filtrar não é suficiente?!?! Você quer que os itens sejam destruídos?!?! Seu monstro!"]
 	quest.79886D63280DBBF3.title: "Módulo de Incineração Seletiva"
 	quest.79FC674836B6340E.title: "Módulo de Salto Dracônico"
-	quest.7A4ABFCD12202A91.quest_desc: ["Potencial Operacional é a fonte de Energia do Draconic Evolution. A principal maneira (não a única) de mover OP é com os Cristais de Relé IO. Para realmente colocar OP nos itens, você precisará de uma Transferência de Energia."]
+	quest.7A4ABFCD12202A91.quest_desc: ["Potencial Operacional é a fonte de Energia do Draconic Evolution. A principal maneira (não a única) de mover OP é com os Cristais Retransmissor E/S. Para realmente colocar OP nos itens, você precisará de uma Transferência de Energia."]
 	quest.7A4ABFCD12202A91.title: "O que é Energia ou, como a chamamos, OP?"
 	quest.7B9F5EEC76FDD0D4.title: "Módulo de Dano Dracônico"
 	quest.7C54581562D2EA75.quest_desc: ["Módulos de Velocidade são divertidos, eles funcionam em quase tudo e os tornam mais rápidos! Espadas balançam mais rápido, Picaretas mineram mais rápido, Machados cortam mais rápido, Arcos disparam mais rápido, e Peitorais te deixam mais rápido. Quanto melhor o Módulo de Velocidade, mais rápido eles vão! (A propósito, bom momento para mencionar que a maioria dos atributos se acumula. 2 Módulos de Velocidade Básicos aumentam a Velocidade em 20%% então!)"]
@@ -310,4 +310,5 @@
 	task.61CCAD2018478894.title: "Ativação"
 	task.664130FB28E419EF.title: "Cristal de Energia"
 	task.6EAC5BBFAA0184BC.title: "Preparação"
+	task.664130FB28E419EF.title: "Cristal E/S"
 }

@@ -1,5 +1,4 @@
 {
-	task.7098EE34DE595CD4.title: "Blaze Burner"
 	quest.022C38096F79EF07.quest_desc: ["&6&lForbidden \\& Arcanus&r is all about using the Arcane to do rituals with the Forge to become stronger! \\n\\nOr what most know it for, Eternal Stella. There's more to the Mod you know! "]
 	quest.022C38096F79EF07.title: "&6&lForbidden \\& Arcanus"
 	quest.03564837ECB5CC79.quest_desc: ["Another Ritual of course, this one being &2Ihagan's Enthrallment&r. (BTW in order to sacrifice a Horse you need it nearby while doing the ritual) \\n\\nOnce done you will be given a &2Dragon Familiar&r. You will have to throw a Creature Catcher at it to use it for the &6&lATM Star&r.\\n\\nThis one will follow you around and can be pet by using Shift Right Click on it."]
@@ -219,4 +218,5 @@
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
 	task.662F6B4EF078E3A2.title: "AllRightsReserved"
+	task.7098EE34DE595CD4.title: "&cBlaze Burner&f"
 }
