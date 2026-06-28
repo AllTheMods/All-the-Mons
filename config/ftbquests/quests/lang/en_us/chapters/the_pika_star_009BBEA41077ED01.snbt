@@ -49,6 +49,25 @@
 	]
 	quest.64CC314ECC49B92A.quest_desc: ["Obtain all &cregional &ePika Stars."]
 	quest.6B4196A8DC3235D5.quest_desc: ["Complete &aall progress&r on each &cregional &ePika Star."]
+	quest.7A0693A3016549F6.quest_desc: [
+		"Every road you have ever walked - every patch of tall grass parted, every Poké Ball thrown into the dark - has been leading here. The &dShiny Pika Star&r is not merely crafted. It is &oearned&r, and then summoned, in the grandest rite the world has ever staged."
+		""
+		"&6The rite suffers no pretenders. Present yourself thus:&r"
+		"- With &aevery regional Pokédex complete&r - the whole world catalogued by your hand."
+		"- With &6Kurt&r* himself drawn to the &5altar&r, that a master of the craft may bear witness."
+		"- With a &ePikachu&r perched upon your shoulder, your truest companion at your side."
+		"- &dDressed for the occasion&r - a full set of Poké Fashion across all four slots. Legends do not arrive in rags."
+		""
+		"&6Then raise the altar and lay the offering:&r"
+		"- &eConsult the altar recipe&r for the &bsacred pattern&r - &6Pikachu statues&r standing guard at the four corners, a crown of &bDisplay Cases&r upon their &bNote Block&r pedestals."
+		"- Enshrine within the cases all &cten regional Pika Stars&r and a &cPokédex&r - the sum of your journey, on display for all the world."
+		"- &aLay upon the altar&r a &bLight Ball&r, a &bThunder Stone&r, an &bUnobtainium-Vibranium Alloy Ingot&r and a &bMaster Ball&r."
+		"- Then &cset down the unbound Pika Star&r, and let the rite begin."
+		""
+		"&7* Kurt is a &6PokéMart Trader&r villager renamed to &6Kurt&r with a Name Tag - keep him within a few blocks of the altar.&r"
+	]
+	quest.7A0693A3016549F6.quest_subtitle: ""
+	quest.7A0693A3016549F6.title: "Shiny Pika Star"
 	task.0C959B11B37F53C6.title: "How To Use Altar"
 	task.37F598DD9EEE414F.title: "Create Sand Papers"
 	task.53851DD297E86E63.title: "Regional Pika Star"

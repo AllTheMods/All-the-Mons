@@ -423,7 +423,7 @@
 	quest.1E6F0000000012F3.title: "Galarian Moltres"
 	task.1E6F0000000012F4.title: "Hold the Galarian Urn of Embers"
 	task.1E6F0000000012F5.title: "Catch Galarian Moltres"
-	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nCraft the &eGS Ball&r and use it on an &2Ilex Shrine&r to call Celebi across time, then catch it."]
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nThe &eGS Ball&r cannot be crafted - you must trade for one from &6Kurt&r, the apricorn ball-maker (a PokéMart Trader villager named Kurt), then use it on an &2Ilex Shrine&r to call Celebi across time and catch it."]
 	quest.1E6F000000001308.title: "Celebi"
 	task.1E6F000000001309.title: "Hold the GS Ball"
 	task.1E6F00000000130A.title: "Catch Celebi"
