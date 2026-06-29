@@ -1,0 +1,97 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "basculegion-1",
+      "pokemon": "basculegion",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "submerged",
+      "bucket": "common",
+      "level": "41-53",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_freshwater"
+        ],
+        "moonPhase": "0,4"
+      }
+    },
+    {
+      "id": "basculegion-2",
+      "pokemon": "basculegion",
+      "type": "pokemon",
+      "spawnablePositionType": "fishing",
+      "bucket": "common",
+      "level": "41-53",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_arid",
+          "#cobblemon:is_forest",
+          "#cobblemon:is_freshwater",
+          "#cobblemon:is_grassland",
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_mountain",
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_tundra"
+        ],
+        "moonPhase": "0,4"
+      }
+    },
+    {
+      "id": "basculegion-3",
+      "pokemon": "basculegion",
+      "presets": [
+        "water"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "submerged",
+      "bucket": "common",
+      "level": "41-53",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": false,
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_freshwater"
+        ],
+        "moonPhase": "0,4"
+      }
+    },
+    {
+      "id": "basculegion-4",
+      "pokemon": "basculegion",
+      "type": "pokemon",
+      "spawnablePositionType": "fishing",
+      "bucket": "common",
+      "level": "41-53",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": false,
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_arid",
+          "#cobblemon:is_forest",
+          "#cobblemon:is_freshwater",
+          "#cobblemon:is_grassland",
+          "#cobblemon:is_jungle",
+          "#cobblemon:is_mountain",
+          "#cobblemon:is_snowy_forest",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_tundra"
+        ],
+        "moonPhase": "0,4"
+      }
+    }
+  ]
+}
