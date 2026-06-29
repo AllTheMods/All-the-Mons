@@ -423,7 +423,7 @@
 	quest.1E6F0000000012F3.title: "Moltres de Galar"
 	task.1E6F0000000012F4.title: "Tenha a Urna de Brasas de Galar"
 	task.1E6F0000000012F5.title: "Capture Moltres de Galar"
-	quest.1E6F000000001308.quest_desc: ["&aCelebi&r é o Pokémon que viaja no tempo, um guardião da floresta que desliza entre o passado e o futuro, deixando flores por onde passa.\\n\\nFabrique a &eBola GS&r e use-a em um &2Santuário de Ilex&r para chamar Celebi através do tempo, então capture-o."]
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r é o Pokémon viajante do tempo, um guardião da floresta que transita entre o passado e o futuro e deixa flores por onde descansa.\\n\\nA &eBola GS&r não pode ser fabricada - é necessário realizar comércio com &6Kurt&r, o fabricante de Bolas de Bolota (um Aldeão Comerciante do PokéMart chamado &6Kurt&r), e então usá-la em um &2Santuário de Ilex&r para chamar Celebi através do tempo e capturá-lo."]
 	quest.1E6F000000001308.title: "Celebi"
 	task.1E6F000000001309.title: "Tenha a Bola GS"
 	task.1E6F00000000130A.title: "Capture Celebi"
