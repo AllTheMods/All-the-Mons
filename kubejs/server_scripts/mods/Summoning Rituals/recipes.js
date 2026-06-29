@@ -147,6 +147,51 @@ ServerEvents.recipes(event => {
     })
     .id("allthemons:deoxys_crystal")
 
+  // Deoxys — summoned by the Deoxys Meteorite once the minigame leaves a lit, fully
+  // charged crystal on the base. Source Jar fill is checked in events/deoxys.js.
+  // The four power items stand in for Deoxys' four formes (Attack/Defense/Speed/Normal).
+  event.recipes.summoningrituals.altar('mega_showdown:deoxys_meteorite')
+    .itemInputs([
+      "cobblemon:power_bracer",
+      "cobblemon:power_belt",
+      "cobblemon:power_anklet",
+      "cobblemon:power_weight"
+    ])
+    .ticks(400)
+    .displayOutputs([
+      `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:deoxys","aspects":[]}]`
+    ])
+    .blockPattern(pattern => {
+      pattern
+        .name(Text.translatable("kubejs.atm.sr.deoxys_structure"))
+        // Deoxys base with the lit, fully-charged crystal from the minigame on top
+        .block([0, 0, 4], "allthemons:deoxys_base")
+        .block([0, 1, 4], "allthemons:deoxys_crystal", {"lit": true})
+        // Source Jars flanking the base, with their relays above
+        .block([-3, 0, 4], "ars_nouveau:source_jar")
+        .block([3, 0, 4], "ars_nouveau:source_jar")
+        .block([-3, 1, 4], "ars_nouveau:relay")
+        .block([3, 1, 4], "ars_nouveau:relay")
+        // Five 3-tall arcane crystal obelisks ringing the base
+        .block([-6, 0, 5], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([-6, 1, 5], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([-6, 2, 5], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([-4, 0, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([-4, 1, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([-4, 2, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([0, 0, 9], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([0, 1, 9], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([0, 2, 9], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([4, 0, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([4, 1, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([4, 2, 8], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([6, 0, 6], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([6, 1, 6], "forbidden_arcanus:arcane_crystal_obelisk")
+        .block([6, 2, 6], "forbidden_arcanus:arcane_crystal_obelisk")
+      return pattern
+    })
+    .id("allthemons:deoxys")
+
     event.recipes.summoningrituals.altar(Ingredient.of("sgearmetalworks:ring_cast"))
         .itemInputs([
             "morered:red_network_cable",

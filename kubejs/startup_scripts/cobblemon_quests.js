@@ -52,7 +52,7 @@ global.catchBySpeciesTask = [
   { "1E6F000000001050": "terapagos" },
   { "1E6F000000001055": "mewtwo" },
   { "1E6F00000000105A": "pecharunt" },
-  { "1E6F000000001334": "deoxys" }, // placeholder - catchable once Goal 1 (crystal Stage 2) is built
+  { "1E6F000000001334": "deoxys" },
   // Legendary Monuments
   { "1E6F000000001073": "lugia" },
   { "1E6F000000001079": "heatran" },

@@ -20,6 +20,9 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:shiny_pika_star", (renderer, recipe, context) => {
     shinyPikaStarRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:deoxys", (renderer, recipe, context) => {
+    deoxysRitualRender(renderer, recipe, context)
+  })
 })
 
 /** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
@@ -34,6 +37,10 @@ let GOLD_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.78, 0.15), 1.
 let SILVER_PARTICLE = new $DustParticleOptions(new $Vector3f(0.80, 0.82, 0.86), 1.0)
 let PECHA_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.49, 0.71), 0.8)
 
+// Purple source stream, matching the source held in the jars, in the same crisp dust
+// style as the other ritual streams.
+let SOURCE_PARTICLE = new $DustParticleOptions(new $Vector3f(0.60, 0.22, 0.95), 1.0)
+
 /** @type {import("java.util.Map").$Map<(import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe),(any)>} */
 let meltanDrains = Utils.newMap()
 
@@ -43,6 +50,7 @@ let terabeegosState = {}
 let terapagosState = {}
 let pechaState = {}
 let shinyPikaState = {}
+let deoxysState = {}
 
 const PECHA_STREAM_TICKS = 20
 
@@ -291,6 +299,88 @@ function shinyPikaStarRitualRender(/**@type {import("com.almostreliable.summonin
   }
 }
 
+function deoxysRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!deoxysState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    let state = findDeoxysFixtures(context.level, context.altar.blockPos)
+    state.schedule = buildTerabeegosSchedule(recipe.ticks())
+    deoxysState[stateKey] = state
+  }
+  let state = deoxysState[stateKey]
+  if (state != null) {
+    // Ring of sparkles
+    state.schedule.forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
+    if (state.crystal != null) {
+      let target = [state.crystal.x + 0.5, state.crystal.y + 0.6, state.crystal.z + 0.5]
+      // A few light stars lob from each obelisk tip down onto the crystal
+      state.obelisks.forEach(p => {
+        if (Math.random() < 0.08) {
+          emitArc(context.level, p.x + 0.5, p.y + 0.8, p.z + 0.5, target, $ParticleTypes.END_ROD, 1, 0.8)
+        }
+      })
+      // Steady source current arcs from each relay into the crystal
+      state.relays.forEach(p => {
+        emitArc(context.level, p.x + 0.5, p.y + 0.5, p.z + 0.5, target, SOURCE_PARTICLE, 2, 1.2)
+      })
+    }
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete deoxysState[stateKey]
+  }
+}
+
+function findDeoxysFixtures(level, altarPos) {
+  let obelisks = []
+  let relays = []
+  let crystal = null
+  for (let dx = -10; dx <= 10; dx++) {
+    for (let dy = -2; dy <= 4; dy++) {
+      for (let dz = -10; dz <= 10; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        let id = String(level.getBlockState(p).block.id)
+        if (id === "forbidden_arcanus:arcane_crystal_obelisk") {
+          // Only the top segment of each pillar streams, so every obelisk emits once
+          if (String(level.getBlockState(p.above()).block.id) !== "forbidden_arcanus:arcane_crystal_obelisk") {
+            obelisks.push(p)
+          }
+        } else if (id === "ars_nouveau:relay") {
+          relays.push(p)
+        } else if (id === "allthemons:deoxys_crystal") {
+          crystal = p
+        }
+      }
+    }
+  }
+  return { "obelisks": obelisks, "relays": relays, "crystal": crystal }
+}
+
+// Parabolic arc from (sx,sy,sz) to target, peaking `arch` blocks above the straight line.
+function emitArc(level, sx, sy, sz, target, particle, samples, arch) {
+  let n = samples == null ? 4 : samples
+  let h = arch == null ? 1.0 : arch
+  for (let i = 0; i < n; i++) {
+    let t = (i + Math.random()) / n
+    let x = sx + (target[0] - sx) * t + (Math.random() - 0.5) * 0.06
+    let y = sy + (target[1] - sy) * t + 4 * h * t * (1 - t) + (Math.random() - 0.5) * 0.06
+    let z = sz + (target[2] - sz) * t + (Math.random() - 0.5) * 0.06
+    level.addParticle(particle, x, y, z, 0, 0, 0)
+  }
+}
+
 function findDisplayCases(level, altarPos) {
   let found = []
   for (let dx = -5; dx <= 5; dx++) {
@@ -499,6 +589,7 @@ ClientEvents.loggedOut(event => {
   terapagosState = {}
   pechaState = {}
   shinyPikaState = {}
+  deoxysState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {
