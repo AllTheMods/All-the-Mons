@@ -379,6 +379,8 @@
 	"kubejs.atm.sr.mekasuit_req": "Você não está usando o MekaSuit com a Unidade de Proteção contra Radiação em todas as peças.",
 	"kubejs.atm.sr.meteor_shower_check_error": "Algo deu errado ao tentar encontrar a Chuva de Meteoros, reporte aos Desenvolvedores do ATM!",
 	"kubejs.atm.sr.meteor_shower_forecast": "A próxima Chuva de Meteoros será em %s",
+	"kubejs.atm.sr.deoxys_structure": "O Cristal de Deoxys carregado, ladeado por Jarras de Fonte cheias",
+	"kubejs.atm.sr.deoxys_not_enough_source": "Ambas as Jarras de Fonte devem ser preenchidas com 10.000 Fonte antes que o meteorito reaja.",
 	"kubejs.atm.condition.summoningrituals.player": "Jogador",
 	"kubejs.atm.condition.summoningrituals.mekasuit_with_radiation_shielding": "Vestir todas as peças de %s com %s"
 }
