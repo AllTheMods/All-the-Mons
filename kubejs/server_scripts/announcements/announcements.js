@@ -10,13 +10,9 @@ let permanentAnnouncements = Utils.newList()
 
 // Add your announcements here
 function initAnnouncements(){
-  addAnnouncement("0.15.0-beta", Text.translate('kubejs.atm.ann.0_15_0_beta'))
-
-  addPermanentAnnouncement(Text.of('').append(Text.translate('kubejs.atm.ann.beta_warning').red()))
   addPermanentAnnouncement(Text.translate('kubejs.atm.ann.for_issues_visit', Text.translate('kubejs.atm.ann.github_issues').green().clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.translate('kubejs.atm.ann.for_suggestions_visit', Text.translate('kubejs.atm.ann.discussions').green().clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/discussions").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
   addPermanentAnnouncement(Text.translate('kubejs.atm.ann.for_support_visit', Text.translate('kubejs.atm.ann.discord_techsupport').green().clickOpenUrl("https://discord.gg/allthemods").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
-  addPermanentAnnouncement(Text.translate('kubejs.atm.ann.check_progress_at', Text.translate('kubejs.atm.ann.tracker_spoilers').green().clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/issues/37").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))      
 
   // keep this at last line
   addAnnouncement(currentVersion.toString(), Text.translate('kubejs.atm.ann.click_for_changelog', Text.translate('kubejs.atm.ann.here').green().clickOpenUrl("https://github.com/AllTheMods/All-the-Mons/blob/main/CHANGELOG.md").hover(Text.translatable("mco.notification.visitUrl.buttonText.default"))))
