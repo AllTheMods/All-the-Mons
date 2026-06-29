@@ -1,0 +1,34 @@
+{
+	quest.1E6F000000001199.quest_desc: ["As &5Ultra Fendas&r se abrem sem aviso em &8O Outro&r, portais para a dimensão alienígena que as Ultra Bestas chamam de lar.\\n\\nAproximadamente uma vez por hora, uma fenda se forma e uma Ultra Besta surge como um chefe fortalecido de alto nível. Desgaste-a e capture-a antes que a fenda se feche. Não há santuário nem item de invocação - você simplesmente precisa estar lá quando o céu se abrir. Uma &dBola de Besta&r oferece as melhores chances."]
+	quest.1E6F000000001199.title: "&5Ultra Fendas"
+	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r é uma Ultra Besta que flutua como uma água-viva, considerada um parasita que se prende a um hospedeiro e distorce sua mente com veneno.\\n\\nFique atento a ela em uma Ultra Fenda em O Outro e derrote-a quando emergir."]
+	quest.1E6F00000000119C.title: "Nihilego"
+	task.1E6F00000000119D.title: "Capture Nihilego"
+	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r é o Pokémon Inchado, uma Ultra Besta de músculos grotescos que ostenta seu corpo volumoso com poses repentinas que racham o chão.\\n\\nCapture-o em uma Ultra Fenda quando ele forçar sua passagem."]
+	quest.1E6F0000000011A0.title: "Buzzwole"
+	task.1E6F0000000011A1.title: "Capture Buzzwole"
+	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r é o Pokémon Esguio, uma Ultra Besta de velocidade e graça avassaladoras que se recusa a permitir que qualquer sujeira a toque.\\n\\nPersiga-a em uma Ultra Fenda antes que ela escape."]
+	quest.1E6F0000000011A4.title: "Pheromosa"
+	task.1E6F0000000011A5.title: "Capture Pheromosa"
+	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r é o Pokémon Brilho, uma Ultra Besta semelhante a um emaranhado de cabos vivos que drena redes elétricas inteiras para alimentar seu corpo elétrico.\\n\\nCapture-o quando ele surgir de uma Ultra Fenda."]
+	quest.1E6F0000000011A8.title: "Xurkitree"
+	task.1E6F0000000011A9.title: "Capture Xurkitree"
+	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r é o Pokémon Lançamento, uma enorme Ultra Besta com formato de foguete, que dizem incinerar as florestas ao seu redor ao decolar.\\n\\nDerrube-a em uma Ultra Fenda em O Outro."]
+	quest.1E6F0000000011AC.title: "Celesteela"
+	task.1E6F0000000011AD.title: "Capture Celesteela"
+	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r é o Pokémon Espada Desembainhada, uma Ultra Besta dobrada como origami, mas afiada o suficiente para cortar uma torre de aço em um único golpe.\\n\\nCapture-o quando ele abrir caminho para fora de uma Ultra Fenda."]
+	quest.1E6F0000000011B0.title: "Kartana"
+	task.1E6F0000000011B1.title: "Capture Kartana"
+	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r é o Pokémon Faminto, uma Ultra Besta colossal que devora tudo - edifícios, montanhas, o mar - e nunca parece estar satisfeita.\\n\\nEnfrente o glutão em uma Ultra Fenda e capture-o."]
+	quest.1E6F0000000011B4.title: "Guzzlord"
+	task.1E6F0000000011B5.title: "Capture Guzzlord"
+	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r é o Pokémon Muralha, uma Ultra Besta que se assemelha a uma torre de criaturas empilhadas despertadas para o movimento.\\n\\nDerrube-o em uma Ultra Fenda e adicione-o à sua equipe."]
+	quest.1E6F0000000011B8.title: "Stakataka"
+	task.1E6F0000000011B9.title: "Capture Stakataka"
+	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r é o Pokémon Fogos de Artifício, uma Ultra Besta que atrai as pessoas com um show deslumbrante e depois detona a própria cabeça para dispersá-las.\\n\\nCapture-o quando ele explodir para fora de uma Ultra Fenda."]
+	quest.1E6F0000000011BC.title: "Blacephalon"
+	task.1E6F0000000011BD.title: "Capture Blacephalon"
+	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r é o Pokémon Alfinete de Veneno, uma Ultra Besta rara e estranhamente afetuosa que dispara farpas venenosas quando fica animada.\\n\\nCapture-o em uma Ultra Fenda - aumente sua amizade o suficiente e ele evoluirá para o ameaçador &5Naganadel&r."]
+	quest.1E6F0000000011C0.title: "Poipole"
+	task.1E6F0000000011C1.title: "Capture Poipole"
+}

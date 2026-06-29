@@ -1,7 +1,4 @@
 {
-	quest.1E6E0001CA7C4111.quest_subtitle: "Gotta earn 'em all"
-	quest.1E6E0001CA7C4111.quest_desc: ["The rarest Pokémon will not come quietly. &6Legendaries&r, &dMythicals&r, &bUltra Beasts&r and &cParadox&r species cannot be battled or caught until you carry the &eregional Pika Star&r for the region they call home, and even then you have to beat each one in battle before a ball will hold it.\\n\\nThere is no single way to track them down. Some sleep inside ancient &6temples&r, some answer a &dsummoning ritual&r at the altar, and many wait at their own monument until you arrive with the right key item. Others slip through &bUltra Wormholes&r, leave faint footprints to follow, or only show themselves once you have proven your worth.\\n\\nThe quests in this chapter walk you through every one of them, grouped by where and how they are found. Build a strong team, gather what each legend asks for, and good luck out there, trainer."]
-	quest.1E6E0001CA7C4111.title: "&6&lCatching Legendaries"
 	quest.1E6E0002E57A0C75.quest_desc: ["Long before trainers walked these lands, great &6temples&r were raised to shelter the most powerful Pokémon of all. They still stand today, generating out in the world in the biomes that suit the legend within.\\n\\nThere is no key or ritual to worry about here. Find the structure, fight your way to the chamber at its heart, and the Pokémon waiting inside will turn to face you. An &bExplorer's Compass&r makes the search much quicker, though plain old wandering works just as well."]
 	quest.1E6E0002E57A0C75.title: "&6Ancient Temples"
 	quest.1E6E0003C0FFEE01.quest_desc: ["Far below the surface, in the flooded dark of the &9Origin Cave&r, sleeps the beast that shaped the seas. Old sailors told of a whale that raised the oceans high over the land and drowned the world in endless rain.\\n\\nMake your way down into the cave and reach its heart to wake it. Bring a team that can hold its own in the water, and be ready for a storm when the ancient sea Pokémon finally stirs."]
@@ -220,38 +217,6 @@
 	quest.1E6F000000001184.title: "Ting-Lu"
 	task.1E6F000000001185.title: "Find the Groundblight Shrine"
 	task.1E6F000000001186.title: "Catch Ting-Lu"
-	quest.1E6F000000001199.quest_desc: ["&5Ultra Wormholes&r tear open without warning in &8The Other&r, gateways to the alien dimension the Ultra Beasts call home.\\n\\nRoughly once an hour a wormhole forms and an Ultra Beast steps through as a buffed, high-level boss. Wear it down, then catch it before the rift closes. There is no shrine and no summoning item - you simply have to be there when the sky splits open. A &dBeast Ball&r gives you the best odds."]
-	quest.1E6F000000001199.title: "&5Ultra Wormholes"
-	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r is an Ultra Beast that drifts like a jellyfish, thought to be a parasite that latches onto a host and warps its mind with venom.\\n\\nWatch for it at an Ultra Wormhole in The Other, and bring it down when it emerges."]
-	quest.1E6F00000000119C.title: "Nihilego"
-	task.1E6F00000000119D.title: "Catch Nihilego"
-	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r is the Swollen Pokémon, an Ultra Beast of grotesque muscle that flaunts its bulging body with sudden, ground-cracking poses.\\n\\nCatch it from an Ultra Wormhole when it forces its way through."]
-	quest.1E6F0000000011A0.title: "Buzzwole"
-	task.1E6F0000000011A1.title: "Catch Buzzwole"
-	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r is the Lissome Pokémon, an Ultra Beast of blistering speed and grace that refuses to let anything dirty touch it.\\n\\nRun it down at an Ultra Wormhole before it slips away."]
-	quest.1E6F0000000011A4.title: "Pheromosa"
-	task.1E6F0000000011A5.title: "Catch Pheromosa"
-	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r is the Glowing Pokémon, an Ultra Beast like a tangle of living cables that drains whole power grids to feed its electric body.\\n\\nCatch it when it surges out of an Ultra Wormhole."]
-	quest.1E6F0000000011A8.title: "Xurkitree"
-	task.1E6F0000000011A9.title: "Catch Xurkitree"
-	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r is the Launch Pokémon, an enormous Ultra Beast shaped like a rocket, said to scorch the forests around it as it takes off.\\n\\nBring it down at an Ultra Wormhole in The Other."]
-	quest.1E6F0000000011AC.title: "Celesteela"
-	task.1E6F0000000011AD.title: "Catch Celesteela"
-	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r is the Drawn Sword Pokémon, an Ultra Beast folded like origami yet sharp enough to slice through a steel tower in a single stroke.\\n\\nCatch it when it cuts its way out of an Ultra Wormhole."]
-	quest.1E6F0000000011B0.title: "Kartana"
-	task.1E6F0000000011B1.title: "Catch Kartana"
-	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r is the Junkivore Pokémon, a colossal Ultra Beast that devours everything - buildings, mountains, the sea - and never seems to fill.\\n\\nFace the glutton at an Ultra Wormhole and catch it."]
-	quest.1E6F0000000011B4.title: "Guzzlord"
-	task.1E6F0000000011B5.title: "Catch Guzzlord"
-	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r is the Rampart Pokémon, an Ultra Beast that looks like a towering wall of stacked creatures roused into motion.\\n\\nTopple it at an Ultra Wormhole and add it to your team."]
-	quest.1E6F0000000011B8.title: "Stakataka"
-	task.1E6F0000000011B9.title: "Catch Stakataka"
-	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r is the Fireworks Pokémon, an Ultra Beast that lures people close with a dazzling show, then detonates its own head to scatter them.\\n\\nCatch it when it bursts out of an Ultra Wormhole."]
-	quest.1E6F0000000011BC.title: "Blacephalon"
-	task.1E6F0000000011BD.title: "Catch Blacephalon"
-	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r is the Poison Pin Pokémon, a rare and oddly affectionate Ultra Beast that fires venomous barbs when it gets excited.\\n\\nCatch it at an Ultra Wormhole - raise it with enough friendship and it evolves into the menacing &5Naganadel&r."]
-	quest.1E6F0000000011C0.title: "Poipole"
-	task.1E6F0000000011C1.title: "Catch Poipole"
 	quest.1E6F0000000011D4.quest_desc: ["Not every legendary needs a ritual or a monument. Some simply roam the world, waiting for a trainer sharp enough to find them.\\n\\nThese Pokémon turn up as rare wild spawns in their natural haunts - no structure, no summoning item, no key. Explore widely, keep your eyes open, and carry plenty of balls. Sooner or later, each one shows itself."]
 	quest.1E6F0000000011D4.title: "&2Natural Spawns"
 	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r is the Wish Pokémon, said to wake for only seven days every thousand years and to grant any wish written on the notes attached to its head.\\n\\nFind it during its rare waking days and make your own wish come true by catching it."]
@@ -319,78 +284,6 @@
 	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r is the youngest Sword of Justice, a colt that crosses any water at a gallop and proves its courage through battle.\\n\\nFollow its prints to the water's edge and serve a &bCurry of Justice&r to call the young swordsman out."]
 	quest.1E6F00000000123E.title: "Keldeo"
 	task.1E6F000000001240.title: "Catch Keldeo"
-	quest.1E6F000000001253.quest_desc: ["Deep in &8The Other&r reality frays, and creatures from the distant past and the far future bleed through.\\n\\nTo draw one out, carry a &dPika Star Chunk&r and let a &5Paradox Entity&r wash over you. The world warps, and a Pokémon that should not exist steps into view. The ancient ones lurk in The Other; their mechanical echoes wait deeper still, in The Beyond."]
-	quest.1E6F000000001253.title: "&5Paradox Pokémon"
-	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nCarry a Pika Star Chunk and let a Paradox Entity take you among them."]
-	quest.1E6F000000001255.title: "&cThe Other - Ancient"
-	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb you in The Other to face it."]
-	quest.1E6F000000001257.title: "Great Tusk"
-	task.1E6F000000001258.title: "Catch Great Tusk"
-	quest.1E6F00000000125B.quest_desc: ["&dScream Tail&r is an ancient Paradox Pokémon with a deafening cry, a primal cousin of Jigglypuff far fiercer than its round shape suggests.\\n\\nMeet it in The Other through a Paradox Entity."]
-	quest.1E6F00000000125B.title: "Scream Tail"
-	task.1E6F00000000125C.title: "Catch Scream Tail"
-	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r is an ancient Paradox Pokémon, a hulking and aggressive fungus that saps the spirit of anything that strays near it.\\n\\nDraw it out in The Other."]
-	quest.1E6F00000000125F.title: "Brute Bonnet"
-	task.1E6F000000001260.title: "Catch Brute Bonnet"
-	quest.1E6F000000001263.quest_desc: ["&dFlutter Mane&r is an ancient Paradox Pokémon, a wispy and ghostly thing said to resemble a Misdreavus from a forgotten age.\\n\\nFace it in The Other through a Paradox Entity."]
-	quest.1E6F000000001263.title: "Flutter Mane"
-	task.1E6F000000001264.title: "Catch Flutter Mane"
-	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r is an ancient Paradox Pokémon, a massive moth-like brute that batters its foes with burning wings.\\n\\nLet a Paradox Entity bring it to you in The Other."]
-	quest.1E6F000000001267.title: "Slither Wing"
-	task.1E6F000000001268.title: "Catch Slither Wing"
-	quest.1E6F00000000126B.quest_desc: ["&eSandy Shocks&r is an ancient Paradox Pokémon, a hovering iron-dust echo of Magneton that crackles with static.\\n\\nMeet it in The Other."]
-	quest.1E6F00000000126B.title: "Sandy Shocks"
-	task.1E6F00000000126C.title: "Catch Sandy Shocks"
-	quest.1E6F00000000126F.quest_desc: ["&8Roaring Moon&r is a fearsome ancient Paradox Pokémon, a primal dragon said to mirror Salamence at its most savage.\\n\\nDraw the apex predator out in The Other."]
-	quest.1E6F00000000126F.title: "Roaring Moon"
-	task.1E6F000000001270.title: "Catch Roaring Moon"
-	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r is the legendary ruler of the ancient Paradox Pokémon, a mighty dragon that races across any terrain.\\n\\nThe strongest Paradox Entities in The Other herald its arrival - catch the king of the past."]
-	quest.1E6F000000001273.title: "Koraidon"
-	task.1E6F000000001274.title: "Catch Koraidon"
-	quest.1E6F000000001277.quest_desc: ["&bWalking Wake&r is an ancient Paradox Pokémon, a serpentine dragon that recalls Suicune from a wilder era.\\n\\nFace it in The Other."]
-	quest.1E6F000000001277.title: "Walking Wake"
-	task.1E6F000000001278.title: "Catch Walking Wake"
-	quest.1E6F00000000127B.quest_desc: ["&cGouging Fire&r is an ancient Paradox Pokémon, a blazing horned dragon that echoes Entei's fury.\\n\\nMeet it in The Other through a Paradox Entity."]
-	quest.1E6F00000000127B.title: "Gouging Fire"
-	task.1E6F00000000127C.title: "Catch Gouging Fire"
-	quest.1E6F00000000127F.quest_desc: ["&eRaging Bolt&r is an ancient Paradox Pokémon, a towering electric dragon that calls down thunder like the Raikou of old.\\n\\nDraw it out in The Other."]
-	quest.1E6F00000000127F.title: "Raging Bolt"
-	task.1E6F000000001280.title: "Catch Raging Bolt"
-	quest.1E6F000000001283.quest_desc: ["&bThe Beyond&r reaches into the future. Its Paradox Pokémon are &9machine&r - cold, mechanical echoes of creatures yet to come.\\n\\nThe deepest Paradox Entities open the way; carry a Pika Star Chunk and let them pull you through."]
-	quest.1E6F000000001283.title: "&bThe Beyond - Future"
-	quest.1E6F000000001285.quest_desc: ["&9Iron Treads&r is a future Paradox Pokémon, a rolling machine that mirrors Donphan in chromed, humming steel.\\n\\nLet a Paradox Entity pull it through in The Beyond."]
-	quest.1E6F000000001285.title: "Iron Treads"
-	task.1E6F000000001286.title: "Catch Iron Treads"
-	quest.1E6F000000001289.quest_desc: ["&bIron Bundle&r is a future Paradox Pokémon, a mechanical echo of Delibird that fires ice with ruthless precision.\\n\\nMeet it in The Beyond."]
-	quest.1E6F000000001289.title: "Iron Bundle"
-	task.1E6F00000000128A.title: "Catch Iron Bundle"
-	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r is a future Paradox Pokémon, a hulking robotic bruiser with crushing, electrified grips.\\n\\nFace it in The Beyond through a Paradox Entity."]
-	quest.1E6F00000000128D.title: "Iron Hands"
-	task.1E6F00000000128E.title: "Catch Iron Hands"
-	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r is a future Paradox Pokémon, a three-headed flying machine that strafes the ground with beams from each maw.\\n\\nDraw it out in The Beyond."]
-	quest.1E6F000000001291.title: "Iron Jugulis"
-	task.1E6F000000001292.title: "Catch Iron Jugulis"
-	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r is a future Paradox Pokémon, a mechanical moth that scatters searing, toxic scales as it flies.\\n\\nMeet it in The Beyond."]
-	quest.1E6F000000001295.title: "Iron Moth"
-	task.1E6F000000001296.title: "Catch Iron Moth"
-	quest.1E6F000000001299.quest_desc: ["&9Iron Thorns&r is a future Paradox Pokémon, a craggy machine bristling with steel and crackling current, echoing Tyranitar.\\n\\nFace it in The Beyond."]
-	quest.1E6F000000001299.title: "Iron Thorns"
-	task.1E6F00000000129A.title: "Catch Iron Thorns"
-	quest.1E6F00000000129D.quest_desc: ["&9Iron Valiant&r is a future Paradox Pokémon, a bladed machine that fuses the grace of Gardevoir and Gallade into one weapon.\\n\\nDraw it out in The Beyond."]
-	quest.1E6F00000000129D.title: "Iron Valiant"
-	task.1E6F00000000129E.title: "Catch Iron Valiant"
-	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r is the legendary ruler of the future Paradox Pokémon, a dragon-machine that hovers and races on shaped energy.\\n\\nThe deepest Paradox Entities in The Beyond herald it - catch the king of the future."]
-	quest.1E6F0000000012A1.title: "Miraidon"
-	task.1E6F0000000012A2.title: "Catch Miraidon"
-	quest.1E6F0000000012A5.quest_desc: ["&9Iron Leaves&r is a future Paradox Pokémon, a gleaming machine that recalls Virizion's bladed grace.\\n\\nMeet it in The Beyond."]
-	quest.1E6F0000000012A5.title: "Iron Leaves"
-	task.1E6F0000000012A6.title: "Catch Iron Leaves"
-	quest.1E6F0000000012A9.quest_desc: ["&9Iron Boulder&r is a future Paradox Pokémon, a spinning steel echo of Terrakion that smashes through anything in its path.\\n\\nFace it in The Beyond."]
-	quest.1E6F0000000012A9.title: "Iron Boulder"
-	task.1E6F0000000012AA.title: "Catch Iron Boulder"
-	quest.1E6F0000000012AD.quest_desc: ["&9Iron Crown&r is a future Paradox Pokémon, a regal machine echoing Cobalion, its crowned head channeling raw psychic force.\\n\\nDraw it out in The Beyond."]
-	quest.1E6F0000000012AD.title: "Iron Crown"
-	task.1E6F0000000012AE.title: "Catch Iron Crown"
 	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r is the volcano Pokémon, one of three legendary beasts reborn in the ashes of the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft an &cEntei Treat&r from a Poketreat Box and berries, then bring it to the Burned Tower to call the beast of fire and catch it."]
 	quest.1E6F0000000012C1.title: "Entei"
 	task.1E6F0000000012C2.title: "Enter the Burned Tower"

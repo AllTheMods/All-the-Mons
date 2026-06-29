@@ -1,0 +1,505 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ultra_beasts"
+	group: "52E24F4D0DDFF37E"
+	icon: {
+		id: "cobblemon:beast_ball"
+	}
+	id: "1E6FB00000000001"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["64CC314ECC49B92A"]
+			icon: {
+				id: "cobblemon:beast_ball"
+			}
+			id: "1E6F000000001199"
+			rewards: [{
+				id: "1E6F00000000119B"
+				item: {
+					count: 1
+					id: "cobblemon:beast_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E6F00000000119A"
+				type: "checkmark"
+			}]
+			x: 0d
+			y: 0d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:nihilego"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F00000000119C"
+			rewards: [
+				{
+					id: "1E6F00000000119E"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F00000000119F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:nihilego"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F00000000119D"
+				type: "custom"
+			}]
+			x: -7.2d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:buzzwole"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011A0"
+			rewards: [
+				{
+					id: "1E6F0000000011A2"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011A3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:buzzwole"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011A1"
+				type: "custom"
+			}]
+			x: -5.6d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:pheromosa"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011A4"
+			rewards: [
+				{
+					id: "1E6F0000000011A6"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011A7"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:pheromosa"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011A5"
+				type: "custom"
+			}]
+			x: -4d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:xurkitree"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011A8"
+			rewards: [
+				{
+					id: "1E6F0000000011AA"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011AB"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:xurkitree"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011A9"
+				type: "custom"
+			}]
+			x: -2.4d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:celesteela"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011AC"
+			rewards: [
+				{
+					id: "1E6F0000000011AE"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011AF"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:celesteela"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011AD"
+				type: "custom"
+			}]
+			x: -0.8d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:kartana"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011B0"
+			rewards: [
+				{
+					id: "1E6F0000000011B2"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011B3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:kartana"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011B1"
+				type: "custom"
+			}]
+			x: 0.8d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:guzzlord"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011B4"
+			rewards: [
+				{
+					id: "1E6F0000000011B6"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011B7"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:guzzlord"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011B5"
+				type: "custom"
+			}]
+			x: 2.4d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:stakataka"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011B8"
+			rewards: [
+				{
+					id: "1E6F0000000011BA"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011BB"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:stakataka"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011B9"
+				type: "custom"
+			}]
+			x: 4d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:blacephalon"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011BC"
+			rewards: [
+				{
+					id: "1E6F0000000011BE"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011BF"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:blacephalon"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011BD"
+				type: "custom"
+			}]
+			x: 5.6d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6F000000001199"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:poipole"
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "1E6F0000000011C0"
+			rewards: [
+				{
+					id: "1E6F0000000011C2"
+					item: {
+						count: 1
+						id: "cobblemon:beast_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1E6F0000000011C3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					components: {
+						"cobblemon:pokemon_item": {
+							aspects: [ ]
+							species: "cobblemon:poipole"
+						}
+					}
+					id: "cobblemon:pokemon_model"
+				}
+				id: "1E6F0000000011C1"
+				type: "custom"
+			}]
+			x: 7.2d
+			y: 2.5d
+		}
+	]
+}

@@ -1,7 +1,4 @@
 {
-	quest.1E6E0001CA7C4111.quest_subtitle: "Capture todos eles"
-	quest.1E6E0001CA7C4111.quest_desc: ["As espécies de Pokémon mais raras não virão pacificamente. Espécies &6Lendárias&r, &dMíticas&r, &bUltra Bestas&r e &cParadoxais&r não podem ser enfrentadas ou capturadas até que você carregue a &eEstrela Pika regional&r da região que elas chamam de lar e, mesmo assim, você precisa derrotar cada uma em batalha antes que uma bola possa contê-las.\\n\\nNão há uma única forma de rastreá-las. Algumas dormem dentro de &6templos&r antigos, algumas respondem a um &dritual de invocação&r no altar, e muitas esperam em seu próprio monumento até que você chegue com o item chave correto. Outras deslizam por &bUltra Fendas&r, deixam pegadas sutis para seguir ou só se mostram quando você prova o seu valor.\\n\\nAs missões deste capítulo guiam você por cada uma delas, agrupadas por onde e como são encontradas. Monte uma equipe forte, reúna o que cada lenda pede e boa sorte lá fora, treinador(a)."]
-	quest.1E6E0001CA7C4111.title: "&6&lCapturando Lendários"
 	quest.1E6E0002E57A0C75.quest_desc: ["Muito antes de pessoas caminharem por estas terras, ergueram-se grandes &6templos&r para abrigar os Pokémon mais poderosos de todos. Eles ainda permanecem de pé, surgindo pelo mundo nos biomas que combinam com a lenda em seu interior.\\n\\nNão há chaves ou rituais com que se preocupar aqui. Encontre a estrutura, abra caminho até a câmara em seu coração e o Pokémon que espera lá dentro se virará para enfrentar você. Uma &bBússola do Explorador&r torna a busca muito mais rápida, embora o bom e velho ato de vagar funcione da mesma forma."]
 	quest.1E6E0002E57A0C75.title: "&6Templos Antigos"
 	quest.1E6E0003C0FFEE01.quest_desc: ["Muito abaixo da superfície, na escuridão inundada da &9Caverna da Origem&r, dorme a fera que moldou os mares. Antigos marinheiros contavam sobre uma baleia que elevou os oceanos acima da terra e afogou o mundo em uma chuva interminável.\\n\\nDesça até a caverna e alcance seu coração para despertá-la. Traga uma equipe que consiga se virar na água e prepare-se para uma tempestade quando o antigo Pokémon marinho finalmente despertar."]
@@ -220,38 +217,6 @@
 	quest.1E6F000000001184.title: "Ting-Lu"
 	task.1E6F000000001185.title: "Encontre o Santuário da Praga Terrestre"
 	task.1E6F000000001186.title: "Capture Ting-Lu"
-	quest.1E6F000000001199.quest_desc: ["As &5Ultra Fendas&r se abrem sem aviso em &8O Outro&r, portais para a dimensão alienígena que as Ultra Bestas chamam de lar.\\n\\nAproximadamente uma vez por hora, uma fenda se forma e uma Ultra Besta surge como um chefe fortalecido de alto nível. Desgaste-a e capture-a antes que a fenda se feche. Não há santuário nem item de invocação - você simplesmente precisa estar lá quando o céu se abrir. Uma &dBola de Besta&r oferece as melhores chances."]
-	quest.1E6F000000001199.title: "&5Ultra Fendas"
-	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r é uma Ultra Besta que flutua como uma água-viva, considerada um parasita que se prende a um hospedeiro e distorce sua mente com veneno.\\n\\nFique atento a ela em uma Ultra Fenda em O Outro e derrote-a quando emergir."]
-	quest.1E6F00000000119C.title: "Nihilego"
-	task.1E6F00000000119D.title: "Capture Nihilego"
-	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r é o Pokémon Inchado, uma Ultra Besta de músculos grotescos que ostenta seu corpo volumoso com poses repentinas que racham o chão.\\n\\nCapture-o em uma Ultra Fenda quando ele forçar sua passagem."]
-	quest.1E6F0000000011A0.title: "Buzzwole"
-	task.1E6F0000000011A1.title: "Capture Buzzwole"
-	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r é o Pokémon Esguio, uma Ultra Besta de velocidade e graça avassaladoras que se recusa a permitir que qualquer sujeira a toque.\\n\\nPersiga-a em uma Ultra Fenda antes que ela escape."]
-	quest.1E6F0000000011A4.title: "Pheromosa"
-	task.1E6F0000000011A5.title: "Capture Pheromosa"
-	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r é o Pokémon Brilho, uma Ultra Besta semelhante a um emaranhado de cabos vivos que drena redes elétricas inteiras para alimentar seu corpo elétrico.\\n\\nCapture-o quando ele surgir de uma Ultra Fenda."]
-	quest.1E6F0000000011A8.title: "Xurkitree"
-	task.1E6F0000000011A9.title: "Capture Xurkitree"
-	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r é o Pokémon Lançamento, uma enorme Ultra Besta com formato de foguete, que dizem incinerar as florestas ao seu redor ao decolar.\\n\\nDerrube-a em uma Ultra Fenda em O Outro."]
-	quest.1E6F0000000011AC.title: "Celesteela"
-	task.1E6F0000000011AD.title: "Capture Celesteela"
-	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r é o Pokémon Espada Desembainhada, uma Ultra Besta dobrada como origami, mas afiada o suficiente para cortar uma torre de aço em um único golpe.\\n\\nCapture-o quando ele abrir caminho para fora de uma Ultra Fenda."]
-	quest.1E6F0000000011B0.title: "Kartana"
-	task.1E6F0000000011B1.title: "Capture Kartana"
-	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r é o Pokémon Faminto, uma Ultra Besta colossal que devora tudo - edifícios, montanhas, o mar - e nunca parece estar satisfeita.\\n\\nEnfrente o glutão em uma Ultra Fenda e capture-o."]
-	quest.1E6F0000000011B4.title: "Guzzlord"
-	task.1E6F0000000011B5.title: "Capture Guzzlord"
-	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r é o Pokémon Muralha, uma Ultra Besta que se assemelha a uma torre de criaturas empilhadas despertadas para o movimento.\\n\\nDerrube-o em uma Ultra Fenda e adicione-o à sua equipe."]
-	quest.1E6F0000000011B8.title: "Stakataka"
-	task.1E6F0000000011B9.title: "Capture Stakataka"
-	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r é o Pokémon Fogos de Artifício, uma Ultra Besta que atrai as pessoas com um show deslumbrante e depois detona a própria cabeça para dispersá-las.\\n\\nCapture-o quando ele explodir para fora de uma Ultra Fenda."]
-	quest.1E6F0000000011BC.title: "Blacephalon"
-	task.1E6F0000000011BD.title: "Capture Blacephalon"
-	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r é o Pokémon Alfinete de Veneno, uma Ultra Besta rara e estranhamente afetuosa que dispara farpas venenosas quando fica animada.\\n\\nCapture-o em uma Ultra Fenda - aumente sua amizade o suficiente e ele evoluirá para o ameaçador &5Naganadel&r."]
-	quest.1E6F0000000011C0.title: "Poipole"
-	task.1E6F0000000011C1.title: "Capture Poipole"
 	quest.1E6F0000000011D4.quest_desc: ["Nem todo lendário precisa de um ritual ou monumento. Alguns simplesmente vagam pelo mundo, esperando por um(a) treinador(a) astuto(a) o suficiente para encontrá-los.\\n\\nEstes Pokémon aparecem como spawns selvagens raros em seus habitats naturais - sem estruturas, itens de invocação ou chaves. Explore amplamente, mantenha os olhos abertos e carregue muitas bolas. Cedo ou tarde, cada um se mostrará."]
 	quest.1E6F0000000011D4.title: "&2Spawns Naturais"
 	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r é o Pokémon Desejo, que dizem acordar por apenas sete dias a cada mil anos e conceder qualquer desejo escrito nas notas presas à sua cabeça.\\n\\nEncontre-o durante seus raros dias de vigília e realize seu próprio desejo capturando-o."]
@@ -319,78 +284,6 @@
 	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r é o Espadachim da Justiça mais jovem, um potro que atravessa qualquer água a galope e prova sua coragem através da batalha.\\n\\nSiga suas pegadas até a beira da água e sirva um &bCurry da Justiça&r para chamar o jovem espadachim."]
 	quest.1E6F00000000123E.title: "Keldeo"
 	task.1E6F000000001240.title: "Capture Keldeo"
-	quest.1E6F000000001253.quest_desc: ["Nas profundezas de &8O Outro&r a realidade se fragmenta, e criaturas do passado distante e do futuro longínquo atravessam.\\n\\nPara atrair um, carregue um &dFragmento de Estrela Pika&r e deixe uma &5Entidade Paradoxal&r envolver você. O mundo se distorce e um Pokémon que não deveria existir surge. Os antigos espreitam em O Outro; seus ecos mecânicos esperam ainda mais fundo, em O Além."]
-	quest.1E6F000000001253.title: "&5Pokémon Paradoxais"
-	quest.1E6F000000001255.quest_desc: ["&8O Outro&r está impregnado com o passado. Os Pokémon Paradoxais aqui são &cantigos&r - formas primais e selvagens de espécies familiares, resgatadas de um mundo há muito perdido.\\n\\nCarregue um Fragmento de Estrela Pika e deixe uma Entidade Paradoxal levar você até eles."]
-	quest.1E6F000000001255.title: "&cO Outro - Antigo"
-	quest.1E6F000000001257.quest_desc: ["&cPresa Longa&r é um bruto selvagem do passado distante que faz o chão tremer, puro marfim e músculo - um eco primal de Donphan.\\n\\nDeixe uma Entidade Paradoxal absorver você em O Outro para enfrentá-lo."]
-	quest.1E6F000000001257.title: "Presa Longa"
-	task.1E6F000000001258.title: "Capture Presa Longa"
-	quest.1E6F00000000125B.quest_desc: ["&dCauda Gritante&r é um Pokémon Paradoxal antigo com um grito ensurdecedor, um primo primal de Jigglypuff muito mais feroz do que sua forma redonda sugere.\\n\\nEncontre-o em O Outro através de uma Entidade Paradoxal."]
-	quest.1E6F00000000125B.title: "Cauda Gritante"
-	task.1E6F00000000125C.title: "Capture Cauda Gritante"
-	quest.1E6F00000000125F.quest_desc: ["&8Capuz Bruto&r é um Pokémon Paradoxal antigo, um fungo robusto e agressivo que drena o espírito de qualquer coisa que se aproxime.\\n\\nAtraia-o em O Outro."]
-	quest.1E6F00000000125F.title: "Capuz Bruto"
-	task.1E6F000000001260.title: "Capture Capuz Bruto"
-	quest.1E6F000000001263.quest_desc: ["&dJuba Sopro&r é um Pokémon Paradoxal antigo, um ser etéreo e fantasmal que dizem assemelhar-se a um Misdreavus de uma era esquecida.\\n\\nEnfrente-o em O Outro através de uma Entidade Paradoxal."]
-	quest.1E6F000000001263.title: "Juba Sopro"
-	task.1E6F000000001264.title: "Capture Juba Sopro"
-	quest.1E6F000000001267.quest_desc: ["&cAsa Rastejante&r é um Pokémon Paradoxal antigo, um bruto maciço semelhante a uma mariposa que golpeia seus inimigos com asas flamejantes.\\n\\nDeixe uma Entidade Paradoxal trazê-lo até você em O Outro."]
-	quest.1E6F000000001267.title: "Asa Rastejante"
-	task.1E6F000000001268.title: "Capture Asa Rastejante"
-	quest.1E6F00000000126B.quest_desc: ["&eChoque Arenoso&r é um Pokémon Paradoxal antigo, um eco de Magneton feito de poeira de ferro flutuante que estala com estática.\\n\\nEncontre-o em O Outro."]
-	quest.1E6F00000000126B.title: "Choque Arenoso"
-	task.1E6F00000000126C.title: "Capture Choque Arenoso"
-	quest.1E6F00000000126F.quest_desc: ["&8Lua Estrondosa&r é um temível Pokémon Paradoxal antigo, um dragão primal que dizem refletir Salamence em seu estado mais selvagem.\\n\\nAtraia esse predador alfa em O Outro."]
-	quest.1E6F00000000126F.title: "Lua Estrondosa"
-	task.1E6F000000001270.title: "Capture Lua Estrondosa"
-	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r é o lendário governante dos Pokémon Paradoxais antigos, um dragão poderoso que corre por qualquer terreno.\\n\\nAs Entidades Paradoxais mais fortes em O Outro anunciam sua chegada - capture o rei do passado."]
-	quest.1E6F000000001273.title: "Koraidon"
-	task.1E6F000000001274.title: "Capture Koraidon"
-	quest.1E6F000000001277.quest_desc: ["&bÁguas Ondulantes&r é um Pokémon Paradoxal antigo, um dragão serpentino que recorda Suicune de uma era mais selvagem.\\n\\nEnfrente-o em O Outro."]
-	quest.1E6F000000001277.title: "Águas Ondulantes"
-	task.1E6F000000001278.title: "Capture Águas Ondulantes"
-	quest.1E6F00000000127B.quest_desc: ["&cFogo Corrosivo&r é um Pokémon Paradoxal antigo, um dragão flamejante com chifres que ecoa a fúria de Entei.\\n\\nEncontre-o em O Outro através de uma Entidade Paradoxal."]
-	quest.1E6F00000000127B.title: "Gouging Fogo"
-	task.1E6F00000000127C.title: "Capture Gouging Fogo"
-	quest.1E6F00000000127F.quest_desc: ["&eRaio Furioso&r é um Pokémon Paradoxal antigo, um dragão elétrico imponente que invoca trovões como o Raikou de antigamente.\\n\\nAtraia-o em O Outro."]
-	quest.1E6F00000000127F.title: "Raio Furioso"
-	task.1E6F000000001280.title: "Capture Raio Furioso"
-	quest.1E6F000000001283.quest_desc: ["&bO Além&r alcança o futuro. Seus Pokémon Paradoxais são &9máquinas&r - ecos mecânicos frios de criaturas que ainda virão.\\n\\nAs Entidades Paradoxais mais profundas abrem o caminho; carregue um Fragmento de Estrela Pika e deixe que elas o puxem."]
-	quest.1E6F000000001283.title: "&bO Além - Futuro"
-	quest.1E6F000000001285.quest_desc: ["&9Trilhos de Ferro&r é um Pokémon Paradoxal do futuro, uma máquina rolante que espelha Donphan em aço cromado e vibrante.\\n\\nDeixe uma Entidade Paradoxal puxá-lo em O Além."]
-	quest.1E6F000000001285.title: "Trilhos de Ferro"
-	task.1E6F000000001286.title: "Capture Trilhos de Ferro"
-	quest.1E6F000000001289.quest_desc: ["&bIron Trouxa&r é um Pokémon Paradoxal do futuro, um eco mecânico de Delibird que dispara gelo com precisão implacável.\\n\\nEncontre-o em O Além."]
-	quest.1E6F000000001289.title: "Iron Trouxa"
-	task.1E6F00000000128A.title: "Capture Iron Trouxa"
-	quest.1E6F00000000128D.quest_desc: ["&9Mãos de Ferro&r é um Pokémon Paradoxal do futuro, um lutador robótico robusto com garras eletrificadas e esmagadoras.\\n\\nEnfrente-o em O Além através de uma Entidade Paradoxal."]
-	quest.1E6F00000000128D.title: "Mãos de Ferro"
-	task.1E6F00000000128E.title: "Capture Mãos de Ferro"
-	quest.1E6F000000001291.quest_desc: ["&9Pescoço de Ferro&r é um Pokémon Paradoxal do futuro, uma máquina voadora de três cabeças que bombardeia o chão com feixes de cada bocarra.\\n\\nAtraia-o em O Além."]
-	quest.1E6F000000001291.title: "Pescoço de Ferro"
-	task.1E6F000000001292.title: "Capture Pescoço de Ferro"
-	quest.1E6F000000001295.quest_desc: ["&9Mariposa de Ferro&r é um Pokémon Paradoxal do futuro, uma mariposa mecânica que espalha escamas tóxicas e incandescentes enquanto voa.\\n\\nEncontre-a em O Além."]
-	quest.1E6F000000001295.title: "Mariposa de Ferro"
-	task.1E6F000000001296.title: "Capture Mariposa de Ferro"
-	quest.1E6F000000001299.quest_desc: ["&9Iron Espinhos&r é um Pokémon Paradoxal do futuro, uma máquina rochosa repleta de aço e corrente elétrica, ecoando Tyranitar.\\n\\nEnfrente-o em O Além."]
-	quest.1E6F000000001299.title: "Iron Espinhos"
-	task.1E6F00000000129A.title: "Capture Iron Espinhos"
-	quest.1E6F00000000129D.quest_desc: ["&9Valente de Ferro&r é um Pokémon Paradoxal do futuro, uma máquina laminada que funde a graça de Gardevoir e Gallade em uma única arma.\\n\\nAtraia-o em O Além."]
-	quest.1E6F00000000129D.title: "Valente de Ferro"
-	task.1E6F00000000129E.title: "Capture Valente de Ferro"
-	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r é o lendário governante dos Pokémon Paradoxais do futuro, uma máquina-dragão que flutua e corre sobre energia moldada.\\n\\nAs Entidades Paradoxais mais profundas em O Além o anunciam - capture o rei do futuro."]
-	quest.1E6F0000000012A1.title: "Miraidon"
-	task.1E6F0000000012A2.title: "Capture Miraidon"
-	quest.1E6F0000000012A5.quest_desc: ["&9Folhas de Ferro&r é um Pokémon Paradoxal do futuro, uma máquina reluzente que recorda a graça laminada de Virizion.\\n\\nEncontre-o em O Além."]
-	quest.1E6F0000000012A5.title: "Folhas de Ferro"
-	task.1E6F0000000012A6.title: "Capture Folhas de Ferro"
-	quest.1E6F0000000012A9.quest_desc: ["&9Rocha de Ferro&r é um Pokémon Paradoxal do futuro, um eco de aço rotativo de Terrakion que esmaga tudo em seu caminho.\\n\\nEnfrente-o em O Além."]
-	quest.1E6F0000000012A9.title: "Rocha de Ferro"
-	task.1E6F0000000012AA.title: "Capture Rocha de Ferro"
-	quest.1E6F0000000012AD.quest_desc: ["&9Coroa de Ferro&r é um Pokémon Paradoxal do futuro, uma máquina majestosa que ecoa Cobalion, com sua cabeça coroada canalizando força psíquica pura.\\n\\nAtraia-o em O Além."]
-	quest.1E6F0000000012AD.title: "Coroa de Ferro"
-	task.1E6F0000000012AE.title: "Capture Coroa de Ferro"
 	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r é o Pokémon vulcão, uma das três feras lendárias renascidas nas cinzas da &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &cPetisco de Entei&r em uma Caixa de Petiscos e bagas, então leve-o à Torre Queimada para chamar a fera de fogo e capturá-la."]
 	quest.1E6F0000000012C1.title: "Entei"
 	task.1E6F0000000012C2.title: "Entre na Torre Queimada"

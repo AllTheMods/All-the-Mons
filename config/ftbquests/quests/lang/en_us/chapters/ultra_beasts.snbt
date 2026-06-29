@@ -1,0 +1,34 @@
+{
+	quest.1E6F000000001199.quest_desc: ["&5Ultra Wormholes&r tear open without warning in &8The Other&r, gateways to the alien dimension the Ultra Beasts call home.\\n\\nRoughly once an hour a wormhole forms and an Ultra Beast steps through as a buffed, high-level boss. Wear it down, then catch it before the rift closes. There is no shrine and no summoning item - you simply have to be there when the sky splits open. A &dBeast Ball&r gives you the best odds."]
+	quest.1E6F000000001199.title: "&5Ultra Wormholes"
+	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r is an Ultra Beast that drifts like a jellyfish, thought to be a parasite that latches onto a host and warps its mind with venom.\\n\\nWatch for it at an Ultra Wormhole in The Other, and bring it down when it emerges."]
+	quest.1E6F00000000119C.title: "Nihilego"
+	task.1E6F00000000119D.title: "Catch Nihilego"
+	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r is the Swollen Pokémon, an Ultra Beast of grotesque muscle that flaunts its bulging body with sudden, ground-cracking poses.\\n\\nCatch it from an Ultra Wormhole when it forces its way through."]
+	quest.1E6F0000000011A0.title: "Buzzwole"
+	task.1E6F0000000011A1.title: "Catch Buzzwole"
+	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r is the Lissome Pokémon, an Ultra Beast of blistering speed and grace that refuses to let anything dirty touch it.\\n\\nRun it down at an Ultra Wormhole before it slips away."]
+	quest.1E6F0000000011A4.title: "Pheromosa"
+	task.1E6F0000000011A5.title: "Catch Pheromosa"
+	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r is the Glowing Pokémon, an Ultra Beast like a tangle of living cables that drains whole power grids to feed its electric body.\\n\\nCatch it when it surges out of an Ultra Wormhole."]
+	quest.1E6F0000000011A8.title: "Xurkitree"
+	task.1E6F0000000011A9.title: "Catch Xurkitree"
+	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r is the Launch Pokémon, an enormous Ultra Beast shaped like a rocket, said to scorch the forests around it as it takes off.\\n\\nBring it down at an Ultra Wormhole in The Other."]
+	quest.1E6F0000000011AC.title: "Celesteela"
+	task.1E6F0000000011AD.title: "Catch Celesteela"
+	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r is the Drawn Sword Pokémon, an Ultra Beast folded like origami yet sharp enough to slice through a steel tower in a single stroke.\\n\\nCatch it when it cuts its way out of an Ultra Wormhole."]
+	quest.1E6F0000000011B0.title: "Kartana"
+	task.1E6F0000000011B1.title: "Catch Kartana"
+	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r is the Junkivore Pokémon, a colossal Ultra Beast that devours everything - buildings, mountains, the sea - and never seems to fill.\\n\\nFace the glutton at an Ultra Wormhole and catch it."]
+	quest.1E6F0000000011B4.title: "Guzzlord"
+	task.1E6F0000000011B5.title: "Catch Guzzlord"
+	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r is the Rampart Pokémon, an Ultra Beast that looks like a towering wall of stacked creatures roused into motion.\\n\\nTopple it at an Ultra Wormhole and add it to your team."]
+	quest.1E6F0000000011B8.title: "Stakataka"
+	task.1E6F0000000011B9.title: "Catch Stakataka"
+	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r is the Fireworks Pokémon, an Ultra Beast that lures people close with a dazzling show, then detonates its own head to scatter them.\\n\\nCatch it when it bursts out of an Ultra Wormhole."]
+	quest.1E6F0000000011BC.title: "Blacephalon"
+	task.1E6F0000000011BD.title: "Catch Blacephalon"
+	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r is the Poison Pin Pokémon, a rare and oddly affectionate Ultra Beast that fires venomous barbs when it gets excited.\\n\\nCatch it at an Ultra Wormhole - raise it with enough friendship and it evolves into the menacing &5Naganadel&r."]
+	quest.1E6F0000000011C0.title: "Poipole"
+	task.1E6F0000000011C1.title: "Catch Poipole"
+}
