@@ -1,7 +1,5 @@
 {
 	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r cruzando um &3Ditto&r com um &ePatrickyu&r segurando uma &7Pedra da Eternidade."]
-	quest.1B09DCB8AC3A420A.quest_subtitle: ""
-	quest.1B09DCB8AC3A420A.title: ""
 	quest.279FADB5CBA260D7.quest_desc: [
 		"Para fabricar uma &dEstrela Pika regional&r você precisa:"
 		""
@@ -66,7 +64,6 @@
 		""
 		"&7* Kurt é um Aldeão &6Comerciante do PokéMart&r renomeado para &6Kurt&r com uma Etiqueta - mantenha-o a poucos blocos do altar.&r"
 	]
-	quest.7A0693A3016549F6.quest_subtitle: ""
 	quest.7A0693A3016549F6.title: "Estrela Pika Brilhante"
 	task.0C959B11B37F53C6.title: "Como usar o Altar"
 	task.37F598DD9EEE414F.title: "Create: Sand Papers"

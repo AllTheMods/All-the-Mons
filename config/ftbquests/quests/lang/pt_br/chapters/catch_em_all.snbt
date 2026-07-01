@@ -102,7 +102,6 @@
 	]
 	quest.5B8A381EFA3D836B.title: "Pico Submerso Pré-histórico"
 	quest.5E64DDC28C1AD3FF.quest_desc: ["Alguns &cPokémon&r precisam ser &bpescados&r, mas como saber quais &cPokémon&r podemos &bpescar&r? \\n\\nCom o &bFishingNav&r! Por que o meu não exibe nenhum &cPokémon&r? \\n\\nVocê precisará ter uma &cPoké&rVara no inventário para ver os &cPokémon&r que pode capturar por perto. Ao ter uma, ele os mostrará com base no bioma de água mais próximo, como oceanos e rios. \\n\\nAssim como o &aPokeNav&r, ele exibirá espécie, raridade e chances de surgimento!"]
-	quest.5E64DDC28C1AD3FF.quest_subtitle: ""
 	quest.5E64DDC28C1AD3FF.title: "&bFishingNav"
 	quest.5ECE56EAB6773769.quest_desc: ["Peixes (e &cPokémon&r peixes) não se sentem atraídos por anzóis assustadores! Apenas por anzóis com iscas saborosas. \\n\\nPara pescar &cPokémon&r, precisaremos de &2Frutas&r! \\n\\nDiferentes &2Frutas&r concedem efeitos distintos à pesca. Elas podem tornar um certo &cPokémon&r de determinado tipo mais comum, fornecer atributos melhores ou até aumentar o nível do &cPokémon&r. \\n\\nPara usá-las, segure as &2Frutas&r na sua mão secundária ao pescar."]
 	quest.5ECE56EAB6773769.title: "Isca de Pesca"

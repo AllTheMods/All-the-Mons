@@ -357,7 +357,7 @@
 		""
 		"Por padrão, ele tem 128 slots de armazenamento, com cada slot comportando até 16 pilhas de um item, exceto para itens com dados &5NBT&r. Estes não se empilharão e ocuparão um slot inteiro, então certifique-se de deixar esses itens de fora!"
 		""
-		"Se você não tem certeza de quais itens têm dados NBT, pode sempre conferir a missão \"NBT e Você\" na linha de missões de Armazenamento para mais informações sobre NBT!"
+		"Se você não tem certeza de quais itens têm dados NBT, pode sempre conferir a missão \"NBT e Você\" nas Missões de Armazenamento para mais informações sobre NBT!"
 	]
 	quest.6CC5FE34778F0DFA.title: "&c&mDemoníaco&r &dArmazenamento Mágico&r!"
 	quest.6CCDEEDA2C99DA66.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os packs &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pack público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
