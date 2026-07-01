@@ -1,12 +1,260 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "rsquare"
 	filename: "paradox"
 	group: "52E24F4D0DDFF37E"
 	icon: {
-		id: "cobblemon:master_ball"
+		id: "allthemons:pika_star_chunk"
 	}
 	id: "1E6FB00000000002"
+	images: [
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/paradox_future.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/paradox_past.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/paradox_title.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "mega_showdown:item/likos_pendant"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/electric_tera_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fire_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fairy_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fighting_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/ice_tera_block"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dark_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dragon_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			height: 2.5d
+			image: "legendarymonuments:block/flying_tera_block"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/water_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 2.5d
+			image: "legendarymonuments:block/ground_tera_block"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fire_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fire_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fairy_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fairy_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fighting_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/fighting_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			height: 2.5d
+			image: "legendarymonuments:block/ground_tera_block"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 2.5d
+			image: "legendarymonuments:block/flying_tera_block"
+			order: 1
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/water_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/water_tera_block"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dragon_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dragon_tera_block"
+			order: 3
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dark_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "legendarymonuments:block/dark_tera_block"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: -1.5d
+		}
+	]
 	order_index: 6
 	quest_links: [ ]
 	quests: [
@@ -16,15 +264,19 @@
 				id: "allthemons:pika_star_chunk"
 			}
 			id: "1E6F000000001253"
+			shape: "gear"
+			size: 2.0d
 			tasks: [{
-				id: "1E6F000000001254"
-				type: "checkmark"
+				id: "25A59416BABF1227"
+				item: { count: 1, id: "allthemons:pika_star_chunk" }
+				type: "item"
 			}]
-			x: 0d
-			y: 0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001253"]
+			hide_dependent_lines: true
 			icon: {
 				components: {
 					"cobblemon:pokemon_item": {
@@ -35,12 +287,15 @@
 				id: "cobblemon:pokemon_model"
 			}
 			id: "1E6F000000001255"
+			shape: "pentagon"
+			size: 1.5d
 			tasks: [{
-				id: "1E6F000000001256"
-				type: "checkmark"
+				dimension: "allthemodium:the_other"
+				id: "25FDA6C37FB124A9"
+				type: "dimension"
 			}]
-			x: -4d
-			y: 2.5d
+			x: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -86,8 +341,8 @@
 				id: "1E6F000000001258"
 				type: "custom"
 			}]
-			x: -6.4d
-			y: 4.5d
+			x: -9.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -133,8 +388,8 @@
 				id: "1E6F00000000125C"
 				type: "custom"
 			}]
-			x: -4.8d
-			y: 4.5d
+			x: -7.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -180,8 +435,8 @@
 				id: "1E6F000000001260"
 				type: "custom"
 			}]
-			x: -3.2d
-			y: 4.5d
+			x: -6.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -227,8 +482,8 @@
 				id: "1E6F000000001264"
 				type: "custom"
 			}]
-			x: -1.6d
-			y: 4.5d
+			x: -4.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -274,8 +529,8 @@
 				id: "1E6F000000001268"
 				type: "custom"
 			}]
-			x: -6.4d
-			y: 6.1d
+			x: -9.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -321,8 +576,8 @@
 				id: "1E6F00000000126C"
 				type: "custom"
 			}]
-			x: -4.8d
-			y: 6.1d
+			x: -7.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -368,8 +623,8 @@
 				id: "1E6F000000001270"
 				type: "custom"
 			}]
-			x: -3.2d
-			y: 6.1d
+			x: -6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -415,8 +670,8 @@
 				id: "1E6F000000001274"
 				type: "custom"
 			}]
-			x: -1.6d
-			y: 6.1d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -462,8 +717,8 @@
 				id: "1E6F000000001278"
 				type: "custom"
 			}]
-			x: -6.4d
-			y: 7.7d
+			x: -9.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -509,8 +764,8 @@
 				id: "1E6F00000000127C"
 				type: "custom"
 			}]
-			x: -4.8d
-			y: 7.7d
+			x: -7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1E6F000000001255"]
@@ -556,11 +811,12 @@
 				id: "1E6F000000001280"
 				type: "custom"
 			}]
-			x: -3.2d
-			y: 7.7d
+			x: -6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1E6F000000001253"]
+			hide_dependent_lines: true
 			icon: {
 				components: {
 					"cobblemon:pokemon_item": {
@@ -571,12 +827,15 @@
 				id: "cobblemon:pokemon_model"
 			}
 			id: "1E6F000000001283"
+			shape: "pentagon"
+			size: 1.5d
 			tasks: [{
-				id: "1E6F000000001284"
-				type: "checkmark"
+				dimension: "allthemodium:the_beyond"
+				id: "7D199890DEA53344"
+				type: "dimension"
 			}]
-			x: 4d
-			y: 2.5d
+			x: 2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -622,8 +881,8 @@
 				id: "1E6F000000001286"
 				type: "custom"
 			}]
-			x: 1.6d
-			y: 4.5d
+			x: 6.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -669,8 +928,8 @@
 				id: "1E6F00000000128A"
 				type: "custom"
 			}]
-			x: 3.2d
-			y: 4.5d
+			x: 7.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -716,8 +975,8 @@
 				id: "1E6F00000000128E"
 				type: "custom"
 			}]
-			x: 4.8d
-			y: 4.5d
+			x: 9.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -763,8 +1022,8 @@
 				id: "1E6F000000001292"
 				type: "custom"
 			}]
-			x: 6.4d
-			y: 4.5d
+			x: 4.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -810,8 +1069,8 @@
 				id: "1E6F000000001296"
 				type: "custom"
 			}]
-			x: 1.6d
-			y: 6.1d
+			x: 6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -857,8 +1116,8 @@
 				id: "1E6F00000000129A"
 				type: "custom"
 			}]
-			x: 3.2d
-			y: 6.1d
+			x: 7.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -904,8 +1163,8 @@
 				id: "1E6F00000000129E"
 				type: "custom"
 			}]
-			x: 4.8d
-			y: 6.1d
+			x: 9.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -951,8 +1210,8 @@
 				id: "1E6F0000000012A2"
 				type: "custom"
 			}]
-			x: 6.4d
-			y: 6.1d
+			x: 4.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -998,8 +1257,8 @@
 				id: "1E6F0000000012A6"
 				type: "custom"
 			}]
-			x: 1.6d
-			y: 7.7d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -1045,8 +1304,8 @@
 				id: "1E6F0000000012AA"
 				type: "custom"
 			}]
-			x: 3.2d
-			y: 7.7d
+			x: 7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1E6F000000001283"]
@@ -1092,8 +1351,26 @@
 				id: "1E6F0000000012AE"
 				type: "custom"
 			}]
-			x: 4.8d
-			y: 7.7d
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			id: "20198BF0436AC44B"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "40CA123359A44020"
+					type: "checkmark"
+				}
+				{
+					id: "187FE4187DF2BDAD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 3.5d
 		}
 	]
 }

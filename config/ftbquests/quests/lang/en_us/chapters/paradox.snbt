@@ -1,77 +1,99 @@
 {
-	quest.1E6E0001CA7C4111.quest_subtitle: "Gotta earn 'em all"
-	quest.1E6E0001CA7C4111.quest_desc: ["The rarest Pokémon will not come quietly. &6Legendaries&r, &dMythicals&r, &bUltra Beasts&r and &cParadox&r species cannot be battled or caught until you carry the &eregional Pika Star&r for the region they call home, and even then you have to beat each one in battle before a ball will hold it.\\n\\nThere is no single way to track them down. Some sleep inside ancient &6temples&r, some answer a &dsummoning ritual&r at the altar, and many wait at their own monument until you arrive with the right key item. Others slip through &bUltra Wormholes&r, leave faint footprints to follow, or only show themselves once you have proven your worth.\\n\\nThe quests in this chapter walk you through every one of them, grouped by where and how they are found. Build a strong team, gather what each legend asks for, and good luck out there, trainer."]
-	quest.1E6E0001CA7C4111.title: "&6&lCatching Legendaries"
 	quest.1E6F000000001253.quest_desc: ["Deep in &8The Other&r reality frays, and creatures from the distant past and the far future bleed through.\\n\\nTo draw one out, carry a &dPika Star Chunk&r and let a &5Paradox Entity&r wash over you. The world warps, and a Pokémon that should not exist steps into view. The ancient ones lurk in The Other; their mechanical echoes wait deeper still, in The Beyond."]
 	quest.1E6F000000001253.title: "&5Paradox Pokémon"
 	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nCarry a Pika Star Chunk and let a Paradox Entity take you among them."]
 	quest.1E6F000000001255.title: "&cThe Other - Ancient"
 	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb you in The Other to face it."]
+	quest.1E6F000000001257.quest_subtitle: "Paldea"
 	quest.1E6F000000001257.title: "Great Tusk"
-	task.1E6F000000001258.title: "Catch Great Tusk"
 	quest.1E6F00000000125B.quest_desc: ["&dScream Tail&r is an ancient Paradox Pokémon with a deafening cry, a primal cousin of Jigglypuff far fiercer than its round shape suggests.\\n\\nMeet it in The Other through a Paradox Entity."]
+	quest.1E6F00000000125B.quest_subtitle: "Paldea"
 	quest.1E6F00000000125B.title: "Scream Tail"
-	task.1E6F00000000125C.title: "Catch Scream Tail"
 	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r is an ancient Paradox Pokémon, a hulking and aggressive fungus that saps the spirit of anything that strays near it.\\n\\nDraw it out in The Other."]
+	quest.1E6F00000000125F.quest_subtitle: "Paldea"
 	quest.1E6F00000000125F.title: "Brute Bonnet"
-	task.1E6F000000001260.title: "Catch Brute Bonnet"
 	quest.1E6F000000001263.quest_desc: ["&dFlutter Mane&r is an ancient Paradox Pokémon, a wispy and ghostly thing said to resemble a Misdreavus from a forgotten age.\\n\\nFace it in The Other through a Paradox Entity."]
+	quest.1E6F000000001263.quest_subtitle: "Paldea"
 	quest.1E6F000000001263.title: "Flutter Mane"
-	task.1E6F000000001264.title: "Catch Flutter Mane"
 	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r is an ancient Paradox Pokémon, a massive moth-like brute that batters its foes with burning wings.\\n\\nLet a Paradox Entity bring it to you in The Other."]
+	quest.1E6F000000001267.quest_subtitle: "Paldea"
 	quest.1E6F000000001267.title: "Slither Wing"
-	task.1E6F000000001268.title: "Catch Slither Wing"
 	quest.1E6F00000000126B.quest_desc: ["&eSandy Shocks&r is an ancient Paradox Pokémon, a hovering iron-dust echo of Magneton that crackles with static.\\n\\nMeet it in The Other."]
+	quest.1E6F00000000126B.quest_subtitle: "Paldea"
 	quest.1E6F00000000126B.title: "Sandy Shocks"
-	task.1E6F00000000126C.title: "Catch Sandy Shocks"
 	quest.1E6F00000000126F.quest_desc: ["&8Roaring Moon&r is a fearsome ancient Paradox Pokémon, a primal dragon said to mirror Salamence at its most savage.\\n\\nDraw the apex predator out in The Other."]
+	quest.1E6F00000000126F.quest_subtitle: "Paldea"
 	quest.1E6F00000000126F.title: "Roaring Moon"
-	task.1E6F000000001270.title: "Catch Roaring Moon"
 	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r is the legendary ruler of the ancient Paradox Pokémon, a mighty dragon that races across any terrain.\\n\\nThe strongest Paradox Entities in The Other herald its arrival - catch the king of the past."]
+	quest.1E6F000000001273.quest_subtitle: "Paldea"
 	quest.1E6F000000001273.title: "Koraidon"
-	task.1E6F000000001274.title: "Catch Koraidon"
 	quest.1E6F000000001277.quest_desc: ["&bWalking Wake&r is an ancient Paradox Pokémon, a serpentine dragon that recalls Suicune from a wilder era.\\n\\nFace it in The Other."]
+	quest.1E6F000000001277.quest_subtitle: "Paldea"
 	quest.1E6F000000001277.title: "Walking Wake"
-	task.1E6F000000001278.title: "Catch Walking Wake"
 	quest.1E6F00000000127B.quest_desc: ["&cGouging Fire&r is an ancient Paradox Pokémon, a blazing horned dragon that echoes Entei's fury.\\n\\nMeet it in The Other through a Paradox Entity."]
+	quest.1E6F00000000127B.quest_subtitle: "Paldea"
 	quest.1E6F00000000127B.title: "Gouging Fire"
-	task.1E6F00000000127C.title: "Catch Gouging Fire"
 	quest.1E6F00000000127F.quest_desc: ["&eRaging Bolt&r is an ancient Paradox Pokémon, a towering electric dragon that calls down thunder like the Raikou of old.\\n\\nDraw it out in The Other."]
+	quest.1E6F00000000127F.quest_subtitle: "Paldea"
 	quest.1E6F00000000127F.title: "Raging Bolt"
-	task.1E6F000000001280.title: "Catch Raging Bolt"
 	quest.1E6F000000001283.quest_desc: ["&bThe Beyond&r reaches into the future. Its Paradox Pokémon are &9machine&r - cold, mechanical echoes of creatures yet to come.\\n\\nThe deepest Paradox Entities open the way; carry a Pika Star Chunk and let them pull you through."]
 	quest.1E6F000000001283.title: "&bThe Beyond - Future"
 	quest.1E6F000000001285.quest_desc: ["&9Iron Treads&r is a future Paradox Pokémon, a rolling machine that mirrors Donphan in chromed, humming steel.\\n\\nLet a Paradox Entity pull it through in The Beyond."]
+	quest.1E6F000000001285.quest_subtitle: "Paldea"
 	quest.1E6F000000001285.title: "Iron Treads"
-	task.1E6F000000001286.title: "Catch Iron Treads"
 	quest.1E6F000000001289.quest_desc: ["&bIron Bundle&r is a future Paradox Pokémon, a mechanical echo of Delibird that fires ice with ruthless precision.\\n\\nMeet it in The Beyond."]
+	quest.1E6F000000001289.quest_subtitle: "Paldea"
 	quest.1E6F000000001289.title: "Iron Bundle"
-	task.1E6F00000000128A.title: "Catch Iron Bundle"
 	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r is a future Paradox Pokémon, a hulking robotic bruiser with crushing, electrified grips.\\n\\nFace it in The Beyond through a Paradox Entity."]
+	quest.1E6F00000000128D.quest_subtitle: "Paldea"
 	quest.1E6F00000000128D.title: "Iron Hands"
-	task.1E6F00000000128E.title: "Catch Iron Hands"
 	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r is a future Paradox Pokémon, a three-headed flying machine that strafes the ground with beams from each maw.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F000000001291.quest_subtitle: "Paldea"
 	quest.1E6F000000001291.title: "Iron Jugulis"
-	task.1E6F000000001292.title: "Catch Iron Jugulis"
 	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r is a future Paradox Pokémon, a mechanical moth that scatters searing, toxic scales as it flies.\\n\\nMeet it in The Beyond."]
+	quest.1E6F000000001295.quest_subtitle: "Paldea"
 	quest.1E6F000000001295.title: "Iron Moth"
-	task.1E6F000000001296.title: "Catch Iron Moth"
 	quest.1E6F000000001299.quest_desc: ["&9Iron Thorns&r is a future Paradox Pokémon, a craggy machine bristling with steel and crackling current, echoing Tyranitar.\\n\\nFace it in The Beyond."]
+	quest.1E6F000000001299.quest_subtitle: "Paldea"
 	quest.1E6F000000001299.title: "Iron Thorns"
-	task.1E6F00000000129A.title: "Catch Iron Thorns"
 	quest.1E6F00000000129D.quest_desc: ["&9Iron Valiant&r is a future Paradox Pokémon, a bladed machine that fuses the grace of Gardevoir and Gallade into one weapon.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F00000000129D.quest_subtitle: "Paldea"
 	quest.1E6F00000000129D.title: "Iron Valiant"
-	task.1E6F00000000129E.title: "Catch Iron Valiant"
 	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r is the legendary ruler of the future Paradox Pokémon, a dragon-machine that hovers and races on shaped energy.\\n\\nThe deepest Paradox Entities in The Beyond herald it - catch the king of the future."]
+	quest.1E6F0000000012A1.quest_subtitle: "Paldea"
 	quest.1E6F0000000012A1.title: "Miraidon"
-	task.1E6F0000000012A2.title: "Catch Miraidon"
 	quest.1E6F0000000012A5.quest_desc: ["&9Iron Leaves&r is a future Paradox Pokémon, a gleaming machine that recalls Virizion's bladed grace.\\n\\nMeet it in The Beyond."]
+	quest.1E6F0000000012A5.quest_subtitle: "Paldea"
 	quest.1E6F0000000012A5.title: "Iron Leaves"
-	task.1E6F0000000012A6.title: "Catch Iron Leaves"
 	quest.1E6F0000000012A9.quest_desc: ["&9Iron Boulder&r is a future Paradox Pokémon, a spinning steel echo of Terrakion that smashes through anything in its path.\\n\\nFace it in The Beyond."]
+	quest.1E6F0000000012A9.quest_subtitle: "Paldea"
 	quest.1E6F0000000012A9.title: "Iron Boulder"
-	task.1E6F0000000012AA.title: "Catch Iron Boulder"
 	quest.1E6F0000000012AD.quest_desc: ["&9Iron Crown&r is a future Paradox Pokémon, a regal machine echoing Cobalion, its crowned head channeling raw psychic force.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F0000000012AD.quest_subtitle: "Paldea"
 	quest.1E6F0000000012AD.title: "Iron Crown"
+	quest.20198BF0436AC44B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	task.187FE4187DF2BDAD.title: "AllRightsReserved"
+	task.1E6F000000001258.title: "Catch Great Tusk"
+	task.1E6F00000000125C.title: "Catch Scream Tail"
+	task.1E6F000000001260.title: "Catch Brute Bonnet"
+	task.1E6F000000001264.title: "Catch Flutter Mane"
+	task.1E6F000000001268.title: "Catch Slither Wing"
+	task.1E6F00000000126C.title: "Catch Sandy Shocks"
+	task.1E6F000000001270.title: "Catch Roaring Moon"
+	task.1E6F000000001274.title: "Catch Koraidon"
+	task.1E6F000000001278.title: "Catch Walking Wake"
+	task.1E6F00000000127C.title: "Catch Gouging Fire"
+	task.1E6F000000001280.title: "Catch Raging Bolt"
+	task.1E6F000000001286.title: "Catch Iron Treads"
+	task.1E6F00000000128A.title: "Catch Iron Bundle"
+	task.1E6F00000000128E.title: "Catch Iron Hands"
+	task.1E6F000000001292.title: "Catch Iron Jugulis"
+	task.1E6F000000001296.title: "Catch Iron Moth"
+	task.1E6F00000000129A.title: "Catch Iron Thorns"
+	task.1E6F00000000129E.title: "Catch Iron Valiant"
+	task.1E6F0000000012A2.title: "Catch Miraidon"
+	task.1E6F0000000012A6.title: "Catch Iron Leaves"
+	task.1E6F0000000012AA.title: "Catch Iron Boulder"
 	task.1E6F0000000012AE.title: "Catch Iron Crown"
+	task.40CA123359A44020.title: "AllRightsReserved"
 }
