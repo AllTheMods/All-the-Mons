@@ -74,11 +74,11 @@
 	#$CONFIG.text.support_name$ in lang files will be replaced with this value.
 	#For example this placeHolder used in: "Request help in the $CONFIG.text.support_name$"
 	#Recommended values: "Modpack-X Discord", "Modpack-X GitHub repository", etc.
-	support_name = "ATM10 Support Channel"
+	support_name = "AllTheMons Support Channel"
 	#$CONFIG.text.support_place$ in lang files will be replaced with this value.
 	#Recommended values: "#support channel".
 	#In case of formulation type `GITHUB` won't be used.
-	support_place = "#atm10-techsupport channel"
+	support_place = "#allthemons-techsupport channel"
 	#$CONFIG.text.modpack_name$ in lang files will be replaced with this value.
 	#For example this placeHolder used in: "Oops, $CONFIG.text.modpack_name$ crashed!"
 	#Supports Better Compatibility Checker integration. You can use $BCC.modpackName$, $BCC.modpackVersion$, etc and it will be replaced with value from BCC config.
