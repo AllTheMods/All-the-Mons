@@ -8,7 +8,6 @@
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Alcance: &b36&r Blocos"
 	quest.06EAA74E0A10CBB6.title: "&9Aceleradores de Crescimento de Imperium"
 	quest.07564DBB023EE2A6.quest_subtitle: "Nível: &b4"
-	quest.07751E1BE48C6024.quest_subtitle: "Nível: &b4"
 	quest.077B2D62FA7650FB.quest_subtitle: "Alcance: &627&r Blocos"
 	quest.077B2D62FA7650FB.title: "&cGrowth Accelerators de Tertium"
 	quest.07CC809B6482AB09.quest_subtitle: "Tier: &a2"
@@ -19,10 +18,8 @@
 	quest.0B37355262121DD5.quest_desc: ["O &aAltar de Infusão&r é como você faz todas as sementes. Coloque o Altar primeiro e ele mostrará onde colocar os Pedestais depois.\\n\\nPara que a Infusão comece, o Altar requer um &4sinal de Redstone&r."]
 	quest.0B37355262121DD5.quest_subtitle: "Criando Sementes"
 	quest.0B37355262121DD5.title: "&4Altar de Infusão"
-	quest.0BE6CE2C264140AD.quest_subtitle: "Tier: &a2"
 	quest.0E1ABCAA87120367.quest_subtitle: "Tier: &c5"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["O Colhedor pode colher plantações automaticamente e replantá-las. Os itens coletados pelo Colhedor são colocados em seu inventário interno."]
-	quest.10098A4B38BBF0B1.quest_subtitle: "Tier: &a2"
 	quest.13124A7E22999850.quest_subtitle: "Tier: &e1"
 	quest.140DADB32EF10D58.quest_desc: ["Sementes de Ovo de Dragão requerem um Crux de Ovo de Dragão colocado abaixo para que possam crescer."]
 	quest.140DADB32EF10D58.quest_subtitle: "Tier: &56"
@@ -158,8 +155,6 @@
 	quest.4821419D44F8083F.title: "&aGrowth Accelerators de Inferium"
 	quest.48BF71269DEA1AB1.title: "&4Farmland de Supremium"
 	quest.4A4C14AF947D93EF.quest_subtitle: "Tier: &b4"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "Nível: &63"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "Nível: &b4"
 	quest.4E09BBC0BAED3440.quest_subtitle: "Nível: &c5"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Nível: &b4"
 	quest.4EB7245727EE1EF9.quest_subtitle: "Nível: &63"
@@ -217,7 +212,6 @@
 	quest.67DDFA6FB1F9EECA.title: "Ferramentas de &9Imperium"
 	quest.685C4A646E092A82.title: "Armadura de Supremium &6Desperta"
 	quest.6950FC974624C6AA.quest_subtitle: "Tier: &63"
-	quest.69F63F3B48E4344E.quest_subtitle: "Tier: &63"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Tier: &63"
 	quest.6A2AD67569F91F1F.quest_subtitle: "Tier: &c5"
 	quest.6D0A876D4E4D35AB.quest_desc: ["Essência Criativa é necessária para criar a &6Estrela ATM&r."]
@@ -260,7 +254,6 @@
 	quest.7D43016926E77150.title: "&9Armadura de Imperium&r"
 	quest.7DFF18CFEB0B8DBE.quest_desc: ["Você vai querer começar a cultivar &aInferium&r assim que puder!\\n\\nEmbora não seja necessário para o cultivo dessas sementes, você também pode criar &eTerra de Cultivo de Essência&r que aumentará a velocidade de crescimento das sementes (especialmente Sementes de Inferium). No entanto, certas sementes exigirão que certas terras de cultivo sejam plantadas."]
 	quest.7DFF18CFEB0B8DBE.title: "&aTerra de Cultivo de Inferium"
-	quest.7EFEE009212A4FD4.quest_subtitle: "Nível: &63"
 	task.011F410922A4D859.title: "Foices"
 	task.0C92F7E44100B2BA.title: "Ferramentas de Tertium"
 	task.2DA0BD7B2834A560.title: "Blocos à Prova de Wither"

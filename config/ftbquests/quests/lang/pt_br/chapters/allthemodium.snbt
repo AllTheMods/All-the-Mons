@@ -23,10 +23,9 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "Barra de &3Vibranium&r"
-	quest.151D836C7B0E6FAF.title: "Escudo de &3Vibranium"
 	quest.15DC6770B112EE69.quest_desc: [
 		"A Câmara de Dissolução é uma Máquina adicionada pelo &l&7Industrial Foregoing&r. É também como combinaremos &3Vibranium&r e &5Unobtainium&r. \\n\\nVocê precisará de &dLimo Rosa&r, que você obtém da Fábrica de Abate de Mobs, que é outra Máquina adicionada pelo IF. \\n\\nVocê também precisará de Lava da Alma, que é encontrada no &b&lOutro&r, comum na Vila Piglin. \\n\\nDepois disso, você precisará colocar suas Barras e Corações de Piglich na ordem exata, energizá-lo, e estará pronto!\\n"
-		"{ \"text\": \"LINHA DE MISSÕES INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
+		"{ \"text\": \"MISSÕES DO INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
 	]
 	quest.15FEA03A2CDBA33B.quest_desc: ["&b&lO Outro&r passou por dezenas de mudanças ao longo dos anos, mas sempre foi um reino para aventureiros! \\n\\nHá dezenas de novos biomas, blocos e, claro, estruturas! \\n\\nAs Estruturas são: Vila Piglin, Pirâmide Ancestral e Masmorra. Todas contendo saques incríveis com algumas coisas sendo únicas para sua estrutura! \\n\\nVocê também pode minerar &3Vibranium&r (e outros minérios!) ou encontrá-lo e coisas melhores nas estruturas! \\n\\nVocê não pode montar Pedreiras ou muitos blocos no &b&lOutro&r, no entanto, sem explorar falhas aqui."]
 	quest.15FEA03A2CDBA33B.title: "&l&bO Outro&r"
@@ -40,7 +39,6 @@
 	quest.19E356E67EF17E4A.title: "&6Paxel de &5Liga de &3Allthemodium"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r combinado com &6Allthemodium&r!"]
 	quest.1A05C605A52A4218.title: "Barra de Liga de &5Unobtainium&r - &6Allthemodium&r"
-	quest.1F6C8117F3CED939.title: "&6Arco de Allthemodium"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5Armadura Arcanista de Unobtainium"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -74,7 +72,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Molde de Ferraria de Unobtainium"
 	quest.44D5EDB8711EC7A0.quest_desc: ["O &2&lVanilla&r não poderia ter toda a diversão com Maças! Então é claro que existe uma melhoria de &6Allthemodium&r para elas! \\n\\nMelhore uma Maça com um &6Bloco de Allthemodium&r para obter a &6Maça de Allthemodium&r. \\n\\nEla causa mais dano base, mais dano de queda e tem os mesmos Encantamentos!"]
 	quest.44D5EDB8711EC7A0.title: "&6Maça de Allthemodium"
-	quest.47F734CDD5793F26.title: "&5Besta de Unobtainium"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"Não, não é encontrado em &5&lThe Beyond&r. \\n\\nVocê pode encontrar &5Minério de Unobtainium&r muito raramente nos biomas das Terras Altas do End. Geralmente é onde as Cidades do End também aparecem! \\n\\nVocê precisará de uma &3Picareta de Vibranium&r (ou de nível igual) para Minerar o Minério. \\n\\nPreciso ainda te dizer para processar o minério?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
@@ -114,14 +111,14 @@
 	quest.71E4FD61787DE299.title: "&6Modelo de Ferraria de Allthemodium"
 	quest.762581CAE5F5DDC1.quest_desc: [
 		"Um Mod de Magia, que chique! &d&lArs Nouveau&r é o Mod que usaremos para criar juntos &5Unobtainium&r e &6Allthemodium&r! \\n\\nO Aparelho de Encantamento é um multibloco usado para muitas receitas aqui atualmente. Comece com um Núcleo Arcano e coloque o Aparelho de Encantamento sobre ele. Em seguida, coloque Pedestais ao redor do Aparelho de Encantamento no mesmo Nível Y. \\n\\nEntão você pode colocar os Itens nos Pedestais em qualquer ordem, ter Fonte por perto, e colocar a Source Gem no Aparelho para começar! Então você terá criado seu Barra de Liga de &5Unobtainium&r-&6Allthemodium&r!\\n"
-		"{ \"text\": \"LINHA DE MISSÕES ARS NOUVEAU\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
+		"{ \"text\": \"MISSÕES DO ARS NOUVEAU\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6AEDA2F9BEB57759\" } }"
 	]
 	quest.766EEB89C6DF3575.quest_desc: ["A Stella Eterna pode ser usada para tornar um Item Inquebrável, combinando-o com o Item em uma Mesa de Ferraria. Ou você pode usá-la para criar Ferramentas de Liga! \\n\\nPrimeiro, você precisará de uma Forja de Nível 3 com muitos Materiais nela. \\n\\nDepois, você precisará de 3 Orbes Xpetrificados. Para obtê-los, você precisa alimentar um Buraco Negro com Itens. \\n\\nAlém disso, uma Peça de Stellarite que você precisa minerar! E um &6Barra de Allthemodium&r que é o mesmo."]
 	quest.795A860668072830.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_vibarcane.png width:100 height:175 align:center}"]
 	quest.795A860668072830.title: "&3Armadura Arcanista de Vibranium"
 	quest.7B3613C01F0B1373.quest_desc: [
 		"Para combinar &3Vibranium&r e &6Allthemodium&r, precisaremos nos aventurar em &l&cPowah&r! \\n\\nColoque o Orbe Energizante e, em seguida, coloque as Varas Energizantes voltadas para ele. As Varas Energizantes precisam ser colocadas em uma Fonte de Energia e enviarão Energia para o Orbe. A quantidade que cada uma retém e envia é determinada pelo Nível. \\n\\nColoque as Barras, 2 Corações de Piglich e um Bloco Comprimido de Cristais de Nitro X1 no Orbe (a ordem não importa). Então, quando 1 Bilhão de FE for colocado no Orbe através das Varas, estará pronto!\\n"
-		"{ \"text\": \"LINHA DE MISSÕES POWAH\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\" } }"
+		"{ \"text\": \"MISSÕES DO POWAH\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\" } }"
 	]
 	quest.7CC96CE9901F25BB.quest_desc: ["&l&5Forbidden and Arcanus&r é outro mod de magia, este girando em torno da estrutura Multibloco chamada Forja de Hefesto.\\n\\nPara fazê-la, siga as instruções na dica de ferramenta da forja! Uma vez feita, você pode alimentá-la com os 4 Materiais para energizar Rituais: Aureal, Almas, Sangue e Experiência.\\n\\nVocê também precisará atualizar a Forja através de Rituais (todos estes você pode encontrar no JEI)."]
 	quest.7DE2154159D273C3.quest_desc: [

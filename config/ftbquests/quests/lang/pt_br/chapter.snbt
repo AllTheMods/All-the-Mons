@@ -1,7 +1,6 @@
 {
-	chapter.69787DE8D64CBDF0.title: "Productive Farming"
 	chapter.007B547630FF0478.title: "Theurgy"
-	chapter.009BBEA41077ED01.title: "&6A Estrela Pika (WIP)"
+	chapter.009BBEA41077ED01.title: "&6A Estrela Pika"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
 	chapter.0731FA8830F28280.title: "Equipamento Apotheosis"
@@ -28,6 +27,10 @@
 	chapter.1DB294A8F8686321.title: "Armazenamento Básico"
 	chapter.1E6E9DA50000C0DE.chapter_subtitle: ["Eu sou a Lenda"]
 	chapter.1E6E9DA50000C0DE.title: "Lendários"
+	chapter.1E6FB00000000001.chapter_subtitle: ["De além da Ultrafenda Espacial"]
+	chapter.1E6FB00000000001.title: "Ultracriaturas"
+	chapter.1E6FB00000000002.chapter_subtitle: ["Ecos do passado e do futuro"]
+	chapter.1E6FB00000000002.title: "Paradoxo"
 	chapter.1FAAEF0B9FD05CB9.title: "Productive Trees"
 	chapter.219B7A003658D24F.title: "XyCraft"
 	chapter.22C20C1827FE6805.title: "Immersive Engineering"
@@ -70,6 +73,7 @@
 	chapter.5E31DF282998B992.title: "PneumaticCraft"
 	chapter.65A95C2312976E49.title: "The Undergarden"
 	chapter.69299302373C4CBC.title: "Integrated Dynamics"
+	chapter.69787DE8D64CBDF0.title: "Productive Farming"
 	chapter.6AEC23C6D526F362.title: "Eternal Starlight"
 	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
 	chapter.73180B829B960E63.title: "Geradores e Fornalhas"
@@ -80,8 +84,4 @@
 	chapter.7A5C327771634A7D.title: "Dicas de Construção"
 	chapter.7A72E12C3839D165.title: "Nature's Aura"
 	chapter.7AF827D2D101D343.title: "Artifacts"
-	chapter.1E6FB00000000001.chapter_subtitle: ["From beyond the wormhole"]
-	chapter.1E6FB00000000001.title: "Ultra Beasts"
-	chapter.1E6FB00000000002.chapter_subtitle: ["Echoes of past and future"]
-	chapter.1E6FB00000000002.title: "Paradox"
 }

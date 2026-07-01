@@ -227,14 +227,12 @@
 		"Abaixo da Camada Y 0 há dois Biomas, as Profundezas é um deles. \\n\\nPara chegar abaixo da Camada Y 0, você precisará minerar Dreadrock. Para minerar Dreadrock, você precisará de uma Picareta de Esquecido ou Picareta de Allthemodium. \\n\\nAqui surgirão Greater Dwellers, Denizens e Monstros Rot."
 		"{image:atm:textures/questpics/undergarden/undergarden_depths.png width:200 height:100 align:center}"
 	]
-	quest.6E7C8537D8A28833.quest_subtitle: ""
 	quest.6E7C8537D8A28833.title: "Profundezas"
 	quest.6F416275B6F6D8F0.quest_desc: ["Frutas Pustulentas surgem nas Torres de Poluição. \\n\\nPorque elas crescem em uma área tão nojenta, algumas virão Podres. \\n\\nEu não recomendo comê-las, talvez elas possam ser úteis para outra coisa!"]
 	quest.6F483B77D64F4EE2.quest_desc: [
 		"Abaixo da Camada Y 0 há dois Biomas, o Bosque de Rogdorium é um deles. \\n\\nPara chegar abaixo da Camada Y 0, você precisará minerar Dreadrock. Para minerar Dreadrock, você precisará de uma Picareta de Esquecido ou Picareta de Allthemodium. \\n\\nUm Bioma muito mais agradável em comparação com as Profundezas. Muito menos Monstros e muito mais vida vegetal! Agora com Árvores de Smogstem e muitas Flores."
 		"{image:atm:textures/questpics/undergarden/undergarden_rogdorium.png width:200 height:100 align:center}"
 	]
-	quest.6F483B77D64F4EE2.quest_subtitle: ""
 	quest.6F483B77D64F4EE2.title: "Bosque de Rogdorium"
 	quest.70FD8856BFCD9AEE.quest_desc: [
 		"A maior e mais perigosa &cCriatura Putrefata&r. \\n\\nEles têm 80 Corações, o que eu acho que se qualifica como um Chefe. \\n\\nComo todas as &cCriaturas Putrefatas&r, eles atacarão &2Stoneborns&r e &7Esquecidos&r e deixarão cair &cFragmentos de Uthério&r."
@@ -253,7 +251,6 @@
 	]
 	quest.744DBE831C120B2F.title: "&aMog&r"
 	quest.75A66B81C1181F59.quest_desc: ["Vestígios de Esquecidos são pequenas ruínas de Tijolos de Pedras das Profundezas encontradas dentro do &2&lUndergarden&r. \\n\\nAqui há muitos Potes cheios de Saques! \\n\\nApenas quebre-os!"]
-	quest.75A66B81C1181F59.quest_subtitle: ""
 	quest.75A66B81C1181F59.title: "Vestígio de Esquecido"
 	quest.7617737FC179EA1A.quest_desc: ["A Armadura de &bAço Gelado&r é ligeiramente pior que a Armadura de Diamante, mas também oferece grande Resistência à Repulsão. \\n\\nEla também dá penalidade de Velocidade, no entanto, parece que não vamos nos mover muito!"]
 	quest.7617737FC179EA1A.title: "Armadura de &bAço Gelado&r"
