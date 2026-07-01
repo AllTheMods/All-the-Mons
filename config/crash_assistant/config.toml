@@ -176,7 +176,7 @@
 	#Warning! This is not displayed anywhere, it's just tech param used for modlist feature to work correctly.
 	#Here must be actual nicknames of people who work with the modpack and publishing releases!
 	#-----------------------------------------------------------------------------------------------------
-	modpack_creators = ["whatthedrunk", "Uncandango"]
+	modpack_creators = ["whatthedrunk", "Uncandango", "LobsterJonn"]
 	#If enabled, modlist.json will be overwritten on every launch(first tick of TitleScreen),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.
@@ -343,7 +343,7 @@
 	#Path to a modpack logo to display in the top of the GUI.
 	#Path is relative to the Minecraft instance folder. Leave empty to disable.
 	#WARNING: use only '/' path separator. '\' will corrupt config!
-	modpack_logo_path = "config/fancymenu/assets/logo.png"
+	modpack_logo_path = "kubejs/assets/atm/textures/logo.png"
 	#If true, the logo will be larger, Replacing a some of `don't send screenshot` notice.
 	#If false, it will be smaller and logo will be end right where the `don't send screenshot` notice starts.
 	#You should try both, but most likely:
