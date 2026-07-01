@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:meltan",
+  "implemented": true,
+  "hitbox": {
+    "width": 0.7,
+    "height": 1.1,
+    "fixed": false
+  },
+  "evolutions": []
+}
