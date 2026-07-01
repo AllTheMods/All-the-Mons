@@ -1,17 +1,44 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "rsquare"
 	filename: "ultra_beasts"
 	group: "52E24F4D0DDFF37E"
 	icon: {
 		id: "cobblemon:beast_ball"
 	}
 	id: "1E6FB00000000001"
+	images: [
+		{
+			height: 12.5d
+			image: "atm:textures/questpics/pokemon/ultra_background.png"
+			rotation: 0.0d
+			width: 12.5d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/ultra_title2.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/pokemon/ultra_title1.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: -4.5d
+		}
+	]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["64CC314ECC49B92A"]
+			hide_dependent_lines: true
 			icon: {
 				id: "cobblemon:beast_ball"
 			}
@@ -24,12 +51,15 @@
 				}
 				type: "item"
 			}]
+			shape: "gear"
+			size: 2.0d
 			tasks: [{
-				id: "1E6F00000000119A"
-				type: "checkmark"
+				dimension: "allthemodium:the_other"
+				id: "18EC62D514CDFD9C"
+				type: "dimension"
 			}]
-			x: 0d
-			y: 0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -75,8 +105,8 @@
 				id: "1E6F00000000119D"
 				type: "custom"
 			}]
-			x: -7.2d
-			y: 2.5d
+			x: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -122,8 +152,8 @@
 				id: "1E6F0000000011A1"
 				type: "custom"
 			}]
-			x: -5.6d
-			y: 2.5d
+			x: -1.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -169,8 +199,8 @@
 				id: "1E6F0000000011A5"
 				type: "custom"
 			}]
-			x: -4d
-			y: 2.5d
+			x: -3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -216,8 +246,8 @@
 				id: "1E6F0000000011A9"
 				type: "custom"
 			}]
-			x: -2.4d
-			y: 2.5d
+			x: -2.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -263,8 +293,8 @@
 				id: "1E6F0000000011AD"
 				type: "custom"
 			}]
-			x: -0.8d
-			y: 2.5d
+			x: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -310,8 +340,8 @@
 				id: "1E6F0000000011B1"
 				type: "custom"
 			}]
-			x: 0.8d
-			y: 2.5d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -357,8 +387,8 @@
 				id: "1E6F0000000011B5"
 				type: "custom"
 			}]
-			x: 2.4d
-			y: 2.5d
+			x: 2.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -404,8 +434,8 @@
 				id: "1E6F0000000011B9"
 				type: "custom"
 			}]
-			x: 4d
-			y: 2.5d
+			x: 3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -451,8 +481,8 @@
 				id: "1E6F0000000011BD"
 				type: "custom"
 			}]
-			x: 5.6d
-			y: 2.5d
+			x: 2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["1E6F000000001199"]
@@ -498,8 +528,26 @@
 				id: "1E6F0000000011C1"
 				type: "custom"
 			}]
-			x: 7.2d
-			y: 2.5d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "0591F84BFDE50BC2"
+			invisible: true
+			optional: true
+			shape: "circle"
+			tasks: [
+				{
+					id: "55C98E26B9B5329B"
+					type: "checkmark"
+				}
+				{
+					id: "08CEADF9CD99EDA7"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
 		}
 	]
 }
