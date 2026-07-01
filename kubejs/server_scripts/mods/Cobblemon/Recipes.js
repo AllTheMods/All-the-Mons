@@ -12,6 +12,7 @@ ServerEvents.recipes(allthemods => {
     allthemods.remove("createmonballsoverhaul:sequenced_assembly/balls/master_ball")
     allthemods.remove("createmonballsoverhaul:sequenced_assembly/balls/ancient_origin_ball")
     allthemods.remove("legendarymonuments:gs_ball_craft")
+    allthemods.remove("legendarymonuments:meltan_box_craft")
     allthemods.shapeless('cobblemon:syrupy_apple', [
         'cobblemon:sweet_apple',
         '#c:maple_syrup'
