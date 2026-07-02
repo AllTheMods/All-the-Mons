@@ -1,6 +1,11 @@
 {
 	quest.035DBF19839FB73B.quest_desc: ["5 dos primeiros &6Membros da Equipe&r aparecem na &2&lSuperfície&r em Ginásios Personalizados. \\n\\nIsso mesmo! &e&lRosary&r e os &6Desenvolvedores do Pacote&r construíram cada um desses ginásios. \\n\\nProcure pela &2&lSuperfície&r para encontrá-los, você pode até usar uma Bússola de Explorador como ajuda!"]
 	quest.035DBF19839FB73B.title: "Ginásios Personalizados"
+	quest.0A0DEF4CBF965750.quest_desc: [
+		"&dVulcão da Equipe Rocket&r é o quartel-general da &cEquipe Rocket&r, mas também é o lar de &d&lBathsalts&r! \\n\\nÉ uma enorme fábrica no topo de um vulcão, muito apropriado. \\n\\nVocê pode encontrar os membros da &cEquipe Rocket&r por todo o edifício, mas encontrará &d&lBathsalts&r sob o vulcão, nas cavernas perto dos lagos de enxofre. \\n\\nHá uma entrada direto para as cavernas na parte de trás para facilitar a busca!"
+		"{image:atm:textures/questpics/series/atmteam_volcano.png width:110 height:100 align:center}"
+	]
+	quest.0A0DEF4CBF965750.title: "&dVulcão da Equipe Rocket"
 	quest.13635B28AB1F2E68.quest_desc: ["No Lobby do &4Ginásio de Elite&r, você encontrará &l&8CesarZorak&r à sua espera. \\n\\n&l&8CesarZorak&r faz arte digital. O que isso significa para os Modpacks? Muitos designs de itens! \\n\\nGosta das Insígnias? Agradeça a ele. \\n\\nInclusive a &8Insígnia&r dele! Para obtê-la, você precisará derrotá-lo."]
 	quest.13635B28AB1F2E68.title: "&8&lCesarZorak"
 	quest.1C0FA8A4EFD02DFF.quest_desc: [
@@ -42,7 +47,7 @@
 	quest.56A11740B93819D4.title: "&6Caixa de Insígnias ATM"
 	quest.580A66080AB6B117.quest_desc: ["Nível 3, o Salão Solaris. A maior sala do &4Ginásio de Elite&r. \\n\\nMuitas Bibliotecas e salas de estudo, mas a mais importante é o laboratório onde você encontrará &9&lVortex&r. \\n\\nO terror de todos os malfeitores no Discord e o criador de &c&lGravitas&r! Se você odeia que o &2&lMinecraft&r seja remotamente fácil, então você amaria &c&lGravitas&r. \\n\\nA &9Insígnia&f dele é um &9Vórtice&r... óbvio."]
 	quest.580A66080AB6B117.title: "&9&lThevortex"
-	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r em breve terá um Ginásio Personalizado de &dBanho&r para ele... \\n\\nMas 'em breve' não é 'agora'. \\n\\nSe você já ouviu uma piada no Servidor do Discord da &6&lATM&r sobre alguém ser velho, 9 em cada 10 vezes era sobre o &d&lBathsalts&r. \\n\\nA outra 1/10 vem do próprio &d&lBathsalts&r. \\n\\nA &dInsígnia&r dele são &dsais de banho&r... do tipo legalizado."]
+	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r agora se encontra sob o &dVulcão da Equipe Rocket&r. \\n\\nBathsalts está descansando perto dos lagos de enxofre. \\n\\nSe você ouviu uma piada no servidor do Discord do &6&lATM&r sobre alguém ser velho, 9/10 vezes foi direcionada a &d&lBathsalts&r. \\n\\nO 1/10 restante vem de &d&lBathsalts&r. \\n\\nSua &dInsígnia&r são &dsais de banho&r... do tipo legalizado."]
 	quest.5A7E0848E16A5453.title: "&d&lBathsalts"
 	quest.670756F02FD8179F.quest_desc: ["Alguns &6Membros da Equipe ATM&r não têm um lar. \\n\\nQuero dizer, em &l&cAll&7The&fMons&r; na vida real, cuidam muito bem de nós. \\n\\nPara encontrá-los, você terá que vagar por &b&lO Outro&r ou usar um &4Gerador de Treinador&r! Apenas posicione o &4Gerador de Treinador&r, dê a ele um &5Bloco de Unobtainium&r e um &4Sinal de Redstone&r para ligá-lo! \\n\\nSe o Item de Assinatura de um &4Treinador&r for o &5Bloco de Unobtainium&r, ele poderá aparecer. Treinador errado? Apenas o derrote e outro aparecerá no lugar! \\n\\nOs &6Membros Errantes da Equipe&r são: Bored, Drack_ion, Helix Ranmara, Mitchell52, Mutant Gumdrop, ShinyPorygon e Ultra Megaa."]
 	quest.670756F02FD8179F.title: "Derrote &6Membros Errantes da Equipe ATM"
