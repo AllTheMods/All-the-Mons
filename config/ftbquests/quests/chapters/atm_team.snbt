@@ -86,7 +86,7 @@
 			image: "atm:textures/questpics/series/atmteam_airship.png"
 			rotation: 0.0d
 			width: 8.0d
-			x: -4.0d
+			x: -5.5d
 			y: 21.0d
 		}
 		{
@@ -94,7 +94,7 @@
 			image: "atm:textures/questpics/series/atmteam_bee.png"
 			rotation: 0.0d
 			width: 8.0d
-			x: -4.0d
+			x: -5.5d
 			y: 28.0d
 		}
 		{
@@ -102,7 +102,7 @@
 			image: "atm:textures/questpics/series/atmteam_store.png"
 			rotation: 0.0d
 			width: 8.0d
-			x: 13.0d
+			x: 14.5d
 			y: 28.0d
 		}
 		{
@@ -110,8 +110,16 @@
 			image: "atm:textures/questpics/series/atmteam_staycation.png"
 			rotation: 0.0d
 			width: 8.0d
-			x: 13.0d
+			x: 14.5d
 			y: 21.0d
+		}
+		{
+			height: 15.0d
+			image: "atm:textures/questpics/series/atmteam_volcano.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 4.5d
+			y: 24.5d
 		}
 	]
 	order_index: 5
@@ -187,6 +195,7 @@
 			y: 22.0d
 		}
 		{
+			dependencies: ["0A0DEF4CBF965750"]
 			id: "5A7E0848E16A5453"
 			rewards: [
 				{
@@ -834,6 +843,31 @@
 			}]
 			x: 0.0d
 			y: 16.5d
+		}
+		{
+			dependencies: ["035DBF19839FB73B"]
+			icon: {
+				id: "pkgbadges:the_volcano_badge"
+			}
+			id: "0A0DEF4CBF965750"
+			rewards: [{
+				count: 10
+				id: "285AA504CD73083D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				type: "item"
+			}]
+			shape: "pentagon"
+			size: 1.25d
+			tasks: [{
+				id: "7AC5C3D27B505A16"
+				structure: "allthemons:team_rocket_volcano"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: 25.0d
 		}
 	]
 }

@@ -1,6 +1,11 @@
 {
 	quest.035DBF19839FB73B.quest_desc: ["5 of the first &6Team Members&r Spawn in the &2&lOverworld&r in Custom Gyms. \\n\\nYep! Each of these Gyms were built by &e&lRosary&r and &6Pack Developers&r. \\n\\nSearch around in the &2&lOverworld&r to find them, even use an Explorer's Compass for help!"]
 	quest.035DBF19839FB73B.title: "Custom Gyms"
+	quest.0A0DEF4CBF965750.quest_desc: [
+		"&dTeam Rocket Volcano&r is the Headquarters for &cTeam Rocket&r but it also houses our very own &d&lBathsalts&r! \\n\\nIt is a huge factory Building on top of a Volcano, very fitting. \\n\\nYou can find the Members of &cTeam Rocket&r all throughout the actual Building but &d&lBathsalts&r we'll find beneath the Volcano in the Caves near the Sulfur Ponds. \\n\\nThere's an entrance straight into the Caves in the back to make it easier to find him!"
+		"{image:atm:textures/questpics/series/atmteam_volcano.png width:110 height:100 align:center}"
+	]
+	quest.0A0DEF4CBF965750.title: "&dTeam Rocket Volcano"
 	quest.13635B28AB1F2E68.quest_desc: ["In the Lobby of the &4Elite Gym&r you'll find &l&8CesarZorak&r waiting for you. \\n\\n&l&8CesarZorak&r does digital art, now what does that mean for the Modpacks? Lots of Item designs! \\n\\nYou like the Badges? Thank him for it. \\n\\nEven his own &8Badge&r! Which you'll need to Beat him for."]
 	quest.13635B28AB1F2E68.title: "&8&lCesarZorak"
 	quest.1C0FA8A4EFD02DFF.quest_desc: [
@@ -42,7 +47,7 @@
 	quest.56A11740B93819D4.title: "&6ATM Badge Box"
 	quest.580A66080AB6B117.quest_desc: ["Level 3 the Solaris Hall. The biggest room in the &4Elite Gym&r. \\n\\nMany Libraries and rooms for study but the most important is the labratory where you'll find &9&lVortex&r. \\n\\nThe bane of all ne'er-do-wells in the Discord and the creator of &c&lGravitas&r! If you hate &2&lMinecraft&r being even remotely close to easy then you'd love &c&lGravitas&r. \\n\\nHis &9Badge &fis a &9Vortex&r... duh."]
 	quest.580A66080AB6B117.title: "&9&lThevortex"
-	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r will soon have a Custom Gym of a &dBath&r suit for him... \\n\\nSoon isn't now though. \\n\\nIf you've heard a joke in the &6&lATM&r Discord Server about someone being old, 9/10 times it was directed at &d&lBathsalts&r. \\n\\nThe other 1/10 is from &d&lBathsalts&r himself. \\n\\nHis &dBadge&r is &dbath salts&r... the legal kind."]
+	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r is now found beneath the &dTeam Rocket Volcano&r. \\n\\nHe is lounging near the Sulfur Ponds. \\n\\nIf you've heard a joke in the &6&lATM&r Discord Server about someone being old, 9/10 times it was directed at &d&lBathsalts&r. \\n\\nThe other 1/10 is from &d&lBathsalts&r himself. \\n\\nHis &dBadge&r is &dbath salts&r... the legal kind."]
 	quest.5A7E0848E16A5453.title: "&d&lBathsalts"
 	quest.670756F02FD8179F.quest_desc: ["Some &6ATM Team Members&r don't have a home. \\n\\nI meant in &l&cAll&7The&fMons&r, in real life we're all taken very good care of. \\n\\nTo find these you'll have to wander around &b&lThe Other&r or use a &4Trainer Spawner&r! Just place down the &4Trainer Spawner&r, give it an &5Unobtainium Block&r, and a &4Redstone Signal&r to turn it on! \\n\\nIf a &4Trainer's&r Signature Item is the &5Unobtainium Block&r, they might Spawn. Wrong Trainer? Just kill them and they'll be replaced! \\n\\nThe &6Wandering Team Members&r are: Bored, Drack_ion, Helix Ranmara, Mitchell52, Mutant Gumdrop, ShinyPorygon, and Ultra Megaa."]
 	quest.670756F02FD8179F.title: "Beat &6Wandering ATM Team Members"
