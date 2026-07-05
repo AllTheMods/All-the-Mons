@@ -1,0 +1,14 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "zamega:ange"
+  },
+  "chance": 0.1,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "cobblemonextrastructures:chests/suerebe"
+    }
+  ]
+}
