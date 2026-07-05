@@ -31,8 +31,8 @@
 	quest.3FEFD0340A60DD5F.quest_subtitle: "Complete all tricks!"
 	quest.40708C304424C3FE.quest_desc: ["Too many unwanted &4Trainers&r? Get rid of them with the &4Trainer Repel Rod&r! \\n\\nNot sure of the area of Spawns it disables... it doesn't tell me. \\n\\nAtleast it doesn't prevent &4Trainer Spawners&r from working."]
 	quest.40708C304424C3FE.title: "&4Trainer Repel Rod"
-	quest.47043AF7D1FABC43.quest_desc: ["The &bDis-Enchanting Table&r is a probably the most helpful Tip here. \\n\\nSimply put an Enchanted Item in the Left Slot and a Book in the Middle Slot. Then, the Enchants will go to the Right Slot in Book form! \\n\\nYou can also use Enchanted Books instead of the Item to split up its Enchantments."]
-	quest.47043AF7D1FABC43.title: "&l&bDis-Enchanting Table"
+	quest.47043AF7D1FABC43.quest_desc: ["The &bEnchantment Extractor&r pulls the enchantments off an item and turns them into &dEnchanted Books&r. \\n\\nDrop an enchanted item in and it strips each enchantment out as its own book, so you can move them onto other gear or combine them. \\n\\nPair it with the &bEnchantment Applicator&r to put those books back onto whatever you like."]
+	quest.47043AF7D1FABC43.title: "&l&bEnchantment Extractor"
 	quest.58D3CBB518020833.quest_desc: ["I'm not listing all of these &cPoke&rBalls. \\n\\nAll of these &cPoke&rBalls will have a better chance at Catching a &cPokemon&r under certain circumstances. \\n\\nFrom the Wild &cPokemon's&r Stats, to time in Battle, to place in the World, to even time of day. All of these &cPoke&rBalls are unique in their own ways! \\n\\nMost if not under those circumstances, will only have a 1x Chance... UNLESS stated otherwise."]
 	quest.58D3CBB518020833.title: "&cBalls&r with a greater Catch rate"
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adds &7Drawers&r that can hold several stacks of an item. These can be upgraded to hold even more stacks!\\n\\nThis is great for items you get a lot of, like Cobblestone or Seeds!"]

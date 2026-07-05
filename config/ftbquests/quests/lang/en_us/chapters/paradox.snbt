@@ -1,7 +1,7 @@
 {
-	quest.1E6F000000001253.quest_desc: ["Deep in &8The Other&r reality frays, and creatures from the distant past and the far future bleed through.\\n\\nTo draw one out, carry a &dPika Star Chunk&r and let a &5Paradox Entity&r wash over you. The world warps, and a Pokémon that should not exist steps into view. The ancient ones lurk in The Other; their mechanical echoes wait deeper still, in The Beyond."]
+	quest.1E6F000000001253.quest_desc: ["Deep in &8The Other&r reality frays, and creatures from the distant past and the far future bleed through.\\n\\nTo draw one out, give one of your Pokémon a &dPika Star Chunk&r to hold and send it out beside a growing &5Paradox Entity&r. When the anomaly swells to full size and swallows that Pokémon, the world warps and something that should not exist takes its place. The ancient ones answer in The Other; their mechanical echoes wait deeper still, in The Beyond."]
 	quest.1E6F000000001253.title: "&5Paradox Pokémon"
-	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nCarry a Pika Star Chunk and let a Paradox Entity take you among them."]
+	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nGive one of your Pokémon a Pika Star Chunk to hold and feed it to a Paradox Entity here to call the ancient ones out."]
 	quest.1E6F000000001255.title: "&cThe Other - Ancient"
 	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb you in The Other to face it."]
 	quest.1E6F000000001257.quest_subtitle: "Paldea"
@@ -36,7 +36,7 @@
 	quest.1E6F00000000127F.quest_desc: ["&eRaging Bolt&r is an ancient Paradox Pokémon, a towering electric dragon that calls down thunder like the Raikou of old.\\n\\nDraw it out in The Other."]
 	quest.1E6F00000000127F.quest_subtitle: "Paldea"
 	quest.1E6F00000000127F.title: "Raging Bolt"
-	quest.1E6F000000001283.quest_desc: ["&bThe Beyond&r reaches into the future. Its Paradox Pokémon are &9machine&r - cold, mechanical echoes of creatures yet to come.\\n\\nThe deepest Paradox Entities open the way; carry a Pika Star Chunk and let them pull you through."]
+	quest.1E6F000000001283.quest_desc: ["&bThe Beyond&r reaches into the future. Its Paradox Pokémon are &9machine&r - cold, mechanical echoes of creatures yet to come.\\n\\nThe deepest Paradox Entities open the way - have a Pokémon hold a Pika Star Chunk and let one absorb it to call the machines through."]
 	quest.1E6F000000001283.title: "&bThe Beyond - Future"
 	quest.1E6F000000001285.quest_desc: ["&9Iron Treads&r is a future Paradox Pokémon, a rolling machine that mirrors Donphan in chromed, humming steel.\\n\\nLet a Paradox Entity pull it through in The Beyond."]
 	quest.1E6F000000001285.quest_subtitle: "Paldea"

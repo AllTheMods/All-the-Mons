@@ -386,7 +386,7 @@
 			]
 			tasks: [{
 				id: "279AB1DAAFD60C52"
-				item: { count: 1, id: "disenchanting_table:disenchanting_table" }
+				item: { count: 1, id: "industrialforegoing:enchantment_extractor" }
 				type: "item"
 			}]
 			x: 1.5d
