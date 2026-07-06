@@ -50,6 +50,8 @@ global.catchBySpeciesTask = [
   { "1E6F000000001041": "meltan" },
   { "1E6F000000001047": "melmetal" },
   { "1E6F000000001050": "terapagos" },
+  // Tera Shift puts Terapagos in Terastal form when caught in battle (showdownId "terapagosterastal")
+  { "1E6F000000001050": "terapagosterastal" },
   { "1E6F000000001055": "mewtwo" },
   { "1E6F00000000105A": "pecharunt" },
   { "1E6F000000001334": "deoxys" },
@@ -78,6 +80,8 @@ global.catchBySpeciesTask = [
   { "1E6F000000001112": "eternatus" },
   { "1E6F000000001118": "yveltal" },
   { "1E6F00000000111E": "xerneas" },
+  // caught in battle, Xerneas is in active-mode (showdownId "xerneasactive")
+  { "1E6F00000000111E": "xerneasactive" },
   { "1E6F000000001124": "glastrier" },
   { "1E6F00000000112A": "spectrier" },
   { "1E6F00000000112F": "calyrex" },
@@ -103,6 +107,8 @@ global.catchBySpeciesTask = [
   { "1E6F00000000130A": "celebi" },
   { "1E6F000000001310": "marshadow" },
   { "1E6F000000001315": "meloetta" },
+  // Relic Song puts Meloetta in Pirouette form mid-battle (showdownId "meloettapirouette")
+  { "1E6F000000001315": "meloettapirouette" },
   // Treasures of Ruin
   { "1E6F000000001177": "chiyu" },
   { "1E6F00000000117C": "wochien" },
