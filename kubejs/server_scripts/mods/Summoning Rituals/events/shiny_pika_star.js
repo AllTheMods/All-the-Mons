@@ -130,7 +130,7 @@ function scanDisplayCases(event) {
     if (String(levelBlock.getBlock().id) != "cobblemon:display_case") return
     let be = levelBlock.getEntity()
     if (be == null) return
-    if (!pokedex && be.hasAnyMatching(stack => String(stack.id) == "cobblemon:pokedex_red")) {
+    if (!pokedex && be.hasAnyMatching(stack => stack.is("#cobblemon:pokedex"))) {
       pokedex = true
     }
     PIKA_REGIONS.forEach(region => {
