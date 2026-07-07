@@ -1,0 +1,44 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "rootsclassic:verdant_sprig"
+  },
+  "chance": 0.0333,
+  "conditions": [
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:match_tool",
+        "predicate": {
+          "items": "#c:tools/shear"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "productivefarming:wheat",
+          "properties": { "age": "6" }
+        },
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "productivefarming:carrot",
+          "properties": { "age": "6" }
+        },
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "productivefarming:potato",
+          "properties": { "age": "6" }
+        },
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "productivefarming:beetroot",
+          "properties": { "age": "6" }
+        }
+      ]
+    }
+  ]
+}
