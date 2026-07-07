@@ -1,7 +1,7 @@
 {
-	quest.1E6F000000001253.quest_desc: ["Nas profundezas de &8O Outro&r a realidade se fragmenta, e criaturas do passado distante e do futuro longínquo atravessam.\\n\\nPara atrair um, carregue um &dFragmento de Estrela Pika&r e deixe uma &5Entidade Paradoxal&r envolver você. O mundo se distorce e um Pokémon que não deveria existir surge. Os ancestrais espreitam em O Outro; seus ecos mecânicos esperam ainda mais fundo, em O Além."]
+	quest.1E6F000000001253.quest_desc: ["No fundo de &8O Outro&r, a realidade se desgasta e criaturas do passado distante e do futuro remoto transbordam.\\n\\nPara atrair uma, dê um &dFragmento de Estrela Pika&r para um dos seus Pokémon segurar e lance-o ao lado de uma &5Entidade Paradoxo&r em crescimento. Quando a anomalia atingir o tamanho máximo e engolir esse Pokémon, o mundo se distorcerá e algo que não deveria existir assumirá o seu lugar. Os ancestrais respondem em O Outro; seus ecos mecânicos aguardam ainda mais fundo, em O Além."]
 	quest.1E6F000000001253.title: "&5Pokémon Paradoxais"
-	quest.1E6F000000001255.quest_desc: ["&8O Outro&r está impregnado com o passado. Os Pokémon Paradoxais aqui são do &cPassado&r - formas primais e selvagens de espécies familiares, resgatadas de um mundo há muito perdido.\\n\\nCarregue um Fragmento de Estrela Pika e deixe uma Entidade Paradoxal levar você até eles."]
+	quest.1E6F000000001255.quest_desc: ["&8O Outro&r está repleto do passado. Os Pokémon Paradoxo aqui são &cancestrais&r - formas primais e selvagens de espécies conhecidas, desenterradas de um mundo há muito perdido.\\n\\nDê um Fragmento de Estrela Pika para um dos seus Pokémon segurar e ofereça-o a uma Entidade Paradoxo aqui para atrair os ancestrais."]
 	quest.1E6F000000001255.title: "&cO Outro - Ancestral"
 	quest.1E6F000000001257.quest_desc: ["&cPresa Grande&r é um bruto selvagem do passado distante que faz o chão tremer, puro marfim e músculo - um eco primal de Donphan.\\n\\nDeixe uma Entidade Paradoxal absorver você em O Outro para enfrentá-lo."]
 	quest.1E6F000000001257.title: "Presa Grande"
@@ -25,7 +25,7 @@
 	quest.1E6F00000000127B.title: "Fogo Corrosão"
 	quest.1E6F00000000127F.quest_desc: ["&eRaio Fúria&r é um Pokémon Paradoxal do Passado, um dragão elétrico imponente que invoca trovões como o Raikou de antigamente.\\n\\nAtraia-o em O Outro."]
 	quest.1E6F00000000127F.title: "Raio Fúria"
-	quest.1E6F000000001283.quest_desc: ["&bO Além&r alcança o futuro. Seus Pokémon Paradoxais são &9máquinas&r - ecos mecânicos frios de criaturas que ainda virão.\\n\\nAs Entidades Paradoxais mais profundas abrem o caminho; carregue um Fragmento de Estrela Pika e deixe que elas o puxem."]
+	quest.1E6F000000001283.quest_desc: ["&bO Além&r alcança o futuro. Seus Pokémon Paradoxo são &9máquinas&r - ecos frios e mecânicos de criaturas que ainda estão por vir.\\n\\nAs Entidades Paradoxo mais profundas abrem o caminho - faça um Pokémon segurar um Fragmento de Estrela Pika e permita que uma o absorva para invocar as máquinas."]
 	quest.1E6F000000001283.title: "&bO Além - Futuro"
 	quest.1E6F000000001285.quest_desc: ["&9Trilho Férreo&r é um Pokémon Paradoxal do Futuro, uma máquina rolante que espelha Donphan em aço cromado e vibrante.\\n\\nDeixe uma Entidade Paradoxal puxá-lo em O Além."]
 	quest.1E6F000000001285.title: "Trilho Férreo"

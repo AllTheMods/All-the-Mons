@@ -126,7 +126,7 @@
 	quest.1E6F0000000011D4.title: "&2Spawns Naturais"
 	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r é o Pokémon Desejo, que dizem acordar por apenas sete dias a cada mil anos e conceder qualquer desejo escrito nas notas presas à sua cabeça.\\n\\nEncontre-o durante seus raros dias de vigília e realize seu próprio desejo capturando-o."]
 	quest.1E6F0000000011D7.title: "Jirachi"
-	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r é o Pokémon Marinheiro, nascido no fundo do mar gelado, mas capaz de formar um vínculo com qualquer criatura que encontrar.\\n\\nEle nada nos oceanos abertos - vasculhe as águas e capture o príncipe do mar."]
+	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r é o Pokémon Navegante, nascido no fundo do mar gelado, mas capaz de formar um vínculo com qualquer criatura que encontre.\\n\\nEle nunca vem à terra firme - a única maneira de capturar o príncipe do mar é pescar. Lance uma vara com uma boa isca no oceano aberto e, com muita sorte, Manaphy morderá o anzol."]
 	quest.1E6F0000000011DB.title: "Manaphy"
 	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r é o Pokémon Gratidão, um ouriço dos prados que dissolve toxinas e as expele como um campo de flores.\\n\\nBusca por ele entre campos de flores desabrochando e adicione a lenda gentil à sua equipe."]
 	quest.1E6F0000000011DF.title: "Shaymin"
