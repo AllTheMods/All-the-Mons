@@ -124,39 +124,39 @@
 	quest.1E6F000000001184.title: "Ting-Lu"
 	quest.1E6F0000000011D4.quest_desc: ["Nem todo lendário precisa de um ritual ou monumento. Alguns simplesmente vagam pelo mundo, esperando por um(a) treinador(a) astuto(a) o suficiente para encontrá-los.\\n\\nEstes Pokémon aparecem como spawns selvagens raros em seus habitats naturais - sem estruturas, itens de invocação ou chaves. Explore amplamente, mantenha os olhos abertos e carregue muitas bolas. Cedo ou tarde, cada um se mostrará."]
 	quest.1E6F0000000011D4.title: "&2Spawns Naturais"
-	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r é o Pokémon Desejo, que dizem acordar por apenas sete dias a cada mil anos e conceder qualquer desejo escrito nas notas presas à sua cabeça.\\n\\nEncontre-o durante seus raros dias de vigília e realize seu próprio desejo capturando-o."]
+	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r é o Pokémon Desejo. Dizem que ele concede qualquer desejo escrito nos bilhetes presos à sua cabeça.\\n\\nEle vaga por lugares estranhos e mágicos - cace-o em &dcampos de cogumelos&r, &dilhas da miragem&r e outros biomas mágicos, onde ele aparece muito raramente."]
 	quest.1E6F0000000011D7.title: "Jirachi"
 	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r é o Pokémon Navegante, nascido no fundo do mar gelado, mas capaz de formar um vínculo com qualquer criatura que encontre.\\n\\nEle nunca vem à terra firme - a única maneira de capturar o príncipe do mar é pescar. Lance uma vara com uma boa isca no oceano aberto e, com muita sorte, Manaphy morderá o anzol."]
 	quest.1E6F0000000011DB.title: "Manaphy"
-	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r é o Pokémon Gratidão, um ouriço dos prados que dissolve toxinas e as expele como um campo de flores.\\n\\nBusca por ele entre campos de flores desabrochando e adicione a lenda gentil à sua equipe."]
+	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r é o Pokémon Gratidão, um ouriço dos prados que dissolve toxinas e as dissipa como um campo de flores.\\n\\nEle só aparece &eà noite&r sob &ecéu aberto&r em &abiomas floridos e planaltos&r, e nunca enquanto chove. Busque por ele lá e capture-o."]
 	quest.1E6F0000000011DF.title: "Shaymin"
-	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r é o Pokémon Ciclone, cuja cauda provoca ventos fortes o suficiente para achatar casas enquanto ele corta o céu.\\n\\nPersiga as tempestades - ele vaga pelos céus abertos e um(a) treinador(a) atento(a) pode alcançá-lo."]
+	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r é o Pokémon Ciclone. Sua cauda levanta ventos fortes o suficiente para derrubar casas.\\n\\nEle vaga por &2selvas&r e &2selvas de bambu&r - rastreie a tempestade selvagem por lá e encurrale-a."]
 	quest.1E6F0000000011E3.title: "Tornadus"
-	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r é o Pokémon Ataque de Raio, lançando relâmpagos dos espinhos em sua cauda enquanto voa pelas nuvens de tempestade.\\n\\nEncontre-o onde as tempestades se reúnem e capture o raio selvagem do céu."]
+	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r é o Pokémon Relâmpago, que lança raios pelos espinhos de sua cauda.\\n\\nEncontre-o vagando por &eplanícies&r, &7montanhas&r e &6ermos&r, e capture o relâmpago selvagem."]
 	quest.1E6F0000000011E7.title: "Thundurus"
-	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r é o Pokémon Abundância, reverenciado por agricultores porque a terra que ele visita rende colheitas generosas.\\n\\nEle vaga por terras férteis - busca pelo portador da fartura na natureza."]
+	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r é o Pokémon Abundância, reverenciado por fazendeiros pelas colheitas fartas que a terra rende por onde ele passa.\\n\\nEle passeia por &acampos floridos&r, &6savanas&r e &edesertos&r sob &ecéu limpo&r, nunca na chuva. Busque o portador da fartura por lá."]
 	quest.1E6F0000000011EB.title: "Landorus"
-	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r é o Pokémon Amor Encarnado, cujo toque desperta a terra do inverno e induz a primavera ao florescimento.\\n\\nEncontre a mais nova das forças da natureza vagando pela natureza."]
+	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r é o Pokémon Encarnação do Amor. Seu toque desperta a terra do inverno e faz a primavera florescer.\\n\\nEle só se mostra &edurante tempestades&r em &abiomas floridos&r. Aguarde a tempestade e capture a mais nova força da natureza."]
 	quest.1E6F0000000011EF.title: "Enamorus"
-	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r é o Pokémon Joia, uma criatura de carbono que pode comprimir o ar ao seu redor em diamantes cintilantes em um instante.\\n\\nBusca pela princesa radiante nas profundezas do mundo e capture-a."]
+	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r é o Pokémon Joia, uma criatura de carbono que consegue comprimir o ar ao seu redor em diamantes brilhantes.\\n\\nBusque por ela &1nas profundezas do subsolo&r no escuro, perto de &dAmetistas&r - ela surge perto de Geodos de Ametista muito abaixo. Leve uma luz e capture-a."]
 	quest.1E6F0000000011F3.title: "Diancie"
-	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r é uma divindade guardiã de sua ilha, um Pokémon curioso e impulsivo que estala com relâmpagos acumulados.\\n\\nEncontre o guardião da ilha vagando pela natureza e ganhe seu respeito capturando-o."]
+	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r é a divindade guardiã de sua ilha, um Pokémon curioso que estala com relâmpagos armazenados.\\n\\nEncontre o guardião da ilha de &edia&r em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e ganhe seu respeito ao capturá-lo."]
 	quest.1E6F0000000011F7.title: "Tapu Koko"
-	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r é uma divindade guardiã que espalha escamas cintilantes que acalmam e curam, embora aja sem pensar em malícia ou misericórdia.\\n\\nBusca pelo guardião da ilha na natureza e capture-o."]
+	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r é uma divindade guardiã que espalha escamas brilhantes que acalmam e curam.\\n\\nBusque pelo guardião da ilha em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e capture-o."]
 	quest.1E6F0000000011FB.title: "Tapu Lele"
-	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r é uma divindade guardiã que comanda o crescimento das plantas e arrasta grandes árvores para marcar os limites de seu domínio.\\n\\nEncontre o guardião touro vagando pela natureza e derrote-o."]
+	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r é uma divindade guardiã que comanda o crescimento das plantas e marca os limites de seu domínio com grandes árvores.\\n\\nEncontre o guardião touro em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e derrote-o."]
 	quest.1E6F0000000011FF.title: "Tapu Bulu"
-	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r é uma divindade guardiã que conjura névoa para confundir intrusos e purifica água contaminada com sua névoa.\\n\\nBusca pelo guardião da ilha entre a natureza e capture-o."]
+	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r é uma divindade guardiã que conjura neblina para confundir intrusos e purifica água contaminada com sua névoa.\\n\\nBusca pelo guardião da ilha em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e capture-o."]
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir os sentimentos de outros Pokémon.\\n\\nEmbora tenha sido feita por mãos humanas, ela agora aparece na natureza - encontre a lenda mecânica e capture-a."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir os sentimentos de outros Pokémon.\\n\\nA lenda mecânica aparece no &5End&r e fundo das &1Profundezas sombrias&r - explore essas profundezas e capture-o."]
 	quest.1E6F000000001207.title: "Magearna"
-	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r é o Pokémon Trovão, que corre sobre quatro patas e libera eletricidade suficiente de suas patas para acompanhar um raio.\\n\\nPersiga a lenda ofuscantemente rápida na natureza."]
+	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r é o Pokémon Trovão, correndo de quatro rápido o suficiente para acompanhar um raio.\\n\\nPersiga-o pelas &6savanas&r sob &ecéu aberto&r."]
 	quest.1E6F00000000120B.title: "Zeraora"
-	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r é o Pokémon Wushu, um pequeno urso que treina incansavelmente para fortalecer tanto seu corpo quanto seu espírito.\\n\\nEncontre-o na natureza - crie-o bem e ele evoluirá para o poderoso &7Urshifu&r, mestre de um estilo único e devastador."]
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r é o Pokémon Wushu, um pequeno urso que treina incansavelmente para fortalecer seu corpo e espírito.\\n\\nEncontre-o em &2selvas&r e &2selvas de bambu&r - crie-o bem e ele evoluirá para o poderoso &7Urshifu&r, mestre de um único estilo devastador."]
 	quest.1E6F00000000120F.title: "Kubfu"
-	quest.1E6F000000001213.quest_desc: ["&2Zarude&r é o Pokémon Macaco Trapaceiro, um habitante feroz de tropas que balança pela selva densa com braços semelhantes a cipós.\\n\\nBusca por ele nas florestas mais espessas e capture a lenda da selva."]
+	quest.1E6F000000001213.quest_desc: ["&2Zarude&r é o Pokémon Macaco Rebelde, um habitante feroz de bandos que se balança pela selva densa com braços em forma de cipó.\\n\\nBusque por ele nas profundezas das &2selvas&r e capture a lenda da selva."]
 	quest.1E6F000000001213.title: "Zarude"
-	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r é o Pokémon Máscara, um ogro tímido que se esconde atrás de uma máscara e outrora foi injustamente rotulado como vilão por aqueles que o temiam.\\n\\nEncontre-o na natureza e ganhe a confiança da lenda mascarada."]
+	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r é o Pokémon Máscara, um ogro tímido que se esconde atrás de uma máscara e outrora foi injustamente tachado de vilão.\\n\\nEncontre-o em &acampos floridos&r, &2selvas de bambu&r e &2selvas&r, e ganhe a confiança da lenda mascarada."]
 	quest.1E6F000000001217.title: "Ogerpon"
 	quest.1E6F00000000122B.quest_desc: ["Alguns Pokémon lendários nunca se estabelecem - eles vagam pelo mundo infinitamente, deixando apenas &2pegadas&r para trás.\\n\\nPara atrair um, você deve seguir seus rastros e colocar a comida que ele prefere. Cada missão abaixo nomeia a isca que aquele Pokémon em particular não consegue resistir. Prepare a isca, espere e esteja pronto para a batalha quando ele finalmente aparecer."]
 	quest.1E6F00000000122B.title: "&2Rastreamento de Pegadas"
