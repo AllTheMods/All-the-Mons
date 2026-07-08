@@ -1,0 +1,9 @@
+[Overlapless]
+	#These will always generate even if there are existing structures that occupy the chunk sections.
+	UnskippableStructures = []
+	#If you still find overlapping generated structures in your world, they are most likely Features rather than Structures. For example, Desert Well and Amethyst Geode
+	#You can write down the features' registry names here so they will not get overlapped with existing structures.
+	#It's not acceptable to prevent all the features from getting overlapped with structures. Because trees/ores/flowers/etc small things are also features lol.
+	SkippableFeatures = ["oritech:resource_node"]
+	PrintStructureSkipEventInLog = false
+	PrintFeatureSkipEventInLog = false
