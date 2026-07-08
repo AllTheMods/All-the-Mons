@@ -31,8 +31,8 @@
 	quest.3FEFD0340A60DD5F.quest_subtitle: "Complete todos os truques!"
 	quest.40708C304424C3FE.quest_desc: ["&4Treinadores&r indesejados demais? Livre-se deles com a &4Vara de Repelir Treinadores&r! \\n\\nNão tenho certeza da área de Gerações que ela desabilita... ela não me diz. \\n\\nPelo menos ela não impede &4Geradores de Treinadores&r de funcionarem."]
 	quest.40708C304424C3FE.title: "&4Vara de Repelir Treinadores"
-	quest.47043AF7D1FABC43.quest_desc: ["A &bMesa de Desencantamento&r é provavelmente a Dica mais útil aqui. \\n\\nSimplesmente coloque um Item Encantado no Slot Esquerdo e um Livro no Slot do Meio. Então, os Encantamentos irão para o Slot Direito em forma de Livro! \\n\\nVocê também pode usar Livros Encantados em vez do Item para dividir seus Encantamentos."]
-	quest.47043AF7D1FABC43.title: "&l&bMesa de Desencantamento"
+	quest.47043AF7D1FABC43.quest_desc: ["O &bExtrator de Encantamentos&r remove os encantamentos de um item e os transforma em &dLivros Encantados&r. \\n\\nInsira um item encantado e ele extrairá cada encantamento como um livro separado, para que você possa movê-los para outros equipamentos ou combiná-los. \\n\\nCombine-o com o &bAplicador de Encantamentos&r para colocar esses livros de volta no que quiser."]
+	quest.47043AF7D1FABC43.title: "&l&bExtrator de Encantamentos"
 	quest.58D3CBB518020833.quest_desc: ["Eu não vou listar todas essas &cPoke&rBolas. \\n\\nTodas essas &cPoke&rBolas terão uma chance melhor de Capturar um &cPokémon&r sob certas circunstâncias. \\n\\nDesde os Atributos do &cPokémon&r Selvagem, ao tempo em Batalha, ao lugar no Mundo, ou até a hora do dia. Todas essas &cPoke&rBolas são únicas à sua própria maneira! \\n\\nA maioria se não estiver sob essas circunstâncias, terá apenas uma Chance de 1x... A NÃO SER QUE seja dito o contrário."]
 	quest.58D3CBB518020833.title: "&cBolas&r com maior taxa de Captura"
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adiciona &7Gavetas&r que podem conter várias pilhas de um item. Elas podem ser aprimoradas para conter ainda mais pilhas!\\n\\nIsso é ótimo para itens que você obtém em grande quantidade, como Pedregulho ou Sementes!"]
