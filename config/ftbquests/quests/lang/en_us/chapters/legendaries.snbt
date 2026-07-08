@@ -178,55 +178,55 @@
 	quest.1E6F000000001184.title: "Ting-Lu"
 	quest.1E6F0000000011D4.quest_desc: ["Not every legendary needs a ritual or a monument. Some simply roam the world, waiting for a trainer sharp enough to find them.\\n\\nThese Pokémon turn up as rare wild spawns in their natural haunts - no structure, no summoning item, no key. Explore widely, keep your eyes open, and carry plenty of balls. Sooner or later, each one shows itself."]
 	quest.1E6F0000000011D4.title: "&2Natural Spawns"
-	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r is the Wish Pokémon, said to wake for only seven days every thousand years and to grant any wish written on the notes attached to its head.\\n\\nFind it during its rare waking days and make your own wish come true by catching it."]
+	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r is the Wish Pokémon, said to grant any wish written on the notes attached to its head.\\n\\nIt lingers in strange, magical places - hunt for it in &dmushroom fields&r, &dmirage islands&r, and other magical biomes, where it very rarely appears."]
 	quest.1E6F0000000011D7.quest_subtitle: "Hoenn"
 	quest.1E6F0000000011D7.title: "Jirachi"
 	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r is the Seafaring Pokémon, born on the cold seabed yet able to form a bond with any creature it meets.\\n\\nIt never comes ashore - the only way to land the prince of the sea is to fish for it. Cast a well-lured rod into the open ocean and, with a great deal of luck, Manaphy takes the hook."]
 	quest.1E6F0000000011DB.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000011DB.title: "Manaphy"
-	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r is the Gratitude Pokémon, a hedgehog of the meadows that dissolves toxins and bursts them away as a field of flowers.\\n\\nSeek it among blooming flower fields and add the gentle legend to your team."]
+	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r is the Gratitude Pokémon, a hedgehog of the meadows that dissolves toxins and bursts them away as a field of flowers.\\n\\nIt only appears &eat night&r under &eopen sky&r in &aflowery biomes and highlands&r, and never while it is raining. Seek it there and catch it."]
 	quest.1E6F0000000011DF.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000011DF.title: "Shaymin"
-	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r is the Cyclone Pokémon, whose tail whips up winds strong enough to flatten houses as it streaks across the sky.\\n\\nChase the storms - it roams the open skies, and a sharp-eyed trainer can run it down."]
+	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r is the Cyclone Pokémon, whose tail whips up winds strong enough to flatten houses.\\n\\nIt roams &2jungles&r and &2bamboo jungles&r - track the wild storm down there and run it to ground."]
 	quest.1E6F0000000011E3.quest_subtitle: "Unova"
 	quest.1E6F0000000011E3.title: "Tornadus"
-	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r is the Bolt Strike Pokémon, hurling lightning from the spikes on its tail as it flies through the thunderheads.\\n\\nFind it where the storms gather and catch the wild bolt out of the sky."]
+	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r is the Bolt Strike Pokémon, hurling lightning from the spikes on its tail.\\n\\nFind it roaming &eplains&r, &7mountains&r, and &6badlands&r, and catch the wild bolt."]
 	quest.1E6F0000000011E7.quest_subtitle: "Unova"
 	quest.1E6F0000000011E7.title: "Thundurus"
-	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r is the Abundance Pokémon, revered by farmers because the land it visits yields bountiful harvests.\\n\\nIt roams fertile country - seek the bringer of plenty in the wild."]
+	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r is the Abundance Pokémon, revered by farmers for the bountiful harvests the land yields where it treads.\\n\\nIt wanders &aflowery fields&r, &6savannas&r, and &edeserts&r under &eclear skies&r, never in the rain. Seek the bringer of plenty there."]
 	quest.1E6F0000000011EB.quest_subtitle: "Unova"
 	quest.1E6F0000000011EB.title: "Landorus"
-	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r is the Love-Incarnate Pokémon, whose touch wakes the land from winter and coaxes the spring into bloom.\\n\\nFind the newest of the forces of nature roaming the wild."]
+	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r is the Love-Incarnate Pokémon, whose touch wakes the land from winter and coaxes the spring into bloom.\\n\\nIt shows itself only &eduring a thunderstorm&r, out in &aflowery biomes&r. Wait for the storm and catch the newest force of nature."]
 	quest.1E6F0000000011EF.quest_subtitle: "Galar"
 	quest.1E6F0000000011EF.title: "Enamorus"
-	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r is the Jewel Pokémon, a carbon creature that can compress the air around it into glittering diamonds in an instant.\\n\\nSeek the radiant princess deep in the world and catch her."]
+	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r is the Jewel Pokémon, a carbon creature that can compress the air around it into glittering diamonds.\\n\\nSeek her &1deep underground&r in the dark, near &damethyst&r - she surfaces close to amethyst geodes far below. Bring a light and catch her."]
 	quest.1E6F0000000011F3.quest_subtitle: "Kalos"
 	quest.1E6F0000000011F3.title: "Diancie"
-	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r is a guardian deity of its island, a curious and impulsive Pokémon that crackles with stored lightning.\\n\\nFind the island guardian roaming the wild and earn its respect by catching it."]
+	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r is a guardian deity of its island, a curious Pokémon that crackles with stored lightning.\\n\\nFind the island guardian by &eday&r in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and earn its respect by catching it."]
 	quest.1E6F0000000011F7.quest_subtitle: "Alola"
 	quest.1E6F0000000011F7.title: "Tapu Koko"
-	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r is a guardian deity that scatters glittering scales which soothe and heal, though it acts without thought of malice or mercy.\\n\\nSeek the island guardian in the wild and catch it."]
+	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r is a guardian deity that scatters glittering scales which soothe and heal.\\n\\nSeek the island guardian in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and catch it."]
 	quest.1E6F0000000011FB.quest_subtitle: "Alola"
 	quest.1E6F0000000011FB.title: "Tapu Lele"
-	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r is a guardian deity that commands the growth of plants and drags great trees about to mark the bounds of its domain.\\n\\nFind the bull guardian roaming the wild and bring it down."]
+	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r is a guardian deity that commands the growth of plants and marks the bounds of its domain with great trees.\\n\\nFind the bull guardian in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and bring it down."]
 	quest.1E6F0000000011FF.quest_subtitle: "Alola"
 	quest.1E6F0000000011FF.title: "Tapu Bulu"
-	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r is a guardian deity that conjures fog to confound intruders and purifies tainted water with its mist.\\n\\nSeek the island guardian among the wilds and catch it."]
+	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r is a guardian deity that conjures fog to confound intruders and purifies tainted water with its mist.\\n\\nSeek the island guardian in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and catch it."]
 	quest.1E6F000000001203.quest_subtitle: "Alola"
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThough made by human hands, it now turns up in the wild - find the clockwork legend and catch it."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThe clockwork legend turns up in the &5End&r and deep in the &1Deep Dark&r - search those depths and catch it."]
 	quest.1E6F000000001207.quest_subtitle: "Alola"
 	quest.1E6F000000001207.title: "Magearna"
-	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, which races on all fours and discharges enough electricity from its paws to keep pace with a lightning bolt.\\n\\nChase down the blindingly fast legend in the wild."]
+	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, racing on all fours fast enough to keep pace with a lightning bolt.\\n\\nChase it down in &6savannas&r under &eopen sky&r."]
 	quest.1E6F00000000120B.quest_subtitle: "Alola"
 	quest.1E6F00000000120B.title: "Zeraora"
-	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r is the Wushu Pokémon, a small bear that trains relentlessly to steel both its body and its spirit.\\n\\nFind it in the wild - raise it well and it evolves into the mighty &7Urshifu&r, master of a single, devastating style."]
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r is the Wushu Pokémon, a small bear that trains relentlessly to steel its body and spirit.\\n\\nFind it in &2jungles&r and &2bamboo jungles&r - raise it well and it evolves into the mighty &7Urshifu&r, master of a single devastating style."]
 	quest.1E6F00000000120F.quest_subtitle: "Galar"
 	quest.1E6F00000000120F.title: "Kubfu"
-	quest.1E6F000000001213.quest_desc: ["&2Zarude&r is the Rogue Monkey Pokémon, a fierce troop-dweller that swings through dense jungle on vine-like arms.\\n\\nSeek it deep in the thickest forests and catch the jungle legend."]
+	quest.1E6F000000001213.quest_desc: ["&2Zarude&r is the Rogue Monkey Pokémon, a fierce troop-dweller that swings through dense jungle on vine-like arms.\\n\\nSeek it deep in &2jungles&r and catch the jungle legend."]
 	quest.1E6F000000001213.quest_subtitle: "Galar"
 	quest.1E6F000000001213.title: "Zarude"
-	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r is the Mask Pokémon, a shy ogre that hides behind a mask and was once wrongly branded a villain by those who feared it.\\n\\nFind it in the wild and earn the trust of the masked legend."]
+	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r is the Mask Pokémon, a shy ogre that hides behind a mask and was once wrongly branded a villain.\\n\\nFind it in &aflowery fields&r, &2bamboo jungles&r, and &2jungles&r, and earn the trust of the masked legend."]
 	quest.1E6F000000001217.quest_subtitle: "Paldea"
 	quest.1E6F000000001217.title: "Ogerpon"
 	quest.1E6F00000000122B.quest_desc: ["Some legendary Pokémon never settle - they wander the world endlessly, leaving only &2footprints&r behind.\\n\\nTo draw one out you have to follow its tracks and set down the food it favours. Each quest below names the lure that particular Pokémon cannot resist. Lay the bait, wait, and be ready to battle when it finally shows itself."]
