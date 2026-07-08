@@ -44,6 +44,9 @@ ServerEvents.tags('block', allthemods => {
     allthemods.add("cataclysm:leviathan_immune","epitaphs:grave")
     allthemods.add("cataclysm:netherite_monstrosity_immune","epitaphs:grave")
     allthemods.add("cataclysm:remnant_immune","epitaphs:grave")
+
+    // Fix Jank with Feral Flares and Enchanting
+    allthemods.add("minecraft:replaceable", "torchmaster:invisible_light")
 })
 
 ServerEvents.tags('fluid', allthemods => {
