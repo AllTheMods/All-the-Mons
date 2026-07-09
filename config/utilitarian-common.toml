@@ -13,8 +13,8 @@ logSuppressorEnabled = true
 #A list of word sequences that if a log message starts with will be stopped.
 logSuppressorStartsWithMessages = ["Encountered unknown", "Next Ultra Wormhole event scheduled"]
 #A list of word sequences that if a log message ends with will be stopped.
-logSuppressorEndsWithMessages = ["current activity:idle"]
+logSuppressorEndsWithMessages = []
 #A list of word sequences that if contained in a log message will be stopped.
-logSuppressorContainsMessages = ["File not found or not regular:"]
+logSuppressorContainsMessages = ["File not found or not regular:", "current activity:"]
 #A list of regex that if a log message matches it will be stopped. Don't use this if you don't know what you're doing.
 logSuppressorRegexMessages = []
