@@ -1,7 +1,13 @@
 {
+	quest.01D725FDE3EE2334.quest_subtitle: "Catch all pokemon from Hisui"
+	quest.03F291F815FBF85A.quest_subtitle: "Craft the Galarian pika star"
+	quest.0461FE9EE7BD285B.quest_subtitle: "Craft the Hoennian pika star"
+	quest.06CA9BE39EFE5EBD.quest_subtitle: "Craft the Sinnohan pika star"
+	quest.0B05185B65E41DEA.quest_subtitle: "Craft the Paldean pika star"
+	quest.0D8C93346B6F70C1.quest_subtitle: "Craft the Alolan pika star"
+	quest.1965AE47C27D8385.quest_subtitle: "Craft the Johtonian pika star"
 	quest.1B09DCB8AC3A420A.quest_desc: ["Obtain a &ePatrickyu Egg&r by breeding &3Ditto&r with &ePatrickyu&r holding an &7Everstone."]
-	quest.1B09DCB8AC3A420A.quest_subtitle: ""
-	quest.1B09DCB8AC3A420A.title: ""
+	quest.1B56BAFE94A1F83D.quest_subtitle: "Catch all pokemon from Sinnoh"
 	quest.279FADB5CBA260D7.quest_desc: [
 		"To craft a &dregional Pika Star&r you need to:"
 		""
@@ -32,6 +38,8 @@
 		"{image:atm:textures/questpics/allthemons/pika_star_ritual.png width:200 height:200 align:center}"
 	]
 	quest.2DBB88E1C147F496.title: "Unbound Pika Star"
+	quest.3375020AEADFCFF1.quest_subtitle: "Craft the Kalosian pika star"
+	quest.369F898BF46729E0.quest_subtitle: "Catch all pokemon from Alola"
 	quest.3B7A4929A1FCFFC6.quest_desc: [
 		"How to read &5Altar &rJEI recipes:"
 		""
@@ -47,8 +55,15 @@
 		""
 		"{image:atm:textures/questpics/allthemons/ritual_recipe.png width:181 height:160 align:center}"
 	]
+	quest.4D4F8B4FF05E410E.quest_subtitle: "Catch all pokemon from Hoenn"
+	quest.531A0EC04A6A8D5D.quest_subtitle: "Catch all pokemon from Paldea"
+	quest.5A94E168B6362E43.quest_subtitle: "Craft the Unovan pika star"
+	quest.6251C22782FE194E.quest_subtitle: "Craft the Hisuian pika star"
 	quest.64CC314ECC49B92A.quest_desc: ["Obtain all &cregional &ePika Stars."]
+	quest.6A2810DEDC54A414.quest_subtitle: "Craft the Kantonian regional pika star"
 	quest.6B4196A8DC3235D5.quest_desc: ["Complete &aall progress&r on each &cregional &ePika Star."]
+	quest.72FB20982A2940BF.quest_subtitle: "Catch all pokemon from Kanto"
+	quest.7793F96BA31494F9.quest_subtitle: "Catch all pokemon from Unova"
 	quest.7A0693A3016549F6.quest_desc: [
 		"Every road you have ever walked - every patch of tall grass parted, every Poké Ball thrown into the dark - has been leading here. The &dShiny Pika Star&r is not merely crafted. It is &oearned&r, and then summoned, in the grandest rite the world has ever staged."
 		""
@@ -66,8 +81,11 @@
 		""
 		"&7* Kurt is a &6PokéMart Trader&r villager renamed to &6Kurt&r with a Name Tag - keep him within a few blocks of the altar.&r"
 	]
-	quest.7A0693A3016549F6.quest_subtitle: ""
+	quest.7A0693A3016549F6.quest_subtitle: "Catch ALL the mons"
 	quest.7A0693A3016549F6.title: "Shiny Pika Star"
+	quest.7B01BCEFF45C59EE.quest_subtitle: "Catch all pokemon from Galar"
+	quest.7D90A2C2869F8FC7.quest_subtitle: "Catch all pokemon from Kalos"
+	quest.7EF5684946CC1B3A.quest_subtitle: "Catch all pokemon from Johto"
 	task.0C959B11B37F53C6.title: "How To Use Altar"
 	task.37F598DD9EEE414F.title: "Create Sand Papers"
 	task.53851DD297E86E63.title: "Regional Pika Star"
