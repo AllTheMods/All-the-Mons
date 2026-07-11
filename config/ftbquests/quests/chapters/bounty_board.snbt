@@ -1305,18 +1305,6 @@
 					type: "kill"
 					value: 1L
 				}
-				{
-					entity: "variantsandventures:gelid"
-					id: "3938CDF8DF2C1766"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:thicket"
-					id: "3D59A3B7F940F8D0"
-					type: "kill"
-					value: 1L
-				}
 			]
 			x: -7.0d
 			y: -1.0d
@@ -1350,18 +1338,6 @@
 				{
 					entity: "minecraft:bogged"
 					id: "70FE879E07048556"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:murk"
-					id: "1F2F14A414E02FF8"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "variantsandventures:verdant"
-					id: "6E0C2317F20C947C"
 					type: "kill"
 					value: 1L
 				}

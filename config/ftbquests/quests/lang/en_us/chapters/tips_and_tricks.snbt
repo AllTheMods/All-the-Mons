@@ -31,8 +31,12 @@
 	quest.3FEFD0340A60DD5F.quest_subtitle: "Complete all tricks!"
 	quest.40708C304424C3FE.quest_desc: ["Too many unwanted &4Trainers&r? Get rid of them with the &4Trainer Repel Rod&r! \\n\\nNot sure of the area of Spawns it disables... it doesn't tell me. \\n\\nAtleast it doesn't prevent &4Trainer Spawners&r from working."]
 	quest.40708C304424C3FE.title: "&4Trainer Repel Rod"
-	quest.47043AF7D1FABC43.quest_desc: ["The &bEnchantment Extractor&r pulls the enchantments off an item and turns them into &dEnchanted Books&r. \\n\\nDrop an enchanted item in and it strips each enchantment out as its own book, so you can move them onto other gear or combine them. \\n\\nPair it with the &bEnchantment Applicator&r to put those books back onto whatever you like."]
-	quest.47043AF7D1FABC43.title: "&l&bEnchantment Extractor"
+	quest.47043AF7D1FABC43.quest_desc: [
+		"There's many ways to extract Enchantments from Items onto Books. This quest will focus on many of such methods.\\n\\n&cSuper Factory Manager&r: One of the cheapest ways I can think of to disenchant your gear, with no &aExperience&r cost whatsoever. Drop your Enchanted Item and a bunch of Books on a block of &5Obsidian&r, then make a falling &8Anvil&r land on top of the Enchanted Item and the Books.\\n\\n&6Draconic Evolution Disenchanter&r: This one lets you choose a specific enchantment from an Enchanted Item to move to a Book. Costs &aExperience&r."
+		"{@pagebreak}"
+		"&5&lApothic Enchanting Tomes&r: When used in an anvil, these will extract all enchantments from the Enchanted Item.\\nThe &8Tome of Scrapping&r only extracts half of the enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Superior Scrapping&r extracts all enchantments from the Item, destroying that item in the process.\\nThe &8Tome of Extraction&r extracts all enchantments from the Item, keeping the item in the process.\\nCheck out the &5&lApothic Enchanting&r chapter to learn more about how to infuse these Tomes.\\n\\n&bIndustrial Foregoing Enchantment Extractor&r: Recommended for automated disenchanting. Place an Enchanted Item and Books into the machine, and it will extract Enchantments from the Item. You can also have the enchantments be turned into &aEssence&r instead, if you prefer.\\n\\n&5Actually Additions Lens of Disenchanting&r: These Lens go into an Atomic Reconstructor. Throw an Enchanted Item and a single Book in front of the Laser that the Atomic Reconstructor emits, and it will separate a single Enchantment from the Item onto the Book"
+	]
+	quest.47043AF7D1FABC43.title: "&l&bDisenchanting Methods"
 	quest.58D3CBB518020833.quest_desc: ["I'm not listing all of these &cPoke&rBalls. \\n\\nAll of these &cPoke&rBalls will have a better chance at Catching a &cPokemon&r under certain circumstances. \\n\\nFrom the Wild &cPokemon's&r Stats, to time in Battle, to place in the World, to even time of day. All of these &cPoke&rBalls are unique in their own ways! \\n\\nMost if not under those circumstances, will only have a 1x Chance... UNLESS stated otherwise."]
 	quest.58D3CBB518020833.title: "&cBalls&r with a greater Catch rate"
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r adds &7Drawers&r that can hold several stacks of an item. These can be upgraded to hold even more stacks!\\n\\nThis is great for items you get a lot of, like Cobblestone or Seeds!"]
@@ -42,7 +46,7 @@
 	quest.620913A1FF09255F.title: "&cBalls&r that are thrown differently"
 	quest.637981B64BBE0D92.quest_desc: ["The &aCharging Station&r is a very helpful Early Game Block. \\n\\nIt is clearly used for charging Items. Either Pipe in Energy or use Furnace Fuel to make Energy in the form of FE. \\n\\nThen, you can put any Item that needs charging into the Right most Slot."]
 	quest.637981B64BBE0D92.title: "&l&aCharging Gadgets"
-	quest.6E17595887A051C2.quest_desc: ["&l&2Modded Minecraft&r introduces us to new Villager Professions! \\n\\nForge Hammer: &5Industrialist&r \\n\\nCharger: &bFluix Researcher&r \\n\\nAdvanced Beehive: &6Beekeeper&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nArcane Core: &dShady Wizard&r \\n\\nForagers Table: &aForager&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nEngineer's Workbench: &7Gunsmith&r \\nWhite Banner: &7Outfitter&r \\nEngineer's Circuit Workbench: &7Electrician&r \\nEngineer's Crafting Table: &7Machinist&r \\nTurntable: &7Structural Engineer&r \\n\\nCharging Station: &4Pressure Mechanic&r \\n\\nSaw: &8Carpenter&r"]
+	quest.6E17595887A051C2.quest_desc: ["&l&2Modded Minecraft&r introduces us to new Villager Professions! \\n\\nCharger: &bFluix Researcher&r \\n\\nAdvanced Beehive: &6Beekeeper&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nArcane Core: &dShady Wizard&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nEngineer's Workbench: &7Gunsmith&r \\nWhite Banner: &7Outfitter&r \\nEngineer's Circuit Workbench: &7Electrician&r \\nEngineer's Crafting Table: &7Machinist&r \\nTurntable: &7Structural Engineer&r \\n\\nCharging Station: &4Pressure Mechanic&r \\n\\nSaw: &8Carpenter&r\\n\\nPC: &cPoké Ma&rrt Trader\\n\\nHealing Machine: &dNurse&r"]
 	quest.6E17595887A051C2.title: "Mo' Professions"
 	quest.70B6C9409AE69284.quest_desc: ["The Nature's Compass gives you a list of biomes you can search for.\\n\\nSelect a biome, then hit 'Search.' You'll see some info in the top left, and the compass will point in the direction of the biome.\\n\\nThe Explorer's Compass works the same but works for structures, instead of biomes."]
 	quest.70B6C9409AE69284.quest_subtitle: "Helps Find Biomes/Structures"
@@ -58,6 +62,7 @@
 	task.0B0B4FE92ACE168D.title: "Balls that are thrown differently"
 	task.0D5203048B6E068C.title: "Trapped Trader Carpets"
 	task.14F7981692060FAA.title: "Can teach a new Pokemon new Tricks!"
+	task.279AB1DAAFD60C52.title: "Disenchantment Methods"
 	task.2F4F472A9D461347.title: "Job Sites"
 	task.3B1F1A7CAC8B7BC7.title: "Drawers"
 	task.3DC008A578A93CCF.title: "Tips and Tricks!"
