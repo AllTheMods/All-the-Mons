@@ -1,7 +1,7 @@
 {
 	quest.0591F84BFDE50BC2.quest_desc: ["A &6equipe do AllTheMods&r ou uma &2pessoa colaboradora da Comunidade&r criou esta missão para uso nos modpacks do AllTheMods.\\n\\nComo o Total dos pacotes do &6AllTheMods&r possui a licença de &eTodos os Direitos Reservados&r, nenhum pacote público que a &6equipe do AllTheMods&r não lançou pode usar esta missão sem permissão explícita.\\n\\nOcultamos esta missão intencionalmente; se estiver vendo isso, você está no modo de edição."]
-	quest.1E6F000000001199.quest_desc: ["As &5Ultrafenda Espacials&r se abrem sem aviso em &8O Outro&r, portais para a dimensão alienígena que as Ultracriaturas chamam de lar.\\n\\nAproximadamente uma vez por hora, uma fenda se forma e uma Ultracriatura surge como um chefe fortalecido de alto nível. Desgaste-a e capture-a antes que a fenda se feche. Não há santuário nem item de invocação - você simplesmente precisa estar lá quando o céu se abrir. Uma &dBola de Besta&r oferece as melhores chances."]
-	quest.1E6F000000001199.title: "&5Ultrafenda Espacials"
+	quest.1E6F000000001199.quest_desc: ["As &5Ultrafenda Espacial&r se abrem sem aviso em &8O Outro&r, portais para a dimensão alienígena que as Ultracriaturas chamam de lar.\\n\\nAproximadamente uma vez por hora, uma fenda se forma e uma Ultracriatura surge como um chefe fortalecido de alto nível. Desgaste-a e capture-a antes que a fenda se feche. Não há santuário nem item de invocação - você simplesmente precisa estar lá quando o céu se abrir. Uma &dBola Criatura&r oferece as melhores chances."]
+	quest.1E6F000000001199.title: "&5Ultrafenda Espacial"
 	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r é uma Ultracriatura que flutua como uma água-viva, considerada um parasita que se prende a um hospedeiro e distorce sua mente com veneno.\\n\\nFique atento a ela em uma Ultrafenda Espacial em O Outro e derrote-a quando emergir."]
 	quest.1E6F00000000119C.quest_subtitle: "Alola"
 	quest.1E6F00000000119C.title: "Nihilego"
