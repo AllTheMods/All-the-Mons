@@ -1,0 +1,568 @@
+{
+  "broadcastOnOpen": true,
+  "autoStartEvents": true,
+  "shinyChance": 0.002,
+  "minEventIntervalSeconds": 900,
+  "maxEventIntervalSeconds": 1200,
+  "eventDurationSeconds": 600,
+  "spawnRadiusMinBlocks": 20,
+  "spawnRadiusMaxBlocks": 60,
+  "bossLevel": 70,
+  "bossScale": 3.0,
+  "bossHpMultiplier": 40.0,
+  "ultraBeastHpMultipliers": {
+    "nihilego": 40.0,
+    "buzzwole": 40.0,
+    "pheromosa": 50.0,
+    "xurkitree": 40.0,
+    "celesteela": 40.0,
+    "kartana": 50.0,
+    "guzzlord": 40.0,
+    "stakataka": 40.0,
+    "blacephalon": 50.0,
+    "poipole": 40.0,
+    "naganadel": 40.0
+  },
+  "ultraBeastPool": [
+    "nihilego",
+    "buzzwole",
+    "pheromosa",
+    "xurkitree",
+    "celesteela",
+    "kartana",
+    "guzzlord",
+    "stakataka",
+    "blacephalon",
+    "poipole",
+    "naganadel"
+  ],
+  "ultraBeastMovesets": {
+    "nihilego": [
+      "power gem",
+      "foul play",
+      "thunder wave",
+      "dazzling gleam"
+    ],
+    "buzzwole": [
+      "lunge",
+      "hammer arm",
+      "stone edge",
+      "focus energy"
+    ],
+    "pheromosa": [
+      "high jump kick",
+      "triple axel",
+      "torment",
+      "poison jab"
+    ],
+    "xurkitree": [
+      "thunderbolt",
+      "dazzling gleam",
+      "solar beam",
+      "sunny day"
+    ],
+    "celesteela": [
+      "earthquake",
+      "acrobatics",
+      "heavy slam",
+      "autotomize"
+    ],
+    "kartana": [
+      "leaf blade",
+      "sacred sword",
+      "psycho cut",
+      "swords dance"
+    ],
+    "guzzlord": [
+      "lash out",
+      "heat crash",
+      "heavy slam",
+      "stockpile"
+    ],
+    "stakataka": [
+      "gyro ball",
+      "body press",
+      "magnet rise",
+      "sandstorm"
+    ],
+    "blacephalon": [
+      "dark pulse",
+      "solar beam",
+      "mind blown",
+      "calm mind"
+    ],
+    "poipole": [
+      "toxic",
+      "signal beam",
+      "nasty plot",
+      "venoshock"
+    ],
+    "naganadel": [
+      "signal beam",
+      "dark pulse",
+      "nasty plot",
+      "flamethrower"
+    ]
+  },
+  "ultraBeastHeldItems": {
+    "nihilego": "cobblemon:air_balloon",
+    "buzzwole": "cobblemon:zoom_lens",
+    "pheromosa": "cobblemon:wide_lens",
+    "xurkitree": "cobblemon:heat_rock",
+    "celesteela": "cobblemon:flying_gem",
+    "kartana": "cobblemon:razor_claw",
+    "guzzlord": "cobblemon:lagging_tail",
+    "stakataka": "cobblemon:iron_ball",
+    "blacephalon": "cobblemon:life_orb",
+    "poipole": "cobblemon:eviolite",
+    "naganadel": "cobblemon:life_orb"
+  },
+  "ultraBeastNatures": {
+    "nihilego": "timid",
+    "buzzwole": "adamant",
+    "pheromosa": "adamant",
+    "xurkitree": "timid",
+    "celesteela": "jolly",
+    "kartana": "jolly",
+    "guzzlord": "adamant",
+    "stakataka": "impish",
+    "blacephalon": "timid",
+    "poipole": "bold",
+    "naganadel": "timid"
+  },
+  "ultraBeastEvs": {
+    "nihilego": {
+      "defence": 252,
+      "special_attack": 6,
+      "speed": 252
+    },
+    "buzzwole": {
+      "hp": 6,
+      "attack": 252,
+      "special_defence": 252
+    },
+    "pheromosa": {
+      "attack": 252,
+      "defence": 129,
+      "special_defence": 129
+    },
+    "xurkitree": {
+      "hp": 6,
+      "special_attack": 252,
+      "speed": 252
+    },
+    "celesteela": {
+      "attack": 252,
+      "special_defence": 6,
+      "speed": 252
+    },
+    "kartana": {
+      "hp": 6,
+      "attack": 252,
+      "speed": 252
+    },
+    "guzzlord": {
+      "attack": 6,
+      "defence": 252,
+      "special_defence": 252
+    },
+    "stakataka": {
+      "hp": 252,
+      "defence": 252,
+      "special_defence": 6
+    },
+    "blacephalon": {
+      "hp": 6,
+      "special_attack": 252,
+      "speed": 252
+    },
+    "poipole": {
+      "hp": 252,
+      "defence": 129,
+      "special_defence": 129
+    },
+    "naganadel": {
+      "hp": 6,
+      "special_attack": 252,
+      "speed": 252
+    }
+  },
+  "rewardPromptTimeoutSeconds": 30,
+  "postDefeatCloseDelaySeconds": 10,
+  "ultraBeastRewards": {
+    "nihilego": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:rock_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "buzzwole": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:bug_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "pheromosa": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:bug_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "xurkitree": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:electric_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "celesteela": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:steel_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "kartana": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:grass_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "guzzlord": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:dark_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "stakataka": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:rock_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "blacephalon": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:fire_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "poipole": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:poison_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    },
+    "naganadel": {
+      "guaranteedRewards": [
+        {
+          "itemId": "cobblemon:poison_gem",
+          "minCount": 1,
+          "maxCount": 1
+        },
+        {
+          "itemId": "cobblemon:exp_candy_l",
+          "minCount": 2,
+          "maxCount": 4
+        }
+      ],
+      "chanceRewards": [
+        {
+          "chance": 0.12,
+          "itemId": "minecraft:echo_shard",
+          "minCount": 1,
+          "maxCount": 2
+        },
+        {
+          "chance": 0.2,
+          "itemId": "minecraft:diamond",
+          "minCount": 2,
+          "maxCount": 4
+        },
+        {
+          "chance": 0.5,
+          "itemId": "minecraft:gold_ingot",
+          "minCount": 12,
+          "maxCount": 16
+        }
+      ]
+    }
+  }
+}
