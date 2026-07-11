@@ -1,5 +1,13 @@
 {
+	quest.01D725FDE3EE2334.quest_subtitle: "Capture todos os Pokémon de Hisui"
+	quest.03F291F815FBF85A.quest_subtitle: "Fabrique a Estrela Pika de Galar"
+	quest.0461FE9EE7BD285B.quest_subtitle: "Fabrique a Estrela Pika de Hoenn"
+	quest.06CA9BE39EFE5EBD.quest_subtitle: "Fabrique a Estrela Pika de Sinnoh"
+	quest.0B05185B65E41DEA.quest_subtitle: "Fabrique a Estrela Pika de Paldea"
+	quest.0D8C93346B6F70C1.quest_subtitle: "Fabrique a Estrela Pika de Alola"
+	quest.1965AE47C27D8385.quest_subtitle: "Fabrique a Estrela Pika de Johto"
 	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r cruzando um &3Ditto&r com um &ePatrickyu&r segurando uma &7Pedra da Eternidade."]
+	quest.1B56BAFE94A1F83D.quest_subtitle: "Capture todos os Pokémon de Sinnoh"
 	quest.279FADB5CBA260D7.quest_desc: [
 		"Para fabricar uma &dEstrela Pika regional&r você precisa:"
 		""
@@ -30,6 +38,8 @@
 		"{image:atm:textures/questpics/allthemons/pika_star_ritual.png width:200 height:200 align:center}"
 	]
 	quest.2DBB88E1C147F496.title: "Estrela Pika Libertada"
+	quest.3375020AEADFCFF1.quest_subtitle: "Fabrique a Estrela Pika de Kalos"
+	quest.369F898BF46729E0.quest_subtitle: "Capture todos os Pokémon de Alola"
 	quest.3B7A4929A1FCFFC6.quest_desc: [
 		"Como ler as receitas do &5Altar&r no JEI:"
 		""
@@ -45,8 +55,15 @@
 		""
 		"{image:atm:textures/questpics/allthemons/ritual_recipe.png width:181 height:160 align:center}"
 	]
-	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &eEstrela Pikas &cregionais."]
-	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &eEstrela Pika &cregional."]
+	quest.4D4F8B4FF05E410E.quest_subtitle: "Capture todos os Pokémon de Hoenn"
+	quest.531A0EC04A6A8D5D.quest_subtitle: "Capture todos os Pokémon de Paldea"
+	quest.5A94E168B6362E43.quest_subtitle: "Fabrique a Estrela Pika de Unova"
+	quest.6251C22782FE194E.quest_subtitle: "Fabrique a Estrela Pika de Hisui"
+	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &eEstrela Pikas &cRegionais&r."]
+	quest.6A2810DEDC54A414.quest_subtitle: "Fabrique a Estrela Pika Regional de Kanto"
+	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &eEstrela Pika &cRegional&r."]
+	quest.72FB20982A2940BF.quest_subtitle: "Capture todos os Pokémon de Kanto"
+	quest.7793F96BA31494F9.quest_subtitle: "Capture todos os Pokémon de Unova"
 	quest.7A0693A3016549F6.quest_desc: [
 		"Cada caminho que você já percorreu - cada porção de grama alta afastada, cada Poké Bola lançada no escuro - guiou até aqui. A &dShiny Pika Star&r não é simplesmente fabricada. Ela é &oconquistada&r, e então invocada, no maior ritual que o mundo já presenciou."
 		""
@@ -64,7 +81,11 @@
 		""
 		"&7* Kurt é um Aldeão &6Comerciante do PokéMart&r renomeado para &6Kurt&r com uma Etiqueta - mantenha-o a poucos blocos do altar.&r"
 	]
+	quest.7A0693A3016549F6.quest_subtitle: "Capture TODOS os Pokémon"
 	quest.7A0693A3016549F6.title: "Estrela Pika Brilhante"
+	quest.7B01BCEFF45C59EE.quest_subtitle: "Capture todos os Pokémon de Galar"
+	quest.7D90A2C2869F8FC7.quest_subtitle: "Capture todos os Pokémon de Kalos"
+	quest.7EF5684946CC1B3A.quest_subtitle: "Capture todos os Pokémon de Johto"
 	task.0C959B11B37F53C6.title: "Como usar o Altar"
 	task.37F598DD9EEE414F.title: "Create: Sand Papers"
 	task.53851DD297E86E63.title: "Estrela Pika Regional"
