@@ -37,7 +37,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["64CC314ECC49B92A"]
+			dependencies: ["0D8C93346B6F70C1"]
 			hide_dependent_lines: true
 			icon: {
 				id: "cobblemon:beast_ball"

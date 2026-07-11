@@ -259,7 +259,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["64CC314ECC49B92A"]
+			dependencies: ["0B05185B65E41DEA"]
 			icon: {
 				id: "allthemons:pika_star_chunk"
 			}

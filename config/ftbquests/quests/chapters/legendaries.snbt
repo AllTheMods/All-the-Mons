@@ -30,7 +30,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["64CC314ECC49B92A"]
+			dependencies: ["279FADB5CBA260D7"]
 			icon: {
 				id: "allthemons:deoxys_crystal"
 			}
