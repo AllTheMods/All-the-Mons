@@ -17,6 +17,9 @@
 	quest.0FEAD3CA2CC4A8B1.title: "Tier 3 Starlight Charger Catalyst"
 	quest.11B0B93D725ABE43.quest_desc: ["Silent Gear gear can be repaired using a &9Repair Kit&r.\\n\\nTo repair an item, place the Repair Kit into a crafting grid, then place the materials needed to repair the tool in with it. This will \"fill\" the Repair Kit.\\n\\nTo repair the tool, combine the filled Repair Kit with the tool you'd like to repair in a crafting grid."]
 	quest.11B0B93D725ABE43.quest_subtitle: "No Anvils required"
+	quest.1290A26F44659212.quest_desc: ["Some metals, such as &6Allthemodium&r have a melting point that regular &cLava&r cannot reach. Instead, you'll need the increased heat &9Soul Lava&r provides.\\n\\nRegular &cLava&r provides up to 1000 C of heat, while &9Soul Lava&r provides 3000 C."]
+	quest.1290A26F44659212.quest_subtitle: "When the Lava is not hot enough"
+	quest.1290A26F44659212.title: "&9Soul Lava"
 	quest.158B24939A269D83.quest_desc: ["The Tip Upgrade is used to increase the mining level of a tool.\\n\\nFor example: If you have an Iron Pickaxe, with 1 Diamond, you can make a Diamond Tip Upgrade, and place it on your pickaxe. This will allow it to mine Obsidian, as well as give it a stat boost."]
 	quest.158B24939A269D83.quest_subtitle: "For when you don't find 3 Diamonds"
 	quest.2156C00E30424844.quest_desc: ["&4Tanks&r are made for adding Liquids into our &c&lFoundry&r. \\n\\nMostly Fuel. \\n\\nMostly &cLava&r! \\n\\nThat appears to be one of the only ways to actually Fuel the &c&lFoundry&r."]
@@ -52,6 +55,8 @@
 	quest.462C1F75A2FB9F02.quest_subtitle: "Where's Willy?"
 	quest.48D358470A019E7A.title: "Tier 1 Starlight Charger Catalyst"
 	quest.52CDB46F6CBF007B.quest_subtitle: "Are you digging this?"
+	quest.571EE70FCB4D999F.quest_desc: ["Don't want to use &cLava&r for your &c&lFoundry&r? Then use &4FE&r instead.\\n\\nYou'll need &4Capacitors&r instead of &4Tanks&r, as well as &4Powered&r or &9High Powered&r &6Heating Coils&r instead of &6Liquid Heating Coils&r.\\n\\n&4Powered&r &6Heating Coils&r are only capable of producing the same heat as &cLava&r (1000 C), while &9High Powered&r &6Heating Coils&r are capable of producing the same heat as &9Soul Lava&r as well (3000 C)."]
+	quest.571EE70FCB4D999F.title: "&4Electric &l&cFoundry"
 	quest.63CAD77A4488F2CE.quest_subtitle: "Pickaxe + Axe + Shovel"
 	quest.657B3116A6419420.quest_subtitle: "Your own Handle!"
 	quest.67216EC5274F08B9.quest_subtitle: "Used by Shear-perds"
@@ -78,5 +83,6 @@
 	task.51297F6E0D9BB58C.title: "Any #productivemetalworks:foundry_tanks"
 	task.55E0635973A828B0.title: "AllRightsReserved"
 	task.6D9DBD885FE4C94C.title: "AllRightsReserved"
+	task.74A964DE0E47BAC3.title: "Any #productivemetalworks:foundry_capacitors"
 	task.76E296A2AD3EFE92.title: "Any #productivemetalworks:foundry_controllers"
 }

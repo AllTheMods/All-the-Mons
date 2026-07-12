@@ -2413,5 +2413,65 @@
 			x: 3.5d
 			y: 1.5d
 		}
+		{
+			dependencies: ["26F9DB31A835B69C"]
+			disable_toast: true
+			icon: {
+				id: "productivemetalworks:black_foundry_capacitor"
+			}
+			id: "571EE70FCB4D999F"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "2A441975E382FBA9"
+				item: {
+					count: 1
+					id: "productivemetalworks:black_foundry_capacitor"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "74A964DE0E47BAC3"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(productivemetalworks:foundry_capacitors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "4EC4D8533D529582"
+					item: { count: 1, id: "productivemetalworks:powered_heating_coil" }
+					type: "item"
+				}
+				{
+					id: "614C2389FE8194D4"
+					item: { count: 1, id: "productivemetalworks:high_powered_heating_coil" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26F9DB31A835B69C"]
+			id: "1290A26F44659212"
+			optional: true
+			rewards: [{
+				id: "3D5FF51060DD2626"
+				item: {
+					count: 1
+					id: "allthemodium:soul_lava_bucket"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "202E88BEE8573F5D"
+				item: { count: 1, id: "allthemodium:soul_lava_bucket" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
 	]
 }

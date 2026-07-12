@@ -386,7 +386,7 @@
 			]
 			tasks: [{
 				id: "279AB1DAAFD60C52"
-				item: { count: 1, id: "industrialforegoing:enchantment_extractor" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:anvil)item(draconicevolution:disenchanter)item(actuallyadditions:lens_of_disenchanting)item(industrialforegoing:enchantment_extractor)item(apothic_enchanting:scrap_tome)item(apothic_enchanting:improved_scrap_tome)item(apothic_enchanting:extraction_tome))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 1.5d
