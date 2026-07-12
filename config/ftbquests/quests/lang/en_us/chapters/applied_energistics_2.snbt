@@ -245,6 +245,9 @@
 		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=3htUhkDYbJ8\"},\"color\":\"blue\",\"text\":\"AE2 Guide Video by BucketSt\",\"underlined\":true}"
 		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLz9AkOmMlH1lI4H3GeBQ3VzEKlcDDNO8_\"},\"color\":\"blue\",\"text\":\"AE2 Guide Playlist by The MindCrafters\",\"underlined\":true}"
 		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=2_s1srWvq20\"},\"color\":\"blue\",\"text\":\"Advanced AE Guide by The MindCrafters\",\"underlined\":true}"
+		"&6&lPT-BR:&r"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=SyU2B2V4XL4\"},\"color\":\"blue\",\"text\":\"Complete AE2 Guide by Danrique\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=qIV2BhU2Fh0\"},\"color\":\"blue\",\"text\":\"AE2 Automatic Craft Guide by Danrique\",\"underlined\":true}"
 	]
 	quest.7EFBAF3E281D2EBE.quest_desc: [
 		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME. "
