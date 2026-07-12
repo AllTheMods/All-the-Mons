@@ -1,7 +1,24 @@
 {
-  "translation.justenoughbreeding.breeding": "Acasalamento",
-  "translation.justenoughbreeding.tamed": "Domado",
-  "translation.justenoughbreeding.trusting": "Confiante",
+  "emi.category.justenoughbreeding.allay_duplication": "Duplicação de Allay",
   "emi.category.justenoughbreeding.breeding": "Acasalamento",
-  "modmenu.descriptionTranslation.justenoughbreeding": "Plugin para JEI/REI/EMI que exibe informações de acasalamento"
+  "emi.category.justenoughbreeding.taming": "Domesticação",
+  "emi.category.justenoughbreeding.temper": "Temperamento",
+  "emi.category.justenoughbreeding.trusting": "Confiante",
+  "emi.category.justenoughbreeding.transformation": "Transformation",
+  "modmenu.descriptionTranslation.justenoughbreeding": "Plugin para JEI/REI/EMI que exibe informações de acasalamento",
+  "translation.justenoughbreeding.allay_duplication": "Duplicação de Allay",
+  "translation.justenoughbreeding.breeding": "Acasalamento",
+  "translation.justenoughbreeding.tamed": "Domesticado",
+  "translation.justenoughbreeding.taming": "Domesticação",
+  "translation.justenoughbreeding.temper": "Temper",
+  "translation.justenoughbreeding.trusting": "Confiante",
+  "translation.justenoughbreeding.transformation": "Transformação",
+  "option.justenoughbreeding.hide_options": "Ocultar opções",
+  "option.justenoughbreeding.show_options": "Exibir opções",
+  "option.justenoughbreeding.move_left": "Mover para a esquerda",
+  "option.justenoughbreeding.move_right": "Mover para a direita",
+  "option.justenoughbreeding.move_up": "Mover para cima",
+  "option.justenoughbreeding.move_down": "Mover para baixo",
+  "option.justenoughbreeding.increase_scale": "Aumentar tamanho",
+  "option.justenoughbreeding.decrease_scale": "Diminuir tamanho"
 }
