@@ -119,6 +119,8 @@
 	quest.30E853CE699E669B.title: "&eArmazenamento de &zFabricação"
 	quest.3195A7AA874163CD.quest_desc: ["O &bCartão de Distribuição Igualitária&r é uma melhoria para células de armazenamento que pré-aloca uma certa quantidade de itens que pode ser ocupada por qualquer tipo individual.\\n\\nEste comportamento é comparável a algo como uma &6Functional Storage Gaveta&r, onde cada compartimento contém um número definido de pilhas, em oposição a permitir que itens de um compartimento vazem para os outros e expulsem outros tipos de itens."]
 	quest.3195A7AA874163CD.quest_subtitle: "Organização nível TOC desbloqueada!"
+	quest.332A3C7BA261DBFC.quest_desc: ["Usar uma &eVarinha de Radiestesia&r do &dArs Nouveau&r ajudará a encontrar a localização exata de um &eMeteorito&r após você ter usado a &eBússola de Meteorito&r para encontrar sua localização geral."]
+	quest.332A3C7BA261DBFC.quest_subtitle: "Para mais precisão"
 	quest.33ADE41526C39AFD.quest_desc: ["Este comportamento é comparável a algo como um Functional Storage Gaveta, onde cada compartimento contém um número definido de pilhas, em oposição a permitir que itens de um compartimento vazem para os outros e expulsem outros tipos de itens."]
 	quest.33ADE41526C39AFD.quest_subtitle: "Não quero mais!"
 	quest.361CCBD353D6FF34.quest_desc: [
@@ -160,7 +162,7 @@
 	quest.4E8A05C3BFA80540.quest_subtitle: "Itens como um sistema de arquivos"
 	quest.4E8A05C3BFA80540.title: "O Armazenamento"
 	quest.5034A9137E0F3D3D.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
-	quest.51236544BFEF487B.quest_desc: ["É hora de encontrar &eMeteoritos&r que contêm &bPedra do Céu&r. Eles podem estar na superfície ou no subsolo e contêm um &bCubo Misterioso&r em seu centro.\\n\\nEste cubo contém todas as diferentes &ePrensas&r usadas no Inscritor para fazer os componentes de fabricação especiais do AE2.\\n\\nA maneira mais fácil de localizar um meteorito é fabricando uma &eBússola de Meteorito&r, colocando uma bússola dentro de um Carregador."]
+	quest.51236544BFEF487B.quest_desc: ["É hora de encontrar &eMeteoritos&r que contêm &bPedra do Céu&r. Eles são encontrados enterrados no subsolo, normalmente perto da superfície, e contêm um &bCubo Misterioso&f no centro.\\n\\nEste cubo contém todas as diferentes &ePrensas&r usadas no Inscritor para fazer os componentes especiais de fabricação do AE2.\\n\\nA maneira mais fácil de localizar um meteorito é fabricar uma &eBússola de Meteorito&r colocando uma bússola dentro de um Carregador."]
 	quest.51236544BFEF487B.quest_subtitle: "'GIBI #42: procurando por bobby [Fischer]'"
 	quest.51236544BFEF487B.title: "&8&lCaça a Meteoritos"
 	quest.51A57E142C686C8F.quest_desc: ["O quinto e último Tier &5MEGA&r de Componente de Armazenamento, fornecendo &e268435456&r (262144k) bytes de armazenamento."]
@@ -260,6 +262,16 @@
 	quest.79D2617E01481281.title: "&bQuartzo Certus"
 	quest.7B7D1F0CB326B28F.quest_desc: ["A &bPorto de E/S para Itens e Fluidos&r permite que o conteúdo do armazenamento de uma Rede ME seja rapidamente rearranjado entre diferentes mídias de armazenamento, como células ME e contêineres externos conectados a Pontos de armazenamento.\\n\\nQuando uma célula é inserida em um slot de entrada à esquerda, a Porto de E/S para Itens e Fluidos pode ser alternada para esvaziar a célula em outros ME Storages ou preencher a célula (idealmente, particionada) com certos itens espalhados por outros armazenamentos."]
 	quest.7B7D1F0CB326B28F.quest_subtitle: "Desfragmentação"
+	quest.7C40F1963FC5BF65.quest_desc: [
+		"Aqui estão alguns guias adicionais do AE2 além do guia oficial do AE2 e do guia no jogo."
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://allthemods.github.io/alltheguides/mods/ae2/\"},\"color\":\"blue\",\"text\":\"Guia do AE2 do AllTheGuides\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=3htUhkDYbJ8\"},\"color\":\"blue\",\"text\":\"Vídeo Guia do AE2 por BucketSt\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLz9AkOmMlH1lI4H3GeBQ3VzEKlcDDNO8_\"},\"color\":\"blue\",\"text\":\"Playlist Guia do AE2 por The MindCrafters\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=2_s1srWvq20\"},\"color\":\"blue\",\"text\":\"Guia Avançado do AE por The MindCrafters\",\"underlined\":true}"
+		"&6&lPT-BR:&r"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=SyU2B2V4XL4\"},\"color\":\"blue\",\"text\":\"Guia Completo do AE2 por Danrique\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=qIV2BhU2Fh0\"},\"color\":\"blue\",\"text\":\"Guia Craft Automático do AE2 por Danrique\",\"underlined\":true}"
+	]
 	quest.7EFBAF3E281D2EBE.quest_desc: [
 		"O &aPonto de Armazenamento&r, quando voltado para algum contêiner de armazenamento externo, permitirá que o contêiner seja usado como se fizesse parte da Rede ME, permitindo que itens sejam retirados do contêiner ou inseridos nele puramente via ME. "
 		""
@@ -271,6 +283,7 @@
 	task.1076BC82EECB73F5.title: "Chaves de Quartzo"
 	task.14DEFFB80CC96BC1.title: "Cabo ME Denso Coberto"
 	task.23D186249A999B8C.title: "Facas de Corte de Quartzo"
+	task.2923D1E2BEAF94B0.title: "Guias Adicionais"
 	task.338A6DA0D711B7DC.title: "Provedor de Padrões"
 	task.38E290AC5E011888.title: "Cabo ME Denso Inteligente"
 	task.408C5263C4664195.title: "Baús"
