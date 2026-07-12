@@ -18,6 +18,8 @@
   "block.modularbees.modular_centrifuge_import": "Escotilha de Importação da Centrífuga",
   "block.modularbees.modular_centrifuge_heater": "Aquecedor da Centrífuga",
   "block.modularbees.modular_centrifuge_gearbox": "Caixa de Engrenagens da Centrífuga",
+  "block.modularbees.me_beehive_export": "Escotilha de Exportação ME de Colmeia",
+  "block.modularbees.me_centrifuge_export": "Escotilha de Exportação ME de Centrífuga",
   "block.modularbees.bee_extractor": "Extrator de Abelha",
   "item.modularbees.electrode_copper": "Eletrodo de Cobre",
   "item.modularbees.electrode_iron": "Eletrodo de Ferro",
@@ -45,6 +47,12 @@
   "modularbees.gui.modular_beehive_alveary.solitary": "Abelha solitária não pode viver na colmeia.",
   "modularbees.gui.modular_beehive_alveary.child": "Abelha filhote não pode viver no apiário.",
   "modularbees.gui.modular_beehive_alveary.no_food": "Faltando flor",
+  "modularbees.gui.me_export.filter_enable": "Filtro Habilitado",
+  "modularbees.gui.me_export.filter_disable": "Filtro Desabilitado",
+  "modularbees.gui.me_export.whitelist": "Modo Lista Branca",
+  "modularbees.gui.me_export.blacklist": "Modo Lista Negra"
   "modularbees.jei.treater_boost": "Produtividade +%s",
-  "modularbees.jei.overclocker_boost": "Velocidade x%s"
+  "modularbees.jei.overclocker_boost": "Velocidade x%s",
+  "config.jade.plugin_modularbees.grid_node_state": "Estado de Rede do AE2 (ModularBees)",
+  "config.jade.plugin_modularbees.power_storage": "Estado de Energia do AE2 (ModularBees)"
 }

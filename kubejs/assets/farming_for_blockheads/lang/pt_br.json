@@ -35,7 +35,7 @@
   "farmingforblockheads.configuration.feedingTroughRange": "Alcance do Comedouro",
   "farmingforblockheads.configuration.feedingTroughRange.tooltip": "O alcance no qual os animais podem ser alimentados pelo comedouro.",
   "farmingforblockheads.configuration.feedingTroughMaxAnimals": "Máximo de Animais no Comedouro",
-  "farmingforblockheads.configuration.feedingTroughMaxAnimals.tooltip": "A quantidade máxima de animais (por tipo) até que o comedouro pare de alimentar.",
+  "farmingforblockheads.configuration.feedingTroughMaxAnimals.tooltip": "A quantidade máxima de animais (por tipo) antes da qual o comedouro para de alimentar..",
   "farmingforblockheads.configuration.chickenNestRange": "Alcance do Ninho de Galinha",
   "farmingforblockheads.configuration.chickenNestRange.tooltip": "O alcance no qual o ninho de galinha coleta os ovos botados.",
   "farmingforblockheads.configuration.fertilizerBonusCropChance": "Chance de Bônus de Colheita do Fertilizante Verde",

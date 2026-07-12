@@ -26,7 +26,7 @@
   "cobblemon_quests.task.pokemon_types.tooltip": "Os tipos permitidos de Pokémon (Fogo, Água, Grama, etc.)",
   "cobblemon_quests.task.regions.tooltip": "As regiões permitidas do Pokémon (Kanto, Johto, Hoenn, etc.)",
   "cobblemon_quests.task.pokeballs.tooltip": "A Poké Bola com a qual o Pokémon em questão foi ou precisa ser capturado.",
-  "cobblemon_quests.task.dimensions.tooltip": "As dimensões em que o jogador deve estar para completar a tarefa. (Mundo Superior, Nether, O End)",
+  "cobblemon_quests.task.dimensions.tooltip": "As dimensões em que o jogador deve estar para completar a tarefa. (Superfície, O Nether, O End)",
   "cobblemon_quests.task.biomes.tooltip": "Os biomas em que o jogador deve estar para completar a tarefa.",
   "cobblemon_quests.task.time_min.tooltip": "O horário mínimo do dia para o jogador completar a tarefa. (inclusivo)",
   "cobblemon_quests.task.time_max.tooltip": "O horário máximo do dia para o jogador completar a tarefa. (não inclusivo)",
