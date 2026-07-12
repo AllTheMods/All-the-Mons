@@ -25,5 +25,7 @@
     "command.colorwheel.fallback_mode.get.on": "O modo de reserva está ativado",
     "command.colorwheel.fallback_mode.get.off": "O modo de reserva está desativado",
     "command.colorwheel.fallback_mode.set.on": "O modo de reserva agora está ativado. Aqui há dragões!",
-    "command.colorwheel.fallback_mode.set.off": "O modo de reserva agora está desativado"
+    "command.colorwheel.fallback_mode.set.off": "O modo de reserva agora está desativado",
+
+    "colorwheel.click_here": "clique aqui"
 }

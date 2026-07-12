@@ -76,8 +76,8 @@
   "fakeplayer.mob_masher": "Triturador de Mobs",
 
   "_comment": "Spike Damage",
-  "death.attack.spikes": "%1$s foi empalado em espinhos.",
-  "death.attack.spikes.player": "%1$s foi empalado em espinhos %2$s.",
+  "death.attack.spikes": "%1$s se empalou em espinhos",
+  "death.attack.spikes.player": "%2$s empalou %1$s em espinhos",
 
   "_comment": "Block Tool tips",
   "block.mob_grinding_utils.fan.tooltip_1": "Empurra Mobs na direção frontal.",

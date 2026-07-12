@@ -65,6 +65,12 @@
   "message.rftoolsbuilder.red_shield_template_block.header": "Este bloco pode ser usado para construir um escudo. O conjunto de blocos de modelo com a mesma cor deve tocar o projetor de escudo",
   "message.rftoolsbuilder.green_shield_template_block.header": "Este bloco pode ser usado para construir um escudo. O conjunto de blocos de modelo com a mesma cor deve tocar o projetor de escudo",
   "message.rftoolsbuilder.yellow_shield_template_block.header": "Este bloco pode ser usado para construir um escudo. O conjunto de blocos de modelo com a mesma cor deve tocar o projetor de escudo",
+  "block.rftoolsbuilder.composer": "Compositor",
+  "block.rftoolsbuilder.projector": "Projetor",
+  "block.rftoolsbuilder.scanner": "Scanner",
+
+  "message.rftoolsbuilder.composer.header": "Esta máquina combina cartões de forma em um um cartão de composição e permite que você gire, vire e aplique operações booleanas a cada forma associada",
+  "message.rftoolsbuilder.composer.gold": "Bônus de infusão: consumo de energia reduzido",
 
   "message.rftoolsbuilder.space_chamber_controller.header": "Este bloco é um dos oito cantos de uma área do espaço que você deseja copiar/mover para outro lugar. Os outros cantos devem ser blocos de câmara espacial normais",
   "message.rftoolsbuilder.space_chamber_controller.channel": "Canal: ",

@@ -138,6 +138,7 @@
   "key.constructionstick.change_upgrade": "Alternar Melhoria",
   "key.constructionstick.open_gui": "Abrir Opções da Vara",
   "key.constructionstick.show_previous": "Mostrar Anterior",
+  "key.constructionstick.toggle_random": "Alternar Aleatório",
   "key.constructionstick.undo": "Desfazer Operação",
   "stat.constructionstick.use_stick": "Blocos colocados usando Vara"
 }

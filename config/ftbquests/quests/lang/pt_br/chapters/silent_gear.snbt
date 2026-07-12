@@ -17,6 +17,9 @@
 	quest.0FEAD3CA2CC4A8B1.title: "Catalisador de Carregador de Luz Estelar Nível 3"
 	quest.11B0B93D725ABE43.quest_desc: ["O equipamento do Silent Gear pode ser reparado usando um &9Kit de Reparo&r.\\n\\nPara reparar um item, coloque o Kit de Reparo em uma grade de criação e, em seguida, coloque os materiais necessários para reparar a ferramenta junto com ele. Isso irá \"encher\" o Kit de Reparo.\\n\\nPara reparar a ferramenta, combine o Kit de Reparo cheio com a ferramenta que você gostaria de reparar em uma grade de criação."]
 	quest.11B0B93D725ABE43.quest_subtitle: "Não são necessárias Bigornas"
+	quest.1290A26F44659212.quest_desc: ["Alguns metais, como o &6Allthemodium&r, têm um ponto de fusão que a &cLava&r comum não consegue alcançar. Em vez disso, você precisará do calor aumentado que a &9Lava da Alma&r fornece.\\n\\nA &cLava&r comum fornece até 1000 C de calor, enquanto a &9Lava da Alma&r fornece 3000 C."]
+	quest.1290A26F44659212.quest_subtitle: "Quando a Lava não for quente o suficiente"
+	quest.1290A26F44659212.title: "&9Lava da Alma"
 	quest.158B24939A269D83.quest_desc: ["A Melhoria de Ponta é usada para aumentar o nível de mineração de uma ferramenta.\\n\\nPor exemplo: Se você tem uma Picareta de Ferro, com 1 Diamante, você pode fazer uma Melhoria de Ponta de Diamante e colocá-la na sua picareta. Isso permitirá que ela mine Obsidiana, além de dar um aumento de status."]
 	quest.158B24939A269D83.quest_subtitle: "Para quando você não encontra 3 Diamantes"
 	quest.2156C00E30424844.quest_desc: ["Os &4Tanques&r são feitos para adicionar líquidos à nossa &c&lFundição&r. \\n\\nPrincipalmente combustível. \\n\\nPrincipalmente &cLava&r! \\n\\nEssa parece ser uma das únicas maneiras de realmente abastecer a &c&lFundição&r."]
@@ -52,6 +55,8 @@
 	quest.462C1F75A2FB9F02.quest_subtitle: "Cadê o Willy?"
 	quest.48D358470A019E7A.title: "Catalisador de Carregador de Luz Estelar Tier 1"
 	quest.52CDB46F6CBF007B.quest_subtitle: "Você está cavando isso?"
+	quest.571EE70FCB4D999F.quest_desc: ["Não quer usar &cLava&r em sua &c&lFundição&r? Então, use &4FE&r.\\n\\nVocê precisará de &4Capacitores&r em vez de &4Tanques&r, assim como &6Bobinas de Aquecimento&r &4Elétricas&r ou de &9Alta Potência&r em vez de &6Bobinas de Aquecimento Líquido&r.\\n\\nAs &6Bobinas de Aquecimento&r &4Elétricas&r são capazes de produzir apenas o mesmo calor que a &cLava&r (1000 C), enquanto as &6Bobinas de Aquecimento&r de &9Alta Potência&r são capazes de produzir o mesmo calor que a &9Lava da Alma&r (3000 C)."]
+	quest.571EE70FCB4D999F.title: "&l&cFundição &4Elétrica"
 	quest.63CAD77A4488F2CE.quest_subtitle: "Picareta + Machado + Pá"
 	quest.657B3116A6419420.quest_subtitle: "Sua Própria Alça!"
 	quest.67216EC5274F08B9.quest_subtitle: "Usado por Tosquiadores-pastores"
@@ -78,5 +83,6 @@
 	task.51297F6E0D9BB58C.title: "Qualquer #productivemetalworks:foundry_tanks"
 	task.55E0635973A828B0.title: "TodosOsDireitosReservados"
 	task.6D9DBD885FE4C94C.title: "TodosOsDireitosReservados"
+	task.74A964DE0E47BAC3.title: "Qualquer #productivemetalworks:foundry_capacitors"
 	task.76E296A2AD3EFE92.title: "Qualquer #productivemetalworks:foundry_controllers"
 }

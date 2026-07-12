@@ -85,9 +85,9 @@
 
     "info.apotheosis.affix_item": "Item de afixo apótico",
 
-    "death.attack.apotheosis:execute": "%s foi executado por %s",
-    "death.attack.apotheosis:execute.item": "%s foi executado por %s usando %s",
-    "death.attack.apotheosis:execute.player": "%s foi executado por %s",
+    "death.attack.apotheosis:execute": "%2$s executou %1$s",
+    "death.attack.apotheosis:execute.item": "%2$s executou %1$s usando %s",
+    "death.attack.apotheosis:execute.player": "%2$s executou %1$s",
 
     "misc.apotheosis.affix_name.two": "%2$s %1$s",
     "misc.apotheosis.affix_name.three": "%2$s %1$s %3$s",
@@ -907,30 +907,30 @@
     "text.apotheosis.equipped": "Equipado",
 
     "item.apotheosis.music_disc_flash": "Disco Musical",
-    "jukebox_song.apotheosis.flash": "Renren - Relâmpago",
-    "subtitle.apotheosis.music_disc.flash": "Renren - Relâmpago",
+    "jukebox_song.apotheosis.flash": "Renren - Flash",
+    "subtitle.apotheosis.music_disc.flash": "Renren - Flash",
 
     "item.apotheosis.music_disc_glimmer": "Disco Musical",
-    "jukebox_song.apotheosis.glimmer": "Caner Crebes - Brilho",
-    "subtitle.apotheosis.music_disc.glimmer": "Caner Crebes - Brilho",
+    "jukebox_song.apotheosis.glimmer": "Caner Crebes - Glimmer",
+    "subtitle.apotheosis.music_disc.glimmer": "Caner Crebes - Glimmer",
 
     "item.apotheosis.music_disc_shimmer": "Disco Musical",
-    "jukebox_song.apotheosis.shimmer": "Camareiro Kaifry - Cintilar",
-    "subtitle.apotheosis.music_disc.shimmer": "Camareiro Kaifry - Cintilar",
+    "jukebox_song.apotheosis.shimmer": "Camareiro Kaifry - Shimmer",
+    "subtitle.apotheosis.music_disc.shimmer": "Camareiro Kaifry - Shimmer",
 
-    "painting.apotheosis.gems.title": "Gemas",
+    "painting.apotheosis.gems.title": "Gems",
     "painting.apotheosis.gems.author": "Faellynna",
 
-    "painting.apotheosis.craig.title": "Craig o Eterno",
+    "painting.apotheosis.craig.title": "Craig the Eternal",
     "painting.apotheosis.craig.author": "Astrel",
 
-    "painting.apotheosis.tower.title": "A Torre",
+    "painting.apotheosis.tower.title": "The Tower",
     "painting.apotheosis.tower.author": "Faellynna",
 
-    "painting.apotheosis.enchanting_table.title": "Encantamento Apótico",
+    "painting.apotheosis.enchanting_table.title": "Apothic Enchanting",
     "painting.apotheosis.enchanting_table.author": "Faellynna",
 
-    "painting.apotheosis.window.title": "Uma Visão Além",
+    "painting.apotheosis.window.title": "A View Beyond",
     "painting.apotheosis.window.author": "Faellynna",
 
     "stat.apotheosis.world_tiers_activated": "Nível de Mundo Alterado",
