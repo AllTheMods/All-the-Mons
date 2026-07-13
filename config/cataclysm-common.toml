@@ -648,7 +648,7 @@
 		#Harbinger Auto Heal
 		# Default: 2.0
 		# Range: 0.0 ~ 1000000.0
-		harbinger_auto_heal = 18.0
+		harbinger_auto_heal = 8.0
 		#Harbinger Life Steal
 		# Default: 5.0
 		# Range: 0.0 ~ 1000000.0
@@ -692,7 +692,7 @@
 			#Dps Cap
 			# Default: 14.0
 			# Range: 1.0 ~ 1000000.0
-			dps_cap = 31.8
+			dps_cap = 45.0
 			#DPS Limit Time
 			# Default: 20
 			# Range: 1 ~ 100
