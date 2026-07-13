@@ -148,7 +148,7 @@
 	quest.1E6F0000000011FF.title: "Tapu Bulu"
 	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r é uma divindade guardiã que conjura neblina para confundir intrusos e purifica água contaminada com sua névoa.\\n\\nBusca pelo guardião da ilha em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e capture-o."]
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir os sentimentos de outros Pokémon.\\n\\nA lenda mecânica aparece no &5End&r e fundo das &1Profundezas sombrias&r - explore essas profundezas e capture-o."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir as emoções de outros Pokémon.\\n\\nEsta lenda mecânica não pode ser encontrada na natureza - você deve construí-la. Primeiro, carregue um &bMecanismo Coração das Almas&r ao ar livre derrotando 50 Pokémon em batalha num raio de 10 blocos dele. Em seguida, erga o corpo autômato de Magearna ao redor do &bCoração das Almas&r carregado em um &6Altar de Ritual de Invocação&r, e com um &cVolcanion&r seu presente como testemunha, ative o altar com uma &5Alma Encantada&r para dar vida à máquina."]
 	quest.1E6F000000001207.title: "Magearna"
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r é o Pokémon Trovão, correndo de quatro rápido o suficiente para acompanhar um raio.\\n\\nPersiga-o pelas &6savanas&r sob &ecéu aberto&r."]
 	quest.1E6F00000000120B.title: "Zeraora"
@@ -182,7 +182,7 @@
 	quest.1E6F0000000012EE.title: "Zapdos de Galar"
 	quest.1E6F0000000012F3.quest_desc: ["&9Moltres de Galar&r é a forma regional da ave lendária - um voador sinistro envolto em chamas azuis frias que drenam o espírito de qualquer pessoa que encontrar seus olhos ardentes.\\n\\nCarregue a &cUrna de Brasas de Galar&r para invocá-lo."]
 	quest.1E6F0000000012F3.title: "Moltres de Galar"
-	quest.1E6F000000001308.quest_desc: ["&aCelebi&r é o Pokémon viajante do tempo, um guardião da floresta que transita entre o passado e o futuro e deixa flores por onde descansa.\\n\\nA &eBola GS&r não pode ser fabricada - é necessário realizar comércio com &6Kurt&r, o fabricante de Bolas de Bolota (um Aldeão Comerciante do PokéMart chamado &6Kurt&r), e então usá-la em um &2Santuário de Ilex&r para chamar Celebi através do tempo e capturá-lo."]
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r é o Pokémon viajante do tempo, um guardião da floresta que viaja entre o passado e o futuro e deixa flores por onde descansa.\\n\\nA &eBola GS&r não pode ser fabricada - você deve adquiri-la por meio de troca com &6Kurt&r, o Fabricante de Bolotas (um aldeão Mercador do PokéMart chamado Kurt), e então usá-la em um &2Santuário de Ilex&r para chamar Celebi através do tempo e capturá-lo.\\n\\n&cNota:&r nomeie um aldeão normal da forma padrão (com uma etiqueta) - Kurt é um espírito livre e não gosta de ficar trancado em um Bloco Comerciante do &eEasy Villagers&r."]
 	quest.1E6F000000001308.title: "Celebi"
 	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r é o Pokémon que habita as sombras, uma sombra viva que se esconde sob os pés e copia os movimentos de qualquer pessoa que observe.\\n\\nMisture &7Icor Sombrio&r em um caldeirão junto com o &8Capuz Sombrio&r e a &7Toalha de Lutadores Desatualizada&r para tirá-lo do esconderijo e capture-o."]
 	quest.1E6F00000000130D.title: "Marshadow"
