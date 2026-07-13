@@ -1,0 +1,21 @@
+{
+  "ingredient": "allthemons:mythical_pecha_berry",
+  "colour": "pink",
+  "flavours": {
+    "SWEET": 20
+  },
+  "baitEffects": [
+    {
+      "type": "cobblemon:egg_group",
+      "chance": 1.0,
+      "value": 20.0,
+      "subcategory": "water_3"
+    },
+    {
+      "type": "cobblemon:egg_group",
+      "chance": 1.0,
+      "value": 20.0,
+      "subcategory": "bug"
+    }
+  ]
+}
