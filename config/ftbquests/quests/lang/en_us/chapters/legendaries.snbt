@@ -214,7 +214,7 @@
 	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r is a guardian deity that conjures fog to confound intruders and purifies tainted water with its mist.\\n\\nSeek the island guardian in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and catch it."]
 	quest.1E6F000000001203.quest_subtitle: "Alola"
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThe clockwork legend turns up in the &5End&r and deep in the &1Deep Dark&r - search those depths and catch it."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThis clockwork legend cannot be found in the wild - you must build it. First, charge a &bSoul-Heart Mechanism&r out in the open by defeating 50 Pokémon in battle within 5 blocks of it. Then raise Magearna's automaton body around the charged Soul-Heart on a &6Summoning Ritual Altar&r, and with one of your own &cVolcanion&r present to bear witness, activate the altar with an &5Enchanted Soul&r to breathe life into the machine."]
 	quest.1E6F000000001207.quest_subtitle: "Alola"
 	quest.1E6F000000001207.title: "Magearna"
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, racing on all fours fast enough to keep pace with a lightning bolt.\\n\\nChase it down in &6savannas&r under &eopen sky&r."]
@@ -264,7 +264,7 @@
 	quest.1E6F0000000012F3.quest_desc: ["&9Galarian Moltres&r is the Galarian form of the legendary bird - a sinister flier wreathed in cold blue flame that drains the spirit of any who meet its burning eyes.\\n\\nRaise the &cGalarian Urn of Embers&r to summon it."]
 	quest.1E6F0000000012F3.quest_subtitle: "Galar"
 	quest.1E6F0000000012F3.title: "Galarian Moltres"
-	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nThe &eGS Ball&r cannot be crafted - you must trade for one from &6Kurt&r, the apricorn ball-maker (a PokéMart Trader villager named Kurt), then use it on an &2Ilex Shrine&r to call Celebi across time and catch it."]
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nThe &eGS Ball&r cannot be crafted - you must trade for one from &6Kurt&r, the apricorn ball-maker (a PokéMart Trader villager named Kurt), then use it on an &2Ilex Shrine&r to call Celebi across time and catch it.\\n\\n&cNote:&r name a normal villager the vanilla way (with a name tag) - Kurt is a free spirit and doesn't like being locked up in an &eEasy Villagers&r Trader block."]
 	quest.1E6F000000001308.quest_subtitle: "Johto"
 	quest.1E6F000000001308.title: "Celebi"
 	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r is the gloomdweller Pokémon, a living shadow that hides underfoot and copies the moves of anyone it watches.\\n\\nStir &7Shadow Ichor&r in a cauldron together with the &8Shadowy Cowl&r and the &7Old Fighters Towel&r to draw it out of hiding, then catch it."]

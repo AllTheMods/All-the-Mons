@@ -10,6 +10,7 @@ startEntryPoint.put("allthemons:melmetal", startMelmetal)
 startEntryPoint.put("allthemons:terapagos", startTerapagos)
 startEntryPoint.put("allthemons:mythical_pecha_berry", startMythicalPechaBerry)
 startEntryPoint.put("allthemons:shiny_pika_star", startShinyPikaStar)
+startEntryPoint.put("allthemons:magearna", startMagearna)
 
 SummoningRituals.start(event => {
   let func = startEntryPoint.get(event.recipeInfo.getRecipeId().toString())
@@ -29,6 +30,7 @@ completeEntryPoint.put("allthemons:meltan", completeMeltan)
 completeEntryPoint.put("allthemons:melmetal", completeMelmetal)
 completeEntryPoint.put("allthemons:terapagos", completeTerapagos)
 completeEntryPoint.put("allthemons:shiny_pika_star", completeShinyPikaStar)
+completeEntryPoint.put("allthemons:magearna", completeMagearna)
 
 SummoningRituals.complete(event => {
   let func = completeEntryPoint.get(event.recipeInfo.getRecipeId().toString())

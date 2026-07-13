@@ -23,6 +23,9 @@ SummoningRituals.ritualRendererRegistration((event) => {
   event.register("allthemons:deoxys", (renderer, recipe, context) => {
     deoxysRitualRender(renderer, recipe, context)
   })
+  event.register("allthemons:magearna", (renderer, recipe, context) => {
+    magearnaRitualRender(renderer, recipe, context)
+  })
 })
 
 /** @type {typeof import("net.minecraft.core.particles.DustParticleOptions").$DustParticleOptions} */
@@ -41,6 +44,9 @@ let PECHA_PARTICLE = new $DustParticleOptions(new $Vector3f(0.96, 0.49, 0.71), 0
 // style as the other ritual streams.
 let SOURCE_PARTICLE = new $DustParticleOptions(new $Vector3f(0.60, 0.22, 0.95), 1.0)
 
+// Electric-cyan discharge blasted from the activator down into the Soul-Heart.
+let ENERGY_PARTICLE = new $DustParticleOptions(new $Vector3f(0.35, 0.85, 1.0), 1.2)
+
 /** @type {import("java.util.Map").$Map<(import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe),(any)>} */
 let meltanDrains = Utils.newMap()
 
@@ -51,8 +57,14 @@ let terapagosState = {}
 let pechaState = {}
 let shinyPikaState = {}
 let deoxysState = {}
+let magearnaState = {}
 
 const PECHA_STREAM_TICKS = 20
+
+// How long the activator's energy blast lasts, and how far before the ritual's end it finishes
+// (40 ticks = 2 seconds early, so the Soul-Heart is charged a beat before Magearna appears).
+const MAGEARNA_BLAST_TICKS = 30
+const MAGEARNA_BLAST_LEAD = 40
 
 /** @type {import("java.util.List").$List<(import("net.minecraft.world.entity.Entity").$Entity)>} */
 let cryEntities = Utils.newList()
@@ -368,6 +380,78 @@ function findDeoxysFixtures(level, altarPos) {
   return { "obelisks": obelisks, "relays": relays, "crystal": crystal }
 }
 
+function magearnaRitualRender(/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderer").$AltarRenderer} */ renderer, /**@type {import("com.almostreliable.summoningrituals.recipe.AltarRecipe").$AltarRecipe} */ recipe,/**@type {import("com.almostreliable.summoningrituals.client.render.AltarRenderContext").$AltarRenderContext} */ context) {
+  let stateKey = context.altar.blockPos.toString()
+  if (!magearnaState[stateKey] && context.recipeProgress < recipe.ticks()) {
+    let heart = findSoulHeart(context.level, context.altar.blockPos)
+    magearnaState[stateKey] = { "heart": heart, "schedule": buildMagearnaSchedule(recipe.ticks(), heart) }
+  }
+  let state = magearnaState[stateKey]
+  if (state != null) {
+    // The whole evolution animation plays out on the Soul-Heart, climaxing as Magearna awakens.
+    state.schedule.forEach(eff => {
+      if (!eff.done && context.recipeProgress >= eff.tick) {
+        eff.done = true
+        eff.fn(context)
+      }
+    })
+    // Final flourish: the hovering activator discharges a blast of energy into the Soul-Heart.
+    if (state.heart != null
+      && context.recipeProgress >= recipe.ticks() - MAGEARNA_BLAST_TICKS - MAGEARNA_BLAST_LEAD
+      && context.recipeProgress < recipe.ticks() - MAGEARNA_BLAST_LEAD) {
+      let ratio = context.getRecipeProgressRatio()
+      let bp = context.altar.blockPos
+      let itemX = bp.x + renderer.HALF
+      let itemY = bp.y + renderer.ALTAR_RENDER_HEIGHT + 2.5 * ratio * renderer.HALF
+      let itemZ = bp.z + renderer.HALF
+      let target = [state.heart.x + 0.5, state.heart.y + 0.5, state.heart.z + 0.5]
+      emitStream(context.level, itemX, itemY, itemZ, target, ENERGY_PARTICLE, 8)
+      emitStream(context.level, itemX, itemY, itemZ, target, $ParticleTypes.END_ROD, 3)
+    }
+  }
+
+  context.translate(renderer.HALF, renderer.ALTAR_RENDER_HEIGHT, renderer.HALF);
+  context.scale(renderer.HALF);
+
+  context.translate(0, 2.5 * context.getRecipeProgressRatio(), 0);
+
+  renderer.renderInitiator(context)
+  renderer.renderItemOrbit(context)
+
+  if (context.recipeProgress >= recipe.ticks()) {
+    delete magearnaState[stateKey]
+  }
+}
+
+function buildMagearnaSchedule(ticks, heart) {
+  // The evolution animation runs ~240 ticks; start it late enough that its final burst lands
+  // right as the ritual completes and Magearna is spawned.
+  let evoTick = Math.max(0, ticks - 240)
+  return [{
+    "tick": evoTick, "done": false, "fn": context => {
+      if (heart != null) {
+        triggerEvolutionEffect(context, 0, heart.getCenter())
+      } else {
+        triggerEvolutionEffect(context, 2.0)
+      }
+    }
+  }]
+}
+
+function findSoulHeart(level, altarPos) {
+  for (let dx = -8; dx <= 8; dx++) {
+    for (let dy = -1; dy <= 8; dy++) {
+      for (let dz = -8; dz <= 8; dz++) {
+        let p = altarPos.offset(dx, dy, dz)
+        if (String(level.getBlockState(p).block.id) === "allthemons:soul_heart_mechanism") {
+          return p
+        }
+      }
+    }
+  }
+  return null
+}
+
 // Parabolic arc from (sx,sy,sz) to target, peaking `arch` blocks above the straight line.
 function emitArc(level, sx, sy, sz, target, particle, samples, arch) {
   let n = samples == null ? 4 : samples
@@ -590,6 +674,7 @@ ClientEvents.loggedOut(event => {
   pechaState = {}
   shinyPikaState = {}
   deoxysState = {}
+  magearnaState = {}
 })
 
 SummoningRituals.modifyConditionsTooltip(event => {
