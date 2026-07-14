@@ -4,11 +4,8 @@
 
 ## 📰 General changes and notes
 
-1.1.0 adds a new way to obtain **Magearna**: charge a Soul-Heart Mechanism by defeating Pokémon beside it, wall it inside Magearna's automaton body, and awaken it through a summoning ritual with your Volcanion looking on. Magearna no longer spawns in the wild.
+1.1.0 adds a new way to obtain **Magearna** and adds recipes for PokeFashion fabrics.
 
-This release also makes the Cataclysm **Harbinger** beatable again (its healing no longer outpaces the damage cap), speeds up Ultra Beast wormhole spawns, and brings a round of mod updates and fixes.
-
-No world reset is required; existing saves are fine.
 
 <details open>
 <summary>Pack changes :octocat:</summary>
@@ -18,7 +15,6 @@ No world reset is required; existing saves are fine.
 - Added the Mythical Pecha Berry as a cooking seasoning, with double a normal Pecha Berry's flavour and spawn-bait effect (LobsterJonn)
 - Rebalanced the Cataclysm Harbinger so its auto-heal no longer outpaces the damage cap, making the fight winnable (LobsterJonn)
 - Lowered the Ultra Wormhole spawn interval so Ultra Beasts appear more often (LobsterJonn)
-- Blocked Complete Cobblemon Collection's legendary and mythical wild spawns (LobsterJonn)
 - Made the Better Trainer Spawner pick the trainer variant matching the nearest player's series progression, and despawn/respawn it when it no longer matches (LobsterJonn)
 - Skipped Legendary Monuments' per-tick Azure Flute world scan (LobsterJonn)
 - Added a loot table so the Deoxys Crystal drops itself when broken (LobsterJonn)
