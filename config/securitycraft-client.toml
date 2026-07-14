@@ -1,8 +1,26 @@
 #Send a welcome message containing tips when joining the world
 sayThanksMessage = false
-#Should reinforced blocks' textures be slightly darker than their vanilla counterparts? Servers can force this setting on clients if the server config setting "force_reinforced_block_tint" is set to true.
-reinforced_block_tint = true
-#Set the color that reinforced blocks' textures have when reinforced_block_tint is enabled. This cannot be overridden by servers, and will be applied the same to all blocks. Grayscale values look best.
+#Set the color that reinforced blocks' textures are tinted with. This will be applied the same to all blocks that satisfy the condition set by "reinforced_block_tint_mode". Grayscale values look best.
 #Format: 0xRRGGBB
-#Range: 0 ~ 16777215
+# Default: 10066329
+# Range: 0 ~ 16777215
 reinforced_block_tint_color = 10066329
+#If this debug feature is enabled, SecurityCraft will attempt to find and report mods that prevent the feature of viewing security cameras from working when they immediately reset the player's camera entity.
+debug_camera_reset_tracing = false
+#Should Secure Redstone Interfaces in "Receiver" mode be rendered without the spinning disk? This may lead to slight clientside performance gains.
+more_performant_sri_rendering = false
+#Controls what condition placed reinforced blocks must satisfy in order to be colored compared to their vanilla counterparts. The color of this tint can be defined through the "reinforced_block_tint_color" configuration option. The tint may apply to all reinforced blocks, no reinforced blocks, or only the reinforced blocks that belong or don't belong to the player.
+#Allowed Values: ALL, NONE, OWNED, UNOWNED
+reinforced_block_tint_mode = "ALL"
+#Set the radius in which chunks viewed in a frame camera feed should be requested from the server and rendered. If this config has a higher value than the vanilla "Render Distance" option or the "view-distance" server property, the smaller value is used instead.
+# Default: 16
+# Range: 2 ~ 32
+frame_feed_render_distance = 16
+#Set the resolution of the Frame camera feed. This is always a square resolution. Smaller values will be less detailed, higher values may lead to diminishing returns.
+# Default: 512
+# Range: 1 ~ 16384
+frame_feed_resolution = 512
+#The maximum amount of frames per second the Frame camera feed renders at. Higher values will lead to worse performance.
+# Default: 30
+# Range: 10 ~ 260
+frame_feed_fps_limit = 30

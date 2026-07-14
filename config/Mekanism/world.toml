@@ -1,7 +1,8 @@
 #Allows chunks to retrogen Mekanism salt and ore blocks. In general when enabling this you also want to bump the userWorldGenVersion.
 enableRegeneration = false
 #Change this value to cause Mekanism to regen its ore in all loaded chunks that have a version lower than this.
-#Range: > 0
+# Default: 0
+# Range: > 0
 userWorldGenVersion = 0
 
 #Generation Settings for Tin ore.
@@ -14,13 +15,16 @@ userWorldGenVersion = 0
 		#Determines if Small Tin Veins should be added to world generation. Note: Requires generating tin ore to be enabled.
 		shouldGenerate = true
 		#Chance that Small Tin Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 14
+		# Range: 1 ~ 256
 		perChunk = 14
 		#Maximum number of blocks in a Small Tin Vein.
-		#Range: 1 ~ 64
+		# Default: 4
+		# Range: 1 ~ 64
 		maxVeinSize = 4
 		#Chance that blocks that are directly exposed to air in a Small Tin Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Small Tin Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -55,13 +59,16 @@ userWorldGenVersion = 0
 		#Determines if Large Tin Veins should be added to world generation. Note: Requires generating tin ore to be enabled.
 		shouldGenerate = true
 		#Chance that Large Tin Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 12
+		# Range: 1 ~ 256
 		perChunk = 12
 		#Maximum number of blocks in a Large Tin Vein.
-		#Range: 1 ~ 64
+		# Default: 9
+		# Range: 1 ~ 64
 		maxVeinSize = 9
 		#Chance that blocks that are directly exposed to air in a Large Tin Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Large Tin Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -101,13 +108,16 @@ userWorldGenVersion = 0
 		#Determines if Upper Osmium Veins should be added to world generation. Note: Requires generating osmium ore to be enabled.
 		shouldGenerate = true
 		#Chance that Upper Osmium Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 65
+		# Range: 1 ~ 256
 		perChunk = 65
 		#Maximum number of blocks in a Upper Osmium Vein.
-		#Range: 1 ~ 64
+		# Default: 7
+		# Range: 1 ~ 64
 		maxVeinSize = 7
 		#Chance that blocks that are directly exposed to air in a Upper Osmium Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Upper Osmium Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -142,13 +152,16 @@ userWorldGenVersion = 0
 		#Determines if Middle Osmium Veins should be added to world generation. Note: Requires generating osmium ore to be enabled.
 		shouldGenerate = true
 		#Chance that Middle Osmium Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 6
+		# Range: 1 ~ 256
 		perChunk = 6
 		#Maximum number of blocks in a Middle Osmium Vein.
-		#Range: 1 ~ 64
+		# Default: 9
+		# Range: 1 ~ 64
 		maxVeinSize = 9
 		#Chance that blocks that are directly exposed to air in a Middle Osmium Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Middle Osmium Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -183,13 +196,16 @@ userWorldGenVersion = 0
 		#Determines if Small Osmium Veins should be added to world generation. Note: Requires generating osmium ore to be enabled.
 		shouldGenerate = true
 		#Chance that Small Osmium Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 8
+		# Range: 1 ~ 256
 		perChunk = 8
 		#Maximum number of blocks in a Small Osmium Vein.
-		#Range: 1 ~ 64
+		# Default: 4
+		# Range: 1 ~ 64
 		maxVeinSize = 4
 		#Chance that blocks that are directly exposed to air in a Small Osmium Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Small Osmium Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -229,13 +245,16 @@ userWorldGenVersion = 0
 		#Determines if Small Uranium Veins should be added to world generation. Note: Requires generating uranium ore to be enabled.
 		shouldGenerate = true
 		#Chance that Small Uranium Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 4
+		# Range: 1 ~ 256
 		perChunk = 4
 		#Maximum number of blocks in a Small Uranium Vein.
-		#Range: 1 ~ 64
+		# Default: 4
+		# Range: 1 ~ 64
 		maxVeinSize = 4
 		#Chance that blocks that are directly exposed to air in a Small Uranium Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Small Uranium Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -270,13 +289,16 @@ userWorldGenVersion = 0
 		#Determines if Buried Uranium Veins should be added to world generation. Note: Requires generating uranium ore to be enabled.
 		shouldGenerate = true
 		#Chance that Buried Uranium Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 7
+		# Range: 1 ~ 256
 		perChunk = 7
 		#Maximum number of blocks in a Buried Uranium Vein.
-		#Range: 1 ~ 64
+		# Default: 9
+		# Range: 1 ~ 64
 		maxVeinSize = 9
 		#Chance that blocks that are directly exposed to air in a Buried Uranium Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.75
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.75
 		#Distribution shape for placing Buried Uranium Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -316,13 +338,16 @@ userWorldGenVersion = 0
 		#Determines if Normal Fluorite Veins should be added to world generation. Note: Requires generating fluorite ore to be enabled.
 		shouldGenerate = true
 		#Chance that Normal Fluorite Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 5
+		# Range: 1 ~ 256
 		perChunk = 5
 		#Maximum number of blocks in a Normal Fluorite Vein.
-		#Range: 1 ~ 64
+		# Default: 5
+		# Range: 1 ~ 64
 		maxVeinSize = 5
 		#Chance that blocks that are directly exposed to air in a Normal Fluorite Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.0
 		#Distribution shape for placing Normal Fluorite Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -357,13 +382,16 @@ userWorldGenVersion = 0
 		#Determines if Buried Fluorite Veins should be added to world generation. Note: Requires generating fluorite ore to be enabled.
 		shouldGenerate = true
 		#Chance that Buried Fluorite Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 3
+		# Range: 1 ~ 256
 		perChunk = 3
 		#Maximum number of blocks in a Buried Fluorite Vein.
-		#Range: 1 ~ 64
+		# Default: 13
+		# Range: 1 ~ 64
 		maxVeinSize = 13
 		#Chance that blocks that are directly exposed to air in a Buried Fluorite Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 1.0
 		#Distribution shape for placing Buried Fluorite Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -403,13 +431,16 @@ userWorldGenVersion = 0
 		#Determines if Normal Lead Veins should be added to world generation. Note: Requires generating lead ore to be enabled.
 		shouldGenerate = true
 		#Chance that Normal Lead Veins generates in a chunk.
-		#Range: 1 ~ 256
+		# Default: 8
+		# Range: 1 ~ 256
 		perChunk = 8
 		#Maximum number of blocks in a Normal Lead Vein.
-		#Range: 1 ~ 64
+		# Default: 9
+		# Range: 1 ~ 64
 		maxVeinSize = 9
 		#Chance that blocks that are directly exposed to air in a Normal Lead Vein are not placed.
-		#Range: 0.0 ~ 1.0
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
 		discardChanceOnAirExposure = 0.25
 		#Distribution shape for placing Normal Lead Veins.
 		#Allowed Values: TRAPEZOID, UNIFORM
@@ -444,13 +475,16 @@ userWorldGenVersion = 0
 	#Determines if salt should be added to world generation.
 	shouldGenerate = true
 	#Chance that salt generates in a chunk.
-	#Range: 1 ~ 256
+	# Default: 2
+	# Range: 1 ~ 256
 	perChunk = 2
 	#Base radius of a vein of salt.
-	#Range: 1 ~ 4
+	# Default: 2
+	# Range: 1 ~ 4
 	minRadius = 2
 	#Extended variability (spread) for the radius in a vein of salt.
 	maxRadius = 3
 	#Number of blocks to extend up and down when placing a vein of salt.
-	#Range: 0 ~ 2031
+	# Default: 1
+	# Range: 0 ~ 2031
 	halfHeight = 1

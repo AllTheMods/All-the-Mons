@@ -1,16 +1,20 @@
 #General configuration options.
 [General]
 	#The percentage chance that a passive or hostile mob will drop an Inferium Essence when killed.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
 	inferiumDropChance = 0.0
-	#The amount of uses the basic Infusion Crystal should have.
-	#Range: > 10
+	#The number of uses the basic Infusion Crystal should have.
+	# Default: 1000
+	# Range: > 10
 	infusionCrystalUses = 500
 	#The amount of time in seconds between each Growth Accelerator growth tick.
-	#Range: > 1
+	# Default: 10
+	# Range: > 1
 	growthAcceleratorCooldown = 10
 	#The percentage chance that harvesting a Resource Crop will drop a Fertilized Essence.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
 	fertilizedEssenceChance = 0.1
 	#Should crops have a chance of dropping a second seed when harvested?
 	secondarySeedDrops = false
@@ -22,16 +26,20 @@
 	dragonDropsEssence = false
 	#Should the Ender Dragon drop Cognizant Dust when killed with a Mystical Enlightenment enchanted essence weapon?
 	dragonDropsCognizant = true
-	#Should right clicking on Farmland with an Essence create Essence Farmland?
+	#Should right-clicking on Farmland with an Essence create Essence Farmland?
 	essenceFarmlandConversion = true
 	#Should vanilla crafting recipes for seeds be generated?
 	seedCraftingRecipes = false
-	#Should Supremium Tools be enchantable in an Enchanting Table?
+	#Should Supremium & Awakened Supremium Tools be enchantable in an Enchanting Table?
 	enchantableSupremiumTools = true
 	#Should fake players be able to use watering cans?
 	fakePlayerWatering = false
 	#Should wearing a full set of Awakened Supremium armor grant the Plant Growth AOE set bonus?
 	awakenedSupremiumSetBonus = true
+	#Should resource crops need to be planted on their effective Farmland to grow?
+	requiresEffectiveFarmland = false
+	#Should Supremium & Awakened Supremium Armor be unbreakable?
+	unbreakableSupremiumArmor = false
 
 #World generation options.
 [World]
@@ -42,5 +50,6 @@
 	#Should Soulstone generate in the world?
 	generateSoulstone = true
 	#The percentage chance a Soulium Ore spawns in a Soulstone cluster.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
 	souliumOreChance = 0.05

@@ -63,3 +63,7 @@
 		terminalStorageMaxTreePlanSize = 64
 		#If crafting plans should default to the tree-based view. If false, it will default to the flattened view.
 		terminalStorageDefaultToCraftingPlanTree = false
+		#If client-received packets should be deserialized in a separate thread.
+		packetDeserializationEnableMultithreading = true
+		#If client-directed packets should be serialized in a separate thread.
+		packetSerializationEnableMultithreading = true

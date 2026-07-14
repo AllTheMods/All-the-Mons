@@ -50,10 +50,10 @@
 	showSpecialCubeTypeOverlay = true
 	#If true, framed blocks will be rendered with their camo in Jade, otherwise they will be rendered blank
 	renderCamoInJade = true
-	#If true, all framed slope edge variants will use the legacy model
-	slopeEdgeLegacyModel = true
 	#Disable connected textures support for the listed mod IDs of connected textures mods
 	conTexDisabled = []
+	#If true, camo application recipes will be shown in JEI
+	showCamoCraftingInJei = true
 
 [overlay]
 	#If set to HIDDEN, the State Lock overlay will be completely hidden
@@ -101,3 +101,19 @@
 	#If set to DETAILED, the Camo Rotation overlay will show detailed info
 	#Allowed Values: HIDDEN, ICON, DETAILED
 	camoRotationMode = "DETAILED"
+	#Controls the maximum visibility of all overlays
+	#- If set to HIDDEN, the overlays will be completely hidden.
+	#- If set to ICON, the overlays will only show an icon.
+	#- If set to DETAILED, the overlays will show detailed info.
+	#Allowed Values: HIDDEN, ICON, DETAILED
+	maxOverlayMode = "DETAILED"
+	#If set to HIDDEN, the Trapdoor Texture Rotation overlay will be completely hidden
+	#If set to ICON, the Trapdoor Texture Rotation overlay will only show an icon
+	#If set to DETAILED, the Trapdoor Texture Rotation overlay will show detailed info
+	#Allowed Values: HIDDEN, ICON, DETAILED
+	trapdoorTextureRotationMode = "DETAILED"
+	#If set to HIDDEN, the Copycat Style overlay will be completely hidden
+	#If set to ICON, the Copycat Style overlay will only show an icon
+	#If set to DETAILED, the Copycat Style overlay will show detailed info
+	#Allowed Values: HIDDEN, ICON, DETAILED
+	copycatStyleMode = "DETAILED"

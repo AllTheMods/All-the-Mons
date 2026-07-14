@@ -4,7 +4,8 @@ disableFancyTESR = false
 #Show the text overlay for various blocks, such as the configuration of capacitors or pumps
 showTextOverlay = true
 #Set the GUI scale of the Engineer's Manual. This uses the same numbers as Vanilla's GUI Scale and is therefor limited to the maximum value available ingame.
-#Range: 1 ~ 32
+# Default: 4
+# Range: 1 ~ 32
 manualGuiScale = 4
 #Set this to true if you suffer from bad eyesight. The Engineer's manual will be switched to a bold and darker text to improve readability.
 badEyesight = true
@@ -13,7 +14,8 @@ fluidFractions = true
 #Controls if item tooltips should contain the tags names of items. These tooltips are only visible in advanced tooltip mode (F3+H)
 tagTooltips = false
 #Increase the distance at which certain TileEntities (specifically windmills) are still visible. This is a modifier, so set it to 1 for default render distance, to 2 for doubled distance and so on.
-#Range: 0.0 ~ 1.7976931348623157E308
+# Default: 1.5
+# Range: 0.0 ~ 1.7976931348623157E308
 increasedTileRenderdistance = 1.5
 #Set this to false to hide the update news in the manual
 showUpdateNews = false
@@ -29,19 +31,27 @@ enableVBO = false
 
 #Options to set the RGB color of all IE wire types
 [wire_colors]
-	#Range: > -2147483648
+	# Default: 11758655
+	# Range: > -2147483648
 	copper = 11758655
-	#Range: > -2147483648
+	# Default: 15573061
+	# Range: > -2147483648
 	electrum = 15573061
-	#Range: > -2147483648
+	# Default: 7303023
+	# Range: > -2147483648
 	steel = 7303023
-	#Range: > -2147483648
+	# Default: 9862765
+	# Range: > -2147483648
 	structure_rope = 9862765
-	#Range: > -2147483648
+	# Default: 7303023
+	# Range: > -2147483648
 	structure_steel = 7303023
-	#Range: > -2147483648
+	# Default: 16723759
+	# Range: > -2147483648
 	redstone = 16723759
-	#Range: > -2147483648
+	# Default: 16445918
+	# Range: > -2147483648
 	copper_insulated = 16445918
-	#Range: > -2147483648
+	# Default: 10323322
+	# Range: > -2147483648
 	electrum_insulated = 10323322

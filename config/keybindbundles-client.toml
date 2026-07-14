@@ -1,3 +1,7 @@
 #ONLY USE THIS IF YOU KNOW WHAT YOU'RE DOING
 #Ignore invalid key checks in InputConstants#isKeyDown
 ignoreInvalidKeyChecks = true
+#Set to true to clip the mouse within the bounds of the radial menu of bundles
+clipMouseToMenu = false
+#If set to true, the keymapping hovered in a bundle menu will be automatically triggered (without needing a click) upon release of the bundle key
+triggerKeymappingOnRelease = false

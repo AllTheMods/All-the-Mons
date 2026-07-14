@@ -41,6 +41,10 @@
 		operatorRecursionLimit = 256
 		#If the version checker should be enabled.
 		versionChecker = true
+		#If variable card IDs should be logged during evaluation. This is useful for debugging crashes caused by card evaluation.
+		logCardEvaluation = false
+		#When true, network elements will tick, irrespective of whether their chunk is loaded or not.
+		tickUnloadedNetworkElements = false
 
 	[general.general]
 		#The energy usage multiplier for networks.
@@ -99,6 +103,12 @@
 		diagnosticsWebServerPort = 3030
 		#The base energy usage for the machine reader.
 		machineReaderBaseConsumption = 1
+		#The minimum update intervals to enforce for specific parts. You can add entries in the form of 'integrateddynamics:machine_reader:10', where '10' refers to the number of ticks.
+		partMinimumUpdateIntervals = []
+		#The minimum update interval to enforce for all parts, in number of ticks.
+		partsMinimumUpdateInterval = 1
+		#The base energy usage for the delayer.
+		delayerBaseConsumption = 2
 
 	[machine.general]
 		#The maximum offset in blocks a part can target.
@@ -113,6 +123,10 @@
 		maxDirectionalConnectorOffset = 512
 		#The distance from which part offsets should be shown.
 		partOffsetRenderDistance = 16
+		#When true, disable the collision for cable.
+		disableCableCollision = false
+		#The maximum values that Part Offset items will have when dropped from a broken part.
+		enchancementOffsetPartDropValue = 4
 
 	[machine.cable]
 		#If cable shapes should be determined dynamically. Disable this if FPS issues would occur.
@@ -151,6 +165,10 @@
 		consumptionRate = 80
 		#The energy capacity of a mechanical drying basin.
 		capacity = 100000
+
+	[machine.coal_generator]
+		#The energy production rate (in RF/t) of the coal generator.
+		energyPerTick = 20
 
 	[worldgeneration.menril_log_filled]
 		#The 1/x chance at which Menril Wood will be filled with Menril Resin when generated, the higher this value, the lower the chance.

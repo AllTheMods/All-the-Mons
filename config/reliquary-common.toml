@@ -1,6 +1,6 @@
 #Determines whether Reliquary items will be generated in chest loot (mostly mob drops, very rarely some lower level items)
 chestLootEnabled = true
-#Determines wheter Reliquary mob drops have crafting recipes
+#Determines whether Reliquary mob drops have crafting recipes
 dropCraftingRecipesEnabled = false
 #Whether mobs drop the Reliquary mob drops. This won't remove mob drop items from registry and replace them with something else, but allows to turn off the additional drops when mobs are killed by player. If this is turned off the mob drop crafting recipes turned on by the other setting can be used.
 mobDropsEnabled = true
@@ -19,6 +19,8 @@ mobDropsEnabled = true
 	passivePedestal = false
 	#Disable recipes to craft spawn eggs from fragments
 	disableSpawnEggRecipes = false
+	#Disable all charms and their recipes
+	charms = false
 
 #Potions related settings
 [potions]
@@ -70,7 +72,7 @@ mobDropsEnabled = true
 		# Default: 3
 		# Range: 0 ~ 10
 		gunpowderCost = 3
-		#Number of gunpowder that gets added to catalyst per one that's consumed from players inventory
+		#Number of gunpowder that gets added to catalyst per one that's consumed from player's inventory
 		# Default: 1
 		# Range: 1 ~ 3
 		gunpowderWorth = 1
@@ -104,7 +106,7 @@ mobDropsEnabled = true
 		# Default: 1
 		# Range: 0 ~ 3
 		enderPearlNodeWarpCost = 1
-		#Number of ender pearls that get added to the staff per one that's consumed from players inventory
+		#Number of ender pearls that get added to the staff per one that's consumed from player's inventory
 		# Default: 1
 		# Range: 1 ~ 10
 		enderPearlWorth = 1
@@ -157,7 +159,7 @@ mobDropsEnabled = true
 
 	#Handgun settings
 	[items.handgun]
-		#Experience level at which handgun has the fastest reload time and shortes cooldown between shots
+		#Experience level at which handgun has the fastest reload time and shortest cooldown between shots
 		# Default: 20
 		# Range: 0 ~ 100
 		maxSkillLevel = 20
@@ -269,8 +271,6 @@ mobDropsEnabled = true
 	[items.infernalTear]
 		#Whether the infernal tear starts absorbing immediately after it is set to item type
 		absorbWhenCreated = false
-		#List of items that can be consumed by infernal tear with their experience point value
-		itemExperienceList = ["minecraft:emerald|63", "minecraft:sandstone|1", "minecraft:gravel|1", "minecraft:diamond|125", "minecraft:gunpowder|8", "minecraft:nether_star|500", "minecraft:iron_ingot|63", "minecraft:charcoal|2", "minecraft:soul_sand|2", "minecraft:lapis_lazuli|8", "minecraft:obsidian|4", "minecraft:end_stone|1", "minecraft:gold_ingot|63", "minecraft:netherrack|1", "minecraft:flint|2", "minecraft:clay|4", "minecraft:chorus_fruit|2", "minecraft:quartz|16", "minecraft:honeycomb|4", "minecraft:netherite_scrap|250"]
 
 	#Kraken Shell settings
 	[items.krakenShell]
@@ -331,14 +331,12 @@ mobDropsEnabled = true
 		# Default: 21
 		# Range: 10 ~ 100
 		pedestalRange = 21
-		#Determines if almost destroyed charms stay displayed in the hud
-		keepAlmostDestroyedDisplayed = true
 		#List of hostile entities that are not supposed to have mob charms registered for them
 		entityBlockList = ["minecraft:ender_dragon", "minecraft:wither"]
 
 	#Mob Charm Fragment Settings
 	[items.mobCharmFragment]
-		#Chance of fragment droping from mobs that don't have fragment that can be crafted
+		#Chance of fragment dropping from mobs that don't have a fragment that can be crafted
 		# Default: 0.01666666753590107
 		# Range: 0.0 ~ 1.0
 		dropChance = 0.01666666753590107
@@ -410,7 +408,7 @@ mobDropsEnabled = true
 	#Rending Gale settings
 	[items.rendingGale]
 		#Number of feathers the rending gale can hold
-		# Default: 30000
+		# Default: 300
 		# Range: > 0
 		chargeLimit = 30000
 		#Number of feathers used when the rending gale is cast in flight mode

@@ -3,40 +3,40 @@
 [kinetics]
 	#.
 	#.
-	#Whether Deployer killed entities should drop experience.
+	#Whether Deployer-killed entities should drop experience.
 	deployerKillDropXp = true
 	#.
-	#Scale for experience dropped from Deployer killed entities.
+	#Scale for experience dropped from Deployer-killed entities.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	deployerKillXpScale = 1.0
 	#.
-	#Whether Deployer mined blocks should drop experience.
+	#Whether Deployer-mined blocks should drop experience.
 	deployerMineDropXp = true
 	#.
-	#Scale for experience dropped from Deployer mined blocks.
+	#Scale for experience dropped from Deployer-mined blocks.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	deployerMineXpScale = 1.0
 	#.
-	#Whether Deployer collect dropped experience as Experience Nugget.
+	#Whether Deployers collect dropped experience as Nuggets of Experience.
 	deployerCollectXp = true
 	#.
-	#Whether Mending enchantment applies to Deployer held item (Needs deployerCollectXp = true).
+	#Whether the Mending enchantment applies to Deployer-held items (Needs deployerCollectXp = true).
 	deployerMendItem = true
 	#.
-	#Whether Deployer can perform sweep attack.
+	#Whether Deployers can perform sweep attacks.
 	deployerSweepAttack = true
 	#.
-	#Whether Crushing Wheel killed entities should drop experience.
+	#Whether Crushing Wheel-killed entities should drop experience.
 	crushingWheelKillDropXp = true
 	#.
-	#Probability of Crushing Wheel killed entities dropping experience.
+	#Probability of Crushing Wheel-killed entities dropping experience.
 	# Default: 0.30000001192092896
 	# Range: 0.0 ~ 1.0
 	crushingWheelKillDropXpChance = 0.30000001192092896
 	#.
-	#Scale for experience dropped from Crushing Wheel killed entities.
+	#Scale for experience dropped from Crushing Wheel-killed entities.
 	# Default: 0.3400000035762787
 	# Range: 0.0 ~ 1.0
 	crushingWheelKillDropXpScale = 0.3400000035762787
@@ -58,7 +58,7 @@
 	[kinetics.fluids]
 		#.
 		#.
-		#Whether Liquid Experience vaporize into Experience Orbs upon placement.
+		#Whether Liquid Experience will vaporize into Experience Orbs upon placement.
 		experienceVaporizeOnPlacement = true
 		#.
 		#The amount of liquid a Printer can hold (mB).
@@ -67,44 +67,44 @@
 		# Range: > 1000
 		printerFluidCapacity = 6000
 		#.
-		#If printing Written Book function of Printer should be enabled.
+		#If the printing of Written Books function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enableWrittenBookPrinting = true
 		#.
-		#If printing Enchanted Book function of Printer should be enabled.
+		#If the printing of Enchanted Books function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enableEnchantedBookPrinting = true
 		#.
-		#If printing Create's copiable item of Printer should be enabled.
+		#If the printing of Create's copiable items function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enableCreateCopiableItemPrinting = true
 		#.
-		#If changing package pattern function of Printer should be enabled.
+		#If the changing package patterns function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enablePackagePatternPrinting = true
 		#.
-		#If assigning package address function of Printer should be enabled.
+		#If the assigning package addresses function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enablePackageAddressPrinting = true
 		#.
-		#If assigning custom name function of Printer should be enabled.
+		#If the assigning custom names function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enableCustomNamePrinting = true
 		#.
-		#Whether printing custom name (displayed in italic) as item name (displayed in non-italic).
+		#Whether printing custom names (displayed in italics) should instead print as as item names (displayed in non-italics).
 		printingCustomNameAsItemName = false
 		#.
-		#The generation change when copy written books, value of 1 will prevent copying copy of copy
+		#The generation change when copying Written Books; a value of 1 will prevent copying copy of copy
 		# Default: -3
 		# Range: -3 ~ 1
 		printingGenerationChange = -3
 		#.
-		#The cost multiplier of printing Enchanted Book.
+		#The cost multiplier of printing Enchanted Books.
 		# Default: 1.0
 		# Range: 0.009999999776482582 ~ 100.0
 		printingEnchantedBookCostMultiplier = 1.0
 		#.
-		#Whether Printer denylist prevents enchanted book from being copying.Setting false allows copying enchanted book without denied enchantment
+		#Whether the Printer denylist prevents Enchanted Books from being copied.Setting this to false allows copying Enchanted Books without denied enchantments
 		printingEnchantedBookDenylistStopCopying = true
 		#.
 		#The amount of liquid a Blaze Enchanter can hold (mB).
@@ -125,11 +125,33 @@
 		# Range: > 100
 		experienceLanternFluidCapacity = 1000
 		#.
-		#The amount of Experience an Experience Lantern can drain from player per 0.5 tick (mB).
-		#[@cui:RequiresReload:server]
+		#The amount of experience an Experience Lantern can drain from player per 0.5 ticks (mB).
 		# Default: 50
 		# Range: > 1
 		experienceLanternDrainRate = 50
+		#.
+		#If the printing banner patterns function of Printers should be enabled.
+		#[@cui:RequiresReload:server]
+		enableBannerPatternPrinting = true
+		#.
+		#Whether the Experience Lantern will pull in experience orbs from nearby.
+		experienceLanternPullToggle = true
+		#.
+		#The range at which experience orbs will be pulled into the lantern.
+		# Default: 10
+		# Range: > 0
+		experienceLanternPullRadius = 10
+		#.
+		#Modifier for the amount of force with which to pull the experience orbs.
+		# Default: 0.07500000298023224
+		# Range: 0.0 ~ 0.5
+		experienceLanternPullForceMultiplier = 0.07500000298023224
+		#.
+		#The amount of liquid a Grindstone Drain can hold (mB).
+		#[@cui:RequiresReload:server]
+		# Default: 1000
+		# Range: > 5000
+		mechanicalGrindstoneFluidCapacity = 5000
 
 	#.
 	#Parameters and abilities of enchantment operating components
@@ -146,23 +168,118 @@
 		# Range: > 0
 		blazeEnchanterMaxSuperEnchantLevel = 100
 		#.
-		#Max enchantment level in Super Enchanting will be extended by this value
-		# Default: 1
-		# Range: 0 ~ 255
-		enchantmentMaxLevelExtension = 1
-		#.
 		#If Super Enchanting and Super Forging ignores enchantment compatibility
 		ignoreEnchantmentCompatibility = true
 		#.
-		#If Enchantment splitting respects over-capped level
-		splitEnchantmentRespectLevelExtension = false
+		#Chance per curse roll for blocked-lightning Super Enchanting to add an applicable curse to the result
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		blazeEnchanterBlockedLightningCurseChance = 0.5
+		#.
+		#Maximum curse rolls for blocked-lightning Super Enchanting
+		# Default: 1
+		# Range: 0 ~ 16
+		blazeEnchanterBlockedLightningCurseCount = 1
+		#.
+		#Maximum curse level blocked-lightning Super Enchanting can add
+		# Default: 1
+		# Range: 1 ~ 255
+		blazeEnchanterBlockedLightningCurseMaxLevel = 1
+		#.
+		#Max enchantment level in Super Enchanting will be extended by this value when no per-enchantment processing rule exists
+		# Default: 1
+		# Range: 0 ~ 255
+		blazeEnchanterMaxLevelExtension = 1
+		#.
+		#Max enchantment level in Super Forging will be extended by this value when no per-enchantment processing rule exists
+		# Default: 1
+		# Range: 0 ~ 255
+		blazeForgerMaxLevelExtension = 1
+		#.
+		#If Enchantment extraction respects over-capped level
+		extractEnchantmentRespectLevelExtension = false
 
 	#.
 	#Parameters and abilities of processing mechanisms and appliances
 	[kinetics.processing]
 		#.
 		#.
-		#Probability of regular lightning strike transforming Block of Experience.
+		#Probability of natural lightning strikes transforming Blocks of Experience.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
 		regularLightningStrikeTransformXpBlockChance = 1.0
+		#.
+		#The amount of liquid a Classic Blaze Enchanter can hold (mB).
+		# Default: 4000
+		# Range: > 1000
+		classicBlazeEnchanterFluidCapacity = 4000
+		#.
+		#Experience cost coefficient of Classic Blaze Enchanter regular enchanting.
+		# Default: 1.0
+		# Range: 0.009999999776482582 ~ 3.4028234663852886E38
+		classicBlazeEnchanterNormalEnchantingCostCoefficient = 1.0
+		#.
+		#Experience cost coefficient of Classic Blaze Enchanter super enchanting.
+		# Default: 1.0
+		# Range: 0.009999999776482582 ~ 3.4028234663852886E38
+		classicBlazeEnchanterSuperEnchantingCostCoefficient = 1.0
+		#.
+		#Probability that a cursed Classic Blaze Enchanter super enchants resulting in a drop in enchantment level.
+		# Default: 0.25
+		# Range: 0.009999999776482582 ~ 3.4028234663852886E38
+		classicBlazeEnchanterSuperEnchantingCurseLevelDroppingRate = 0.25
+		#.
+		#Global experience cost multiplier for regular Blaze Enchanter operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeEnchanterNormalEnchantingCostMultiplier = 1.0
+		#.
+		#Global experience cost multiplier for Super Blaze Enchanter operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeEnchanterSuperEnchantingCostMultiplier = 1.0
+		#.
+		#Experience cost multiplier for direct Blaze Enchanter operations on items and books.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeEnchanterDirectEnchantingCostMultiplier = 1.0
+		#.
+		#Experience cost multiplier for Blaze Enchanter operations that write enchantments into templates.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeEnchanterTemplateEnchantingCostMultiplier = 1.0
+		#.
+		#Global experience cost multiplier for regular Blaze Forger operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeForgerNormalForgingCostMultiplier = 1.0
+		#.
+		#Global experience cost multiplier for Super Blaze Forger operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeForgerSuperForgingCostMultiplier = 1.0
+		#.
+		#Experience cost multiplier for Blaze Forger merge operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeForgerMergeCostMultiplier = 1.0
+		#.
+		#Experience cost multiplier for Blaze Forger apply operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeForgerApplyCostMultiplier = 1.0
+		#.
+		#Experience cost multiplier for Blaze Forger extract operations.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		blazeForgerExtractCostMultiplier = 1.0
+		#.
+		#Extra level cost added when Super Forging ignores an enchantment conflict.
+		# Default: 1
+		# Range: > 0
+		blazeForgerConflictExtraLevelCost = 1
+		#.
+		#Level cost added when Blaze Forger repairs item durability during merge.
+		# Default: 2
+		# Range: > 0
+		blazeForgerDurabilityRepairLevelCost = 2

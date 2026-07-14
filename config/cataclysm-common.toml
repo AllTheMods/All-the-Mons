@@ -496,7 +496,7 @@
 
 	[mobs.netherite_monstrosity]
 		#Lava bomb Magazine
-		# Default: 15
+		# Default: 3
 		# Range: 0 ~ 20
 		lava_bomb_magazine = 10
 		#Lava bomb Amount
@@ -668,7 +668,7 @@
 		#Death Laser HP Damage
 		# Default: 0.05
 		# Range: 0.0 ~ 1.0
-		death_laser_hp_damage = 0.10
+		death_laser_hp_damage = 0.1
 		#Charge Attack Hp Damage
 		# Default: 0.06
 		# Range: 0.0 ~ 1.0
@@ -732,7 +732,7 @@
 		#Death Laser HP Damage
 		# Default: 0.05
 		# Range: 0.0 ~ 1.0
-		death_laser_hp_damage = 0.10
+		death_laser_hp_damage = 0.1
 
 		[mobs.prowler.combat_config]
 			#Scale mob health by this value

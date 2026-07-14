@@ -10,19 +10,21 @@
 #Settings for configuring Mekanism's Sounds
 [sounds]
 	#Adjust Mekanism sounds' base volume. < 1 is softer, higher is louder.
-	#Range: 0.0 ~ 10.0
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
 	baseVolume = 1.0
 	#Play sounds for when any player is using a Jetpack, Scuba Mask, Flamethrower, or Gravitational Modulating Unit. This also affects playing the Radiation clicking sound.
 	enablePlayer = true
 	#Play sounds for active machines.
 	enableMachine = true
 
-#Settings for adjusting how Mekanism render's certain blocks and how many particles Mekanism adds.
+#Settings for adjusting how Mekanism renders certain blocks and how many particles Mekanism adds.
 [rendering]
 	#The color of energy when displayed as the durability bar on items.
 	energyColor = 3997338
-	#Range at which Block Entity Renderer's added by Mekanism can render at, for example the contents of multiblocks. Vanilla defaults the rendering range for BERs to 64 for most blocks (for example chests), but uses a range of 256 for blocks like beacons and end gateways. Lowering this will likely increase your performance, at the cost of multiblock contents and wind generators 'popping' in
-	#Range: 1 ~ 1024
+	#Range at which Block Entity Renderers added by Mekanism can render at, for example the contents of multiblocks. Vanilla defaults the rendering range for BERs to 64 for most blocks (for example chests), but uses a range of 256 for blocks like beacons and end gateways. Lowering this will likely increase your performance, at the cost of multiblock contents and wind generators 'popping' in
+	# Default: 256
+	# Range: 1 ~ 1024
 	berRange = 256
 
 	#Settings for configuring Mekanism's Particles
@@ -32,10 +34,12 @@
 		#Show particles when machines active.
 		machineEffects = true
 		#How far (in blocks) from the player radiation particles can spawn.
-		#Range: 2 ~ 64
+		# Default: 30
+		# Range: 2 ~ 64
 		radiationParticleRadius = 30
 		#How many particles spawn when rendering radiation effects (scaled by radiation level).
-		#Range: 0 ~ 1000
+		# Default: 100
+		# Range: 0 ~ 1000
 		radiationParticleCount = 100
 		#Show bolts between the player and items when the Magnetic Attraction Unit is pulling items towards a player.
 		magneticAttraction = true
@@ -47,27 +51,37 @@
 	#Enable a HUD that displays information about equipped Mekanism items, and displays additional information when wearing a MekaSuit Helmet.
 	enabled = true
 	#Scale of the text displayed on the HUD.
-	#Range: 0.25 ~ 1.0
+	# Default: 0.6
+	# Range: 0.25 ~ 1.0
 	scale = 0.6
 	#Reverses the HUD's text alignment and compass rendering to the right side of the screen, and moves the MekaSuit module rendering to the left side. Warning: This may cause subtitles to overlap parts of the HUD such as the compass.
 	reverse = false
 	#Opacity of HUD used by MekaSuit.
-	#Range: 0.0 ~ 1.0
+	# Default: 0.4000000059604645
+	# Range: 0.0 ~ 1.0
 	opacity = 0.4000000059604645
 	#Color (RGB) of HUD used by MekaSuit.
-	#Range: 0 ~ 16777215
+	# Default: 4257264
+	# Range: 0 ~ 16777215
 	color = 4257264
 	#Color (RGB) of warning HUD elements used by MekaSuit.
-	#Range: 0 ~ 16777215
+	# Default: 16768335
+	# Range: 0 ~ 16777215
 	warningColor = 16768335
 	#Color (RGB) of danger HUD elements used by MekaSuit.
-	#Range: 0 ~ 16777215
+	# Default: 16726076
+	# Range: 0 ~ 16777215
 	dangerColor = 16726076
 	#Visual jitter of the MekaSuit HUD, seen when moving the player's head. Higher values increases the amount of jitter.
-	#Range: 1.0 ~ 100.0
+	# Default: 6.0
+	# Range: 1.0 ~ 100.0
 	jitter = 6.0
 	#Display a fancy compass when the MekaSuit Helmet is worn.
 	mekaSuitHelmetCompass = true
+	#Shift the HUD elements when sound subtitles are being displayed to avoid overlap
+	avoidSoundSubtitleOverlap = true
+	#Enables rendering an energy bar above the armor bar that displays the total energy of the currently equipped MekaSuit.
+	renderMekaSuitEnergyBar = true
 
 #Settings for configuring Mekanism's QIO
 [qio]
@@ -78,10 +92,12 @@
 	#Allowed Values: ASCENDING, DESCENDING
 	sortDirection = "ASCENDING"
 	#Number of slots to view horizontally on a QIO Dashboard.
-	#Range: 8 ~ 16
+	# Default: 8
+	# Range: 8 ~ 16
 	slotsWide = 8
 	#Number of slots to view vertically on a QIO Dashboard.
-	#Range: 2 ~ 48
+	# Default: 4
+	# Range: 2 ~ 48
 	slotsTall = 4
 	#Determines whether the search bar is automatically focused when a QIO Dashboard is opened.
 	autoFocusSearchBar = true

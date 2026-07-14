@@ -92,6 +92,8 @@
 	generateFlax = true
 	#Should Coffee generate in the world?
 	generateCoffee = true
+	#Should Rice generate in the world?
+	generateRice = true
 
 #Item settings
 [itemsSettings]

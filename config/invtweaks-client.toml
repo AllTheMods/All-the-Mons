@@ -269,6 +269,18 @@
 	[[sorting.containerOverrides]]
 		containerClass = "cy.jdkdigital.productivetrees.inventory.screen.*"
 		sortRange = ""
+	#Custom settings per GUI
+	#x = x-position of external sort button relative to GUI top left
+	#y = same as above except for the y-position
+	#Omit x and y to leave position unchanged
+	#sortRange = slots to sort
+	#E.g. sortRange = "5,0-2" sorts slots 5,0,1,2 in that order
+	#sortRange = "" disables sorting for that container
+	#Out-of-bound slots are ignored
+	#Omit sortRange to leave as default
+	[[sorting.containerOverrides]]
+		containerClass = "net.pedroksl.advanced_ae.client.gui.*"
+		sortRange = ""
 
 	#Categor(y/ies) for sorting
 	#
@@ -283,20 +295,6 @@
 	#instance of class or exactly of that class respectively
 	#Specifying an item's registry name as a clause checks for that item
 	#Prepending an exclamation mark at the start of a clause inverts it
-
-	#Custom settings per GUI
-    #x = x-position of external sort button relative to GUI top left
-    #y = same as above except for the y-position
-    #Omit x and y to leave position unchanged
-    #sortRange = slots to sort
-    #E.g. sortRange = "5,0-2" sorts slots 5,0,1,2 in that order
-    #sortRange = "" disables sorting for that container
-    #Out-of-bound slots are ignored
-    #Omit sortRange to leave as default
-    [[sorting.containerOverrides]]
-        containerClass = "net.pedroksl.advanced_ae.client.gui.*"
-        sortRange = ""
-
 	[[sorting.category]]
 		name = "sword"
 		spec = ["/instanceof:net.minecraft.world.item.SwordItem"]
@@ -428,8 +426,6 @@
 	[[sorting.category]]
 		name = "blocks"
 		spec = ["/instanceof:net.minecraft.world.item.BlockItem"]
-
-	
 
 #Tweaks
 [tweaks]

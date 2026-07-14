@@ -47,3 +47,11 @@
 		maxStoredPower = 10000
 		#Max Essence [mb] - Default: [64000 mb]
 		tankSize = 64000
+
+	[MachineMiscConfig.MobDetectorConfig]
+		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
+		maxProgress = 10
+		#Amount of Power Consumed per Tick - Default: [400FE]
+		powerPerOperation = 400
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000

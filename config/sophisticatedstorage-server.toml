@@ -496,6 +496,10 @@
 		# Default: 3
 		# Range: 1 ~ 6
 		slotsInRow = 3
+		#List of additional crafting shapes compacting and compression upgrades will try when checking if items can be compacted. Shapes are expected as rows of 1s and 0s separated by / where 1 means the tested item is present and 0 means the slot is empty. Example: "111/101/111" checks a hollow 3x3 shape with 8 items.
+		additionalCompactingShapes = ["111/101/111"]
+		#List of item-specific additional crafting shapes compacting and compression upgrades will try when checking if items can be compacted. Entries are expected in format of "mod:item=shape", for example "some_mod:tiny_coal=111/101/111".
+		additionalCompactingShapeOverrides = []
 
 	#Advanced Compacting Upgrade Settings
 	[server.advancedCompactingUpgrade]

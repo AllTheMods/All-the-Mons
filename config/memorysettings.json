@@ -19,6 +19,10 @@
     "desc:": "Disable the memory warnings, default: false",
     "disableWarnings": false
   },
+  "earlyWarningMinimumMemory": {
+    "desc:": "Set the message used for the early warning screen, notifying the user of too low memory set. You can use %d as placeholder for these memoryvalues, in order: currentmemory, minimum, recommendMemory",
+    "earlyWarningMinimumMemory": "You have allocated less memory( %d MB) than the recommended minimum for this pack: %d MB.\nThe suggested amount for your system is: %d mb.\n Click OK to visit a wiki with instructions on how to allocate more memory, or Cancel to ignore this warning."
+  },
   "howtolink": {
     "desc:": "Set the link used to guide players to a website with instructions to change memory allocation",
     "howtolink": "https://apexminecrafthosting.com/how-to-allocate-more-ram/"

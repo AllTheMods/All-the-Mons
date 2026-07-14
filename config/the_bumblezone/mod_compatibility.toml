@@ -24,7 +24,8 @@
 	# Chance of a Bee spawning from Honeycomb Brood Blocks being replaced by Pokecube's bee Pokemon.
 	# 0 is no Pokemon mobs and 1 is max Pokemon mobs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
 	spawnrateOfPokecubeBeePokemon = 0.05
 
 ["Tropicraft Compat"]
@@ -39,7 +40,8 @@
 	# Chance of a Bee spawning from Honeycomb Brood Blocks in Bumblezone dimension being replaced by Tropicraft's Tropibee.
 	# 0 is no Tropicraft's mobs and 1 is max Tropicraft's mobs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.025
+	# Range: 0.0 ~ 1.0
 	spawnrateOfTropicraftBeesMobs = 0.025
 	#----------------------------
 	#
@@ -53,28 +55,32 @@
 	# Chance of a Bee spawning from Honeycomb Brood Blocks in Bumblezone dimension being replaced by Resourceful Bee's mob.
 	# 0 is no Resourceful Bees mobs and 1 is max Resourceful Bees mobs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.03
+	# Range: 0.0 ~ 1.0
 	spawnrateOfResourcefulBeesMobsBrood = 0.03
 	#----------------------------
 	#
 	# Chance of a regular Bee spawning in Bumblezone being replaced by Resourceful Bee's mob.
 	# 0 is no Resourceful Bees mobs and 1 is max Resourceful Bees mobs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.008
+	# Range: 0.0 ~ 1.0
 	spawnrateOfResourcefulBeesMobsOther = 0.008
 	#----------------------------
 	#
 	# How much of Bee Dungeons is made of honeycombs from `the_bumblezone:resourcefulbees/spawns_in_bee_dungeons` block tag.
 	# 0 is no Resourceful Bees honeycombs and 1 is max Resourceful Bees honeycombs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.06
+	# Range: 0.0 ~ 1.0
 	RBOreHoneycombSpawnRateBeeDungeon = 0.06
 	#----------------------------
 	#
 	# How much of Spider Infested Bee Dungeons is made of honeycombs from `the_bumblezone:resourcefulbees/spawns_in_spider_infested_bee_dungeons` block tag.
 	# 0 is no Resourceful Bees honeycombs and 1 is max Resourceful Bees honeycombs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
 	RBOreHoneycombSpawnRateSpiderBeeDungeon = 0.12
 	#----------------------------
 	#
@@ -122,7 +128,8 @@
 	# Chance of a Bee spawning in Bumblezone or from Honeycomb Brood Blocks being replaced by Productive Bees mob.
 	# 0 is no Productive Bees mobs and 1 is max Productive Bees mobs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.03
+	# Range: 0.0 ~ 1.0
 	spawnrateOfProductiveBeesMobs = 0.03
 	#----------------------------
 	#
@@ -156,14 +163,16 @@
 	# How much of Bee Dungeons is made of ore-based honeycombs.
 	# 0 is no Productive Bees honeycombs and 1 is max Productive Bees honeycombs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.125
+	# Range: 0.0 ~ 1.0
 	PBOreHoneycombSpawnRateBeeDungeon = 0.125
 	#----------------------------
 	#
 	# How much of Spider Infested Bee Dungeons is made of ore-based honeycombs.
 	# 0 is no Productive Bees honeycombs and 1 is max Productive Bees honeycombs.
 	#
-	#Range: 0.0 ~ 1.0
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
 	PBOreHoneycombSpawnRateSpiderBeeDungeon = 0.25
 
 ["Friends and Foes Compat"]
@@ -223,3 +232,10 @@
 	# Allow loot Cocoons to have compat with Lootr
 	#
 	allowLootrCompat = true
+
+["Create Compat"]
+	#----------------------------
+	#
+	# Allow Honey and Royal Jelly fluids to spawn Create's Limestone when they touch Lava.
+	#
+	allowCreateLimestoneForHoneyLavaCompat = true

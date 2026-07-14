@@ -9,7 +9,7 @@
 		fuelUsageMultiplier = 0.8
 		#A multiplier for balancing overall power production from Extreme Reactors generators.
 		# Default: 1.0
-		# Range: 0.5 ~ 100.0
+		# Range: 0.005 ~ 100.0
 		powerProductionMultiplier = 4.0
 		#Number of ticks between updates for the Redstone Port.
 		# Default: 20
@@ -31,7 +31,7 @@
 		maxReactorSize = 32
 		#A multiplier for balancing Reactor power production. Stacks with powerProductionMultiplier.
 		# Default: 1.0
-		# Range: 0.5 ~ 100.0
+		# Range: 0.005 ~ 100.0
 		reactorPowerProductionMultiplier = 3.0
 
 	#Define how Turbines works
@@ -68,7 +68,7 @@
 		#A multiplier for balancing turbine power production.
 		#Stacks with powerProductionMultiplier.
 		# Default: 1.0
-		# Range: 0.5 ~ 10.0
+		# Range: 0.005 ~ 100.0
 		turbinePowerProductionMultiplier = 3.0
 
 	#Define how Fluidizer works

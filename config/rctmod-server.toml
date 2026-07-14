@@ -167,3 +167,6 @@
 	#━━━━━━━━━━
 	#If enabled additional information are printed to the log whenever a trainer spawns or despawns.
 	logSpawning = false
+	#━━━━━━━━━━
+	#If enabled additional information are printed to the log whenever a trainer repel rod is registered or unregistered.
+	logRepelRods = false
