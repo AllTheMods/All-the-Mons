@@ -124,6 +124,26 @@
             ],
             "time": 120
         }).id(`mega_showdown:zygarde_cube`)
+
+        // Alternate Tainted Refinery Recipe
+		allthemods.custom({
+		  "type": "oritech:particle_collision",
+		  "ingredients": [
+			{
+			  "item": "oritech:refinery_block"
+			},
+			{
+			  "item": "deeperdarker:soul_crystal"
+			}
+		  ],
+		  "results": [
+			{
+			  "count": 1,
+			  "id": "oritech:tainted_refinery_block"
+			}
+		  ],
+		  "time": 6000
+		})
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
