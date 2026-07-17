@@ -18,7 +18,7 @@
 	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers gives us many different varients of Creepers for different Biomes. \\n\\nEach have different drops and even some are friendly! \\n\\nAll are afraid of cats though..."]
 	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
 	quest.2B05A29C62676EB2.title: "&l&9Overworld Bounty:&r&e Zombies"
-	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. \\n\\nHusks- spawn in Deserts. \\nDrowned- spawn Underwater. \\nGelid- spawn in Cold Biomes. \\nThickets- spawn in Jungles."]
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zombies have different varients that spawn in other Biomes. \\n\\nHusks- spawn in Deserts. \\nDrowned- spawn Underwater."]
 	quest.2BD077EFE77B8EBB.title: "Zombie Variants"
 	quest.2CA9394459C24012.quest_desc: ["Rotbeasts are Minibosses that spawn all over the Undergarden."]
 	quest.2CA9394459C24012.title: "Kill A Rotbeast"
@@ -35,7 +35,7 @@
 	quest.570223A03231DF8C.title: "Overhauled Endermen"
 	quest.5AC497F76A086A5C.title: "&l&9Overworld Bounty:&r&e Witches"
 	quest.6141DE779232C8AA.title: "&l&cThe Nether Bounty:&r&e Blazes"
-	quest.6827836C8E675A94.quest_desc: ["Skeletons have different varients, like Zombies do! \\n\\nStrays- spawn in Cold Biomes. \\nBogged- spawn in Swamps and Trial Chambers. \\nMurks- spawn underwater in Coral Reefs. \\nVerdants- spawn in Jungles."]
+	quest.6827836C8E675A94.quest_desc: ["Skeletons have different varients, like Zombies do! \\n\\nStrays- spawn in Cold Biomes. \\nBogged- spawn in Swamps and Trial Chambers."]
 	quest.6827836C8E675A94.title: "Skeleton Variants"
 	quest.6DCDD55786025911.quest_desc: ["The Starlight Golem is the second Boss in the Eternal Starlight. \\n\\nHe is charging in the Golem Forge awaiting for a Player to come fight him!"]
 	quest.6DCDD55786025911.title: "Kill The Starlight Golem"
