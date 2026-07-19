@@ -124,6 +124,26 @@
             ],
             "time": 120
         }).id(`mega_showdown:zygarde_cube`)
+		
+		// Resolve conflict between Infused Alloy and Redstone Alloy
+		allthemods.custom({
+		    "type": "oritech:foundry",
+		    "ingredients": [
+			  {
+			    "tag": "c:storage_blocks/redstone"
+			  },
+			  {
+			    "tag": "c:storage_blocks/copper"
+			  }
+		    ],
+		    "results": [
+			  {
+			    "count": 1,
+			    "id": "enderio:redstone_alloy_block"
+			  }
+		    ],
+		    "time": 1080
+		}).id("oritech:foundry/alloy/compat/enderio/redstonealloy")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
