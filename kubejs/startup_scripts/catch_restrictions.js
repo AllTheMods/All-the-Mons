@@ -76,14 +76,14 @@ global.battleStartedPre = (/** @type {import("com.cobblemon.mod.common.api.event
       if (actor.type != "player") continue
       for (let pokemon of actor.pokemonList) {
         let owner = pokemon.originalPokemon.getOwnerPlayer()
-        console.log("Owner is: " + owner)
-        console.log("Original Pokemon is: " + pokemon.originalPokemon)
+        // console.log("Owner is: " + owner)
+        // console.log("Original Pokemon is: " + pokemon.originalPokemon)
         if (owner != null) {
           let restrictedByPika = isRestrictedByPikaStar(pokemon.originalPokemon)
           console.log("Restricted is: " + restrictedByPika)
           if (restrictedByPika) {
             let region = getPokemonRegion(pokemon.originalPokemon)
-            console.log("Region is: " + region)
+            // console.log("Region is: " + region)
             if (region == null) continue
             if (!owner.isAdvancementDone("allthemons:" + region.serializedName + "_pika_star")) {
               startedPreEvent.reason = Text.translate("kubejs.atm.catch_restrictions.own_pika_knowledge", region.name(), pokemon.originalPokemon.getDisplayName(false))
