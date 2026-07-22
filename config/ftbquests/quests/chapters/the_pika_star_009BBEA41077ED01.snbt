@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "the_pika_star_009BBEA41077ED01"
 	group: "2084F3F6FB861C5B"
+	icon: {
+		id: "allthemons:shiny_pika_star"
+	}
 	id: "009BBEA41077ED01"
 	order_index: 3
 	quest_links: [ ]
@@ -62,7 +65,12 @@
 			y: -11.0d
 		}
 		{
-			dependencies: ["3B7A4929A1FCFFC6"]
+			dependencies: [
+				"3B7A4929A1FCFFC6"
+				"6E2B112E46A5A2BE"
+				"38A6963FFAC245AA"
+				"36754054DFAC4CF7"
+			]
 			icon: {
 				id: "allthemons:pika_star"
 			}
@@ -478,6 +486,103 @@
 			]
 			x: 0.0d
 			y: -6.5d
+		}
+		{
+			id: "6E2B112E46A5A2BE"
+			tasks: [
+				{
+					id: "2D900E98F2464792"
+					item: { count: 1, id: "mega_showdown:red_orb" }
+					type: "item"
+				}
+				{
+					id: "29BA629AD8F5BE75"
+					item: { count: 1, id: "mega_showdown:blue_orb" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			icon: {
+				id: "allthemons:atm_badge_box"
+			}
+			id: "38A6963FFAC245AA"
+			tasks: [
+				{
+					id: "780830D4000C3C27"
+					item: { count: 1, id: "allthemons:the_skyblock_badge" }
+					type: "item"
+				}
+				{
+					id: "706A8EF3CD62CEC5"
+					item: { count: 1, id: "allthemons:the_lobster_badge" }
+					type: "item"
+				}
+				{
+					id: "61A6CFA7C5A36DCB"
+					item: { count: 1, id: "allthemons:the_bathsalts_badge" }
+					type: "item"
+				}
+				{
+					id: "7B94BE6DC5824338"
+					item: { count: 1, id: "allthemons:the_microwave_badge" }
+					type: "item"
+				}
+				{
+					id: "24405AC354FBD2D4"
+					item: { count: 1, id: "allthemons:the_toblerone_badge" }
+					type: "item"
+				}
+				{
+					id: "256FA8A1365661E4"
+					item: { count: 1, id: "allthemons:the_kitty_badge" }
+					type: "item"
+				}
+				{
+					id: "4DDAAC97BB737E8C"
+					item: { count: 1, id: "allthemons:the_artist_badge" }
+					type: "item"
+				}
+				{
+					id: "4CEBC10252D0493C"
+					item: { count: 1, id: "allthemons:the_ralph_badge" }
+					type: "item"
+				}
+				{
+					id: "0368348271535978"
+					item: { count: 1, id: "allthemons:the_unknown_badge" }
+					type: "item"
+				}
+				{
+					id: "2D829613D1D3237E"
+					item: { count: 1, id: "allthemons:the_vortex_badge" }
+					type: "item"
+				}
+				{
+					id: "5B837D67126ADD27"
+					item: { count: 1, id: "allthemons:the_drunk_badge" }
+					type: "item"
+				}
+				{
+					id: "0533F184CADA0AF0"
+					item: { count: 1, id: "allthemons:the_notch_badge" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			id: "36754054DFAC4CF7"
+			tasks: [{
+				id: "675053A83DE9AB01"
+				item: { count: 1, id: "productivetrees:star_fruit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -8.5d
 		}
 	]
 }
