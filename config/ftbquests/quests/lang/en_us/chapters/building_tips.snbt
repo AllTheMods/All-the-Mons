@@ -34,6 +34,14 @@
 	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
 	quest.1972B36F72808D55.quest_desc: ["Only some of theses stones are chipped though."]
 	quest.1972B36F72808D55.title: "&l&bChipped&r Stones"
+	quest.1CF227F4B5D3F88B.quest_desc: [
+		"&d&lCamol&r is the answer to camouflaging &lEVERYTHING.&r From Pipez to Mekanism Cables to ATM Stars, and everything but the- no, wait, the Kitchen Sink, too.\\n\\nCraft the &d&lCamo Block&r together with the block you want to use for the camo, then right click it on the block you want to camouflage, like some kind of cable or something.\\n\\nBy default the &d&lCamo Block&r will take on the collision shape of the camoed block. You can change this to the Shape Retaining version by putting it into a crafting grid by itself. This will make it take on the shape of the camoing block.\\n\\nIf you want to remove a &d&lCamo Block&r, right click the camoed block with another Camo Block."
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.1CF227F4B5D3F88B.title: "&d&lCamol"
+	quest.1E53576CC2566FF0.quest_desc: ["&l&cCobble&fFurnies&r adds a variety of furniture, most of which are themed around &cPokemon&r.\\n\\nThere's Stools, Chairs, Tables, &7Statues&r of certain &cPokemon&r, a TV, and more.\\n\\nIt even has its own options for your kitchen, including a stove for your Campfire Pots.\\n\\nMost of these are made with the Furni Crafter."]
+	quest.1E53576CC2566FF0.title: "&l&cCobble&fFurnies"
 	quest.2094D1CE4BA66091.quest_desc: ["Light is a very important part of any Base. \\n\\nIt keeps Monsters from Spawning, helps to see, and even adds more Color and life to your Builds! \\n\\nOr you can just use Night Vision but where's the fun in that!"]
 	quest.22D2CFDDB06C720C.quest_desc: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks that same pickaxe/axe/shovel tier can!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
@@ -79,6 +87,8 @@
 	quest.44688FC2E34FF09F.quest_desc: ["Minecraft already adds hundreds of Blocks, and Mods add hundreds more! But sometimes it is still not enough. \\n\\nWith some Mods we can change the Blocks we already have into ones with different shapes, designs, and even into entirely new Blocks!"]
 	quest.44688FC2E34FF09F.title: "Changing Blocks"
 	quest.48971CE964CF037F.quest_desc: ["While protecting our Nuclear Reactors are important and viewing the contents of them relate to the safety of it. \\n\\nThe Glass can also be used to make our bases look better! \\n\\nAnd really what's more important: safety and protection of our nuclear reactors? Or making our bases look better!"]
+	quest.4BEA1F7E788B50C5.quest_desc: ["&l&cChisel Reborn&r is another Mod based off of &lChiseled&r. \\n\\nThe essence of the Mod is...wait, wrong quest.\\n\\n&l&cCobble&fmon &7Stone Statues&r allows you to make a &7Statue&r of basically any &cPokémon&r you can think of, in a variety of different poses.\\n\\nRight click with the &7Statue&r Chisel to select a &cPokémon&r, then one of their possible poses, whether to make the &7Statue&r out of &7Stone&r or &6Gold&r, and also the scale of the &7Statue&r, to make it bigger or smaller.\\n\\nYou will need 5 &7Stone&r or 5 &6Gold Blocks&r in your inventory to place a Statue.\\n\\nYou guessed it, this Chisel doesn't have Durability either."]
+	quest.4BEA1F7E788B50C5.title: "&l&cCobble&fmon &7Stone Statues"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["This isn't necessary but I find it very helpful. \\n\\nThe Digging Claws increases your Pickaxe Tier, for your Hands. So you can Mine up to Iron Ore with just your Fists! \\n\\nThat also includes mining things like Stone, Terracotta, and Concrete. And you can even mine those with the Blocks in your Hands. \\n\\nHonestly it basically is needed."]
 	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks are Blocks made through &l&7PneumaticCraft: Repressurized&r. \\n\\nJust like their real life counter parts they hurt to step on! \\n\\nSo either wear Shoes or smooth down the Bricks."]
 	quest.5716E84828EC0C23.title: "Plastic Construction Bricks"
@@ -128,6 +138,7 @@
 	task.0ED255BCB75ECCF1.title: "Crystalix Glass"
 	task.104E1A4BF3520D67.title: "Reactor Glass"
 	task.16EF7FF802D5A2BB.title: "Framed Blocks"
+	task.1704AD6581E815EC.title: "CobbleFurnies"
 	task.195338A3977C682E.title: "Mystical Agriculture Blocks"
 	task.1A66B7FFB4E2163E.title: "Vanilla Logs"
 	task.1A7078C3984DD910.title: "Netherite Blocks"

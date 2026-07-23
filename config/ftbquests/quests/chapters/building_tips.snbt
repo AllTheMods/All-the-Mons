@@ -128,8 +128,8 @@
 				item: { count: 1, id: "rechiseled:chisel" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -9.0d
+			x: 10.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["44688FC2E34FF09F"]
@@ -150,7 +150,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(chipped:botanist_workbench)item(chipped:glassblower)item(chipped:carpenters_table)item(chipped:loom_table)item(chipped:mason_table)item(chipped:alchemy_bench)item(chipped:tinkering_table)item(chipped:watering_can)item(chipped:alchemy_book)item(chipped:saw)item(chipped:needles)item(chipped:chisel)item(chipped:multimeter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 9.0d
 			y: -7.0d
 		}
 		{
@@ -510,7 +510,7 @@
 				item: { count: 1, id: "chisel:chisel" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 9.0d
 			y: -10.0d
 		}
 		{
@@ -617,7 +617,7 @@
 		{
 			dependencies: ["3ED8365BAD406CC5"]
 			icon: {
-				id: "farmersdelight:basket"
+				id: "farmersdelight:bamboo_basket"
 			}
 			id: "5D5563142917495A"
 			rewards: [
@@ -698,8 +698,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(mod(framedblocks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -7.5d
+			x: 10.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["61BE7882EE0E6FAF"]
@@ -1392,7 +1392,7 @@
 			}]
 			tasks: [{
 				id: "6AA15FFFC5961428"
-				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.20861d } } }, fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.32347d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
+				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, stats: { bare_hands_speed: { initialQuality: 6 }, momentum_per_block: { initialQuality: 1 }, momentum_window: { initialQuality: 2 }, speed: { initialQuality: 2 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -1725,6 +1725,68 @@
 			}]
 			x: -10.5d
 			y: -2.0d
+		}
+		{
+			dependencies: ["3ED8365BAD406CC5"]
+			icon: {
+				id: "cobblefurnies:poke_ball_desk"
+			}
+			id: "1E53576CC2566FF0"
+			rewards: [{
+				id: "601FAAB7653B1569"
+				item: {
+					count: 1
+					id: "cobblefurnies:red_stove"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1704AD6581E815EC"
+				item: { components: { "ftbfiltersystem:filter": "mod(cobblefurnies)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3ED8365BAD406CC5"]
+			id: "4BEA1F7E788B50C5"
+			rewards: [{
+				count: 32
+				id: "73A0189516F39D1D"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "54C3C3C6DB436151"
+				item: { count: 1, id: "cobblemonstonestatues:statue_chisel" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["44688FC2E34FF09F"]
+			id: "1CF227F4B5D3F88B"
+			rewards: [{
+				count: 8
+				id: "3B7F08057A95CB69"
+				item: {
+					count: 1
+					id: "camol:camo_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BD52DA09DC0E9AA"
+				item: { count: 1, id: "camol:camo_item" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -8.5d
 		}
 	]
 }

@@ -18,6 +18,7 @@
 	quest.09D76E9B8CABC31E.quest_desc: ["For &5&lCreative Essence&r you'll need 4 &5Insanium Essence Blocks&r. Each Block is 9 &5Essence&r now let me do the math... \\n\\nYou'll need 9,216 &aInferium Essence&r to get just one of these Blocks. So you'll need 36,864 &aInferium Essence&r total!"]
 	quest.09D76E9B8CABC31E.title: "4 &5Insanium Blocks"
 	quest.0AE28C998A3BF136.quest_subtitle: "531,441 Netherrack"
+	quest.0C7D96DB3573EF9C.quest_desc: [""]
 	quest.0C7D96DB3573EF9C.quest_subtitle: "&oAbility to create life."
 	quest.0C7D96DB3573EF9C.title: "&5&lCreative Essence"
 	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Dry Green Blocks"
@@ -28,10 +29,12 @@
 	quest.14B7EEBE0F6C2776.quest_desc: ["&dInfused Dragon's Breath&r is obtained by... well Infusing &dDragon's Breath&r. \\n\\nYou can use 2 &9Soul-Touched Sculkshelves&r, 3 &bHeart-Forged Seashelves&r, 8 Normal Bookshelves, and 1 &6Geode-Encased Bookshelf of Stability&r. \\n\\nIt'll also be needed for other recipes but we don't talk about that!"]
 	quest.14B7EEBE0F6C2776.title: "&dInfused Dragon's Breath"
 	quest.174D18D9D732EC10.quest_subtitle: "8 Wet Green Blocks"
+	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oToo bad SpongeBob isn't a Star."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aStar&r"
 	quest.197AC6B76C28E63B.quest_desc: ["We've got 55 Items to combine into 1... that sounds like too big for a Crafting Table! \\n\\nWe'll need &6Mechanical Crafters&r from &6&lCreate&r to create our Star. 55 total in a 9x9 Star Shape. Now it can be upside down as well! \\n\\nMake sure all &6Crafters&r are connected by Right Clicking with the &6&lCreate&r Wrench on its sides to change its direction. All of them need to go to one final spot. \\n\\nOnce all Items are in and each &6Crafter&r is given &dRotational Power&r the &6&lATM Star&r will be created!"]
 	quest.197AC6B76C28E63B.title: "Crafting the &6&lATM Star"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oThe unknown but yet it is everything we do know."
 	quest.1CE7B24E7E62C25B.title: "&d&lPulsating &8Black Hole"
 	quest.1EB04FE105ACA4BE.quest_desc: ["When a &9Warden&r dies it has a chance to drop a &9Heart of the Deep&r. \\n\\nThis can be used for the &6&lATM Star&r, or to activate the Portal in the Ancient City! \\n\\nThere can't be anything in the Portal to activate it, that includes &9Sculk&r!"]
@@ -44,8 +47,10 @@
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
 	quest.2171DC0B13C4BD43.quest_desc: ["&a&lRoots Classic&r may look small in JEI but I can promise you there's so much to it! \\n\\nRoots is all about using nature's gifts to make rituals.\\n\\nTrust me you'll find these items everywhere!"]
 	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
 	quest.217DF3B66A07A8DE.quest_subtitle: "&oGarden of Eden in just a single Seed."
 	quest.217DF3B66A07A8DE.title: "&3&lDimensional &2Seed"
+	quest.2188C52C1F384DE4.quest_desc: [""]
 	quest.2188C52C1F384DE4.quest_subtitle: "&oEver burning fuel (not really)."
 	quest.2188C52C1F384DE4.title: "&c&lPhilosopher's Fuel"
 	quest.21AB14A8553896E9.quest_desc: ["Guys I think you didn't hear me right I said &e&lProductive Bees&r! Oh wait there's another Mod! \\n\\nThis one is related to &e&lProductive Bees&r as you'll need them for breeding Trees. \\n\\nNo, Trees do not use Wheat to breed, they use Bees. \\n\\n&oThe Trees and the Bees&r."]
@@ -92,10 +97,12 @@
 	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \\n\\nLuckily the only thing scary about &a&lExtreme Reactors&r is how confusing it can be to follow the recipes! \\n\\nNot the explody part they don't do that."]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Wet Light Green Blocks"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
 	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
 	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r is one of the most popular Machine and Technology Mods. Quite frankly I have a hard time summarizing it as it has so much in it! \\n\\nIt has so much we even had to make 2 Quest Pages for it! \\n\\nThe stuff we need for the &6&lATM Star&r is in the Reactors page but you'll need to get through the Mekanism page to get there."]
 	quest.372B5BF416CA83A4.title: "&5&lMekanism"
+	quest.39B4F361EF611927.quest_desc: [""]
 	quest.39B4F361EF611927.quest_subtitle: "&oPower over Death itself."
 	quest.39B4F361EF611927.title: "&l&8Wither's Compass"
 	quest.39F9C825B03DA317.quest_desc: ["&8Aerial Interface&r works as a link between it's own internal storage and your Inventory. Basically whatever goes in it, goes to you. \\n\\nYou'll need a whole assembly line to craft it, the Quests should help you!"]
@@ -131,6 +138,7 @@
 	quest.4D660BB94FD3D1D4.quest_desc: ["Like most things with &b&lOccultism&r, we'll need a Ritual! \\n\\nThis one will combine &cNetherite Dust&r, &0Crushed Blackstone&r, a &0Wither Rose&f, and a &0Wither Skeleton Skull&r. \\n\\nYou'll also need &aLime&f, &7Grey&f, White, &5Purple&f, and &6Orange Chalk&r. Plus Skeleton Skulls, Candles, and Spirit Attuned Crystals. \\n\\nI'm not going to try and explain how to put it all together, instead you can use the Visualizer in JEI (eye button in bottom left of the Recipe)."]
 	quest.4D660BB94FD3D1D4.title: "&8Witherite Dust"
 	quest.4D7D4C718837BCA5.quest_desc: ["The main part of the recipe for the Miniature Nether Portal is the &3Hellshelf of Masterful Sight&r. Usually it is used to see what Enchantments you'll get but we're here for the &6&lATM Star&r not for Enchantments. \\n\\nYou'll only need to enchant to an &4Infused Hellshelf&r which you can get from just a few Shelves. Then you need to craft with it to upgrade it even more! \\n\\nAfter that you can craft the Miniature Nether Portal, which no you can't walk through you're too big!"]
+	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssence of the most powerful beings."
 	quest.4E82E843737045D9.title: "&d&lDragon Soul"
 	quest.4E8C32CD6057A1AB.quest_desc: ["The &cBlaze Burner&r is actually probably one of the easiest &6&lStar&r Ingredients! \\n\\nFirst, we'll need an &cEmpty Blaze Burner&r. These are just 4 &7Iron Plates&r and a single &cNetherrack&r. \\n\\nThen, take your &cEmpty Blaze Burner&r and find a &cBlaze&r. You should know where they spawn but incase you don't: &cBlazes&r spawn in Structures in &c&lThe Nether&r. Just Right Click the &cBlaze&r with the &cEmpty Blaze Burner&r to capture it! \\n\\nOnce captured, it can be used to make the &c&lPhilosopher's Fuel&r."]
@@ -140,6 +148,7 @@
 	quest.501A0AEEC73C0790.title: "&6Piglich Heart Block"
 	quest.535525EA4DF4AB59.quest_desc: ["The &cPlayer Transmitter&r will supply energy to anyone with the Binded Card. That includes energy to all armor, tools, and items in their inventory. \\n\\nThe &cNitro Tier&r is needed for the &6&lStar&r, which is of course the last and hardest one to get."]
 	quest.535525EA4DF4AB59.title: "&cNitro Player Transmitter"
+	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPower and destruction like no other!"
 	quest.54B1A876E9F6707A.title: "&5&lOblivion Shard"
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
@@ -171,10 +180,11 @@
 	quest.67C76EDD4BCCFF3F.quest_desc: ["Through &bStrigeor's Higher Binding&r we can make an &bEmpty Soul Gem&r. \\n\\nThese can be used to transport Mobs safely, or make the &d&lDragon Soul&r. \\n\\nPersonally I think we should do both!"]
 	quest.67C76EDD4BCCFF3F.title: "&bEmpty Soul Gem"
 	quest.6877F33323910716.quest_desc: ["Tier 4 Pocket Storage has 64 Slots for Items and each hold 1,048,575 Items. That's 67,108,800 Items total. Move over Backpacks you've been replaced! \\n\\nIt only costs a few Nether Stars which in Modded honestly isn't expensive for what you get!"]
-	quest.6A12188E50EAEB78.quest_desc: ["The &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &cR&6a&ei&2n&3b&9o&5w&r &cC&eo&ar&9e&r which needs 2 &cNetherite Furnaces&r and all the colors of the &cr&6a&ei&2n&3b&9o&5w&r in Glass! \\n\\nThen, you'll need &cR&6a&ei&2n&3b&9o&5w&r &cP&6l&ea&at&3i&9n&5g&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
-	quest.6A12188E50EAEB78.title: "2 &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&cs"
+	quest.6A12188E50EAEB78.quest_desc: ["The &zRainbow Furnaces&r will smelt a stack of Items at a time! \\n\\nTo craft it you will need a &zRainbow Core&r which needs 2 &cNetherite Furnaces&r and all the colors of the &zrainbow&r in Glass! \\n\\nThen, you'll need &zRainbow Plating&r which you get from combining almost every other Furnace in the mod. You'll need 2 of them to craft the &3&lImprobable Probablility Device&r."]
+	quest.6A12188E50EAEB78.title: "2 &zRainbow Furnaces"
 	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf is a name synonymous with Modded Minecraft and &3&lJust Dire Things&r is one of his babies. \\n\\nIt revolves around Goo, yeah I know sounds enticing!"]
 	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
 	quest.6CAD67D21E1EA861.quest_subtitle: "&oUniversal remote access."
 	quest.6CAD67D21E1EA861.title: "&7&lNexium Emitter"
 	quest.6D1E8399AD39FFC8.quest_desc: ["The &7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, will take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
@@ -212,8 +222,8 @@
 	quest.7D1A27CBF1508712.title: "&aZygarde Cube"
 	quest.7D359283625C1869.quest_desc: ["&4&lCataclysm&r is an adventure Mod that is all about adding new Bosses! And everything from and around them! \\n\\nYou'll find the Structures all around the &2&lOverworld&r, &4&lThe Nether&r, and &5&lThe End&r. \\n\\nWithin will be new Mobs, Minibosses, and very difficult Bosses. You can kill them all to get new Weapons, Armor, and Items!"]
 	quest.7D359283625C1869.title: "&4&lCataclysm"
-	quest.7D972A3C4211EB26.quest_desc: ["&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l&r is obtained by blowing up a &cR&6a&ei&2n&3b&9o&5w &cF&6u&er&2n&3a&9c&5e&r."]
-	quest.7D972A3C4211EB26.title: "&cR&6a&ei&2n&3b&9o&5w &cC&eo&3a&5l"
+	quest.7D972A3C4211EB26.quest_desc: ["&zRainbow Coal&r is obtained by blowing up a &zRainbow Furnace&r."]
+	quest.7D972A3C4211EB26.title: "&zRainbow Coal"
 	quest.7E4367252A39BE6C.quest_desc: ["&c&lPowah&r is about power! Generating Power like FE to use Machines from other Mods like &5&lMekanism&r or &lIndustrial Foregoing&r! \\n\\nThere's different Tiers you'll have to craft up to and of course we'll need the last one for the &6&lStar&r!"]
 	quest.7E4367252A39BE6C.title: "&c&lPowah"
 	task.644EBD9EBC93EB3C.title: "AllRightsReserved"
