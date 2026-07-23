@@ -2,7 +2,7 @@
   Cobblemon medicine recipes for the Industrial Foregoing Potion Brewer.
 */
 
-if (Platform.isLoaded('cobblemon') && Platform.isLoaded('industrialforegoing')) {
+if (Platform.isLoaded('cobblemon')) {
   NativeEvents.onEvent('net.neoforged.neoforge.event.brewing.RegisterBrewingRecipesEvent', event => {
     const builder = event.getBuilder()
     const waterPotion = Ingredient.of('minecraft:potion[potion_contents={potion:"minecraft:water"}]')
