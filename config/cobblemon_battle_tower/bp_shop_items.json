@@ -13,6 +13,13 @@
       "bp_cost": 10,
       "item_id": "mega_showdown:mega_stone",
       "quantity": 1
+    },
+	{
+      "id": "sigil_of_supremacy",
+      "display_name": "Sigil of Supremacy",
+      "bp_cost": 100,
+      "item_id": "apotheosis:sigil_of_supremacy",
+      "quantity": 1
     }
   ],
   
