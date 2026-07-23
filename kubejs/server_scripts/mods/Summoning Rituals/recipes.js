@@ -162,30 +162,17 @@ ServerEvents.recipes(event => {
     .blockPattern(pattern => {
       pattern
         .name(Text.translatable("kubejs.atm.sr.deoxys_structure"))
-        // Deoxys base with the lit, fully-charged crystal from the minigame on top
         .block([0, 0, 4], "allthemons:deoxys_base")
         .block([0, 1, 4], "allthemons:deoxys_crystal", {"lit": true})
-        // Source Jars flanking the base, with their relays above
         .block([-3, 0, 4], "ars_nouveau:source_jar")
         .block([3, 0, 4], "ars_nouveau:source_jar")
         .block([-3, 1, 4], "ars_nouveau:relay")
         .block([3, 1, 4], "ars_nouveau:relay")
-        // Five 3-tall arcane crystal obelisks ringing the base
         .block([-6, 0, 5], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "lower"})
-        .block([-6, 1, 5], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "middle"})
-        .block([-6, 2, 5], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "upper"})
         .block([-4, 0, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "lower"})
-        .block([-4, 1, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "middle"})
-        .block([-4, 2, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "upper"})
         .block([0, 0, 9], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "lower"})
-        .block([0, 1, 9], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "middle"})
-        .block([0, 2, 9], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "upper"})
         .block([4, 0, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "lower"})
-        .block([4, 1, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "middle"})
-        .block([4, 2, 8], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "upper"})
         .block([6, 0, 6], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "lower"})
-        .block([6, 1, 6], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "middle"})
-        .block([6, 2, 6], "forbidden_arcanus:arcane_crystal_obelisk", {"part": "upper"})
       return pattern
     })
     .id("allthemons:deoxys")
