@@ -5,196 +5,294 @@
 	quest.1E6E0002E57A0C75.quest_desc: ["Muito antes de pessoas caminharem por estas terras, ergueram-se grandes &6templos&r para abrigar os Pokémon mais poderosos de todos. Eles ainda permanecem de pé, surgindo pelo mundo nos biomas que combinam com a lenda em seu interior.\\n\\nNão há chaves ou rituais com que se preocupar aqui. Encontre a estrutura, abra caminho até a câmara em seu coração e o Pokémon que espera lá dentro se virará para enfrentar você. Uma &bBússola do Explorador&r torna a busca muito mais rápida, embora o bom e velho ato de vagar funcione da mesma forma."]
 	quest.1E6E0002E57A0C75.title: "&6Templos Ancestrais"
 	quest.1E6E0003C0FFEE01.quest_desc: ["Muito abaixo da superfície, na escuridão inundada da &9Caverna da Origem&r, dorme a fera que moldou os mares. Antigos marinheiros contavam sobre uma baleia que elevou os oceanos acima da terra e afogou o mundo em uma chuva interminável.\\n\\nDesça até a caverna e alcance seu coração para despertá-la. Traga uma equipe que consiga se virar na água e prepare-se para uma tempestade quando o Pokémon Marinho Ancestral finalmente despertar."]
+	quest.1E6E0003C0FFEE01.quest_subtitle: "Hoenn"
 	quest.1E6E0003C0FFEE01.title: "Kyogre"
 	quest.1E6E0004C0FFEE02.quest_desc: ["Nas profundezas dos salões de magma da &cTumba da Origem&r repousa o titã que ergueu os continentes do mar. Seu corpo corre com rocha derretida e o próprio chão treme a cada passo dado.\\n\\nAtravesse o calor até o núcleo da tumba para acordá-lo. Resistência a Fogo e uma equipe robusta que suporte golpes pesados serão úteis contra a força mais Ancestral da Terra."]
+	quest.1E6E0004C0FFEE02.quest_subtitle: "Hoenn"
 	quest.1E6E0004C0FFEE02.title: "Groudon"
 	quest.1E6E0005C0FFEE03.quest_desc: ["No topo do &aPilar do Céu&r, bem acima das nuvens, reside o guardião dos céus. Ele vagou pela atmosfera superior por eras incontáveis, alimentando-se de meteoros, e é o único capaz de encerrar uma disputa entre o mar e a terra.\\n\\nSuba o pilar até o pico para desafiá-lo. O caminho é longo e uma queda será fatal, então prepare-se tanto para a escalada quanto para o dragão que espera no cume."]
+	quest.1E6E0005C0FFEE03.quest_subtitle: "Hoenn"
 	quest.1E6E0005C0FFEE03.title: "Rayquaza"
 	quest.1E6F000000001001.quest_desc: ["A Equipe Rocket esculpiu uma fortaleza em um vulcão ativo e a encheu com lendas modificadas. O monumento surge pelo mundo e três Pokémon poderosos esperam em suas câmaras internas.\\n\\nLute para entrar e enfrente-os. Isso é tecnologia e ambição, não um mito antigo, então espere uma briga em vez de um santuário."]
 	quest.1E6F000000001001.title: "&cVulcão da Equipe Rocket"
 	quest.1E6F000000001004.quest_desc: ["A obra-prima da Equipe Rocket fica no coração do vulcão - um Pokémon fóssil de 300 milhões de anos reconstruído como uma arma viva, com um canhão acoplado às costas. Vença a máquina e o inseto por baixo dela será seu."]
+	quest.1E6F000000001004.quest_subtitle: "Unova"
 	quest.1E6F000000001004.title: "Genesect"
 	quest.1E6F00000000100A.quest_desc: ["Trancado no vulcão está o Tipo: Nulo, uma quimera sintética criada para combater outras lendas e mascarada para que seu poder permaneça selado. Capture-o, aumente a confiança dele e ele perderá a máscara para se tornar Silvally."]
+	quest.1E6F00000000100A.quest_subtitle: "Alola"
 	quest.1E6F00000000100A.title: "Tipo: Nulo"
 	quest.1E6F000000001010.quest_desc: ["Nas profundezas do vulcão vive Volcanion, o único Pokémon que é tanto de Fogo quanto de Água. Ele libera vapor com força suficiente para destruir o interior de uma montanha. Encurrale-o nas câmaras de magma e derrote-o."]
+	quest.1E6F000000001010.quest_subtitle: "Kalos"
 	quest.1E6F000000001010.title: "Volcanion"
 	quest.1E6F000000001016.quest_desc: ["No alto do reino flutuante do &bAether&r, reconstruíram três masmorras ao redor dos &dTrês Leais&r, os retentores de uma antiga lenda. Cada masmorra guarda um deles, e o Boneco de Pecharunt aparece entre os espólios do Aether.\\n\\nConclua as masmorras de Bronze, Prata e Ouro para obter os três. Você os quererá juntos mais tarde."]
 	quest.1E6F000000001016.title: "&bMasmorras do Aether"
 	quest.1E6F000000001019.quest_desc: ["O chefe da Masmorra de Bronze é Munkidori, o macaco sábio dos Três Leais, que brinca com a mente de seus inimigos a uma distância segura. Vença a masmorra e adicione-o ao seu grupo, já que Pecharunt o quererá por perto."]
+	quest.1E6F000000001019.quest_subtitle: "Paldea"
 	quest.1E6F000000001019.title: "Munkidori"
 	quest.1E6F00000000101F.quest_desc: ["O chefe da Masmorra de Prata é Fezandipiti, a ave vaidosa dos Três Leais, cujo aroma inspira aliados e inquieta inimigos. Conclua a masmorra para capturá-lo, um dos três que Pecharunt exige."]
+	quest.1E6F00000000101F.quest_subtitle: "Paldea"
 	quest.1E6F00000000101F.title: "Fezandipiti"
 	quest.1E6F000000001025.quest_desc: ["O chefe da Masmorra de Ouro é Okidogi, o cão brigão dos Três Leais, puro músculo e ameaça. Vença a masmorra para reivindicá-lo e completar o trio que responde a Pecharunt."]
+	quest.1E6F000000001025.quest_subtitle: "Paldea"
 	quest.1E6F000000001025.title: "Okidogi"
 	quest.1E6F00000000103B.quest_desc: ["Alguns Pokémon lendários não serão encontrados na natureza - eles precisam ser chamados. O &dAltar de Invocação&r é como você faz isso.\\n\\nColoque um item catalisador no altar, espalhe os ingredientes do ritual no chão ao redor dele e monte o padrão de blocos que a receita exige. Clique com o botão direito no altar para começar e espere a invocação terminar. Cada missão abaixo lista o que seu ritual precisa - reúna as peças raras, construa a estrutura e atraia a lenda para o mundo."]
 	quest.1E6F00000000103B.title: "O Altar de Invocação"
-	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r não é encontrado na natureza - ele é forjado. Coloque um &6Molde de Anel&r no altar, adicione um Olho de Salamandra e uma Lente Laser preta, e execute o ritual ao lado de uma fundição funcional cheia de ouro e aço derretidos.\\n\\nO Pokémon porca que come minérios se condensa diretamente do metal fundido. Capture um e depois reúna mais, pois um único Meltan é apenas o começo de algo muito maior."]
+	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r não é encontrado na natureza - ele é forjado. Coloque um Olho de Salamandra, uma Lente de Laser Preta, um Cabo de Rede Vermelho e, por fim, adicione um &6Molde de Anel&r no altar (é parecido o suficiente com um hexágono) e realize o ritual ao lado de uma Fundição ativa cheia de ouro e aço derretidos.\\n\\nO Pokémon porca-hexagonal comedor de minério se condensa diretamente a partir do metal derretido. Capture um e depois junte mais, pois um único Meltan é apenas o começo de algo muito maior."]
+	quest.1E6F00000000103D.quest_subtitle: "Alola"
 	quest.1E6F00000000103D.title: "Meltan"
-	quest.1E6F000000001044.quest_desc: ["Seis &bMeltan&r podem se fundir em &9Melmetal&r, o titã de aço da lenda. Este ritual é o mais exigente de todos.\\n\\nColoque &cBobinas de Aquecimento de Alta Potência&r no chão abaixo do altar - elas só brilham quando conectadas a uma &6fundição&r funcional, então construa uma para alimentá-las em vez de esperar um interruptor nas próprias bobinas. Defina um &7Revestimento Metálico&r como catalisador e despeje Lava de Almas para conduzir o calor. Solte seis Meltan ao redor do altar e ative-o - o enxame se colapsa em um único corpo enorme."]
+	quest.1E6F000000001044.quest_desc: ["Seis &bMeltan&r podem se fundir em &9Melmetal&r, o titã de aço lendário. Este ritual é o mais exigente de todos.\\n\\nColoque pelo menos 9 &cBobinas de Aquecimento de Alta Potência&r no chão sob o altar - elas só brilham quando conectadas a uma &6Fundição&r ativa, então construa uma para alimentá-las em vez de esperar um interruptor nas próprias bobinas. Coloque três Baldes de Lava das Almas no altar para gerar calor e um &7Revestimento Metálico&r como catalisador. Solte seis Meltan ao redor do altar e depois ative-o - o enxame se colapsa em um único corpo enorme."]
+	quest.1E6F000000001044.quest_subtitle: "Alola"
 	quest.1E6F000000001044.title: "Melmetal"
 	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r permanece adormecido como um cristal, a própria fonte do fenômeno Terastal.\\n\\nColoque uma &5Orbe de Vida&r no altar e ofereça os quatro corações coloridos - azul, amarelo, vermelha e verde - obtidos dos inimigos mais poderosos do mundo. Erga a estrutura de cristal que o ritual exige e comece. O Pokémon Estelar se desenrola de sua concha e ganha forma."]
+	quest.1E6F00000000104A.quest_subtitle: "Paldea"
 	quest.1E6F00000000104A.title: "Terapagos"
-	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r nunca nasceu - criaram-no, clonado do DNA do mítico &dMew&r e projetado para ser o tipo Psíquico mais poderoso já registrado.\\n\\nRecrie esse experimento aqui. Traga uma &bAmostra de DNA Ancestral&r e complete o ritual fóssil para reviver o clone, então capture-o antes que sua fúria se volte contra você."]
+	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r nunca nasceu - ele foi criado, clonado a partir do DNA do mítico &dMew&r e desenvolvido para ser o tipo Psíquico mais poderoso já registrado.\\n\\nRecrie esse experimento aqui. Traga uma &bAmostra de DNA Ancestral&r e uma &dEstrela Pika&r e conclua o processo de síntese como faria com Pokémon fossilizados para reviver o clone; depois, capture-o antes que sua fúria se volte contra você."]
+	quest.1E6F000000001053.quest_subtitle: "Kanto"
 	quest.1E6F000000001053.title: "Mewtwo"
 	quest.1E6F000000001058.quest_desc: ["&5Pecharunt&r é o mestre oculto a quem os &dTrês Leais&r serviram outrora, um mítico que dobra os outros à sua vontade com correntes venenosas.\\n\\nPara chamá-lo, você deve primeiro ter os três - Okidogi, Munkidori e Fezandipiti - em sua equipe. Posicione o &5Boneco de Pecharunt&r, solte o trio e o mestre das marionetes responderá. Capture-o, e os Três Leais estarão finalmente livres."]
+	quest.1E6F000000001058.quest_subtitle: "Paldea"
 	quest.1E6F000000001058.title: "Pecharunt"
 	quest.1E6F00000000106D.quest_desc: ["Pelo mundo existem &dMonumentos Lendários&r - pedestais ancestrais, templos e santuários, cada um erguido para chamar um único Pokémon lendário.\\n\\nEncontre o monumento, traga o item chave que ele exige e ative o pedestal para invocar seu guardião. Cada missão abaixo nomeia a estrutura e o item que você precisa. Um &6Medalhão da Renovação&r resetará um pedestal gasto se você quiser outra tentativa."]
 	quest.1E6F00000000106D.title: "&dMonumentos Lendários"
 	quest.1E6F000000001070.quest_desc: ["&7Lugia&r reside no fundo do mar, guardião das tempestades e mantenedor das três aves lendárias.\\n\\nBusca pelo &bTemplo de Lugia&r e traga uma &9Pedra do Vórtice&r - prova de que você dominou Articuno, Zapdos e Moltres. Somente então o Pokémon mergulhador surgirá para enfrentar você. Capture-o, e os próprios mares responderão a você."]
+	quest.1E6F000000001070.quest_subtitle: "Johto"
 	quest.1E6F000000001070.title: "Lugia"
 	quest.1E6F000000001076.quest_desc: ["&cHeatran&r habita o magma, uma fera de aço fundido que rasteja pelas paredes e tetos de cavernas com seus pés em forma de cruz.\\n\\nDesça até a &6Caverna de Heatran&r e carregue uma &cPedra de Magma&r para despertá-lo. Prepare-se para uma briga no calor - este é um dos poucos Pokémon que faz do interior de um vulcão o seu lar."]
+	quest.1E6F000000001076.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001076.title: "Heatran"
-	quest.1E6F00000000107C.quest_desc: ["&dMew&r é o ancestral de todo Pokémon, dizem carregar o DNA de todas as espécies dentro de seu pequeno corpo.\\n\\nEle se esconde em uma ilha remota longe no mar. Siga um &bMapa Marítimo Desatualizado&r até a &dIlha Final&r e procure por ele. Brincalhão e tímido, Mew raramente se mostra - mas o mapa leva a onde ele espera."]
+	quest.1E6F00000000107C.quest_desc: ["&dMew&r é o ancestral de todos os Pokémon, e dizem que carrega o DNA de todas as espécies dentro de seu pequeno corpo.\\n\\nEle se esconde em uma ilha remota em alto-mar. Siga um &bMapa do Marítimo Desatualizado&r (encontrado em Templos da Selva em 50% das vezes) até a &dIlha Final&r e procure por ele. Brincalhão e tímido, Mew raramente se mostra - mas o mapa leva até onde ele espera."]
+	quest.1E6F00000000107C.quest_subtitle: "Kanto"
 	quest.1E6F00000000107C.title: "Mew"
-	quest.1E6F000000001082.quest_desc: ["&eVictini&r é o Pokémon Vitória, e dizem que quem o mantém por perto nunca perde.\\n\\nEle está selado abaixo da &bIlha da Liberdade&r. Obtenha um &ePasse da Liberdade&r para alcançar a câmara oculta sob o farol e reivindique a pequena criatura que queima com energia ilimitada."]
+	quest.1E6F000000001082.quest_desc: ["&eVictini&r é o Pokémon Vitória, e dizem que um treinador que o mantém por perto nunca perde.\\n\\nEle está selado sob a &bIlha da Liberdade&r. Obtenha um &ePasse da Liberdade&r (encontrado em Pirâmides do Deserto em 25% das vezes) para alcançar a câmara oculta sob o farol e reivindicar a pequena criatura que queima com energia ilimitada."]
+	quest.1E6F000000001082.quest_subtitle: "Unova"
 	quest.1E6F000000001082.title: "Victini"
-	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r é o travesso, um gênio que dobra o espaço através de seus anéis e leva consigo qualquer coisa que deseje.\\n\\nSeu poder está preso dentro da &6Pirâmide de Hoopa&r. Carregue uma &eChave do Templo&r para abrir o caminho e confrontar o trapaceiro em seu interior. Capture-o, e esses anéis poderão trazer tesouros - e problemas - de todo o mundo."]
+	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r é o causador de travessuras, um gênio que distorce o espaço através de seus Anéis (pelo menos no anime) e leva embora tudo o que deseja.\\n\\nSeu poder está preso dentro da &6Pirâmide de Hoopa&r. Resolva seus diversos desafios, obtendo &eChaves do Templo&r para destrancar as portas. Carregue a &eChave do Templo&r final e uma Garrafa da Prisão (encontrada na &6Pirâmide&r ou comprada na Torre de Batalha) e confronte o trapaceiro em seu interior. Capture-o, e esses Anéis poderão puxar tesouros - e problemas - de todo o mundo."]
+	quest.1E6F000000001088.quest_subtitle: "Kalos"
 	quest.1E6F000000001088.title: "Hoopa"
-	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r é o dragão branco da verdade, com sua cauda brilhando como um motor a jato feroz o suficiente para incinerar o mundo.\\n\\nEle espera no topo da &bTorre do Espiral de Dragão&r. Traga uma &7Pedra de Luz&r - a forma adormecida que ele assume enquanto dorme - para despertar o dragão e desafiá-lo. Capture-o, e as chamas da verdade serão suas."]
+	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r é o Dragão Branco da verdade, com sua cauda queimando como um motor a jato forte o suficiente para incinerar todo o mundo.\\n\\nEle espera no topo da &bTorre Espiral do Dragão&r. Traga uma &7Pedra da Luz&r (cujos fragmentos podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensor e Wither) - a forma dormente que ele assume enquanto dorme, junta de uma &6Gema de Fogo&r - para acordar o Dragão e desafiá-lo. Capture-o, e as chamas da verdade serão suas."]
+	quest.1E6F00000000109E.quest_subtitle: "Unova"
 	quest.1E6F00000000109E.title: "Reshiram"
-	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r é o dragão preto dos ideais, com sua cauda sendo um vasto gerador que estala com trovão puro.\\n\\nEle dorme dentro da &bTorre do Espiral de Dragão&r como uma &9Pedra das Trevas&r. Carregue a pedra até o pico da torre para acordá-lo e enfrente o dragão em batalha. Capture-o, e os relâmpagos dos ideais responderão ao seu chamado."]
+	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r é o Dragão Negro dos ideais, com sua cauda funcionando como um Gerador Gigante que crepita com trovão puro.\\n\\nEle dorme na &bTorre Espiral do Dragão&r como uma &9Pedra Sombria&r. Fragmentos da &9Pedra Sombria&r podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensor e Wither. Leve a Pedra até o topo da torre, junto de uma &eGema Elétrica&r para despertá-lo, e enfrente o Dragão em batalha. Capture-o, e os raios dos ideais responderão ao seu chamado."]
+	quest.1E6F0000000010A4.quest_subtitle: "Unova"
 	quest.1E6F0000000010A4.title: "Zekrom"
 	quest.1E6F0000000010AA.quest_desc: ["&bKyurem&r é o que resta quando a verdade e os ideais são arrancados - um dragão vazio de gelo, caçando eternamente as partes de si mesmo que perdeu.\\n\\nEncontre-o na gelada &bCaverna de Kyurem&r. Você deve trazer tanto a &fGarrafa da Verdade&r quanto a &8Garrafa dos Ideais&r, coletadas de Reshiram e Zekrom, antes que o dragão vazio o enfrente."]
+	quest.1E6F0000000010AA.quest_subtitle: "Unova"
 	quest.1E6F0000000010AA.title: "Kyurem"
 	quest.1E6F0000000010B1.quest_desc: ["&9Dialga&r é o mestre do próprio tempo, um dragão de aço cujos batimentos cardíacos ditam o ritmo de cada momento que passa.\\n\\nSuba até o &dPilar de Lança&r e traga uma &dCorrente vermelha&r para prendê-lo. O Pokémon temporal rasga um buraco no presente para aparecer - esteja pronto no instante em que ele o fizer."]
+	quest.1E6F0000000010B1.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000010B1.title: "Dialga"
 	quest.1E6F0000000010B7.quest_desc: ["&dPalkia&r é o mestre do espaço, um dragão que pode dobrar a distância entre dois pontos até que se toquem.\\n\\nEle responde ao mesmo chamado que Dialga no &dPilar de Lança&r. Carregue uma &dCorrente vermelha&r até o cume para atrair o Pokémon espacial do vazio entre os mundos."]
+	quest.1E6F0000000010B7.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000010B7.title: "Palkia"
-	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r foi banido para o &5Mundo Distorcido&r por sua violência, um dragão fantasmal que observa nosso mundo do outro lado do espelho.\\n\\nBusca pela &5Ilha de Giratina&r e carregue um &dGlobo de Antimatéria&r para abrir o caminho. Enfrente o renegado em seu próprio reino refletido e traga-o para casa."]
+	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r foi banido para o &5Mundo Distorcido&r por sua violência, um Dragão Fantasmal que observa nosso mundo do outro lado do espelho.\\n\\nBusque a &5Ilha de Giratina&r e carregue um &dOrbe Griseu&r para abrir caminho. Enfrente o renegado em seu próprio reino refletido e traga-o para casa."]
+	quest.1E6F0000000010BD.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000010BD.title: "Giratina"
 	quest.1E6F0000000010C3.quest_desc: ["&cLatias&r é a gentil metade vermelha da dupla Eon, capaz de se camuflar e sentir as emoções daqueles ao seu redor.\\n\\nEla faz seu ninho na oculta &aIlha do Sul&r. Ofereça um &cPetisco de Latias&r para atrair a tímida dragoa e ganhar sua confiança."]
+	quest.1E6F0000000010C3.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010C3.title: "Latias"
 	quest.1E6F0000000010C9.quest_desc: ["&9Latios&r é a nobre metade azul da dupla Eon, veloz o suficiente para ultrapassar um jato e astuto o bastante para mostrar aos outros as imagens que viu.\\n\\nEle compartilha a &aIlha do Sul&r com sua irmã. Traga um &9Petisco de Latios&r para chamá-lo e prove ser digno do veloz dragão."]
+	quest.1E6F0000000010C9.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010C9.title: "Latios"
-	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r é o lobo-herói coroado de Galar, que outrora repeliu o Dia Mais Sombrio com uma lâmina brilhante em suas mandíbulas.\\n\\nEle espera na &6Sala do Trono dos Heróis Cavalheiros&r. Carregue a &bEspada do Herói&r - a lâmina enferrujada que ele empunhava antigamente - e o Pokémon guerreiro testará sua determinação."]
+	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r é o lobo-herói coroado de Galar, que outrora reverteu a Supernoite com uma Lâmina Brilhante presa em suas mandíbulas.\\n\\nEle espera na &6Sala do Trono dos Heróis Cavaleiros&r. Carregue a &bEspada do Herói&r - a Lâmina Enferrujada que ele empunhava antigamente, assim como um &eTotem da Imortalidade&r -, e o Pokémon Guerreiro testará sua determinação."]
+	quest.1E6F0000000010CF.quest_subtitle: "Galar"
 	quest.1E6F0000000010CF.title: "Zacian"
-	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r é o lobo-herói escudado de Galar, que esteve ao lado de Zacian contra o Dia Mais Sombrio e repeliu cada golpe.\\n\\nEle guarda a &6Sala do Trono dos Heróis Cavalheiros&r. Traga o &bEscudo do Herói&r - sua antiga égide enferrujada - e o Pokémon guardião julgará se você é digno."]
+	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r é o lobo-herói de escudo de Galar, que esteve ao lado de Zacian contra a Supernoite e desviou todos os golpes.\\n\\nEle guarda a &6Sala do Trono dos Heróis Cavaleiros&r. Traga o &bEscudo do Herói&r - sua égide antiga e enferrujada, assim como um &eTotem da Imortalidade&r -, e o Pokémon Guardião julgará se você é digno."]
+	quest.1E6F0000000010D5.quest_subtitle: "Galar"
 	quest.1E6F0000000010D5.title: "Zamazenta"
 	quest.1E6F0000000010EB.quest_desc: ["&7Regirock&r é o golem de rocha dos titãs lendários, com seu corpo montado a partir de pedregulhos e mantido unido por um poder desconhecida.\\n\\nEle dorme dentro do &bTemplo de Snowpoint&r. Traga a &7Chave do Golem de Pedra&r para abrir sua câmara e despertar a construção ancestral."]
+	quest.1E6F0000000010EB.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010EB.title: "Regirock"
 	quest.1E6F0000000010F1.quest_desc: ["&bRegice&r é o golem de gelo dos titãs lendários, com seu corpo congelado a centenas de graus abaixo de zero e que nunca derrete.\\n\\nEle espera selado no &bTemplo de Snowpoint&r. Carregue a &bChave do Golem de Gelo&r para abrir seu cofre e desafiar o titã congelado."]
+	quest.1E6F0000000010F1.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010F1.title: "Regice"
 	quest.1E6F0000000010F7.quest_desc: ["&7Registeel&r é o golem de aço dos titãs lendários, com seu corpo sendo mais duro que qualquer metal conhecido, mas ainda capaz de se curvar e flexionar.\\n\\nEle repousa dentro do &bTemplo de Snowpoint&r. Traga a &7Chave do Golem de Aço&r para quebrar o selo e enfrentar o titã de ferro."]
+	quest.1E6F0000000010F7.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010F7.title: "Registeel"
 	quest.1E6F0000000010FD.quest_desc: ["&eRegieleki&r é o titã elétrico, um ser de energia pura capaz de inundar uma região inteira com corrente elétrica.\\n\\nEle está trancado nas profundezas do &bTemplo de Snowpoint&r. Carregue a &eChave do Golem Elétrico&r para liberar a tempestade presa em seu interior."]
+	quest.1E6F0000000010FD.quest_subtitle: "Galar"
 	quest.1E6F0000000010FD.title: "Regieleki"
 	quest.1E6F000000001103.quest_desc: ["&5Regidrago&r é o titã dragão, moldado a partir de energia de dragão cristalizada com uma fome que nunca desaparece.\\n\\nEle dorme no &bTemplo de Snowpoint&r. Traga a &5Chave do Golem de Dragão&r para despertar o titã voraz e reivindicá-lo."]
+	quest.1E6F000000001103.quest_subtitle: "Galar"
 	quest.1E6F000000001103.title: "Regidrago"
 	quest.1E6F000000001109.quest_desc: ["&6Regigigas&r é o mestre que construiu os titãs menores e dizem ter arrastado os continentes para o lugar com cordas.\\n\\nEle não despertará até que os cinco Regis estejam com você. Reúna Regirock, Regice, Registeel, Regieleki e Regidrago, então traga a &6Chave de Titã&r ao &bTemplo de Snowpoint&r para acordar o colosso."]
+	quest.1E6F000000001109.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001109.title: "Regigigas"
-	quest.1E6F00000000110F.quest_desc: ["&5Eternatus&r é o núcleo do Dia Mais Sombrio, um dragão alienígena cujo corpo é um reator vivo de energia ilimitada.\\n\\nEle permanece adormecido dentro do &dCasulo de Eternatus&r. Reúna &dPartículas de Galar&r suficientes para quebrar a carapaça e confrontar a própria fonte do fenômeno Dynamax."]
+	quest.1E6F00000000110F.quest_desc: ["&5Eternatus&r é o núcleo da Supernoite, um dragão alienígena cujo corpo é um reator vivo de energia ilimitada.\\n\\nEle permanece adormecido dentro do &dCasulo de Eternatus&r. Reúna &dPartículas de Galar&r suficientes para quebrar a carapaça e confrontar a própria fonte do fenômeno Dynamax."]
+	quest.1E6F00000000110F.quest_subtitle: "Galar"
 	quest.1E6F00000000110F.title: "Eternatus"
 	quest.1E6F000000001115.quest_desc: ["&cYveltal&r é o Pokémon Destruição, cujas asas drenam a vida de todos os seres vivos quando chega a sua hora.\\n\\nEle repousa dentro do &cCasulo de Yveltal&r. Traga os &8Jarros de Alma&r que ele deseja para despertar o arauto da morte e teste sua força contra ele."]
+	quest.1E6F000000001115.quest_subtitle: "Kalos"
 	quest.1E6F000000001115.title: "Yveltal"
 	quest.1E6F00000000111B.quest_desc: ["&aXerneas&r é o Pokémon Vida, capaz de compartilhar a vida eterna e conhecido por dormir por mil anos na forma de uma grande árvore brilhante.\\n\\nEncontre-o na &2Árvore da Vida&r e ofereça um &bJarro de Essência de Aurora&r para despertar o doador da vida. Capture-o e a própria floresta se alegrará."]
+	quest.1E6F00000000111B.quest_subtitle: "Kalos"
 	quest.1E6F00000000111B.title: "Xerneas"
 	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r é a montaria gélida do &dSantuário da Coroa&r, um cavalo feroz que irradia um frio intenso o suficiente para congelar o chão por onde passa.\\n\\nCultive uma &bCenoura de Raiz de Gelo&r para atraí-lo do santuário. Dome o corcel congelado - o rei Calyrex precisará de uma montaria."]
+	quest.1E6F000000001121.quest_subtitle: "Galar"
 	quest.1E6F000000001121.title: "Glastrier"
 	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r é o corcel espectral do &dSantuário da Coroa&r, um cavalo fantasmal que galopa mais rápido do que os olhos podem seguir e drena a vida dos espectadores.\\n\\nCultive uma &5Cenoura de Raiz Sombria&r para atraí-lo. Domine o corcel das sombras - Calyrex ainda poderá montá-lo."]
+	quest.1E6F000000001127.quest_subtitle: "Galar"
 	quest.1E6F000000001127.title: "Spectrier"
 	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r é o rei que outrora governou toda Galar, um Pokémon calmo e gentil que dizem ver todo o passado e futuro.\\n\\nEle espera no &dSantuário da Coroa&r, mas um rei precisa de uma montaria. Reivindique tanto Glastrier quanto Spectrier primeiro, então aproxime-se do trono para conhecer o monarca e escolher sua montaria."]
+	quest.1E6F00000000112D.quest_subtitle: "Galar"
 	quest.1E6F00000000112D.title: "Calyrex"
-	quest.1E6F000000001132.quest_desc: ["&fArceus&r é o Original, o Pokémon que dizem ter moldado todo o universo a partir de si mesmo.\\n\\nSua morada fica além do mundo. Jogar a &eFlauta Lazuli&r para abrir a escadaria para o &fSalão da Origem&r e coloque-se diante do criador. Poucos ganham a chance de enfrentar um deus."]
+	quest.1E6F000000001132.quest_desc: ["&fArceus&r é o Original, o Pokémon que dizem ter moldado todo o universo a partir de si mesmo.\\n\\nSua morada fica além do mundo. Toque a &eFlauta Celestial&r - prova de que você derrotou Giratina, Dialga e Palkia - para abrir a escadaria até o &fSalão da Origem&r e ficar diante do criador. Poucos ganham a chance de enfrentar um deus."]
+	quest.1E6F000000001132.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001132.title: "Arceus"
 	quest.1E6F000000001138.quest_desc: ["&dMesprit&r é o Ser da Emoção, um dos guardiões dos lagos de Sinnoh, que dizem ter ensinado às pessoas a alegria e a tristeza de sentir.\\n\\nEle se esconde sob o &bLago Verity&r. Obtenha uma &aProva de Conquista&r e apresente-a no lago para chamar o espírito da emoção."]
+	quest.1E6F000000001138.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001138.title: "Mesprit"
 	quest.1E6F00000000113E.quest_desc: ["&9Azelf&r é o Ser da Força de Vontade, o guardião do lago que deu às pessoas a força para agir e decidir.\\n\\nEle repousa no fundo do &bLago Valor&r. Traga uma &aProva de Conquista&r à beira do lago para invocar o espírito da força de vontade."]
+	quest.1E6F00000000113E.quest_subtitle: "Sinnoh"
 	quest.1E6F00000000113E.title: "Azelf"
 	quest.1E6F000000001144.quest_desc: ["&eUxie&r é o Ser do Conhecimento, o guardião do lago que dizem ter dado à humanidade o intelecto para construir e sonhar.\\n\\nEle habita sob o &bLago Acuity&r. Carregue uma &aProva de Conquista&r até sua margem para atrair o espírito do conhecimento."]
+	quest.1E6F000000001144.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001144.title: "Uxie"
 	quest.1E6F00000000114A.quest_desc: ["&dCresselia&r é o Pokémon lunar, que espalha crescentes brilhantes e traz sono repousante e sonhos agradáveis.\\n\\nNão há santuário para ela. Toque o &dApito da Lua Cheia&r sob o céu noturno e ela descerá em asas de luar - capture-a para banir os piores pesadelos."]
+	quest.1E6F00000000114A.quest_subtitle: "Sinnoh"
 	quest.1E6F00000000114A.title: "Cresselia"
 	quest.1E6F00000000114F.quest_desc: ["&8Darkrai&r é o Pokémon negro como breu das noites de lua nova, que desliza nos sonhos e os transforma em pesadelos intermináveis.\\n\\nEle responde apenas à escuridão. Toque o &8Apito da Lua Nova&r após o anoitecer para chamar o portador de pesadelos das sombras e capture-o se tiver coragem."]
+	quest.1E6F00000000114F.quest_subtitle: "Sinnoh"
 	quest.1E6F00000000114F.title: "Darkrai"
-	quest.1E6F000000001154.quest_desc: ["&bArticuno&r é a ave congelante do trio lendário, que dizem aparecer para viajantes perdidos nas montanhas e congelar o ar em seu rastro.\\n\\nNão há monumento para ele. Carregue uma &bUrna de Geada&r derrotando Pokémon do tipo Gelo, então libere seu poder para invocar a ave gelada."]
+	quest.1E6F000000001154.quest_desc: ["&bArticuno&r é a ave congelante do trio lendário, que dizem aparecer para viajantes perdidos nas montanhas e congelar o ar em seu rastro.\\n\\nNão há monumento para ele. Carregue uma &bUrna de Geada&r derrotando 50 Pokémons do tipo Gelo, então libere seu poder para invocar a ave gelada."]
+	quest.1E6F000000001154.quest_subtitle: "Kanto"
 	quest.1E6F000000001154.title: "Articuno"
-	quest.1E6F000000001159.quest_desc: ["&eZapdos&r é o pássaro-trovão do trio lendário, que extrai poder dos raios e torna as nuvens de tempestade negras por onde voa.\\n\\nCarregue uma &eUrna de Tempestades&r derrotando Pokémon do tipo Elétrico, então a libere para chamar o pássaro da tempestade."]
+	quest.1E6F000000001159.quest_desc: ["&eZapdos&r é o pássaro-trovão do trio lendário, que extrai poder dos raios e torna as nuvens de tempestade negras por onde voa.\\n\\nCarregue uma &eUrna de Tempestades&r derrotando 50 Pokémons do tipo Elétrico, então a libere para chamar o pássaro da tempestade."]
+	quest.1E6F000000001159.quest_subtitle: "Kanto"
 	quest.1E6F000000001159.title: "Zapdos"
-	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r é a ave das chamas do trio lendário, cujas batidas de asas espalham brasas e dizem anunciar a chegada da primavera.\\n\\nCarregue uma &cUrna de Brasas&r derrotando Pokémon do tipo Fogo, então libere seu fogo para invocar o pássaro flamejante."]
+	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r é a ave das chamas do trio lendário, cujas batidas de asas espalham brasas e dizem anunciar a chegada da primavera.\\n\\nCarregue uma &cUrna de Brasas&r derrotando 50 Pokémons do tipo Fogo, então libere seu fogo para invocar o pássaro flamejante."]
+	quest.1E6F00000000115E.quest_subtitle: "Kanto"
 	quest.1E6F00000000115E.title: "Moltres"
 	quest.1E6F000000001173.quest_desc: ["Os &8Tesouros da Ruína&r são quatro receptáculos amaldiçoados, cada um contendo o rancor de um antigo governante cuja ambição levou um reino à ruína.\\n\\nCada um está preso em seu próprio santuário por estacas rituais. Busca pelos santuários espalhados pelo mundo e confronte as calamidades seladas em seu interior."]
 	quest.1E6F000000001173.title: "&8Tesouros da Ruína"
 	quest.1E6F000000001175.quest_desc: ["&cChi-Yu&r é um peixinho dourado envolto em chamas, que dizem ter reduzido montanhas a cinzas com a inveja que despertava no coração das pessoas.\\n\\nEle está selado no &cSantuário do Flagelo de Fogo&r. Encontre o santuário e enfrente o tesouro da ruína nascido do ciúme."]
+	quest.1E6F000000001175.quest_subtitle: "Paldea"
 	quest.1E6F000000001175.title: "Chi-Yu"
 	quest.1E6F00000000117A.quest_desc: ["&2Wo-Chien&r é um caracol ancestral carregando um manto de tábuas de madeira, cujos rancores intermináveis outrora drenaram a vida de florestas inteiras.\\n\\nEle está preso no &2Santuário da Grama Murcha&r. Busca pelo santuário e confronte o tesouro da ruína nascido do ressentimento."]
+	quest.1E6F00000000117A.quest_subtitle: "Paldea"
 	quest.1E6F00000000117A.title: "Wo-Chien"
 	quest.1E6F00000000117F.quest_desc: ["&bChien-Pao&r é uma fera com orelhas de espada que desliza pela neve, que dizem ter enterrado cidades inteiras sob avalanches causadas por diversão.\\n\\nEle está selado no &bSantuário da Fenda de Gelo&r. Encontre o santuário e desafie o tesouro da ruína nascido da crueldade."]
+	quest.1E6F00000000117F.quest_subtitle: "Paldea"
 	quest.1E6F00000000117F.title: "Chien-Pao"
 	quest.1E6F000000001184.quest_desc: ["&6Ting-Lu&r é um gigante com galhadas carregando receptáculos rituais, cujo pavor absoluto dizem ser pesado o suficiente para achatar a terra e engolir viajantes inteiros.\\n\\nEle está preso no &6Santuário da Praga Terrestre&r. Busca pelo santuário e resista ao tesouro da ruína nascido do medo."]
+	quest.1E6F000000001184.quest_subtitle: "Paldea"
 	quest.1E6F000000001184.title: "Ting-Lu"
 	quest.1E6F0000000011D4.quest_desc: ["Nem todo lendário precisa de um ritual ou monumento. Alguns simplesmente vagam pelo mundo, esperando por um(a) treinador(a) astuto(a) o suficiente para encontrá-los.\\n\\nEstes Pokémon aparecem como spawns selvagens raros em seus habitats naturais - sem estruturas, itens de invocação ou chaves. Explore amplamente, mantenha os olhos abertos e carregue muitas bolas. Cedo ou tarde, cada um se mostrará."]
 	quest.1E6F0000000011D4.title: "&2Spawns Naturais"
 	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r é o Pokémon Desejo. Dizem que ele concede qualquer desejo escrito nos bilhetes presos à sua cabeça.\\n\\nEle vaga por lugares estranhos e mágicos - cace-o em &dcampos de cogumelos&r, &dilhas da miragem&r e outros biomas mágicos, onde ele aparece muito raramente."]
+	quest.1E6F0000000011D7.quest_subtitle: "Hoenn"
 	quest.1E6F0000000011D7.title: "Jirachi"
 	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r é o Pokémon Navegante, nascido no fundo do mar gelado, mas capaz de formar um vínculo com qualquer criatura que encontre.\\n\\nEle nunca vem à terra firme - a única maneira de capturar o príncipe do mar é pescar. Lance uma vara com uma boa isca no oceano aberto e, com muita sorte, Manaphy morderá o anzol."]
+	quest.1E6F0000000011DB.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000011DB.title: "Manaphy"
 	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r é o Pokémon Gratidão, um ouriço dos prados que dissolve toxinas e as dissipa como um campo de flores.\\n\\nEle só aparece &eà noite&r sob &ecéu aberto&r em &abiomas floridos e planaltos&r, e nunca enquanto chove. Busque por ele lá e capture-o."]
+	quest.1E6F0000000011DF.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000011DF.title: "Shaymin"
 	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r é o Pokémon Ciclone. Sua cauda levanta ventos fortes o suficiente para derrubar casas.\\n\\nEle vaga por &2selvas&r e &2selvas de bambu&r - rastreie a tempestade selvagem por lá e encurrale-a."]
+	quest.1E6F0000000011E3.quest_subtitle: "Unova"
 	quest.1E6F0000000011E3.title: "Tornadus"
 	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r é o Pokémon Relâmpago, que lança raios pelos espinhos de sua cauda.\\n\\nEncontre-o vagando por &eplanícies&r, &7montanhas&r e &6ermos&r, e capture o relâmpago selvagem."]
+	quest.1E6F0000000011E7.quest_subtitle: "Unova"
 	quest.1E6F0000000011E7.title: "Thundurus"
 	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r é o Pokémon Abundância, reverenciado por fazendeiros pelas colheitas fartas que a terra rende por onde ele passa.\\n\\nEle passeia por &acampos floridos&r, &6savanas&r e &edesertos&r sob &ecéu limpo&r, nunca na chuva. Busque o portador da fartura por lá."]
+	quest.1E6F0000000011EB.quest_subtitle: "Unova"
 	quest.1E6F0000000011EB.title: "Landorus"
 	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r é o Pokémon Encarnação do Amor. Seu toque desperta a terra do inverno e faz a primavera florescer.\\n\\nEle só se mostra &edurante tempestades&r em &abiomas floridos&r. Aguarde a tempestade e capture a mais nova força da natureza."]
+	quest.1E6F0000000011EF.quest_subtitle: "Hisui"
 	quest.1E6F0000000011EF.title: "Enamorus"
 	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r é o Pokémon Joia, uma criatura de carbono que consegue comprimir o ar ao seu redor em diamantes brilhantes.\\n\\nBusque por ela &1nas profundezas do subsolo&r no escuro, perto de &dAmetistas&r - ela surge perto de Geodos de Ametista muito abaixo. Leve uma luz e capture-a."]
+	quest.1E6F0000000011F3.quest_subtitle: "Kalos"
 	quest.1E6F0000000011F3.title: "Diancie"
 	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r é a divindade guardiã de sua ilha, um Pokémon curioso que estala com relâmpagos armazenados.\\n\\nEncontre o guardião da ilha de &edia&r em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e ganhe seu respeito ao capturá-lo."]
+	quest.1E6F0000000011F7.quest_subtitle: "Alola"
 	quest.1E6F0000000011F7.title: "Tapu Koko"
 	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r é uma divindade guardiã que espalha escamas brilhantes que acalmam e curam.\\n\\nBusque pelo guardião da ilha em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e capture-o."]
+	quest.1E6F0000000011FB.quest_subtitle: "Alola"
 	quest.1E6F0000000011FB.title: "Tapu Lele"
 	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r é uma divindade guardiã que comanda o crescimento das plantas e marca os limites de seu domínio com grandes árvores.\\n\\nEncontre o guardião touro em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e derrote-o."]
+	quest.1E6F0000000011FF.quest_subtitle: "Alola"
 	quest.1E6F0000000011FF.title: "Tapu Bulu"
 	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r é uma divindade guardiã que conjura neblina para confundir intrusos e purifica água contaminada com sua névoa.\\n\\nBusca pelo guardião da ilha em &2selvas&r, &2ilhas tropicais&r e &epraias&r, e capture-o."]
+	quest.1E6F000000001203.quest_subtitle: "Alola"
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir as emoções de outros Pokémon.\\n\\nEsta lenda mecânica não pode ser encontrada na natureza - você deve construí-la. Primeiro, carregue um &bMecanismo Coração das Almas&r ao ar livre derrotando 50 Pokémon em batalha num raio de 10 blocos dele. Em seguida, erga o corpo autômato de Magearna ao redor do &bCoração das Almas&r carregado em um &6Altar de Ritual de Invocação&r, e com um &cVolcanion&r seu presente como testemunha, ative o altar com uma &5Alma Encantada&r para dar vida à máquina."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r é o Pokémon Artificial, construído há mais de quinhentos anos por um inventor brilhante e capaz de sentir os sentimentos de outros Pokémon.\\n\\nEste lendário mecânico não pode ser encontrado na natureza - você precisa construí-lo. Primeiro, carregue um &bMecanismo Coração das Almas&r ao ar livre derrotando 50 Pokémon em batalha a até 10 blocos dele. Depois, erga o corpo autômato de Magearna ao redor do Coração das Almas Carregado em um &6Altar do Ritual de Invocação&r e, com um de seus próprios &cVolcanion&r presente como testemunha, ative o altar com uma Marca da Tecnomancia e, em seguida, uma &5Alma Encantada&r para dar vida à máquina."]
+	quest.1E6F000000001207.quest_subtitle: "Alola"
 	quest.1E6F000000001207.title: "Magearna"
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r é o Pokémon Trovão, correndo de quatro rápido o suficiente para acompanhar um raio.\\n\\nPersiga-o pelas &6savanas&r sob &ecéu aberto&r."]
+	quest.1E6F00000000120B.quest_subtitle: "Alola"
 	quest.1E6F00000000120B.title: "Zeraora"
 	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r é o Pokémon Wushu, um pequeno urso que treina incansavelmente para fortalecer seu corpo e espírito.\\n\\nEncontre-o em &2selvas&r e &2selvas de bambu&r - crie-o bem e ele evoluirá para o poderoso &7Urshifu&r, mestre de um único estilo devastador."]
+	quest.1E6F00000000120F.quest_subtitle: "Galar"
 	quest.1E6F00000000120F.title: "Kubfu"
 	quest.1E6F000000001213.quest_desc: ["&2Zarude&r é o Pokémon Macaco Rebelde, um habitante feroz de bandos que se balança pela selva densa com braços em forma de cipó.\\n\\nBusque por ele nas profundezas das &2selvas&r e capture a lenda da selva."]
+	quest.1E6F000000001213.quest_subtitle: "Galar"
 	quest.1E6F000000001213.title: "Zarude"
 	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r é o Pokémon Máscara, um ogro tímido que se esconde atrás de uma máscara e outrora foi injustamente tachado de vilão.\\n\\nEncontre-o em &acampos floridos&r, &2selvas de bambu&r e &2selvas&r, e ganhe a confiança da lenda mascarada."]
+	quest.1E6F000000001217.quest_subtitle: "Paldea"
 	quest.1E6F000000001217.title: "Ogerpon"
 	quest.1E6F00000000122B.quest_desc: ["Alguns Pokémon lendários nunca se estabelecem - eles vagam pelo mundo infinitamente, deixando apenas &2pegadas&r para trás.\\n\\nPara atrair um, você deve seguir seus rastros e colocar a comida que ele prefere. Cada missão abaixo nomeia a isca que aquele Pokémon em particular não consegue resistir. Prepare a isca, espere e esteja pronto para a batalha quando ele finalmente aparecer."]
 	quest.1E6F00000000122B.title: "&2Rastreamento de Pegadas"
 	quest.1E6F00000000122F.quest_desc: ["&7Cobalion&r é o líder calmo e lúcido dos Espadachins da Justiça, com um corpo de aço e um olhar que intimida Pokémon selvagens à obediência.\\n\\nRastreie-o pelas selvas e coloque &7Pedaços de Carne Especiais&r para atrair a lâmina de aço até você."]
+	quest.1E6F00000000122F.quest_subtitle: "Unova"
 	quest.1E6F00000000122F.title: "Cobalion"
 	quest.1E6F000000001234.quest_desc: ["&6Terrakion&r é um Espadachim da Justiça cujo corpo em investida pode despedaçar a muralha de um castelo, lembrado em lendas por proteger Pokémon da crueldade humana.\\n\\nSiga seus rastros e espalhe &6Especiarias Especiais&r para atrair o quebrador de rochas."]
+	quest.1E6F000000001234.quest_subtitle: "Unova"
 	quest.1E6F000000001234.title: "Terrakion"
 	quest.1E6F000000001239.quest_desc: ["&2Virizion&r é um Espadachim da Justiça com chifres que parecem lâminas, saltando ao redor dos inimigos com uma velocidade vertiginosa que os deixa atordoados.\\n\\nRastreie-o e ofereça &2Folhas Verdes Especiais&r para atrair a lâmina graciosa."]
+	quest.1E6F000000001239.quest_subtitle: "Unova"
 	quest.1E6F000000001239.title: "Virizion"
 	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r é o Espadachim da Justiça mais jovem, um potro que atravessa qualquer água a galope e prova sua coragem através da batalha.\\n\\nSiga suas pegadas até a beira da água e sirva um &bCurry da Justiça&r para chamar o jovem espadachim."]
+	quest.1E6F00000000123E.quest_subtitle: "Unova"
 	quest.1E6F00000000123E.title: "Keldeo"
 	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r é o Pokémon vulcão, uma das três feras lendárias renascidas nas cinzas da &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &cPetisco de Entei&r em uma Caixa de Petiscos e bagas, então leve-o à Torre Queimada para chamar a fera de fogo e capturá-la."]
+	quest.1E6F0000000012C1.quest_subtitle: "Johto"
 	quest.1E6F0000000012C1.title: "Entei"
 	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r é o Pokémon trovão, uma fera lendária que corre como um raio e ruge como uma tempestade, renascida na &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &ePetisco de Raikou&r e leve-o à Torre Queimada para invocá-lo."]
+	quest.1E6F0000000012C7.quest_subtitle: "Johto"
 	quest.1E6F0000000012C7.title: "Raikou"
 	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r é o Pokémon aurora, a fera lendária de água pura que corre sobre o vento norte, renascida na &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &bPetisco de Suicune&r e leve-o à Torre Queimada para atraí-lo."]
+	quest.1E6F0000000012CD.quest_subtitle: "Johto"
 	quest.1E6F0000000012CD.title: "Suicune"
 	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r é o Pokémon arco-íris, que dizem habitar o topo da &eTorre do Sino&r em Ecruteak e trazer felicidade eterna a qualquer pessoa que o veja. A lenda diz que ele deu vida às três feras abaixo.\\n\\nCombine as penas &cvermelha&r, &bazul&r e &eamarela&r obtidas de Entei, Suicune e Raikou em uma &6Pena Arco-Íris&r, então suba a Torre do Sino para chamar Ho-Oh."]
+	quest.1E6F0000000012D3.quest_subtitle: "Johto"
 	quest.1E6F0000000012D3.title: "Ho-Oh"
-	quest.1E6F0000000012E9.quest_desc: ["&dArticuno de Galar&r é a majestosa forma regional da ave lendária - um voador psíquico cujo olhar sereno esconde um lado frio e cruel.\\n\\nCarregue a &bUrna de Geada de Galar&r da mesma forma que a ave de Kanto respondeu à Urna de Geada, e a forma rival aparecerá."]
+	quest.1E6F0000000012E9.quest_desc: ["&dArticuno de Galar&r é a majestosa forma de Galar do pássaro lendário - um voador psíquico cujo olhar sereno esconde um lado frio e cruel.\\n\\nErga a &bUrna de Geada de Galar&r de forma semelhante à que a Ave de Kanto respondeu à Urna de Geada, mas com 75 Pokémon do tipo Psíquico, e a forma rival surgirá."]
+	quest.1E6F0000000012E9.quest_subtitle: "Galar"
 	quest.1E6F0000000012E9.title: "Articuno de Galar"
-	quest.1E6F0000000012EE.quest_desc: ["&eZapdos de Galar&r é a forma regional da ave lendária - um lutador incapaz de voar que ataca com chutes tão repentinos e violentos quanto um trovão.\\n\\nCarregue a &eUrna de Tempestades de Galar&r para invocá-lo."]
+	quest.1E6F0000000012EE.quest_desc: ["&eZapdos de Galar&r é a forma de Galar do pássaro lendário - um lutador incapaz de voar que ataca com chutes tão repentinos e violentos quanto um estrondo de trovão.\\n\\nCarregue a &eUrna de Tempestades de Galar&r derrotando 75 Pokémon do tipo Lutador para invocá-lo."]
+	quest.1E6F0000000012EE.quest_subtitle: "Galar"
 	quest.1E6F0000000012EE.title: "Zapdos de Galar"
-	quest.1E6F0000000012F3.quest_desc: ["&9Moltres de Galar&r é a forma regional da ave lendária - um voador sinistro envolto em chamas azuis frias que drenam o espírito de qualquer pessoa que encontrar seus olhos ardentes.\\n\\nCarregue a &cUrna de Brasas de Galar&r para invocá-lo."]
+	quest.1E6F0000000012F3.quest_desc: ["&9Moltres de Galar&r é a forma de Galar do pássaro lendário - um voador sinistro envolto em chamas azuis frias que drena o espírito de qualquer um que se depare com seus olhos ardentes.\\n\\nCarregue a &cUrna de Brasas de Galar&r derrotando 75 Pokémon do tipo Sombrio para invocá-lo."]
+	quest.1E6F0000000012F3.quest_subtitle: "Galar"
 	quest.1E6F0000000012F3.title: "Moltres de Galar"
 	quest.1E6F000000001308.quest_desc: ["&aCelebi&r é o Pokémon viajante do tempo, um guardião da floresta que viaja entre o passado e o futuro e deixa flores por onde descansa.\\n\\nA &eBola GS&r não pode ser fabricada - você deve adquiri-la por meio de troca com &6Kurt&r, o Fabricante de Bolotas (um aldeão Mercador do PokéMart chamado Kurt), e então usá-la em um &2Santuário de Ilex&r para chamar Celebi através do tempo e capturá-lo.\\n\\n&cNota:&r nomeie um aldeão normal da forma padrão (com uma etiqueta) - Kurt é um espírito livre e não gosta de ficar trancado em um Bloco Comerciante do &eEasy Villagers&r."]
+	quest.1E6F000000001308.quest_subtitle: "Johto"
 	quest.1E6F000000001308.title: "Celebi"
 	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r é o Pokémon que habita as sombras, uma sombra viva que se esconde sob os pés e copia os movimentos de qualquer pessoa que observe.\\n\\nMisture &7Icor Sombrio&r em um caldeirão junto com o &8Capuz Sombrio&r e a &7Toalha de Lutadores Desatualizada&r para tirá-lo do esconderijo e capture-o."]
+	quest.1E6F00000000130D.quest_subtitle: "Alola"
 	quest.1E6F00000000130D.title: "Marshadow"
 	quest.1E6F000000001313.quest_desc: ["&dMeloetta&r é o Pokémon melodia, cujas canções despertam sentimentos tão profundos que podem remodelar seu próprio corpo entre uma dança graciosa e uma voz sublime.\\n\\nRestaure o &bDisco da Primeira Canção&r a partir de seus fragmentos e toque-o no &dToca-discos de Meloetta&r para invocá-la."]
+	quest.1E6F000000001313.quest_subtitle: "Unova"
 	quest.1E6F000000001313.title: "Meloetta"
 	quest.1E6F000000001318.quest_desc: ["&9Cosmog&r é o Pokémon nebulosa, uma pequena nuvem de poeira estelar que vem de outro mundo, tão leve que uma brisa pode carregá-lo.\\n\\nUse o &bCatalisador Cósmico&r para reunir a poeira cósmica que ele espalha e atrair Cosmog. Crie-o e, com o tempo, ele se fortalecerá em &9Cosmoem&r, para então ascender ao radiante &6Solgaleo&r ou à lunar &dLunala&r - uma captura abre toda a linha."]
+	quest.1E6F000000001318.quest_subtitle: "Alola"
 	quest.1E6F000000001318.title: "Cosmog"
 	quest.1E6F00000000131D.quest_desc: ["&8Necrozma&r é o Pokémon prisma, um fragmento de luz viva que caiu do céu em tempos antigos e agora anseia pelo brilho dos outros.\\n\\nEle vaga pela natureza por conta própria - rastreie um e capture-o. Tenha &6Solgaleo&r ou &dLunala&r também e Necrozma se fundirá em sua forma radiante &eJuba Crepúsculo&r ou &dAsas da Alvorada&r, e além dessas jaz seu surto final como &bUltra Necrozma&r."]
+	quest.1E6F00000000131D.quest_subtitle: "Alola"
 	quest.1E6F00000000131D.title: "Necrozma"
-	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r é o Pokémon DNA, um fragmento de código genético alienígena que viajou em um meteoro das profundezas do espaço. Invocá-lo é o rito mais exigente no mundo, realizado através de três provações.\\n\\nPrimeiro, coloque uma &eAmostra de DNA Ancestral&r no altar com um &2Pastilha de Plutônio&r, construa uma plataforma 3x3 de &7Ímãs&r embaixo e realize o ritual no &9Rio de Éter&r da Luz Estelar Eterna - mas apenas durante uma &dChuva de Meteoros&r e enquanto usa quatro peças de MekaSuit equipadas com Unidades de Escudo contra Radiação. O céu responde, e um &bCristal de Deoxys&r cai no mundo.\\n\\nO Cristal está adormecido. Procure a &5Ilha do Nascimento&r e solte o Cristal sobre sua &bBase de Deoxys&r - ele voará pelo chão de meteorito; persiga-o e ataque-o várias vezes até que brilhe com carga total e pouse, aceso, sobre a base.\\n\\nCom o cristal aceso, erga o rito final ao redor dessa mesma base: um anel de obeliscos arcanos e um par de &bJarras de Fonte&r, ambas cheias até a borda, com 10.000 Fonte cada. Então, lance o &eMeteorito de Deoxys&r no altar junto aos quatro pesos que refletem suas formas - o &eBracelete da Força&r, o &eCinto da Força&r, a &eTornozeleira da Força&r e o &ePeso da Força&r - e realize o ritual. O próprio &cDeoxys&r atende ao chamado."]
+	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r é o Pokémon DNA, um pedaço de código genético alienígena que veio em um meteoro das profundezas do espaço. Atraí-lo é o segundo rito mais exigente do mundo, rivalizado apenas pelo rito da Estrela Pika Brilhante, realizado ao longo de três provações.\\n\\nPrimeiro, coloque uma &eAmostra de DNA Ancestral&r no altar com uma &2Pastilha de Plutônio&r, monte uma plataforma 3x3 de &7Ímãs&r sob ele e realize o ritual no &9Rio de Éter&r da Eternal Starlight - mas apenas enquanto uma &dChuva de Meteoros&r cai e você veste quatro peças de MekaSuit equipadas com &9Unidades de Proteção contra Radiação&r. O céu responde e um &bCristal de Deoxys&r cai no mundo.\\n\\nO cristal está dormente. Procure a &5Ilha Origem&r e solte o &eCristal&r sobre sua &bBase de Deoxys&r - ele vai esvoaçar pelo chão de Meteorito, e você deve Persegui-lo e Golpeá-lo repetidamente até que ele &6&lBrilhe&r com carga total e se fixe, aceso, sobre a base.\\n\\nCom o Cristal aceso, erga o rito final ao redor dessa mesma base: um Anel de Obeliscos de Cristal Arcano e um par de &bJarras de Fonte&r cheias até a borda com 10.000 de Fonte cada. Em seguida, jogue o &eMeteoro de Deoxys&r no altar junto com os quatro pesos que espelham suas formas - a &eBraçadeira de Força&r, o &eCinto de Força&r, a &eTornozeleira de Força&r e o &ePeso de Força&r - e realize o ritual. O próprio &cDeoxys&r responde ao chamado."]
+	quest.1E6F000000001331.quest_subtitle: "Hoenn"
 	quest.1E6F000000001331.title: "Deoxys"
+	quest.2B1AB9ECAB07A486.quest_desc: [
+		"&aZygarde&r é o guardião do ecossistema do mundo, acreditando firmemente que tem o dever de protegê-lo. Ele é composto por unidades menores conhecidas como &aNúcleos de Zygarde&r e &aCélulas de Zygarde&r.\\n\\nVocê precisará de uma &bUnidade de Remontagem&r e de um &aCubo de Zygarde&r para remontar o &cPokémon&r. Clique com o botão direito enquanto segura o &aCubo&r para colocar &aNúcleos&r e &aCélulas&r dentro dele.\\n\\nA quantidade de &aNúcleos&r e &aCélulas&r determinará a forma que &aZygarde&r assumirá ao ser remontado."
+		"&lPróxima Página ->&r"
+		"{@pagebreak}"
+		"Com 9 &aCélulas&r e 1 &aNúcleo&r, &aZygarde&r assumirá sua Forma 10%. Levará 2 minutos para a Remontagem ser concluído nesta forma.\\n\\nCom 49 &aCélulas&r e 1 &aNúcleo&r, &aZygarde&r assumirá sua Forma 50%. Levará 5 minutos para a remontagem ser concluído nesta forma.\\n\\nCom todas as 95 &aCélulas&r e todos os 5 &aNúcleos&r, &aZygarde&r assumirá sua \"Forma Completa\", ganhando a habilidade Construção de Força em vez da habilidade Quebra Aura que outras formas possuem. Levará 10 minutos para a remontagem ser concluído nesta forma.\\n\\nUse o &aCubo de Zygarde&r na &bUnidade de Remontagem&r para iniciar o processo de remontagem. Quando a remontagem estiver concluído, use qualquer Pokébola na &bUnidade de Remontagem&r para capturar &aZygarde&r.\\n\\nVocê também pode reverter este processo clicando com o botão direito em &aZygarde&r com o &aCubo&r e, em seguida, usando o &aCubo&r na &bUnidade de Remontagem&r, recebendo os &aNúcleos&r e &aCélulas&r de volta."
+	]
+	quest.2B1AB9ECAB07A486.quest_subtitle: "Kalos"
+	quest.2B1AB9ECAB07A486.title: "Zygarde"
 	quest.2CA1E70813BFE6E7.quest_desc: ["A &6equipe do AllTheMods&r ou uma &2pessoa colaboradora da Comunidade&r criou esta missão para uso nos modpacks do AllTheMods.\\n\\nComo o Total dos pacotes do &6AllTheMods&r possui a licença de &eTodos os Direitos Reservados&r, nenhum pacote público que a &6equipe do AllTheMods&r não lançou pode usar esta missão sem permissão explícita.\\n\\nOcultamos esta missão intencionalmente; se estiver vendo isso, você está no modo de edição."]
+	quest.6A6BD8D2955B8476.quest_desc: ["Alguns Pokémon lendários não serão encontrados na natureza - eles precisam ser chamados. O &dAltar de Invocação&r é como você faz isso para a maioria deles. No entanto, não para estes Pokémon."]
+	quest.6A6BD8D2955B8476.title: "Invocação sem Altar"
 	task.1E6E0003571C0001.title: "Encontre a Caverna da Origem"
 	task.1E6E0003CA7C0001.title: "Capture Kyogre"
 	task.1E6E0004571C0002.title: "Encontre a Tumba da Origem"
@@ -216,7 +314,7 @@
 	task.1E6F000000001041.title: "Capture Meltan"
 	task.1E6F000000001047.title: "Capture Melmetal"
 	task.1E6F000000001050.title: "Capture Terapagos"
-	task.1E6F000000001055.title: "Capture Mewtwo"
+	task.1E6F000000001055.title: "Capture Mewtwo (ATUALMENTE QUEBRADO)"
 	task.1E6F00000000105A.title: "Capture Pecharunt"
 	task.1E6F000000001071.title: "Encontre o Templo de Lugia"
 	task.1E6F000000001073.title: "Capture Lugia"
@@ -345,6 +443,8 @@
 	task.1E6F000000001332.title: "Tenha uma Amostra de DNA Ancestral"
 	task.1E6F000000001333.title: "Tenha uma Pastilha de Plutônio"
 	task.1E6F000000001334.title: "Capture Deoxys"
+	task.1F0B19DDCA4D603F.title: "Encontre a Ilha Origem"
 	task.47FF36EC8F4EDE22.title: "TodosOsDireitosReservados"
+	task.5A94D921FBE617B9.title: "Capture Zygarde (ATUALMENTE QUEBRADO)"
 	task.7B91C38DD6E214C3.title: "TodosOsDireitosReservados"
 }

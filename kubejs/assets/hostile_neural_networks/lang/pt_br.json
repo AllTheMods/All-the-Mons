@@ -101,7 +101,13 @@
     "hostilenetworks.gui.redstone.off_when_powered": "Redstone: Desligado quando energizado",
     "hostilenetworks.gui.redstone.on_when_powered": "Redstone: Ligado quando energizado",
     "hostilenetworks.gui.mode.inference": "Modo: Inferência",
+    "hostilenetworks.gui.mode.inference.desc": "Simulações geram resultados,",
+    "hostilenetworks.gui.mode.inference.desc2": "mas os modelos não recebem dados",
     "hostilenetworks.gui.mode.training": "Modo: Treinamento",
+    "hostilenetworks.gui.mode.training.desc": "Simulações aumentam os dados do modelo,",
+    "hostilenetworks.gui.mode.training.desc2": "mas não geram resultados",
+    "hostilenetworks.gui.mode.power": "Custo de energia: %s%%",
+    "hostilenetworks.gui.mode.speed": "Velocidade de simulação: %s%%",
     "hostilenetworks.gui.mode.disabled": "O modo de Treinamento está desativado pela configuração do servidor",
     "hostilenetworks.gui.data_center.io": "Entrada / Saída",
 
@@ -121,7 +127,7 @@
     "hostilenetworks.fail.faulty": "Dados insuficientes no modelo. Por favor, insira um modelo Básico ou superior",
     "hostilenetworks.fail.energy_mid_cycle": "Progresso da simulação pausado\nNíveis de energia do sistema críticos",
     "hostilenetworks.fail.redstone": "Progresso da simulação pausado\nSinal de redstone incorreto aplicado",
-    "hostilenetworks.fail.cannot_train": "Não é possível iniciar a simulação\nO modelo não pode mais ser treinado"
+    "hostilenetworks.fail.cannot_train": "Não é possível iniciar a simulação\nO modelo não pode mais ser treinado",
     "hostilenetworks.fail.shell_broken": "A estrutura multibloco está incompleta ou inválida",
     "hostilenetworks.fail.not_self_aware": "O modelo requer pelo menos o nível Autoconsciente",
     "hostilenetworks.fail.no_selection": "Nenhuma saída selecionada - Clique com o botão direito no slot para configurar",

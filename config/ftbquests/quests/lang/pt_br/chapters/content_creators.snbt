@@ -20,6 +20,7 @@
 	quest.5AF01BC5631ED1BD.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta. Se você está vendo isto, você está no modo de edição."]
 	quest.64EBFB904388B206.quest_desc: ["Já quis lutar contra seus youtubers, streamers e ajudantes favoritos? \\n\\nBem, com a &o&4Série de Criadores de Conteúdo&r, você pode! \\n\\nComo qualquer &4&oSérie&r, você a inicia entregando um &4Cartão de Treinador&r a um &4Associado de Treinador&r e selecionando &4&oSérie de Criadores de Conteúdo&r."]
 	quest.64EBFB904388B206.title: "&o&4Criadores de Conteúdo"
+	quest.64EBFB904388B206.quest_subtitle: "Série opcional"
 	quest.7AB52F600829F468.quest_desc: ["De um dos streamers de &2&lMinecraft&r mais conhecidos para outro, agora é hora de enfrentar o &b&lChosen Architect&r. \\n\\nEle tem sua própria torre, a &bTorre do Chosen&r, onde aparecerá. \\n\\nNão deixe que os sentimentos de amor e nostalgia por seus vídeos e Modpacks te impeçam de derrotá-lo. \\n\\n&cPokémon&r vem antes do amor, você já deveria saber disso!"]
 	quest.7AB52F600829F468.title: "&b&lChosen Architect"
 	task.18E4A63F487E8C88.title: "TodosOsDireitosReservados"

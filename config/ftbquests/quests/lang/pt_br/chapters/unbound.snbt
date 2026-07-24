@@ -103,6 +103,7 @@
 	quest.3C108354DB6D9562.title: "&7Líder das Ruínas Aklove"
 	quest.4160EC0860E9CA4C.quest_desc: ["&4&oUnbound&r foi criado em resposta aos jogos da Geração II terem o mesmo enredo da Geração I. \\\\n\\\\nMesma mecânica de FireRed, apenas novos &cPokemon&r e o mais importante, uma nova história! \\\\n\\\\nComo sempre, entregue seu &4Cartão de Treinador&r a um &4Associado de Treinador&r e você o receberá de volta configurado para &4&oUnbound&r."]
 	quest.4160EC0860E9CA4C.title: "&4&oUnbound"
+	quest.4160EC0860E9CA4C.quest_subtitle: "Série opcional"
 	quest.45686EA3EC85C958.quest_desc: ["Para desbloquear &4&oUnbound&r você precisará derrotar &4&oRadical Red&r ou &4&oBDSP&r. \\\\n\\\\nEstas são duas &4&oSéries&r que vêm antes de &4&oUnbound&r. O &4Associado de Treinador&r não oferecerá &4&oUnbound&r até que uma delas seja concluída. \\\\n\\\\nIsso mesmo, você não precisa terminar ambas, apenas uma!"]
 	quest.45686EA3EC85C958.title: "Derrote &4&oBDSP"
 	quest.4816190648A0F176.quest_desc: [

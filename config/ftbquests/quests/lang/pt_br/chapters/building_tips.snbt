@@ -21,7 +21,7 @@
 	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r é outro Mod baseado no &lChiseled&r.\\n\\nA essência do Mod é usar a Ferramenta Chisel para mudar os designs de alguns Blocos.\\n\\nVocê pode clicar com o botão direito com o Chisel para abrir sua GUI, lá você pode colocar até um pack de Blocos, então escolher um design que você quer, e retirá-lo. Ou você pode mantê-lo no Chisel, embora eu não veja por que você iria querer fazer isso.\\n\\nVocê também pode clicar com o botão esquerdo em um Bloco com o Chisel para mudar seu design sem abrir a INTERFACE do Chisel!\\n\\nNão se preocupe, este não tem Durabilidade."]
 	quest.09F49ED309152E24.title: "&l&cChisel Reborn"
 	quest.0A21773B773F34F8.quest_desc: ["A cor é uma das partes mais importantes para tornar uma Construção mais viva!\\n\\nEla dá vida, personalidade e cor!\\n\\nComece com os Corantes!"]
-	quest.0A21773B773F34F8.title: "&fBlocos &cC&6o&el&ao&br&9i&dd&5o&ds"
+	quest.0A21773B773F34F8.title: "&fBlocos &zColoridos"
 	quest.0EB6ED88895366D0.quest_desc: ["Lembra quando era só Pedra e Pedregulho?"]
 	quest.0EB6ED88895366D0.title: "&fPedras do &2Vanilla&r"
 	quest.0FE30548F25FEDB1.quest_desc: ["Se você é como eu e não gosta de viver em uma Caixa (isso me lembra muito a Escola), então você vai gostar de ter Vidro em suas Construções para ver o lado de fora.\\n\\nEmbora os normais da Vanilla sejam bons, claro que podemos fazer muito melhor!\\n\\nPodemos até obter algum uso disso!"]
@@ -35,6 +35,14 @@
 	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
 	quest.1972B36F72808D55.quest_desc: ["Apenas algumas dessas pedras estão lascadas."]
 	quest.1972B36F72808D55.title: "&fPedra &l&bChipped"
+	quest.1CF227F4B5D3F88B.quest_desc: [
+		"&d&lCamol&r é a solução para camuflar &lTUDO&r. De Pipez a cabos do Mekanism até &6&lATM Stars&r, e tudo menos a... não, espere, a pia da cozinha também.\\n\\nFabrique o &d&lBloco de Camuflagem&r junto com o bloco que você quer usar como camuflagem, depois clique com o botão direito nele sobre o bloco que deseja camuflar, como um cabo ou algo assim.\\n\\nPor padrão, o &d&lBloco de Camuflagem&r adotará a forma de colisão do bloco camuflado. Você pode mudar para a versão que mantém a forma colocando-o sozinho na grade de criação. Isso fará com que assuma a forma do bloco usado na camuflagem.\\n\\nSe você quiser remover um &d&lBloco de Camuflagem&r, clique com o botão direito no bloco camuflado com outro Bloco de Camuflagem."
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.1CF227F4B5D3F88B.title: "&d&lCamol"
+	quest.1E53576CC2566FF0.quest_desc: ["&l&cCobble&fFurnies&r adiciona uma variedade de móveis, a maioria com temática de &cPokémon&r.\\n\\nHá banquetas, cadeiras, mesas, &7Estátuas&r de certos &cPokémon&r, uma TV e muito mais.\\n\\nEle até tem suas próprias opções para a sua cozinha, incluindo um fogão para suas Panelas de Fogueira.\\n\\nA maioria deles é fabricada com o Fabricador de Móveis."]
+	quest.1E53576CC2566FF0.title: "&l&cCobble&fFurnies"
 	quest.2094D1CE4BA66091.quest_desc: ["A luz é uma parte muito importante de qualquer Base. \\n\\nEla impede que Monstros apareçam, ajuda a enxergar e até adiciona mais Cor e vida às suas Construções! \\n\\nOu você pode simplesmente usar Visão Noturna, mas onde está a graça nisso!"]
 	quest.22D2CFDDB06C720C.quest_desc: ["Ferramentas são muito importantes no &2&lMinecraft&r, mas o espaço no inventário também é. Então, por que não liberar espaço criando uma Paxel! \\nPaxels são uma combinação de &ePicaretas&r, &eMachados&r, e &ePás&r. \\n\\nElas podem descascar madeira, fazer caminhos e minerar quaisquer blocos que uma picareta/machado/pá do mesmo Tier consiga!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
@@ -81,6 +89,8 @@
 	quest.44688FC2E34FF09F.title: "&fMudando Blocos"
 	quest.48971CE964CF037F.quest_desc: ["Embora proteger nossos Reatores Nucleares seja importante e visualizar seu conteúdo esteja relacionado à segurança dele. \\n\\nO Vidro também pode ser usado para deixar nossas bases mais bonitas! \\n\\nE, na verdade, o que é mais importante: segurança e proteção de nossos reatores nucleares? Ou deixar nossas bases mais bonitas!"]
 	quest.48971CE964CF037F.title: "&fVidro dos &3Reatores"
+	quest.4BEA1F7E788B50C5.quest_desc: ["O &l&cChisel Reborn&r é outro mod baseado no &lChipped&r. \\n\\nA essência do mod é... espere, missão errada.\\n\\nO &l&cCobble&fmon &7Stone Statues&r permite que você faça uma &7Estátua&r de basicamente qualquer &cPokémon&r que você possa imaginar, em uma variedade de poses diferentes.\\n\\nClique com o botão direito usando o Cinzel de &7Estátua&r para selecionar um &cPokémon&r, depois uma de suas poses possíveis, se a &7Estátua&r será de &7Pedra&r ou &6Ouro&r, e também a escala da &7Estátua&r, para deixá-la maior ou menor.\\n\\nVocê precisará de 5 de &7Pedra&r ou 5 &6Blocos de Ouro&r no seu inventário para posicionar uma Estátua.\\n\\nAdivinhou, esse Cinzel também não tem durabilidade."]
+	quest.4BEA1F7E788B50C5.title: "&l&cCobble&fmon &7Stone Statues"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["Isso não é necessário, mas eu acho muito útil. \\n\\nAs Garras de Escavação aumentam o Nível da sua Picareta, para suas Mãos. Assim, você pode Minerar até Minério de Ferro apenas com seus Punhos! \\n\\nIsso também inclui minerar coisas como Pedra, Terracota e Concreto. E você pode até minerar isso com os Blocos em suas Mãos. \\n\\nHonestamente, é basicamente necessário."]
 	quest.5716E84828EC0C23.quest_desc: ["Tijolos de Construção de Plástico são Blocos feitos através do &l&7PneumaticCraft: Repressurized&r. \\n\\nAssim como suas contrapartes da vida real, eles machucam ao pisar! \\n\\nEntão, ou use Sapatos ou alise os Tijolos."]
 	quest.5716E84828EC0C23.title: "Tijolos de Construção de Plástico"
@@ -131,6 +141,7 @@
 	task.0ED255BCB75ECCF1.title: "Vidro de Crystalix"
 	task.104E1A4BF3520D67.title: "Vidro de Reator"
 	task.16EF7FF802D5A2BB.title: "Blocos com Moldura"
+	task.1704AD6581E815EC.title: "CobbleFurnies"
 	task.195338A3977C682E.title: "Blocos de Mystical Agriculture"
 	task.1A66B7FFB4E2163E.title: "Troncos Vanilla"
 	task.1A7078C3984DD910.title: "Blocos de Netherita"
