@@ -36,7 +36,7 @@
 			y: 2.8d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1420,7 +1420,7 @@
 				}
 				{
 					id: "5392CADA51B80879"
-					item: { count: 1, id: "minecraft:black_stained_glass" }
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(chipped:black_stained_glass)item(connectedglass:clear_glass_black)item(connectedglass:borderless_glass_black)item(connectedglass:tinted_borderless_glass_black)item(connectedglass:scratched_glass_black)item(securitycraft:reinforced_black_stained_glass))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
