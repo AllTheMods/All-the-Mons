@@ -102,6 +102,7 @@
 	]
 	quest.3C108354DB6D9562.title: "&7Ruin Leader Aklove"
 	quest.4160EC0860E9CA4C.quest_desc: ["&4&oUnbound&r was created in response to Generation II Games having the same storyline as Gen I. \\\\n\\\\nSame mechanics as Firered, just new &cPokemon&r and most importantly a new story! \\\\n\\\\nLike always, hand your &4Trainer Card&r to a &4Trainer Associate&r and you'll get it back set to &4&oUnbound&r."]
+	quest.4160EC0860E9CA4C.quest_subtitle: "Optional Series"
 	quest.4160EC0860E9CA4C.title: "&4&oUnbound"
 	quest.45686EA3EC85C958.quest_desc: ["In order to unlock &4&oUnbound&r you'll need to beat either &4&oRadical Red&r or &4&oBDSP&r. \\\\n\\\\nThese are two &4&oSeries&r which come before &4&oUnbound&r. The &4Trainer Associate&r won't offer &4&oUnbound&r until one of them is complete. \\\\n\\\\nThat's right, you don't need to finish both, just one!"]
 	quest.45686EA3EC85C958.title: "Beat &4&oBDSP"

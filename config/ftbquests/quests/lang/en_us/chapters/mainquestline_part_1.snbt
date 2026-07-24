@@ -47,7 +47,7 @@
 	quest.5BA5B2670890EAFE.title: "Crafting, but on a Stick"
 	quest.5E84A58C2EC65240.quest_desc: ["&8Steel&r is entirely &cModded&r. Not at all &2&lVanilla&r, just made from the &2&lVanilla&r Items of Iron and &0Coal&r. \\n\\nHow do we make it? Just pick a Mod! \\n\\nMetallurgic Infuser - &5&lMekanism&r \\nAlloy Smelter - &a&lEnderIO&r \\nAlloy Kin or Blast Furnace - &8&lImmersive Engineering&r \\nFoundry - &6&lOritech&r \\nThe Foundry - &c&lProductive Metalworks&r \\nBlast Furnace - &6&lRailCraft Reborn&r \\n\\nAll of these work!"]
 	quest.5E84A58C2EC65240.title: "&8Steel"
-	quest.616AE66BE7812E09.quest_desc: ["There's soooo many different Mods to explore! \\n\\nFrom ones in the &2&lOverworld&r like Repurposed Structures to &4&lCataclysm&r. \\nThere's even more in their own Dimensions, like &9&lTwilight Forest&r, &2&lUndergarden&r, &6&lBumblezone&r, and &5&lEternal Starlight&r. \\n\\nAll of these Mods require Collecting new Blocks, Fighting unique Mobs, and best part is the awesome Weapons!"]
+	quest.616AE66BE7812E09.quest_desc: ["There's soooo many different Mods to explore! \\n\\nFrom ones in the &2&lOverworld&r like &4&lCataclysm&r.\\n\\nThere's even more in their own Dimensions, like the &2&lUndergarden&r, &6&lBumblezone&r, and &5&lEternal Starlight&r.\\n\\nAll of these Mods require Collecting new Blocks, Fighting unique Mobs, and best part is the awesome Weapons!"]
 	quest.616AE66BE7812E09.title: "Exploration"
 	quest.62527F657474DD91.quest_desc: ["&c&lModded Minecraft&r isn't cheap, you're going to need LOTS of Items. \\n\\nSo let's learn how to Farm Items!"]
 	quest.62527F657474DD91.title: "&lMaterial Farming"

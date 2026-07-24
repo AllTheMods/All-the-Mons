@@ -37,16 +37,16 @@
 	quest.1E6F000000001025.title: "Okidogi"
 	quest.1E6F00000000103B.quest_desc: ["Some legendary Pokémon will not be found in the wild - they have to be called. The &dSummoning Altar&r is how you do it.\\n\\nPlace a catalyst item on the altar, scatter the ritual's ingredients on the ground around it, and raise the block pattern the recipe demands. Right-click the altar to begin, then wait for the summon to finish. Each quest below lists what its ritual needs - gather the rare pieces, build the structure, and draw the legend into the world."]
 	quest.1E6F00000000103B.title: "The Summoning Altar"
-	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r is not found in the wild - it is forged. Set a &6Ring Cast&r on the altar, add a Salamander Eye and a Black Laser Lens, and run the ritual beside a working foundry filled with molten gold and steel.\\n\\nThe ore-eating hex-nut Pokémon condenses straight out of the molten metal. Catch one, then gather more, because a single Meltan is only the start of something far larger."]
+	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r is not found in the wild - it is forged. Set a Salamander Eye, a Black Laser Lens, a Red Network Cable, and finally, add a &6Ring Cast&r on the altar (it's close enough to a hexagon), and run the ritual beside a working foundry filled with molten gold and steel.\\n\\nThe ore-eating hex-nut Pokémon condenses straight out of the molten metal. Catch one, then gather more, because a single Meltan is only the start of something far larger."]
 	quest.1E6F00000000103D.quest_subtitle: "Alola"
 	quest.1E6F00000000103D.title: "Meltan"
-	quest.1E6F000000001044.quest_desc: ["Six &bMeltan&r can fuse into &9Melmetal&r, the steel titan of legend. This ritual is the most demanding of them all.\\n\\nLay &cHigh Powered Heating Coils&r in the ground beneath the altar - they only glow once they are attached to a working &6foundry&r, so build one to power them rather than expecting a switch on the coils themselves. Set a &7Metal Coat&r as the catalyst and pour in Soul Lava to drive the heat. Send out six Meltan around the altar, then trigger it - the swarm collapses into one enormous body."]
+	quest.1E6F000000001044.quest_desc: ["Six &bMeltan&r can fuse into &9Melmetal&r, the steel titan of legend. This ritual is the most demanding of them all.\\n\\nLay at least 9 &cHigh Powered Heating Coils&r in the ground beneath the altar - they only glow once they are attached to a working &6foundry&r, so build one to power them rather than expecting a switch on the coils themselves. Set three Soul Lava Buckets on the altar to drive the heat, and a &7Metal Coat&r as the catalyst. Send out six Meltan around the altar, then trigger it - the swarm collapses into one enormous body."]
 	quest.1E6F000000001044.quest_subtitle: "Alola"
 	quest.1E6F000000001044.title: "Melmetal"
 	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r lies dormant as a crystal, the wellspring of the Terastal phenomenon itself.\\n\\nSet a &5Life Orb&r on the altar and offer the four colored hearts - blue, yellow, red, and green - taken from the world's mightiest foes. Raise the crystal frame the ritual calls for and begin. The Stellar Pokémon uncurls from its shell and takes form."]
 	quest.1E6F00000000104A.quest_subtitle: "Paldea"
 	quest.1E6F00000000104A.title: "Terapagos"
-	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r was never born - it was made, cloned from the DNA of the mythical &dMew&r and engineered into the most powerful Psychic-type ever recorded.\\n\\nRecreate that experiment here. Bring an &bAncient DNA Sample&r and complete the fossil ritual to revive the clone, then catch it before its fury turns on you."]
+	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r was never born - it was made, cloned from the DNA of the mythical &dMew&r and engineered into the most powerful Psychic-type ever recorded.\\\\n\\\\nRecreate that experiment here. Bring an &bAncient DNA Sample&r and a &dPika Star&r and complete the synthesis process like you would with fossilized Pokémon to revive the clone, then catch it before its fury turns on you."]
 	quest.1E6F000000001053.quest_subtitle: "Kanto"
 	quest.1E6F000000001053.title: "Mewtwo"
 	quest.1E6F000000001058.quest_desc: ["&5Pecharunt&r is the hidden master the &dLoyal Three&r once served, a mythical that bends others to its will with poisoned chains.\\n\\nTo call it you must first hold all three - Okidogi, Munkidori, and Fezandipiti - in your party. Place the &5Pecharunt Doll&r, send out the trio, and the puppet-master answers. Catch it, and the Loyal Three are free at last."]
@@ -60,19 +60,19 @@
 	quest.1E6F000000001076.quest_desc: ["&cHeatran&r dwells in the magma, a beast of molten steel that crawls across cavern walls and ceilings on cross-shaped feet.\\n\\nDescend into the &6Heatran Cave&r and carry a &cMagma Stone&r to wake it. Be ready for a brawl in the heat - this is one of the few Pokémon that calls the inside of a volcano home."]
 	quest.1E6F000000001076.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001076.title: "Heatran"
-	quest.1E6F00000000107C.quest_desc: ["&dMew&r is the ancestor of every Pokémon, said to carry the DNA of all species within its tiny body.\\n\\nIt hides on a remote island far out to sea. Follow an &bOld Sea Map&r to the &dFinal Island&r and search it out. Playful and shy, Mew rarely shows itself - but the map leads to where it waits."]
+	quest.1E6F00000000107C.quest_desc: ["&dMew&r is the ancestor of every Pokémon, said to carry the DNA of all species within its tiny body.\\n\\nIt hides on a remote island far out to sea. Follow an &bOld Sea Map&r (can be found in Jungle Temples 50% of the time) to the &dFinal Island&r and search it out. Playful and shy, Mew rarely shows itself - but the map leads to where it waits."]
 	quest.1E6F00000000107C.quest_subtitle: "Kanto"
 	quest.1E6F00000000107C.title: "Mew"
-	quest.1E6F000000001082.quest_desc: ["&eVictini&r is the Victory Pokémon, and a trainer who keeps it close is said to never lose.\\n\\nIt is sealed away beneath &bLiberty Island&r. Obtain a &eLiberty Pass&r to reach the hidden chamber under the lighthouse, and claim the small creature that burns with limitless energy."]
+	quest.1E6F000000001082.quest_desc: ["&eVictini&r is the Victory Pokémon, and a trainer who keeps it close is said to never lose.\\n\\nIt is sealed away beneath &bLiberty Island&r. Obtain a &eLiberty Pass&r (can be found in Desert Pyramids 25% of the time) to reach the hidden chamber under the lighthouse, and claim the small creature that burns with limitless energy."]
 	quest.1E6F000000001082.quest_subtitle: "Unova"
 	quest.1E6F000000001082.title: "Victini"
-	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r is the mischief-maker, a genie that warps space through its rings and spirits away anything it pleases.\\n\\nIts power is bound inside the &6Hoopa Pyramid&r. Carry a &eTemple Key&r to open the way and confront the trickster within. Catch it, and those rings can pull treasures - and trouble - from across the world."]
+	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r is the mischief-maker, a genie that warps space through its rings (at least in the anime) and spirits away anything it pleases.\\n\\nIts power is bound inside the &6Hoopa Pyramid&r. Solve its various trials, obtaining &eTemple Keys&r to unlock the doors. Carry the final &eTemple Key&r and a Prison Bottle (either found in the &6Pyramid&r or purchased from the Battle Tower) and confront the trickster within. Catch it, and those rings can pull treasures - and trouble - from across the world."]
 	quest.1E6F000000001088.quest_subtitle: "Kalos"
 	quest.1E6F000000001088.title: "Hoopa"
-	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r is the white dragon of truth, its tail blazing like a jet engine fierce enough to scorch the world clean.\\n\\nIt waits atop the &bDragonspiral Tower&r. Bring a &7Light Stone&r - the dormant shape it takes while it sleeps - to wake the dragon and challenge it. Catch it, and the flames of truth are yours."]
+	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r is the white dragon of truth, its tail blazing like a jet engine fierce enough to scorch the world clean.\\n\\nIt waits atop the &bDragonspiral Tower&r. Bring a &7Light Stone&r (fragments of which can be obtained from defeating Dragon-type Pokémon, as well as Wardens and Withers) - the dormant shape it takes while it sleeps, alongside a &6Fire Gem&r - to wake the dragon and challenge it. Catch it, and the flames of truth are yours."]
 	quest.1E6F00000000109E.quest_subtitle: "Unova"
 	quest.1E6F00000000109E.title: "Reshiram"
-	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r is the black dragon of ideals, its tail a vast generator that crackles with raw thunder.\\n\\nIt sleeps within the &bDragonspiral Tower&r as a &9Dark Stone&r. Carry the stone to the tower's peak to rouse it, and meet the dragon in battle. Catch it, and the lightning of ideals answers your call."]
+	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r is the black dragon of ideals, its tail a vast generator that crackles with raw thunder.\\n\\nIt sleeps within the &bDragonspiral Tower&r as a &9Dark Stone&r. Fragments of the &9Dark Stone&r can be obtained from defeating Dragon-type Pokémon, as well as from Wardens and Withers. Carry the stone to the tower's peak, as well as an &eElectric Gem&r to rouse it, and meet the dragon in battle. Catch it, and the lightning of ideals answers your call."]
 	quest.1E6F0000000010A4.quest_subtitle: "Unova"
 	quest.1E6F0000000010A4.title: "Zekrom"
 	quest.1E6F0000000010AA.quest_desc: ["&bKyurem&r is what is left when truth and ideals are torn away - a hollow dragon of ice, forever hunting the parts of itself it lost.\\n\\nFind it in the frozen &bKyurem Cave&r. You must bring both the &fTruth Bottle&r and the &8Ideals Bottle&r, gathered from Reshiram and Zekrom, before the empty dragon will face you."]
@@ -84,7 +84,7 @@
 	quest.1E6F0000000010B7.quest_desc: ["&dPalkia&r is the master of space, a dragon that can fold the distance between two points until they touch.\\n\\nIt answers the same call as Dialga at the &dSpear Pillar&r. Carry a &dRed Chain&r to the summit to draw the spatial Pokémon out of the void between worlds."]
 	quest.1E6F0000000010B7.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000010B7.title: "Palkia"
-	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r was banished to the &5Distortion World&r for its violence, a ghostly dragon that watches our world from the far side of the mirror.\\n\\nSeek out &5Giratina Island&r and carry an &dAntimatter Globe&r to tear open the way. Face the renegade in its own reflected realm and bring it home."]
+	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r was banished to the &5Distortion World&r for its violence, a ghostly dragon that watches our world from the far side of the mirror.\\n\\nSeek out &5Giratina Island&r and carry a &dGriseous Orb&r to tear open the way. Face the renegade in its own reflected realm and bring it home."]
 	quest.1E6F0000000010BD.quest_subtitle: "Sinnoh"
 	quest.1E6F0000000010BD.title: "Giratina"
 	quest.1E6F0000000010C3.quest_desc: ["&cLatias&r is the gentle red half of the Eon duo, able to cloak itself from sight and sense the feelings of those around it.\\n\\nIt nests on the hidden &aSouthern Island&r. Offer a &cLatias Treat&r to coax the shy dragon into the open, and earn its trust."]
@@ -93,10 +93,10 @@
 	quest.1E6F0000000010C9.quest_desc: ["&9Latios&r is the noble blue half of the Eon duo, fast enough to outrun a jet and clever enough to show others the images it has seen.\\n\\nIt shares the &aSouthern Island&r with its sister. Bring a &9Latios Treat&r to call it down, and prove yourself worthy of the swift dragon."]
 	quest.1E6F0000000010C9.quest_subtitle: "Hoenn"
 	quest.1E6F0000000010C9.title: "Latios"
-	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r is the crowned hero-wolf of Galar, who once drove back the Darkest Day with a shining blade held in its jaws.\\n\\nIt waits in the &6Throne Room of Knightly Heroes&r. Carry the &bHero Sword&r - the rusted blade it wielded of old - and the warrior Pokémon will test your resolve."]
+	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r is the crowned hero-wolf of Galar, who once drove back the Darkest Day with a shining blade held in its jaws.\\n\\nIt waits in the &6Throne Room of Knightly Heroes&r. Carry the &bHero Sword&r - the rusted blade it wielded of old, as well as a &eTotem of Undying&r - and the warrior Pokémon will test your resolve."]
 	quest.1E6F0000000010CF.quest_subtitle: "Galar"
 	quest.1E6F0000000010CF.title: "Zacian"
-	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r is the shielded hero-wolf of Galar, who stood beside Zacian against the Darkest Day and turned aside every blow.\\n\\nIt guards the &6Throne Room of Knightly Heroes&r. Bring the &bHero Shield&r - its ancient, rusted aegis - and the guardian Pokémon will judge whether you are worthy."]
+	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r is the shielded hero-wolf of Galar, who stood beside Zacian against the Darkest Day and turned aside every blow.\\n\\nIt guards the &6Throne Room of Knightly Heroes&r. Bring the &bHero Shield&r - its ancient, rusted aegis, as well as a &eTotem of Undying&r - and the guardian Pokémon will judge whether you are worthy."]
 	quest.1E6F0000000010D5.quest_subtitle: "Galar"
 	quest.1E6F0000000010D5.title: "Zamazenta"
 	quest.1E6F0000000010EB.quest_desc: ["&7Regirock&r is the rock golem of the legendary titans, its body assembled from boulders and held together by an unknown power.\\n\\nIt sleeps within the &bSnowpoint Temple&r. Bring the &7Rock Golem Key&r to unseal its chamber and wake the ancient construct."]
@@ -135,7 +135,7 @@
 	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r is the king who once ruled all of Galar, a calm and gentle Pokémon said to see every past and future.\\n\\nIt waits at the &dCrown Shrine&r, but a king needs a steed. Claim both Glastrier and Spectrier first, then approach the throne to meet the monarch and choose your mount."]
 	quest.1E6F00000000112D.quest_subtitle: "Galar"
 	quest.1E6F00000000112D.title: "Calyrex"
-	quest.1E6F000000001132.quest_desc: ["&fArceus&r is the Original One, the Pokémon said to have shaped the entire universe from itself.\\n\\nIts dwelling lies beyond the world. Play the &eAzure Flute&r to open the stairway to the &fHall of Origin&r and stand before the creator. Few ever earn the chance to face a god."]
+	quest.1E6F000000001132.quest_desc: ["&fArceus&r is the Original One, the Pokémon said to have shaped the entire universe from itself.\\n\\nIts dwelling lies beyond the world. Play the &eAzure Flute&r - proof you've bested Giratina, Dialga, and Palkia to open the stairway to the &fHall of Origin&r and stand before the creator. Few ever earn the chance to face a god."]
 	quest.1E6F000000001132.quest_subtitle: "Sinnoh"
 	quest.1E6F000000001132.title: "Arceus"
 	quest.1E6F000000001138.quest_desc: ["&dMesprit&r is the Being of Emotion, one of the lake guardians of Sinnoh, said to have taught people the joy and sorrow of feeling.\\n\\nIt hides beneath &bLake Verity&r. Earn a &aProof of Conquest&r and present it at the lake to call the sprite of emotion into the open."]
@@ -153,13 +153,13 @@
 	quest.1E6F00000000114F.quest_desc: ["&8Darkrai&r is the pitch-black Pokémon of new-moon nights, who slips into dreams and turns them into endless nightmares.\\n\\nIt answers only the dark. Sound the &8Newmoon Whistle&r after nightfall to call the bringer of nightmares out of the shadows, and catch it if you dare."]
 	quest.1E6F00000000114F.quest_subtitle: "Sinnoh"
 	quest.1E6F00000000114F.title: "Darkrai"
-	quest.1E6F000000001154.quest_desc: ["&bArticuno&r is the freezing bird of the legendary trio, said to appear to travellers lost in the mountains and freeze the air in its wake.\\n\\nThere is no monument for it. Charge an &bUrn of Frost&r by defeating Ice-type Pokémon, then release its power to summon the frozen bird."]
+	quest.1E6F000000001154.quest_desc: ["&bArticuno&r is the freezing bird of the legendary trio, said to appear to travellers lost in the mountains and freeze the air in its wake.\\n\\nThere is no monument for it. Charge an &bUrn of Frost&r by defeating 50 Ice-type Pokémon, then release its power to summon the frozen bird."]
 	quest.1E6F000000001154.quest_subtitle: "Kanto"
 	quest.1E6F000000001154.title: "Articuno"
-	quest.1E6F000000001159.quest_desc: ["&eZapdos&r is the thunderbird of the legendary trio, which draws power from lightning and turns the storm clouds black wherever it flies.\\n\\nCharge an &eUrn of Storms&r by defeating Electric-type Pokémon, then unleash it to call down the storm bird."]
+	quest.1E6F000000001159.quest_desc: ["&eZapdos&r is the thunderbird of the legendary trio, which draws power from lightning and turns the storm clouds black wherever it flies.\\n\\nCharge an &eUrn of Storms&r by defeating 50 Electric-type Pokémon, then unleash it to call down the storm bird."]
 	quest.1E6F000000001159.quest_subtitle: "Kanto"
 	quest.1E6F000000001159.title: "Zapdos"
-	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r is the flame bird of the legendary trio, whose wingbeats scatter embers and are said to herald the coming of spring.\\n\\nCharge an &cUrn of Embers&r by defeating Fire-type Pokémon, then loose its fire to summon the blazing bird."]
+	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r is the flame bird of the legendary trio, whose wingbeats scatter embers and are said to herald the coming of spring.\\n\\nCharge an &cUrn of Embers&r by defeating 50 Fire-type Pokémon, then loose its fire to summon the blazing bird."]
 	quest.1E6F00000000115E.quest_subtitle: "Kanto"
 	quest.1E6F00000000115E.title: "Moltres"
 	quest.1E6F000000001173.quest_desc: ["The &8Treasures of Ruin&r are four cursed vessels, each holding the spite of an ancient ruler whose ambition once brought a kingdom to ruin.\\n\\nEach is pinned down at its own shrine by ritual stakes. Seek out the shrines scattered across the world and confront the calamities sealed within."]
@@ -197,7 +197,7 @@
 	quest.1E6F0000000011EB.quest_subtitle: "Unova"
 	quest.1E6F0000000011EB.title: "Landorus"
 	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r is the Love-Incarnate Pokémon, whose touch wakes the land from winter and coaxes the spring into bloom.\\n\\nIt shows itself only &eduring a thunderstorm&r, out in &aflowery biomes&r. Wait for the storm and catch the newest force of nature."]
-	quest.1E6F0000000011EF.quest_subtitle: "Galar"
+	quest.1E6F0000000011EF.quest_subtitle: "Hisui"
 	quest.1E6F0000000011EF.title: "Enamorus"
 	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r is the Jewel Pokémon, a carbon creature that can compress the air around it into glittering diamonds.\\n\\nSeek her &1deep underground&r in the dark, near &damethyst&r - she surfaces close to amethyst geodes far below. Bring a light and catch her."]
 	quest.1E6F0000000011F3.quest_subtitle: "Kalos"
@@ -214,7 +214,7 @@
 	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r is a guardian deity that conjures fog to confound intruders and purifies tainted water with its mist.\\n\\nSeek the island guardian in &2jungles&r, &2tropical islands&r, and &ebeaches&r, and catch it."]
 	quest.1E6F000000001203.quest_subtitle: "Alola"
 	quest.1E6F000000001203.title: "Tapu Fini"
-	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThis clockwork legend cannot be found in the wild - you must build it. First, charge a &bSoul-Heart Mechanism&r out in the open by defeating 50 Pokémon in battle within 10 blocks of it. Then raise Magearna's automaton body around the charged Soul-Heart on a &6Summoning Ritual Altar&r, and with one of your own &cVolcanion&r present to bear witness, activate the altar with an &5Enchanted Soul&r to breathe life into the machine."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r is the Artificial Pokémon, built over five hundred years ago by a brilliant inventor and able to sense the feelings of other Pokémon.\\n\\nThis clockwork legend cannot be found in the wild - you must build it. First, charge a &bSoul-Heart Mechanism&r out in the open by defeating 50 Pokémon in battle within 10 blocks of it. Then raise Magearna's automaton body around the charged Soul-Heart on a &6Summoning Ritual Altar&r, and with one of your own &cVolcanion&r present to bear witness, activate the altar with a Mark of Technomancy, then an &5Enchanted Soul&r to breathe life into the machine."]
 	quest.1E6F000000001207.quest_subtitle: "Alola"
 	quest.1E6F000000001207.title: "Magearna"
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, racing on all fours fast enough to keep pace with a lightning bolt.\\n\\nChase it down in &6savannas&r under &eopen sky&r."]
@@ -255,13 +255,13 @@
 	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r at Ecruteak and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
 	quest.1E6F0000000012D3.quest_subtitle: "Johto"
 	quest.1E6F0000000012D3.title: "Ho-Oh"
-	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r is the regal Galarian form of the legendary bird - a psychic flier whose serene gaze hides a cold and cruel streak.\\n\\nRaise the &bGalarian Urn of Frost&r the way the Kantonian bird answered the Urn of Frost, and the rival form sweeps in."]
+	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r is the regal Galarian form of the legendary bird - a psychic flier whose serene gaze hides a cold and cruel streak.\\n\\nRaise the &bGalarian Urn of Frost&r in a similar way the Kantonian bird answered the Urn of Frost, except with 75 Psychic-type Pokémon, and the rival form sweeps in."]
 	quest.1E6F0000000012E9.quest_subtitle: "Galar"
 	quest.1E6F0000000012E9.title: "Galarian Articuno"
-	quest.1E6F0000000012EE.quest_desc: ["&eGalarian Zapdos&r is the Galarian form of the legendary bird - a flightless brawler that strikes with kicks as sudden and violent as a thunderclap.\\n\\nRaise the &eGalarian Urn of Storms&r to summon it."]
+	quest.1E6F0000000012EE.quest_desc: ["&eGalarian Zapdos&r is the Galarian form of the legendary bird - a flightless brawler that strikes with kicks as sudden and violent as a thunderclap.\\n\\nCharge the &eGalarian Urn of Storms&r by defeating 75 Fighting-type Pokémon to summon it."]
 	quest.1E6F0000000012EE.quest_subtitle: "Galar"
 	quest.1E6F0000000012EE.title: "Galarian Zapdos"
-	quest.1E6F0000000012F3.quest_desc: ["&9Galarian Moltres&r is the Galarian form of the legendary bird - a sinister flier wreathed in cold blue flame that drains the spirit of any who meet its burning eyes.\\n\\nRaise the &cGalarian Urn of Embers&r to summon it."]
+	quest.1E6F0000000012F3.quest_desc: ["&9Galarian Moltres&r is the Galarian form of the legendary bird - a sinister flier wreathed in cold blue flame that drains the spirit of any who meet its burning eyes.\\n\\nCharge the &cGalarian Urn of Embers&r by defeating 75 Dark-type Pokémon to summon it."]
 	quest.1E6F0000000012F3.quest_subtitle: "Galar"
 	quest.1E6F0000000012F3.title: "Galarian Moltres"
 	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nThe &eGS Ball&r cannot be crafted - you must trade for one from &6Kurt&r, the apricorn ball-maker (a PokéMart Trader villager named Kurt), then use it on an &2Ilex Shrine&r to call Celebi across time and catch it.\\n\\n&cNote:&r name a normal villager the vanilla way (with a name tag) - Kurt is a free spirit and doesn't like being locked up in an &eEasy Villagers&r Trader block."]
@@ -279,10 +279,20 @@
 	quest.1E6F00000000131D.quest_desc: ["&8Necrozma&r is the prism Pokémon, a shard of living light that fell from the sky in ancient times and now hungers for the glow of others.\\n\\nIt prowls the wild on its own - track one down and catch it. Hold &6Solgaleo&r or &dLunala&r as well and Necrozma fuses into its blazing &eDusk Mane&r or &dDawn Wings&r form, and beyond even those lies its ultimate surge as &bUltra Necrozma&r."]
 	quest.1E6F00000000131D.quest_subtitle: "Alola"
 	quest.1E6F00000000131D.title: "Necrozma"
-	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r is the DNA Pokémon, a sliver of alien genetic code that rode a meteor down from the depths of space. Drawing it out is the most demanding rite in the world, performed across three trials.\\n\\nFirst, set an &eAncient DNA Sample&r on the altar with a &2Plutonium Pellet&r, lay a 3x3 platform of &7Magnets&r beneath it, and run the ritual in the &9Ether River&r of Eternal Starlight - but only while a &dmeteor shower&r falls and you wear four MekaSuit pieces fitted with Radiation Shielding Units. The sky answers, and a &bDeoxys Crystal&r drops into the world.\\n\\nThe crystal is dormant. Seek out the &5Birth Island&r and loose the crystal above its &bDeoxys Base&r - it will flit across the meteorite floor, and you must chase it down and strike it time after time until it blazes at full charge and settles, lit, upon the base.\\n\\nWith the crystal lit, raise the final rite around that very base: a ring of arcane obelisks and a pair of &bSource Jars&r each filled to the brim, 10,000 source apiece. Then cast the &eDeoxys Meteorite&r onto the altar alongside the four weights that mirror its formes - the &ePower Bracer&r, &ePower Belt&r, &ePower Anklet&r and &ePower Weight&r - and perform the ritual. &cDeoxys&r itself answers the call."]
+	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r is the DNA Pokémon, a sliver of alien genetic code that rode a meteor down from the depths of space. Drawing it out is the second most demanding rite in the world, only rivaled by the Shiny Pika Star's rite, performed across three trials.\\n\\nFirst, set an &eAncient DNA Sample&r on the altar with a &2Plutonium Pellet&r, lay a 3x3 platform of &7Magnets&r beneath it, and run the ritual in the &9Ether River&r of Eternal Starlight - but only while a &dmeteor shower&r falls and you wear four MekaSuit pieces fitted with Radiation Shielding Units. The sky answers, and a &bDeoxys Crystal&r drops into the world.\\n\\nThe crystal is dormant. Seek out the &5Birth Island&r and loose the crystal above its &bDeoxys Base&r - it will flit across the meteorite floor, and you must chase it down and strike it time after time until it blazes at full charge and settles, lit, upon the base.\\n\\nWith the crystal lit, raise the final rite around that very base: a ring of Arcane Crystal Obelisks and a pair of &bSource Jars&r each filled to the brim, 10,000 source apiece. Then cast the &eDeoxys Meteorite&r onto the altar alongside the four weights that mirror its formes - the &ePower Bracer&r, &ePower Belt&r, &ePower Anklet&r and &ePower Weight&r - and perform the ritual. &cDeoxys&r itself answers the call."]
 	quest.1E6F000000001331.quest_subtitle: "Hoenn"
 	quest.1E6F000000001331.title: "Deoxys"
+	quest.2B1AB9ECAB07A486.quest_desc: [
+		"&aZygarde&r is the guardian of the world's ecosystem, firmly believing it has a duty to protect it. It is composed of smaller units known as &aZygarde Cores&r and &aZygarde Cells&r.\\n\\nYou'll need a &bReassembly Unit&r and a &aZygarde Cube&r to reassemble the &cPokémon&r. Right click while holding the &aCube&r to place &aCores&r and &aCells&r inside.\\n\\nThe amount of &aCores&r and &aCells&r will determine the form &aZygarde&r takes on reassembly."
+		"&lNext Page ->&r"
+		"{@pagebreak}"
+		"With 9 &aCells&r and 1 &aCore&r, &aZygarde&r will take on its 10% Forme. It'll take 2 minutes for the reassembly to complete with this form.\\n\\nWith 49 &aCells&r and 1 &aCore&r, &aZygarde&r will take on its 50% Forme. It'll take 5 minutes for the reassembly to complete with this form.\\n\\nWith all 95 &aCells&r and all 5 &aCores&r, &aZygarde&r will take on its \"Complete Forme\", gaining the Power Construct ability instead of the Aura Break ability other forms have. It'll take 10 minutes for the reassembly to complete with this form.\\n\\nUse the &aZygarde Cube&r on the &bReassembly Unit&r to start the reassembly process. Once the reassembly is complete, use any Pokéball on the &bReassembly Unit&r to capture &aZygarde&r.\\n\\nYou can also reverse this process by right clicking &aZygarde&r with the &aCube&r, then using the &aCube&r on the &bReassembly Unit&r, gaining the &aCores&r and &aCells&r back."
+	]
+	quest.2B1AB9ECAB07A486.quest_subtitle: "Kalos"
+	quest.2B1AB9ECAB07A486.title: "Zygarde"
 	quest.2CA1E70813BFE6E7.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
+	quest.6A6BD8D2955B8476.quest_desc: ["Some legendary Pokémon will not be found in the wild - they have to be called. The &dSummoning Altar&r is how you do it for most of them. Not these Mons, though."]
+	quest.6A6BD8D2955B8476.title: "Non-Altar Summoning"
 	task.1E6E0003571C0001.title: "Find the Origin Cave"
 	task.1E6E0003CA7C0001.title: "Catch Kyogre"
 	task.1E6E0004571C0002.title: "Find the Origin Tomb"
@@ -304,7 +314,7 @@
 	task.1E6F000000001041.title: "Catch Meltan"
 	task.1E6F000000001047.title: "Catch Melmetal"
 	task.1E6F000000001050.title: "Catch Terapagos"
-	task.1E6F000000001055.title: "Catch Mewtwo"
+	task.1E6F000000001055.title: "Catch Mewtwo (CURRENTLY BROKEN)"
 	task.1E6F00000000105A.title: "Catch Pecharunt"
 	task.1E6F000000001071.title: "Find the Lugia Temple"
 	task.1E6F000000001073.title: "Catch Lugia"
@@ -433,6 +443,8 @@
 	task.1E6F000000001332.title: "Hold an Ancient DNA Sample"
 	task.1E6F000000001333.title: "Hold a Plutonium Pellet"
 	task.1E6F000000001334.title: "Catch Deoxys"
+	task.1F0B19DDCA4D603F.title: "Find the Birth Island"
 	task.47FF36EC8F4EDE22.title: "AllRightsReserved"
+	task.5A94D921FBE617B9.title: "Catch Zygarde (CURRENTLY BROKEN)"
 	task.7B91C38DD6E214C3.title: "AllRightsReserved"
 }

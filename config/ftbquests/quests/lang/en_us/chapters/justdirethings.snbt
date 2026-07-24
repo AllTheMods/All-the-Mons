@@ -398,7 +398,7 @@
 		"Makes Arrows actively seek their targets."
 	]
 	quest.40C5C355B6DA1893.quest_desc: ["The Pocket Generator is a handheld generator that uses burnable items to charge items and tools in the player's inventory, the Pocket Generator is compatable with the Fuel Canister."]
-	quest.41E8C93A44559E48.quest_desc: ["The &7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
+	quest.41E8C93A44559E48.quest_desc: ["The &7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, take a Snapshot of blocks (namely Ores) and entities in the designated area; then it can duplicate it.\\n\\nDoing so builds up &5Paradox Energy&r in the &7Paradox Machine&r, and, once it's full, a &5Paradox&r will occur. It consumes nearby blocks, items, and entities, growing in size. A &aTime Crystal&r can be thrown into the &5Paradox&r to close it.\\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
 	quest.433117EEA55B6A54.quest_desc: ["Just a simple fluid placer."]
 	quest.441F37A95AB66E6B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
 	quest.4458F8829800A950.quest_desc: ["Polymorphic Fluid is the base of all Fluids / Fuels in JDT. Polymorphic Fluid is crafted by dropping Polymorphic Catalyst into water."]
@@ -637,7 +637,7 @@
 	quest.6ADE6F9E004055F7.quest_desc: [
 		"Time Crystals are a new material added by JDT. These grow on Budding Time Crystal Blocks, which are created by performing goo spread on Budding Amethyst or a Time Crystal Block.\\n\\nHOWEVER, the Budding Time Crystal Block must collect time from the &9Overworld&r, the &6Nether&r, and &aThe End&r to be able to grow Time Crystal Clusters. You CANNOT break or use silk touch on the Budding Time Crystal Block. You must use a Swapper, Cardboard Box, or Cut Paste Gadget to move them.\\n\\nAfter a while, the Budding Time Crystal Block will &2run out of energy&r, and must go for another trip to the &9Overworld&r, &6Nether&r, and &aEnd&r."
 		"{@pagebreak}"
-		"To automate this process, look at the video linked in the image above this quest.\\n\\nAnd if the &2co&9lor &6co&ading&r in the previous page wasn't enough, I added an image to help you know what stage is which Budding Time Crystal Block."
+		"And if the &2co&9lor &6co&ading&r in the previous page wasn't enough, I added an image to help you know what stage is which Budding Time Crystal Block."
 		""
 		"{image:atm:textures/questpics/justdirethings/budding_time_crystal_reference.png width:250 height:125 align:center}"
 	]

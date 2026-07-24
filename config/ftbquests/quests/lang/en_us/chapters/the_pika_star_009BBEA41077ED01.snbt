@@ -39,7 +39,10 @@
 	]
 	quest.2DBB88E1C147F496.title: "Unbound Pika Star"
 	quest.3375020AEADFCFF1.quest_subtitle: "Craft the Kalosian pika star"
+	quest.36754054DFAC4CF7.quest_desc: ["It's a star so of course it needs a Star Fruit. It's a bit of a long breeding tree, so check out the &lProductive Trees&r chapter to learn more about how to get a Star Fruit tree."]
 	quest.369F898BF46729E0.quest_subtitle: "Catch all pokemon from Alola"
+	quest.38A6963FFAC245AA.quest_desc: ["Every single badge from the Custom Gyms and Elite Gym of the &4&oATM Team Series&r. Check out the ATM Team chapter for more information.\\n\\n&aThe Badges are not consumed when used to craft the Unbound Pika Star."]
+	quest.38A6963FFAC245AA.title: "AllTheBadges"
 	quest.3B7A4929A1FCFFC6.quest_desc: [
 		"How to read &5Altar &rJEI recipes:"
 		""
@@ -62,6 +65,8 @@
 	quest.64CC314ECC49B92A.quest_desc: ["Obtain all &cregional &ePika Stars."]
 	quest.6A2810DEDC54A414.quest_subtitle: "Craft the Kantonian regional pika star"
 	quest.6B4196A8DC3235D5.quest_desc: ["Complete &aall progress&r on each &cregional &ePika Star."]
+	quest.6E2B112E46A5A2BE.quest_desc: ["To make the &dUnbound Pika Star&r, you'll need a &cRed Orb&r and a &9Blue Orb&r.\\n\\nThere's 2 ways to obtain these orbs.\\n\\nHolo Battle Tower: Can be purchased for 20 Battle Points each.\\n\\n&4&lCataclsym&r Bosses: &b&lIgnis&r and &3&lMaledictus&r can sometimes drop a &cRed Orb&r. &9&lScylla&r and &5&lThe Leviathan&r can sometimes drop a &9Blue Orb&r.\\n\\nThe odds of each of the Orbs dropping is about 25%."]
+	quest.6E2B112E46A5A2BE.title: "&cRed &r'n &9Blue&r Orbs"
 	quest.72FB20982A2940BF.quest_subtitle: "Catch all pokemon from Kanto"
 	quest.7793F96BA31494F9.quest_subtitle: "Catch all pokemon from Unova"
 	quest.7A0693A3016549F6.quest_desc: [
@@ -78,6 +83,8 @@
 		"- Enshrine within the cases all &cten regional Pika Stars&r and a &cPokédex&r - the sum of your journey, on display for all the world."
 		"- &aLay upon the altar&r a &bLight Ball&r, a &bThunder Stone&r, an &bUnobtainium-Vibranium Alloy Ingot&r and a &bMaster Ball&r."
 		"- Then &cset down the unbound Pika Star&r, and let the rite begin."
+		""
+		"After the rite, the odds of any &cPokémon&r you encounter being Shiny will be 50 times more likely, as long as the &dShiny Pika Star&r is within your inventory."
 		""
 		"&7* Kurt is a &6PokéMart Trader&r villager renamed to &6Kurt&r with a Name Tag - keep him within a few blocks of the altar.&r"
 	]

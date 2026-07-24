@@ -1,6 +1,5 @@
 {
 	chapter.007B547630FF0478.title: "Theurgy"
-	chapter.009BBEA41077ED01.chapter_subtitle: [ ]
 	chapter.009BBEA41077ED01.title: "&6The Pika Star"
 	chapter.05E614FDA677D85E.title: "Food and Farming"
 	chapter.07210DDF872160BA.title: "Applied Energistics 2"
@@ -21,6 +20,7 @@
 	chapter.16AFF8DC26A023AE.title: "Evolution"
 	chapter.18A429E7F56AF5A9.title: "Bounty Board"
 	chapter.193F91842D2ED7D9.title: "Industrial Foregoing"
+	chapter.1945AB5D3C7492BD.chapter_subtitle: ["Optional Series"]
 	chapter.1945AB5D3C7492BD.title: "Content Creators"
 	chapter.1BE666F01EFFC00D.title: "Tips and Poke Tricks"
 	chapter.1D42B373285DEF81.chapter_subtitle: ["And Productive Metalworks"]
@@ -48,6 +48,7 @@
 	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
 	chapter.3DEB33F78398EAD6.chapter_subtitle: ["And LaserIO"]
 	chapter.3DEB33F78398EAD6.title: "Basic Logistics"
+	chapter.3FA96F757548770F.chapter_subtitle: ["Optional Series"]
 	chapter.3FA96F757548770F.title: "Unbound"
 	chapter.415BA265E2C00859.title: "Getting Started"
 	chapter.4241469C42F4E18B.title: "CobbleWorkers \\& Farming"
@@ -81,6 +82,7 @@
 	chapter.732824E03978A934.title: "&bNew Beginning"
 	chapter.792AD692F1468B1F.chapter_subtitle: ["Plus Star Automation!"]
 	chapter.792AD692F1468B1F.title: "&dCreative"
+	chapter.7A28EC3F22B15056.chapter_subtitle: ["Optional Series"]
 	chapter.7A28EC3F22B15056.title: "Radical Red"
 	chapter.7A5C327771634A7D.title: "Building Tips"
 	chapter.7A72E12C3839D165.title: "Nature's Aura"
