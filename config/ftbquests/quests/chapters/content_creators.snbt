@@ -125,42 +125,6 @@
 	quests: [
 		{
 			dependencies: ["349E8C0C3F9CC99B"]
-			hide_dependency_lines: true
-			hide_dependent_lines: true
-			icon: {
-				components: {
-					"ftbquests:icon": "atm:textures/contentcreators/contentcreators_joeychin01_outlined.png"
-				}
-				id: "ftbquests:custom_icon"
-			}
-			icon_scale: 1.25d
-			id: "4E921DD32E1C4ABA"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4C7FB7548BBC9FA4"
-					table_id: 4875026022556716679L
-					type: "random"
-				}
-				{
-					id: "7768DEA912287BA3"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-			]
-			shape: "none"
-			size: 3.0d
-			tasks: [{
-				advancement: "rctmod:trainers/defeat_contentcreators_joeychin01"
-				criterion: ""
-				id: "717A8B04D44CC651"
-				type: "advancement"
-			}]
-			x: -5.5d
-			y: -16.5d
-		}
-		{
-			dependencies: ["4E921DD32E1C4ABA"]
 			hide_dependent_lines: true
 			icon: {
 				components: {

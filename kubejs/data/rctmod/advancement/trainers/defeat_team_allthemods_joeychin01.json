@@ -1,13 +1,13 @@
 {
   "criteria": {
-    "defeat_team_allthemods_bathsalts": {
+    "defeat_team_allthemods_joeychin01": {
       "conditions": {
         "count": 1,
         "entity": {
           "type": null
         },
         "trainer_ids": [
-          "team_allthemods_bathsalts"
+          "team_allthemods_joeychin01"
         ],
         "trainer_type": null
       },
@@ -18,7 +18,7 @@
     "announce_to_chat": true,
     "background": null,
     "description": {
-      "translate": "advancements.rctmod.defeat_team_allthemods_bathsalts.description"
+      "translate": "advancements.rctmod.defeat_team_allthemods_joeychin01.description"
     },
     "frame": "goal",
     "hidden": false,
@@ -27,13 +27,13 @@
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.rctmod.defeat_team_allthemods_bathsalts.title"
+      "translate": "advancements.rctmod.defeat_team_allthemods_joeychin01.title"
     }
   },
   "parent": "rctmod:trainers/defeat_any",
   "requirements": [
     [
-      "defeat_team_allthemods_bathsalts"
+      "defeat_team_allthemods_joeychin01"
     ]
   ]
 }

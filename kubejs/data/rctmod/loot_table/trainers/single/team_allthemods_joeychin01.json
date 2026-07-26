@@ -21,7 +21,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "allthemons:the_bathsalts_badge"
+          "name": "allthemons:the_helpful_badge"
         }
       ],
       "conditions": [
@@ -35,5 +35,5 @@
       ]
     }
   ],
-  "random_sequence": "rctmod:trainers/single/team_allthemods_bathsalts"
+  "random_sequence": "rctmod:trainers/single/team_allthemods_joeychin01"
 }

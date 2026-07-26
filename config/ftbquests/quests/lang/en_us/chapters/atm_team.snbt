@@ -2,7 +2,7 @@
 	quest.035DBF19839FB73B.quest_desc: ["5 of the first &6Team Members&r Spawn in the &2&lOverworld&r in Custom Gyms. \\n\\nYep! Each of these Gyms were built by &e&lRosary&r and &6Pack Developers&r. \\n\\nSearch around in the &2&lOverworld&r to find them, even use an Explorer's Compass for help!"]
 	quest.035DBF19839FB73B.title: "Custom Gyms"
 	quest.0A0DEF4CBF965750.quest_desc: [
-		"&dTeam Rocket Volcano&r is the Headquarters for &cTeam Rocket&r but it also houses our very own &d&lBathsalts&r! \\n\\nIt is a huge factory Building on top of a Volcano, very fitting. \\n\\nYou can find the Members of &cTeam Rocket&r all throughout the actual Building but &d&lBathsalts&r we'll find beneath the Volcano in the Caves near the Sulfur Ponds. \\n\\nThere's an entrance straight into the Caves in the back to make it easier to find him!"
+		"&dTeam Rocket Volcano&r is the Headquarters for &cTeam Rocket&r but it also houses our very own &d&lJoey&r! \\n\\nIt is a huge factory Building on top of a Volcano, very fitting. \\n\\nYou can find the Members of &cTeam Rocket&r all throughout the actual Building but &d&lJoey&r we'll find beneath the Volcano in the Caves near the Sulfur Ponds. \\n\\nThere's an entrance straight into the Caves in the back to make it easier to find him!"
 		"{image:atm:textures/questpics/series/atmteam_volcano.png width:110 height:100 align:center}"
 	]
 	quest.0A0DEF4CBF965750.title: "&dTeam Rocket Volcano"
@@ -47,8 +47,8 @@
 	quest.56A11740B93819D4.title: "&6ATM Badge Box"
 	quest.580A66080AB6B117.quest_desc: ["Level 3 the Solaris Hall. The biggest room in the &4Elite Gym&r. \\n\\nMany Libraries and rooms for study but the most important is the labratory where you'll find &9&lVortex&r. \\n\\nThe bane of all ne'er-do-wells in the Discord and the creator of &c&lGravitas&r! If you hate &2&lMinecraft&r being even remotely close to easy then you'd love &c&lGravitas&r. \\n\\nHis &9Badge &fis a &9Vortex&r... duh."]
 	quest.580A66080AB6B117.title: "&9&lThevortex"
-	quest.5A7E0848E16A5453.quest_desc: ["&d&lBathsalts&r is now found beneath the &dTeam Rocket Volcano&r. \\n\\nHe is lounging near the Sulfur Ponds. \\n\\nIf you've heard a joke in the &6&lATM&r Discord Server about someone being old, 9/10 times it was directed at &d&lBathsalts&r. \\n\\nThe other 1/10 is from &d&lBathsalts&r himself. \\n\\nHis &dBadge&r is &dbath salts&r... the legal kind."]
-	quest.5A7E0848E16A5453.title: "&d&lBathsalts"
+	quest.5A7E0848E16A5453.quest_desc: ["&d&lJoey&r is now found beneath the &dTeam Rocket Volcano&r. \\n\\nHe is lounging near the Sulfur Ponds. \\n\\n&d&lJoey&r doesn't have a Channel but he helps a ton with our Modpacks! \\n\\nHey, that's still Content and he is making it, so we count him as a Content Creator. \\n\\nHis &dBadge&r is &dThe Helpful Badge&r, fitting for how much he helps out."]
+	quest.5A7E0848E16A5453.title: "&d&lJoey"
 	quest.670756F02FD8179F.quest_desc: ["Some &6ATM Team Members&r don't have a home. \\n\\nI meant in &l&cAll&7The&fMons&r, in real life we're all taken very good care of. \\n\\nTo find these you'll have to wander around &b&lThe Other&r or use a &4Trainer Spawner&r! Just place down the &4Trainer Spawner&r, give it an &5Unobtainium Block&r, and a &4Redstone Signal&r to turn it on! \\n\\nIf a &4Trainer's&r Signature Item is the &5Unobtainium Block&r, they might Spawn. Wrong Trainer? Just kill them and they'll be replaced! \\n\\nThe &6Wandering Team Members&r are: Bored, Drack_ion, Helix Ranmara, Mitchell52, Mutant Gumdrop, ShinyPorygon, and Ultra Megaa."]
 	quest.670756F02FD8179F.title: "Beat &6Wandering ATM Team Members"
 	quest.671208DA73DF3987.quest_desc: [
@@ -70,7 +70,7 @@
 	quest.71AB7656B8B0C84B.title: "&6&lWhatthedrunk"
 	quest.73CE51862BA4F68B.quest_desc: ["Resting upon his secluded vacation in the Sky... comes you the Player to ruin the peace and quiet. \\n\\nWhere are your manners? He's hundreds of Blocks above the ground in a place with 'cation, in the name. Clearly he wants to relax but nope \"winning\" is more important. \\n\\n&2&lOly2o6&r leads the development of lots of the spin off &6&lATM Modpacks&r, most prominently the &b&lSkyblocks&r! \\n\\nHence why his Custom Gym and &bBadge&r are both &bSkyblocks&r."]
 	quest.73CE51862BA4F68B.title: "&2&lOly2o6"
-	quest.7E3857288A505801.quest_desc: ["In order to advance in the &4&oATM Team Series&r, you'll need to beat all 5 of the &6Team Members&r at their Gyms, plus the 2 &4Trainers&r before &3&lLobsterJonn&r. \\n\\n&2&lOly206&r at his &2Steve's Staycation&r, &3&lLobsterJonn&r &3Lego &fand &3Nektar&r at the &3Bee Gym&r, &d&lBathsalts&r at his soon to be &dBath&r, &5&lToblerone&r on his &5Chocolate Airship&r, and &7&lToshiba&r at his &7Store&r. \\n\\nOnce all are Beat, you won't be able to advance. You also need to beat the &6Wandering Team Members&r. \\n\\nIf you Beat those too, then you can advance!"]
+	quest.7E3857288A505801.quest_desc: ["In order to advance in the &4&oATM Team Series&r, you'll need to beat all 5 of the &6Team Members&r at their Gyms, plus the 2 &4Trainers&r before &3&lLobsterJonn&r. \\n\\n&2&lOly206&r at his &2Steve's Staycation&r, &3&lLobsterJonn&r &3Lego &fand &3Nektar&r at the &3Bee Gym&r, &d&lJoey&r beneath the &dTeam Rocket Volcano&r, &5&lToblerone&r on his &5Chocolate Airship&r, and &7&lToshiba&r at his &7Store&r. \\n\\nOnce all are Beat, you won't be able to advance. You also need to beat the &6Wandering Team Members&r. \\n\\nIf you Beat those too, then you can advance!"]
 	quest.7E3857288A505801.title: "Beat all &6Team Members&r at their Gyms"
 	task.2162ED741BA0D5EB.title: "AllRightsReserved"
 	task.568553C4E059B622.title: "AllRightsReserved"

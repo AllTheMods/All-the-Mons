@@ -213,7 +213,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "54EAA80BCC4FFC4B"
-				item: { count: 1, id: "allthemons:the_bathsalts_badge" }
+				item: { count: 1, id: "allthemons:the_helpful_badge" }
 				type: "item"
 			}]
 			x: 4.5d

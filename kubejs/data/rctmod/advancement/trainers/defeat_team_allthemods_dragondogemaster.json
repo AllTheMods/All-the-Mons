@@ -30,7 +30,7 @@
       "translate": "advancements.rctmod.defeat_team_allthemods_dragondogemaster.title"
     }
   },
-  "parent": "rctmod:trainers/defeat_team_allthemods_bathsalts",
+  "parent": "rctmod:trainers/defeat_team_allthemods_joeychin01",
   "requirements": [
     [
       "defeat_team_allthemods_dragondogemaster"
