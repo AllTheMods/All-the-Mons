@@ -1,0 +1,235 @@
+{
+	quest.0061B0577B1C4AEF.quest_desc: [
+		"&7We begin our journey into &bEnder IO&7 by tracking down a strange, glowing material."
+		"&6Grains of Infinity&r are obtained by setting &7Bedrock&r on &cfire&r. Igniting a bedrock block has a small chance of making it drop this item."
+		"&aTip:&r We only need a handful of these to get started, since they are the seed for almost every basic Ender IO recipe, including the humble &6Alloy Smelter&r."
+	]
+	quest.0061B0577B1C4AEF.quest_subtitle: "&7A spark of Bedrock's power"
+	quest.0061B0577B1C4AEF.title: "&d&lGrains of Infinity"
+	quest.00E6B3F670E20454.quest_desc: [
+		"&7&lSoularium&r is forged from &6Gold&r and &7Soul Sand&r in the &6Alloy Smelter&r."
+		"It's the material behind &5Soul Vials&r and every machine that deals with capturing and binding souls, like the &5Soul Binder&r."
+	]
+	quest.00E6B3F670E20454.quest_subtitle: "&7Gold bound with a tortured soul"
+	quest.00E6B3F670E20454.title: "&5&lSoularium Ingot"
+	quest.03EC3173343B11F5.quest_desc: [
+		"&7Crafted from &7Dark Steel Ingots&r, this sword can be upgraded over time with special modules, such as increased damage or extra enchantment slots."
+		"&aTip:&r Right-click while sneaking to open its upgrade menu once we've unlocked improvements for it."
+	]
+	quest.03EC3173343B11F5.quest_subtitle: "&7A blade that grows with us"
+	quest.03EC3173343B11F5.title: "&7&lDark Steel Sword"
+	quest.0527CE6921ADB079.quest_desc: [
+		"&7The &5Soul Binder&r consumes &9µI&r energy and liquid XP to craft special items, such as binding a filled &5Soul Vial&r to a &7Broken Spawner&r."
+		"We can fill it with experience using an &7Experience Rod&r, or by piping &2Liquid XP&r into it with a fluid conduit."
+	]
+	quest.0527CE6921ADB079.quest_subtitle: "&7Where power meets liquid experience"
+	quest.0527CE6921ADB079.title: "&5&lSoul Binder"
+	quest.05352452468E8375.quest_desc: [
+		"&7The &bConductive Alloy&r is forged in the &6Alloy Smelter&r from &6Gold&r, &cRedstone&r and &eGlowstone Dust&r."
+		"We will use it to craft advanced energy conduits, along with several grinding balls and mid-tier machines."
+	]
+	quest.05352452468E8375.quest_subtitle: "&7Gold, redstone and glowstone combined"
+	quest.05352452468E8375.title: "&b&lConductive Alloy Ingot"
+	quest.082DEC8CBA6D23E5.quest_desc: [
+		"&7&lDark Steel&r is one of the most important alloys we will craft in Ender IO."
+		"We make it in the &6Alloy Smelter&r by combining &fIron&r, &8Coal Powder&r and &5Obsidian&r."
+		"&aTip:&r This ingot is the backbone of Dark Steel tools, armor and several advanced machines, so we should always keep a stock of it."
+	]
+	quest.082DEC8CBA6D23E5.quest_subtitle: "&7Forged from iron, coal and obsidian"
+	quest.082DEC8CBA6D23E5.title: "&7&lDark Steel Ingot"
+	quest.0C220E9B2A780082.quest_desc: [
+		"&7Upgrading our battery to the &bAdvanced Capacitor Bank&r increases both its energy capacity and how fast it can charge our tools."
+		"We build it from a &bBasic Capacitor Bank&r and &aDouble Layer Capacitors&r."
+	]
+	quest.0C220E9B2A780082.quest_subtitle: "&7Bigger buffer, faster charge"
+	quest.0C220E9B2A780082.title: "&b&lAdvanced Capacitor Bank"
+	quest.0EAB51C9B13A959B.quest_desc: [
+		"&7The &9Wireless Charger&r recharges any RF-powered tool, armor piece or item we are holding or wearing, as long as we stand nearby."
+		"It's a comfortable way to keep our capacitor-powered gear topped up without plugging anything in manually."
+	]
+	quest.0EAB51C9B13A959B.quest_subtitle: "&7Charging us without a cable"
+	quest.0EAB51C9B13A959B.title: "&9&lWireless Charger"
+	quest.128E4A78E76F366C.quest_desc: [
+		"&7We start with a &7Broken Spawner&r, then use a &5Soul Vial&r containing the mob we want inside a &5Soul Binder&r to bind that soul to it."
+		"Once combined with a &cPowered Spawner&r casing, we get a fully working spawner for that mob, powered by &9µI&r instead of a nearby player."
+		"&eNote:&r We used an &fAllay&r for this quest, but almost any mob can be captured with a Soul Vial."
+	]
+	quest.128E4A78E76F366C.quest_subtitle: "&7Turning any mob spawner to our will"
+	quest.128E4A78E76F366C.title: "&c&lPowered Spawner"
+	quest.141101C9A381905C.quest_desc: [
+		"&7Nearly &levery&r Ender IO machine needs a capacitor installed to store and use &9µI&r energy."
+		"The &aBasic Capacitor&r is our starting option, made from &eEnergetic Alloy&r. Without one, our machines simply won't turn on."
+	]
+	quest.141101C9A381905C.quest_subtitle: "&7The heart of every machine"
+	quest.141101C9A381905C.title: "&a&lBasic Capacitor"
+	quest.19456F38224A24DB.quest_desc: [
+		"&7The &8SAG Mill&r grinds ores and other items into their crushed or dust form using &9µI&r, often giving us bonus outputs compared to a normal furnace or crafting recipe."
+		"By placing &7Grinding Balls&r in its upgrade slot, we can boost its speed, efficiency, and even the chance to double our output."
+		"&aTip:&r Grinding raw ores here instead of smelting them directly usually gives us more ingots per ore in the long run."
+	]
+	quest.19456F38224A24DB.quest_subtitle: "&7Grinding ores into extra riches"
+	quest.19456F38224A24DB.title: "&8&lSAG Mill"
+	quest.1AF97F48B4C13020.quest_desc: [
+		"&7The &6Yeta Wrench&r is our go-to tool for interacting with Ender IO blocks: right-click to rotate machines, or sneak-right-click to pick them up without losing their inventory or upgrades."
+		"It's also essential to configure &bconduits&r, letting us set input/output sides and colors so items, energy and fluids flow exactly where we want."
+	]
+	quest.1AF97F48B4C13020.quest_subtitle: "&7Our multi-tool for machines and conduits"
+	quest.1AF97F48B4C13020.title: "&6&lYeta Wrench&r &f\\& &2&lConduits"
+	quest.1D0725DC4463F895.quest_desc: [
+		"&7The &fCrafter&r automatically crafts any recipe we set inside it, as long as it receives the right ingredients through conduits or hoppers."
+		"It's the backbone of automated factories, letting us mass-produce items without ever touching a crafting table again."
+	]
+	quest.1D0725DC4463F895.quest_subtitle: "&7Automating our crafting table"
+	quest.1D0725DC4463F895.title: "&f&lCrafter"
+	quest.224BF0C9690FBEBF.quest_desc: [
+		"&7The &5Enchanter&r lets us apply &dEnchanted Books&r to our gear using &9µI&r energy instead of an anvil, without the usual level-cost penalty."
+		"It's especially useful for stacking enchantments onto our Dark Steel or Ender tools and weapons."
+	]
+	quest.224BF0C9690FBEBF.quest_subtitle: "&7Applying enchantment books with power"
+	quest.224BF0C9690FBEBF.title: "&5&lEnchanter"
+	quest.262B331BB96336F5.quest_desc: [
+		"&7Once our base is covered in &bconduits&r, things can get messy. The &fConduit Facade&r lets us disguise any conduit bundle as any block we choose."
+		"&aTip:&r Simply place the facade on a conduit and it will visually blend in with our builds while still working perfectly underneath."
+	]
+	quest.262B331BB96336F5.quest_subtitle: "&7Hiding our conduits in plain sight"
+	quest.262B331BB96336F5.title: "&f&lConduit Facade"
+	quest.2802D606849ED924.quest_desc: [
+		"&7The &6Painting Machine&r applies a facade texture to blocks automatically, letting us reskin large batches of building blocks without placing them by hand."
+		"&aTip:&r Feed it the blocks we want to disguise plus the block we want them to look like, and let it work through the whole stack for us."
+	]
+	quest.2802D606849ED924.quest_subtitle: "&7Reskinning our blocks in bulk"
+	quest.2802D606849ED924.title: "&6&lPainting Machine"
+	quest.2AD8903E9EE3269E.quest_desc: [
+		"&7The &5Soul Chain&r is crafted from &5Soularium&r and used as a component in soul-related machines and equipment."
+		"It represents the more mystical, Ender-infused side of Ender IO's crafting tree."
+	]
+	quest.2AD8903E9EE3269E.quest_subtitle: "&7Forged from Soularium"
+	quest.2AD8903E9EE3269E.title: "&5&lSoul Chain"
+	quest.2C7D1CD63680FA80.quest_desc: [
+		"&7The &2Slice'N'Splice&r combines two enchanted items into one, merging their enchantments much like a vanilla anvil, but powered by &9µI&r."
+		"We can also use it to repair our tools and armor without needing matching materials, which saves us a lot of resources over time."
+	]
+	quest.2C7D1CD63680FA80.quest_subtitle: "&7Merging enchantments and repairing tools"
+	quest.2C7D1CD63680FA80.title: "&2&lSlice'N'Splice"
+	quest.32191922242B11B5.quest_desc: [
+		"&7The &5Ensouled Chassis&r upgrades the basic &8Void Chassis&r using a &5Soul Chain&r, giving it a touch of soul-bound magic."
+		"It's required to craft some of Ender IO's more advanced, soul-themed machines, continuing our journey deeper into the mod's Ender lore."
+	]
+	quest.32191922242B11B5.quest_subtitle: "&7A frame bound with a soul"
+	quest.32191922242B11B5.title: "&5&lEnsouled Chassis"
+	quest.3294189EF3C0D5E5.quest_desc: [
+		"&7The &dStaff of Travelling&r lets us instantly teleport between &dTravel Anchors&r we've placed around the world, as long as we have enough XP to fuel the jump."
+		"We should place a &dTravel Anchor&r at our base and at any far-away outpost to make exploring, and coming home, painless."
+	]
+	quest.3294189EF3C0D5E5.quest_subtitle: "&7Teleport between our Travel Anchors"
+	quest.3294189EF3C0D5E5.title: "&d&lStaff of Travelling"
+	quest.3DBAC2CDD75763F3.quest_desc: [
+		"&7The &9Electromagnet&r is crafted from &bConductive Alloy&r and &eEnergetic Alloy&r."
+		"It's mainly used as a crafting component for advanced Ender IO machinery and items that need to attract or handle metallic materials."
+	]
+	quest.3DBAC2CDD75763F3.quest_subtitle: "&7Attracting metal from a distance"
+	quest.3DBAC2CDD75763F3.title: "&9&lElectromagnet"
+	quest.402A53010DFB2D69.quest_desc: [
+		"&7The &6Stirling Generator&r burns solid fuels, like coal or charcoal, to produce &9µI&r energy for our machines."
+		"It's simple, reliable, and a perfect way to get our very first Ender IO setup running before we move to bigger generators."
+	]
+	quest.402A53010DFB2D69.quest_subtitle: "&7Our first source of power"
+	quest.402A53010DFB2D69.title: "&6&lStirling Generator"
+	quest.435B180FCE208A7B.quest_desc: [
+		"&7Upgrading to the &aDouble Layer Capacitor&r gives our machines more energy storage and a faster processing speed."
+		"We craft it from &eEnergetic Alloy&r and a &aBasic Capacitor&r, making it a natural next step once our power generation grows."
+	]
+	quest.435B180FCE208A7B.quest_subtitle: "&7More power, more speed"
+	quest.435B180FCE208A7B.title: "&a&lDouble Layer Capacitor"
+	quest.448CCD89539AEBAC.quest_desc: [
+		"&7The &9Wired Charger&r recharges any RF-powered item placed inside it, connected directly to our energy network through conduits."
+		"It's a great companion to the Wireless Charger for setups where we want to leave tools charging while we do something else."
+	]
+	quest.448CCD89539AEBAC.quest_subtitle: "&7Plugging our gear straight in"
+	quest.448CCD89539AEBAC.title: "&9&lWired Charger"
+	quest.4557E63F1A6971DA.quest_desc: [
+		"&7The &bVibrant Capacitor Bank&r is the final tier of our energy storage, holding a massive amount of &9µI&r."
+		"We need an &bAdvanced Capacitor Bank&r and &aOctadic Capacitors&r to build it, so it's a great long-term goal for our power grid."
+	]
+	quest.4557E63F1A6971DA.quest_subtitle: "&7The ultimate energy storage"
+	quest.4557E63F1A6971DA.title: "&b&lVibrant Capacitor Bank"
+	quest.477F0905998597FE.quest_desc: [
+		"&7The &bDrain&r automatically collects fluids dropped by nearby entities, such as milk from cows, straight into an attached tank."
+		"It's a handy way to automate fluid collection without needing to manually interact with animals."
+	]
+	quest.477F0905998597FE.quest_subtitle: "&7Milking fluids from nearby mobs"
+	quest.477F0905998597FE.title: "&b&lDrain"
+	quest.47F7BA8E81383714.quest_desc: [
+		"&7The &dEnder Crystal&r is crafted in the &5Soul Binder&r using a &5Soul Vial&r filled with an &dEnderman&r."
+		"It's a key crafting component for some of Ender IO's most advanced items, tied deeply to the mod's Ender-themed magic."
+	]
+	quest.47F7BA8E81383714.quest_subtitle: "&7A crystallized fragment of the End"
+	quest.47F7BA8E81383714.title: "&d&lEnder Crystal"
+	quest.490B64C64BDE76F7.quest_desc: [
+		"&7The &8Void Chassis&r is the base frame used to craft most of Ender IO's early and mid-tier machines, from generators to processing machines."
+		"We'll be crafting quite a few of these as our base grows, so it's worth stockpiling &6Dark Steel Ingots&r for it."
+	]
+	quest.490B64C64BDE76F7.quest_subtitle: "&7The frame behind our machines"
+	quest.490B64C64BDE76F7.title: "&8&lVoid Chassis"
+	quest.4A7DBDB179F30BC3.quest_desc: [
+		"&7The &eEnergetic Alloy&r combines &cRedstone&r, &eGlowstone Dust&r and &6Gold&r in the &6Alloy Smelter&r."
+		"It's the base component of our &6Capacitors&r, so we will be crafting a lot of it to keep our machines powered."
+	]
+	quest.4A7DBDB179F30BC3.quest_subtitle: "&7Redstone, glowstone and gold"
+	quest.4A7DBDB179F30BC3.title: "&e&lEnergetic Alloy Ingot"
+	quest.5D327D85B91E5032.quest_desc: [
+		"&7With our &dGrains of Infinity&7 in hand, we can finally build the &6Alloy Smelter&r, the heart of early Ender IO progression."
+		"This machine uses &9Micro Infinity (µI)&r, Ender IO's own form of energy, to smelt ores like a furnace and to forge special &6alloys&r such as Dark Steel."
+		"&eNote:&r We need at least a &6Basic Capacitor&r installed before it will turn on, so let's not forget that piece!"
+	]
+	quest.5D327D85B91E5032.quest_subtitle: "&7Our first true machine"
+	quest.5D327D85B91E5032.title: "&6&lAlloy Smelter"
+	quest.60A8F55648685236.quest_desc: [
+		"&7The &aOctadic Capacitor&r is the strongest capacitor we can craft, combining &dVibrant Alloy&r with a &aDouble Layer Capacitor&r."
+		"Machines fitted with it reach their maximum speed and energy buffer, perfect for our late-game builds."
+	]
+	quest.60A8F55648685236.quest_subtitle: "&7Our best capacitor tier"
+	quest.60A8F55648685236.title: "&a&lOctadic Capacitor"
+	quest.62788B8B97AF2D76.quest_desc: [
+		"&7By combining &eEnergetic Alloy&r with an &dEnder Pearl&r in the &6Alloy Smelter&r, we create the &dVibrant Alloy&r."
+		"This alloy powers our best capacitors and several late-game machines, so it's well worth the extra Ender Pearls."
+	]
+	quest.62788B8B97AF2D76.quest_subtitle: "&7Energetic Alloy touched by Ender magic"
+	quest.62788B8B97AF2D76.title: "&d&lVibrant Alloy Ingot"
+	quest.6B37B24E3D25BF5C.quest_desc: [
+		"&7The &2Vat&r ferments organic materials, like Grains of the End, into special fluids such as &dDew of the Void&r over time."
+		"We should keep it supplied with the right ingredients and be patient, since fermentation isn't instant."
+	]
+	quest.6B37B24E3D25BF5C.quest_subtitle: "&7Fermenting our way to Dew of the Void"
+	quest.6B37B24E3D25BF5C.title: "&2&lVat"
+	quest.720A9D781C5B9B2D.quest_desc: [
+		"&7The &bBasic Capacitor Bank&r stores &9µI&r energy for later use, working like a battery for our base."
+		"It can also recharge tools and armor placed in its inventory, and it's built using &aBasic Capacitors&r."
+	]
+	quest.720A9D781C5B9B2D.quest_subtitle: "&7Our first battery"
+	quest.720A9D781C5B9B2D.title: "&b&lBasic Capacitor Bank"
+	quest.726857C4BE6ADCDE.quest_desc: [
+		"&7The &eStaff of Levity&r protects us from fall damage and lets us glide gently to the ground while it's charged, consuming XP with each use."
+		"&aTip:&r It's a lifesaver when we're exploring tall structures or building bridges high in the sky."
+	]
+	quest.726857C4BE6ADCDE.quest_subtitle: "&7Fall gently, jump higher"
+	quest.726857C4BE6ADCDE.title: "&e&lStaff of Levity"
+	quest.729B89CA30BE3B28.quest_desc: [
+		"&7The &eImpulse Hopper&r pulls nearby dropped items and experience orbs straight into its inventory, working like a vacuum for our farms and grinders."
+		"We can pair it with an item conduit to move everything it collects straight into our storage system."
+	]
+	quest.729B89CA30BE3B28.quest_subtitle: "&7Sucking up items and XP from the ground"
+	quest.729B89CA30BE3B28.title: "&e&lImpulse Hopper"
+	quest.7717E30B48E53462.quest_desc: [
+		"&7The &2XP Vacuum&r is a wearable upgrade that pulls nearby experience orbs straight into our XP bar as we walk around."
+		"The &2Vacuum Chest&r does the same for dropped items, sucking them into its inventory so we never lose loot from a big mob farm again."
+	]
+	quest.7717E30B48E53462.quest_subtitle: "&7Never leave loot behind again"
+	quest.7717E30B48E53462.title: "&2&lXP Vacuum&r &2\\& &lVacuum Chest"
+	quest.79590DE87595F3C6.quest_desc: [
+		"&7Crafted, or crushed down, from a &5Soularium Ingot&r, this nugget is used in a few recipes that only need a small amount of the material."
+		"Keeping a stack of nuggets around saves us from breaking full ingots for minor crafts."
+	]
+	quest.79590DE87595F3C6.quest_subtitle: "&7A tiny piece of bound gold"
+	quest.79590DE87595F3C6.title: "&5&lSoularium Nugget"
+}
