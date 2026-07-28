@@ -20,6 +20,15 @@
           "name": "pkgbadges:the_boulder_badge"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pkgbadges:badges_box_indigo_league"
+        }
+      ]
     }
   ],
   "random_sequence": "rctmod:trainers/single/leader_brock_019e"

@@ -20,6 +20,15 @@
           "name": "pkgbadges:the_coal_badge"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pkgbadges:badges_box_sinnoh_league"
+        }
+      ]
     }
   ],
   "random_sequence": "rctmod:trainers/single/gym_leader_roark_0395"
