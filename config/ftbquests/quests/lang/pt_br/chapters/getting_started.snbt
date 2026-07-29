@@ -34,7 +34,7 @@
 	quest.25CDC402800CA4D1.quest_desc: ["Ei, os &cPokemon&r têm que vir de algum lugar! \\n\\nSe 2 &cPokemon&r estiverem vagando em um &6Pasto&r, eles podem &dCruzar&r. Mas existem muitos requisitos antes que possam fazer isso. \\n\\nPrimeiro, precisaremos de um &bMacho &fe uma &dFêmea&r para &dCruzar&r. O bebê &cPokemon&r virá de um &cOvo Pokemon&r e será da mesma espécie que a &dMãe&r. \\n\\nAmbos os &cPokemons&r precisarão estar no mesmo \"Grupo de Ovos\". Use a Wiki, eu não vou listar cada &cPokemon&r um por um! \\n\\nPor último, existem alguns atributos e &cPokemon&r específicos que não podem &dCruzar&r... \\n\\nSe você cumprir todos os requisitos, a &cPokemon &dFêmea&r botará um &cOvo&r de vez em quando!"]
 	quest.25CDC402800CA4D1.quest_subtitle: "Os Delibirds e os Beedrills"
 	quest.25CDC402800CA4D1.title: "&dCruzamento&r de &cPokemon&r"
-	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &bÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\" \\n\\n(&bMudkip&r é o meu favorito!)"]
+	quest.270BEFADE842144B.quest_desc: ["Bem-vindo ao &l&cAll&7The&fMons&r! \\n\\nNão, isso não foi um erro de digitação! Este é um Modpack centrado em &c&lCobble&fmon&r feito por nós mesmos, a &6&lEquipe ATM&r. \\n\\nPara começar, você precisará de um &cPokemon&r Inicial. Para obtê-lo, o Padrão é (M) \\n\\nCada Região tem 3 Iniciais: &2Grama&f, &bÁgua&f, e &cFogo&r. Você pode Clicar nos Ícones ou mover as Setas para escolher. \\n\\nO &2tipo Grama&r tem um Fundo &2Verde&r com um &2Ícone de Folha&r. O &btipo Água&r tem um &bFundo Azul&r com um &bÍcone de Gota de Água&r. &cFogo&r tem o &cFundo Laranja&r com um &cÍcone de Chama&r. \\n\\nCada &cPokemon&r terá seu Nome e Descrição acima dele. Assim que encontrar um que goste, aperte o Botão \"Eu escolho você!\" \\n\\n(&bMudkip&r é o meu favorito!)"]
 	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
 	quest.277D15B7FC23784D.quest_desc: ["&nForte&r \\n\\n&9Voador&r \\n&bÁgua&r \\n\\n&nVulnerável&r \\n\\n&6Terra&r"]
 	quest.277D15B7FC23784D.title: "&eElétrico"
@@ -44,6 +44,8 @@
 	quest.2EA725733AC5B290.title: "&dAmizade"
 	quest.2EA9DBB7F8F4EF40.quest_desc: ["Alguns &cPokemon&r não Aparecem como a maioria, alguns gostam de viver nas Profundezas do &9Oceano&r! \\n\\nPara chegar até eles, precisaremos de uma &cPoke&rvara! Espere, uma &cPoke&rvara? \\n\\nSim, uma Vara de Pescar para Iscar esses &cPokemon&r. Para Criar uma, precisaremos de um Molde de Vara de Pescar. \\n\\nVocê pode Trocar com um Aldeão Pescador Mestre para conseguir um!"]
 	quest.2EA9DBB7F8F4EF40.title: "Pescando &cPokemon"
+	quest.2EEF25FE72F8E4A3.quest_desc: ["Se a sua jornada de treinador é muito movimentada, você pode criar um PC no Graveto e usá-lo pelo caminho, assim como faria com uma Bancada de Trabalho no Graveto.\\n\\nEle também conta com uma variação de Estação de Cura."]
+	quest.2EEF25FE72F8E4A3.quest_subtitle: "Colocando gravetos nas coisas"
 	quest.351CFE6AD802F065.quest_desc: ["&nForte&r \\n\\n&4Lutador&r \\n&5Veneno&r \\n\\n&nVulnerável&r \\n\\n&aInseto&r \\n&8Sombrio&r \\n&5Fantasma&r"]
 	quest.351CFE6AD802F065.title: "&dPsíquico"
 	quest.35815F62705D1D53.quest_desc: ["&nVulnerável&r \\n\\n&4Lutador"]
@@ -61,8 +63,8 @@
 	quest.3CD6F0BBE9D7EB75.title: "&8Sombrio"
 	quest.3F33E55B8D9E09A4.quest_desc: ["&nForte&r \\n\\n&8Sombrio&r \\n&bGelo&r \\nNormal \\n&6Pedra&r \\n&7Aço&r \\n\\n&nVulnerável&r \\n\\n&dFada&r \\n&9Voador&r \\n&dPsíquico&r"]
 	quest.3F33E55B8D9E09A4.title: "&4Lutador"
-	quest.404DE5C374A17479.quest_desc: ["Tostar uma Erva de Reviver nos dará &aPó de Cura&r. \\n\\nEste Pó removerá todos os Efeitos do seu &cPokemon&r. Como Paralisia! Mas isso removerá &dAmizade&r... \\n\\nOu podemos Criá-lo para fazer um &aReviver&r. Este é um Item que Reviverá um &cPokemon&r Desmaiado e lhes dará metade de sua Vida de volta. \\n\\nVocê pode fazer um &aReviver&r mais poderoso com 3 deles ou fazer algumas Máquinas!"]
-	quest.404DE5C374A17479.title: "&aReviver"
+	quest.404DE5C374A17479.quest_desc: ["Tostar uma Erva Revigorante nos dará &aPó de Cura&r. \\n\\nEste Pó removerá todos os Efeitos do seu &cPokemon&r. Como Paralisia! Mas isso removerá &dAmizade&r... \\n\\nOu podemos Criá-lo para fazer um &aReanimador&r. Este é um Item que Reviverá um &cPokemon&r Desmaiado e lhes dará metade de sua Vida de volta. \\n\\nVocê pode fazer um &aReanimador&r mais poderoso com 3 deles ou fazer algumas Máquinas!"]
+	quest.404DE5C374A17479.title: "&aReanimador"
 	quest.40E89CCC6DFDA49A.quest_desc: ["&nForte&r \\n\\n&aInseto&r \\n&2Grama&r \\n&4Lutador&r \\n\\n&nVulnerável&r \\n\\n&eElétrico&r \\n&bGelo&r \\n&6Pedra&r"]
 	quest.40E89CCC6DFDA49A.title: "&9Voador"
 	quest.447F3DCAB7F60641.quest_desc: ["O &6Bloco de Pastagem&r funciona lado a lado com o &9PC&r. Só que este permite que seus &cPokemon&r vagueiem por uma certa área! \\n\\nVocê pode mover até 16 &cPokemon&r para uma &6Pastagem&r. Eles então andarão pela área ao redor da &6Pastagem&r. \\n\\n&cPokemon&r vagando Atacarão Mobs Hostis ou Mobs que você Atingir. \\n\\nSe um &cPokemon&r Desmaiar, ele retornará ao &9PC&r."]
@@ -73,8 +75,8 @@
 	quest.4E943465A0F727A9.title: "&2Pokepedia"
 	quest.503B409765D30E60.quest_desc: ["&nForte&r \\n\\n&9Dragão&r \\n\\n&nVulnerável&r \\n\\n&9Dragão&r \\n&dFada&r \\n&bGelo&r"]
 	quest.503B409765D30E60.title: "&9Dragão"
-	quest.5405C436B4489E0C.quest_desc: ["&3Infusão Medicinal&r! \\n\\nElas podem ser Criadas ou Fervidas em Consumíveis. \\n\\nAlguns que Aumentam Atributos, alguns que removem Efeitos, até mesmo alguns que dão Efeitos! \\n\\nVocê consegue Ferver todos eles?"]
-	quest.5405C436B4489E0C.title: "&3Infusão Medicinal"
+	quest.5405C436B4489E0C.quest_desc: ["&3Bebida Medicinal&r! \\n\\nElas podem ser Criadas ou Fervidas em Consumíveis. \\n\\nAlguns que Aumentam Atributos, alguns que removem Efeitos, até mesmo alguns que dão Efeitos! \\n\\nVocê consegue Ferver todos eles?"]
+	quest.5405C436B4489E0C.title: "&3Bebida Medicinal"
 	quest.6214530BEC461C9D.quest_desc: [
 		"Agora que você tem &cPokemon&r, você precisa aprender a melhor forma de usá-los! \\n\\nO Padrão é (R) para lançar seu primeiro &cPokemon&r da Equipe para fora de sua &cPoke&rbola. Isso fará com que eles Vagueiem ao seu redor como um Cão Domesticado. \\n\\nEnquanto estiverem fora, eles Atacarão todos os Mobs Hostis e qualquer coisa que Atingir você ou que você Atingir. Mas se eles sofrerem Dano ou Desmaiarem, conta o mesmo como se estivessem em uma Batalha. \\n\\nConfira a próxima Página para ver como mudar e inspecionar sua Equipe."
 		"{@pagebreak}"
@@ -92,7 +94,7 @@
 	quest.64320561B2275D90.title: "&cPoke&fbolas"
 	quest.6F3B6275D2BBEA5B.quest_desc: ["&nForte&r \\n\\n&eElétrico&r \\n&cFogo&r \\n&5Veneno&r \\n&6Pedra&r \\n&7Aço&r \\n\\n&nVulnerável&r \\n\\n&2Grama&r \\n&bGelo&r \\n&bÁgua&r"]
 	quest.6F3B6275D2BBEA5B.title: "&6Terra"
-	quest.7217BEFB0088A442.quest_desc: ["Ervas de Reviver são cultivadas em Cavernas Exuberantes e podem ser Plantadas em Terra Arada. \\n\\nErvas de Reviver Maduras também Droparão Flores de Vigor! \\n\\nVocê pode usar uma Erva de Reviver em um &cPokemon&r que Desmaiou para Revivê-los... mas eles se lembrarão disso e não de um jeito bom. Ou seja, você perderá &dAmizade&r. \\n\\nQue tal Fundi-la para obter &aPó de Cura&r ou usar isso para Criar um &aReviver&r melhor."]
+	quest.7217BEFB0088A442.quest_desc: ["Ervas Revigorantes são cultivadas em Cavernas Exuberantes e podem ser Plantadas em Terra Arada. \\n\\nErvas Revigorantes Maduras também Droparão Flores Estimulantes! \\n\\nVocê pode usar uma Erva Revigorante em um &cPokemon&r que Desmaiou para Revivê-los... mas eles se lembrarão disso e não de um jeito bom. Ou seja, você perderá &dAmizade&r. \\n\\nQue tal Fundi-la para obter &aPó de Cura&r ou usar isso para Criar um &aReanimador&r melhor."]
 	quest.73C7479D929498AE.quest_desc: ["Raízes Grandes aparecem nos Tetos das Cavernas, como Frutas-luz. \\n\\nElas aparecem acima da &8Ardosiabissal&r! \\n\\nÀs vezes, pode ser na verdade uma Raiz de Energia que se parece e aparece como uma Raiz Grande."]
 	quest.77DF4336700646D0.quest_desc: ["&4&lRadical Trainers&r é um Addon do &c&lCobble&fmon&r que nos dá &4Treinadores&r, mas também muda os Níveis que nossos &cPokemon&r podem alcançar... \\n\\nIsso é até que Derrotemos um certo &4Treinador&r! \\n\\nPara descobrir, você precisará de um &4Cartão de Treinador&r. Fabrique-os ou Troque por eles com um &4Associado Treinador&r. \\n\\n&4Associados Treinadores&r Aparecerão ao seu redor se você estiver Segurando seu &4Cartão de Treinador&r e não tiver uma &4&oSérie&r definida ou se estiver perto de uma Vila. Quando um estiver perto o suficiente, o &4Cartão de Treinador&r brilhará como se estivesse &5Encantado&r, e uma seta aparecerá acima dele em sua mão e apontará para o &4Associado Treinador&r. \\n\\nEsses Aldeões também podem lhe dar a &4&oSérie&r, que lhe dirá qual &4Treinador&r você precisa Derrotar para aumentar seu Limite de Nível. \\n\\nClique com o botão direito no &4Cartão de Treinador&r para ver quem eles são, e até Estatísticas sobre &4Treinadores&r anteriores que você Enfrentou!"]
 	quest.77DF4336700646D0.title: "&bEvolução"

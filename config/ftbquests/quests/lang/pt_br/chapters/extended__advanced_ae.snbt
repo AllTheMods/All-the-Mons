@@ -97,7 +97,7 @@
 		""
 		"Isso criará o &aFluix Entroizado em Drusa&r, que, semelhante ao Quartzo de Certus em Drusa, fará crescer Cristais Entro ao seu redor. Diferente do Certus, sua decomposição é inevitável."
 		""
-		"O &aFluix Entroizado em Drusa&r sempre dropará &um &r&aPó Entro&r ao ser quebrado, independentemente do estado em que se encontra. Cristais Entro droparão Fragmentos Entro quando não estiverem totalmente crescidos."
+		"O &aFluix Entroizado em Drusa&r sempre dropará &lum &r&aPó Entro&r ao ser quebrado, independentemente do estado em que se encontra. Cristais Entro droparão Fragmentos Entro quando não estiverem totalmente crescidos."
 	]
 	quest.34FBD04361657724.quest_subtitle: "não confundir com cristais do tempo"
 	quest.34FBD04361657724.title: "Os Cristais do Espaço e do Tempo: Cristais Entro"
@@ -143,7 +143,7 @@
 		""
 		"1 balde de Infusão Quântica é feito com 4 baldes de Água e um Pó com Infusão Quântica, que é obtido triturando a Singularidade Estilhaçada em um Inscriber ou Triturador do Mekanism."
 		""
-		"A Liga com Infusão Quântica é feita com 1 balde de Infusão Quântica, 4 Barras de Cobre, 4 Singularidades Estilhaçadas e 4 Singularidades normais."
+		"A Liga com Infusão Quântica é feita com 1 balde de Infusão Quântica, 4 Lingotes de Cobre, 4 Singularidades Estilhaçadas e 4 Singularidades normais."
 	]
 	quest.411A463E98C3B102.title: "Ingredientes Quânticos"
 	quest.4818C8387C0DBBE7.quest_desc: [

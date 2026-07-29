@@ -11,7 +11,7 @@
 	quest.02F4C3BEBD8427AD.title: "Jardins Suspensos"
 	quest.037E0DAA5ECC5AB8.quest_desc: ["Acerte 24 Mobs diferentes com &eSopros de Pólen&r.\\n&6A&8b&6e&8l&6h&8a&6s&r são as mais divertidas de acertar com eles!"]
 	quest.041D16DA96BC4253.quest_desc: [
-		"Os &e&lPilares Polinizados&r são o que conecta os &e&lCampos Polinizados&r às &6&lParedes da Colmeia&r.\\nEles são uma boa mistura de ambos! Enormes paredes íngremes de &6Mel&r enquanto são cobertos com &ePólen&r!\\n"
+		"Os &e&lPilares Polinizados&r são o que conecta os &e&lCampos Polinizados&r às &6&lParedes de Colmeia&r.\\nEles são uma boa mistura de ambos! Enormes paredes íngremes de &6Mel&r enquanto são cobertos com &ePólen&r!\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_pollenpillar.png width:200 height:100 align:center}"
 	]
 	quest.041D16DA96BC4253.title: "&e&lPilares Polinizados"
@@ -45,12 +45,12 @@
 	]
 	quest.0B0BDC37185AF9EC.title: "Aros Ancestral"
 	quest.0BE2E7C9454058C3.quest_desc: [
-		"Parte do belo &d&lPrado Floral&r é uma &dCerejeira&r muito mais velha e maior que as outras.\\n\\nAs &6A&8b&6e&8l&6h&8a&6s&r parecem ter gostado dessas &dÁrvores&r e montaram mini &eColmeias&r ao lado delas, cheias de seus filhotes!"
+		"Parte dos belos &d&lPrados Florais&r é uma &dCerejeira&r muito mais velha e maior que as outras.\\n\\nAs &6A&8b&6e&8l&6h&8a&6s&r parecem ter gostado dessas &dÁrvores&r e montaram mini &eColmeias&r ao lado delas, cheias de seus filhotes!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cherry.png width:200 height:100 align:center}"
 	]
 	quest.0BE2E7C9454058C3.title: "&dCerejeira Veterana"
 	quest.0C8180524757B238.quest_desc: [
-		"&7Flutuadores&r não são tecnicamente estruturas nos arquivos do Minecraft, mas ainda são em termos leigos.\\n\\nEles podem aparecer em qualquer Bioma, mas sempre e abundantemente nas &7&lConstruções Uivantes&r!\\n\\nSão estruturas flutuantes em forma de disco feitas de Cera Ancestral. Se você ainda não usou a Essência de Abelhas, receberá Fraqueza, Lentidão e Fadiga de Mineração ao tocar na Cera Ancestral. Há também &6Casulos de Mel&r ou &5Cristais&r neles!"
+		"&7Flutuadores&r não são tecnicamente estruturas nos arquivos do Minecraft, mas ainda são em termos leigos.\\n\\nEles podem aparecer em qualquer Bioma, mas sempre e abundantemente nas &7&lEstruturas Uivantes&r!\\n\\nSão estruturas flutuantes em forma de disco feitas de Cera Ancestral. Se você ainda não usou a Essência de Abelhas, receberá Fraqueza, Lentidão e Fadiga de Mineração ao tocar na Cera Ancestral. Há também &6Casulos de Mel&r ou &5Cristais&r neles!"
 		"{image:atm:textures/questpics/bumblezone/bumble_floaters.png width:200 height:100 align:center}"
 	]
 	quest.0C8180524757B238.title: "&7Flutuadores"
@@ -68,21 +68,21 @@
 	quest.13E3DE157B89E847.title: "Monólito de Gelo"
 	quest.14F6ED7F0C1DC503.quest_desc: ["Beba 8 &6Garrafas de Mel&r. \\n\\nEsta é a mais difícil para mim, não suporto o barulho de beber &6Garrafas de Mel&r."]
 	quest.1A67F4F87B3D456C.quest_desc: [
-		"O Canhão de &6A&8b&6e&8l&6h&8a&6s&r pode ser Criado, encontrado em estruturas ou trocado com a &5Rainha Abelha&r. \\n\\nÉ bem simples: Clique com o Botão Direito em uma &6A&8b&6e&8l&6h&8a&r para carregá-la, e Segure o Botão Direito e solte para disparar a &6A&8b&6e&8l&6h&8a&r! \\n\\nElas não ficarão hostis por serem atiradas, não se preocupe, na verdade acho que elas gostam."
+		"O Canhão de &6A&8b&6e&8l&6h&8a&6s&r pode ser Criado, encontrado em estruturas ou trocado com a &5Abelha Rainha&r. \\n\\nÉ bem simples: Clique com o Botão Direito em uma &6A&8b&6e&8l&6h&8a&r para carregá-la, e Segure o Botão Direito e solte para disparar a &6A&8b&6e&8l&6h&8a&r! \\n\\nElas não ficarão hostis por serem atiradas, não se preocupe, na verdade acho que elas gostam."
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon2.png width:75 height:150 align:center}"
 	]
 	quest.1C6B815C0F43312D.quest_desc: [
-		"Uma mudança de ritmo para a &6&lBumblezone&r. \\n\\nO &d&lPrado Floral&r tem Grama, Cerejeiras e mais &dFlores&r do que se pode imaginar. (Isso me lembra, você deveria seguir Minty Meadow no Twitch). \\n\\nEspere, se as &6A&8b&6e&8l&6h&8a&6s&r têm &dFlores&r em suas &eColmeias&r, por que precisamos colocar &dFlores&r fora dela?!?!?!?!"
+		"Uma mudança de ritmo para a &6&lBumblezone&r. \\n\\nOs &d&lPrados Florais&r têm Grama, Cerejeiras e mais &dFlores&r do que se pode imaginar. (Isso me lembra, você deveria seguir Minty Meadow no Twitch). \\n\\nEspere, se as &6A&8b&6e&8l&6h&8a&6s&r têm &dFlores&r em suas &eColmeias&r, por que precisamos colocar &dFlores&r fora dela?!?!?!?!"
 		"{image:atm:textures/questpics/bumblezone/bumble_meadow.png width:200 height:100 align:center}"
 	]
-	quest.1C6B815C0F43312D.title: "&d&lPrado Floral"
+	quest.1C6B815C0F43312D.title: "&d&lPrados Florais"
 	quest.1D4973B187284CBB.quest_desc: ["Um item muito pacífico e útil, segure-o em sua mão secundária para usá-lo. Quando na sua mão secundária, ele fertilizará plantações e mudas. \\n\\nEle também curará Mobs domesticados e jogadores próximos. \\n\\nE removerá os efeitos de Veneno e Wither de jogadores e Mobs domesticados. Eu não sei como seus Mobs estão pegando o efeito Wither, mas agora podemos consertar! \\n\\nApós curar ou fertilizar o suficiente, ele terá um tempo de recarga de 10 minutos."]
 	quest.1D4973B187284CBB.title: "&aEssência da Vida"
 	quest.206918773B0BD7A0.title: "Um Último Primeiro Último"
 	quest.20E5C888891FBCFE.quest_desc: ["Quando segurado em sua mão secundária, todos os Mobs próximos deixarão de ser hostis a você. \\n\\nSeja você quem os irritou ou se eles são inerentemente raivosos, eles não serão mais. \\n\\nTem 600 usos por vez e, após ser usado ou interrompido, precisará esperar 10 minutos em seu inventário para recarregar. \\n\\nPode ser interrompido se você sofrer dano com ele ativo ou se atingir um Mob."]
 	quest.20E5C888891FBCFE.title: "&bEssência da Calma"
 	quest.2149833F65D523E5.quest_desc: [
-		"Semelhante ao Canhão de &6A&8b&6e&rlha, o Canhão de Cristal pode ser: Criado, encontrado em estruturas, ou trocado com a &5Rainha Abelha&r. \\n\\nEste é usado como uma Besta, se você tiver &5Fragmentos de Cristal de Mel&r em seu inventário, segure o botão direito para carregar um &5Cristal&r e solte para atirar!"
+		"Semelhante ao Canhão de &6A&8b&6e&rlha, o Canhão de Cristal pode ser: Criado, encontrado em estruturas, ou trocado com a &5Abelha Rainha&r. \\n\\nEste é usado como uma Besta, se você tiver &5Fragmentos de Cristal de Mel&r em seu inventário, segure o botão direito para carregar um &5Cristal&r e solte para atirar!"
 		"{image:atm:textures/questpics/bumblezone/bumble_cannon1.png width:75 height:150 align:center}"
 	]
 	quest.21BFDE6AD1C0F62A.quest_desc: ["Obviamente, na vida real, há muito mais do que apenas &6Abelhas de Mel&r ou &6Mamangavas&r, então a &6&lBumblezone&r adiciona mais &8A&6b&8e&6l&8h&6a&8s&r e &8A&6b&8e&6l&8h&6a&8s&r únicas! \\n\\nDe &4&lRabo Vermelho&r &8A&6b&8e&6l&8h&6a&8s&r, a &9Azuis&r &8A&6b&8e&6l&8h&6a&8s&r, a &8A&6b&8e&6l&8h&6a&8s&r Neopolitanas!"]
@@ -91,7 +91,7 @@
 	quest.22BB55249EF2E819.quest_subtitle: "Bem-vindo ao Bumble!"
 	quest.22BB55249EF2E819.title: "&l&6A Bumblezone!"
 	quest.253957D992A88C88.quest_desc: [
-		"Este Escudo, como parece ser o caso da maioria dos Itens aqui, pode ser: encontrado em estruturas, criado ou trocado com a &5Rainha Abelha&r. \\n\\nFunciona como um Escudo &2Vanilla&r, segure-o na sua mão secundária e bloqueie ataques. \\n\\nO que o torna diferente (e melhor) é que, depois de repará-lo com &5Cristais de Mel&r, ele ficará mais forte."
+		"Este Escudo, como parece ser o caso da maioria dos Itens aqui, pode ser: encontrado em estruturas, criado ou trocado com a &5Abelha Rainha&r. \\n\\nFunciona como um Escudo &2Vanilla&r, segure-o na sua mão secundária e bloqueie ataques. \\n\\nO que o torna diferente (e melhor) é que, depois de repará-lo com &5Cristais de Mel&r, ele ficará mais forte."
 		"{image:atm:textures/questpics/bumblezone/bumble_shield.png width:100 height:150 align:center}"
 	]
 	quest.262B307753106817.title: "Afogando-se em Desespero"
@@ -125,10 +125,10 @@
 	quest.29E2033EA65E706E.title: "Rancho de &6Slime de Mel&r"
 	quest.29E9E361DDC8041B.title: "Estandarte: Sol"
 	quest.2A50A687C40DB864.quest_desc: [
-		"As &6&lParedes da Colmeia&r são a fundação da &l&6Bumblezone&r. \\n\\nSão paredes massivas de &6Favos de Mel&r e &eCera&r que vão do chão ao teto. \\n\\nElas também contêm Favos de &lProductive Bees&r e buracos nas &6&lParedes&r onde Blocos de Cria (Brood Blocks) irão aparecer."
+		"As &6&lParedes de Colmeia&r são a fundação da &l&6Bumblezone&r. \\n\\nSão paredes massivas de &6Favos de Mel&r e &eCera&r que vão do chão ao teto. \\n\\nElas também contêm Favos de &lProductive Bees&r e buracos nas &6&lParedes&r onde Blocos de Cria (Brood Blocks) irão aparecer."
 		"{image:atm:textures/questpics/bumblezone/bumble_hivewall.png width:200 height:100 align:center}"
 	]
-	quest.2A50A687C40DB864.title: "&6&lParede da Colmeia"
+	quest.2A50A687C40DB864.title: "&6&lParede de Colmeia"
 	quest.2A6FC21142E75DD5.quest_desc: [
 		"Os Lagos, Oceanos, Lagoas e Rios da &l&6Bumblezone&r. \\n\\nProvavelmente era originalmente apenas &bÁgua&r, mas todo o tempo que passou dentro da &eColmeia&r a tornou &bÁgua com Açúcar&r. \\n\\nEstes são muito úteis para sair da &l&6Bumblezone&r, pois há muito menos Blocos neste Bioma. \\n\\nTambém, &6Slimes de Mel&r aparecem às vezes aqui."
 		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
@@ -136,12 +136,12 @@
 	quest.2A6FC21142E75DD5.title: "Lagos de Açúcar! (&bÁgua&r)"
 	quest.2ABAE97E992BB800.title: "Estandarte: Favo de Mel"
 	quest.2AD13B965611DC86.quest_desc: [
-		"Facilmente o Bioma mais fascinante da &l&6Bumblezone&r, as &7&lConstruções Uivantes&r. \\n\\nNo chão há espigões de Pedra de Açúcar Infundida, &eCera Esculpível&r e &6Mel&r. \\n\\nA parte interessante é o que não está no chão. Existem &7estruturas flutuantes&r por todas as &l&7Construções Uivantes&r. \\n\\nElas são feitas de Cera Ancestral, sobre a qual você aprenderá mais eventualmente."
+		"Facilmente o Bioma mais fascinante da &l&6Bumblezone&r, as &7&lEstruturas Uivantes&r. \\n\\nNo chão há espigões de Pedra de Açúcar Infundida, &eCera Entalhável&r e &6Mel&r. \\n\\nA parte interessante é o que não está no chão. Existem &7estruturas flutuantes&r por todas as &l&7Estruturas Uivantes&r. \\n\\nElas são feitas de Cera Ancestral, sobre a qual você aprenderá mais eventualmente."
 		"{image:atm:textures/questpics/bumblezone/bumble_constructs.png width:200 height:100 align:center}"
 	]
-	quest.2AD13B965611DC86.title: "&7&lConstruções Uivantes"
-	quest.2B857941D7BBA0B8.quest_desc: ["Pode ser encontrada em estruturas na &6&lBumblezone&r ou trocada com a &5Rainha Abelha&r! \\n\\nJá odiou ficar preso em &6Blocos de Mel&r? Ou mesmo quando o &ePólen&r te desacelera? Bem, não há necessidade de temer, pois as Perneiras de Abelha de Mel estão aqui! Elas o ajudarão a se mover melhor através desses Blocos. Quanto mais Armadura de Abelha você usar, mais fácil será a viagem! \\n\\nVocê também pode se agachar através do &ePólen&r para coletá-lo! "]
-	quest.2DE2E5A1275E4B20.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Rainha Abelha&r! \\n\\nAs &6A&8b&6e&8lhas&r têm uma maneira bastante interessante de se encontrar e se comunicar. Eu não sei como elas fazem isso, então vou apenas supor que suas Antenas emitem e recebem sinais de rádio. \\n\\nAo usar o Capacete de Abelha Sem Ferrão, você pode se agachar para destacar todas as &6A&8b&6e&8lhas&r ao seu redor. \\n\\nAlém disso, ao usá-lo, o veneno e a náusea desaparecerão mais rapidamente."]
+	quest.2AD13B965611DC86.title: "&7&lEstruturas Uivantes"
+	quest.2B857941D7BBA0B8.quest_desc: ["Pode ser encontrada em estruturas na &6&lBumblezone&r ou trocada com a &5Abelha Rainha&r! \\n\\nJá odiou ficar preso em &6Blocos de Mel&r? Ou mesmo quando o &ePólen&r te desacelera? Bem, não há necessidade de temer, pois as Perneiras de Abelha de Mel estão aqui! Elas o ajudarão a se mover melhor através desses Blocos. Quanto mais Armadura de Abelha você usar, mais fácil será a viagem! \\n\\nVocê também pode se agachar através do &ePólen&r para coletá-lo! "]
+	quest.2DE2E5A1275E4B20.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Abelha Rainha&r! \\n\\nAs &6A&8b&6e&8lhas&r têm uma maneira bastante interessante de se encontrar e se comunicar. Eu não sei como elas fazem isso, então vou apenas supor que suas Antenas emitem e recebem sinais de rádio. \\n\\nAo usar o Capacete de Abelha Sem Ferrão, você pode se agachar para destacar todas as &6A&8b&6e&8lhas&r ao seu redor. \\n\\nAlém disso, ao usá-lo, o veneno e a náusea desaparecerão mais rapidamente."]
 	quest.30C12E249F7E2D52.quest_desc: [
 		"Uma das maiores estruturas no &6&lBumblezone&r, o que obviamente significa mais saques!\\n\\nHá uma tonelada de salas diferentes conectadas em algum tipo de design de quebra-cabeça.\\n\\nSe você ainda não usou a Essência das Abelhas ou tem o Efeito de Proteção da Colmeia, você receberá a Ira da Colmeia enquanto estiver no Labirinto de Células. Então alimente algumas Abelhas!\\n\\nAlém disso, a &5Bússola do Pilar do Trono&r sempre aparecerá nesta estrutura.\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_cell.png width:200 height:100 align:center}"
@@ -149,7 +149,7 @@
 	quest.30C12E249F7E2D52.title: "Labirinto de Células"
 	quest.3365017C9B24C0A9.quest_desc: ["Use Arcos ou Bestas para atirar 32 Ferrões. \\n\\nSim, você pode fazer isso!"]
 	quest.339384ADC9CDB944.title: "Conhecimento"
-	quest.341DF467E3936E78.quest_desc: ["Mate o &dDragão do Ender&r enquanto usa um conjunto completo de Armadura de &8A&6b&8e&rlha! \\n\\nSeu nome será lembrado por séculos!"]
+	quest.341DF467E3936E78.quest_desc: ["Mate o &dDragão Ender&r enquanto usa um conjunto completo de Armadura de &8A&6b&8e&rlha! \\n\\nSeu nome será lembrado por séculos!"]
 	quest.351769579833FA9E.title: "Relaxando com os parças abelhas"
 	quest.358D4F507521075F.quest_desc: [
 		"&eColmeia&r dentro de uma &eColmeia&r, &eColmeia&r-cepção.\\n"
@@ -168,7 +168,7 @@
 	]
 	quest.3B7BB08D6AA2E7FE.title: "&cSantuário Sempiterno Vermelho&r"
 	quest.3B9E6FBEDABA4F7E.quest_desc: [
-		"No interior das &6&lParedes da Colmeia&r você pode encontrar uma Caverna de &6Mel&r! \\n\\nAqui você pode encontrar &6Fluido de Mel&r, &5Cristais de Mel&r, Blocos de Ninhada e até mesmo Beehemoths! \\n\\nTudo relacionado a &6Mel&r. "
+		"No interior das &6&lParedes de Colmeia&r você pode encontrar uma Caverna de &6Mel&r! \\n\\nAqui você pode encontrar &6Fluido de Mel&r, &5Cristais de Mel&r, Blocos de Ninhada e até mesmo Beehemoths! \\n\\nTudo relacionado a &6Mel&r. "
 		"{image:atm:textures/questpics/bumblezone/bumble_cave.png width:200 height:100 align:center}"
 	]
 	quest.3B9E6FBEDABA4F7E.title: "Sala da Caverna de &6Mel&r"
@@ -236,7 +236,7 @@
 	quest.5443AA65C0D0C599.quest_desc: ["Você pode roubá-lo da &5Abelha Rainha&r ou trabalhar para consegui-lo, ajudando-a. Recomendo ser respeitoso com a &5Rainha&r, afinal, ela é da realeza! \\n\\nAo beber, você receberá vários Efeitos incríveis, além de remover alguns terríveis. \\n\\nTambém pode ser usado em &6B&8e&6e&8s&r e Beehemoths para dar-lhes Efeitos!"]
 	quest.54D80939887B3F7D.quest_desc: ["Faça trocas com a &5Abelha Rainha&r 128 vezes! \\n\\nBoa sorte!"]
 	quest.55B9B9C3AA01D323.quest_desc: [
-		"Entre os enormes &5Cristais Brilhantes&r no &5&lDesfiladeiro de Cristal&r, há um &5Cristal&r na forma de uma &dFlor&r. \\n\\nÉ lindo, quase hipnotizante. Me dá vontade de cultivar um Jardim de &dFlores&r lindas, mas sei que nenhuma dessas &dFlores&r chegará perto de quão deslumbrante a &dFlor&r de &5Cristal&r é... \\n\\nDe qualquer forma, você encontrará muitos &5Cristais de Mel&r, &6Mel&r e, o mais importante, &5Flores Cristalinas&r!"
+		"Entre os enormes &5Cristais Brilhantes&r no &5&lCânion de Cristal&r, há um &5Cristal&r na forma de uma &dFlor&r. \\n\\nÉ lindo, quase hipnotizante. Me dá vontade de cultivar um Jardim de &dFlores&r lindas, mas sei que nenhuma dessas &dFlores&r chegará perto de quão deslumbrante a &dFlor&r de &5Cristal&r é... \\n\\nDe qualquer forma, você encontrará muitos &5Cristais de Mel&r, &6Mel&r e, o mais importante, &5Flores Cristalinas&r!"
 		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
 	]
 	quest.55B9B9C3AA01D323.title: "&5Flor Coberta de Vegetação"
@@ -259,7 +259,7 @@
 	]
 	quest.5B4397D4EC23E702.title: "Santuário da Lança de Ferrão"
 	quest.5C040191740A53C8.quest_desc: [
-		"Vossa &5Alteza&r, a &5Rainha Abelha&r.\\n\\nUma unidade absoluta de Abelha, tão grande que nem consegue se mover sozinha.\\n\\nAo encontrá-la, ela pedirá que você obtenha um certo Item para ela. Se você o fizer, receberá uma recompensa especial.\\n\\nAlém disso, agora que você a conheceu, pode negociar com ela (verifique o JEI para todas as trocas) e pode realizar os desejos de suas missões.\\n\\nPara avançar no Bumblezone, você precisará de Essência de Abelha, que você obtém ao fazer todas as 16 de suas missões.\\n"
+		"Vossa &5Alteza&r, a &5Abelha Rainha&r.\\n\\nUma unidade absoluta de Abelha, tão grande que nem consegue se mover sozinha.\\n\\nAo encontrá-la, ela pedirá que você obtenha um certo Item para ela. Se você o fizer, receberá uma recompensa especial.\\n\\nAlém disso, agora que você a conheceu, pode negociar com ela (verifique o JEI para todas as trocas) e pode realizar os desejos de suas missões.\\n\\nPara avançar no Bumblezone, você precisará de Essência de Abelha, que você obtém ao fazer todas as 16 de suas missões.\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_queen.png width:200 height:100 align:center}"
 	]
 	quest.5C040191740A53C8.title: "&5Vossa Alteza"
@@ -268,9 +268,9 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_flower.png width:175 height:200 align:center}"
 	]
 	quest.5E180764FBEE666B.title: "&5Flor Cristalina"
-	quest.5F834F8C607A8B77.quest_desc: ["Você tem que encontrá-los em estruturas na &6&lBumblezone&r ou pode trocar com a &5Rainha Abelha&r para obter um! \\n\\nEnquanto o estiver usando, você pode segurar a Barra de Espaço para voar um pouco. \\n\\nExceto que, como uma &6A&8b&6e&8l&6h&8a&r, as Asas são muito pequenas para manter seu corpinho gordo fora do chão."]
+	quest.5F834F8C607A8B77.quest_desc: ["Você tem que encontrá-los em estruturas na &6&lBumblezone&r ou pode trocar com a &5Abelha Rainha&r para obter um! \\n\\nEnquanto o estiver usando, você pode segurar a Barra de Espaço para voar um pouco. \\n\\nExceto que, como uma &6A&8b&6e&8l&6h&8a&r, as Asas são muito pequenas para manter seu corpinho gordo fora do chão."]
 	quest.6013C6B2E0B81D73.quest_desc: [
-		"Do lado de fora das &6&lParedes da Colmeia&r e &6&lPilares&r você encontrará o que eu chamo de &6Creches-de-Abelhas&r.\\n\\nAqui haverá &6Blocos de Mel&r e Blocos de Cria de Favo de Mel! Estes aparecem com bebês &6A&8b&6e&8l&6h&8a&r em algum estágio dentro deles.\\n\\nVocê pode alimentá-los com: Garrafas de &bÁgua com Açúcar&r, &6Garrafas de Mel&r, ou Pão de Abelha. Tem 4 Estágios e após o 4º ser alimentado, um Bebê &6A&8b&6e&8l&6h&8a&r aparecerá. Às vezes &6Slimes de Mel&r também aparecerão!\\n\\nVocê pode levar o Bloco de Cria Vazio para a &5Rainha Abelha&r para reabastecê-lo!\\n\\nQuando você os alimenta o suficiente, você obterá a Proteção da Colmeia. Se você os remover, obterá a Ira da Colmeia.\\n"
+		"Do lado de fora das &6&lParedes de Colmeia&r e &6&lPilares&r você encontrará o que eu chamo de &6Creches-de-Abelhas&r.\\n\\nAqui haverá &6Blocos de Mel&r e Blocos de Cria de Favo de Mel! Estes aparecem com bebês &6A&8b&6e&8l&6h&8a&r em algum estágio dentro deles.\\n\\nVocê pode alimentá-los com: Garrafas de &bÁgua com Açúcar&r, &6Garrafas de Mel&r, ou Pão de Abelha. Tem 4 Estágios e após o 4º ser alimentado, um Bebê &6A&8b&6e&8l&6h&8a&r aparecerá. Às vezes &6Slimes de Mel&r também aparecerão!\\n\\nVocê pode levar o Bloco de Cria Vazio para a &5Abelha Rainha&r para reabastecê-lo!\\n\\nQuando você os alimenta o suficiente, você obterá a Proteção da Colmeia. Se você os remover, obterá a Ira da Colmeia.\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_daycare.png width:200 height:100 align:center}"
 	]
 	quest.6013C6B2E0B81D73.title: "&6Creches"
@@ -286,7 +286,7 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_rootmin1.png width:100 height:100 align:center}"
 	]
 	quest.61500C8F68509E5D.title: "Rootmin"
-	quest.61768CFEDA041E4D.quest_desc: ["Depois de entrar na &6&lBumblezone&r, você pode precisar retornar a &2Superfície&r. Caso você tenha deixado seu fogão ligado! \\n\\nPara sair da &6&lBumblezone&r, você pode minerar para baixo ou para cima, passando pela &eCera de Abelha da Colmeia&r, para entrar no Vazio. \\n\\nEste Vazio não irá matá-lo, em vez disso, ele irá teleportá-lo de volta para onde você estava n &2Superfície&r!"]
+	quest.61768CFEDA041E4D.quest_desc: ["Depois de entrar na &6&lBumblezone&r, você pode precisar retornar a &2Superfície&r. Caso você tenha deixado seu fogão ligado! \\n\\nPara sair da &6&lBumblezone&r, você pode minerar para baixo ou para cima, passando pela &eCera de Abelha de Colmeia&r, para entrar no Vazio. \\n\\nEste Vazio não irá matá-lo, em vez disso, ele irá teleportá-lo de volta para onde você estava n &2Superfície&r!"]
 	quest.61768CFEDA041E4D.quest_subtitle: "Deixe-me sair daqui!"
 	quest.61768CFEDA041E4D.title: "Escapando"
 	quest.6434796EAAF2A4EC.quest_desc: ["Depois de completar todas estas Missões, você pode Clicar com o Botão Direito na &5Rainha&r para obter a Essência das Abelhas. \\n\\n&lComa-a!&r \\n\\nAgora você pode basicamente fazer qualquer coisa aqui. Você pode coletar &6Mel&r com segurança de todas as &eColmeias&r, &6Favos de Mel&r e &6Slimes de Mel&r. Você pode caminhar pelo Labirinto de Células sem a Ira da Colmeia, pode entrar no &5Pilar do Trono&r sem Fadiga de Mineração e pode andar sobre Cera Ancestral sem os efeitos horríveis. E quando você entrar em &6Mel Fluido&r ou Geleia Real, receberá efeitos incríveis. \\n\\nA melhor parte é que isso fica com você mesmo após a Morte! Agora você pode entrar no endgame!"]
@@ -299,10 +299,10 @@
 	quest.65D993EB95726067.title: "Cuidado com o Templo"
 	quest.67A0F6661D658A52.quest_desc: ["Isto pode ser encontrado em qualquer uma das 3 Missões anteriores, mas sempre aparecerá no Labirinto de Células (Cell Maze). \\n\\nEle o apontará para o &5Pilar do Trono&r mais próximo. Siga essa &5bússola&r!"]
 	quest.680E960554CEE76B.quest_desc: [
-		"Esses belos &5&lCanyons&r cercados por &6&lParedes de Colmeia&r estão cheios de... você adivinhou! &5Cristais&r! \\n\\nO chão é feito de &eCera Esculpível&r enquanto o resto está cheio de pequenos &5Cristais de Mel&r e enormes &5Cristais de Mel Luminosos&r."
+		"Esses belos &5&lCânions&r cercados por &6&lParedes de Colmeia&r estão cheios de... você adivinhou! &5Cristais&r! \\n\\nO chão é feito de &eCera Entalhável&r enquanto o resto está cheio de pequenos &5Cristais de Mel&r e enormes &5Cristais de Mel Luminosos&r."
 		"{image:atm:textures/questpics/bumblezone/bumble_canyon.png width:200 height:100 align:center}"
 	]
-	quest.680E960554CEE76B.title: "&5&lCanyons de Cristal"
+	quest.680E960554CEE76B.title: "&5&lCânions de Cristal"
 	quest.6BC0904E03683190.quest_desc: ["Cruze &8A&6b&8e&6l&8h&6a&8s&r para obter 8 novas &8A&6b&8e&6l&8h&6a&8s&r."]
 	quest.6C5D61A704DC125A.quest_desc: [
 		"Essa é engraçada; você pode encontrá-la, criá-la ou trocá-la.\\n\\nDepois, pode tingi-la da cor que quiser e, claro, usá-la na cabeça!\\n\\nAs &6A&8b&6e&8l&6h&8a&6s&r pensarão que você é uma Flor e o seguirão.\\n\\nTambém faz você parecer o Patolino em \"Duck Amuck\"."
@@ -313,13 +313,13 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_house.png width:200 height:100 align:center}"
 	]
 	quest.719D5CEB4217B734.title: "Casa de &8A&6b&8e&6l&8h&6a&r"
-	quest.7208CB011F6E2ACF.quest_desc: ["Podem ser encontradas em estruturas na &l&6Bumblezone&r ou trocadas com a &5Rainha Abelha&r! \\n\\nEstas Botas de Abelha Carpinteira são verdadeiramente incríveis, você pode correr pelas paredes ou pular mais longe de Tábuas de Madeira, Folhas e &6Blocos de Mel&r. \\n\\nAlém disso, enquanto segura Shift, as Botas minerarão o Bloco abaixo de você."]
+	quest.7208CB011F6E2ACF.quest_desc: ["Podem ser encontradas em estruturas na &l&6Bumblezone&r ou trocadas com a &5Abelha Rainha&r! \\n\\nEstas Botas de Abelha Carpinteira são verdadeiramente incríveis, você pode correr pelas paredes ou pular mais longe de Tábuas de Madeira, Folhas e &6Blocos de Mel&r. \\n\\nAlém disso, enquanto segura Shift, as Botas minerarão o Bloco abaixo de você."]
 	quest.7231F6177EEF5BF0.quest_desc: [
 		"Um monte de tubos coloridos perfeitos para transportar &6A&8b&6e&8l&6h&8a&6s&r ou você! \\n\\nO Ar Ventoso te levará a qualquer lugar nos Metrôs, até mesmo a salas cheias de saques!"
 		"{image:atm:textures/questpics/bumblezone/bumble_subway.png width:200 height:100 align:center}"
 	]
 	quest.7231F6177EEF5BF0.title: "Metrô"
-	quest.72489FB9D9A5A24B.quest_desc: ["Pode ser encontrado em estruturas na &l&6Bumblezone&r ou trocado com a &5Rainha Abelha&r! \\n\\nEstas Botas de Abelha Carpinteira são verdadeiramente incríveis, você pode correr pelas paredes ou pular mais longe de Tábuas de Madeira, Folhas e &6Blocos de Mel&r. \\n\\nAlém disso, enquanto segura Shift, as Botas minerarão o Bloco abaixo de você."]
+	quest.72489FB9D9A5A24B.quest_desc: ["Pode ser encontrado em estruturas na &l&6Bumblezone&r ou trocado com a &5Abelha Rainha&r! \\n\\nEstas Botas de Abelha Carpinteira são verdadeiramente incríveis, você pode correr pelas paredes ou pular mais longe de Tábuas de Madeira, Folhas e &6Blocos de Mel&r. \\n\\nAlém disso, enquanto segura Shift, as Botas minerarão o Bloco abaixo de você."]
 	quest.72569275EDE9FA23.quest_desc: ["Cruze 6 &6Slimes de Mel&r juntos com Açúcar."]
 	quest.72917C96C322A922.title: "La Bee-da Loca"
 	quest.73C7F57B90731010.quest_desc: [
@@ -338,14 +338,14 @@
 	quest.7834734E79E41A3A.quest_desc: ["Por favor, reconsidere jogar com o Mod &l&6Bumblezone&r se você sofre de alguma destas fobias: \\n\\nMelissofobia, Apifobia, Entomofobia, Aracnofobia, Tripofobia, Acrofobia, Claustrofobia e Cristalofobia. \\n\\nSe você sofre de Tripofobia, pode usar o pacote de recursos adicionado pelo &l&6Bumblezone&r para ajudar! Se for qualquer outra coisa, você está ferrado."]
 	quest.7834734E79E41A3A.quest_subtitle: "Tenha cuidado de abelha!"
 	quest.786073B57C901DB7.title: "Padrão de Estandarte de Sinais de Mais"
-	quest.78B7FC6A868F5C4D.quest_desc: ["Você tem que encontrá-los em estruturas na &6&lBumblezone&r ou pode trocar com a &5Rainha Abelha&r para obter um! \\n\\nEnquanto o usa, você pode segurar a Barra de Espaço para voar por um pouco. \\n\\nExceto que, como uma &6A&8b&6e&8l&6h&8a&r, as Asas são pequenas demais para manter seu corpinho gordo fora do chão."]
-	quest.78E40BDB0E54B638.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Rainha Abelha&r! \\n\\nSempre odiou ficar preso em &6Blocos de Mel&r? Ou mesmo quando o &ePólen&r te desacelera? Bem, não há necessidade de temer, pois as Perneiras de Abelha de Mel estão aqui! Elas o ajudarão a se mover melhor através desses Blocos. Quanto mais Armadura de Abelha você usar, mais fácil será a viagem! \\n\\nAlém disso, você pode passar através do &ePólen&r com Shift para coletá-lo!"]
+	quest.78B7FC6A868F5C4D.quest_desc: ["Você tem que encontrá-los em estruturas na &6&lBumblezone&r ou pode trocar com a &5Abelha Rainha&r para obter um! \\n\\nEnquanto o usa, você pode segurar a Barra de Espaço para voar por um pouco. \\n\\nExceto que, como uma &6A&8b&6e&8l&6h&8a&r, as Asas são pequenas demais para manter seu corpinho gordo fora do chão."]
+	quest.78E40BDB0E54B638.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Abelha Rainha&r! \\n\\nSempre odiou ficar preso em &6Blocos de Mel&r? Ou mesmo quando o &ePólen&r te desacelera? Bem, não há necessidade de temer, pois as Perneiras de Abelha de Mel estão aqui! Elas o ajudarão a se mover melhor através desses Blocos. Quanto mais Armadura de Abelha você usar, mais fácil será a viagem! \\n\\nAlém disso, você pode passar através do &ePólen&r com Shift para coletá-lo!"]
 	quest.79FF12D7A4C8E821.quest_desc: [
 		"Navegando pelos 7 &b&lMares de Açúcar&r está o perigoso &bNavio Pirata&r liderado pelo terrível Capitão. \\nNo Convés Inferior estão os Navegadores. \\nPerto das Armas no Porão de Carga fica o Contramestre. \\n\\nPor todo o &bNavio&r você pode encontrar o Saque das muitas aventuras dos Piratas!"
 		"{image:atm:textures/questpics/bumblezone/bumble_pirates.png width:200 height:100 align:center}"
 	]
 	quest.79FF12D7A4C8E821.title: "&bNavio Pirata"
-	quest.7C7C0D3D7FCB0297.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Rainha Abelha&r! \\n\\n&6A&8b&6e&8l&6h&8a&6s&r têm uma maneira bastante interessante de encontrar e se comunicar umas com as outras. Eu não sei como elas fazem isso, então vou apenas supor que suas Antenas dão e recebem sinais de rádio. \\n\\nEnquanto usa o Elmo de Abelha Sem Ferrão, você pode Agachar para destacar todas as &6A&8b&6e&8l&6h&8a&6s&r ao seu redor. \\n\\nAlém disso, enquanto o usa, veneno e náusea desaparecerão mais rápido."]
+	quest.7C7C0D3D7FCB0297.quest_desc: ["Pode ser encontrado em estruturas na &6&lBumblezone&r ou trocado com a &5Abelha Rainha&r! \\n\\n&6A&8b&6e&8l&6h&8a&6s&r têm uma maneira bastante interessante de encontrar e se comunicar umas com as outras. Eu não sei como elas fazem isso, então vou apenas supor que suas Antenas dão e recebem sinais de rádio. \\n\\nEnquanto usa o Elmo de Abelha Sem Ferrão, você pode Agachar para destacar todas as &6A&8b&6e&8l&6h&8a&6s&r ao seu redor. \\n\\nAlém disso, enquanto o usa, veneno e náusea desaparecerão mais rápido."]
 	task.030FFC7C0532E7B2.title: "Matar 3 Slimes de Mel"
 	task.1256A95F7D5C782F.title: "Blocos de Favos das Productive Bees"
 	task.1884D3DA3CCC1439.title: "TodosOsDireitosReservados"

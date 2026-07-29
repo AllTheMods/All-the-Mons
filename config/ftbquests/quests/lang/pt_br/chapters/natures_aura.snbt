@@ -14,24 +14,24 @@
 	quest.1ABEC7DE47BD6286.quest_desc: ["&5Caixotes do End&r são &5Baús do End&r que podem ser usados para transportar itens.\\n\\n&5Oculares do End&r são versões portáteis dos &5Caixotes do End&r."]
 	quest.1ABEC7DE47BD6286.quest_subtitle: "Aqui e Ali!"
 	quest.1ABEC7DE47BD6286.title: "Caixotes e Oculares do &5End"
-	quest.1D39634260A47C9A.quest_desc: ["Se você usar &2Barra de Ferro Infundidos&r ou &6Barra de Ouro Corrompido&r na Mesa de Oferendas, você obterá &bBarra dos Céus&r."]
+	quest.1D39634260A47C9A.quest_desc: ["Se você usar &2Lingote de Ferro Infundidos&r ou &6Lingote de Ouro Corrompido&r na Mesa de Oferendas, você obterá &bBarra dos Céus&r."]
 	quest.1D39634260A47C9A.title: "&bBarra dos Céus"
 	quest.20F9EF925DB1CE05.quest_desc: ["O &2Altar Natural&r é uma estrutura multibloco feita de 1 &2Altar Natural&r, 20 Tábuas, 16 Tijolos de Pedra, 8 &eTijolos de Pedra Dourados&r e 4 Tijolos de Pedra Cinzelados.\\n\\nO Altar Natural consumirá aura para cada receita e é necessário para continuar progredindo no mod.\\n\\nA imagem à direita desta missão mostra a configuração do multibloco."]
 	quest.20F9EF925DB1CE05.title: "&2Altar Natural"
 	quest.22ADCF96AE3E609B.quest_desc: ["&dMudas Ancestrais&r são criadas usando o &aRitual da Floresta&r. Quando crescem, as árvores tentam manter níveis normais de aura (nem muito altos, nem muito baixos).\\n\\nSe a aura cair, as folhas começarão a decair e a reverter o processo."]
 	quest.22ADCF96AE3E609B.quest_subtitle: "Não aquelas Mudas Ancestrais"
 	quest.22ADCF96AE3E609B.title: "Árvores Ancestrais"
-	quest.24599D45F5D1606E.quest_desc: ["O &bTesouro de Aura&r é uma versão aprimorada do &9Cache de Aura&r."]
+	quest.24599D45F5D1606E.quest_desc: ["O &bRepositório de Aura&r é uma versão aprimorada do &9Cache de Aura&r."]
 	quest.24599D45F5D1606E.quest_subtitle: "Um Tesouro!"
-	quest.24599D45F5D1606E.title: "&bTesouro de Aura"
-	quest.2B4D4E741D855B5A.quest_desc: ["Combinar 2 &bBarra dos Céus&r, 2 &6Barra de Ouro Corrompido&r e 1 &5Fragmento de Netherita&r juntos em uma grade de fabricação fará &dBarra das Profundezas&r."]
+	quest.24599D45F5D1606E.title: "&bRepositório de Aura"
+	quest.2B4D4E741D855B5A.quest_desc: ["Combinar 2 &bBarra dos Céus&r, 2 &6Lingote de Ouro Corrompido&r e 1 &5Fragmentos de Netherita&r juntos em uma grade de fabricação fará &dBarra das Profundezas&r."]
 	quest.2B4D4E741D855B5A.title: "&dBarra das Profundezas"
-	quest.34ABEF75AE1E5A0F.quest_desc: ["O Cajado do Conhecimento Ancestral usa Aura para destacar &5Ancient Debris&r próximos."]
+	quest.34ABEF75AE1E5A0F.quest_desc: ["O Cajado do Conhecimento Ancestral usa Aura para destacar &5Detritos Ancestrais&r próximos."]
 	quest.34ABEF75AE1E5A0F.quest_subtitle: "Localizador de Netherite"
-	quest.3C2F5AB815A6C949.quest_desc: ["Para fazer um &2Barra de Ferro Infundido&r, coloque uma Barra de Ferro no &2Altar Natural&r.\\n\\nEste processo será mais rápido do que com &6Ouro Contaminado."]
-	quest.3EC90ADA4E322B14.quest_desc: ["Para fazer um &6Barra de Ouro Contaminado&r, coloque um &eBarra de Ouro&r no &2Altar Natural&r.\\n\\nEste processo levará mais tempo do que com o &2Ferro Infundido&r."]
+	quest.3C2F5AB815A6C949.quest_desc: ["Para fazer um &2Lingote de Ferro Infundido&r, coloque um Lingote de Ferro no &2Altar Natural&r.\\n\\nEste processo será mais rápido do que com &6Ouro Corrompido."]
+	quest.3EC90ADA4E322B14.quest_desc: ["Para fazer um &6Lingote de Ouro Corrompido&r, coloque um &eLingote de Ouro&r no &2Altar Natural&r.\\n\\nEste processo levará mais tempo do que com o &2Ferro Infundido&r."]
 	quest.3EC90ADA4E322B14.quest_subtitle: "Contamine esse Ouro!"
-	quest.3EC90ADA4E322B14.title: "&6Ouro Contaminado"
+	quest.3EC90ADA4E322B14.title: "&6Ouro Corrompido"
 	quest.3F8A5CBEAE024748.quest_desc: ["O Olho do Saqueador, o Olho do Blaze e o Olho do Shulker são usados para localizar estruturas específicas."]
 	quest.3F8A5CBEAE024748.quest_subtitle: "Estou de olho em você"
 	quest.3F8A5CBEAE024748.title: "Localizadores de Estrutura"
@@ -44,7 +44,7 @@
 	quest.4AD4FDF70B9BFCC9.title: "Tokens Aprimorados"
 	quest.4F03B152479C4AC0.quest_desc: ["O &bCajado das Riquezas&r usa aura para destacar todos os contêineres de armazenamento em um raio de 64 blocos por cerca de 1 minuto.\\n\\nIsso pode ser muito útil se você estiver procurando por baús de tesouro ou se colocou um baú em uma mina em algum lugar."]
 	quest.4F03B152479C4AC0.title: "&bCajado das Riquezas"
-	quest.4F9D6109EEA5D26A.quest_desc: ["Quebrar &eFolhas Douradas&r tem uma alta chance de dropar uma &eFolha Dourada&r, que é necessária para o &ePó de Ouro&r."]
+	quest.4F9D6109EEA5D26A.quest_desc: ["Quebrar &eFolhas Douradas&r tem uma alta chance de dropar uma &eFolha de Ouro&r, que é necessária para o &ePó de Ouro&r."]
 	quest.4F9D6109EEA5D26A.quest_subtitle: "Aura com Vagalumes"
 	quest.4F9D6109EEA5D26A.title: "&eFolhas Douradas"
 	quest.54F7AD64A403C9BF.quest_desc: ["Esses Catalisadores podem ser adicionados como topos de pilar ao seu &2Altar Natural&r. Eles permitem que você transforme mais itens em outros itens ou os decomponha.\\n\\nO Catalisador de Desmoronamento permite que você transforme cada Folha de Ouro em 4 Pó de Ouro em vez de 2!"]

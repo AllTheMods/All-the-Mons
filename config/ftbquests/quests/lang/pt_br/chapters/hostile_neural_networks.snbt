@@ -3,7 +3,7 @@
 	quest.104EBBC08B4733F5.title: "&aSimulando Mortes"
 	quest.10E8BC20D406D9FB.quest_subtitle: "Cria vários materiais do Nether"
 	quest.12AE2856444996F6.quest_desc: ["A &6equipe AllTheMods&r ou um &2colaborador da Comunidade&r criou esta missão para uso em modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r estão licenciados sob &eTodos os direitos reservados&r, esta missão não poderá ser usada em pacotes públicos não lançados pela &6equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está oculta intencionalmente. Se você a está vendo, está no modo de edição."]
-	quest.14B3542ECB59869C.quest_desc: ["O &5Fabricante de Saques&r é a máquina que fornece aquele saque maravilhoso das Previsões de Criatura.\\n\\nAo fornecer energia e uma Previsão de Criatura bem-sucedida, você poderá escolher qual item gostaria de obter do Modelo de Dados daquela criatura. A máquina lembrará da sua escolha, para que possa ser automatizada.\\n\\nExemplos de Previsões de Criatura:\\n\\n- &dDragões Ender&r para &dOvos do Dragão\\n - &2Zumbis&r para Ferro\\n - &0Withers&r para &5Estrelas do Nether"]
+	quest.14B3542ECB59869C.quest_desc: ["O &5Fabricador de Saques&r é a máquina que fornece aquele saque maravilhoso das Previsões de Criatura.\\n\\nAo fornecer energia e uma Previsão de Criatura bem-sucedida, você poderá escolher qual item gostaria de obter do Modelo de Dados daquela criatura. A máquina lembrará da sua escolha, para que possa ser automatizada.\\n\\nExemplos de Previsões de Criatura:\\n\\n- &dDragões Ender&r para &dOvos do Dragão\\n - &2Zumbis&r para Ferro\\n - &0Withers&r para &5Estrelas do Nether"]
 	quest.14B3542ECB59869C.title: "Criando &dSaques"
 	quest.2559201BCF5D497C.quest_subtitle: "Cria vários materiais da Superfície"
 	quest.34CD54347E9821B5.quest_desc: ["Depois de criar seu primeiro Modelo de Dados, você precisará subi-lo de nível para torná-lo útil.\\n\\nOs Modelos de Dados começam no primeiro nível: &7Defeituoso&r. Você precisará subi-lo de nível pelo menos para &aBásico&r se quiser executar simulações neles!\\n\\nApós colocá-lo dentro do Aprendiz Profundo, a interface mostrará quantas mortes são necessárias para subi-lo de nível. Você também poderá ver essas informações na dica do próprio Modelo."]
@@ -17,7 +17,7 @@
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "A Interface de Aprendizado"
 	quest.3E3CBDCEAB0FF28F.title: "&aAprendendo sobre Criaturas"
 	quest.3F3F3174BD9D03BD.quest_desc: [
-		"O &dCentro de &5Dados&r é um multibloco 7x7x7 que combina as funcionalidades da &dCâmara de Simulação&r e do &5Fabricante de Saques&r de uma forma única.\\n\\nEle é capaz de lidar com 25 &6Modelos de Dados &bAutoconscientes&r simultaneamente, com os mesmos efeitos das simulações de &2&lInferência&r, com a seguinte diferença:\\n\\nEm vez de produzir Previsões de Criatura, o &dCentro de &5Dados&r produz saques diretamente, com os mesmos modos possíveis do &5Fabricante de Saques&r."
+		"O &dCentro de &5Dados&r é um multibloco 7x7x7 que combina as funcionalidades da &dCâmara de Simulação&r e do &5Fabricador de Saques&r de uma forma única.\\n\\nEle é capaz de lidar com 25 &6Modelos de Dados &bAutoconscientes&r simultaneamente, com os mesmos efeitos das simulações de &2&lInferência&r, com a seguinte diferença:\\n\\nEm vez de produzir Previsões de Criatura, o &dCentro de &5Dados&r produz saques diretamente, com os mesmos modos possíveis do &5Fabricador de Saques&r."
 		"{@pagebreak}"
 		"Para construir o multibloco, o chão (primeira camada) deverá ser feito de Obsidiana (verifique a tarefa Obsidianas para ver quais formas de Obsidiana o &dCentro de &5Dados&r aceita).\\n\\nAs paredes e o teto do multibloco deverão ser feitos de Vidro Preto. O controlador poderá substituir um bloco da parede inferior, e Portas de E/S poderão substituir o Vidro Preto."
 		"{image:atm:textures/questpics/hnn/datacenterintheend.png width:100 height:100 align:center}"
@@ -30,7 +30,7 @@
 	quest.58C2ABED43B2EA61.title: "&9Modelando Criaturas"
 	quest.5A23107C363A209E.quest_subtitle: "Cria vários materiais do End"
 	task.15D2A03410859443.title: "TodosOsDireitosReservados"
-	task.5392CADA51B80879.title: "Vidro Tingido de Preto"
+	task.5392CADA51B80879.title: "Vidro Preto"
 	task.6B580F95A2E5A465.title: "TodosOsDireitosReservados"
 	task.6B84DAA99028ACEA.title: "Obsidianas"
 	task.7F17E48ACE65C84E.title: "Modelos de Dados"

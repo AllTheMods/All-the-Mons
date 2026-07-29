@@ -29,8 +29,8 @@
 	quest.18C0EF38430C3E67.quest_subtitle: "A Era Digital"
 	quest.1A84DF4478D55C41.quest_subtitle: "Igual ao do vapor"
 	quest.1A84DF4478D55C41.title: "&5Cortador de Fios Elétrico"
-	quest.1B4CD5AC8F6C3307.quest_desc: ["O &#4497DBMódulo Overdrive&r mantém a eficiência da máquina mesmo quando a receita não está em execução. Em troca, ele bloqueia a máquina para essa receita."]
-	quest.1B4CD5AC8F6C3307.title: "&5Módulo Overdrive"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["O &#4497DBMódulo Saturador&r mantém a eficiência da máquina mesmo quando a receita não está em execução. Em troca, ele bloqueia a máquina para essa receita."]
+	quest.1B4CD5AC8F6C3307.title: "&5Módulo Saturador"
 	quest.1E0EF28175A7424F.quest_desc: ["Já que você já está produzindo vapor, por que não usá-lo para gerar eletricidade? Simplesmente coloque uma &#6363DBTurbina&r, insira &7vapor&r e retire &#DBDB63eletricidade&r."]
 	quest.1E0EF28175A7424F.quest_subtitle: "Vapor -> Eletricidade"
 	quest.1E0EF28175A7424F.title: "&5Turbina a Vapor"
@@ -94,7 +94,7 @@
 	quest.5A62260FB3850092.quest_desc: ["Misturar &eEnxofre&r, &#6ACDE6Oxigênio&r e &9Água&r resultará em &#D3D955Ácido Sulfúrico&r. Isso será usado para processar &7Pó de Manganês&r."]
 	quest.5AA8D2A1F3618615.quest_subtitle: "Movendo eletricidade"
 	quest.5AA8D2A1F3618615.title: "&fTransferência de Eletricidade"
-	quest.5B50AC47957F0CD7.quest_desc: ["A &7Plataforma de Perfuração de Petróleo&r vai extrair para você &#7A7A7APetróleo de Folhelho&r e &#918686Petróleo Bruto&r."]
+	quest.5B50AC47957F0CD7.quest_desc: ["A &7Plataforma de Perfuração de Petróleo&r vai extrair para você &#7A7A7APetróleo de Xisto&r e &#918686Petróleo Bruto&r."]
 	quest.5B50AC47957F0CD7.quest_subtitle: "Ruídos de Águia"
 	quest.5D404ED40C6C2690.quest_subtitle: "Forneça mais energia"
 	quest.604C003EE6B1CC6B.quest_subtitle: "Igual ao do vapor"
@@ -108,7 +108,7 @@
 	]
 	quest.6256612D46C88C0C.quest_subtitle: "\"A liberdade é um direito de todos os seres conscientes.\""
 	quest.6256612D46C88C0C.title: "&5Transformadores &eLV&f &5para &eMV"
-	quest.6647A9652EFDDCDF.quest_desc: ["Para resfriar a &#ADF0EEBarra Quente de Aço Inoxidável&r, basta colocá-lo em um &#56E3DFFreezer à Vácuo&r para transformá-lo em &#ADF0EEBarra de Aço Inoxidável&r utilizável."]
+	quest.6647A9652EFDDCDF.quest_desc: ["Para resfriar a &#ADF0EEBarra Quente de Aço Inoxidável&r, basta colocá-lo em um &#56E3DFFreezer à Vácuo&r para transformá-lo em &#ADF0EELingote de Aço Inoxidável&r utilizável."]
 	quest.66D4256F79D5B30B.quest_subtitle: "Igual ao do vapor"
 	quest.66D4256F79D5B30B.title: "&5Fornalha Elétrica"
 	quest.6A25ED4059E224D2.quest_desc: [

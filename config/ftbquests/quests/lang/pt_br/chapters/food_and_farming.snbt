@@ -1,12 +1,12 @@
 {
-	quest.04D0543FE2820F64.quest_desc: ["A Linha de Linho pode ser usada no lugar da Linha normal."]
+	quest.04D0543FE2820F64.quest_desc: ["O Fio de Linho pode ser usado no lugar da Linha normal."]
 	quest.04D0543FE2820F64.quest_subtitle: "Quem precisa de Aranhas, afinal?"
-	quest.04D0543FE2820F64.title: "Linha de Linho"
+	quest.04D0543FE2820F64.title: "Fio de Linho"
 	quest.0893EFCAC7031FEA.quest_desc: ["Hora de fazer um bolo, se você tiver leite e ovos prontos."]
 	quest.0893EFCAC7031FEA.quest_subtitle: "Tenha seu Bolo e Coma-o Também"
 	quest.0A1C2A7A8617D3E4.quest_subtitle: "Speedrunners Amam Isso"
 	quest.0A1C2A7A8617D3E4.title: "Trigo"
-	quest.0A64D0937A5F7513.title: "Vara de Pescar de Ouro"
+	quest.0A64D0937A5F7513.title: "Vara de Pesca Dourada"
 	quest.0EFF1AA37772156B.quest_desc: ["Este bloco fornece água para a cozinha multi-bloco.\\n\\nEle também pode fornecer água infinita bombeando água para fora através de cabos ou canos."]
 	quest.0EFF1AA37772156B.quest_subtitle: "1 Bloco resolve o problema!"
 	quest.0EFF1AA37772156B.title: "A Pia = Água Infinita"
@@ -17,7 +17,7 @@
 	quest.1515B32545F51266.title: "Melhoria de Aquecimento"
 	quest.1697CC05D08B388D.quest_subtitle: "Delicioso Frango Frito!"
 	quest.1697CC05D08B388D.title: "As Galinhas Devem Partir"
-	quest.16D0F1E3CEB60ABF.title: "Vara de Pescar de Ferro"
+	quest.16D0F1E3CEB60ABF.title: "Vara de Pesca de Ferro"
 	quest.1827DEEA2DF1B144.quest_desc: ["Bem-vindo ao capítulo de Food and Farming!\\n\\nAqui, você encontrará diferentes maneiras de cultivar e fazer comida!"]
 	quest.1827DEEA2DF1B144.title: "Food and Farming"
 	quest.18EADBAFC932F864.quest_desc: ["Para tosquiar Ovelhas você precisa de Tesouras, você não conseguiria Lã de outra forma... certo?"]
@@ -71,7 +71,7 @@
 	quest.58D5BD3106BFD94A.quest_desc: ["Crie a próxima versão do livro. Eu prometo, vale a pena.\\n\\nEu até te devolvo um Diamante."]
 	quest.58D5BD3106BFD94A.quest_subtitle: "Isso vale totalmente a pena"
 	quest.58D5BD3106BFD94A.title: "Cozinhando com o poder dos Diamantes"
-	quest.5A1DCD6C7F712A78.title: "Vara de Pesca de Neptunium"
+	quest.5A1DCD6C7F712A78.title: "Vara de Pesca de Netúnio"
 	quest.635620A03E3505BF.quest_desc: ["Eu não quero saber como você conseguiu isso."]
 	quest.635620A03E3505BF.quest_subtitle: "Mas... Vacas não podem ser tosquiadas..."
 	quest.635620A03E3505BF.title: "Couro"

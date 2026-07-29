@@ -2,7 +2,7 @@
 	quest.07016F654CFFAA20.quest_desc: [
 		"Se quiser uma surpresa sobre qual &6Fóssil&r dá o quê, não vire a página!"
 		"{@pagebreak}"
-		"&eFóssil de Hélice&r - &6Oma&bnyte&r \\n&eFóssil de Cúpula&r - &6Kab&buto&r \\n&6Fóssil de Âmbar Antigo&r - &6Aero&9dactyl&r \\n&aFóssil de Raiz&r - &6Lil&2eep&r \\n&aFóssil de Garra&r - &6Ano&arith&r \\n&cFóssil de Crânio&r - &6Cranidos&r \\n&cFóssil de Armadura&r - &6Shiel&7don&r \\n&5Fóssil de Carapaça&r - &9Tirt&6ouga&r \\n&5Fóssil de Pluma&r - &6Arc&9hen&r \\n&7Fóssil de Mandíbula&r - &6Tyr&9unt&r \\n&3Fóssil de Vela&r - &6Ama&bura&r "
+		"&eFóssil Espiral&r - &6Oma&bnyte&r \\n&eFóssil Cúpula&r - &6Kab&buto&r \\n&6Fóssil Âmbar Velho&r - &6Aero&9dactyl&r \\n&aFóssil Raiz&r - &6Lil&2eep&r \\n&aFóssil Garra&r - &6Ano&arith&r \\n&cFóssil Crânio&r - &6Cranidos&r \\n&cFóssil Armadura&r - &6Shiel&7don&r \\n&5Fóssil Casca&r - &9Tirt&6ouga&r \\n&5Fóssil Pluma&r - &6Arc&9hen&r \\n&7Fóssil Mandíbula&r - &6Tyr&9unt&r \\n&3Fóssil Vela&r - &6Ama&bura&r "
 		"{@pagebreak}"
 		"Os últimos 4 &6Fósseis&r funcionam de forma diferente. Você precisará combinar 2 destes &6Fósseis&r para obter 1 &cPokémon&r. \\n\\n&6Pássaro&r + &aDragão&r = &eDraco&9zolt&r \\n&6Pássaro&r + &5Dino&r = &eArcto&bzolt&r \\n&bPeixe&r + &aDragão&r = &bDraco&9vish&r \\n&bPeixe&r + &5Dino&r = &bArctovish&r"
 	]
@@ -39,7 +39,7 @@
 	quest.24DB1F587DB99074.quest_desc: [
 		"A multiespruitura de Ressurreição de Fóssil precisa de 3 blocos: o Analisador de Fóssil, o Monitor de Dados e o Tanque de Restauração. Posicione-os conforme este design."
 		"{image:atm:textures/questpics/pokemon/find_fossil.png width:100 height:100 align:center} "
-		"Antes de começarmos a restaurar ou ressuscitar, precisaremos de combustível! Ele vem na forma de várias &2plantações&f e itens semelhantes a &2plantas&r. \\n\\nItens de comida como frutas, filés e bolos. Líquidos como mel ou ensopado suspeito. Até itens não comestíveis como mudas, flores e folhas! \\n\\nQuando o tanque estiver cheio, poderemos colocar nosso &6Fóssil&r no Analisador de Fóssil. Se estiver usando alguns dos &6Fósseis&r especiais, você precisará colocar 2 &6Pokémon&c fossilizados exclusivos nele. \\n\\nAo começar, a tela brilhará, o analisador disparará lasers vermelhos e o tanque soltará bolhas. \\n\\nFinalmente, quando tudo terminar, o &6Fóssil&r se tornará um &cPokémon&r totalmente restaurado no tanque. Use uma &cPokebola&r no tanque para capturar o &cPokémon&r automaticamente."
+		"Antes de começarmos a restaurar ou ressuscitar, precisaremos de combustível! Ele vem na forma de várias &2plantações&f e itens semelhantes a &2plantas&r. \\n\\nItens de comida como frutas, filés e bolos. Líquidos como mel ou ensopado suspeito. Até itens não comestíveis como mudas, flores e folhas! \\n\\nQuando o tanque estiver cheio, poderemos colocar nosso &6Fóssil&r no Analisador de Fóssil. Se estiver usando alguns dos &6Fósseis&r especiais, você precisará colocar 2 &cPokémon&r &6fossilizados&r exclusivos nele. \\n\\nAo começar, a tela brilhará, o analisador disparará lasers vermelhos e o tanque soltará bolhas. \\n\\nFinalmente, quando tudo terminar, o &6Fóssil&r se tornará um &cPokémon&r totalmente restaurado no tanque. Use uma &cPokebola&r no tanque para capturar o &cPokémon&r automaticamente."
 	]
 	quest.24DB1F587DB99074.title: "Ressurreição de Fóssil"
 	quest.25498A20F05FB703.quest_desc: ["Se um Aldeão estiver desempregado (e não for um &2Palerma&r!), você poderá colocar um bloco de profissão para que ele comece a trabalhar. \\n\\nO bloco determina a profissão; precisamos de um Barril para um &bPescador&r. \\nContinue negociando com ele para que ganhe experiência. Ao atingir o nível máximo, todas as trocas serão desbloqueadas. Precisamos de um &bMestre Pescador&r para obter o... \\n\\n&bModelo de Melhoria de PokéVara&r."]
@@ -75,7 +75,7 @@
 	]
 	quest.397E11CDCB8B4DC4.title: "Lago Congelado Pré-histórico"
 	quest.3A7120AD61BC6D74.quest_desc: ["Esta missão foi criada pela &6equipe do AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos pacotes de mods AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta missão não pode ser usada em pacotes públicos não lançados pela &6equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está oculta intencionalmente; se você está vendo isso, está no modo de edição."]
-	quest.3B5578F000D6AD9E.quest_desc: ["Combine qualquer vara de pesca com o &bModelo de Melhoria de PokéVara&r e uma &cPoke&rbola para fabricar uma &cPoké&rVara! \\n\\nA &cPoké&rbola usada apenas alterará a aparência da &cPoké&rVara; não use uma cara para isso. \\n\\nA minha favorita é a da &dBola de Cura&r!"]
+	quest.3B5578F000D6AD9E.quest_desc: ["Combine qualquer vara de pesca com o &bModelo de Melhoria de PokéVara&r e uma &cPoke&rbola para fabricar uma &cPoké&rVara! \\n\\nA &cPoké&rbola usada apenas alterará a aparência da &cPoké&rVara; não use uma cara para isso. \\n\\nA minha favorita é a da &dBola Cura&r!"]
 	quest.3B5578F000D6AD9E.title: "Fabricando uma &cPoké&rVara"
 	quest.3E822975A8A66EBD.quest_desc: [
 		"Poços de barro surgem em selvas, e ainda bem que não são areia movediça! \\n\\nO &7Cascalho Suspeito&r está localizado abaixo do &8Barro&r."

@@ -28,7 +28,7 @@
 	quest.66ECC26BC81D0093.title: "Tier: &bBásico"
 	quest.6754612E9AD4B9C0.title: "Reator (Ardente)"
 	quest.677365A816994C8B.quest_desc: [
-		"O &9Transmissor de Jogador&r carregará os itens de um jogador sem fio. Você deve primeiro vinculá-lo a um jogador usando um &9Cartão de Vinculação&r. Este é o cartão básico que permite que o transmissor funcione apenas na mesma dimensão. Você pode atualizá-lo usando um &dCartão de Vinculação (Dimensional)&r em vez disso."
+		"O &9Transmissor de Jogador&r carregará os itens de um jogador sem fio. Você deve primeiro vinculá-lo a um jogador usando um &9Cartão de Ligação&r. Este é o cartão básico que permite que o transmissor funcione apenas na mesma dimensão. Você pode atualizá-lo usando um &dCartão de Ligação (Dimensional)&r em vez disso."
 		""
 		"Nota: Para obter uma Pérola Aérea de Jogador, use uma Pérola Aérea em um Zumbi ou Casca."
 	]
@@ -40,7 +40,7 @@
 	quest.78202A1CF5D86B94.quest_desc: ["O &9Banco de Energia&r do Powah.\\n\\nEstes também podem ser usados para aumentar a capacidade total de armazenamento de energia de suas &7Redes Ender&r sem fio."]
 	quest.7D52DD751DDADA1B.quest_desc: ["Os cabos básicos para transferir energia."]
 	quest.7D7983F39E6E818D.title: "Nível: &9Niotic"
-	quest.7E92ED270C67FDE5.quest_desc: ["Quase todas as máquinas que você pode fazer no mod exigirão uma &9Carcaça Dielétrica&r.\\n\\nVocê precisará fazer a &bPasta&r primeiro, bem como algumas &aVaras&r para progredir!"]
+	quest.7E92ED270C67FDE5.quest_desc: ["Quase todas as máquinas que você pode fazer no mod exigirão uma &9Invólucro Dielétrico&r.\\n\\nVocê precisará fazer a &bPasta&r primeiro, bem como algumas &aVaras&r para progredir!"]
 	quest.7E92ED270C67FDE5.title: "Começando com Materiais Dielétricos"
 	task.09C7E50E7E13C53C.title: "TodosOsDireitosReservados"
 	task.17F07D6404668DE6.title: "Favo de Estanho"

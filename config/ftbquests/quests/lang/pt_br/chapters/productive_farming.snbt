@@ -28,7 +28,7 @@
 	quest.2DB404AA2832F81D.title: "&9Cardo-Marítimo"
 	quest.2F1B74D45E50A079.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_lobelia.png width:100 height:150 align:center}"]
 	quest.2F1B74D45E50A079.quest_subtitle: "Ultramarina"
-	quest.2F1B74D45E50A079.title: "&9Lobélia-Grande"
+	quest.2F1B74D45E50A079.title: "&9Lobélia-Azul"
 	quest.3111C0CA63A82E7A.quest_desc: ["O Milho Jade azul é feito com Milho Dentado amarelo e Centáureas. \\n\\nEntão é por isso que elas têm a palavra 'milho' (corn) no nome original!"]
 	quest.33C3C334981AF72E.quest_desc: ["Tomates-Cereja e a sua segunda evolução (eu já não fiz essa piada?) o Tomate-Pera de Chocolate podem se combinar em um Tomate-Pera amarelo. \\n\\nDe onde veio o amarelo? Ou a Pera, novamente?"]
 	quest.383EDBE9AAAF4C99.quest_subtitle: "Linha de Microfone"
@@ -71,7 +71,7 @@
 	quest.5E4DE1FFA8A45C6D.title: "&dFLORES"
 	quest.60521AAE8BAA32C5.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_hydrangea.png width:100 height:150 align:center}"]
 	quest.60521AAE8BAA32C5.quest_subtitle: "rosa"
-	quest.60521AAE8BAA32C5.title: "&dHortênsia"
+	quest.60521AAE8BAA32C5.title: "&dHidrângea"
 	quest.6479A38086A43E49.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_zinnia.png width:100 height:150 align:center}"]
 	quest.6479A38086A43E49.quest_subtitle: "Âmbar"
 	quest.6479A38086A43E49.title: "&eZínia"
@@ -83,13 +83,13 @@
 	quest.6AF7427DCA9D66D2.title: "&0Dália"
 	quest.6C31A50068FBA0EE.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_bearded.png width:100 height:150 align:center}"]
 	quest.6C31A50068FBA0EE.quest_subtitle: "Cinza"
-	quest.6C31A50068FBA0EE.title: "&8Íris-Barbuda Preta"
+	quest.6C31A50068FBA0EE.title: "&8Íris Barbada Preta"
 	quest.7264CC40170E461A.quest_desc: ["Ao combinar o Tomate Roma com sua segunda evolução, o Tomate Caqui, obtemos o Tomate Beauty preto. \\n\\nNo entanto, ele tem a chance de virar outros 2 Tomates."]
 	quest.739C0DB291B1563C.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_valerian.png width:100 height:150 align:center}"]
 	quest.739C0DB291B1563C.quest_subtitle: "branca"
 	quest.7514CF65A077985E.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_himalayan.png width:100 height:150 align:center}"]
 	quest.7514CF65A077985E.quest_subtitle: "azul-clara"
-	quest.7514CF65A077985E.title: "&bPapoula do Himalaia"
+	quest.7514CF65A077985E.title: "&bPapoila-Himalaia"
 	quest.7EF3DB8B5258FA34.quest_desc: ["{image:atm:textures/questpics/pro_farming/farm_motherwort.png width:100 height:150 align:center}"]
 	quest.7EF3DB8B5258FA34.quest_subtitle: "Pêssego"
 	quest.7EF3DB8B5258FA34.title: "&6Agripalma"

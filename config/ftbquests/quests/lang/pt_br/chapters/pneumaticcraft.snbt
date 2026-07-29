@@ -8,7 +8,7 @@
 	quest.002163B909070CF8.quest_subtitle: "Máx: 1"
 	quest.00D7BCC68D971A53.quest_desc: ["Criaturas vivas próximas serão rastreadas automaticamente, mesmo através de paredes. Se for um mob agressivo, você receberá um aviso quando ele o alvejar."]
 	quest.00D7BCC68D971A53.quest_subtitle: "Máx: 1"
-	quest.02643BAD1AE747C6.quest_desc: ["O &3Compressor de Líquido Avançado&r funciona da mesma forma que o Compressor de Líquido, só que muito melhor!"]
+	quest.02643BAD1AE747C6.quest_desc: ["O &3Compressor de Líquidos Avançado&r funciona da mesma forma que o Compressor de Líquidos, só que muito melhor!"]
 	quest.04BE9F63E6003475.quest_desc: ["O &3GLP&r pode ser usado para fazer Plástico Derretido."]
 	quest.04BE9F63E6003475.quest_subtitle: "O que precisamos"
 	quest.04BE9F63E6003475.title: "GLP"
@@ -46,12 +46,12 @@
 	]
 	quest.0F49E9167B5E97C9.quest_desc: ["Qualquer dano que você sofrer ao cair (ignorando a armadura) também será causado a mobs próximos."]
 	quest.0F49E9167B5E97C9.quest_subtitle: "Máx: 1"
-	quest.0FF050EC1EA6EAED.quest_desc: ["O &3Funil de Líquido&r é um Funil, mas para líquidos. Não é um substituto para canos."]
+	quest.0FF050EC1EA6EAED.quest_desc: ["O &3Funil de Líquidos&r é um Funil, mas para líquidos. Não é um substituto para canos."]
 	quest.0FF050EC1EA6EAED.quest_subtitle: "Quem precisa de canos?"
 	quest.122EDEC12C9A05D2.quest_desc: ["Eu esqueci de mencionar que tudo pode explodir? ...\\n\\nFelizmente, há uma solução fácil! A &3Melhoria de Segurança&r, quando colocada em uma máquina, garante que elas não explodam, coloque-as em todas as máquinas que puderem recebê-las."]
 	quest.122EDEC12C9A05D2.quest_subtitle: "Se ao menos houvesse uma Solução fácil..."
 	quest.122EDEC12C9A05D2.title: "Prevenindo Explosões?"
-	quest.132DF9ECEFFB3B71.quest_desc: ["O &3Cartão de Expansão de Módulo&r torna o Módulo de Carregamento ainda melhor."]
+	quest.132DF9ECEFFB3B71.quest_desc: ["O &3Cartão de Expansão de Módulo&r torna o Módulo de Carga ainda melhor."]
 	quest.13F68CA518CD287C.quest_desc: ["&3Diesel&r pode ser usado para fazer mais Querosene ou para fazer Lubrificante."]
 	quest.13F68CA518CD287C.quest_subtitle: "Pobre Sel"
 	quest.13F68CA518CD287C.title: "Diesel"
@@ -70,20 +70,20 @@
 		"{image:atm:textures/questpics/pneumaticcraft/crop_support.png width:200 height:100 align:center}"
 	]
 	quest.21624A6500545C42.quest_subtitle: "Cultivos Mais Rápidos"
-	quest.22572456571C3F8D.quest_desc: ["O &3Módulo de Carregamento&r despressuriza qualquer coisa pressurizável em recipientes para os quais ele aponta."]
+	quest.22572456571C3F8D.quest_desc: ["O &3Módulo de Carga&r despressuriza qualquer coisa pressurizável em recipientes para os quais ele aponta."]
 	quest.230463E830D6FFEB.quest_desc: ["Agora que temos plástico, o próximo passo é obter alguns PCBs finalizados, primeiro faça alguns &3PCBs Vazios&r na Pressure Chamber."]
 	quest.230463E830D6FFEB.quest_subtitle: "O caminho para os PCBs"
 	quest.2338E5269CA23C91.quest_desc: ["A &3Netherite Drill Bit&r é a melhor ponta de broca, é ainda melhor que a Ponta de Broca de Diamante."]
 	quest.2338E5269CA23C91.quest_subtitle: "Esta é a Melhor Ponta"
-	quest.23737103592776C2.quest_desc: ["A &3Lâmpada de Querosene&r é uma ótima fonte de luz que usa combustível (sendo o Querosene o melhor) para produzir luz."]
+	quest.23737103592776C2.quest_desc: ["O &3Lampião a Querosene&r é uma ótima fonte de luz que usa combustível (sendo o Querosene o melhor) para produzir luz."]
 	quest.23737103592776C2.quest_subtitle: "Mega Tochas não são nada!"
 	quest.24042326B4632DD4.quest_desc: ["Para começar com a Logística, crie um &3Núcleo de Logística&r, recomendo ler o Manual do PNC:R para um tutorial completo sobre como usar esses itens."]
 	quest.24042326B4632DD4.quest_subtitle: "Transportando Itens/Fluidos"
 	quest.24042326B4632DD4.title: "Logística"
 	quest.26BEA64C80ECE1A6.quest_desc: ["Cada &3Estrutura Logística (Logistic Frame)&r pode ser usada para diferentes tipos de automação."]
-	quest.2745297337E13E9E.quest_desc: ["O &3Advanced Air Compressor&r funciona da mesma forma que o Air Compressor, só que muito melhor!"]
+	quest.2745297337E13E9E.quest_desc: ["O &3Compressor de Ar Avançado&r funciona da mesma forma que o Compressor de Ar, só que muito melhor!"]
 	quest.2745297337E13E9E.quest_subtitle: "Não há mais necessidade dos velhos e chatos Compressores de Ar!"
-	quest.2801B7B6BF61E978.quest_desc: ["O &3Querosene&r pode ser usado para fazer Gasolina ou como combustível em uma Lâmpada de Querosene."]
+	quest.2801B7B6BF61E978.quest_desc: ["O &3Querosene&r pode ser usado para fazer Gasolina ou como combustível em um Lampião a Querosene."]
 	quest.2801B7B6BF61E978.quest_subtitle: "Você já viu Quero-sene?"
 	quest.2801B7B6BF61E978.title: "Querosene"
 	quest.2AED15E3AC0346FE.quest_desc: [
@@ -126,7 +126,7 @@
 	quest.3334D15766A47A46.title: "Automatizando PCBs"
 	quest.36D72D759C4E8823.quest_desc: ["Talvez um pouco rápido demais, até."]
 	quest.36D72D759C4E8823.quest_subtitle: "Máx: 1"
-	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft é tudo sobre Pressão! Estas missões não abordarão tudo o que o mod tem, mas ainda abordarão muito! Por favor, lembre-se de verificar o JEI, ler as dicas de ferramentas e ler o PCB:R, todos eles são muito úteis.\\n\\nPara começar, você precisará criar alguns &3Barras de Ferro Comprimido&r! A maneira mais fácil de fazer isso é fazer um buraco no chão, jogar algumas Barras de Ferro (ou blocos) e depois explodi-lo com um pouco de TNT!\\n\\nAlguns podem se perder na explosão, mas é um risco que teremos que correr!"]
+	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft é tudo sobre Pressão! Estas missões não abordarão tudo o que o mod tem, mas ainda abordarão muito! Por favor, lembre-se de verificar o JEI, ler as dicas de ferramentas e ler o PCB:R, todos eles são muito úteis.\\n\\nPara começar, você precisará criar alguns &3Lingotes de Ferro Comprimido&r! A maneira mais fácil de fazer isso é fazer um buraco no chão, jogar alguns Lingotes de Ferro (ou blocos) e depois explodi-lo com um pouco de TNT!\\n\\nAlguns podem se perder na explosão, mas é um risco que teremos que correr!"]
 	quest.371A34B297C8A8EF.quest_subtitle: "O Poder do Ar"
 	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurized"
 	quest.39F142224D5210A9.quest_desc: ["&3Biodiesel&r pode ser usado para fazer &3Lubrificante&r e &3Plástico Derretido&r."]
@@ -142,7 +142,7 @@
 	quest.3CFE522A4B7CC2EC.quest_subtitle: "Melhor que seu Baú Comum"
 	quest.3D819550074CA376.quest_desc: ["O item precisará ser colocado aqui antes de ser pego novamente."]
 	quest.3D819550074CA376.quest_subtitle: "Sempre Necessário"
-	quest.3E16CF590C911129.quest_desc: ["O &3Air Compressor&r é uma maneira fácil de criar pressão, basta colocar alguns itens combustíveis nele e ver a mágica acontecer! (Recomendo fazer pelo menos 3 deles para começar)."]
+	quest.3E16CF590C911129.quest_desc: ["O &3Compressor de Ar&r é uma maneira fácil de criar pressão, basta colocar alguns itens combustíveis nele e ver a mágica acontecer! (Recomendo fazer pelo menos 3 deles para começar)."]
 	quest.3E16CF590C911129.quest_subtitle: "Sentindo a Pressão"
 	quest.3E16CF590C911129.title: "Gerando Pressão"
 	quest.3F9CCCFEF4E84166.quest_desc: ["Para aumentar sua produção de calor, coloque um &3Dissipador de Calor&r no lado frio do seu Tubo de Vórtice."]
@@ -160,11 +160,11 @@
 	quest.42951D14ADCD9332.quest_subtitle: "Quer um Fish & Chips?"
 	quest.42951D14ADCD9332.title: "Fish & Chips!"
 	quest.43CDC28DC56BB3E2.quest_subtitle: "128.000mb"
-	quest.43EF5513A1C52A37.quest_desc: ["A &3Thermopneumatic Processing Plant&r será usada para fazer Plástico Derretido, basta bombear um pouco de GLP, Carvão e um pouco de calor."]
+	quest.43EF5513A1C52A37.quest_desc: ["A &3Planta de Processamento Termopneumático&r será usada para fazer Plástico Derretido, basta bombear um pouco de GLP, Carvão e um pouco de calor."]
 	quest.43EF5513A1C52A37.quest_subtitle: "Quanto mais longo o nome, melhor"
 	quest.43EF5513A1C52A37.title: "Processamento Termopneumático"
 	quest.440B1E1D4951F808.quest_desc: [
-		"O &3Smart Chest&r é um Baú à prova de explosão com 72 slots, inclui um Hopper Omnidirecional embutido e totalmente configurável e possui slots de atualização. Não pode ser transformado em Baú Duplo. Também funciona como uma Shulker Box."
+		"O &3Baú Inteligente&r é um Baú à prova de explosão com 72 slots, inclui um Hopper Omnidirecional embutido e totalmente configurável e possui slots de atualização. Não pode ser transformado em Baú Duplo. Também funciona como uma Shulker Box."
 		"{image:atm:textures/questpics/pneumaticcraft/smart_chest_ui.png width:200 height:100 align:center}"
 	]
 	quest.440B1E1D4951F808.quest_subtitle: "O Nerd dos Baús"
@@ -194,13 +194,13 @@
 		"{image:pneumaticcraft:textures/patchouli/sentry_turret.png width:100 height:100 align:left fit:true}"
 	]
 	quest.4C0D00B5305117A1.quest_subtitle: "Pew Pew (Sem você)"
-	quest.4CA17B0A80020B2F.quest_desc: ["O &3Manômetro&r é usado para mostrar informações extras sobre uma máquina."]
+	quest.4CA17B0A80020B2F.quest_desc: ["O &3Medidor de Pressão&r é usado para mostrar informações extras sobre uma máquina."]
 	quest.4CA17B0A80020B2F.quest_subtitle: "Preciso de mais Informações!"
 	quest.4E1E31EDD544EE10.quest_subtitle: "64.000mb"
 	quest.4F5348D0C83C3B0D.quest_desc: ["&3Células Solares&r são usadas para fazer Compressores Solares."]
 	quest.4F5348D0C83C3B0D.quest_subtitle: "As Células do Sol"
 	quest.4F5348D0C83C3B0D.title: "Células Solares"
-	quest.4FCC20D9F8F87B2F.quest_desc: ["A &3Chave Pneumática&r é usada para mover ou quebrar suas máquinas e tubos."]
+	quest.4FCC20D9F8F87B2F.quest_desc: ["A &3Chave Inglesa Pneumática&r é usada para mover ou quebrar suas máquinas e tubos."]
 	quest.4FCC20D9F8F87B2F.quest_subtitle: "Torque-ando sobre Ferramentas!"
 	quest.5103C817381181DE.quest_desc: ["Permite que você use uma Élitros enquanto ainda tem seu Peitoral Pneumático equipado."]
 	quest.5103C817381181DE.quest_subtitle: "Máx: 1"
@@ -215,7 +215,7 @@
 	quest.5303509A1C2B1CCD.quest_subtitle: "Desculpe, Jack!"
 	quest.53518D4ED99A242F.quest_desc: ["O &3Aplicador de Camuflagem&r pode ser usado para esconder maquinário do PneumaticCraft dentro de outros blocos."]
 	quest.53518D4ED99A242F.quest_subtitle: "Quer deixar sua montagem legal?"
-	quest.54169B69725C49DF.quest_desc: ["Coloque seu Plástico Líquido no chão ou armazene um pouco em um Baú com uma Estrutura de Calor acoplada e aí está sua &3Folha de Plástico&r!"]
+	quest.54169B69725C49DF.quest_desc: ["Coloque seu Plástico Líquido no chão ou armazene um pouco em um Baú com uma Moldura de Calor acoplada e aí está sua &3Folha de Plástico&r!"]
 	quest.54169B69725C49DF.quest_subtitle: "Finalmente!"
 	quest.54169B69725C49DF.title: "&fPlástico"
 	quest.5A0860631323B5E3.quest_desc: ["Feito com &3Farinha de Trigo&r. Pode ser usado para fazer Tempura de Salmão e Pão de Fermentação Natural."]
@@ -239,7 +239,7 @@
 		"{image:pneumaticcraft:textures/patchouli/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
 	]
 	quest.5D7B34761E8FD212.title: "Pressão de Raios"
-	quest.5E71F8A046C60346.quest_desc: ["Quem lhe disse que PneumaticCraft não era sobre gerar energia?\\n\\nO &3Pneumatic Dynamo&r permite que você transforme sua pressão em FE. Leia a dica de ferramenta ou o livro PNC:R para aprender como funciona."]
+	quest.5E71F8A046C60346.quest_desc: ["Quem lhe disse que PneumaticCraft não era sobre gerar energia?\\n\\nO &3Dínamo Pneumático&r permite que você transforme sua pressão em FE. Leia a dica de ferramenta ou o livro PNC:R para aprender como funciona."]
 	quest.5E71F8A046C60346.quest_subtitle: "Pressão = Energia"
 	quest.5E71F8A046C60346.title: "Gerando Energia"
 	quest.602C3E88D96F8843.quest_desc: ["Coloque um PCB Vazio Carregado no Tanque de Gravação com um pouco de Ácido de Gravação e um pouco de calor e você obterá um &3PCB Não Montado&r."]
@@ -261,7 +261,7 @@
 	quest.64E2E05B228EA53E.quest_desc: ["Os &3Tubos de Pressão Avançados&r são os melhores Tubos de Pressão disponíveis, capazes de suportar 20 bars de pressão!\\n\\nApesar de serem muito legais por si só, eles também podem ser usados em algumas receitas ainda mais legais."]
 	quest.64E2E05B228EA53E.quest_subtitle: "Um Nível Totalmente Novo!"
 	quest.657DB994B029F61C.quest_desc: [
-		"Quando a &3Estrutura de Calor&r é colocada em um recipiente contendo certos fluidos e resfriada o suficiente, ela transformará os referidos fluidos em itens."
+		"Quando a &3Moldura de Calor&r é colocada em um recipiente contendo certos fluidos e resfriada o suficiente, ela transformará os referidos fluidos em itens."
 		""
 		"Transforma Plástico Derretido em Plástico."
 		"Transforma Água em Gelo."
@@ -340,7 +340,7 @@
 	quest.795143471F31A64A.quest_subtitle: "Necessário para receitas de Laser"
 	quest.7953C87C488A2AF7.quest_desc: ["Permite que você voe como o Homem de Ferro.\\n\\nVocê só pode ter um nível dessas Melhorias nas Botas de cada vez. Cada nível usará mais pressão que o anterior.\\n\\nUse essas melhorias, não apenas as crie."]
 	quest.7953C87C488A2AF7.quest_subtitle: "Máx: 1"
-	quest.7B2008977702D0C8.quest_desc: ["Ao criar pressão em um Air Compressor, se você não tiver para onde a pressão ir, ela simplesmente desaparecerá. Certifique-se de ter para onde a pressão ir antes de criar alguma."]
+	quest.7B2008977702D0C8.quest_desc: ["Ao criar pressão em um Compressor de Ar, se você não tiver para onde a pressão ir, ela simplesmente desaparecerá. Certifique-se de ter para onde a pressão ir antes de criar alguma."]
 	quest.7B2008977702D0C8.quest_subtitle: "O que aconteceu com RF ou FE?"
 	quest.7BFC24607189B6D0.quest_desc: ["Faz você nadar mais rápido."]
 	quest.7BFC24607189B6D0.quest_subtitle: "Máx: 1"
@@ -349,7 +349,7 @@
 	quest.7D6B4AEF806AF62E.quest_subtitle: "Máx: 1"
 	quest.7D81F2381516204D.quest_subtitle: "Necessário para PCBs Acabados"
 	quest.7D81F2381516204D.title: "Transistores"
-	quest.7FB12EC3A5888123.quest_desc: ["A &3Junção de Tubo&r lhe dá mais controle sobre o transporte de sua pressão, permitindo que você mova seus Tubos de Pressão em mais direções."]
+	quest.7FB12EC3A5888123.quest_desc: ["A &3Junção de Tubos&r lhe dá mais controle sobre o transporte de sua pressão, permitindo que você mova seus Tubos de Pressão em mais direções."]
 	quest.7FB12EC3A5888123.quest_subtitle: "Não, vá por aqui!"
 	task.0B54EDC9E21F2E77.title: "Estruturas de Logística"
 	task.13266875BDB5077D.title: "TodosOsDireitosReservados"

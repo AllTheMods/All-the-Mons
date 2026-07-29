@@ -1,6 +1,6 @@
 {
 	quest.008D186B4E0ED14F.quest_desc: [
-		"O Steam Oven é outra máquina que usa Vapor para algo útil.\\n\\nAo colocar Vapor no Steam Oven, ele agirá como uma fornalha para quaisquer itens dentro dele. Fazendo Barras de Minérios e cozinhando itens de comida.\\n\\nÉ uma máquina de 2x2x2 de blocos de Steam Oven."
+		"O Steam Oven é outra máquina que usa Vapor para algo útil.\\n\\nAo colocar Vapor no Steam Oven, ele agirá como uma fornalha para quaisquer itens dentro dele. Fazendo Lingotes de Minérios e cozinhando itens de comida.\\n\\nÉ uma máquina de 2x2x2 de blocos de Steam Oven."
 		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
 	]
 	quest.008D186B4E0ED14F.title: "Steam Oven"

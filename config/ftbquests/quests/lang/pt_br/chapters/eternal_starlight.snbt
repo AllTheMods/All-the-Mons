@@ -1,7 +1,7 @@
 {
 	quest.00453FF528AA0B1C.quest_desc: ["&7Esqueletos Lonestar&r são Mobs hostis que podem surgir em qualquer lugar. \\n\\nEles têm 10 &4Corações&r e arremessam sua Espada em você para atacar. \\n\\nAo morrer, podem derrubar Ossos, &7Pepitas de Prata Abissal&r e &7Espadas Estilhaçadas&r."]
 	quest.00453FF528AA0B1C.title: "&7Esqueletos Lonestar"
-	quest.00FDBA93722ACECE.title: "&4Enxada de Âmbaramarela"
+	quest.00FDBA93722ACECE.title: "&4Enxada Âmbaramarela"
 	quest.011FCC180FF3BD83.title: "&9Espada de Malarita"
 	quest.01F322AEFCC6109E.quest_desc: ["Crânio Emaranhado podem ser obtidos de... bem, Crânio Emaranhado. \\n\\nEles podem ser usados como projétil, como uma Cabeça de Wither arremessada por um Wither. \\n\\nMas serão consumidos quando você fizer isso."]
 	quest.02414CBEF2CD5A9D.title: "&7Espada de Prata Abissal"
@@ -18,18 +18,18 @@
 	]
 	quest.03B40AB768FC0161.title: "&3Rio Cintilante"
 	quest.0576C32B0FB360B0.quest_desc: [
-		"A &l&9Monstruosidade Lunar&r tem 200 &4Corações&r e só receberá 1 de dano por golpe, a menos que você use Fogo. \\n\\nEla tem alguns ataques, incluindo Espinhos do Chão, Projéteis e Cabeças Tangled Explosivas! \\n\\nQuando você a matar, ela derrubará Flechas, Lingotes, Crânio Emaranhado, &9Pétalas Tenazes&r, &5Vinhas Tenazes&r, &9Orvalho da Alma&r, e uma chance de uma Arma rara!"
+		"A &l&9Monstruosidade Lunar&r tem 200 &4Corações&r e só receberá 1 de dano por golpe, a menos que você use Fogo. \\n\\nEla tem alguns ataques, incluindo Espinhos do Chão, Projéteis e Cabeças Emaranhadas Explosivas! \\n\\nQuando você a matar, ela derrubará Flechas, Lingotes, Crânio Emaranhado, &9Pétalas Tenazes&r, &5Vinhas Tenazes&r, &9Orvalho da Alma&r, e uma chance de uma Arma rara!"
 		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
 	]
 	quest.0576C32B0FB360B0.title: "&9&lMonstruosidade Lunar"
 	quest.061C4A9E439CE09B.title: "&9Pá de Malarita"
 	quest.0688CE330DAF8714.title: "&cEnxada de Fogo Estelar"
 	quest.06D3EC025557855F.title: "&7Machado de Prata Abissal"
-	quest.0720474D384F4774.quest_desc: ["&eMarimolds&r são Cogumelos que crescem Debaixo d'Água. \\n\\nVocê pode encontrar versões grandes e pequenas deles. \\n\\nOs Blocos parecem uma mistura de &6Mel&r e &eLuzes de Cogumelo&r. "]
-	quest.0720474D384F4774.title: "&eMarimold"
+	quest.0720474D384F4774.quest_desc: ["&eMarimofos&r são Cogumelos que crescem Debaixo d'Água. \\n\\nVocê pode encontrar versões grandes e pequenas deles. \\n\\nOs Blocos parecem uma mistura de &6Mel&r e &eLuzes de Cogumelo&r. "]
+	quest.0720474D384F4774.title: "&eMarimofo"
 	quest.0854589F28AAA8D0.title: "&dEnxada de Diamante Estrelado"
 	quest.09981C89C585002E.title: "&bCapacete de Glacita"
-	quest.09C3C0F0278C842F.title: "&4Peitoral de Âmbaramarela"
+	quest.09C3C0F0278C842F.title: "&4Peitoral Âmbaramarelo"
 	quest.0BB8D556305EB307.quest_desc: [
 		"Rio de Éter é algo que você vai reconhecer quando vir. \\n\\nÉ brilhante, muito brilhante, e pode aparecer vermelho no seu Mapa, isso é um bug, ignore isso. "
 		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
@@ -48,13 +48,13 @@
 	quest.0F4783FA019C4567.title: "&4Âmbaramarelos"
 	quest.0F812AE4F247FF1C.title: "&bPeitoral de Glacita"
 	quest.0F8955B74DBDF5F9.title: "&cFoice de Fogo Estelar"
-	quest.0FE15701F2EDC3E9.quest_desc: ["Empilhando um &5Bloco de Golpe Etéreo&r com uma &5Fruta de Cacto Lunaris&r podemos fazer um &5Golem de Golpe Etéreo&r! \\n\\nEsse grandão tem uma função: impedir surgimentos de &5Creteor&r vindos de &5Chuvas de Meteoros&r. \\n\\nSe uma &5Chuva de Meteoros&r acontecer, ele vai derrubá-los antes mesmo que possam surgir! "]
-	quest.0FE15701F2EDC3E9.title: "&5Golem de Golpe Etéreo"
+	quest.0FE15701F2EDC3E9.quest_desc: ["Empilhando um &5Bloco de Golpe Etéreo&r com uma &5Fruta de Cacto Lunaris&r podemos fazer um &5Golem Golpe Etéreo&r! \\n\\nEsse grandão tem uma função: impedir surgimentos de &5Creteor&r vindos de &5Chuvas de Meteoros&r. \\n\\nSe uma &5Chuva de Meteoros&r acontecer, ele vai derrubá-los antes mesmo que possam surgir! "]
+	quest.0FE15701F2EDC3E9.title: "&5Golem Golpe Etéreo"
 	quest.10AB188AC6FB24D3.quest_desc: [
-		"O &b&lGolem de Starlight&r tem 220 &4Corações&r e 2 Modos. \\n\\nO 1º modo é o modo de ataque; aqui ele não pode ser ferido, então você terá que esperar os ataques dele terminarem antes de acertá-lo. Ele ataca com Bolas de Fogo, Pancada no Chão ou um devastador Raio Laser! \\n\\nO 2º modo é o modo de carregamento; neste ele começará a receber energia dos Blocos de Energia, que precisarão ser desligados para poder causar dano nele. \\n\\nAo morrer, ele derrubará muitos Lingotes e Flechas, &bAço de Golem&r, Enfeite de Armadura da Forja, e talvez até a Espada de Energia!"
+		"O &b&lGolem da Starlight&r tem 220 &4Corações&r e 2 Modos. \\n\\nO 1º modo é o modo de ataque; aqui ele não pode ser ferido, então você terá que esperar os ataques dele terminarem antes de acertá-lo. Ele ataca com Bolas de Fogo, Pancada no Chão ou um devastador Raio Laser! \\n\\nO 2º modo é o modo de carregamento; neste ele começará a receber energia dos Blocos de Energia, que precisarão ser desligados para poder causar dano nele. \\n\\nAo morrer, ele derrubará muitos Lingotes e Flechas, &bAço de Golem&r, Enfeite de Armadura da Forja, e talvez até a Espada de Energia!"
 		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
 	]
-	quest.10AB188AC6FB24D3.title: "&b&lGolem de Starlight"
+	quest.10AB188AC6FB24D3.title: "&b&lGolem da Starlight"
 	quest.10D78DC368E16987.title: "&aMachado de Fluído Vítreo"
 	quest.11783E5EF07481C3.title: "&aArco de Fluído Vítreo"
 	quest.127D085D6C9DB690.quest_desc: ["&eSalitra&r pode ser encontrado em qualquer lugar Subterrâneo, mas é muito comum no Bioma da &dCosta Quente&r. \\n\\nEle precisa de uma Picareta de Pedra para ser minerado e, quando minerado, derrubará um pouco de &ePó de Salitra&r. Sim, Fortuna funciona nele! \\n\\nO &ePó&r pode ser usado como substituto para outros Nitros."]
@@ -74,7 +74,7 @@
 	]
 	quest.17EC65B33AC5F0B4.title: "&8Andarilho Sedento"
 	quest.1815A439BA9879B7.quest_desc: [
-		"A &dCosta Quente&r é um Bioma bem sem graça e serve principalmente para conectar o &bMar Estelar&r à terra. \\n\\nEla tem &dAreia do Crepúsculo&r com Pedra abaixo dela. Também encontrei mais &eSalitra&r aqui do que o normal."
+		"A &dCosta Quente&r é um Bioma bem sem graça e serve principalmente para conectar o &bMar Estrelado&r à terra. \\n\\nEla tem &dAreia do Crepúsculo&r com Pedra abaixo dela. Também encontrei mais &eSalitra&r aqui do que o normal."
 		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
 	]
 	quest.1815A439BA9879B7.title: "&dCosta Quente"
@@ -111,11 +111,11 @@
 	quest.271A112ABDD923A6.quest_desc: ["Como Mangue normal, mas estes não são feios."]
 	quest.271A112ABDD923A6.title: "&9Árvores Banyin"
 	quest.27D8E62556F7CE8D.title: "&6Enxada de Pedra Primaveril Térmica"
-	quest.282AEEC832FFC8D7.title: "&4Machado de Âmbaramarela"
+	quest.282AEEC832FFC8D7.title: "&4Machado Âmbaramarelo"
 	quest.2872C4229702B077.title: "&bPicareta de Glacita"
 	quest.29283BF1B6ED3634.quest_desc: ["A &7Besta &3Mecânica&r é feita como uma Besta normal, só que com &bAço de Golem&r. \\n\\nEla funciona como uma Besta normal, só que muito mais forte! E pode ser encantada para fazer ainda mais!"]
 	quest.29283BF1B6ED3634.title: "&7Besta &3Mecânica"
-	quest.298963543B99734E.quest_desc: ["Os &bMares Estelares&r geram suas próprias versões de Coral! \\n\\nSó não seja como eu e esqueça Toque Suave para coletá-los..."]
+	quest.298963543B99734E.quest_desc: ["Os &bMares Estrelados&r geram suas próprias versões de Coral! \\n\\nSó não seja como eu e esqueça Toque Suave para coletá-los..."]
 	quest.298963543B99734E.title: "Blocos de Coral"
 	quest.29A1E1FF02BD9219.quest_desc: [
 		"Uma &3Floresta&r azul como o Oceano. \\n\\nA &3Floresta da Starlight&r é, de longe, o bioma mais comum na &9&lStarlight&r. \\n\\nEla tem dezenas de &3Árvores Lunares&r cobrindo tudo completamente, com muitos Mobs, passivos e hostis, abaixo delas."
@@ -133,18 +133,18 @@
 	quest.2DA8CE213AC3869B.quest_desc: ["&bCristais da Starlight&r podem ser encontrados por toda parte e até sob os &5Desertos Cristalizados&r. \\n\\nEles funcionam de forma parecida com a &5Ametista&r e até soam como ela!"]
 	quest.2DA8CE213AC3869B.title: "&bCristais da Starlight"
 	quest.2E29DC243E8AD61E.quest_desc: [
-		"&9Asas-de-renda Cintilantes&r não fazem nem derrubam nada; só adicionam atmosfera. \\n\\nElas também se parecem com o único inseto que eu tolero!"
+		"&9Crisopídeos Cintilantes&r não fazem nem derrubam nada; só adicionam atmosfera. \\n\\nElas também se parecem com o único inseto que eu tolero!"
 		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
 	]
-	quest.2E29DC243E8AD61E.title: "&9Asa-de-renda Cintilante"
+	quest.2E29DC243E8AD61E.title: "&9Crisopídeo Cintilante"
 	quest.2E9D3DA2DF3E3AC9.quest_desc: ["A &5Foice de Pétala&r aplica Veneno a tudo que atinge. \\n\\nO JEI diz que ela pode fazer Terra Arada, mas no jogo não faz... \\n\\nAo atingir &9Água&r, um monte de Partículas aparecerá. \\n\\nAcho que este Item ainda não está finalizado."]
 	quest.2E9D3DA2DF3E3AC9.title: "&5Foice de Pétala"
 	quest.2F3E7233129F2B89.quest_desc: [
 		"Funciona exatamente como um Peixe Luminária, só que estes têm um chifre na cabeça!"
 		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
 	]
-	quest.2F3E7233129F2B89.title: "Luminaris"
-	quest.306A5B38B52F65F3.title: "&4Picareta de Âmbaramarela"
+	quest.2F3E7233129F2B89.title: "Luminária"
+	quest.306A5B38B52F65F3.title: "&4Picareta Âmbaramarela"
 	quest.3124D945A54938C2.quest_desc: ["A Prata do Pântano costumava surgir nos &9Pântanos&r, mas foi promovida (ou rebaixada, não sei) a surgir em todo lugar, e agora no &9Pântano&r surgirá a Malarita. "]
 	quest.3124D945A54938C2.title: "&9Malarita"
 	quest.315F1CB8158DFB92.title: "&5Capuz de Golpe Etéreo"
@@ -159,10 +159,10 @@
 	quest.36BCCF7395658A5C.title: "Encontrando os Chefes"
 	quest.37355F60E45777FE.quest_desc: ["O &3Orbe da Profecia&r pode ser fabricado ou obtido ao derrotar o &7&lGuardião do Portal&r! \\n\\nSeu principal uso é ativar o Portal, mas haverá mais utilidades para ele!"]
 	quest.37355F60E45777FE.title: "&3Orbe da Profecia"
-	quest.373CA701008A9584.quest_desc: ["A &4Besta Murcha&r exige que tanto a &9&lMonstruosidade Lunar&r quanto o &b&lGolem de Starlight&r sejam mortos. \\n\\nA &4Besta Murcha&r é como uma Besta normal; só que cada Flecha aplicará Wither e Lentidão."]
+	quest.373CA701008A9584.quest_desc: ["A &4Besta Murcha&r exige que tanto a &9&lMonstruosidade Lunar&r quanto o &b&lGolem da Starlight&r sejam mortos. \\n\\nA &4Besta Murcha&r é como uma Besta normal; só que cada Flecha aplicará Wither e Lentidão."]
 	quest.373CA701008A9584.title: "&4Besta Murcha"
 	quest.375F0A098589CF29.quest_desc: [
-		"Usando seus Olhos Buscadores, você pode ficar confuso ao ver que eles de repente foram para o subsolo. Isso provavelmente acontece porque a &bForja do Golem&r fica bem no subsolo, tipo nos níveis Y negativos. \\n\\nHá muitas salas sinuosas, cada uma cheia de Saque, &cLava&f e &bFreezes&r! A sala que estamos procurando abriga o &b&lGolem de Starlight&r!"
+		"Usando seus Olhos Buscadores, você pode ficar confuso ao ver que eles de repente foram para o subsolo. Isso provavelmente acontece porque a &bForja do Golem&r fica bem no subsolo, tipo nos níveis Y negativos. \\n\\nHá muitas salas sinuosas, cada uma cheia de Saque, &cLava&f e &bFreezes&r! A sala que estamos procurando abriga o &b&lGolem da Starlight&r!"
 		"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
 	]
 	quest.375F0A098589CF29.title: "&bForja do Golem"
@@ -170,8 +170,8 @@
 	quest.378A7484CF999F03.title: "&dAlga Espiral"
 	quest.37E49A1A6BA0E28D.title: "&5Capa de Golpe Etéreo"
 	quest.38CF9E6E7490BD50.title: "&6Martelo de Pedra Primaveril Térmica"
-	quest.39796595B42BB41E.quest_desc: ["O &7Bumerangue de Energia&r é uma Arma única feita de &8Aço de Golem&r. \\n\\nPara usá-lo, basta Clicar com o Botão Direito. Isso o arremessará. \\n\\nComo qualquer outro Bumerangue, exceto os que eu joguei, ele voltará para você. Ele retorna após cerca de 10 Blocos ou se atingir um Bloco. \\n\\nSe atingir um Mob, causará Dano e colocará fogo nele."]
-	quest.39796595B42BB41E.title: "&7Bumerangue de Energia"
+	quest.39796595B42BB41E.quest_desc: ["O &7Boomerang de Energia&r é uma Arma única feita de &8Aço de Golem&r. \\n\\nPara usá-lo, basta Clicar com o Botão Direito. Isso o arremessará. \\n\\nComo qualquer outro Bumerangue, exceto os que eu joguei, ele voltará para você. Ele retorna após cerca de 10 Blocos ou se atingir um Bloco. \\n\\nSe atingir um Mob, causará Dano e colocará fogo nele."]
+	quest.39796595B42BB41E.title: "&7Boomerang de Energia"
 	quest.3991EEEFDD263A91.quest_desc: [
 		"&9Aranhas do Anoitecer&r, como os &7Esqueletos Lonestar&r, são hostis e surgem em qualquer lugar. \\n\\nElas têm 5 &4Corações&r e atacam te acertando. Depois de te atingir, vão te dar o efeito de Brilho por alguns segundos. \\n\\nAo morrer, derrubarão Linha e seus olhos!"
 		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
@@ -179,17 +179,17 @@
 	quest.3991EEEFDD263A91.title: "&9Aranhas do Anoitecer"
 	quest.3A33514BD62CD7D9.title: "&bMachado de Glacita"
 	quest.3A6C912577A615EE.title: "&dEspada de Diamante Estrelado"
-	quest.3AFEE53B4276F8CA.quest_desc: ["Finalmente, uma Ferramenta! \\n\\nO &3Escavador&r é uma Picareta. O truque dele é que, quanto mais baixo for seu Nível Y, mais rápido ele minera. \\n\\nMas como ele sabe o quão baixo está?"]
-	quest.3AFEE53B4276F8CA.title: "&3Escavador"
+	quest.3AFEE53B4276F8CA.quest_desc: ["Finalmente, uma Ferramenta! \\n\\nO &3Minerador Subterrâneo&r é uma Picareta. O truque dele é que, quanto mais baixo for seu Nível Y, mais rápido ele minera. \\n\\nMas como ele sabe o quão baixo está?"]
+	quest.3AFEE53B4276F8CA.title: "&3Minerador Subterrâneo"
 	quest.3BAF4078F5776809.title: "&6Peitoral de Pedra Primaveril Térmica"
 	quest.3C37018123D3653C.title: "&2Botas de Bolsa de Ar"
-	quest.3C74DAE7EC844A98.quest_desc: ["As &3Bagas Lunares&r são uma excelente Fonte de Comida, além de muito fáceis de obter! \\n\\nElas surgem crescendo para baixo a partir das &3Folhas da Árvore Lunar&r; você pode colher as &3Bagas&r das Vinhas como &eBagas Luminosas&r. \\nSó que estas dão muito mais Pontos de Comida e Saturação!"]
+	quest.3C74DAE7EC844A98.quest_desc: ["As &3Bagas Lunares&r são uma excelente Fonte de Comida, além de muito fáceis de obter! \\n\\nElas surgem crescendo para baixo a partir das &3Folhas da Árvore Lunar&r; você pode colher as &3Bagas&r das Vinhas como &eBagas Brilhantes&r. \\nSó que estas dão muito mais Pontos de Comida e Saturação!"]
 	quest.3C74DAE7EC844A98.title: "&3Bagas Lunares"
 	quest.3CAD0701EC16C2D8.quest_desc: [
-		"&9Pântanos Escuros&r cobrem o mundo da &9&lStarlight&r. \\n\\nAqui você pode encontrar muitas plantas, animais e, claro, Lama."
+		"&9Pântanos Sombrios&r cobrem o mundo da &9&lStarlight&r. \\n\\nAqui você pode encontrar muitas plantas, animais e, claro, Lama."
 		"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
 	]
-	quest.3CAD0701EC16C2D8.title: "&9Pântano Escuro"
+	quest.3CAD0701EC16C2D8.title: "&9Pântano Sombrio"
 	quest.3D26E7BFE0AA964A.quest_desc: [
 		"O Peixe Luminária é um peixe brilhante que vive em &5O Abismo&r.\\n\\nEles agem como Peixes normais. Você pode pescá-los, colocá-los em um Balde e até cozinhá-los!"
 		"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
@@ -199,7 +199,7 @@
 	quest.3D4032E7119AF8B7.title: "&5Bomba Sônica"
 	quest.3D7CEED6B974ED8C.title: "&5Botas de Golpe Etéreo"
 	quest.40786B63E2901D11.quest_desc: [
-		"Vamos ver como eu descrevo o &9Jardim Amaldiçoado&r... é um labirinto enorme pra caramba! \\n\\nHá entradas em cada lado e você precisa encontrar o caminho até o meio, onde está a &9&lMonstruosidade Lunar&r!\\n\\nPor todo o labirinto você pode encontrar baús cheios de Saque e &9Tangled&r!"
+		"Vamos ver como eu descrevo o &9Jardim Amaldiçoado&r... é um labirinto enorme pra caramba! \\n\\nHá entradas em cada lado e você precisa encontrar o caminho até o meio, onde está a &9&lMonstruosidade Lunar&r!\\n\\nPor todo o labirinto você pode encontrar baús cheios de Saque e &9Emaranhados&r!"
 		"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
 	]
 	quest.40786B63E2901D11.title: "&9Jardim Amaldiçoado"
@@ -231,11 +231,11 @@
 	quest.484ABFF266C8791E.quest_desc: ["&eOrbiflora&r são plantas que crescem no fundo do &bMar&r. \\n\\nPodem ser colhidas a qualquer momento, mas se você quiser as &eLuzes de Orbiflora&r, terá que esperar! \\n\\nQuando crescerem até o Nível do Mar, florescerão. Depois de florescerem, crescerá a &eLuz&r!"]
 	quest.484ABFF266C8791E.title: "&eOrbiflora"
 	quest.49D1EA8E812A12F6.quest_desc: ["É só uma plantinha legal. \\n\\nVocê vai precisar de uma Foice para coletá-la! \\n\\nNão sei por quê, nunca liguei para plantas, mas Juncos são legais para mim. Talvez seja por estarem perto da &9Água&r, ou porque Taboas parecem Cachorros-Quentes de Milho. Não sei, mas eu gosto deles."]
-	quest.49DC0BD7DC1B893C.quest_desc: ["&5O Abismo&r são trincheiras profundas dentro dos &bMares Estelares&r. Elas chegam até -50! \\n\\nElas têm várias camadas coloridas de Pedra revestindo-as e guardam muitos Blocos, Musgos e Peixes diferentes!"]
+	quest.49DC0BD7DC1B893C.quest_desc: ["&5O Abismo&r são trincheiras profundas dentro dos &bMares Estrelados&r. Elas chegam até -50! \\n\\nElas têm várias camadas coloridas de Pedra revestindo-as e guardam muitos Blocos, Musgos e Peixes diferentes!"]
 	quest.49DC0BD7DC1B893C.title: "&5O Abismo"
-	quest.4A54288FD22C903D.quest_desc: ["&2Velvetumoss&r surge em &5O Abismo&r. \\n\\nVocê pode minerar os verdes para obter &2Bolas de Velvetumoss&r, que podem ser comidas ou transformadas em uma &aBola de Slime&r! \\n\\nOs &4Vermelhos&r irão gerar plantas bonitas!"]
-	quest.4A54288FD22C903D.title: "&2Velvetumoss &fe versão &4Vermelha"
-	quest.4A5EA948F5DCEB73.quest_desc: ["&7Prata Abissal&r costumava se chamar Prata do Pântano e só surgia nos &9Pântanos Escuros&r. \\n\\nAgora é encontrado em todo lugar no subsolo... provavelmente foi por isso que mudaram o nome!"]
+	quest.4A54288FD22C903D.quest_desc: ["&2Velvetumusgo&r surge em &5O Abismo&r. \\n\\nVocê pode minerar os verdes para obter &2Bolas de Velvetumusgo&r, que podem ser comidas ou transformadas em uma &aBola de Slime&r! \\n\\nOs &4Vermelhos&r irão gerar plantas bonitas!"]
+	quest.4A54288FD22C903D.title: "&2Velvetumusgo &fe versão &4Vermelha"
+	quest.4A5EA948F5DCEB73.quest_desc: ["&7Prata Abissal&r costumava se chamar Prata do Pântano e só surgia nos &9Pântanos Sombrios&r. \\n\\nAgora é encontrado em todo lugar no subsolo... provavelmente foi por isso que mudaram o nome!"]
 	quest.4A5EA948F5DCEB73.title: "&7Prata Abissal"
 	quest.4B097031A3EE930B.title: "&bEnxada de Glacita"
 	quest.4B13835110F1FE82.title: "&7Foice de Prata Abissal"
@@ -282,17 +282,17 @@
 	quest.53149C516E544FE9.title: "&5Creteors"
 	quest.5424A0E1292B13EE.quest_desc: ["Pela &9&lStarlight&r você pode encontrar Lagos Quentes. \\n\\n(Eles não são um bioma nem uma estrutura, então você vai precisar apenas procurar para encontrá-los!) \\n\\nDentro deles você pode encontrar &6Pedra Primaveril Térmica&r."]
 	quest.5424A0E1292B13EE.title: "&6Pedra Primaveril Térmica"
-	quest.5466CB622A637DCD.quest_desc: ["Fruta Abissal tecnicamente pode surgir em qualquer corpo de &9Água&r, mas é a única que vive dentro dos &3Rios Cintilantes&r. \\n\\nEla cresce como &2Alga&r, do chão para cima, mas também funciona como &eBagas Luminosas&r, no sentido de que a Fruta cresce e pode ser coletada dela."]
+	quest.5466CB622A637DCD.quest_desc: ["Fruta Abissal tecnicamente pode surgir em qualquer corpo de &9Água&r, mas é a única que vive dentro dos &3Rios Cintilantes&r. \\n\\nEla cresce como &2Alga&r, do chão para cima, mas também funciona como &eBagas Brilhantes&r, no sentido de que a Fruta cresce e pode ser coletada dela."]
 	quest.54DE8AAAE2181F18.quest_desc: ["O &dMontante do Anel Lunar&r não precisa mais de Drops de ambos os Chefes; agora ele só precisa que você mate a &9&lMonstruosidade Lunar&r. \\n\\nEle funciona como uma Espada normal, só que antes da 1.9. Ele pode bloquear ataques como um escudo, mas não pode ser usado sem parar para causar dano total."]
 	quest.54DE8AAAE2181F18.title: "&dMontante do Anel Lunar"
 	quest.562B280928897E0D.title: "&dBotas de Diamante Estrelado"
-	quest.564F0343B1704CE8.title: "&cBesta de Fogo Estelar"
+	quest.564F0343B1704CE8.title: "&cBesta Estelar"
 	quest.5671D301C5264C7F.title: "&cPicareta de Fogo Estelar"
 	quest.59613CCE59689263.quest_desc: ["&2Peixe Torre&r são lulas fofas em formato de peça de xadrez que nadam pela &9&lStarlight&r. \\nEles têm 5 &4Corações&r e derrubarão a si mesmos e seus Sacos de Ar ao morrer."]
 	quest.59613CCE59689263.title: "&2Peixe Torre"
-	quest.5B737000D540ED48.title: "&4Foice de Âmbaramarela"
-	quest.5C11E99FF201C3F9.quest_desc: ["O &8Espadão de Aço de Golem&r é uma Arma muito divertida. \\n\\nPrimeiro, ele pode Bloquear. Basta Clicar com o Botão Direito para Bloquear. \\n\\nSegundo, &bBOLAS DE RAIO&r! Sempre que você Clicar com o Botão Esquerdo, 3 &bBolas de Raio&r serão disparadas da &8Espada&r. &bRaios&r se conectarão entre as 3 e causarão dano em tudo que tocarem. Elas também ricocheteiam em Blocos. \\n\\nAlém disso, é simplesmente uma ótima &8Espada&r de qualquer forma!"]
-	quest.5C11E99FF201C3F9.title: "&8Espadão de Aço de Golem"
+	quest.5B737000D540ED48.title: "&4Foice Âmbaramarela"
+	quest.5C11E99FF201C3F9.quest_desc: ["A &8Grande Espada de Aço de Golem&r é uma Arma muito divertida. \\n\\nPrimeiro, ele pode Bloquear. Basta Clicar com o Botão Direito para Bloquear. \\n\\nSegundo, &bBOLAS DE RAIO&r! Sempre que você Clicar com o Botão Esquerdo, 3 &bBolas de Raio&r serão disparadas da &8Espada&r. &bRaios&r se conectarão entre as 3 e causarão dano em tudo que tocarem. Elas também ricocheteiam em Blocos. \\n\\nAlém disso, é simplesmente uma ótima &8Espada&r de qualquer forma!"]
+	quest.5C11E99FF201C3F9.title: "&8Grande Espada de Aço de Golem"
 	quest.5D8E715CCB7ACCAC.title: "&dCalças de Diamante Estrelado"
 	quest.5DFE3CB5B0130A7A.quest_desc: ["Há muita vida vegetal sobre o &3Rio Cintilante&r, algumas nas quais você pode ficar em pé!"]
 	quest.5DFE3CB5B0130A7A.title: "Vida do rio"
@@ -303,19 +303,19 @@
 	]
 	quest.60FDCA2FDFE74056.title: "&dFloresta Escarlate"
 	quest.61E11E4C358898D6.title: "&dCapacete de Diamante Estrelado"
-	quest.62A11EEC976DA5C5.title: "&aRobe de Alquimista"
+	quest.62A11EEC976DA5C5.title: "&aManto de Alquimista"
 	quest.62B44B688D09C939.quest_desc: ["&aFluído Vítreo&r! \\n\\nAo Clicar com o Botão Direito com &cFogo Estelar&r na mão, você o arremessará. Isso pode afetar Mobs com &cFogo Estelar&r ou, se atingir Areia, transformará a Areia em &aFluído Vítreo Bruto&r. \\n\\nBasta Fundir o &aFluído Vítreo&r e poderemos usá-lo com o Molde de Aprimoramento para fazer Armas e Ferramentas."]
 	quest.62B44B688D09C939.title: "&aFluído Vítreo"
 	quest.62DA302CF53B7C39.title: "&6Botas de Pedra Primaveril Térmica"
-	quest.62F33BBE7BDFE404.quest_desc: ["&5Varinha de &bTeleportação&r é outro drop da &9Monstruosidade Lunar&r, e só dela! \\n\\nVocê pode segurar o Clique Direito com a Varinha para iniciá-la; então, quando soltar, ela te teleportará para o Bloco para o qual você estava olhando por último! \\n\\nHá um alcance, mas é bem grande. E há um tempo de recarga após o uso!"]
-	quest.62F33BBE7BDFE404.title: "&5Varinha de &7Teleportação"
+	quest.62F33BBE7BDFE404.quest_desc: ["&5Varinha de &bTeletransporte&r é outro drop da &9Monstruosidade Lunar&r, e só dela! \\n\\nVocê pode segurar o Clique Direito com a Varinha para iniciá-la; então, quando soltar, ela te teleportará para o Bloco para o qual você estava olhando por último! \\n\\nHá um alcance, mas é bem grande. E há um tempo de recarga após o uso!"]
+	quest.62F33BBE7BDFE404.title: "&5Varinha de &7Teletransporte"
 	quest.6314B892B569A0A5.quest_desc: ["A &9&lStarlight&r! \\n\\nUma Dimensão onde é constantemente &9Crepúsculo&r, e não, você não pode mudar isso. \\n\\nHá dezenas de Biomas, Mobs, Chefes e até Blocos para encontrar! Você consegue descobrir todos?"]
 	quest.6314B892B569A0A5.title: "&9&lStarlight Eterna"
 	quest.63362CC33B39C627.quest_desc: [
-		"Mares Estelares são enormes corpos d'Água situados confortavelmente entre as Costas Quentes e a terra. \\n\\nEles guardam muitas maravilhas dentro deles e crescendo neles! \\n\\nEspero que você tenha trazido seus óculos!"
+		"Mares Estrelados são enormes corpos d'Água situados confortavelmente entre as Costas Quentes e a terra. \\n\\nEles guardam muitas maravilhas dentro deles e crescendo neles! \\n\\nEspero que você tenha trazido seus óculos!"
 		"{image:atm:textures/questpics/eternal/starlight_starlitsea.png width:200 height:100 align:center}"
 	]
-	quest.63362CC33B39C627.title: "&bMar Estelar"
+	quest.63362CC33B39C627.title: "&bMar Estrelado"
 	quest.636848ED1115A0B3.quest_desc: [
 		"&8Ratlins&r são Mobs pacíficos que podem surgir na Superfície. \\n\\nAo morrer, derrubarão Carne de Ratlin, Couro e Musgo de Caverna. \\n\\nEste último pode ser usado para reproduzi-los!"
 		"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
@@ -328,17 +328,17 @@
 	quest.66DE7EF4AFCE4F7A.title: "&7Pá de Prata Abissal"
 	quest.687C51D915339086.title: "&aEscudo de Fluído Vítreo"
 	quest.68B2D3B985FC1378.quest_desc: [
-		"Uma Floresta brilhante e bela, cheia de &cÁrvores de Torreya&r e &eVinhas&r."
+		"Uma Floresta brilhante e bela, cheia de &cÁrvores de Torreya&r e &eTrepadeiras&r."
 		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
 	]
 	quest.68B2D3B985FC1378.title: "&cFloresta de Torreya"
 	quest.699C6DDE6B2D51C1.quest_desc: ["&2Árvores de Caule Tilintante&r crescem debaixo d'água... será que existe alguma Árvore assim na vida real? \\n\\nElas têm &2Folhas de Alga&r, em vez de Folhas normais."]
 	quest.699C6DDE6B2D51C1.title: "&2Árvores de Caule Tilintante&f?"
 	quest.6B00D5DBB3552F15.quest_desc: [
-		"&9Tangled&r são inimigos que surgem no &9Jardim Amaldiçoado&r. \\n\\nEles têm 10 &4Corações&r e atacam te acertando. Se você for atingido, receberá uma pequena quantidade de Veneno. \\n\\nAo morrer, derrubarão Vinhas e Ossos, mas também surgirá um Crânio Tangled! \\n\\nCrânio Emaranhado agem de forma parecida com Vexes; eles voarão atravessando blocos e te acertarão. Eles têm apenas 5 &4Corações&r e, ao morrer, te darão a si mesmos como Item."
+		"&9Emaranhados&r são inimigos que surgem no &9Jardim Amaldiçoado&r. \\n\\nEles têm 10 &4Corações&r e atacam te acertando. Se você for atingido, receberá uma pequena quantidade de Veneno. \\n\\nAo morrer, derrubarão Vinhas e Ossos, mas também surgirá um Crânio Emaranhado! \\n\\nCrânio Emaranhado agem de forma parecida com Vexes; eles voarão atravessando blocos e te acertarão. Eles têm apenas 5 &4Corações&r e, ao morrer, te darão a si mesmos como Item."
 		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
 	]
-	quest.6B00D5DBB3552F15.title: "&9Tangled"
+	quest.6B00D5DBB3552F15.title: "&9Emaranhado"
 	quest.6DCC11671A2BAA1C.quest_desc: ["Raramente, nas Florestas da &9&lStarlight&r, você pode encontrar &cPássaros&r. \\nSe alimentar 2 &cPássaros&r com algumas Sementes perto de um Ninho, eles passarão de &cPássaros&r para pássaros apaixonados. \\n\\nNa verdade não, mas os dois vão ficar aconchegados no Ninho. Depois disso, eles deixarão um presente para você. Às vezes esse presente será..."]
 	quest.6DCC11671A2BAA1C.title: "Os pássaros e os... pássaros?"
 	quest.6E970CF05B96EB20.quest_desc: ["Para causar dano ao &b&lGolem&r, você precisará desligar a fonte de energia dele! \\n\\nPara isso, você precisará Clicar com o Botão Direito nos Blocos de Energia quando eles ficarem azuis. \\n\\nNormalmente, você pode encontrar 2 nos cantos da sala do chefe e 2 acima dele!"]
@@ -350,13 +350,13 @@
 	quest.6EC289857CDC4969.title: "&bEnts"
 	quest.6ECDD55D55D4D44E.title: "&5Arco Longo da Queda Estelar"
 	quest.6F5F6BAB09CB4F5E.title: "&9Lança de Malarita"
-	quest.70A82A5D17D558FB.quest_desc: ["A &bEspada de Energia&r só pode ser derrubada pelo &b&lGolem de Starlight&r. \\n\\nEla funciona como uma Espada normal, mas com Clique Direito você pode avançar até eles enquanto a balança, como o Genji de Overwatch! "]
+	quest.70A82A5D17D558FB.quest_desc: ["A &bEspada de Energia&r só pode ser derrubada pelo &b&lGolem da Starlight&r. \\n\\nEla funciona como uma Espada normal, mas com Clique Direito você pode avançar até eles enquanto a balança, como o Genji de Overwatch! "]
 	quest.70A82A5D17D558FB.title: "&bEspada de Energia"
 	quest.70F8A8D6C442F2B6.title: "&aEnxada de Fluído Vítreo"
-	quest.713548E540B18E07.quest_desc: ["O &9Arco Moonring&r só pode ser derrubado pela &9&lMonstruosidade Lunar&r. \\n\\nEle dispara Flechas como um Arco normal, mas Espinhos do Chão virão na mesma direção em que a Flecha foi!"]
-	quest.713548E540B18E07.title: "&9Arco Moonring"
-	quest.713EF442D59501BA.quest_desc: ["A &5Corrente de &9Almas&r pode ser fabricada a partir de drops da &9&lMonstruosidade Lunar&r. \\n\\nÉ um gancho! Toque no Clique Direito para lançá-la e, quando atingir algo, começará a te puxar. Depois, você precisa Clicar com o Botão Direito de novo para soltá-la."]
-	quest.713EF442D59501BA.title: "&5Corrente de &9Almas"
+	quest.713548E540B18E07.quest_desc: ["O &9Arco do Anel Lunar&r só pode ser derrubado pela &9&lMonstruosidade Lunar&r. \\n\\nEle dispara Flechas como um Arco normal, mas Espinhos do Chão virão na mesma direção em que a Flecha foi!"]
+	quest.713548E540B18E07.title: "&9Arco do Anel Lunar"
+	quest.713EF442D59501BA.quest_desc: ["A &5Corrente das &9Almas&r pode ser fabricada a partir de drops da &9&lMonstruosidade Lunar&r. \\n\\nÉ um gancho! Toque no Clique Direito para lançá-la e, quando atingir algo, começará a te puxar. Depois, você precisa Clicar com o Botão Direito de novo para soltá-la."]
+	quest.713EF442D59501BA.title: "&5Corrente das &9Almas"
 	quest.71C58666D4BC2508.quest_desc: ["Funciona como Pederneira e Aço!"]
 	quest.71C58666D4BC2508.title: "&eCaixa de Fósforos de Salitra"
 	quest.7322332BB6CF5CF7.title: "&7Pincel de Prata Abissal"
@@ -370,7 +370,7 @@
 	quest.79B03F769746784A.title: "&9Picareta de Malarita"
 	quest.79B33E4691E6CB45.title: "&aEspada de Fluído Vítreo"
 	quest.7A16D2EB63359294.quest_desc: [
-		"&3Cervos Aurora&r são animais amistosos com casco que também vivem no frio. \\n\\nEsses &3Cervos&r não vão tentar te machucar, mas se você ficar na frente quando eles correrem, talvez sinta alguns &3Chifres&r. \\n\\n&3Chifres&r que também podem ser derrubados por eles ao morrer e podem ser usados tanto como arma quanto como enxada! \\n\\nEles também podem derrubar Couro ou Bife de Cervo Aurora."
+		"&3Cervos Aurora&r são animais amistosos com casco que também vivem no frio. \\n\\nEsses &3Cervos&r não vão tentar te machucar, mas se você ficar na frente quando eles correrem, talvez sinta algumas &3Galhadas&r. \\n\\n&3Galhadas&r que também podem ser derrubadas por eles ao morrer e podem ser usados tanto como arma quanto como enxada! \\n\\nEles também podem derrubar Couro ou Bife de Cervo Aurora."
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
 	quest.7A16D2EB63359294.title: "&3Cervos Aurora"
@@ -378,15 +378,15 @@
 	quest.7B5D34650BBD97D9.quest_desc: ["&5Golpe Etéreo&r é Derrubado por &5Creteors&r e por &5Chuvas de Meteoros&r. \\n\\nA maioria das &5Chuvas de Meteoros&r derruba uma tonelada deles, então não se preocupe!"]
 	quest.7B5D34650BBD97D9.title: "&5Golpe Etéreo"
 	quest.7B937E68FEFBBA98.title: "&dPeitoral de Diamante Estrelado"
-	quest.7C53F52992EA2064.title: "&4Pá de Âmbaramarela"
+	quest.7C53F52992EA2064.title: "&4Pá Âmbaramarela"
 	quest.7D68FD0637351E02.title: "&6Capacete de Pedra Primaveril Térmica"
 	quest.7D7BD1458CF12021.quest_desc: ["É um Deserto, claro que há &5Cactos&r! \\n\\nOs &5Cactos&r, quando totalmente crescidos, podem dar Fruta no topo deles!"]
 	quest.7D7BD1458CF12021.title: "&5Cacto Lunaris"
 	quest.7E90138B0A2C3210.quest_desc: ["As Árvores Northland são Árvores grandes e robustas nas Florestas de Gelo Eterno. \\n\\nElas parecem Abetos, mas muito mais claras! Talvez sejam Abetos albinos. \\n\\nSuas mudas precisam ser colocadas na Terra, não na Grama, e em uma formação 2x2."]
 	quest.7FBB431AC055FE93.quest_desc: ["O &7Espectador Iluminado pela Alma&r é fabricado com um &9Orvalho da Alma&r e um &9Olho de Aranha do Anoitecer&r. \\n\\nEle funciona de forma semelhante a uma Câmera Pegajosa de Tom Clancy's Splinter Cell. Você pode Clicar com o Botão Direito para enviar o &7Espectador&r e, depois de um tempo, poderá enxergar através dele. Você pode até se ver com ele! \\n\\nNão dá para encerrá-lo antes, então cuidado ao usar. Ele também tem durabilidade e tempo de recarga."]
 	quest.7FBB431AC055FE93.title: "&7Espectador Iluminado pela Alma"
-	quest.7FBD51663C1A711A.title: "&4Espada de Âmbaramarela"
-	quest.7FF77463F2A0E210.quest_desc: ["A Lama do Anoitecer só pode ser encontrada nos &9Pântanos Escuros&r. \\n\\nVocê pode fazer mais Blocos com ela!"]
+	quest.7FBD51663C1A711A.title: "&4Espada Âmbaramarela"
+	quest.7FF77463F2A0E210.quest_desc: ["A Lama do Anoitecer só pode ser encontrada nos &9Pântanos Sombrios&r. \\n\\nVocê pode fazer mais Blocos com ela!"]
 	task.0AD8AC7ECCD8002A.title: "TodosOsDireitosReservados"
 	task.2510A7EE5D886B63.title: "TodosOsDireitosReservados"
 	task.452736994864F623.title: "Visite um Rio Cintilante"

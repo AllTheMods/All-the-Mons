@@ -1,8 +1,9 @@
 {
-	quest.0D6D45DBA64E612D.quest_desc: ["O atraso máximo de geração é o tempo máximo que pode levar para gerar criaturas. Assim como o mínimo, pode variar de 20 a 32.767. Cada relógio altera a velocidade do gerador em 10. A velocidade é expressa em ticks, onde 20 ticks equivalem a 1 segundo. Assim, o atraso de geração mais rápido seria de 1 segundo entre cada geração."]
-	quest.0D6D45DBA64E612D.title: "Atraso Máximo de Geração"
+	quest.00C26068B55F4FD9.quest_desc: ["As Runas do Silêncio só servem para uma coisa: calar o gerador. Não gosta de ouvir os barulhos irritantes do gerador? Use uma Runa do Silêncio!"]
+	quest.00C26068B55F4FD9.title: "Silêncio, senão vai acordar as criaturas!"
 	quest.0E02CE4469FCA4C9.quest_desc: ["A ativação por Redstone oferece um interruptor de ligar/desligar ao seu gerador. Sem sinal de Redstone, ele não gerará criaturas."]
 	quest.0E02CE4469FCA4C9.title: "Redstone Ativa"
+	quest.0E90577AC72749C4.quest_desc: ["A &aRuna de Melhoria do Gerador Trovejante&r, o 4º e último nível das Runas de Melhoria do Gerador, leva seu gerador ao potencial máximo.\\n\\nEla define o Atraso Mínimo e Máximo de Invocação como 20, a Quantidade de Invocação como 16, o Máximo de Entidades como 32 e o Alcance de Ativação como 48.\\n\\nGemas da Sobrecarga Ender podem ser obtidas no End."]
 	quest.0F0E227FC3EC0D90.quest_desc: ["Estes são geradores fornecidos por outros mods além do Apothic Spawners."]
 	quest.0F89BFD4A3F63A48.quest_desc: ["Algumas criaturas (especialmente monstros) precisam de certos níveis de luz para surgir. Criaturas hostis exigem níveis mais baixos e passivas exigem níveis mais altos. Usar um Lampião das Almas faz com que você nunca mais precise se preocupar com níveis de luz, pois ele os ignora! Isso não ignora outros requisitos para geração, como animais de fazenda precisando de grama."]
 	quest.0F89BFD4A3F63A48.title: "Ignorar Luz"
@@ -10,12 +11,13 @@
 	quest.1102B27CBF564127.quest_subtitle: "Não despareçam na minha frente, criaturas"
 	quest.167E1474644C9908.quest_desc: ["O quartzo faz com que qualquer item de modificação tenha o efeito oposto no gerador. Com o quartzo na mão secundária e o outro item de modificação do gerador na mão principal, o efeito será invertido. Com quartzo e varas de Blaze, em vez de aumentar o alcance de geração, ele diminuirá. Com quartzo e lágrimas de Ghast, reduzirá o limite máximo de entidades."]
 	quest.167E1474644C9908.title: "Dia do Ao Contrário"
+	quest.17410BE15A81DD96.quest_desc: ["A &aRuna de Melhoria do Gerador do Viajante&r é o 2º nível das Runas de Melhoria do Gerador.\\n\\nEsta define o Atraso Mínimo de Invocação como 100, o Atraso Máximo de Invocação como 400, a Quantidade de Invocação como 10, o Máximo de Entidades como 18 e o Alcance de Ativação como 32.\\n\\nQualquer Ovo Gerador serve para criar esta Runa."]
+	quest.17C87EB8ED8A27AB.quest_desc: ["As Runas de Gerador são o material base para modificar geradores."]
+	quest.17C87EB8ED8A27AB.quest_subtitle: "Modificações Básicas"
 	quest.186593EBCE3FE8D8.quest_desc: ["O alcance de geração é a área onde as criaturas podem surgir. Quanto maior a área, mais espaço elas têm para surgir. Quanto menor a área, mais barata é a farm."]
 	quest.186593EBCE3FE8D8.title: "Alcance de Geração"
 	quest.18E0F5A78F696FA3.quest_desc: ["Fragmentos do eco concedem um efeito especial ao gerador. Qualquer criatura gerada terá o saque descartado multiplicado."]
 	quest.18E0F5A78F696FA3.title: "Ecoando"
-	quest.1AD87CB3226ED224.quest_desc: ["A lã só faz uma coisa no gerador: calar a boca dele. Não gosta de ouvir os barulhos irritantes do gerador? Então use lã! Qualquer cor ou padrão!"]
-	quest.1AD87CB3226ED224.title: "Fique quieto, você vai acordar as criaturas!"
 	quest.21C2458FED19363C.quest_desc: ["Ele usa &aEssência&r junto com uma criatura em uma Ferramenta de Aprisionamento de Criaturas para gerar uma cópia dessa criatura."]
 	quest.21C2458FED19363C.quest_subtitle: "Gerador do Industrial Foregoing"
 	quest.223A5BDB5056B781.quest_desc: ["Captura é um encantamento para espadas que faz com que criaturas raramente soltem seus ovos geradores. É um encantamento raro, então continue procurando e confira o capítulo &5&lApothic Enchanting&r para ajudar. Cada nível concede 0,5% de chance de obter um ovo a cada eliminação, e o nível mais alto que você normalmente pode obter é VII (7)."]
@@ -27,24 +29,27 @@
 	quest.30EB438C66324213.title: "Ignorar Jogadores"
 	quest.310969B8FE0A94DE.quest_desc: ["Outra mudança de jogo que o Apotheosis traz é nos geradores. Lembra de poder minerar geradores com Toque Suave? Bem, isso voltou graças ao Apotheosis! Há também muitas modificações novas que você pode adicionar aos geradores clicando com o botão direito com qualquer um destes itens."]
 	quest.310969B8FE0A94DE.title: "Geradores Apothic"
+	quest.321C15EBBE2D3D30.quest_desc: ["Quando você explode um gerador, ele se torna altamente instável, invocando uma grande quantidade de suas respectivas criaturas e deixando Correntes de Gerador para trás.\\n\\nQuantas correntes? Talvez esteja se perguntando. No momento, entre 48 e 57.\\n\\nVocê precisará dessas correntes para..."]
+	quest.321C15EBBE2D3D30.title: "Explodindo Geradores"
 	quest.39E822440E7D2E04.quest_desc: ["O Mob Grinding Utils é focado em farms de criaturas, então é claro que ele tem um gerador! O Gerador de Entidades! No entanto, ele precisa de 3 coisas para funcionar: um ovo gerador, gelatinas de EXP e um sinal de Redstone. Gelatinas de EXP são feitas processando EXP em um solidificador de EXP com o molde de gelatina de EXP. Elas podem ser comidas ou usadas como combustível no segundo slot. Assim que colocar o ovo gerador no slot superior, as gelatinas de EXP no segundo e fornecer um sinal de Redstone, ele começará a gerar criaturas!"]
 	quest.39E822440E7D2E04.quest_subtitle: "Gerador do Mob Grinding Utils"
-	quest.3E2A411FF5B4B0E7.quest_desc: ["O alcance de ativação é a distância em que o jogador (você) precisa estar do gerador para que ele funcione. O mínimo é 1 bloco de distância e o máximo é um raio de 48 blocos."]
-	quest.3E2A411FF5B4B0E7.title: "Alcance de Ativação"
+	quest.3F1430ADB648102F.quest_desc: [
+		"Esta Runa de Gerador funciona de forma diferente das outras. Em vez de afetar um único atributo do gerador, ela afeta vários de uma vez. Ela também define esses atributos para uma quantidade específica, em vez de aumentar ou diminuir a cada vez.\\n\\nA &aRuna de Melhoria do Gerador do Desbravador&r é a primeira das Runas de Melhoria do Gerador, a mais barata e, claro, a mais fraca.\\n\\nEla define o Atraso Mínimo de Invocação como 150, o Atraso Máximo de Invocação como 600, a Quantidade de Invocação como 7, o Máximo de Entidades como 12 e o Alcance de Ativação como 24."
+		"{@pagebreak}"
+		"Para determinar quando o gerador invocará, ele escolhe um número aleatório entre o Atraso Máximo e Mínimo de Invocação. A velocidade é expressa em ticks, onde 20 ticks equivalem a 1 segundo.\\n\\nA quantidade de criaturas invocadas é aleatória, com um valor máximo determinado pela Quantidade de Invocação.\\n\\nO Máximo de Entidades é a quantidade de criaturas que podem ser invocadas por um gerador e mantidas por perto. Se houver apenas 6 no limite e já existirem 6 criaturas, nenhuma outra surgirá até que sejam mortas ou movidas.\\n\\nO Alcance de Ativação é a distância que você (o jogador) precisa estar do gerador para ele funcionar."
+	]
 	quest.3F55F3CC8519D783.quest_desc: ["O Gerador de Alma é o gerador oferecido pelo Mystical Agriculture. Ele usa essência de criatura e energia para gerar criaturas. A essência de criatura é obtida colhendo plantas de criaturas, criadas com frascos de alma. Portanto, você terá que matar as criaturas primeiro ou usar o extrator de almas."]
 	quest.3F55F3CC8519D783.quest_subtitle: "Gerador do Mystical Agriculture"
 	quest.40096ED0B04C3EC5.quest_desc: ["O item indispensável para todos os geradores. Quando diz que ignora todas as condições, significa a maioria. Ignores níveis de luz, blocos necessários para geração e biomas. Condições de espaço ainda são necessárias, como slimes precisando de uma área de 3x3 para surgir, assim como a necessidade de jogadores por perto."]
 	quest.40096ED0B04C3EC5.title: "Ignorar Todas as Condições"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["Ao usar uma fruta do coro em um gerador, você suga as almas das criaturas que serão geradas, deixando apenas uma carcaça vazia do que costumavam ser. As criaturas perderão toda a IA, agindo basicamente como um suporte de armadura. Elas não podem atacar você, não podem se teleportar e não podem se mover por conta própria. Elas ficam ali prontas para serem mortas, que emocionante!"]
 	quest.42D7C8CD8E6F5CD7.title: "Sem IA"
-	quest.4D07B0A4A2E77CDA.quest_desc: ["O limite de entidades é a quantidade de criaturas que podem ser geradas e mantidas por um gerador. Se o limite for de apenas 6 entidades e já houver 6 geradas, nenhuma outra surgirá até que sejam mortas ou movidas. Cada lágrima de Ghast aumenta ou reduz o limite em 2 entidades. O máximo é 16 entidades e o mínimo é 1."]
-	quest.4D07B0A4A2E77CDA.title: "Entidades Máximas"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["Uma fogueira usada no gerador fará com que as criaturas surjam em chamas. Perfeito para obter bifes assados."]
 	quest.4F7F8F4ED1CA0550.title: "Em Chamas"
+	quest.503AC506720FC59E.quest_desc: ["Para modificações mais avançadas em geradores, você precisará &d&linfundir&r suas Runas de Gerador.\\n\\n\\Você precisará de pelo menos &a70 de Eterna&r, &c30% de Quanta&r e &550% de Arcana&r em uma &5Mesa de Encantamentos&r. \\n\\nPara obter isso, você pode usar uma das seguintes opções:\\n\\n14 &9Estantes das Profundezas&r que não estejam &9Inativas&r!\\n12 &4Estantes Infernais Brilhantes&r e 2 &9Estantes das Profundezas&r!\\n12 &bEstantes Marinhas Cristalinas&r e 2 &9Estantes das Profundezas&r!\\n\\nConfira o capítulo &5&lEncantamento Apócrifo&r para aprender mais sobre essas mecânicas."]
+	quest.503AC506720FC59E.quest_subtitle: "Modificações Avançadas"
 	quest.52FAF122466FDDC9.quest_desc: ["O Gerador Estabilizado é a versão de gerador do Draconic Evolution. Quando você usa um dos núcleos em um gerador, ele se torna um Gerador Estabilizado. Você pode trocar os núcleos, mas não poderá alterar os atributos, pois agora eles são definidos pelos núcleos. Quanto melhor o núcleo, mais criaturas são geradas e mais rápido."]
 	quest.52FAF122466FDDC9.quest_subtitle: "Gerador do Draconic Evolution"
-	quest.6A497B063CF32A5C.quest_desc: ["Um olho de aranha fermentado pode ser usado para aumentar a quantidade de criaturas que PODEM ser geradas por um gerador. A quantidade de criaturas geradas é aleatória, com um limite máximo determinado pelo número. Sobe ou desce em 1 para cada olho, até o máximo de 16."]
-	quest.6A497B063CF32A5C.title: "Contagem de Geração"
 	quest.6D3B958E49AE7BDB.quest_desc: ["Fragmentos de amuleto podem ser transformados em amuletos ou em ovos geradores. Eles são do Reliquary e raramente são soltos pelas suas respectivas criaturas. Alguns podem até ser fabricados! Pegue 2 e um ovo normal para fabricar um ovo gerador."]
 	quest.6D68D9941049E806.quest_desc: ["Este gerador, como o nome sugere, usará &dFonte&r como combustível. Para escolher a criatura que será gerada, você precisará de um frasco de contenção com a criatura na área."]
 	quest.6D68D9941049E806.quest_subtitle: "Gerador do Ars Nouveau"
@@ -55,12 +60,10 @@
 	quest.77A8E8122870BBCE.quest_desc: ["Tecnicamente, isto não é um ovo gerador, mas incluí aqui de qualquer forma devido à capacidade de vincular criaturas a geradores. Confira o capítulo &5&lApothic Enchanting&r para saber mais sobre como obter este laço."]
 	quest.77A8E8122870BBCE.quest_subtitle: "Isso não é um Ovo Gerador!"
 	quest.78E94C386B1E7359.quest_desc: ["Normalmente você não consegue obter ovos geradores, mas o mesmo acontecia com os geradores e aqui estamos nós! Existem algumas formas de obter ovos geradores, mas assim que tiver um, clique com o botão direito em um gerador para alterar a criatura que ele gera."]
-	quest.7A9AE63998BB41FF.quest_desc: ["Para determinar quando o gerador funcionará, ele escolhe um número aleatório entre o atraso mínimo e máximo de geração. O mínimo pode variar de 20 a 32.767. Cada unidade de açúcar reduz ou aumenta o atraso mínimo em 10."]
-	quest.7A9AE63998BB41FF.title: "Atraso Mínimo de Geração"
+	quest.7AC6A958936636D9.quest_desc: ["A &aRuna de Melhoria do Gerador do Montanhista&r é o 3º nível das Runas de Melhoria do Gerador. Sim, você precisará lutar contra um Defensor para isso.\\n\\nEla define o Atraso Mínimo de Invocação como 50, o Atraso Máximo de Invocação como 200, a Quantidade de Invocação como 13, o Máximo de Entidades como 24 e o Alcance de Ativação como 40."]
 	quest.7F6B66566C211735.quest_desc: ["Espeleotema usado no gerador reduzirá a vida máxima da criatura gerada. Isso pode reduzir a vida delas para até 20%."]
 	quest.7F6B66566C211735.title: "Vida"
 	task.24893D6EDE0BD819.title: "Fragmentos de Amuletos de Criaturas"
-	task.39702880D9133E3E.title: "Lã"
 	task.3B219688DA1CF9C8.title: "TodosOsDireitosReservados"
 	task.45250DA4433007C6.title: "Livros de Captura"
 	task.524CBF7058496E7F.title: "Outros Geradores"
