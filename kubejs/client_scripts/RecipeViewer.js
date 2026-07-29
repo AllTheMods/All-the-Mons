@@ -127,6 +127,16 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove('pkgbadges:the_water_badge')
   allthemods.remove('pkgbadges:the_water_badge_paldea')
   allthemods.remove('pkgbadges:the_zephyr_badge')
+
+  allthemods.remove('pkgbadges:badges_box_johto_league')
+  allthemods.remove('pkgbadges:badges_box_hoenn_league')
+  allthemods.remove('pkgbadges:badges_box_unova_league')
+  allthemods.remove('pkgbadges:badges_box_kalos_league')
+  allthemods.remove('pkgbadges:badges_box_galar_league')
+  allthemods.remove('pkgbadges:badges_box_paldea')
+  allthemods.remove('pkgbadges:badges_box_orange_league')
+  allthemods.remove('pkgbadges:badges_box_starfall_street')
+  allthemods.remove('pkgbadges:big_badges_box')
 })
 
 // RecipeViewerEvents.removeEntriesCompletely('mekanism:chemical', allthemods => {

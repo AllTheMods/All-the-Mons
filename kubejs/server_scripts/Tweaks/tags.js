@@ -275,6 +275,8 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add("minecraft:signs", ["ars_nouveau:archwood_sign"])
     allthemods.add("minecraft:hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
     allthemods.add("mega_showdown:mega_stone", ["mega_showdown:abomasite"])
+    // Dream String counts as String until LM tags it upstream
+    allthemods.add("c:strings", ["legendarymonuments:dream_string"])
 })
 
 ServerEvents.tags('block', allthemods => {
