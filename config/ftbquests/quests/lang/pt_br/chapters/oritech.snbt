@@ -74,7 +74,7 @@
 	quest.4ED29ACF4A699E1B.quest_subtitle: "É 'mais melhor'"
 	quest.4F89C04CEBF812F9.quest_subtitle: "Funda gemas em barras"
 	quest.4F89C04CEBF812F9.title: "Barras"
-	quest.50243E5CF1B156ED.quest_desc: ["Para obter &5Pó de Plutônio&r, você deve fragmentar &aUrânio Bruto&r na Forja de Fragmentos para adquirir &5Pó de Plutônio Pequeno&r ou disparar um &5Laser Endérico&r em um &aCristal de Uranita&r."]
+	quest.50243E5CF1B156ED.quest_desc: ["Para obter &5Pó de Plutônio&r, você deve fragmentar &aUrânio Bruto&r na Forja de Fragmentos para adquirir &5Pequeno Pó de Plutônio&r ou disparar um &5Laser Endérico&r em um &aCristal de Uranita&r."]
 	quest.50243E5CF1B156ED.quest_subtitle: "De Uranita a Plutônio"
 	quest.5189D72ED3808DC6.quest_desc: [
 		"&aShift + botão direito&r com seu designador de alvo no agregado de ametista e então &aShift + botão direito&r no laser para definir o alvo."

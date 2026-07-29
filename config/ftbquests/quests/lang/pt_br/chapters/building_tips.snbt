@@ -5,11 +5,11 @@
 		"Mas posso te dar dicas para isso!"
 	]
 	quest.0052E5592A6BBEC1.title: "&lDicas de Construção!&r"
-	quest.005CC8A3325FE2BD.quest_desc: ["&bAço Gelado&r, &7Cloggrum&r e &eRegalium&r podem ser minerados.\\n&cUtheric&r e &aForgotten&r você precisa matar para conseguir.\\n\\nMais alguma pergunta?"]
+	quest.005CC8A3325FE2BD.quest_desc: ["&bAço Gelado&r, &7Cloggrum&r e &eRegalium&r podem ser minerados.\\n&cUtheric&r e &aEsquecido&r você precisa matar para conseguir.\\n\\nMais alguma pergunta?"]
 	quest.005CC8A3325FE2BD.title: "Metais do &2&lUndergarden&r"
 	quest.01516BC726013B7C.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
 	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r é um mod feito internamente para ajudar a unificar minérios.\\n\\nCom isso, vêm muitos blocos decorativos muito úteis!\\n\\n&dFluorita&r e &9Safira&r ambos parecem muito legais!"]
-	quest.034DB3C64F24C7B7.title: "&fBlocos de &l&6AllTheOres"
+	quest.034DB3C64F24C7B7.title: "&fBlocos de &l&6AllTheOres&r"
 	quest.0539AF15A10B2859.quest_desc: ["As &lMáquinas Compactas&r permitem que você entre em uma dimensão compactada. Depois de colocar uma &lMáquina Compacta&r, você pode entrar nela usando o Dispositivo de Encolhimento Pessoal.\\n\\nO tamanho da &lMáquina Compacta&r depende da receita, variando de 5x5x5 a 45x45x45!\\n\\nVocê não pode quebrar as paredes da &lMáquina Compacta&r, e pode sair clicando com o botão direito no Dispositivo de Encolhimento Pessoal."]
 	quest.0539AF15A10B2859.title: "&lMáquinas Compactas"
 	quest.0596F6C70758EEC0.quest_desc: ["Apesar de serem os mais caros, também são os mais bonitos!\\n\\nE é isso que importa para as Construções!"]
@@ -34,7 +34,7 @@
 	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r é sobre fazer da Cozinha o seu lar. \\n\\nRecomendo usar tudo o que ele oferece, pois cada Item tem um uso e parece incrível!"]
 	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
 	quest.1972B36F72808D55.quest_desc: ["Apenas algumas dessas pedras estão lascadas."]
-	quest.1972B36F72808D55.title: "&fPedra &l&bChipped"
+	quest.1972B36F72808D55.title: "&fPedra &l&bChipped&r"
 	quest.1CF227F4B5D3F88B.quest_desc: [
 		"&d&lCamol&r é a solução para camuflar &lTUDO&r. De Pipez a cabos do Mekanism até &6&lATM Stars&r, e tudo menos a... não, espere, a pia da cozinha também.\\n\\nFabrique o &d&lBloco de Camuflagem&r junto com o bloco que você quer usar como camuflagem, depois clique com o botão direito nele sobre o bloco que deseja camuflar, como um cabo ou algo assim.\\n\\nPor padrão, o &d&lBloco de Camuflagem&r adotará a forma de colisão do bloco camuflado. Você pode mudar para a versão que mantém a forma colocando-o sozinho na grade de criação. Isso fará com que assuma a forma do bloco usado na camuflagem.\\n\\nSe você quiser remover um &d&lBloco de Camuflagem&r, clique com o botão direito no bloco camuflado com outro Bloco de Camuflagem."
 		"{@pagebreak}"
@@ -44,14 +44,14 @@
 	quest.1E53576CC2566FF0.quest_desc: ["&l&cCobble&fFurnies&r adiciona uma variedade de móveis, a maioria com temática de &cPokémon&r.\\n\\nHá banquetas, cadeiras, mesas, &7Estátuas&r de certos &cPokémon&r, uma TV e muito mais.\\n\\nEle até tem suas próprias opções para a sua cozinha, incluindo um fogão para suas Panelas de Fogueira.\\n\\nA maioria deles é fabricada com o Fabricador de Móveis."]
 	quest.1E53576CC2566FF0.title: "&l&cCobble&fFurnies"
 	quest.2094D1CE4BA66091.quest_desc: ["A luz é uma parte muito importante de qualquer Base. \\n\\nEla impede que Monstros apareçam, ajuda a enxergar e até adiciona mais Cor e vida às suas Construções! \\n\\nOu você pode simplesmente usar Visão Noturna, mas onde está a graça nisso!"]
-	quest.22D2CFDDB06C720C.quest_desc: ["Ferramentas são muito importantes no &2&lMinecraft&r, mas o espaço no inventário também é. Então, por que não liberar espaço criando uma Paxel! \\nPaxels são uma combinação de &ePicaretas&r, &eMachados&r, e &ePás&r. \\n\\nElas podem descascar madeira, fazer caminhos e minerar quaisquer blocos que uma picareta/machado/pá do mesmo Tier consiga!"]
-	quest.22D2CFDDB06C720C.title: "Paxel"
+	quest.22D2CFDDB06C720C.quest_desc: ["Ferramentas são muito importantes no &2&lMinecraft&r, mas o espaço no inventário também é. Então, por que não liberar espaço criando um Pacachado! \\nPacachados são uma combinação de &ePicaretas&r, &eMachados&r, e &ePás&r. \\n\\nElas podem descascar madeira, fazer caminhos e minerar quaisquer blocos que uma picareta/machado/pá do mesmo Tier consiga!"]
+	quest.22D2CFDDB06C720C.title: "Pacachado"
 	quest.22E007025C19EC0A.quest_desc: ["O &l&7Railcraft&r, juntamente com os Trens, adiciona algumas Pedras para Decoração! \\n\\nPedra de Pedreira e Pedra Abissal podem ser criadas juntas para fazer versões Polidas, Cinzeladas ou de Tijolo! \\n\\nE não se esqueça de Escadas e Lajes! "]
 	quest.22E007025C19EC0A.title: "&fPedras do &l&7Railcraft&r"
 	quest.23631A4A743D4F0C.quest_desc: ["Nem reclame deste. \\n\\nExistem dezenas de maneiras de obter Ferro e é necessário até mesmo para a progressão normal. \\n\\nVocê obterá Ferro, o transformará em um Bloco e o deixará bonito!"]
-	quest.23631A4A743D4F0C.title: "&fMetais &l&bChipped"
+	quest.23631A4A743D4F0C.title: "&fMetais &l&bChipped&r"
 	quest.266127E7947CB3D4.quest_desc: ["Todas as belas Construções que você vê nesta Página de Missões são de pessoas do Discord do ATM! \\n\\nNão se preocupe, todos deram consentimento para compartilhar suas Construções e foram creditados! \\n\\nSe você também deseja compartilhar suas Construções, confira o canal artwork-builds-showoff no Discord! \\n\\n(Não posso garantir que todas as Construções foram feitas no ATMons, apenas que foram feitas por outros jogadores de Minecraft. Da mesma forma que alguns podem usar Shaders, então se suas Construções não forem exatamente iguais, pode ser por isso!)"]
-	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r é um Mod que adiciona alguns Itens muito úteis. \\n\\nTodos, claro, para construir! \\n\\nCada um requer &aEnergia&r para funcionar e tem um Menu que é aberto por padrão com &lG&r."]
+	quest.26FADB78B04F592B.quest_desc: ["&l&aBuilding Gadgets 2&r é um Mod que adiciona alguns Itens muito úteis. \\n\\nTodos, claro, para construir! \\n\\nCada um requer &cEnergia&r para funcionar e tem um Menu que é aberto por padrão com &lG&r."]
 	quest.26FADB78B04F592B.title: "&l&aBuilding Gadgets&r"
 	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r é semelhante aos Mods Chisels, pois muda os designs dos Blocos, mas o &b&lChipped&r tem sua própria maneira de fazer isso! \\n\\n&b&lChipped&r em vez disso usa Estações que você precisará ir para mudar os Blocos. \\n\\nHá 7 Estações diferentes, cada uma muda Blocos diferentes: a Mesa de Carpinteiro muda Madeira, o Soprador de Vidro muda Vidro. \\n\\nE 6 dessas Estações podem ser transformadas em um Item de mão para acesso mais fácil. \\n\\nHá até mesmo Melhorias de Mochila para elas!"]
 	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r"
@@ -123,7 +123,7 @@
 	quest.7C2ED69E07988DF4.quest_desc: ["A Cadeira original do &2&lMinecraft&r, as escadas. \\n\\nBem-vindo ao &2&lMinecraft&r Modificado, temos muito mais do que apenas escadas para decoração. \\n\\nExistem dezenas de mods que adicionam decoração e ainda mais que adicionam itens que podem ser usados para decoração!"]
 	quest.7C2ED69E07988DF4.title: "Decoração!"
 	quest.7CF13A4941F608E5.quest_desc: ["De Vidro normal, a Vidro com Painéis, a até mesmo Mosaicos!"]
-	quest.7CF13A4941F608E5.title: "&fVidro &l&bChipped"
+	quest.7CF13A4941F608E5.title: "&fVidro &l&bChipped&r"
 	quest.7DA8ACE06DE8097F.quest_desc: ["&6Cobre&r é o Minério mais abundante no &2&lMinecraft&r e seu uso principal é para decoração. \\n\\nJá existem muitas variantes diferentes adicionadas pelo &2&lMinecraft&r, mas &l&bChipped&r não achou que era bom o suficiente! Então temos mais! \\n\\nAté variantes para as versões oxidadas. \\n\\nVocê pode fazer &aBlocos de Esmeralda&r falsos."]
 	quest.7DA8ACE06DE8097F.title: "&6Cobre &l&bChipped"
 	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r é um Mod muito simples. Você gosta de Luzes Coloridas? Você pode ter Luzes Coloridas. \\n\\nElas são todas de uma cor, sem Textura, e podem vir em diferentes Formas como Escadas ou Lajes ou até Chapas de Pressão! \\n\\nElas até funcionam com &l&cDy&6en&ea&ami&bcs&r!"]

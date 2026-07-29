@@ -6,7 +6,7 @@
 	quest.0B05185B65E41DEA.quest_subtitle: "Fabrique a Estrela Pika de Paldea"
 	quest.0D8C93346B6F70C1.quest_subtitle: "Fabrique a Estrela Pika de Alola"
 	quest.1965AE47C27D8385.quest_subtitle: "Fabrique a Estrela Pika de Johto"
-	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r cruzando um &3Ditto&r com um &ePatrickyu&r segurando uma &7Pedra da Eternidade."]
+	quest.1B09DCB8AC3A420A.quest_desc: ["Obtenha um &eOvo de Patrickyu&r cruzando um &3Ditto&r com um &ePatrickyu&r segurando uma &7Pedra Eterna."]
 	quest.1B56BAFE94A1F83D.quest_subtitle: "Capture todos os Pokémon de Sinnoh"
 	quest.279FADB5CBA260D7.quest_desc: [
 		"Para fabricar uma &dEstrela Pika regional&r você precisa:"
@@ -65,8 +65,8 @@
 	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &eEstrela Pikas &cRegionais&r."]
 	quest.6A2810DEDC54A414.quest_subtitle: "Fabrique a Estrela Pika Regional de Kanto"
 	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &eEstrela Pika &cRegional&r."]
-	quest.6E2B112E46A5A2BE.quest_desc: ["Para fabricar a &dEstrela Pika Libertada&r, você precisará de uma &cEsfera vermelha&r e uma &9Esfera Azul&r.\\n\\nExistem 2 formas de obter essas esferas.\\n\\nTorre de Batalha Holo: podem ser compradas por 20 Pontos de Batalha cada.\\n\\n&4&lChefes Cataclsym&r: &b&lIgnis&r e &3&lMaledictus&r às vezes soltam uma &cEsfera Vermelha&r. &9&lScylla&r e o &5&lLeviathan&r às vezes soltam uma &9Esfera Azul&r.\\n\\nA chance de cada esfera cair é de cerca de 25%."]
-	quest.6E2B112E46A5A2BE.title: "Esferas &cVermelha&r e &9Azul"
+	quest.6E2B112E46A5A2BE.quest_desc: ["Para fabricar a &dEstrela Pika Libertada&r, você precisará de uma &cEsfera Vermelha&r e uma &9Esfera Azul&r.\\n\\nExistem 2 formas de obter essas esferas.\\n\\nTorre de Batalha Holo: podem ser compradas por 20 Pontos de Batalha cada.\\n\\n&4&lChefes Cataclsym&r: &b&lIgnis&r e &3&lMaledictus&r às vezes soltam uma &cEsfera Vermelha&r. &9&lScylla&r e o &5&lLeviatã&r às vezes soltam uma &9Esfera Azul&r.\\n\\nA chance de cada esfera cair é de cerca de 25%."]
+	quest.6E2B112E46A5A2BE.title: "Esferas &cVermelha&r e &9Azul&r"
 	quest.72FB20982A2940BF.quest_subtitle: "Capture todos os Pokémon de Kanto"
 	quest.7793F96BA31494F9.quest_subtitle: "Capture todos os Pokémon de Unova"
 	quest.7A0693A3016549F6.quest_desc: [

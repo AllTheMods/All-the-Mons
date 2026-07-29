@@ -19,13 +19,13 @@
 	quest.0E2515424291BB59.title: "&5Traje de Mago de Batalha"
 	quest.0F1D6F4729CC38F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_rib.png width:100 height:150 align:center}"]
 	quest.0F1D6F4729CC38F3.quest_subtitle: "Fortaleza do Nether"
-	quest.0F1D6F4729CC38F3.title: "Ornamento de Armadura de Costela"
+	quest.0F1D6F4729CC38F3.title: "Enfeite de Costelas"
 	quest.10AA2B20D86747F7.quest_desc: ["&bFerricore&r tem os mesmos status que Ferro, mas tem outras habilidades que o Ferro gostaria de ter!\\n\\nConfira as descrições dos Itens para saber mais sobre o que eles podem fazer!"]
 	quest.10AA2B20D86747F7.quest_subtitle: "15"
-	quest.10AA2B20D86747F7.title: "Amor de Ferricore"
+	quest.10AA2B20D86747F7.title: "&bAmor de Ferricore"
 	quest.1245126B4338C019.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_vex.png width:100 height:150 align:center}"]
 	quest.1245126B4338C019.quest_subtitle: "Mansão da Floresta"
-	quest.1245126B4338C019.title: "Ornamento de Armadura de Vex"
+	quest.1245126B4338C019.title: "Enfeite de Vex"
 	quest.13517D17E6BF015F.quest_desc: ["Com &bArmadura de Diamante&r e alguns &aItens de Inferium&r, podemos criar a &aArmadura de Inferium&r! \\n\\nEles também podem ser melhorados com Modificações!"]
 	quest.13517D17E6BF015F.quest_subtitle: "21"
 	quest.13517D17E6BF015F.title: "Armadura de &aInferium"
@@ -50,16 +50,16 @@
 	quest.1C27C74722A19FC1.quest_subtitle: "Tanta Energia quanto você puder fornecer"
 	quest.1C27C74722A19FC1.title: "&aMekaTraje"
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
-	quest.1CC627D3FB348C89.quest_subtitle: "Trail Ruins"
-	quest.1CC627D3FB348C89.title: "Ornamento de Armadura Shaper"
+	quest.1CC627D3FB348C89.quest_subtitle: "Ruínas de Trilha"
+	quest.1CC627D3FB348C89.title: "Enfeite de Moldador"
 	quest.1D27EE427ECFD6CE.quest_desc: ["Versão aprimorada da &cTertium&r."]
 	quest.1D27EE427ECFD6CE.quest_subtitle: "27"
 	quest.1D27EE427ECFD6CE.title: "&9Armadura Imperium"
 	quest.1D91E37BFD8CC911.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_emerald.png width:100 height:150 align:center}"]
 	quest.1D91E37BFD8CC911.title: "&2Esmeralda&r"
 	quest.1E3E688B3B52C4D2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_raiser.png width:100 height:150 align:center}"]
-	quest.1E3E688B3B52C4D2.quest_subtitle: "Trail Ruins"
-	quest.1E3E688B3B52C4D2.title: "Ornamento de Armadura Raiser"
+	quest.1E3E688B3B52C4D2.quest_subtitle: "Ruínas de Trilha"
+	quest.1E3E688B3B52C4D2.title: "Enfeite de Levante"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
 	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
 	quest.1EBF234015B26F15.quest_desc: ["Armadura básica adicionada pelo &a&lRoots Classic&r, você precisará de um Ritual para obtê-la!"]
@@ -77,7 +77,7 @@
 	quest.2296CE4418AE62D4.title: "&6Equipamento Arcanista de Allthemodium"
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
-	quest.243008D4DCD789D0.title: "Ornamento de Armadura Wild"
+	quest.243008D4DCD789D0.title: "Enfeite da Selva"
 	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque luto para encontrar tantas &8V&fa&8c&fa&rs&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Armadura de Couro"
@@ -89,10 +89,10 @@
 	quest.2C387BFA6EE6FDB7.title: "&cArmadura de Utherium"
 	quest.2D93888313B03029.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_blue.png width:100 height:150 align:center}"]
 	quest.2D93888313B03029.title: "&9Cristal de Luz Estelar Azul&r"
-	quest.2E0F82F7E1B74033.quest_desc: ["&d&lArmadura da Terra&r do &d&lArs Elemental&r!"]
+	quest.2E0F82F7E1B74033.quest_desc: ["&2Armadura da Terra&r do &d&lArs Elemental&r!"]
 	quest.2E0F82F7E1B74033.quest_subtitle: "15"
 	quest.2E0F82F7E1B74033.title: "&2Traje de Geomancer"
-	quest.2EAA6BE598C83F24.quest_desc: ["&d&lArmadura da Água&r do &d&lArs Elemental&r!"]
+	quest.2EAA6BE598C83F24.quest_desc: ["&3Armadura da Água&r do &d&lArs Elemental&r!"]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
 	quest.2EAA6BE598C83F24.title: "&3Traje de Aquamante"
 	quest.2FA0F5B348322095.quest_desc: ["&7Cloggrum&r é o Minério de Ferro do &2&lUndergarden&r. Ele aparece em todos os lugares."]
@@ -104,8 +104,8 @@
 	quest.333682022948E2F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_thioquartz.png width:100 height:150 align:center}"]
 	quest.333682022948E2F3.title: "&2Thioquartz&r"
 	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
-	quest.338BD467EBE6EE1F.quest_subtitle: "Posto Avançado de Pillager"
-	quest.338BD467EBE6EE1F.title: "Ornamento de Armadura de Sentinela"
+	quest.338BD467EBE6EE1F.quest_subtitle: "Posto Avançado de Saqueador"
+	quest.338BD467EBE6EE1F.title: "Enfeite de Sentinela"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r é uma recompensa da Recompensa de Netuno, que é obtida através da Pesca! \\nTambém concede bônus por estar debaixo d'água."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Armadura de Neptunium"
@@ -114,7 +114,7 @@
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
 	quest.351159C55159C316.quest_subtitle: "Cidade do End e Navios do End"
-	quest.351159C55159C316.title: "Ornamento de Armadura de Agulha"
+	quest.351159C55159C316.title: "Enfeite de Espiral"
 	quest.3512F47DADC07EAE.quest_desc: ["&5Armadura de Unobtainium&r mas com bônus para Feitiços de &d&lArs Nouveau&r!"]
 	quest.3512F47DADC07EAE.quest_subtitle: "40"
 	quest.3512F47DADC07EAE.title: "&5Equipamento Arcanista de Unobtainium"
@@ -125,7 +125,7 @@
 	quest.3685B52446DEC809.title: "&eOuro&r"
 	quest.39796D8EE440F318.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_dune.png width:100 height:150 align:center}"]
 	quest.39796D8EE440F318.quest_subtitle: "Pirâmides do Deserto"
-	quest.39796D8EE440F318.title: "Ornamento de Armadura de Duna"
+	quest.39796D8EE440F318.title: "Enfeite de Dunas"
 	quest.3A2047CC0F59C6CC.quest_desc: ["Armadura de fim de jogo para o &a&lRoots Classic&r"]
 	quest.3A2047CC0F59C6CC.quest_subtitle: "17"
 	quest.3A2047CC0F59C6CC.title: "&aEquipamento de Wildwood"
@@ -136,12 +136,12 @@
 	quest.3ABE7074E500494D.title: "&7Armadura de Aço"
 	quest.3AE0198177A8E91B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_coast.png width:100 height:150 align:center}"]
 	quest.3AE0198177A8E91B.quest_subtitle: "Shipwrecks e Tesouros Enterrados"
-	quest.3AE0198177A8E91B.title: "Forro de Armadura Costa"
+	quest.3AE0198177A8E91B.title: "Enfeite do Litoral"
 	quest.3B4511E7DC788AB3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tenacious.png width:100 height:150 align:center}"]
 	quest.3B4511E7DC788AB3.title: "&dPétala Tenaz&r"
 	quest.3EA3A6414AB8A39C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_flow.png width:100 height:150 align:center}"]
-	quest.3EA3A6414AB8A39C.quest_subtitle: "Câmaras de Desafio"
-	quest.3EA3A6414AB8A39C.title: "Forro de Armadura Fluxo"
+	quest.3EA3A6414AB8A39C.quest_subtitle: "Câmaras de Teste"
+	quest.3EA3A6414AB8A39C.title: "Enfeite de Fluxo"
 	quest.3F0CD2C03CD7D730.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_forge.png width:100 height:150 align:center}"]
 	quest.3F0CD2C03CD7D730.quest_subtitle: "Deixado pelo Golem Starlight"
 	quest.3F0CD2C03CD7D730.title: "Ornamento de Armadura da Forja"
@@ -153,9 +153,9 @@
 	quest.459BB5B4CDB21773.quest_desc: ["&9Prata do Pântano&r é encontrada na lama dos pântanos de &5&lEternal Starlight&r."]
 	quest.459BB5B4CDB21773.quest_subtitle: "15"
 	quest.459BB5B4CDB21773.title: "Armadura de &9Prata do Pântano"
-	quest.4664AFCFB5618CEB.quest_desc: ["&bGlacite&r é encontrado nos biomas frios de &5&lEternal Starlight&r!"]
+	quest.4664AFCFB5618CEB.quest_desc: ["&bGlacita&r é encontrada nos biomas frios de &5&lEternal Starlight&r!"]
 	quest.4664AFCFB5618CEB.quest_subtitle: "17"
-	quest.4664AFCFB5618CEB.title: "Armadura de &bGlacite"
+	quest.4664AFCFB5618CEB.title: "Armadura de &bGlacita"
 	quest.497D222F74A52DF5.quest_desc: ["Agora sim, é disso que eu gosto! Ferro é muito comum e sua Armadura é incrível para o início do jogo. \\n\\nZumbis e Esqueletos quase não têm chance!"]
 	quest.497D222F74A52DF5.quest_subtitle: "15"
 	quest.498483750C18FCD6.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_regalium.png width:100 height:150 align:center}"]
@@ -165,12 +165,12 @@
 	quest.4A9CB8778D37049F.title: "&6Armadura de Supremium Desperta"
 	quest.4B9C54DA5CB6D5C9.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_host.png width:100 height:150 align:center}"]
 	quest.4B9C54DA5CB6D5C9.quest_subtitle: "Ruínas de Trilha"
-	quest.4B9C54DA5CB6D5C9.title: "Ornamento de Armadura Host"
+	quest.4B9C54DA5CB6D5C9.title: "Enfeite de Hospedeiro"
 	quest.4DF683461225690F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_iron.png width:100 height:150 align:center}"]
 	quest.4DF683461225690F.title: "&7Ferro&r"
-	quest.50429F57480F44DA.quest_desc: ["A &cPedra de Fonte Termal&r aparece em lagoas quentes encontradas raramente em &5&lEternal Starlight&r!"]
+	quest.50429F57480F44DA.quest_desc: ["A &cPedra Primaveril Térmica&r aparece em lagoas quentes encontradas raramente em &5&lEternal Starlight&r!"]
 	quest.50429F57480F44DA.quest_subtitle: "16"
-	quest.50429F57480F44DA.title: "Armadura de &cPedra de Fonte Termal"
+	quest.50429F57480F44DA.title: "Armadura de &cPedra Primaveril Térmica"
 	quest.5064D5F99E2C69C8.quest_desc: ["Versão melhorada do &9Imperium&r."]
 	quest.5064D5F99E2C69C8.quest_subtitle: "29"
 	quest.5064D5F99E2C69C8.title: "Armadura de &4Supremium"
@@ -190,35 +190,35 @@
 	quest.5A9C646718EE92C2.title: "&3Vibranium&r"
 	quest.5C83D5CDD980FD9A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_snout.png width:100 height:150 align:center}"]
 	quest.5C83D5CDD980FD9A.quest_subtitle: "Restos de Bastiões"
-	quest.5C83D5CDD980FD9A.title: "Snout Armor Trim"
+	quest.5C83D5CDD980FD9A.title: "Enfeite de Focinho"
 	quest.5DDC15AAFD2CAF47.quest_desc: ["A &bArmadura de Diamante&r é a próxima na cadeia &l&2Vanilla&r, geralmente é aqui que começamos a Encantá-la também! \\n\\nRecomendo Proteção e suas várias formas, não precisamos ser exigentes com mods!"]
 	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
 	quest.5DDC15AAFD2CAF47.title: "&bArmadura de Diamante"
 	quest.5E6D7C1D7957DD4D.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_forgotten.png width:100 height:150 align:center}"]
-	quest.5E6D7C1D7957DD4D.title: "&aForgotten&r"
+	quest.5E6D7C1D7957DD4D.title: "&aEsquecido&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
 	quest.62161BDE9AAAA4BF.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wayfinder.png width:100 height:150 align:center}"]
-	quest.62161BDE9AAAA4BF.quest_subtitle: "Ruínas da Trilha"
-	quest.62161BDE9AAAA4BF.title: "Ornamento de Armadura Wayfinder"
+	quest.62161BDE9AAAA4BF.quest_subtitle: "Ruínas de Trilha"
+	quest.62161BDE9AAAA4BF.title: "Enfeite de Navegador"
 	quest.65A529C8238E89F1.quest_desc: ["Graças ao &5&lMekanism&r, agora podemos fazer Armadura de &9Lápis-lazúli&r! \\n\\nÉ meio ruim, no entanto..."]
 	quest.65A529C8238E89F1.quest_subtitle: "9"
 	quest.65A529C8238E89F1.title: "&9Armadura de Lápis-lazúli"
 	quest.65E733AACBE62EDB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_ward.png width:100 height:150 align:center}"]
 	quest.65E733AACBE62EDB.quest_subtitle: "Cidades Ancestrais"
-	quest.65E733AACBE62EDB.title: "Ornamento de Armadura Ward"
+	quest.65E733AACBE62EDB.title: "Enfeite das Profundezas"
 	quest.66C21934DAFFAC7F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_tide.png width:100 height:150 align:center}"]
 	quest.66C21934DAFFAC7F.quest_subtitle: "Dropado de Guardiões Anciões"
-	quest.66C21934DAFFAC7F.title: "Ornamento de Armadura Tide"
+	quest.66C21934DAFFAC7F.title: "Enfeite de Marés"
 	quest.672AC964851832EB.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_swamp.png width:100 height:150 align:center}"]
 	quest.672AC964851832EB.title: "&7Prata do Pântano&r"
 	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
-	quest.68DABFFB6B3E1A57.quest_subtitle: "Stronghold"
-	quest.68DABFFB6B3E1A57.title: "Ornamento de Armadura do Olho"
+	quest.68DABFFB6B3E1A57.quest_subtitle: "Forte"
+	quest.68DABFFB6B3E1A57.title: "Enfeite de Olho"
 	quest.690DB8BEF80617E5.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_utherium.png width:100 height:150 align:center}"]
 	quest.690DB8BEF80617E5.title: "&cUtherium&r"
 	quest.6A21228B0511FF85.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_thermal.png width:100 height:150 align:center}"]
-	quest.6A21228B0511FF85.title: "&6Thermal Springstone&r"
+	quest.6A21228B0511FF85.title: "&6Pedra Primaveril Térmica&r"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
 	quest.6B671CB07D046BEC.title: "&bDiamante&r"
 	quest.6C5F9D0D447EFB9C.quest_desc: ["Você acha que &l&2Vanilla&r era tudo o que tínhamos? \\n\\nA &6Armadura de Allthemodium&r tem mais Pontos de Armadura e Resistência de Armadura, além de proteção aumentada contra Magia e outros bônus sobre os quais você pode ler na Página de Missões de &6&lAllthemodium&r! \\n\\nAh, e você precisará de &cNetherita&r para criá-la."]
@@ -236,8 +236,8 @@
 	quest.7279700A93E8630B.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_unobtainium.png width:100 height:150 align:center}"]
 	quest.7279700A93E8630B.title: "&5Unobtainium&r"
 	quest.729DCB919A92B735.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_bolt.png width:100 height:150 align:center}"]
-	quest.729DCB919A92B735.quest_subtitle: "Câmaras de Desafio"
-	quest.729DCB919A92B735.title: "Ornamento de Armadura Bolt"
+	quest.729DCB919A92B735.quest_subtitle: "Câmaras de Teste"
+	quest.729DCB919A92B735.title: "Enfeite de Parafuso"
 	quest.72D578686C47B154.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_red.png width:100 height:150 align:center}"]
 	quest.72D578686C47B154.title: "&5Cristal de Luz Estelar Vermelho&r"
 	quest.72DDA413D73E3235.quest_desc: ["Estatísticas muito mais altas em tudo com o próximo na linha de Armaduras de &6&lAllthemodium&r, &3Vibranium&r! \\n\\nVocê precisará da &6Armadura de Allthemodium&r para criá-la."]
@@ -247,7 +247,7 @@
 	quest.756628F4B7F79446.title: "&cAmaramber&r"
 	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
 	quest.76CDF08465700AA2.quest_subtitle: "Cidades Ancestrais"
-	quest.76CDF08465700AA2.title: "Ornamento de Armadura do Silêncio"
+	quest.76CDF08465700AA2.title: "Enfeite de Silêncio"
 	quest.788A7A2F1F438B64.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_cloggrum.png width:100 height:150 align:center}"]
 	quest.788A7A2F1F438B64.title: "&7Cloggrum&r"
 	quest.79D3055DE0EEA6B0.quest_desc: ["&d&lArs Elemental&r &cArmadura de Fogo&r!"]

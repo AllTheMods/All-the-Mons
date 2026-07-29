@@ -19,7 +19,7 @@
 	]
 	quest.12F9705ACB8FB300.title: "&fA &#ED9553Máquina de Corte&r"
 	quest.12FB3990CA1653A4.quest_desc: [
-		"A &#DBA15BBroca a Vapor&r será sua melhor amiga na mineração no início do jogo. Ela pode minerar uma área de &53 por 3&r blocos e também possui &#EEF768Toque Suave&r ativável."
+		"A &#DBA15ABroca a Vapor&r será sua melhor amiga na mineração no início do jogo. Ela pode minerar uma área de &53 por 3&r blocos e também possui &#EEF768Toque Suave&r ativável."
 		""
 		"Você pode alternar o modo &53 por 3&r pressionando a tecla de atalho \"Alternar Mineração 3x3\", que por padrão é &9'Y'&r."
 		""
@@ -27,13 +27,13 @@
 		""
 		"Para abastecer a &#DBA15ABroca a Vapor&r, segure-a sobre um &6combustível&r no seu inventário e &9Clique com o Botão Direito&r. A &9Água&r pode ser adicionada clicando com o botão direito em uma fonte ou carregando um &9Balde de Água&r."
 	]
-	quest.12FB3990CA1653A4.title: "&fA &#DBA15BBroca a Vapor&r"
+	quest.12FB3990CA1653A4.title: "&fA &#DBA15ABroca a Vapor&r"
 	quest.164EA8EE10CA1583.quest_desc: ["&fO &#ED9553Macerator&r transforma &6minérios brutos&r em pós. Ele também pode reciclar todos os tipos de &6materiais&r, transformando-os em pó."]
 	quest.164EA8EE10CA1583.title: "&fO &#ED9553Macerador de Bronze"
 	quest.1C9D3FC67D58AC02.quest_desc: ["O &#EDD653&nMisturador&r nos permitirá combinar itens e fluidos. Eles podem ser usados para tingir itens ou até mesmo duplicá-los."]
 	quest.1C9D3FC67D58AC02.title: "&fO &#ED9553Misturador de Bronze"
 	quest.1E4E462928F2A71C.quest_desc: [
-		"O &7&nForno de Coque&r será usado para converter &#787777Carvão&r em &#696464Coque&r. O &#696464Coque&r é 4 vezes mais eficaz como combustível do que &#787777Carvão."
+		"O &7&nForno de Coque&r será usado para converter &#787777Carvão&r em &#696464Coque&r. O &#696464Coque&r é 4 vezes mais eficaz como combustível do que &#787777Carvão&r."
 		""
 		"O multibloco pode ser visualizado segurando uma &#D1D15EChave Inglesa&r na mão secundária ou principal. Segurando uma &#B4D95DEscotilha&r na mão indicará as possíveis posições para elas."
 		""
@@ -61,7 +61,7 @@
 	quest.253822C64BBBB1EB.quest_desc: ["O &#6E6D6DMartelo de Forja&r permitirá que você esmague facilmente os &#9AD5EDBarras&r ou minérios de Estanho em seus respectivos pós."]
 	quest.253822C64BBBB1EB.quest_subtitle: "Nem tão 'estranho' assim."
 	quest.253822C64BBBB1EB.title: "&fPó de Estanho"
-	quest.25EE7E0119010291.title: "&fA Barra de &7Aço"
+	quest.25EE7E0119010291.title: "&fO Lingote de &7Aço"
 	quest.357DDE894EB512F7.quest_desc: ["A &#65C2A6Cortador de Fios&r é capaz de aplicar exatamente a quantidade certa de força para fazer &#53E67BFios&r para nós. Eletrizante!! Eu sei..."]
 	quest.357DDE894EB512F7.title: "&fO &7Cortador de Fios"
 	quest.3AA4D1B60E4E71A5.quest_desc: [
@@ -75,7 +75,7 @@
 	quest.458BFDB636F8B495.quest_desc: [
 		"Combinar o &6Pó de Coque&r com &8Ferro&r resultará em &8Pó de Aço Cru&r. "
 		""
-		"Cozinhá-lo na &eFornalha a Vapor&r gerará &8Barras de Aço&r necessários para o progresso futuro."
+		"Cozinhá-lo no &eAlto-forno de Vapor&r gerará &8Lingotes de Aço&r necessários para o progresso futuro."
 	]
 	quest.458BFDB636F8B495.title: "&fPó de Aço Cru"
 	quest.478C1AF86610A8B7.quest_desc: ["O &#EDD653&nCompressor&r é usado para fazer &#53EDAAChapas&r, &#53EDAACurvas&r e &#53EDAAAnéis&r."]
@@ -108,11 +108,11 @@
 	quest.5CCF92238B23EDC9.title: "&#A0DE45Bem-vindo ao &9Modern Industrialization&r"
 	quest.5E191081662C2F1A.quest_desc: ["O &#6E6D6DMartelo de Forja&r funciona como o bloco de estação de trabalho do aldeão de &#A0DE45Modern Industrialization&r. Esse aldeão oferecerá uma grande variedade de trocas úteis."]
 	quest.68EAB0248989FC97.quest_desc: [
-		"A &#EDD653&nFornalha a Vapor&r desbloqueia novos horizontes de progresso. Este será um multibloco essencial em seus futuros empreendimentos."
+		"O &#EDD653&nAlto-forno de Vapor&r desbloqueia novos horizontes de progresso. Este será um multibloco essencial em seus futuros empreendimentos."
 		""
-		"Esse multibloco não apenas permitirá fabricar &7Barras de Aço&r, mas também processar &#696E60Óleo Sintético Bruto&r em &#494D43Óleo Sintético&r, que será usado posteriormente para &#36472ABorracha&r e outras coisas."
+		"Esse multibloco não apenas permitirá fabricar &7Lingotes de Aço&r, mas também processar &#696E60Óleo Sintético Bruto&r em &#494D43Óleo Sintético&r, que será usado posteriormente para &#36472ABorracha&r e outras coisas."
 	]
-	quest.68EAB0248989FC97.title: "&fO &eAlto-forno a Vapor"
+	quest.68EAB0248989FC97.title: "&fO &eAlto-forno de Vapor"
 	quest.700F346E3361E9AF.quest_desc: [
 		"Agora que você tem &8Aço&r, pode melhorar suas &6Máquinas de Bronze&r, se quiser. "
 		""
@@ -127,16 +127,16 @@
 	quest.7282DCB1547CEB63.quest_desc: [
 		"O &#ED9553Bronze&r será o bloco de construção da &7&nEra do Vapor&r. "
 		""
-		"Cozinhar esse pó renderá as &#ED9553Barras de Bronze&r que usaremos adiante."
+		"Cozinhar esse pó renderá as &#ED9553Lingotes de Bronze&r que usaremos adiante."
 	]
 	quest.7282DCB1547CEB63.title: "&#EDD653Bronze"
 	quest.7493CDDE7861709C.title: "&fCarcaça de Máquina de &7Aço"
 	quest.7A873E48E38B5C0E.quest_desc: ["As &8Máquinas de Aço&r usam o dobro de vapor comparadas às de &6Bronze&r, mas compensam com o dobro de velocidade."]
 	quest.7A873E48E38B5C0E.title: "&fA Era do &7Aço"
 	quest.7D220876E8FF7AED.quest_desc: [
-		"O &#65C2A6Desempacotador&r tem muitos usos, desde descompactar &#53E67BBlocos em Barras&r até &#53E67Breciclar partes&r de máquinas."
+		"O &#65C2A6Desempacotador&r tem muitos usos, desde descompactar &#53E67BBlocos em Lingotes&r até &#53E67Breciclar partes&r de máquinas."
 		""
-		"&oVocê pode até conseguir Barras de Silício mais facilmente com ele.&r"
+		"&oVocê pode até conseguir Lingotes de Silício mais facilmente com ele.&r"
 	]
 	quest.7D220876E8FF7AED.title: "&fO &7Desempacotador"
 	task.198A217D6A4C951C.title: "Trocas com Aldeão"

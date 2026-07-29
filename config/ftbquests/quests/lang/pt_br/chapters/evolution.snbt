@@ -22,7 +22,7 @@
 	quest.1B06907584B3405B.title: "Encontrando &bPedras da Aurora"
 	quest.1E0E07B8CCC48531.quest_desc: ["&aPedras do Trovão&r surgem em biomas de colinas. \\n\\nÀs vezes, em selvas também."]
 	quest.1E0E07B8CCC48531.title: "Encontrando &aPedra do Trovão"
-	quest.2182F3E8D8696D6C.quest_desc: ["&cPedras do Fogo&r surgem em desertos e também em alguns biomas d'O Nether. \\n\\nMuito raramente em praias também!"]
+	quest.2182F3E8D8696D6C.quest_desc: ["&cPedras do Fogo&r surgem em desertos e também em alguns biomas d'&c&lO Nether&r. \\n\\nMuito raramente em praias também!"]
 	quest.2182F3E8D8696D6C.title: "Encontrando &cPedras do Fogo"
 	quest.252E8C0AA0C61575.quest_desc: ["&cCharcadet&r tem 2 caminhos de &bevolução&r diferentes que pode seguir. \\n\\nO primeiro é o &cArmarogue&r, que é obtido ao dar a ele a &eArmadura Auspiciosa&r. \\n\\nVocê pode encontrar a &eArmadura Auspiciosa&r em baús de remanescentes de bastião! \\n\\nO segundo é o &cCeruledge&r, que usa a &5Armadura Maliciosa&r. \\n\\nA &5Armadura Maliciosa&r surge em baús de fortalezas do Nether!"]
 	quest.252E8C0AA0C61575.title: "Itens de &bevolução&r do &cCharcadet"
@@ -35,14 +35,14 @@
 	quest.36B8B3C61E0CFAD1.quest_desc: ["Esta missão foi escrita pela &6Equipe do AllTheMods&r ou por um &2colaborador da comunidade&r para uso nos pacotes de mods AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r estão licenciados sob &eTodos os Direitos Reservados&r, esta missão não pode ser usada em nenhum pacote público que não tenha sido lançado pela &6Equipe do AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
 	quest.37E3E12CFC8DCA4F.quest_desc: ["A &2Pedra da Folha&r &bevoluirá&r &2Gloom&r em &2Vileplume&r, &2Weepinbell&r em &2Victreebel&r, &2Exeggcute&r em &2Exeggutor&r e &2Nuzleaf&r em &2Shiftry&r."]
 	quest.37E3E12CFC8DCA4F.title: "&2Pedra da Folha"
-	quest.39E4FD684972B543.quest_desc: ["Há várias coisas que você precisa concluir para &bevoluir&r um &cPokémon&r... então é bem difícil &bevoluir&r um sem querer... \\n\\nMas acho que se você quiser &breverter a evolução&r do seu &cPokémon&r, basta dar este item a ele! \\n\\nNão, isso não funciona em &cPokémon&r de primeira &bevolução&b para encontrar &revoluções&a negativas."]
+	quest.39E4FD684972B543.quest_desc: ["Há várias coisas que você precisa concluir para &bevoluir&r um &cPokémon&r... então é bem difícil &bevoluir&r um sem querer... \\n\\nMas acho que se você quiser &breverter a evolução&r do seu &cPokémon&r, basta dar este item a ele! \\n\\nNão, isso não funciona em &cPokémon&r de primeira &bevolução&r para encontrar &bevoluções&r negativas."]
 	quest.3ACC787A0ED75A11.quest_desc: ["A &aPedra Brilhante&r &bevoluirá&r &2Roselia&r em &2Roserade&r e &dFloette&r em &dFlorges&r."]
 	quest.3ACC787A0ED75A11.title: "&aPedra Brilhante"
 	quest.3B04DBF92FDF859F.quest_desc: ["Bom trabalho! Você levou seu &cPokémon&r (&bEvolução de Nível 1&r) ao nível 15! \\n\\nPor que ainda não podemos &bevoluí-los&r? \\n\\nGraças aos &4&lTreinadores Radicais&r, precisaremos derrotar um certo &4Treinador&r em batalha para desbloquear nosso limite de nível. \\n\\nObtenha um &4Cartão de Treinador&r e encontre um &4Associado de Treinador&r (eu os encontrei com mais frequência em vilas!)"]
 	quest.3B04DBF92FDF859F.title: "Limites de Nível"
 	quest.3F67085593A2DF93.quest_desc: ["&9Pedras da Lua&r são encontradas em taigas e cavernas de espeleotemas."]
 	quest.3F67085593A2DF93.title: "Encontrando Pedras da Lua"
-	quest.402F1F09F5AB59FD.quest_desc: ["&dAlcremie&r é um &cPokémon&r baseado em sorvete! \\n\\nEntão, quando você &bevoluir&d &rMilcery&d em &rAlcremie&d com esses doces, ela os usará como coberturas! Muito fofo."]
+	quest.402F1F09F5AB59FD.quest_desc: ["&dAlcremie&r é um &cPokémon&r baseado em sorvete! \\n\\nEntão, quando você &bevoluir &dMilcery&r em &dAlcremie&r com esses doces, ela os usará como coberturas! Muito fofo."]
 	quest.402F1F09F5AB59FD.title: "Item de &bevolução&r do &dMilcery"
 	quest.46342661700839E0.quest_desc: ["A &bPedra da Aurora&f &bevoluirá&r &dKirlia&f em &dGallade&r e &bSnorunt&f em &bFroslass&r."]
 	quest.46342661700839E0.title: "&bPedra da Aurora"
@@ -55,7 +55,7 @@
 	quest.53B3B9A401360586.quest_desc: ["A &aPedra do Trovão&r &bevoluirá&r &ePikachu&r em &eRaichu&r e Eevee em &eJolteon&r."]
 	quest.53B3B9A401360586.title: "&aPedra do Trovão"
 	quest.53E70A8232A8F06E.quest_desc: ["Vendedores ambulantes e &4Treinadores&r?!?!?! De quantos visitantes nós precisamos! \\n\\nBem, podemos nos livrar dos &4Treinadores&r com um &4Bastão Repelente de Treinadores&r. \\n\\nBasta colocá-lo no chão e eles não surgirão por perto!"]
-	quest.5FC88C5D97FFE44E.quest_desc: ["Se estiver jogando com amigos, você pode usar R neles para começar batalhas e &3trocar&c &rPokémon&c! \\n\\nVocê pode precisar alterar essa tecla se houver conflito. \\n\\nAlguns &cPokémon&r &bevoluirão&r após serem &3trocados&r com outra pessoa. \\n\\nNão tem amigos? Quer dizer, não joga em servidores? Não se preocupe, temos o &3Cabo de Ligação&r! \\n\\nUse este item em um &cPokémon&r para \"&3trocá-lo&r\", o que fará com que ele &bevolua&r!"]
+	quest.5FC88C5D97FFE44E.quest_desc: ["Se estiver jogando com amigos, você pode usar R neles para começar batalhas e &3trocar &cPokémon&r! \\n\\nVocê pode precisar alterar essa tecla se houver conflito. \\n\\nAlguns &cPokémon&r &bevoluirão&r após serem &3trocados&r com outra pessoa. \\n\\nNão tem amigos? Quer dizer, não joga em servidores? Não se preocupe, temos o &3Cabo de Ligação&r! \\n\\nUse este item em um &cPokémon&r para \"&3trocá-lo&r\", o que fará com que ele &bevolua&r!"]
 	quest.5FC88C5D97FFE44E.title: "Evoluindo por meio de Trocas"
 	quest.6C3E88C02ED3C1F0.quest_desc: ["Seja por níveis, itens, &3trocas&r ou quem sabe o que mais! Para levar seu &cPokémon&r à próxima &bevolução&r, o processo é sempre o mesmo. \\n\\nQuando o &cPokémon&r estiver pronto, use (M) para abrir sua equipe. \\n\\nLá, visualize o &cPokémon&r e o botão &bEvoluir&r estará abaixo da imagem do &cPokémon&r. \\n\\nClique nele e o &cPokémon&r &bevoluirá&r!"]
 	quest.6C3E88C02ED3C1F0.title: "&bEvolua&r seu &cPokémon"

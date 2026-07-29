@@ -12,29 +12,29 @@
 	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Perfurante"
 	quest.0DF4B01CC5B49E4E.quest_desc: ["Com este Molde, você pode fazer a espada básica! Dano confiável e velocidade confiável."]
 	quest.0DF4B01CC5B49E4E.quest_subtitle: "O bom e velho confiável"
-	quest.0EF9F10A2178451F.quest_desc: ["Todas as partes da &c&lFundição&r (exceto Torneiras, Bancada de Fundição e Bacias) podem ser tingidas com qualquer &zCor&r, seja do Minecraft Vanilla ou do Dyenamics. &zCores&r são intercambiáveis em uma &c&lFundição&r, também, então você pode ter Fundições multicoloridas, se desejar."]
+	quest.0EF9F10A2178451F.quest_desc: ["Todas as partes da &c&lFundição&r (exceto Torneiras, Bancada de Fundição e Bacias) podem ser tingidas com qualquer &zCor&r, seja do Minecraft Vanilla ou do Dyenamics. &zCores&r são intercambiáveis em uma &c&lFundição&r, também, então você pode ter &c&lFundições&r multicoloridas, se desejar."]
 	quest.0EF9F10A2178451F.title: "&zPartes de &c&lFundição&r &zTingíveis"
 	quest.0FEAD3CA2CC4A8B1.title: "Catalisador de Carregador de Luz Estelar Nível 3"
 	quest.11B0B93D725ABE43.quest_desc: ["O equipamento do Silent Gear pode ser reparado usando um &9Kit de Reparo&r.\\n\\nPara reparar um item, coloque o Kit de Reparo em uma grade de criação e, em seguida, coloque os materiais necessários para reparar a ferramenta junto com ele. Isso irá \"encher\" o Kit de Reparo.\\n\\nPara reparar a ferramenta, combine o Kit de Reparo cheio com a ferramenta que você gostaria de reparar em uma grade de criação."]
 	quest.11B0B93D725ABE43.quest_subtitle: "Não são necessárias Bigornas"
-	quest.1290A26F44659212.quest_desc: ["Alguns metais, como o &6Allthemodium&r, têm um ponto de fusão que a &cLava&r comum não consegue alcançar. Em vez disso, você precisará do calor aumentado que a &9Lava da Alma&r fornece.\\n\\nA &cLava&r comum fornece até 1000 C de calor, enquanto a &9Lava da Alma&r fornece 3000 C."]
+	quest.1290A26F44659212.quest_desc: ["Alguns metais, como o &6Allthemodium&r, têm um ponto de fusão que a &cLava&r comum não consegue alcançar. Em vez disso, você precisará do calor aumentado que a &9Lava das Almas&r fornece.\\n\\nA &cLava&r comum fornece até 1000 C de calor, enquanto a &9Lava das Almas&r fornece 3000 C."]
 	quest.1290A26F44659212.quest_subtitle: "Quando a Lava não for quente o suficiente"
-	quest.1290A26F44659212.title: "&9Lava da Alma"
+	quest.1290A26F44659212.title: "&9Lava das Almas"
 	quest.158B24939A269D83.quest_desc: ["A Melhoria de Ponta é usada para aumentar o nível de mineração de uma ferramenta.\\n\\nPor exemplo: Se você tem uma Picareta de Ferro, com 1 Diamante, você pode fazer uma Melhoria de Ponta de Diamante e colocá-la na sua picareta. Isso permitirá que ela mine Obsidiana, além de dar um aumento de status."]
 	quest.158B24939A269D83.quest_subtitle: "Para quando você não encontra 3 Diamantes"
 	quest.2156C00E30424844.quest_desc: ["Os &4Tanques&r são feitos para adicionar líquidos à nossa &c&lFundição&r. \\n\\nPrincipalmente combustível. \\n\\nPrincipalmente &cLava&r! \\n\\nEssa parece ser uma das únicas maneiras de realmente abastecer a &c&lFundição&r."]
-	quest.2156C00E30424844.title: "&l&cTanques da &4Fundição"
+	quest.2156C00E30424844.title: "&4Tanques da &c&lFundição&r"
 	quest.222D08F43B995FED.quest_subtitle: "Tente amassar isso"
 	quest.22A0A9C81A5C85A1.quest_subtitle: "Segurando tudo junto"
 	quest.262036FE8E87F50A.quest_subtitle: "Mineração 3x3"
-	quest.26F9DB31A835B69C.quest_desc: ["&nFundição&r: &aOk&r \\n&nMetal Líquido na Fundição&r: &aOk&r \\n\\nAgora, como tiramos isso de lá? \\n\\nLembra do nosso amigo de antes? O &cDreno&r da &b&lFundição&r? Precisaremos apresentá-lo ao nosso novo amigo, a &7Torneira&r da &c&lFundição&r. \\n\\nColoque a &7Torneira&r da &c&lFundição&r no &bDreno&r, agora podemos colocar Blocos abaixo dela para drenar o &7Metal Líquido&r para... \\n\\nBlocos como o &8Recipiente de Fundição&r, que transformará cerca de 900mB de &7Metal Líquido&r no &7Bloco de Metal&r completo. \\n\\nOu a &8Mesa de Fundição&r, que é o que precisaremos para fazer..."]
+	quest.26F9DB31A835B69C.quest_desc: ["&nFundição&r: &aOk&r \\n&nMetal Líquido na Fundição&r: &aOk&r \\n\\nAgora, como tiramos isso de lá? \\n\\nLembra do nosso amigo de antes? O &cDreno&r da &b&lFundição&r? Precisaremos apresentá-lo ao nosso novo amigo, a &7Torneira&r da &c&lFundição&r. \\n\\nColoque a &7Torneira&r da &c&lFundição&r no &bDreno&r, agora podemos colocar Blocos abaixo dela para drenar o &7Metal Líquido&r para... \\n\\nBlocos como o &8Recipiente de Fundição&r, que transformará cerca de 900mB de &7Metal Líquido&r no &7Bloco de Metal&r completo. \\n\\nOu a &8Mesa de Moldagem&r, que é o que precisaremos para fazer..."]
 	quest.26F9DB31A835B69C.title: "Fundindo Itens"
 	quest.29131C3532610ADF.quest_desc: ["Esta é uma Tampa de Pilar de Nível 2 para o Carregador de Luz Estelar."]
 	quest.29131C3532610ADF.title: "Tampa de Pilar de Nível 2 do Carregador de Luz Estelar"
 	quest.2BF119DD5D977409.title: "Catalisador de Nível 2 do Carregador de Luz Estelar"
-	quest.2EB96FF06627FD9A.quest_desc: ["O Recuperador permite que você desmonte equipamentos nos itens que os compõem.\\n\\nPor exemplo: Se você colocar umas Botas de Diamante, receberá 4 Diamantes de volta."]
+	quest.2EB96FF06627FD9A.quest_desc: ["O Reciclador permite que você desmonte equipamentos nos itens que os compõem.\\n\\nPor exemplo: Se você colocar umas Botas de Diamante, receberá 4 Diamantes de volta."]
 	quest.2EB96FF06627FD9A.quest_subtitle: "Desmontando (alguns) itens!"
-	quest.2EB96FF06627FD9A.title: "Recuperador"
+	quest.2EB96FF06627FD9A.title: "Reciclador"
 	quest.3722B43822F80470.quest_desc: ["Mais dano que uma Espada, mas mais lenta."]
 	quest.3722B43822F80470.quest_subtitle: "Liberte Seu Samurai Interior"
 	quest.3930404D5C8B44EB.quest_desc: ["Isso é usado para criar ligas personalizadas.\\n\\nÉ também a única maneira de obter Aço Tírio!"]
@@ -55,7 +55,7 @@
 	quest.462C1F75A2FB9F02.quest_subtitle: "Cadê o Willy?"
 	quest.48D358470A019E7A.title: "Catalisador de Carregador de Luz Estelar Tier 1"
 	quest.52CDB46F6CBF007B.quest_subtitle: "Você está cavando isso?"
-	quest.571EE70FCB4D999F.quest_desc: ["Não quer usar &cLava&r em sua &c&lFundição&r? Então, use &4FE&r.\\n\\nVocê precisará de &4Capacitores&r em vez de &4Tanques&r, assim como &6Bobinas de Aquecimento&r &4Elétricas&r ou de &9Alta Potência&r em vez de &6Bobinas de Aquecimento Líquido&r.\\n\\nAs &6Bobinas de Aquecimento&r &4Elétricas&r são capazes de produzir apenas o mesmo calor que a &cLava&r (1000 C), enquanto as &6Bobinas de Aquecimento&r de &9Alta Potência&r são capazes de produzir o mesmo calor que a &9Lava da Alma&r (3000 C)."]
+	quest.571EE70FCB4D999F.quest_desc: ["Não quer usar &cLava&r em sua &c&lFundição&r? Então, use &4FE&r.\\n\\nVocê precisará de &4Capacitores&r em vez de &4Tanques&r, assim como &6Bobinas de Aquecimento&r &4Elétricas&r ou de &9Alta Potência&r em vez de &6Bobinas de Aquecimento Líquido&r.\\n\\nAs &6Bobinas de Aquecimento&r &4Elétricas&r são capazes de produzir apenas o mesmo calor que a &cLava&r (1000 C), enquanto as &6Bobinas de Aquecimento&r de &9Alta Potência&r são capazes de produzir o mesmo calor que a &9Lava das Almas&r (3000 C)."]
 	quest.571EE70FCB4D999F.title: "&l&cFundição &4Elétrica"
 	quest.63CAD77A4488F2CE.quest_subtitle: "Picareta + Machado + Pá"
 	quest.657B3116A6419420.quest_subtitle: "Sua Própria Alça!"
@@ -64,16 +64,16 @@
 	quest.6A393C7A24899E3E.quest_desc: ["Colocar um Barra no Grader com um Catalisador de Grader dará ao material uma nota.\\n\\nQuanto melhor a nota, melhores são os atributos do material.\\n\\nA melhor nota é \"MAX\"."]
 	quest.6A393C7A24899E3E.quest_subtitle: "O Testador de Materiais"
 	quest.6B78378BC8036227.title: "Catalisador de Grader Tier 1"
-	quest.6BBC440BD0AD0E93.quest_desc: ["Algumas pessoas gostam de &9&lSilent Gear&r, enquanto outras gostam de &7&lTinker's Construct&r. \\n\\nEm vez de escolher entre eles, decidimos pegar o melhor de ambos os mundos usando &9&lSilent Gear&r e &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r mudará como obtemos nossos Itens &9&lSilent&r. Em vez de usar &9Plantas&r, agora precisaremos de &8Moldes&r e uma &c&lFundição&r. \\n\\nPara começar a fazer a &c&lFundição&r, comece com &cArgila Refratária&r."]
+	quest.6BBC440BD0AD0E93.quest_desc: ["Algumas pessoas gostam de &9&lSilent Gear&r, enquanto outras gostam de &7&lTinker's Construct&r. \\n\\nEm vez de escolher entre eles, decidimos pegar o melhor de ambos os mundos usando &9&lSilent Gear&r e &c&lProductive Metalworks&r! \\n\\n&c&lProductive Metalworks&r mudará como obtemos nossos Itens &9&lSilent&r. Em vez de usar &9Projetos&r, agora precisaremos de &8Moldes&r e uma &c&lFundição&r. \\n\\nPara começar a fazer a &c&lFundição&r, comece com &cArgila Refratária&r."]
 	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r e &c&lProductive Metalworks"
 	quest.6BFD7854F078BF16.quest_subtitle: "Agarre isso"
-	quest.711826BBCA832EE2.quest_desc: ["Todos os &8Moldes&r são feitos da mesma forma. Em outro sentido, quero dizer que são feitos do mesmo jeito. \\n\\nDerramando &8Aço&r sobre um Item em uma &8Mesa de Fundição (Casting Table)&r! \\n\\nComo fazemos &8Aço&r, você pergunta? Simplesmente derreta quaisquer Itens ou Barras de &8Aço&r. Ou você pode ligar 9 de &7Ferro&r com 10 de &0Carvão&r. \\n\\nA ligação ocorrerá quando a &c&lFundição&r estiver &6Aquecida&r e as quantidades corretas de diferentes &7Metais Líquidos&r estiverem nela. Esses dois &7Metais Líquidos&r se combinarão em um &7Metal Líquido&r!"]
+	quest.711826BBCA832EE2.quest_desc: ["Todos os &8Moldes&r são feitos da mesma forma. Em outro sentido, quero dizer que são feitos do mesmo jeito. \\n\\nDerramando &8Aço&r sobre um Item em uma &8Mesa de Moldagem&r! \\n\\nComo fazemos &8Aço&r, você pergunta? Simplesmente derreta quaisquer Itens ou Lingotes de &8Aço&r. Ou você pode ligar 9 de &7Ferro&r com 10 de &0Carvão&r. \\n\\nA ligação ocorrerá quando a &c&lFundição&r estiver &6Aquecida&r e as quantidades corretas de diferentes &7Metais Líquidos&r estiverem nela. Esses dois &7Metais Líquidos&r se combinarão em um &7Metal Líquido&r!"]
 	quest.711826BBCA832EE2.title: "&8Moldes"
 	quest.766C80E5D7B7A916.quest_subtitle: "Escolha um!"
 	quest.769D5DE66D13B256.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
-	quest.7C3D763CF22D167A.quest_desc: ["O Carregador da Luz Estrelar pode \"encantar\" materiais com o encantamento \"Carregado de Estrelas\".\\n\\nUma estrutura deve ser construída com o Carregador da Luz Estrelar no meio, à vista do céu noturno. Ele só ganha Poder da Luz Estrelar durante a noite.\\n\\nA estrutura do Carregador deve ser colocada no meio de uma estrutura 7x7, com um Pilar em cada canto. Cada pilar deve ter uma \"Tampa do Carregador da Luz Estrelar\".\\n\\nEle também requer um catalisador de carregador por material."]
+	quest.7C3D763CF22D167A.quest_desc: ["O Carregador de Luz Estelar pode \"encantar\" materiais com o encantamento \"Carregado de Estrelas\".\\n\\nUma estrutura deve ser construída com o Carregador de Luz Estelar no meio, à vista do céu noturno. Ele só ganha Poder da Luz Estrelar durante a noite.\\n\\nA estrutura do Carregador deve ser colocada no meio de uma estrutura 7x7, com um Pilar em cada canto. Cada pilar deve ter uma \"Tampa do Carregador de Luz Estelar\".\\n\\nEle também requer um catalisador de carregador por material."]
 	quest.7C3D763CF22D167A.quest_subtitle: "\"Encantando\" Materiais"
-	quest.7C3D763CF22D167A.title: "&dCarregador da Luz Estrelar"
+	quest.7C3D763CF22D167A.title: "&dCarregador de Luz Estelar"
 	quest.7D690A7D0FF6E328.title: "Catalisador de Niveladora Nível 3"
 	quest.7E13007340A818C5.quest_desc: ["Esta é uma Tampa de Pilar Nível 1 para o Carregador da Luz Estelar."]
 	quest.7E13007340A818C5.title: "Tampa de Pilar do Carregador da Luz Estelar Nível 1"

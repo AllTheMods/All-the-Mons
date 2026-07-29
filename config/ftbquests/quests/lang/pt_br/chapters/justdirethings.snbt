@@ -637,7 +637,7 @@
 	quest.6ADE6F9E004055F7.quest_desc: [
 		"Os Cristais de Tempo são um novo material adicionado por JDT. Eles crescem em Blocos de Drusa Cristal de Tempo, que são criados ao espalhar goo em Blocos de Drusa de Ametista ou Blocos de Cristal de Tempo.\\n\\nNO ENTANTO, o Bloco de Drusa de Cristal de Tempo deve coletar tempo da &9Superfície&r, do &6Nether&r, e do &aEnd&r para poder crescer Agregados de Cristal de Tempo. Você NÃO PODE quebrar ou usar toque suave no Bloco de Drusa de Cristal de Tempo. Você deve usar um Trocador, Caixa de Papelão, ou Gadget de Cortar e Colar para movê-los.\\n\\nDepois de um tempo, o Bloco de Drusa de Cristal de Tempo vai &2ficar sem energia&r, e deverá fazer outra viagem para a &9Superfície&r, &6Nether&r, e &aEnd&r."
 		"{@pagebreak}"
-		"E se a &2codificação de &zcores&r na página anterior não foi suficiente, adicionei uma imagem para ajudar você a identificar em qual estágio está cada Bloco de Drusa de Cristal de Tempo."
+		"E se a &2codificação de &9cores&r na página anterior não foi suficiente, adicionei uma imagem para ajudar você a identificar em qual estágio está cada Bloco de Drusa de Cristal de Tempo."
 		""
 		"{image:atm:textures/questpics/justdirethings/budding_time_crystal_reference.png width:250 height:125 align:center}"
 	]

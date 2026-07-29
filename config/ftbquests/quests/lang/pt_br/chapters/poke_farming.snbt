@@ -1,7 +1,7 @@
 {
-	quest.19188EA560161CCF.quest_desc: ["&8Seixo&r é um recurso importante, então obviamente precisamos de uma forma de cultivá-lo. \\n\\nAqui podemos dar a Pokémon do tipo &7Aço&r um trabalho para cultivá-lo. \\n\\nQuando &8Seixo Preto&r é colocado próximo a &cLava&r ou &cMagma&r, ele crescerá como &5Ametista&r. &cPokémon&r do tipo &7Aço&r em um &6Pasto&r colherão &8Seixo Preto&r totalmente maduro."]
-	quest.19188EA560161CCF.title: "Mineração Auto. de &8Seixos&r"
-	quest.1F0DC2F7794A0288.quest_desc: ["Você realmente sente tanta falta das &2Monstros Passivos&r? \\n\\nBem, acho que você pode precisar delas para certas coisas. Certo, pode tê-las de volta. \\n\\nPor um preço no Mercado! \\n\\nBem-vindo(a) ao mundo real! Nada é de graça, AHAHAHAHA!!!"]
+	quest.19188EA560161CCF.quest_desc: ["&8Jaspe&r é um recurso importante, então obviamente precisamos de uma forma de cultivá-lo. \\n\\nAqui podemos dar a Pokémon do tipo &7Aço&r um trabalho para cultivá-lo. \\n\\nQuando &8Jaspe Preto&r é colocado próximo a &cLava&r ou &cMagma&r, ele crescerá como &5Ametista&r. &cPokémon&r do tipo &7Aço&r em um &6Pasto&r colherão &8Jaspe Preto&r totalmente maduro."]
+	quest.19188EA560161CCF.title: "Mineração Auto. de &8Jaspes&r"
+	quest.1F0DC2F7794A0288.quest_desc: ["Você realmente sente tanta falta das &2Criaturas Passivas&r? \\n\\nBem, acho que você pode precisar delas para certas coisas. Certo, pode tê-las de volta. \\n\\nPor um preço no Mercado! \\n\\nBem-vindo(a) ao mundo real! Nada é de graça, AHAHAHAHA!!!"]
 	quest.1F0DC2F7794A0288.title: "Criaturas &2&lVanilla&r"
 	quest.211AE5F590087251.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &cFogo&r o encherão com &cLava&r a cada 90 segundos."]
 	quest.211AE5F590087251.title: "&cLava grátis"
@@ -15,7 +15,7 @@
 	quest.2B75BBE79045C25A.title: "Cuidado com Frutas"
 	quest.2F28B8949C088C00.quest_desc: ["Funis de Ender muito caros? Por que não usar &cPokémon&r mágicos! \\n\\n&cPokémon&r &dPsíquico&r podem pegar itens do chão e colocá-los em inventários. \\n\\nExceto que tenho quase certeza de que eles usam as mãos, o que me deixa confuso sobre por que qualquer &cPokémon&r não pode simplesmente fazer isso!"]
 	quest.2F28B8949C088C00.title: "Coleta de itens"
-	quest.41FC412D91C6A8F0.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &Água&r o encherão com &bÁgua&r a cada 90 segundos."]
+	quest.41FC412D91C6A8F0.quest_desc: ["Se você tiver um Caldeirão vazio, tipos &bÁgua&r o encherão com &bÁgua&r a cada 90 segundos."]
 	quest.41FC412D91C6A8F0.title: "&bÁgua grátis"
 	quest.4519A9C7A77C5398.quest_desc: ["Chega de vacas... mas temos &cPokémon&r que parecem vacas! \\n\\nUse um balde em um Miltank e você conseguirá um pouco de leite. \\n\\nNão sei se eu beberia... mas é a única opção aqui para leite."]
 	quest.4519A9C7A77C5398.title: "Eca, &cPoké&fLeite"
