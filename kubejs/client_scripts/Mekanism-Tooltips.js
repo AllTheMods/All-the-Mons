@@ -7,87 +7,87 @@ ItemEvents.modifyTooltips(allthemods => {
 
     //Mekasuit
     allthemods.add(/mekanism:mekasuit_/, [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_consumption').red(),
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_consumption').red(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity').green()
     ])
     //Meka Tool
     allthemods.add('mekanism:meka_tool', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_consumption').red(),
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity_exclaim').green(),
-        Text.translate('kubejs.atm.tip.mekanism.increased_attack_speed_damage').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_consumption').red(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity_exclaim').green(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_attack_speed_damage').green()
     ])
 
     // ##### Generators #####
 
     //Solar Generator
     allthemods.add('mekanismgenerators:solar_generator', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity_production').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity_production').green()
     ])
     //Advanced Solar Generator
     allthemods.add('mekanismgenerators:advanced_solar_generator', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity_production').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity_production').green()
     ])
     //Wind Generator
     allthemods.add('mekanismgenerators:wind_generator', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity_production').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity_production').green()
     ])
     //Heat Generator
     allthemods.add('mekanismgenerators:heat_generator', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_energy_capacity_production').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_energy_capacity_production').green()
     ])
     //Gas Burning Generator
     allthemods.add('mekanismgenerators:gas_burning_generator', [
-        Text.translate('kubejs.atm.tip.mekanism.decreased_energy_production').red(),
-        Text.translate('kubejs.atm.tip.mekanism.increased_fuel_consumption').red()
+        Text.translate('kubejs.atm.tooltip.mekanism.decreased_energy_production').red(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_fuel_consumption').red()
     ])
     //Fission Generator
     allthemods.add(/mekanismgenerators:fission_/, [
-        Text.translate('kubejs.atm.tip.mekanism.decreased_energy_production').red(),
+        Text.translate('kubejs.atm.tooltip.mekanism.decreased_energy_production').red(),
     ])
     //Fusion Generator
     allthemods.add(/mekanismgenerators:fusion_/, [
-        Text.translate('kubejs.atm.tip.mekanism.decreased_energy_production').red(),
-        Text.translate('kubejs.atm.tip.mekanism.decreased_fuel_consumption').green(),
+        Text.translate('kubejs.atm.tooltip.mekanism.decreased_energy_production').red(),
+        Text.translate('kubejs.atm.tooltip.mekanism.decreased_fuel_consumption').green(),
     ])
     //Turbine
     allthemods.add(/mekanismgenerators:turbine_/, [
-        Text.translate('kubejs.atm.tip.mekanism.increased_production_speed').green(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_production_speed').green(),
     ])
     //Boiler
     allthemods.add(/mekanism:boiler_/, [
-        Text.translate('kubejs.atm.tip.mekanism.increased_production_speed').green(),
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_production_speed').green(),
     ])
 
     // ##### Machines #####
 
     //Upgrades
     allthemods.add(/mekanism:upgrade_/, [
-        Text.translate('kubejs.atm.tip.mekanism.increased_machine_boost').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_machine_boost').green()
     ])
     //Waste Barrel
     allthemods.add('mekanism:radioactive_waste_barrel', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_decay_rate').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_decay_rate').green()
     ])
     //Thermal Evaporation Tower
     allthemods.add(/mekanism:thermal_evaporation_/, [
-        Text.translate('kubejs.atm.tip.mekanism.increased_production_speed').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_production_speed').green()
     ])
     //Solar Neutron Activator
     allthemods.add('mekanism:solar_neutron_activator', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_production_speed').green(),
-        Text.translate('kubejs.atm.tip.mekanism.waste_to_polonium_buffed').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_production_speed').green(),
+        Text.translate('kubejs.atm.tooltip.mekanism.waste_to_polonium_buffed').green()
     ])
     //Isotopic Centrifuge
     allthemods.add('mekanism:isotopic_centrifuge', [
-        Text.translate('kubejs.atm.tip.mekanism.waste_to_plutonium_buffed').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.waste_to_plutonium_buffed').green()
     ])
     //Electric Pump
     allthemods.add('mekanism:electric_pump', [
-        Text.translate('kubejs.atm.tip.mekanism.increased_production_speed').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.increased_production_speed').green()
     ])
     //SPS
     allthemods.add(/mekanism:sps_/, [
-        Text.translate('kubejs.atm.tip.mekanism.decreased_energy_consumption').green()
+        Text.translate('kubejs.atm.tooltip.mekanism.decreased_energy_consumption').green()
     ])
 })
 
