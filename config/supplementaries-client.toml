@@ -152,7 +152,7 @@
 	#Enable Supplementaries to base textures off external Resource Packs rather than mod's default textures. 
 	use_external_resource_pack = false
 	#unfunny
-	"I am very boring and I don't want any Easter Egg" = false
+	"I am very boring and I don't want any Easter Egg" = true
 	#Enable Quark style config button on main menu
 	configs_button = false
 	#Config button Y offset
