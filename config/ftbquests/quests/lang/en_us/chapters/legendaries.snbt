@@ -126,10 +126,10 @@
 	quest.1E6F00000000111B.quest_desc: ["&aXerneas&r is the Life Pokémon, able to share eternal life and known to sleep for a thousand years in the form of a great glowing tree.\\n\\nFind it at the &2Tree of Life&r and offer an &bAurora Essence Jar&r to wake the giver of life. Catch it, and the forest itself rejoices."]
 	quest.1E6F00000000111B.quest_subtitle: "Kalos"
 	quest.1E6F00000000111B.title: "Xerneas"
-	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r is the icy steed of the &dCrown Shrine&r, a fierce horse that radiates cold sharp enough to freeze the ground it treads.\\n\\nGrow an &bIceroot Carrot&r to lure it from the shrine. Tame the frozen charger - the king Calyrex will want a mount."]
+	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r is the icy steed of the &dCrown Shrine&r, a fierce horse that radiates cold sharp enough to freeze the ground it treads.\\n\\nGrow an &bIceroot Carrot&r, found in the thalic pyaramid and grown in frozen biomes on thalic farmland, to lure it from the shrine. Tame the frozen charger - the king Calyrex will want a mount."]
 	quest.1E6F000000001121.quest_subtitle: "Galar"
 	quest.1E6F000000001121.title: "Glastrier"
-	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r is the spectral steed of the &dCrown Shrine&r, a ghostly horse that gallops faster than the eye can follow and saps the life from onlookers.\\n\\nGrow a &5Shaderoot Carrot&r to draw it out. Master the shadow steed - Calyrex may yet ride it."]
+	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r is the spectral steed of the &dCrown Shrine&r, a ghostly horse that gallops faster than the eye can follow and saps the life from onlookers.\\n\\nGrow a &5Shaderoot Carrot&r, found in thalic pyaramids, and grown in thalic sand, to draw it out. Master the shadow steed - Calyrex may yet ride it."]
 	quest.1E6F000000001127.quest_subtitle: "Galar"
 	quest.1E6F000000001127.title: "Spectrier"
 	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r is the king who once ruled all of Galar, a calm and gentle Pokémon said to see every past and future.\\n\\nIt waits at the &dCrown Shrine&r, but a king needs a steed. Claim both Glastrier and Spectrier first, then approach the throne to meet the monarch and choose your mount."]
@@ -252,7 +252,7 @@
 	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r is the aurora Pokémon, the legendary beast of pure water that runs on the north wind, reborn in the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft a &bSuicune Treat&r and bring it to the Burned Tower to draw it out."]
 	quest.1E6F0000000012CD.quest_subtitle: "Johto"
 	quest.1E6F0000000012CD.title: "Suicune"
-	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r at Ecruteak and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
+	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r in the Ecruteak town structure, and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
 	quest.1E6F0000000012D3.quest_subtitle: "Johto"
 	quest.1E6F0000000012D3.title: "Ho-Oh"
 	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r is the regal Galarian form of the legendary bird - a psychic flier whose serene gaze hides a cold and cruel streak.\\n\\nRaise the &bGalarian Urn of Frost&r in a similar way the Kantonian bird answered the Urn of Frost, except with 75 Psychic-type Pokémon, and the rival form sweeps in."]
@@ -267,7 +267,7 @@
 	quest.1E6F000000001308.quest_desc: ["&aCelebi&r is the time travel Pokémon, a forest guardian that slips between the past and the future and leaves blossoms wherever it rests.\\n\\nThe &eGS Ball&r cannot be crafted - you must trade for one from &6Kurt&r, the apricorn ball-maker (a PokéMart Trader villager named Kurt), then use it on an &2Ilex Shrine&r to call Celebi across time and catch it.\\n\\n&cNote:&r name a normal villager the vanilla way (with a name tag) - Kurt is a free spirit and doesn't like being locked up in an &eEasy Villagers&r Trader block."]
 	quest.1E6F000000001308.quest_subtitle: "Johto"
 	quest.1E6F000000001308.title: "Celebi"
-	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r is the gloomdweller Pokémon, a living shadow that hides underfoot and copies the moves of anyone it watches.\\n\\nStir &7Shadow Ichor&r in a cauldron together with the &8Shadowy Cowl&r and the &7Old Fighters Towel&r to draw it out of hiding, then catch it."]
+	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r is the gloomdweller Pokémon, a living shadow that hides underfoot and copies the moves of anyone it watches.\\n\\nStir &7Shadow Ichor&r in a cauldron together with the &8Shadowy Cowl&r and the &7Old Fighters Towel&r, found as loot in the sword and shield or thalic dungeons, to draw it out of hiding, then catch it."]
 	quest.1E6F00000000130D.quest_subtitle: "Alola"
 	quest.1E6F00000000130D.title: "Marshadow"
 	quest.1E6F000000001313.quest_desc: ["&dMeloetta&r is the melody Pokémon, whose songs stir such deep feeling that they can reshape its own body between graceful dance and soaring voice.\\n\\nRestore the &bDisc of the First Song&r from its fragments and play it at the &dMeloetta Jukebox&r to summon her, then catch her."]
