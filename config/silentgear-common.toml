@@ -57,7 +57,7 @@
 	#Material book settings
 	[item.material_book]
 		#Give the player a material book when joining the world for the first time
-		spawn_with_material_book = true
+		spawn_with_material_book = false
 
 #Settings for nerfed items.
 #You can give items reduced durability to encourage use of Silent Gear tools.
