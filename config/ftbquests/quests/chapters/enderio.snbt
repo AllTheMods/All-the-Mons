@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "09BDAFE51F182E5E"
 			image: "minecraft:block/bedrock"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "586FB90CA1EE5D1A"
 			image: "minecraft:block/fire_1"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "14AB721D0CFADFBE"
 			image: "enderio:item/zombie_electrode"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7B5D8062D41C00AB"
 			image: "enderio:item/creative_tab_icon"
 			rotation: 0.0d
 			width: 1.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "08E8EE07AF78C682"
 			image: "enderio:item/ender_resonator"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 6.0d
+			id: "639AD4F1631C02C2"
 			image: "atm:textures/questpics/enderio/enderiologo.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69055F64320EF589"
 			image: "enderio:item/creative_tab_icon"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6A93CA08B14FD877"
 			image: "enderio:item/creative_tab_icon"
 			rotation: 0.0d
 			width: 1.0d

@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "2F0528FFD17D2545"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.5d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 1.5d
+			id: "697045E5047D83B2"
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
 			width: 1.5d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 0.6d
+			id: "7573C6A239148AAE"
 			image: "hostilenetworks:item/prediction_matrix"
 			rotation: 0.0d
 			width: 0.6d
@@ -36,7 +39,7 @@
 			y: 2.8d
 		}
 	]
-	order_index: 3
+	order_index: 4
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

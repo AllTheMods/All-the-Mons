@@ -12,10 +12,10 @@
 	id: "1945AB5D3C7492BD"
 	images: [
 		{
-			click: "https://www.youtube.com/@ChosenArchitect"
+			click_action: "open_uri:https://www.youtube.com/@ChosenArchitect"
 			dependency: "7AB52F600829F468"
 			height: 3.5d
-			hover: ["ChosenArchitect"]
+			id: "0810906F81D2FA56"
 			image: "atm:textures/questpics/series/content_chosen.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -23,10 +23,10 @@
 			y: -4.8d
 		}
 		{
-			click: "https://www.youtube.com/@Danrique"
+			click_action: "open_uri:https://www.youtube.com/@Danrique"
 			dependency: "261E8EE0C7E7E2F0"
 			height: 3.5d
-			hover: ["Danrique"]
+			id: "6AF76E01F70E71D0"
 			image: "atm:textures/questpics/series/content_danrique.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -34,10 +34,10 @@
 			y: -4.8d
 		}
 		{
-			click: "https://www.youtube.com/@direwolf20"
+			click_action: "open_uri:https://www.youtube.com/@direwolf20"
 			dependency: "507635FE52E22D7D"
 			height: 3.5d
-			hover: ["Direwolf20"]
+			id: "6DDABB40D3034FF3"
 			image: "atm:textures/questpics/series/content_dire.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -45,10 +45,10 @@
 			y: -4.8d
 		}
 		{
-			click: "https://www.youtube.com/@MitinhoPlayer"
+			click_action: "open_uri:https://www.youtube.com/@MitinhoPlayer"
 			dependency: "0709CE22181A74BB"
 			height: 3.5d
-			hover: ["MitinhoPlayer"]
+			id: "3B5F32E04DC11D95"
 			image: "atm:textures/questpics/series/content_mitinho.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -56,10 +56,10 @@
 			y: -13.5d
 		}
 		{
-			click: "https://www.youtube.com/@Nofaxu"
+			click_action: "open_uri:https://www.youtube.com/@Nofaxu"
 			dependency: "13EB9A996928ED60"
 			height: 3.5d
-			hover: ["Nofaxu"]
+			id: "46FEC9810F7A065D"
 			image: "atm:textures/questpics/series/content_nofaxu.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -67,10 +67,10 @@
 			y: -4.8d
 		}
 		{
-			click: "https://www.youtube.com/@Pilpoh"
+			click_action: "open_uri:https://www.youtube.com/@Pilpoh"
 			dependency: "273605A191309522"
 			height: 3.5d
-			hover: ["Pilpoh"]
+			id: "3D670F332C3AD463"
 			image: "atm:textures/questpics/series/content_pilpoh1.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -78,10 +78,10 @@
 			y: -13.5d
 		}
 		{
-			click: "https://www.youtube.com/@virtcreates"
+			click_action: "open_uri:https://www.youtube.com/@virtcreates"
 			dependency: "31749B21AD674C5F"
 			height: 3.5d
-			hover: ["Virtuositas"]
+			id: "61F852CA6AA42891"
 			image: "atm:textures/questpics/series/content_virt.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -89,10 +89,10 @@
 			y: -4.8d
 		}
 		{
-			click: "https://www.twitch.tv/princessstellar"
+			click_action: "open_uri:https://www.twitch.tv/princessstellar"
 			dependency: "349E8C0C3F9CC99B"
 			height: 3.5d
-			hover: ["PrincessStellar"]
+			id: "1376607600353018"
 			image: "atm:textures/questpics/series/content_princess.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -100,10 +100,10 @@
 			y: -13.5d
 		}
 		{
-			click: "https://www.youtube.com/@BucketSt"
+			click_action: "open_uri:https://www.youtube.com/@BucketSt"
 			dependency: "508F619C2764FB5B"
 			height: 3.5d
-			hover: ["BucketSt"]
+			id: "005F2C1D67F21641"
 			image: "atm:textures/questpics/series/content_bucket.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -112,6 +112,7 @@
 		}
 		{
 			height: 24.0d
+			id: "63708002E680B2D1"
 			image: "atm:textures/questpics/series/content_background.png"
 			order: -1
 			rotation: 0.0d

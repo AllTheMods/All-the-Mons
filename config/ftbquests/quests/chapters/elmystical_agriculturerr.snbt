@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.25d
+			id: "5A40C8AEC7F748B0"
 			image: "minecraft:item/diamond"
 			rotation: 0.0d
 			width: 2.25d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.25d
+			id: "397D2970D8D03850"
 			image: "minecraft:item/emerald"
 			rotation: 0.0d
 			width: 2.25d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.5d
+			id: "571A162396E9DA1C"
 			image: "minecraft:textures/mob_effect/strength.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 2.25d
+			id: "38EC8482C5B9C9D0"
 			image: "allthemodium:item/allthemodium_ingot"
 			rotation: 0.0d
 			width: 2.25d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 4.0d
+			id: "02BA8443B5298756"
 			image: "atm:textures/questpics/enderdragon.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1885A630C410B060"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0C7865C10C5BB4FF"
 			image: "minecraft:textures/mob_effect/night_vision.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 6.0d
+			id: "30379EA9C5F2983B"
 			image: "atm:textures/questpics/mystical_agriculture/crux.png"
 			rotation: 0.0d
 			width: 3.913494809688581d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4DC82ABD51931D80"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 90.0d
 			width: 3.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1AACD51DFA129EB8"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 180.0d
 			width: 3.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 3.0d
+			id: "07DD61D3CBFEBF91"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: -90.0d
 			width: 3.0d
@@ -98,9 +109,9 @@
 			y: 0.125d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Inferium Watering Can"]
+			id: "4E7D496AC47CA688"
 			image: "mysticalagriculture:item/gear/inferium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -108,9 +119,9 @@
 			y: -6.375d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Prudentium Watering Can"]
+			id: "034C649EE20294AF"
 			image: "mysticalagriculture:item/gear/prudentium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -119,6 +130,7 @@
 		}
 		{
 			height: 1.0d
+			id: "34880E691D1D2C8F"
 			image: "mysticalagriculture:item/dye_agglomeratio"
 			rotation: 0.0d
 			width: 1.0d
@@ -127,6 +139,7 @@
 		}
 		{
 			height: 1.0d
+			id: "372421F305B0BDC3"
 			image: "mysticalagriculture:item/coral_agglomeratio"
 			rotation: 0.0d
 			width: 1.0d
@@ -135,6 +148,7 @@
 		}
 		{
 			height: 7.5d
+			id: "79387C8431367AED"
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 12.5d
@@ -142,9 +156,9 @@
 			y: -3.375d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Tertium Watering Can"]
+			id: "79FFF8334B86A65A"
 			image: "mysticalagriculture:item/gear/tertium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -153,6 +167,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74FCD2C499B44F9A"
 			image: "minecraft:item/redstone"
 			rotation: 0.0d
 			width: 1.0d
@@ -161,6 +176,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00546BC37CE8C5D4"
 			image: "minecraft:item/glowstone_dust"
 			rotation: 0.0d
 			width: 1.0d
@@ -169,6 +185,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1C7D03AB6E73A3BE"
 			image: "mysticalagriculture:block/mystical_resource_crop_6"
 			rotation: 0.0d
 			width: 2.5d
@@ -177,6 +194,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1727E0A516956908"
 			image: "mysticalagriculture:block/mystical_mob_crop_6"
 			rotation: 0.0d
 			width: 2.5d
@@ -185,6 +203,7 @@
 		}
 		{
 			height: 1.0d
+			id: "54088CC4F7CE7477"
 			image: "alltheores:item/silver_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -193,6 +212,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D077D27B88F38D2"
 			image: "alltheores:item/lead_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -201,6 +221,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D4DEA57619D8BCA"
 			image: "minecraft:textures/entity_icon/pig/pig.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -209,6 +230,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75E98683EEAB5ED9"
 			image: "minecraft:textures/entity_icon/cow/cow.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -217,6 +239,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D94A3F2CFF3C86E"
 			image: "minecraft:textures/entity_icon/slime/slime.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -225,6 +248,7 @@
 		}
 		{
 			height: 1.3d
+			id: "280624C9133D78E0"
 			image: "minecraft:textures/entity_icon/squid.png"
 			rotation: 0.0d
 			width: 1.3d
@@ -233,6 +257,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32698B8C9DD16E87"
 			image: "mysticalagriculture:item/fertilized_essence"
 			rotation: 0.0d
 			width: 1.0d
@@ -240,9 +265,9 @@
 			y: 1.375d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Inferium Machine Upgrade"]
+			id: "72BD8846784DD3FE"
 			image: "mysticalagriculture:item/inferium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -250,9 +275,9 @@
 			y: 5.625d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Prudentium Machine Upgrade"]
+			id: "28A960CFB71983E8"
 			image: "mysticalagriculture:item/prudentium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -260,9 +285,9 @@
 			y: 8.125d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Tertium Machine Upgrade"]
+			id: "6C54BAEFE11473AF"
 			image: "mysticalagriculture:item/tertium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -271,6 +296,7 @@
 		}
 		{
 			height: 1.0d
+			id: "41AF9AD4D55D51AB"
 			image: "minecraft:textures/entity_icon/zombie/zombie.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -279,6 +305,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6A4312C1888A8D3D"
 			image: "minecraft:textures/entity_icon/creeper/creeper.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -287,6 +314,7 @@
 		}
 		{
 			height: 1.0d
+			id: "521BAB9CF268033A"
 			image: "minecraft:textures/entity_icon/enderman/enderman.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -295,6 +323,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3444D03BF5AD7459"
 			image: "minecraft:textures/entity_icon/blaze.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -302,9 +331,9 @@
 			y: 3.125d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Imperium Machine Upgrade"]
+			id: "5BFB5D9A6C52233A"
 			image: "mysticalagriculture:item/imperium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -312,9 +341,9 @@
 			y: 6.125d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Imperium Watering Can"]
+			id: "1F0A364BADB13992"
 			image: "mysticalagriculture:item/gear/imperium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -323,6 +352,7 @@
 		}
 		{
 			height: 1.0d
+			id: "696544F2BBC856FA"
 			image: "alltheores:item/sapphire"
 			rotation: 0.0d
 			width: 1.0d
@@ -331,6 +361,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2B07B58617B43B0D"
 			image: "alltheores:item/ruby"
 			rotation: 0.0d
 			width: 1.0d
@@ -339,6 +370,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74FE704B1FE764C0"
 			image: "minecraft:item/lapis_lazuli"
 			rotation: 0.0d
 			width: 1.0d
@@ -347,6 +379,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3788403B8F2F8100"
 			image: "minecraft:item/gold_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -355,6 +388,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6F630A4EE13F68E9"
 			image: "alltheores:item/invar_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -363,6 +397,7 @@
 		}
 		{
 			height: 1.0d
+			id: "68B6A553946C53DC"
 			image: "alltheores:item/osmium_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -371,6 +406,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6DE8D5656E8A6296"
 			image: "alltheores:item/sulfur"
 			rotation: 0.0d
 			width: 1.0d
@@ -379,6 +415,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05E5015F027D2275"
 			image: "alltheores:item/aluminum_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -387,6 +424,7 @@
 		}
 		{
 			height: 1.0d
+			id: "408AD265F309E500"
 			image: "minecraft:item/diamond"
 			rotation: 0.0d
 			width: 1.0d
@@ -395,6 +433,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3508BC081ED17E19"
 			image: "minecraft:item/netherite_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -402,9 +441,9 @@
 			y: -3.375d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Supremium Watering Can"]
+			id: "63E5C9CFE8D5EBD5"
 			image: "mysticalagriculture:item/gear/supremium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -413,6 +452,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35182884F6BC62E1"
 			image: "allthemodium:item/vibranium_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -421,6 +461,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6971EC2EED64245C"
 			image: "allthemodium:item/allthemodium_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -429,6 +470,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1B3F03D7F2ABF9F3"
 			image: "atm:textures/questpics/wither.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -436,9 +478,9 @@
 			y: -1.875d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Awakened Supremium Machine Upgrade"]
+			id: "4B43679A03EDC7EC"
 			image: "mysticalagriculture:item/awakened_supremium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -447,6 +489,7 @@
 		}
 		{
 			height: 1.25d
+			id: "095C760681217491"
 			image: "atm:textures/questpics/mystical_agriculture/machines.png"
 			rotation: 0.0d
 			width: 5.733333333333333d
@@ -455,6 +498,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6DAF6422B63CC950"
 			image: "atm:textures/questpics/mystical_agriculture/title.png"
 			rotation: 0.0d
 			width: 10.65d
@@ -463,6 +507,7 @@
 		}
 		{
 			height: 5.5d
+			id: "63FCA3D67747F947"
 			image: "atm:textures/questpics/mystical_agriculture/awakening_altar.png"
 			rotation: 0.0d
 			width: 10.468232044198896d
@@ -471,6 +516,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CED05C45969A98B"
 			image: "mysticalagradditions:item/withering_soul"
 			rotation: 0.0d
 			width: 1.0d
@@ -479,6 +525,7 @@
 		}
 		{
 			height: 1.0d
+			id: "45FF6B6C55D304DC"
 			image: "mysticalagradditions:item/dragon_scale"
 			rotation: 0.0d
 			width: 1.0d
@@ -487,6 +534,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1CDCB0BDEF7931E3"
 			image: "mysticalagriculture:item/creative_soulium_dagger"
 			rotation: 0.0d
 			width: 1.5d
@@ -494,9 +542,8 @@
 			y: 0.125d
 		}
 		{
-			click: "."
 			height: 1.0d
-			hover: ["Machine Frame"]
+			id: "7EBCE0919B1656E2"
 			image: "mysticalagriculture:block/machine_frame"
 			rotation: 0.0d
 			width: 1.0d
@@ -505,6 +552,7 @@
 		}
 		{
 			height: 0.3d
+			id: "14A1DDDE1340ECD7"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -513,6 +561,7 @@
 		}
 		{
 			height: 0.3d
+			id: "48B6338CCFB3CA06"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -521,6 +570,7 @@
 		}
 		{
 			height: 1.0d
+			id: "614F6F00A165BA4F"
 			image: "alltheores:item/tin_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -529,6 +579,7 @@
 		}
 		{
 			height: 1.0d
+			id: "52E705EC8A28EB2C"
 			image: "alltheores:item/bronze_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -537,6 +588,7 @@
 		}
 		{
 			height: 1.0d
+			id: "096647DB0F32F315"
 			image: "alltheores:item/iridium_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -545,6 +597,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0B99C0FBCA2E4DD1"
 			image: "alltheores:item/platinum_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -553,6 +606,7 @@
 		}
 		{
 			height: 1.0d
+			id: "009E2EF308FBCF83"
 			image: "silentgear:item/crimson_iron_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -561,6 +615,7 @@
 		}
 		{
 			height: 1.0d
+			id: "501B11F5847ABF51"
 			image: "silentgear:item/azure_silver_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -569,6 +624,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6392C50E915FFA82"
 			image: "alltheores:item/constantan_ingot"
 			rotation: 0.0d
 			width: 1.0d
@@ -577,6 +633,7 @@
 		}
 		{
 			height: 1.0d
+			id: "70104FFD1F79B7F3"
 			image: "alltheores:item/electrum_ingot"
 			rotation: 0.0d
 			width: 1.0d

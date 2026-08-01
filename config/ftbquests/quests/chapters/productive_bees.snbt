@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 5.0d
+			id: "40B613D06A3D5E23"
 			image: "atm:textures/questpics/bees/productive_bees.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7309FA8EA59091AB"
 			image: "minecraft:textures/item/honeycomb.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7D73F64B01A19813"
 			image: "minecraft:textures/item/honey_bottle.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 0.3d
+			id: "770372B9C07CD2D5"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -41,7 +45,7 @@
 			y: 8.9d
 		}
 	]
-	order_index: 4
+	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

@@ -227,14 +227,12 @@
 		"Below Y Level 0 is two Biomes, the Depths is one. \\n\\nIn order to get below Y Level 0 you'll need to Mine Dreadrock. To Mine Dreadrock you will need a Forgotten Pickaxe or Allthemodium Pickaxe. \\n\\nHere Greater Dwellers, Denizens, and Rot Monsters will Spawn."
 		"{image:atm:textures/questpics/undergarden/undergarden_depths.png width:200 height:100 align:center}"
 	]
-	quest.6E7C8537D8A28833.quest_subtitle: ""
 	quest.6E7C8537D8A28833.title: "Depths"
 	quest.6F416275B6F6D8F0.quest_desc: ["Blisterberries spawn in Smog Spires. \\n\\nBecause they grow in such a disgusting area some will come Rotten. \\n\\nI don't recommend eating those, maybe they can be useful for something else!"]
 	quest.6F483B77D64F4EE2.quest_desc: [
 		"Below Y Level 0 is two Biomes, the Rogdorium Grove is one. \\n\\nIn order to get below Y Level 0 you'll need to Mine Dreadrock. To Mine Dreadrock you will need a Forgotten Pickaxe or Allthemodium Pickaxe. \\n\\nA much nicer Biome compared to the Depths. A lot less Monsters and a lot more plant life! Now with Smogstem Trees and plenty of Flowers."
 		"{image:atm:textures/questpics/undergarden/undergarden_rogdorium.png width:200 height:100 align:center}"
 	]
-	quest.6F483B77D64F4EE2.quest_subtitle: ""
 	quest.6F483B77D64F4EE2.title: "Rogdorium Grove"
 	quest.70FD8856BFCD9AEE.quest_desc: [
 		"The largest and most dangerous &cRot Mob&r. \\n\\nThey have 80 Hearts, which I think qualifies as a Boss. \\n\\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
@@ -253,7 +251,6 @@
 	]
 	quest.744DBE831C120B2F.title: "&aMog&r"
 	quest.75A66B81C1181F59.quest_desc: ["Forgotten Vestiges are tiny ruins of Depthrock Bricks found within the &2&lUndergarden&r. \\n\\nHere are plenty of Pots full of Loot! \\n\\nJust break them!"]
-	quest.75A66B81C1181F59.quest_subtitle: ""
 	quest.75A66B81C1181F59.title: "Forgotten Vestige"
 	quest.7617737FC179EA1A.quest_desc: ["&bFroststeel&r Armor is slightly worse than Diamond Armor but it also gives big Knockback Resistance. \\n\\nIt also gives Speed debuff though, looks like we ain't moving much!"]
 	quest.7617737FC179EA1A.title: "&bFroststeel&r Armor"

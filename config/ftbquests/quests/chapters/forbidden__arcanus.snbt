@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.75d
+			id: "3780DD3CA5C16F89"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier1.png"
 			rotation: 0.0d
 			width: 2.34375d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 0.75d
+			id: "2CB095AE4CB02AEF"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier2.png"
 			rotation: 0.0d
 			width: 2.5875000000000004d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 0.75d
+			id: "7E58AD231BDEAA09"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier3.png"
 			rotation: 0.0d
 			width: 2.60625d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 0.75d
+			id: "6A54A0FEFDFF75C4"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier4.png"
 			rotation: 0.0d
 			width: 2.5875000000000004d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 0.75d
+			id: "7530A92BC68491E4"
 			image: "atm:textures/questpics/forbidden/forbidden_title_tier5.png"
 			rotation: 0.0d
 			width: 2.578125d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "517610714A180B20"
 			image: "atm:textures/questpics/forbidden/forbidden_title_clibano.png"
 			rotation: 0.0d
 			width: 4.168539325842697d
@@ -59,6 +65,7 @@
 		{
 			dependency: "692183ACBB2AABF7"
 			height: 1.0d
+			id: "3D0A65C0E5546CE1"
 			image: "atm:textures/questpics/forbidden/forbidden_title_relics.png"
 			rotation: 0.0d
 			width: 3.6707317073170733d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "328B04D849D9CDF5"
 			image: "atm:textures/questpics/forbidden/forbidden_title.png"
 			rotation: -90.0d
 			width: 10.98876404494382d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 4.0d
+			id: "3DEA5FBF96FC803B"
 			image: "atm:textures/questpics/forbidden/forbidden_tier1.png"
 			rotation: 0.0d
 			width: 4.139650872817955d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 4.0d
+			id: "66F79A2840A2DC05"
 			image: "atm:textures/questpics/forbidden/forbidden_tier2.png"
 			rotation: 0.0d
 			width: 4.095011876484561d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 5.0d
+			id: "25EF0E2F41A72A5C"
 			image: "atm:textures/questpics/forbidden/forbidden_tier3.png"
 			rotation: 0.0d
 			width: 4.952038369304556d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 4.0d
+			id: "02C7968BBA61B810"
 			image: "atm:textures/questpics/forbidden/forbidden_tier4.png"
 			rotation: 0.0d
 			width: 4.0771084337349395d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4B15D029EAC561F2"
 			image: "atm:textures/questpics/forbidden/forbidden_tier5.png"
 			rotation: 0.0d
 			width: 4.12621359223301d
@@ -116,6 +129,7 @@
 		{
 			dependency: "692183ACBB2AABF7"
 			height: 4.0d
+			id: "25A3BFB31F81C45E"
 			image: "forbidden_arcanus:item/enhancer/elementarium"
 			rotation: 0.0d
 			width: 4.0d
@@ -124,6 +138,7 @@
 		}
 		{
 			height: 3.0d
+			id: "098DB982C3A53381"
 			image: "atm:textures/questpics/forbidden/forbidden_clibano4.png"
 			rotation: 0.0d
 			width: 3.133037694013304d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0E783126F90ACA2C"
 			image: "atm:textures/questpics/forbidden/forbidden_blackhole.png"
 			rotation: 0.0d
 			width: 3.3306451612903225d
@@ -141,6 +157,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 2.0d
+			id: "6BB30AC768C2B4BF"
 			image: "atm:textures/questpics/forbidden/forbidden_sink.png"
 			rotation: 0.0d
 			width: 1.9330708661417322d
@@ -150,6 +167,7 @@
 		{
 			dependency: "15849165CA8C00F9"
 			height: 2.0d
+			id: "4C63ED7047EDB2E8"
 			image: "atm:textures/questpics/forbidden/forbidden_holder.png"
 			rotation: 0.0d
 			width: 1.7149425287356321d
@@ -587,6 +605,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_1"
 				}
 				id: "39FEA97553B2367A"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_1"
@@ -654,6 +673,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_2"
 				}
 				id: "7F1B7BC6D0BE42BB"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_2"
@@ -811,6 +831,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_3"
 				}
 				id: "114F4D54018B45EE"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_3"
@@ -961,6 +982,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_4"
 				}
 				id: "6C4DA123838166A7"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_4"
@@ -1070,6 +1092,7 @@
 					id: "forbidden_arcanus:hephaestus_forge_tier_5"
 				}
 				id: "7878654529FB7236"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "forbidden_arcanus:hephaestus_forge_tier_5"

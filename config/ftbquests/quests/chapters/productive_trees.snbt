@@ -9,9 +9,9 @@
 	id: "1FAAEF0B9FD05CB9"
 	images: [
 		{
-			click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
+			click_action: "open_uri:https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
 			height: 1.0d
-			hover: ["Pilpoh's Productive Trees Guide"]
+			id: "420B358E1655FC01"
 			image: "minecraft:textures/gui/sprites/toast/tree.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -20,6 +20,7 @@
 		}
 		{
 			height: 0.3d
+			id: "373E0F60171A4803"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -27,7 +28,7 @@
 			y: 0.9000000000000004d
 		}
 	]
-	order_index: 5
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{

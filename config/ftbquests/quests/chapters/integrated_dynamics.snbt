@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "758438C6365457F9"
 			image: "atm:textures/questpics/id_title.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "73AC433A03F7C3A4"
 			image: "integrateddynamics:item/labeller"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "68B9B673659BC9D9"
 			image: "integratedterminals:part/terminal_storage"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32056038BCAAA2C8"
 			image: "integratedcrafting:part/interface_crafting"
 			rotation: 0.0d
 			width: 1.0d
@@ -591,9 +595,6 @@
 				{
 					id: "05344703532750CD"
 					item: {
-						components: {
-							"cyclopscore:energy_storage": 0
-						}
 						count: 1
 						id: "integrateddynamics:energy_battery"
 					}
@@ -624,9 +625,6 @@
 				{
 					id: "7F6A2DA3103CDA6F"
 					item: {
-						components: {
-							"cyclopscore:energy_storage": 0
-						}
 						count: 1
 						id: "integrateddynamics:energy_battery"
 					}

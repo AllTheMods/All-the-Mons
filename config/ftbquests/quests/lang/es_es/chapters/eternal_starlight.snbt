@@ -51,7 +51,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
 	]
 	quest.1AB17923F87AE264.title: "Yetis"
-	quest.1BE8F864AB9147C0.quest_desc: ["El Mineral de Atalfaita puede encontrarse al Minar en cualquier lugar subterráneo en el Starlight. \\n\\n¡No puede convertirse en Herramientas o Armadura pero puede hacer diferentes tipos de Luces!"]
 	quest.1ECD4331DDFBBB52.quest_desc: ["Los Árboles de Torreya son enormes Árboles morados/rosas que miden alrededor de 40 Bloques de alto. \\n\\nLas hojas brotarán en todas direcciones y las Enredaderas de Torreya cuelgan de ellas."]
 	quest.252AD9C886DE45C8.quest_desc: [
 		"Las Miradas Crepusculares son Peces neutrales ubicados en El Abismo. \\n\\nSi golpeas a uno, todos te atacarán, similar a los Lobos o Piglins Zombificados. Si te alejas demasiado de El Abismo dejarán de seguirte y nadarán de regreso a las profundidades. \\n\\nNo sueltan nada al morir así que quizás no los golpees..."
@@ -85,11 +84,6 @@
 	]
 	quest.2F3E7233129F2B89.title: "Luminaris"
 	quest.342EEB042DEC2B8C.quest_desc: ["Magma y Géiseres aparecen ambos en el fondo de El Abismo. \\n\\nEl Magma te ayudará a bajar y a mantener la respiración. ¡Los Géiseres simplemente se ven geniales!"]
-	quest.350A78BA973FD04B.quest_desc: [
-		"El Odio Enredado es un jefe que apoya a la Monstruosidad Lunar. Aparecen juntos y trabajan juntos para matarte. \\n\\nEl Odio Enredado tiene 60 Corazones de daño y se mueve constantemente a través del suelo para golpearte. Si te golpea te dará Veneno. \\n\\n¡Si puedes matarlo, soltará Almas Atrapadas y Enredaderas Tenaces!"
-		"{image:atm:textures/questpics/eternal/starlight_hatred.png width:150 height:150 align:center}"
-	]
-	quest.350A78BA973FD04B.title: "Odio Enredado"
 	quest.362F4CFD1B8B12B1.quest_desc: ["Todos los seres vivos morirán en Éter como si fuera Lava. ¡Curiosamente puedes ponerlo en un Cubo! \\n\\nLa única forma de conseguirlo es encontrándolo en el Río de Éter. ¡Cuando el Agua toca el Éter formará Bloques de Thiocuarzo!"]
 	quest.36BCCF7395658A5C.quest_desc: ["Los Jefes en el Starlight viven en sus estructuras. Estos no son comunes (afortunadamente) así que podrías necesitar ayuda también conocido como los Ojos Buscadores. \\n\\nLos Ojos Buscadores funcionan como los Ojos de Ender, Haz Click Derecho con ellos para lanzarlos y síguelos para llegar a las estructuras. \\n\\nPara establecer la estructura necesitarás un cierto Objeto en tu Mano Secundaria, objetos como..."]
 	quest.36BCCF7395658A5C.title: "Encontrando a los Jefes"
@@ -210,7 +204,6 @@
 		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
 	]
 	quest.7A16D2EB63359294.title: "Ciervo Aurora"
-	quest.7AB2FECE47F558F8.quest_desc: ["La Estelagmita se puede encontrar bajo tierra en la Luz Estelar. \\n\\nFunciona como una Piedra normal pudiendo convertirse en otros Bloques. \\n\\n¡Su versión Fundida funciona como un Bloque de Magma normal!"]
 	quest.7B5D34650BBD97D9.quest_desc: ["Muy raramente en la Dimensión Luz Estelar puede ocurrir una Lluvia de Meteoros. \\n\\nLa mayoría de las veces los Meteoros son diminutos y desaparecen antes de tocar el suelo. \\n\\n¡Pero algunos son más grandes y sobreviven, allí encontrarás Mena Enviada del Éter!"]
 	quest.7D7BD1458CF12021.quest_desc: ["¡Es un Desierto, por supuesto que hay Cactus! \\n\\n¡Los Cactus cuando están completamente crecidos pueden dar Fruta en la parte superior!"]
 	quest.7E90138B0A2C3210.quest_desc: ["Los Árboles de Northland son árboles grandes y robustos en los Bosques de Permafrost. \\n\\n¡Parecen Píceas pero mucho más claras! Quizás sean Píceas albinas. \\n\\nSus brotes necesitan ser plantados en Tierra, no en Hierba, y en una formación de 2x2."]

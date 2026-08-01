@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 50.0d
+			id: "25099853AFD7F549"
 			image: "atm:textures/questpics/pokemon/legendary_title1.png"
 			rotation: 0.0d
 			width: 40.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 10.0d
+			id: "0F0F68053B86A7CD"
 			image: "atm:textures/questpics/pokemon/legendary_title2.png"
 			rotation: 0.0d
 			width: 40.0d

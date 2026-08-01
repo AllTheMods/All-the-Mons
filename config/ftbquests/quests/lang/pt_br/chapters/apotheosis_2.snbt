@@ -26,6 +26,7 @@
 	quest.2D8A7065F8CDDDDD.quest_desc: ["Hastes de algodão são a minha forma favorita de obter ovos geradores; você precisará usar o Mob Grinding Utils para isso. Basta clicar com o botão direito em uma criatura com a haste de algodão e depois fabricar ração de galinha com ela, sementes e um balde de qualquer tipo de &aEXP Líquida&r. Não importa qual tipo de &aEXP Líquida&r você use. Depois de pronto, alimente uma galinha com ela. Infelizmente a galinha não sobreviverá ao procedimento, mas ei, ovos geradores!\\n\\nNem todas as criaturas podem ter amostras coletadas, no entanto."]
 	quest.2FE4B7B70D90A455.quest_desc: ["Esta missão foi criada pela &6Equipe do AllTheMods&r ou por um &2colaborador da comunidade&r para uso nos modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta missão não pode ser usada em nenhum pacote público que não tenha sido lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está oculta intencionalmente; se você está vendo isso, está no modo de edição."]
 	quest.30EB438C66324213.quest_desc: ["Uma Estrela do Nether fará o mesmo que os fragmentos de prismarinho, mas muito melhor. Os jogadores não precisam mais estar perto do gerador. Desde que o chunk esteja carregado, ele gerará criaturas."]
+	quest.30EB438C66324213.quest_subtitle: "Uma estrela Antissocial!"
 	quest.30EB438C66324213.title: "Ignorar Jogadores"
 	quest.310969B8FE0A94DE.quest_desc: ["Outra mudança de jogo que o Apotheosis traz é nos geradores. Lembra de poder minerar geradores com Toque Suave? Bem, isso voltou graças ao Apotheosis! Há também muitas modificações novas que você pode adicionar aos geradores clicando com o botão direito com qualquer um destes itens."]
 	quest.310969B8FE0A94DE.title: "Geradores Apothic"
@@ -43,6 +44,7 @@
 	quest.40096ED0B04C3EC5.quest_desc: ["O item indispensável para todos os geradores. Quando diz que ignora todas as condições, significa a maioria. Ignores níveis de luz, blocos necessários para geração e biomas. Condições de espaço ainda são necessárias, como slimes precisando de uma área de 3x3 para surgir, assim como a necessidade de jogadores por perto."]
 	quest.40096ED0B04C3EC5.title: "Ignorar Todas as Condições"
 	quest.42D7C8CD8E6F5CD7.quest_desc: ["Ao usar uma fruta do coro em um gerador, você suga as almas das criaturas que serão geradas, deixando apenas uma carcaça vazia do que costumavam ser. As criaturas perderão toda a IA, agindo basicamente como um suporte de armadura. Elas não podem atacar você, não podem se teleportar e não podem se mover por conta própria. Elas ficam ali prontas para serem mortas, que emocionante!"]
+	quest.42D7C8CD8E6F5CD7.quest_subtitle: "Mais inofensivos que um aldeão com medo"
 	quest.42D7C8CD8E6F5CD7.title: "Sem IA"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["Uma fogueira usada no gerador fará com que as criaturas surjam em chamas. Perfeito para obter bifes assados."]
 	quest.4F7F8F4ED1CA0550.title: "Em Chamas"

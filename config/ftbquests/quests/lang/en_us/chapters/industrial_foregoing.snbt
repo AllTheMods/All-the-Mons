@@ -1,4 +1,9 @@
 {
+	image.05A0F097099C554C.title: "Fluid Extractor"
+	image.31F55BEE73066508.title: "Block Placer"
+	image.44B411EA29F72B89.title: "Fluid Extractor"
+	image.6366C72C2FBAE40E.title: "Fluid Extractor"
+	image.743C04A9DFB5FBDF.title: "Latex Processing Unit"
 	quest.06094615950AC062.title: "Other Conveyor Upgrades"
 	quest.06F84E2C484FAC5B.quest_desc: ["Ever heard of a cobblestone generator? The Material StoneWork Factory works like one, but takes it to the next level. You can get it to crush stone into gravel, sand, silicon, you can get it to smelt it into stone, you can make Obsidian with it, and whatever else JEI shows for this machine."]
 	quest.0B35172E47705205.quest_desc: ["Yes, &bIndustrial Foregoing&r has ore processing too. This one uses &6Liquid Meat&r to convert an ore into Raw Ore Meat. I'm not an ore doctor, so I can't exactly do anything with this Raw Ore Meat. Maybe give it to the Fermentation Station?"]

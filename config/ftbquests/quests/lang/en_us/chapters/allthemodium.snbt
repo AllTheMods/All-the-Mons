@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Ingot&r"
-	quest.151D836C7B0E6FAF.title: "&3Vibranium Shield"
 	quest.15DC6770B112EE69.quest_desc: [
 		"The Dissolution Chamber is a Machine added by &l&7Industrial Foregoing&r. It's also how we'll combine &3Vibranium&r and &5Unobtainium&r. \\n\\nYou'll need &dPink Slime&r which you get from the Mob Slaughter Factory which is another Machine added by IF. \\n\\nYou'll also need Soul Lava which is found in &b&lThe Other&r, common in the Piglin Village. \\n\\nAfter those you'll need to put your Ingots and Piglich Hearts in the exact order, power it, and it'll be done!\\n"
 		"{ \"text\": \"INDUSTRIAL FOREGOING QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -37,7 +36,6 @@
 	quest.19E356E67EF17E4A.title: "&6Allthemodium &5Alloy &3Paxel"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r combined with &6Allthemodium&r!"]
 	quest.1A05C605A52A4218.title: "&5Unobtainium&r - &6Allthemodium&r Alloy Ingot"
-	quest.1F6C8117F3CED939.title: "&6Allthemodium Bow"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5Unobtainium Arcanist Armor"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Unobtainium Smithing Template"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r couldn't have all the fun with Maces! So of course there is an &6Allthemodium&r upgrade to them! \\n\\nUpgrade a Mace with an &6Allthemodium Block&r to get the &6Allthemodium Mace&r. \\n\\nIt does more base damage, more falling damage, and same Enchantments!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodium Mace"
-	quest.47F734CDD5793F26.title: "&5Unobtainium Crossbow"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"No it isn't found in &5&lThe Beyond&r. \\n\\nYou can find &5Unobtainium Ore&r very rarely in End Highlands Biomes. Those are usually where End Cities spawn as well! \\n\\nYou'll need a &3Vibranium Pickaxe&r (or same Tier) to Mine the Ore. \\n\\nDo I need to still tell you to Ore process it?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

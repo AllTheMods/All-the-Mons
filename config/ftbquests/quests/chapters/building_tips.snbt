@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "35EA49E95177C370"
 			image: "atm:textures/questpics/building_tips/building.png"
 			rotation: 0.0d
 			width: 10.025d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4684EAF529A5236E"
 			image: "atm:textures/questpics/building_tips/tips.png"
 			rotation: 0.0d
 			width: 4.975d

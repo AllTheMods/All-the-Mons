@@ -8,7 +8,6 @@
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Радіус: &b36&r блоків"
 	quest.06EAA74E0A10CBB6.title: "&9Імперієвий прискорювач зростання"
 	quest.07564DBB023EE2A6.quest_subtitle: "Рівень: &b4"
-	quest.07751E1BE48C6024.quest_subtitle: "Рівень: &b4"
 	quest.077B2D62FA7650FB.quest_subtitle: "Радіус: &627&r блоків"
 	quest.077B2D62FA7650FB.title: "&cТертієвий прискорювач зростання"
 	quest.07CC809B6482AB09.quest_subtitle: "Рівень: &a2"
@@ -19,10 +18,8 @@
 	quest.0B37355262121DD5.quest_desc: ["&aВівтар наповнення&r — це пристрій для створення всього насіння. Спочатку розмістіть вівтар, і він покаже, куди ставити п'єдестали.\\n\\nЩоб почати наповнення, вівтар потребує &4сигналу редстоуну&r."]
 	quest.0B37355262121DD5.quest_subtitle: "Створення насіння"
 	quest.0B37355262121DD5.title: "&4Вівтар наповнення"
-	quest.0BE6CE2C264140AD.quest_subtitle: "Рівень: &a2"
 	quest.0E1ABCAA87120367.quest_subtitle: "Рівень: &c5"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["Комбайн може автоматично збирати врожай і пересаджувати культури. Зібрані предмети потрапляють у внутрішній інвентар комбайна."]
-	quest.10098A4B38BBF0B1.quest_subtitle: "Рівень: &a2"
 	quest.13124A7E22999850.quest_subtitle: "Рівень: &e1"
 	quest.140DADB32EF10D58.quest_desc: ["Для вирощування насіння яйця дракона потрібно розмістити під ними Основу із Яйця Дракона."]
 	quest.140DADB32EF10D58.quest_subtitle: "Рівень: &56"
@@ -158,8 +155,6 @@
 	quest.4821419D44F8083F.title: "&aІнферієвий прискорювач зростання"
 	quest.48BF71269DEA1AB1.title: "&4Супремієва рілля"
 	quest.4A4C14AF947D93EF.quest_subtitle: "Рівень: &b4"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "Рівень: &63"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "Рівень: &b4"
 	quest.4E09BBC0BAED3440.quest_subtitle: "Рівень: &c5"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Рівень: &b4"
 	quest.4EB7245727EE1EF9.quest_subtitle: "Рівень: &63"
@@ -217,7 +212,6 @@
 	quest.67DDFA6FB1F9EECA.title: "&9Імперієві інструменти"
 	quest.685C4A646E092A82.title: "&6Пробуджені супремієві обладунки"
 	quest.6950FC974624C6AA.quest_subtitle: "Рівень: &63"
-	quest.69F63F3B48E4344E.quest_subtitle: "Рівень: &63"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Рівень: &63"
 	quest.6A2AD67569F91F1F.quest_subtitle: "Рівень: &c5"
 	quest.6D0A876D4E4D35AB.quest_desc: ["Творча есенція потрібна для створення &6Усемодієвої зірки&r."]
@@ -260,7 +254,6 @@
 	quest.7D43016926E77150.title: "&9Імперієві обладунки"
 	quest.7DFF18CFEB0B8DBE.quest_desc: ["Варто почати вирощувати &aІнферій&r якомога раніше!\\n\\nХоча це не обов'язково для вирощування цього насіння, ви також можете створити &eЕсенцієву ріллю&r, яка пришвидшить ріст насіння (особливо Інферію). Однак певне насіння вимагатиме певної ріллі."]
 	quest.7DFF18CFEB0B8DBE.title: "&aІнферієва рілля"
-	quest.7EFEE009212A4FD4.quest_subtitle: "Рівень: &63"
 	task.011F410922A4D859.title: "Коси"
 	task.0C92F7E44100B2BA.title: "Тертієві інструменти"
 	task.2DA0BD7B2834A560.title: "Блоки, стійкі до Візера"

@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Lingote de Vibranium&r"
-	quest.151D836C7B0E6FAF.title: "&3Escudo de Vibranium"
 	quest.15DC6770B112EE69.quest_desc: [
 		"La Cámara de Disolución es una Máquina añadida por &l&7Industrial Foregoing&r. También es cómo combinaremos &3Vibranium&r y &5Unobtainium&r. \\n\\nNecesitarás &dSlime Rosa&r que obtienes de la Fábrica de Matanza de Mobs que es otra Máquina añadida por IF. \\n\\nTambién necesitarás Lava de Alma que se encuentra en &b&lEl Otro&r, común en la Aldea Piglin. \\n\\n¡Después de eso necesitarás poner tus Lingotes y Corazones de Piglich en el orden exacto, energizarlo, y estará hecho!\\n"
 		"{ \"text\": \"LÍNEA DE MISIONES DE INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -37,7 +36,6 @@
 	quest.19E356E67EF17E4A.title: "&6Paxel de &5Aleación de &3Allthemodium"
 	quest.1A05C605A52A4218.quest_desc: ["¡&5Unobtainium&r combinado con &6Allthemodium&r!"]
 	quest.1A05C605A52A4218.title: "Lingote de Aleación de &5Unobtainium&r - &6Allthemodium&r"
-	quest.1F6C8117F3CED939.title: "&6Arco de Allthemodium"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5Armadura Arcanista de Unobtainium"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Plantilla de Herrería de Unobtainium"
 	quest.44D5EDB8711EC7A0.quest_desc: ["¡&2&lVanilla&r no podía tener toda la diversión con las Mazas! ¡Así que, por supuesto, hay una mejora de &6Allthemodium&r para ellas! \\n\\nMejora una Maza con un &6Bloque de Allthemodium&r para obtener la &6Maza de Allthemodium&r. \\n\\n¡Hace más daño base, más daño por caída y los mismos Encantamientos!"]
 	quest.44D5EDB8711EC7A0.title: "&6Maza de Allthemodium"
-	quest.47F734CDD5793F26.title: "&5Ballesta de Unobtainium"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"No, no se encuentra en &5&lEl Más Allá&r. \\n\\nPuedes encontrar &5Mena de Unobtainium&r muy raramente en Biomas de las Tierras Altas del End. ¡Esos suelen ser también donde aparecen las Ciudades del End! \\n\\nNecesitarás un &3Pico de Vibranium&r (o del mismo Nivel) para Minar la Mena. \\n\\n¿Todavía necesito decirte que proceses el mineral?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

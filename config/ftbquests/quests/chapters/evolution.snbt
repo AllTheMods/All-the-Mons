@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "283D2E486F9B5FE3"
 			image: "atm:textures/questpics/pokemon/evo_title.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -19,7 +20,7 @@
 		}
 		{
 			height: 3.0d
-			hover: ["Alcreamie"]
+			id: "7447F2A5070BAA18"
 			image: "atm:textures/questpics/pokemon/evo_alcreamie.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -28,7 +29,7 @@
 		}
 		{
 			height: 5.0d
-			hover: ["Ursaluna"]
+			id: "4FF1BDDB4BC803E5"
 			image: "atm:textures/questpics/pokemon/evo_ursaluna.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -37,7 +38,7 @@
 		}
 		{
 			height: 4.0d
-			hover: ["Slowbro"]
+			id: "4A269306A4A6F283"
 			image: "atm:textures/questpics/pokemon/evo_slowbro.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -46,7 +47,7 @@
 		}
 		{
 			height: 4.0d
-			hover: ["Ceruledge"]
+			id: "0140A7A8D9DAE6AC"
 			image: "atm:textures/questpics/pokemon/evo_ceruledge.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -55,7 +56,7 @@
 		}
 		{
 			height: 3.0d
-			hover: ["Mudkip"]
+			id: "2BF5E30B49518210"
 			image: "atm:textures/questpics/pokemon/evo_mudkip.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -64,7 +65,7 @@
 		}
 		{
 			height: 5.0d
-			hover: ["Marshstomp"]
+			id: "2219BC2DBEE000D4"
 			image: "atm:textures/questpics/pokemon/evo_marshstomp.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -73,7 +74,7 @@
 		}
 		{
 			height: 6.0d
-			hover: ["Swampbert"]
+			id: "4C264DE10ECC680E"
 			image: "atm:textures/questpics/pokemon/evo_swampbert.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -82,6 +83,7 @@
 		}
 		{
 			height: 2.0d
+			id: "22CDBEA99B0FE7D3"
 			image: "atm:textures/questpics/helper_arrow.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -90,6 +92,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0C83078685E95EC5"
 			image: "atm:textures/questpics/helper_arrow.png"
 			rotation: 0.0d
 			width: 2.0d

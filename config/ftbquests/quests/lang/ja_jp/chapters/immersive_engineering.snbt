@@ -314,8 +314,6 @@
 	quest.4D193D60A3CAF435.title: "&2&lディーゼルジェネレーター"
 	quest.4D8190E94851C546.quest_desc: ["通電している &cワイヤー&r（&cエネルギー&r を伝送している &cワイヤー&r）は &6&lSkyhook&r を使用すると痛みを伴います。\n\nグリップを絶縁しない限り！"]
 	quest.4E297778DCEEC963.quest_desc: ["Advanced Heatsink は &5&lRailgun&r 専用のアップグレードです。\n\n&5&lRailgun&r の充電速度が大幅に向上します！"]
-	quest.4E8860056D068610.quest_desc: ["これらはクラフトできません。代わりに Machinist 村人の最後の取引で入手できます。\n\n&0グラファイト電極&r は &8&lアーク炉&r の燃料として使用されます（蛍光灯にも使用）。\n\nこれらを入手するには、この特別な &9設計図&r が必要です"]
-	quest.4E8860056D068610.title: "&9アーク炉電極の設計図"
 	quest.4F56BFE6E4716F6D.quest_desc: [
 		"&8&lArc Furnace&r は巨大で便利なマシンです。他のほとんどのマシンを不要にします！\n\n始めるには、&8&lArc Furnace&r の背面にある出力口から &c電力&r を入力する必要があります。次に燃料として &0Graphite Electrodes&r が必要です。これらは GUI にのみ配置でき、自動化はできません。\n\n&eアイテム&r を &0Graphite Electrodes&r の近くの上部ポートから &6入力&r する必要があります。燃料と電力が供給されると、ほぼすべてのものを溶かすことができます。&7鉄の棒&r から &7鉄インゴット&r 、&bFroststeel ヘルメット&r から &bFroststeel&r 、&e金のツルハシ&r から &e金&r まで！\n\n溶かされた &eアイテム&r は電源出力口の下の背面から &6出力&r されます。\n\n金属から合金を作ることもできます！"
 		"{@pagebreak}"

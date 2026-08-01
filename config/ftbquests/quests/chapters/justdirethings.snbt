@@ -9,6 +9,7 @@
 	id: "4EAAE0CEB26378A6"
 	images: [{
 		height: 0.25d
+		id: "412BE02CE93F41F8"
 		image: "allthetweaks:item/atm_star"
 		rotation: 0.0d
 		width: 0.25d
@@ -3066,6 +3067,7 @@
 						id: "justdirethings:time_crystal_budding_block"
 					}
 					id: "0FB06A55F5FE6F26"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "justdirethings:time_crystal_budding_block"

@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Vibranium Külçesi&r"
-	quest.151D836C7B0E6FAF.title: "&3Vibranium Kalkan"
 	quest.15DC6770B112EE69.quest_desc: [
 		"Dissolution Chamber, &l&7Industrial Foregoing&r tarafından eklenen bir Makine. Aynı zamanda &3Vibranium&r ve &5Unobtainium&r'u da bununla birleştireceğiz. \\n\\nMob Slaughter Factory'den elde edeceğin &dPink Slime&r'a ihtiyacın olacak. Bu Makine de IF tarafından eklendi. \\n\\nAyrıca Piglin Köyünde yaygın olan ve ayriyeten &b&lOther&r'da bulunan Ruh Lav'ına da ihtiyacın olacak. \\n\\nBunlardan sonra Külçelerini ve Piglich Kalplerini sırasıyla koyman, ardından güçlendirmen gerekecek. Bu işlemlerden sonrada alaşımın üretilmiş olacak!\\n"
 		"{ \"text\": \"INDUSTRIAL FOREGOING GÖREV SERİSİ\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -36,7 +35,6 @@
 	quest.19E356E67EF17E4A.quest_desc: ["Tarihteki en iyi alet! İsviçre çakısı gibi ama daha iyisi! \\n\\nEn Yüksek Madencilik Kademesi, Ağaçları tereyağı gibi keser, yollar yapar ve elbette vurulacak çok şeye vurur!"]
 	quest.19E356E67EF17E4A.title: "&6Allthemodium &5Alaşımı &3Paxel"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r'un, &6Allthemodium&r ile birleşmiş hâli!"]
-	quest.1F6C8117F3CED939.title: "&6Allthemodium Yay"
 	quest.1FE47F03B5DF492D.title: "&5Unobtainium Arcanist Zırhı"
 	quest.201EE3566D4D3123.quest_desc: [
 		"&6Allthemodium&r'u kazmak için &5Netherit&r Kademesi veya daha yüksek kademede Kazmaya ihtiyacın olacak! \\n\\nNihayet Cevheri elde ettiğinde (daha fazlasını elde etmek için önce Servet, Occultism veya Mekanism ile işlemeni tavsiye ederim), onunla ne yapacağına dair birkaç seçenek elde edebilirsin. \\n\\n&6Parçalar&r ile 2 Işınlanma Pedi yapmanı tavsiye ederim! Bunları &7&lMadencilik Boyutuna&r giderek daha fazla &6Allthemodium&r bulmak için ya da &b&lOther&r'da daha fazla macera bulmak için kullanabilirsin. \\n\\nBundan sonra Kazmanı yükseltmeni tavsiye ederim. Böylece &3Vibranium&r'u kazabilirsin. Gerisi tamamen sana kalmış!"
@@ -69,7 +67,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Unobtainium Demirci Şablonu"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r topuzlarla eğlencenin tamamını sunamıyordu! Bu yüzden elbette onlar için de &6Allthemodium&r yükseltmesi var! \\n\\nBir Topuzu &6Allthemodium Bloğu&r ile yükselterek &6Allthemodium Topuz&r elde et. \\n\\nDaha fazla ana hasar, daha fazla düşüş hasarı ve aynı Büyüler!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodium Topuz"
-	quest.47F734CDD5793F26.title: "&5Unobtainium Arbalet"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"Hayır, &5&lÖtesi&r'nde bulunmuyor. \\n\\n&5Unobtainium Cevheri&r'ni End Highlands Biyomlarında çok nadiren bulabilirsin. Bunlar genellikle End Şehirlerinin de ortaya çıktığı yerlerdir! \\n\\nCevheri Kazmak için &3Vibranium Kazma&r (veya aynı Kademe) gerekir. \\n\\nSana hâlâ Cevher işlemesini hatırlatmama gerek var mı?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "3E3844FFD13C39DE"
 			image: "industrialforegoing:block/reactor_front_mycelial"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D1E1347B57DF2F4"
 			image: "industrialforegoing:block/generators/generator_front_crimed"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "703B6A379F39E359"
 			image: "industrialforegoing:block/generators/generator_front_culinary"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "430A54A02426A668"
 			image: "industrialforegoing:block/generators/generator_front_death"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2735701F1BB32F45"
 			image: "industrialforegoing:block/generators/generator_front_disenchantment"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "20400087BCCE9A1F"
 			image: "industrialforegoing:block/generators/generator_front_ender"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C437A5FABAA282F"
 			image: "industrialforegoing:block/generators/generator_front_explosive"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05391C04058B30C5"
 			image: "industrialforegoing:block/generators/generator_front_frosty"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6ED0ED075B5A6980"
 			image: "industrialforegoing:block/generators/generator_front_furnace"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75ADE4A15F639766"
 			image: "industrialforegoing:block/generators/generator_front_halitosis"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2CB07C30E717A246"
 			image: "industrialforegoing:block/generators/generator_front_magmatic"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69A9CBF0B7EC83ED"
 			image: "industrialforegoing:block/generators/generator_front_meatallurgic"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "32438FE3B69685CC"
 			image: "industrialforegoing:block/generators/generator_front_netherstar"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5A5BE74CF2430069"
 			image: "industrialforegoing:block/generators/generator_front_pink"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5F005CDB4554C43D"
 			image: "industrialforegoing:block/generators/generator_front_potion"
 			rotation: 0.0d
 			width: 1.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5D43EC3D789F3928"
 			image: "industrialforegoing:block/generators/generator_front_rocket"
 			rotation: 0.0d
 			width: 1.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69852BD88B9B2AAA"
 			image: "industrialforegoing:block/generators/generator_front_slimey"
 			rotation: 0.0d
 			width: 1.0d
@@ -145,9 +162,9 @@
 			y: 14.5d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "05A0F097099C554C"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -155,9 +172,9 @@
 			y: 2.910034013605461d
 		}
 		{
-			click: "#294C729B9EBD7A3C"
+			click_action: "open_quest:294C729B9EBD7A3C"
 			height: 1.0d
-			hover: ["Block Placer"]
+			id: "31F55BEE73066508"
 			image: "industrialforegoing:block/block_placer_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -166,6 +183,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0A5B34A80057B65C"
 			image: "chipped:block/acacia_log/firewood_acacia_log"
 			rotation: 0.0d
 			width: 1.0d
@@ -173,9 +191,9 @@
 			y: 2.909523809523833d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "6366C72C2FBAE40E"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -183,9 +201,9 @@
 			y: 3.828401360544234d
 		}
 		{
-			click: "#0EC2053B191C55C6"
+			click_action: "open_quest:0EC2053B191C55C6"
 			height: 1.0d
-			hover: ["Fluid Extractor"]
+			id: "44B411EA29F72B89"
 			image: "industrialforegoing:block/tree_fluid_extractor_back"
 			rotation: 0.0d
 			width: 1.0d
@@ -193,9 +211,9 @@
 			y: 2.910034013605461d
 		}
 		{
-			click: "#6FF04DD735346BED"
+			click_action: "open_quest:6FF04DD735346BED"
 			height: 1.0d
-			hover: ["Latex Processing Unit"]
+			id: "743C04A9DFB5FBDF"
 			image: "industrialforegoing:block/latex_processing_unit_front"
 			rotation: 0.0d
 			width: 1.0d
@@ -204,6 +222,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7BEA31F972072BA4"
 			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -212,6 +231,7 @@
 		}
 		{
 			height: 7.0d
+			id: "47B53B327CE02AA4"
 			image: "atm:textures/questpics/industrialforegoing/mycelial_reactor.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -220,6 +240,7 @@
 		}
 		{
 			height: 7.0d
+			id: "5FB0ECA8507A22CF"
 			image: "atm:textures/questpics/industrialforegoing/ether_gas_setup.png"
 			order: 10
 			rotation: 0.0d
@@ -229,6 +250,7 @@
 		}
 		{
 			height: 1.0d
+			id: "572DDAFA2856B9A2"
 			image: "minecraft:block/furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -237,6 +259,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35D7B68E2F7AD677"
 			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -245,6 +268,7 @@
 		}
 		{
 			height: 0.3d
+			id: "711E41C8CE0A87E3"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -253,6 +277,7 @@
 		}
 		{
 			height: 2.5d
+			id: "3787745247C92091"
 			image: "atm:textures/questpics/industrialforegoing/industrial_foregoing_title.png"
 			rotation: 0.0d
 			width: 24.0d
@@ -261,6 +286,7 @@
 		}
 		{
 			height: 0.3d
+			id: "2F90FCEC4E318815"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

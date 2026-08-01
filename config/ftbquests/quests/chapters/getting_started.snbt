@@ -9,6 +9,7 @@
 	id: "31418B71DABE377A"
 	images: [{
 		height: 3.0d
+		id: "0FB7132B744028C9"
 		image: "atm:textures/questpics/pokemon/poke_title.png"
 		rotation: 0.0d
 		width: 12.0d
@@ -547,6 +548,7 @@
 			size: 1.1d
 			tasks: [{
 				id: "794FC4EC023FB646"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "cobblemon:healing_machine"

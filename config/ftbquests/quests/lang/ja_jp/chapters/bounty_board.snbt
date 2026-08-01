@@ -23,8 +23,6 @@
 	quest.1F18B64C84C8809D.title: "&l&9オーバーワールドの賞金首:&r&e スパイダー"
 	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers は様々なバイオームに対応した異なるタイプのクリーパーを追加します。\n\nそれぞれ異なるドロップがあり、中には友好的なものもいます！\n\nただし、全てのクリーパーはネコを怖がります..."]
 	quest.1F31EBF49079F9D3.title: "Overhauled Creepers"
-	quest.2001998045ABC04C.quest_desc: ["Tangled Hatred （タングルドの怨念） は Eternal Starlight のミニボスです。\n\nLunar Monstrosity （月光の怪物） と一緒に Cursed Gardens にスポーンします"]
-	quest.2001998045ABC04C.title: "Tangled Hatred （タングルドの怨念） を倒す"
 	quest.2B05A29C62676EB2.title: "&l&9オーバーワールドの賞金首:&r&e ゾンビ"
 	quest.2BD077EFE77B8EBB.quest_desc: ["ゾンビには他のバイオームでスポーンする異なるバリエーションがあります。\n\nハスク - 砂漠でスポーンします。\nドラウンド - 水中でスポーンします。\nGelid - 寒冷バイオームでスポーンします。\nThickets - ジャングルでスポーンします"]
 	quest.2BD077EFE77B8EBB.title: "ゾンビの種類"

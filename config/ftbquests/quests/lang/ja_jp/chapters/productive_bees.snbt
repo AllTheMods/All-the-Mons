@@ -54,7 +54,6 @@
 	quest.09FD3D0B9BCAEB5A.quest_subtitle: "リバーとビーチバイオームでミツバチを引き寄せる"
 	quest.0A11725B41AB45F6.quest_desc: ["これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\n\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\n\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"]
 	quest.0AF2460579C6BD8C.quest_subtitle: "オスミウム + 黒曜石"
-	quest.0B2210804594E7B8.quest_subtitle: "単純にクラフトする"
 	quest.0CD6F30BBEE20E15.quest_subtitle: "グロウストーン + オスミウム"
 	quest.0D5D76B3551CD5A7.quest_desc: ["はい、アルミニウムミツバチと呼ばれています"]
 	quest.0D5D76B3551CD5A7.quest_subtitle: "クリスタリン + アッシュマイニング"
@@ -203,6 +202,7 @@
 	quest.2A559D527BC88DEC.title: "スカイスチールハニカム"
 	quest.2AEC294578952BFD.quest_subtitle: "ラピス + スケルタル"
 	quest.2AEC294578952BFD.title: "染料ミツバチ"
+	quest.2AEEDCC6826CF4AB.quest_subtitle: "魚の取引"
 	quest.2BE538246C672689.quest_desc: ["&9ヴィブラニウム&rミツバチを手に入れたら、&5溶融アンオブタニウム&rを注いで&5アンオブタニウムミツバチ&rを入手します。"]
 	quest.2BE538246C672689.quest_subtitle: "オールザモディウム + ヴィブラニウム"
 	quest.2BE538246C672689.title: "アンオブタニウムミツバチ"
@@ -288,7 +288,6 @@
 	quest.3E301F3EEC8C763A.quest_subtitle: "ベビー ミツバチ デイケア"
 	quest.40E4F1172A164DD1.quest_subtitle: "ジャングルのカカオの実を破壊するとランダムで出現"
 	quest.40E4F1172A164DD1.title: "シュガーバッグミツバチ"
-	quest.40F8A44DF4D8DBD6.quest_subtitle: "マグマティック + ノマド"
 	quest.419DD6FE84B91749.quest_desc: ["遺伝子を収集するとき、特性のパーセンテージが得られます。それらをクラフトテーブルで組み合わせるか、ジーン インデクサーに置いて自動組み合わせができます"]
 	quest.419DD6FE84B91749.quest_subtitle: "ジーン コンバイナーとチェスト"
 	quest.41CF7CAEE4F60CCD.quest_desc: ["ネザーに設置され、グロウストーンが与えられた場合、グロウストーンネストはグローイングミツバチを引き寄せます"]
@@ -328,7 +327,6 @@
 	]
 	quest.500BEAD94C97DF96.quest_subtitle: "ソニックミツバチ"
 	quest.50ED69AEEE808B24.quest_subtitle: "液体リチウムバケツを水ミツバチに与える"
-	quest.516289A040EE9FDC.quest_subtitle: "クリスタライン + ネオンカッコー"
 	quest.52B22C07818981D0.quest_subtitle: "ニッケル/銅のミツバチのスポーンエッグに溶融コンスタンタンをかける"
 	quest.52B22C07818981D0.title: "コンスタンタンミツバチ"
 	quest.532F3E6868A29037.quest_desc: ["前のアップグレード：スピードを思い出してください。今度はそれをさらに速くすることを考えてください！ \n\nこれらのアップグレードはマシンで使用でき、40%速く動作させることができます！ \nはい、効果は重なります。 \n\nいいえ、ハイブでは使用できません。それは生産性のためのものです！"]

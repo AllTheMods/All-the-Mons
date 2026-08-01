@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 12.0d
+			id: "3EA14379FDBC3BC5"
 			image: "allthemons:item/pokemon_egg_level_1"
 			rotation: 0.0d
 			width: 12.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2EB1E103FCB38A85"
 			image: "atm:textures/questpics/pokemon/farm_title1.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1FD7F40CF7F9950E"
 			image: "atm:textures/questpics/pokemon/farm_title2.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -33,7 +36,7 @@
 			y: 5.5d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

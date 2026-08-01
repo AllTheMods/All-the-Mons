@@ -7,6 +7,7 @@
 		id: "allthemons:shiny_pika_star"
 	}
 	id: "009BBEA41077ED01"
+	images: [ ]
 	order_index: 3
 	quest_links: [ ]
 	quests: [

@@ -102,7 +102,6 @@
 	]
 	quest.5B8A381EFA3D836B.title: "Prehistoric Submerged Spike"
 	quest.5E64DDC28C1AD3FF.quest_desc: ["Some &cPokemon&r need to be &bFished&r, but how can we tell which &cPokemon&r we can &bFish&r up? \\n\\nThe &bFishingNav&r is how! Why is mine not showing any &cPokemon&r? \\n\\nYou'll need to have a &cPoke&rRod in your Inventory to actually see the &cPokemon&r you can Catch nearby. When you have one, it will show them based on the closest Water Biome you are near, like Oceans and Rivers. \\n\\nJust like the &aPokeNav&r it will show their Species, Rarities, and Chances for Spawn!"]
-	quest.5E64DDC28C1AD3FF.quest_subtitle: ""
 	quest.5E64DDC28C1AD3FF.title: "&bFishingNav"
 	quest.5ECE56EAB6773769.quest_desc: ["Fish (and &cPokemon&r Fish) aren't attracted to scary hooks! Only scary hooks that have tasty Bait on them. \\n\\nTo catch &cPokemon&r, we'll need &2Berries&r! \\n\\nDifferent &2Berries&r give different Effects for Fishing. Whether it makes a certain &cPokemon&r Type more common, gives better Stats, or even increases the &cPokemons&r Level. \\n\\nTo use them, Hold the &2Berries&r in your Offhand when Fishing."]
 	quest.5ECE56EAB6773769.title: "Fishing Bait"

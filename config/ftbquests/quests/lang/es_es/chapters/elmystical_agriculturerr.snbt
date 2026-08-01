@@ -8,7 +8,6 @@
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Rango: &b36&r Bloques"
 	quest.06EAA74E0A10CBB6.title: "&9Acelerador de Crecimiento de Imperium"
 	quest.07564DBB023EE2A6.quest_subtitle: "Tier: &b4"
-	quest.07751E1BE48C6024.quest_subtitle: "Tier: &b4"
 	quest.077B2D62FA7650FB.quest_subtitle: "Rango: &627&r Bloques"
 	quest.077B2D62FA7650FB.title: "&cAcelerador de Crecimiento de Tertium"
 	quest.07CC809B6482AB09.quest_subtitle: "Tier: &a2"
@@ -19,10 +18,8 @@
 	quest.0B37355262121DD5.quest_desc: ["El &aAltar de Infusión&r es cómo haces todas las semillas. Coloca primero el Altar y te mostrará dónde colocar los Pedestales después.\\n\\nPara que la Infusión comience, el Altar requiere una &4señal de Redstone&r."]
 	quest.0B37355262121DD5.quest_subtitle: "Creando Semillas"
 	quest.0B37355262121DD5.title: "&4Altar de Infusión"
-	quest.0BE6CE2C264140AD.quest_subtitle: "Tier: &a2"
 	quest.0E1ABCAA87120367.quest_subtitle: "Tier: &c5"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["La Cosechadora puede cosechar automáticamente cultivos y replantarlos. Los objetos recolectados por la Cosechadora se colocan en su inventario interno."]
-	quest.10098A4B38BBF0B1.quest_subtitle: "Tier: &a2"
 	quest.13124A7E22999850.quest_subtitle: "Tier: &e1"
 	quest.140DADB32EF10D58.quest_desc: ["Las Semillas de Huevo de Dragón requieren un Crux de Huevo de Dragón colocado debajo para poder crecer."]
 	quest.140DADB32EF10D58.quest_subtitle: "Tier: &56"
@@ -158,8 +155,6 @@
 	quest.4821419D44F8083F.title: "&aAcelerador de Crecimiento de Inferium"
 	quest.48BF71269DEA1AB1.title: "&4Tierra de Cultivo de Supremium"
 	quest.4A4C14AF947D93EF.quest_subtitle: "Nivel: &b4"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "Nivel: &63"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "Nivel: &b4"
 	quest.4E09BBC0BAED3440.quest_subtitle: "Nivel: &c5"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Nivel: &b4"
 	quest.4EB7245727EE1EF9.quest_subtitle: "Nivel: &63"
@@ -217,7 +212,6 @@
 	quest.67DDFA6FB1F9EECA.title: "&9Herramientas de Imperium"
 	quest.685C4A646E092A82.title: "&6Armadura de Supremium Despertado"
 	quest.6950FC974624C6AA.quest_subtitle: "Nivel: &63"
-	quest.69F63F3B48E4344E.quest_subtitle: "Nivel: &63"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Nivel: &63"
 	quest.6A2AD67569F91F1F.quest_subtitle: "Nivel: &c5"
 	quest.6D0A876D4E4D35AB.quest_desc: ["La Esencia Creativa es necesaria para craftear la &6Estrella ATM&r."]
@@ -260,7 +254,6 @@
 	quest.7D43016926E77150.title: "&9Armadura de Imperium&r"
 	quest.7DFF18CFEB0B8DBE.quest_desc: ["¡Querrás empezar a cultivar &aInferium&r tan pronto como puedas!\\n\\nAunque no es necesario para cultivar estas semillas, también puedes crear &eTierra de Cultivo de Esencia&r que aumentará la velocidad de crecimiento de las semillas (especialmente las Semillas de Inferium). Sin embargo, ciertas semillas requerirán ciertas tierras de cultivo para ser plantadas."]
 	quest.7DFF18CFEB0B8DBE.title: "&aTierra de Cultivo de Inferium"
-	quest.7EFEE009212A4FD4.quest_subtitle: "Nivel: &63"
 	task.011F410922A4D859.title: "Guadañas"
 	task.0C92F7E44100B2BA.title: "Herramientas de Tertium"
 	task.2DA0BD7B2834A560.title: "Bloques a Prueba de Wither"

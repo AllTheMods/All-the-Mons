@@ -8,7 +8,6 @@
 	quest.06EAA74E0A10CBB6.quest_subtitle: "範囲: &b36&r ブロック"
 	quest.06EAA74E0A10CBB6.title: "&9インペリウム 成長アクセラレーター&r"
 	quest.07564DBB023EE2A6.quest_subtitle: "ティア: &b4"
-	quest.07751E1BE48C6024.quest_subtitle: "ティア: &b4"
 	quest.077B2D62FA7650FB.quest_subtitle: "範囲: &627&r ブロック"
 	quest.077B2D62FA7650FB.title: "&cテルチウム 成長アクセラレーター&r"
 	quest.07CC809B6482AB09.quest_subtitle: "ティア: &a2"
@@ -19,10 +18,8 @@
 	quest.0B37355262121DD5.quest_desc: ["&aInfusion Altar&r はすべての種を作る方法です。まず Altar を設置すると、その後に儀式の台座を配置する場所が表示されます。\n\n注入を開始するには、Altar に&4レッドストーン信号&rが必要です"]
 	quest.0B37355262121DD5.quest_subtitle: "種の作成"
 	quest.0B37355262121DD5.title: "&4Infusion Altar"
-	quest.0BE6CE2C264140AD.quest_subtitle: "ティア: &a2"
 	quest.0E1ABCAA87120367.quest_subtitle: "ティア: &c5"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["Harvester は作物を自動収穫し、再植付けを行います。Harvester が収集したアイテムは内部インベントリに格納されます"]
-	quest.10098A4B38BBF0B1.quest_subtitle: "ティア: &a2"
 	quest.13124A7E22999850.quest_subtitle: "ティア: &e1"
 	quest.140DADB32EF10D58.quest_desc: ["ドラゴンエッグの種は成長するために下にドラゴンエッグ Crux を設置する必要があります"]
 	quest.140DADB32EF10D58.quest_subtitle: "ティア: &56"
@@ -154,8 +151,6 @@
 	quest.4821419D44F8083F.title: "成長の加速"
 	quest.48BF71269DEA1AB1.title: "&4スプレミウム 農地&r"
 	quest.4A4C14AF947D93EF.quest_subtitle: "ティア: &b4"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "ティア: &63"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "ティア: &b4"
 	quest.4E09BBC0BAED3440.quest_subtitle: "ティア: &c5"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "ティア: &b4"
 	quest.4EB7245727EE1EF9.quest_subtitle: "ティア: &63"
@@ -213,7 +208,6 @@
 	quest.67DDFA6FB1F9EECA.title: "&9Imperium ツールと武器&r"
 	quest.685C4A646E092A82.title: "&c覚醒アーマー&r"
 	quest.6950FC974624C6AA.quest_subtitle: "ティア: &63"
-	quest.69F63F3B48E4344E.quest_subtitle: "ティア: &63"
 	quest.6A18B971C3DB83AE.quest_subtitle: "ティア: &63"
 	quest.6A2AD67569F91F1F.quest_subtitle: "ティア: &c5"
 	quest.6D0A876D4E4D35AB.quest_desc: ["&6ATM Star&r をクラフトするには Creative Essence が必要です"]
@@ -250,7 +244,6 @@
 	quest.7D43016926E77150.title: "&9インペリウム アーマー&r"
 	quest.7DFF18CFEB0B8DBE.quest_desc: ["&aInferium&r をできるだけ早く育て始めましょう！\n\nInferium の種を育てるために必須ではありませんが、&eEssence Farmland&r を作ることで種の成長速度を上げることができます。ただし、特定の種は特定の農地でしか育てられないことがあります"]
 	quest.7DFF18CFEB0B8DBE.title: "インフェリウムの栽培"
-	quest.7EFEE009212A4FD4.quest_subtitle: "ティア: &63"
 	task.011F410922A4D859.title: "大鎌"
 	task.0C92F7E44100B2BA.title: "Tertium ツール"
 	task.2DA0BD7B2834A560.title: "ウィザー耐性ブロック"

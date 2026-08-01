@@ -8,9 +8,9 @@
 	}
 	id: "479D424D5BCA1EDA"
 	images: [{
-		click: "https://srcmc.gitlab.io/rct/docs/0.16/gameplay/progression/"
+		click_action: "open_uri:https://srcmc.gitlab.io/rct/docs/0.16/gameplay/progression/"
 		height: 1.0d
-		hover: ["Online Guide"]
+		id: "7A44D276BDEE1392"
 		image: "minecraft:item/writable_book"
 		rotation: 0.0d
 		width: 1.0d

@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Вібранієвий злиток&r"
-	quest.151D836C7B0E6FAF.title: "&3Вібранієвий щит"
 	quest.15DC6770B112EE69.quest_desc: [
 		"Камера розчинення — це машина, додана модом &l&7Industrial Foregoing&r. Саме тут ми будемо поєднувати &3Вібраній&r та &5Унобтаній&r. \\n\\nПотрібен буде &dPink Slime&r, який добувається у Mob Slaughter Factory — ще одній машині з IF. \\n\\nТакож знадобиться Soul Lava, яку можна знайти в &bІншому світі&r, зазвичай у селі піґлінів. \\n\\nПісля цього розмістіть злитки та серця піґліча у правильному порядку, подайте енергію — і все готово!\\n"
 		"{ \"text\": \"КВЕСТОВА ЛІНІЯ INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -37,7 +36,6 @@
 	quest.19E356E67EF17E4A.title: "&3Паксель&r з &6Усемодієвого &5Сплаву"
 	quest.1A05C605A52A4218.quest_desc: ["&5Унобтаній&r у поєднанні з &6Усемодієм&r!"]
 	quest.1A05C605A52A4218.title: "Злиток &5Унобтанієво&r-&6Усемодієвого&r сплаву"
-	quest.1F6C8117F3CED939.title: "&6Усемодієвий Лук"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5Унобтанієві арканічні обладунки"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Унобтанієвий Ковальський шаблон"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lВаніль&r не могла мати всі веселощі з булавами! Тож, звісно, є покращення з &6Усемодієм&r! \\n\\nПокращте булаву блоком &6Усемодію&r, щоб отримати &6Усемодієву Булаву&r. \\n\\nВона завдає більше базової шкоди та шкоди від падіння, і має ті ж зачарування!"]
 	quest.44D5EDB8711EC7A0.title: "&6Усемодієва Булава"
-	quest.47F734CDD5793F26.title: "&5Арбалет з Унобтанію"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"Ні, його не знайти у &5&lПотойбіччі&r. \\n\\n&5Руда Унобтанію&r трапляється вкрай рідко у біомах Височин Енду. Зазвичай саме там з'являються Міста Енду! \\n\\nЩоб добути руду, знадобиться &3Вібранієве кайло&r (або такого ж рівня). \\n\\nЧи треба ще нагадувати, що руду варто переробити?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

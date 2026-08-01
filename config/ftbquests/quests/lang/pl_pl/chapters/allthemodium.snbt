@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3Sztabka Vibranium&r"
-	quest.151D836C7B0E6FAF.title: "&3Vibraniumowa Tarcza"
 	quest.15DC6770B112EE69.quest_desc: [
 		"Komora Rozpuszczania to maszyna wprowadzona przez modyfikację &l&7Industrial Foregoing&r. To właśnie w niej będziemy tworzyli stop z &3Vibranium&r i &5Unobtainium&r. \\n\\nBędziesz potrzebować &dPink Slime&r który zdobędziesz z Ubojni Mobów która jest kolejną z maszyn tej modyfikacji. \\n\\nBędziesz też potrzebował płynu Soul Lava który jest dostępny &b&lThe Other&r w wiosce Piglinów. \\n\\nNastępnie będziesz musiał ułożyć serca i sztabki w odpowiednie miejsca, zasilić urządzenie a następnie nic tylko czekać!\\n"
 		"{ \"text\": \"ŚCIEŻKA INDUSTRIAL FOREGOING\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -38,7 +37,6 @@
 	quest.19E356E67EF17E4A.title: "&6Allthemodium &5Alloy &3Paxel"
 	quest.1A05C605A52A4218.quest_desc: ["&5Unobtainium&r połączone z &6Allthemodium&r!"]
 	quest.1A05C605A52A4218.title: "Sztabka Stopu &5Unobtainium&r - &6Allthemodium&r"
-	quest.1F6C8117F3CED939.title: "&6Allthemodiumowy Łuk "
 	quest.1FE47F03B5DF492D.title: "&5Zbroja Unobtainium Arcanist"
 	quest.201EE3566D4D3123.quest_desc: [
 		"By wykopać &6Allthemodium&r potrzebujesz kilofa o poziomie &5Netherytowego&r lub wyższym! \\n\\nJak już zdobędziesz rudę (na początku polecam użyć enchantu Szczęścia, Occultismu, lub urządzeń z modyfikacji Mekanism by zdobyć ich więcej) następnie masz kilka możliwości co możesz zrobić z tą rudą. \\n\\nPolecam stworzenie 2 Teleport Padów z &6Nuggetów&r (samorodków)! Możesz je wykorzystać do stworzenia &7&lMining Dimension&r który jest innym wymiarem, w nim będziesz w stanie znaleźć więcej &6Allthemodium&r lub pójść do &b&lThe Other&r i ruszyć na nową przygodę. \\n\\nNastępnie polecam Ci ulepszyć swój kilof by móc później wydobyć &3Vibranium&r. Mimo to, wszystko spoczywa w twoich rękach!"
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5Unobtainiumowy Szablon Kowalski"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lVanilla&r nie zapewniła maksymalnej zabawy z Buzdyganem, więc oczywiście mamy też wersję &6Allthemodium&r by ją podrasować! \\n\\nUlepsz swój Buzdygan dodając blok &6Allthemodium&r by stworzyć &6Allthemodium Mace&r. \\n\\nZadaje więcej obrażeń w bezpośrednim starciu i znacznie więcej przy upadku, możesz go zaklnąć tak samo jak zwykły!"]
 	quest.44D5EDB8711EC7A0.title: "&6Allthemodiumowy Buzdygan "
-	quest.47F734CDD5793F26.title: "&5Unobtainiumowa Kusza"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"Nie, nie da się jej znaleźc w &5&lThe Beyond&r. \\n\\nJeśli chcesz zdobyć rudę &5Unobtainium&r to jest bardzo rzadkim surowcem znajdującym się na biomie Wyżyny Endu. Te natomiast znajdują się tam gdzie znajduje się Miasto Endu! \\n\\nBędziesz potrzebował &3Vibranium Pickaxe&r lub kilofu o tym samym/wyższym poziomie by wydobyć tę rudę. \\n\\nMuszę Ci dalej mówić żebyś stosował Ore Processing?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

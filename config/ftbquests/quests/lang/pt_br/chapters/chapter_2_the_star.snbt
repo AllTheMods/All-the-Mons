@@ -18,6 +18,7 @@
 	quest.09D76E9B8CABC31E.quest_desc: ["Para a &5&lEssência Criativa&r você precisará de 4 &5Blocos de Essência de Insânio&r. Cada Bloco equivale a 9 &5Essências&r, agora deixe-me fazer as contas...\\n\\nVocê precisará de 9.216 &aEssências de Infério&r para obter apenas um desses Blocos. Então, você precisará de 36.864 &aEssências de Infério&r no total!"]
 	quest.09D76E9B8CABC31E.title: "4 &5Blocos de Insânio"
 	quest.0AE28C998A3BF136.quest_subtitle: "531.441 Netherrack"
+	quest.0C7D96DB3573EF9C.quest_desc: [""]
 	quest.0C7D96DB3573EF9C.quest_subtitle: "&oHabilidade de criar vida."
 	quest.0C7D96DB3573EF9C.title: "&5&lEssência Criativa"
 	quest.0E03F5EAE4963ECB.quest_subtitle: "8 Blocos Verdes Secos"
@@ -28,10 +29,12 @@
 	quest.14B7EEBE0F6C2776.quest_desc: ["&dBafo do Dragão Infundido&r é obtido... bem, Infundindo &dBafo do Dragão&r. \\n\\nVocê pode usar 2 &9Soul-Touched Sculkshelves&r, 3 &bHeart-Forged Seashelves&r, 8 Estantes de Livros normais e 1 &6Estante de Livros de Estabilidade Encapsulada em Geodo&r. \\n\\nTambém será necessário para outras receitas, mas não falamos sobre isso!"]
 	quest.14B7EEBE0F6C2776.title: "&dBafo do Dragão Infundido"
 	quest.174D18D9D732EC10.quest_subtitle: "8 Blocos Verdes Molhados"
+	quest.17542D7633FBF098.quest_desc: [""]
 	quest.17542D7633FBF098.quest_subtitle: "&oPena que o Bob Esponja não é uma Estrela."
 	quest.17542D7633FBF098.title: "&d&lPatrick &aEstrela&r"
 	quest.197AC6B76C28E63B.quest_desc: ["Temos 55 itens para combinar em 1... isso parece grande demais para uma Bancada de Trabalho! \\n\\nPrecisaremos de &6Bancadas Automáticas Mecânicas&r do &6&lCreate&r para criar nossa estrela. São 55 no total em um formato de estrela 9x9. Agora ela também pode ficar de cabeça para baixo! \\n\\nCertifique-se de que todas as &6Bancadas Automáticas&r estejam conectadas clicando com o botão direito com a &6&lChave Inglesa do Create&r em suas laterais para mudar a direção. Todas precisam convergir para um único ponto final. \\n\\nAssim que todos os itens estiverem posicionados e cada &6Bancada Automática&r receber &dForça Rotacional&r, você criará a &6&lEstrela ATM&r!"]
 	quest.197AC6B76C28E63B.title: "Fabricação da &6&lEstrela ATM"
+	quest.1CE7B24E7E62C25B.quest_desc: [""]
 	quest.1CE7B24E7E62C25B.quest_subtitle: "&oO desconhecido que, no entanto, é tudo o que conhecemos."
 	quest.1CE7B24E7E62C25B.title: "&8Buraco Negro &d&lPulsante"
 	quest.1EB04FE105ACA4BE.quest_desc: ["Quando um &9Defensor&r morre, ele tem a chance de dropar um &9Coração das Profundezas&r. \\n\\nIsso pode ser usado para a &6&lEstrela ATM&r, ou para ativar o Portal na Cidade Ancestral! \\n\\nNão pode haver nada no Portal para ativá-lo, isso inclui &9Sculk&r!"]
@@ -44,8 +47,10 @@
 	quest.216DA9782EBDFF34.title: "&b&lOccultism"
 	quest.2171DC0B13C4BD43.quest_desc: ["O &a&lRoots Classic&r pode parecer pequeno no JEI, mas posso prometer que há muito mais nele! \\n\\nO Roots é todo sobre usar os presentes da natureza para fazer rituais.\\n\\nConfie em mim, você encontrará esses itens por toda parte!"]
 	quest.2171DC0B13C4BD43.title: "&a&lRoots Classic"
+	quest.217DF3B66A07A8DE.quest_desc: [""]
 	quest.217DF3B66A07A8DE.quest_subtitle: "&oJardim do Éden em uma única Semente."
 	quest.217DF3B66A07A8DE.title: "&3&lSemente &2Dimensional"
+	quest.2188C52C1F384DE4.quest_desc: [""]
 	quest.2188C52C1F384DE4.quest_subtitle: "&oCombustível que queima para sempre (não de verdade)."
 	quest.2188C52C1F384DE4.title: "&c&lCombustível do Filósofo"
 	quest.21AB14A8553896E9.quest_desc: ["Pessoal, acho que não me ouviram direito, eu disse &e&lProductive Bees&r! Ah, espere, há outro Mod! \\n\\nEste está relacionado às &e&lProductive Bees&r, pois você precisará delas para cruzar Árvores. \\n\\nNão, as Árvores não usam Trigo para cruzar, elas usam Abelhas. \\n\\n&oAs Árvores e as Abelhas&r."]
@@ -92,10 +97,12 @@
 	quest.3331EBE1BB4BF64D.quest_desc: ["Reatores Nucleares podem ser bem assustadores para alguns, especialmente com os efeitos perigosos deles! \\n\\nFelizmente, a única coisa assustadora sobre &a&lExtreme Reactors&r é o quão confuso pode ser seguir as receitas! \\n\\nNão a parte da explosão, eles não fazem isso."]
 	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
 	quest.36CF8D1DD1EF6307.quest_subtitle: "2 Blocos Verde Claro Molhados"
+	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oA falta de sabedoria é coisa do passado com isto."
 	quest.36DF0D83EBC2B6A9.title: "&3&lDispositivo de Probabilidade Improvável"
 	quest.372B5BF416CA83A4.quest_desc: ["&5&lMekanism&r é um dos Mods de Máquinas e Tecnologia mais populares. Francamente, tenho dificuldade em resumi-lo, pois tem tanta coisa! \\n\\nTem tanto que até tivemos que fazer 2 Páginas de Missões para ele! \\n\\nAs coisas que precisamos para a &6&lEstrela ATM&r estão na página de Reatores, mas você precisará passar pela página do Mekanism para chegar lá."]
 	quest.372B5BF416CA83A4.title: "&5&lMekanism"
+	quest.39B4F361EF611927.quest_desc: [""]
 	quest.39B4F361EF611927.quest_subtitle: "&oPoder sobre a própria Morte."
 	quest.39B4F361EF611927.title: "&l&8Bússola do Wither"
 	quest.39F9C825B03DA317.quest_desc: ["A &8Interface Aérea&r funciona como um elo entre seu próprio armazenamento interno e seu Inventário. Basicamente, o que entra nela, vai para você. \\n\\nVocê precisará de uma linha de montagem inteira para criá-la, as Missões devem te ajudar!"]
@@ -131,6 +138,7 @@
 	quest.4D660BB94FD3D1D4.quest_desc: ["Como a maioria das coisas com &b&lOccultism&r, precisaremos de um Ritual! \\n\\nEste combinará &cPó de Netherita&r, &0Pedra-Negra Triturada&r, uma &0Rosa do Wither&f e um &0Crânio de Esqueleto Wither&r. \\n\\nVocê também precisará de Giz &averde-limão&f, &7cinza&f, branco, &5roxo&f e &6laranja&r. Além de Crânios de Esqueleto, Velas e Cristais Sintonizados com Espíritos. \\n\\nNão vou tentar explicar como juntar tudo, em vez disso, você pode usar o JEI (botão de olho no canto inferior esquerdo da Receita)."]
 	quest.4D660BB94FD3D1D4.title: "&8Pó de Witherita"
 	quest.4D7D4C718837BCA5.quest_desc: ["A parte principal da receita para o Portal do Nether em Miniatura é a &3Estante Infernal da Visão Magistral&r. Geralmente, ela é usada para ver quais Encantamentos você obterá, mas estamos aqui pela &6&lEstrela ATM&r, não por Encantamentos. \\n\\nVocê só precisará encantar até uma &4Estante Infernal Infundida&r, que pode ser obtida com apenas algumas Estantes. Então você precisa fabricar com ela para aprimorá-la ainda mais! \\n\\nDepois disso, você pode fabricar o Portal do Nether em Miniatura, pelo qual não, você não pode passar, você é grande demais!"]
+	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssência dos seres mais poderosos."
 	quest.4E82E843737045D9.title: "&d&lAlma do Dragão"
 	quest.4E8C32CD6057A1AB.quest_desc: ["O &cQueimador de Blaze&r é na verdade provavelmente um dos Ingredientes da &6&lEstrela&r mais fáceis! \\n\\nPrimeiro, precisaremos de um &cQueimador de Blaze Vazio&r. Estes são apenas 4 &7Chapas de Ferro&r e uma única &cNetherrack&r. \\n\\nEntão, pegue seu &cQueimador de Blaze Vazio&r e encontre um &cBlaze&r. Você deve saber onde eles surgem, mas caso não saiba: &cBlazes&r surgem em Estruturas no &c&lNether&r. Apenas segure o &cQueimador de Blaze Vazio&r na mão principal e Clique Direito no &cBlaze&r para capturá-lo! \\n\\nUma vez capturado, ele pode ser usado para fazer o &c&lCombustível do Filósofo&r."]
@@ -140,6 +148,7 @@
 	quest.501A0AEEC73C0790.title: "Bloco de Coração do &6Piglich"
 	quest.535525EA4DF4AB59.quest_desc: ["O &cTransmissor de Jogador&r fornecerá energia a qualquer pessoa com o Cartão Vinculado. Isso inclui energia para todas as armaduras, ferramentas e itens em seu inventário. \\n\\nO &cNível Nitro&r é necessário para a &6&lEstrela&r, que é, claro, o último e mais difícil de obter."]
 	quest.535525EA4DF4AB59.title: "&cTransmissor de Jogador Nitro"
+	quest.54B1A876E9F6707A.quest_desc: [""]
 	quest.54B1A876E9F6707A.quest_subtitle: "&oPoder e destruição como nenhum outro!"
 	quest.54B1A876E9F6707A.title: "&5&lFragmento do Esquecimento"
 	quest.554F47A0AF7506EC.quest_subtitle: "59.049 Pedras do End"
@@ -175,6 +184,7 @@
 	quest.6A12188E50EAEB78.title: "2 &zFornalhas de Arco-íris"
 	quest.6A46A9F04D2A0748.quest_desc: ["Direwolf é um nome sinônimo de Minecraft Modificado e &3&lJust Dire Things&r é uma de suas criações. \\n\\nEle gira em torno de Gosma, sim, eu sei, parece tentador!"]
 	quest.6A46A9F04D2A0748.title: "&3&lJust Dire Things"
+	quest.6CAD67D21E1EA861.quest_desc: [""]
 	quest.6CAD67D21E1EA861.quest_subtitle: "&oAcesso remoto universal."
 	quest.6CAD67D21E1EA861.title: "Emissor &7&lNexium"
 	quest.6D1E8399AD39FFC8.quest_desc: ["A &7Máquina do Paradoxo&r pode, por um preço de muita Energia e &aFluido do Tempo&r, tirar uma Foto de blocos e entidades na área designada; depois, ela pode duplicá-la. \\n\\nMuitos Blocos e Entidades são bloqueados por configurações, então nada de duplicar Abelhas!"]

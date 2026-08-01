@@ -8,7 +8,6 @@
 	quest.06EAA74E0A10CBB6.quest_subtitle: "Радиус: &b36&r блоков"
 	quest.06EAA74E0A10CBB6.title: "&9Империевый ускоритель роста"
 	quest.07564DBB023EE2A6.quest_subtitle: "Уровень: &b4"
-	quest.07751E1BE48C6024.quest_subtitle: "Уровень: &b4"
 	quest.077B2D62FA7650FB.quest_subtitle: "Радиус: &627&r блоков"
 	quest.077B2D62FA7650FB.title: "&cТертиевый ускоритель роста"
 	quest.07CC809B6482AB09.quest_subtitle: "Уровень: &a2"
@@ -19,10 +18,8 @@
 	quest.0B37355262121DD5.quest_desc: ["&aАлтарь наполнения&r — это то, как ты создаёшь все семена. Сначала размести алтарь, и он покажет, куда ставить пьедесталы.\\n\\nЧтобы начать процесс наполнения, алтарю нужен &4редстоун сигнал&r."]
 	quest.0B37355262121DD5.quest_subtitle: "Создание семян"
 	quest.0B37355262121DD5.title: "&4Алтарь наполнения"
-	quest.0BE6CE2C264140AD.quest_subtitle: "Уровень: &a2"
 	quest.0E1ABCAA87120367.quest_subtitle: "Уровень: &c5"
 	quest.0EFEDB0DD90DFC81.quest_desc: ["Комбайн может автоматически собирать урожай и пересаживать его. Предметы, собранные комбайном, помещаются в его внутренний инвентарь."]
-	quest.10098A4B38BBF0B1.quest_subtitle: "Уровень: &a2"
 	quest.13124A7E22999850.quest_subtitle: "Уровень: &e1"
 	quest.140DADB32EF10D58.quest_desc: ["Семена яйца дракона требуют основание из яйца дракона, размещённое ниже, чтобы они могли расти."]
 	quest.140DADB32EF10D58.quest_subtitle: "Уровень: &56"
@@ -162,8 +159,6 @@
 	quest.4821419D44F8083F.title: "&aИнфериевый ускоритель роста"
 	quest.48BF71269DEA1AB1.title: "&4Супремиевая пашня"
 	quest.4A4C14AF947D93EF.quest_subtitle: "Уровень: &b4"
-	quest.4D8B82FBA0FFD49E.quest_subtitle: "Уровень: &63"
-	quest.4DF23FC932F5EB7D.quest_subtitle: "Уровень: &b4"
 	quest.4E09BBC0BAED3440.quest_subtitle: "Уровень: &c5"
 	quest.4E7990AEBCCC3C95.quest_subtitle: "Уровень: &b4"
 	quest.4EB7245727EE1EF9.quest_subtitle: "Уровень: &63"
@@ -222,7 +217,6 @@
 	quest.67DDFA6FB1F9EECA.title: "&9Империевые инструменты"
 	quest.685C4A646E092A82.title: "&6Пробуждённая супремиевая броня"
 	quest.6950FC974624C6AA.quest_subtitle: "Уровень: &63"
-	quest.69F63F3B48E4344E.quest_subtitle: "Уровень: &63"
 	quest.6A18B971C3DB83AE.quest_subtitle: "Уровень: &63"
 	quest.6A2AD67569F91F1F.quest_subtitle: "Уровень: &c5"
 	quest.6D0A876D4E4D35AB.quest_desc: ["Творческая эссенция требуется для крафта &6звезды ATM&r."]
@@ -265,7 +259,6 @@
 	quest.7D43016926E77150.title: "&9Империевая броня&r"
 	quest.7DFF18CFEB0B8DBE.quest_desc: ["Начинай выращивать &aинферий&r как можно скорее!\\n\\nХотя это не обязательно для выращивания этих семян, ты можешь создать &eпашни&r, которые ускорят рост семян (особенно семян инферия). Однако некоторые семена потребуют определённых грядок для посадки."]
 	quest.7DFF18CFEB0B8DBE.title: "&aИнфериевые пашни"
-	quest.7EFEE009212A4FD4.quest_subtitle: "Уровень: &63"
 	task.011F410922A4D859.title: "Косы"
 	task.0C92F7E44100B2BA.title: "Тертиевые инструменты"
 	task.2DA0BD7B2834A560.title: "Визеростойкие блоки"

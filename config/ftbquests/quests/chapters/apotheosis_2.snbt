@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.5d
+			id: "4A511B290A8A2569"
 			image: "atm:textures/questpics/apothic/apothic_spawners.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2FF590EE76A31DB7"
 			image: "atm:textures/questpics/apothic/spawners_title.png"
 			rotation: 0.0d
 			width: 7.5d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "458807C9D95E5FB1"
 			image: "atm:textures/questpics/apothic/spawn_eggs.png"
 			rotation: 0.0d
 			width: 4.25d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A56D3C5CD213EFF"
 			image: "atm:textures/questpics/apothic/other_spawners.png"
 			rotation: 0.0d
 			width: 5.0d

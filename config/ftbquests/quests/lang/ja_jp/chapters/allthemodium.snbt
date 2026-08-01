@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3ヴィブラニウムインゴット&r"
-	quest.151D836C7B0E6FAF.title: "&3ヴィブラニウムの盾"
 	quest.15DC6770B112EE69.quest_desc: [
 		"Dissolution Chamber は &l&7Industrial Foregoing&r が追加する機械です。これを使って &3ヴィブラニウム&r と &5アンオブタニウム&r を組み合わせます。\n\n&dピンクスライム&r が必要で、これは IF が追加する別の機械である Mob Slaughter Factory から入手できます。\n\nまた、&b&lThe Other&r のピグリン村で一般的に見られるソウルラヴァも必要です。\n\nその後、インゴットとピグリッチハートを正確な順序で配置し、電力を供給すれば完了です！\n"
 		"{ \"text\": \"INDUSTRIAL FOREGOING QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -37,7 +36,6 @@
 	quest.19E356E67EF17E4A.title: "&6オールザモディウム &5合金 &3パクセル"
 	quest.1A05C605A52A4218.quest_desc: ["&5アンオブタニウム&r と &6オールザモディウム&r の組み合わせ！"]
 	quest.1A05C605A52A4218.title: "&5アンオブタニウム&r - &6オールザモディウム&r 合金インゴット"
-	quest.1F6C8117F3CED939.title: "&6オールザモディウム 弓"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5アンオブタニウム Arcanist アーマー"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5アンオブタニウムの鍛冶型"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&lバニラ&rがメイスで楽しむことはできませんでした！もちろん&6オールザモディウム&rのアップグレードがあります！ \\n\\nメイスを&6オールザモディウムブロック&rでアップグレードして&6オールザモディウムメイス&rを入手します。 \\n\\nより多くの基本ダメージ、より多くの落下ダメージ、同じエンチャントを与えます！"]
 	quest.44D5EDB8711EC7A0.title: "&6オールザモディウム メイス"
-	quest.47F734CDD5793F26.title: "&5アンオブタニウムのクロスボウ"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"いいえ、これは &5&lThe Beyond&r では見つかりません。\n\n&5アンオブタニウム鉱石&r はエンドの高地バイオームでとても稀に見つけることができます。エンドシティが生成される場所と同じです！\n\n鉱石を採掘するには &3ヴィブラニウムのツルハシ&r（または同等のティア）が必要です。\n\n鉱石処理をする必要があることはまだ言わなければいけませんか？"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"

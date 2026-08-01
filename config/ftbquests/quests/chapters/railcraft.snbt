@@ -10,9 +10,9 @@
 	id: "2FB24A5A597459FC"
 	images: [
 		{
-			click: "#3E8C2E7769DFBF35"
+			click_action: "open_quest:3E8C2E7769DFBF35"
 			height: 1.5d
-			hover: ["Electric Locomotive"]
+			id: "0327A7CE94F83020"
 			image: "atm:textures/questpics/railcraft/rail_electric.png"
 			rotation: 0.0d
 			width: 1.8627450980392157d
@@ -20,9 +20,9 @@
 			y: 2.0d
 		}
 		{
-			click: "#5128B119DFFF0C4C"
+			click_action: "open_quest:5128B119DFFF0C4C"
 			height: 1.5d
-			hover: ["Steam Locomotive"]
+			id: "24BD06A9BD07674C"
 			image: "atm:textures/questpics/railcraft/rail_steam.png"
 			rotation: 0.0d
 			width: 1.4922680412371134d
@@ -30,9 +30,9 @@
 			y: 2.0d
 		}
 		{
-			click: "#0A43FD0B5C76C1C5"
+			click_action: "open_quest:0A43FD0B5C76C1C5"
 			height: 2.0d
-			hover: ["Blast Furnace"]
+			id: "445FA61A0F24E9A2"
 			image: "atm:textures/questpics/railcraft/rail_furnace.png"
 			rotation: 0.0d
 			width: 1.8454106280193237d
@@ -40,9 +40,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#38451B61E3FC075B"
+			click_action: "open_quest:38451B61E3FC075B"
 			height: 2.0d
-			hover: ["Coke Oven"]
+			id: "409067B98EFFFC3F"
 			image: "atm:textures/questpics/railcraft/rail_coke.png"
 			rotation: 0.0d
 			width: 1.9774011299435028d
@@ -51,6 +51,7 @@
 		}
 		{
 			height: 2.0d
+			id: "06448EF3208BFB28"
 			image: "atm:textures/questpics/railcraft/rail_tunnel.png"
 			rotation: 0.0d
 			width: 2.4634146341463414d
@@ -58,9 +59,9 @@
 			y: 4.5d
 		}
 		{
-			click: "#475E307844E3AF7F"
+			click_action: "open_quest:475E307844E3AF7F"
 			height: 2.0d
-			hover: ["Water Boiler"]
+			id: "18972B0749E2EA01"
 			image: "atm:textures/questpics/railcraft/rail_big_boiler.png"
 			rotation: 0.0d
 			width: 1.6754385964912282d
@@ -68,9 +69,9 @@
 			y: -3.0d
 		}
 		{
-			click: "#61C93ABE07742DCD"
+			click_action: "open_quest:61C93ABE07742DCD"
 			height: 2.0d
-			hover: ["Steam Turbine"]
+			id: "24D81B190D816E71"
 			image: "atm:textures/questpics/railcraft/rail_turbine.png"
 			rotation: 0.0d
 			width: 2.127906976744186d
@@ -78,9 +79,9 @@
 			y: -2.0d
 		}
 		{
-			click: "#008D186B4E0ED14F"
+			click_action: "open_quest:008D186B4E0ED14F"
 			height: 2.0d
-			hover: ["Steam Oven"]
+			id: "64F5D33A1B0154A9"
 			image: "atm:textures/questpics/railcraft/rail_oven.png"
 			rotation: 0.0d
 			width: 1.9899497487437185d
@@ -88,9 +89,9 @@
 			y: -2.0d
 		}
 		{
-			click: "#020E6AF37A0421C8"
+			click_action: "open_quest:020E6AF37A0421C8"
 			height: 2.0d
-			hover: ["Water Tank"]
+			id: "494A55C2CBE4E55C"
 			image: "atm:textures/questpics/railcraft/rail_tank.png"
 			rotation: 0.0d
 			width: 2.0585365853658537d
@@ -98,9 +99,9 @@
 			y: 0.0d
 		}
 		{
-			click: "#21693C4DE6531D73"
+			click_action: "open_quest:21693C4DE6531D73"
 			height: 2.0d
-			hover: ["Crusher"]
+			id: "239A0727CB2C8C1B"
 			image: "atm:textures/questpics/railcraft/rail_crusher.png"
 			rotation: 0.0d
 			width: 2.179640718562874d
@@ -109,7 +110,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Abandoned Tracks"]
+			id: "12757CDE8B1A35DF"
 			image: "atm:textures/questpics/railcraft/rail_abandoned.png"
 			rotation: 0.0d
 			width: 6.086776859504132d
@@ -118,7 +119,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Reinforced Tracks"]
+			id: "2D263FA3DA029DE1"
 			image: "atm:textures/questpics/railcraft/rail_reinforced4.png"
 			rotation: 0.0d
 			width: 4.557324840764331d
@@ -127,7 +128,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Electric Tracks"]
+			id: "1BDCD98C1C2F17BF"
 			image: "atm:textures/questpics/railcraft/rail_electric_rail.png"
 			rotation: 0.0d
 			width: 4.285714285714286d
@@ -136,7 +137,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Strap Iron Tracks"]
+			id: "2226E8B229B86DCC"
 			image: "atm:textures/questpics/railcraft/rail_strap.png"
 			rotation: 0.0d
 			width: 4.25390625d
@@ -144,9 +145,9 @@
 			y: 4.0d
 		}
 		{
-			click: "#7F4B734CFB0F0306"
+			click_action: "open_quest:7F4B734CFB0F0306"
 			height: 1.0d
-			hover: ["Minecart with Tank"]
+			id: "73CE36293444E751"
 			image: "atm:textures/questpics/railcraft/rail_carttank.png"
 			rotation: 0.0d
 			width: 1.3098591549295775d
@@ -154,9 +155,9 @@
 			y: 6.5d
 		}
 		{
-			click: "#7F4B734CFB0F0306"
+			click_action: "open_quest:7F4B734CFB0F0306"
 			height: 1.0d
-			hover: ["Minecart with Energy Cell"]
+			id: "0FB64A4C4AF4664E"
 			image: "atm:textures/questpics/railcraft/rail_cartcell.png"
 			rotation: 0.0d
 			width: 1.24822695035461d
@@ -164,9 +165,9 @@
 			y: 6.5d
 		}
 		{
-			click: "#08457BEED799E600"
+			click_action: "open_quest:08457BEED799E600"
 			height: 1.0d
-			hover: ["Track: Remover, Relayer, and Placer"]
+			id: "723C2B19439D99F1"
 			image: "atm:textures/questpics/railcraft/rail_carttracks.png"
 			rotation: 0.0d
 			width: 3.0225563909774436d
@@ -175,7 +176,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Item Loading"]
+			id: "4CF7DDB74BF6E8CA"
 			image: "atm:textures/questpics/railcraft/rail_item.png"
 			rotation: 0.0d
 			width: 1.890995260663507d
@@ -184,7 +185,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Item Unloading"]
+			id: "5BDD8EE796DE026E"
 			image: "atm:textures/questpics/railcraft/rail_unloader.png"
 			rotation: 0.0d
 			width: 2.2936507936507935d
@@ -193,7 +194,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Cart Dispenser"]
+			id: "2A9B7D4AE71AE1E2"
 			image: "atm:textures/questpics/railcraft/rail_cartdispensed.png"
 			rotation: 0.0d
 			width: 2.2033898305084745d
@@ -202,7 +203,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Train Dispenser"]
+			id: "513AD8A7842AC3C3"
 			image: "atm:textures/questpics/railcraft/rail_traindispens.png"
 			rotation: 0.0d
 			width: 2.2272727272727275d
@@ -211,6 +212,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1C39911714E84CC8"
 			image: "atm:textures/questpics/railcraft/railcraft.png"
 			rotation: 0.0d
 			width: 9.076923076923077d
@@ -219,7 +221,7 @@
 		}
 		{
 			height: 1.5d
-			hover: ["Fluid Loading"]
+			id: "30A3450CC96A010B"
 			image: "atm:textures/questpics/railcraft/rail_fluid.png"
 			rotation: 0.0d
 			width: 1.6d

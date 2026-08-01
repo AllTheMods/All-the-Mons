@@ -20,7 +20,6 @@
 		"{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
 	]
 	quest.144BB025516E0994.title: "&3바이브라늄 주괴&r"
-	quest.151D836C7B0E6FAF.title: "&3바이브라늄 방패"
 	quest.15DC6770B112EE69.quest_desc: [
 		"용해 챔버는 &l&7인더스트리얼 포어고잉&r에서 추가된 기계입니다. 또한 &3바이브라늄&r과 &5언옵테이니움&r을 결합하는 방법이기도 합니다. \\n\\nIF에서 추가한 또 다른 기계인 몹 도살 공장에서 얻을 수 있는 &d분홍색 슬라임&r이 필요합니다.\\n\\n또한 &b&l디 아더&r에서 찾을 수 있고 피글린 마을에서 흔히 볼 수 있는 영혼 용암도 필요합니다.\\n\\n그 후 주괴와 피글리치 하트를 정확한 순서로 넣고 전력을 공급하면 완료됩니다!"
 		"{ \"text\": \"INDUSTRIAL FOREGOING QUESTLINE\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"193F91842D2ED7D9\" } }"
@@ -37,7 +36,6 @@
 	quest.19E356E67EF17E4A.title: "&6올더모듐 &5합금 &3팩셀"
 	quest.1A05C605A52A4218.quest_desc: ["&5언옵테이니움&r이 &6올더모듐&r과 결합되었습니다!"]
 	quest.1A05C605A52A4218.title: "&5언옵테이니움&r - &6올더모듐&r 합금 주괴"
-	quest.1F6C8117F3CED939.title: "&6올더모듐 활"
 	quest.1FE47F03B5DF492D.quest_desc: ["{image:atm:textures/questpics/allthemodium/all_armor_unoarcane.png width:100 height:175 align:center}"]
 	quest.1FE47F03B5DF492D.title: "&5언옵테늄 비전술사 갑옷"
 	quest.201EE3566D4D3123.quest_desc: [
@@ -71,7 +69,6 @@
 	quest.3F8D515D7B81B0E3.title: "&5언옵테이니움 대장장이 형판"
 	quest.44D5EDB8711EC7A0.quest_desc: ["&2&l바닐라&r에서는 철퇴로 모든 재미를 누릴 수 없었습니다! 그래서 당연히 &6올더모듐&r으로 업그레이드할 수 있습니다! \\n\\n&6올더모듐 블록&r으로 철퇴를 업그레이드하여 &6올더모듐 철퇴&r를 획득하세요.\\n\\n더 높은 기본 피해, 더 높은 낙하 피해를 주며, 마법 부여도 동일합니다!"]
 	quest.44D5EDB8711EC7A0.title: "&6올더모듐 철퇴"
-	quest.47F734CDD5793F26.title: "&5언옵테이니움 쇠뇌"
 	quest.4A079D40C0AF6BC3.quest_desc: [
 		"아니요, &5&l더 비욘드&r에서는 찾을 수 없습니다. \\n\\n&5언옵테이니움 광석&r은 엔드 고지 생물 군계에서 매우 드물게 발견할 수 있습니다. 그곳은 보통 엔드 시티가 생성되는 곳이기도 합니다!\\n\\n광석을 채굴하려면 &3바이브라늄 곡괭이&r(또는 같은 티어)가 필요합니다.\\n\\n아직도 광석을 가공하라고 말해야 하나요?"
 		"{image:atm:textures/questpics/allthemodium/all_3.png width:100 height:100 align:center}"
