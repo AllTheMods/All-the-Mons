@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "2D07F5FC8A4768D2"
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3FE649873D98158D"
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0CC5289DA9C4EF8F"
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2CCE75A5B80F97B0"
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "56CA1420BE254CC2"
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2044B6DF64B43D64"
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1B753FF40E457691"
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3FFDDDE6A700584E"
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4FAFD88E23B5A4B0"
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06D022822BB935EF"
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5DB7DE21001AFC1B"
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "430A617BBEF8D16A"
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3028B60C8FAE8D31"
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "369F5AFEE3487C3E"
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1A0E66CC056EAB22"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 2.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 2.0d
+			id: "42722B44BD76806C"
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E3AB3220B2CC1B5"
 			image: "powah:block/nitro_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7F80C40AC6336594"
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 3.0d
@@ -156,6 +174,7 @@
 			alpha: 150
 			color: 0
 			height: 10.0d
+			id: "29721F40CF97A077"
 			image: "ftbquests:textures/shapes/square/outline.png"
 			order: -1
 			rotation: 0.0d
@@ -166,6 +185,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "5ABA89A608E2FC0D"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -174,6 +194,7 @@
 		}
 		{
 			height: 0.025d
+			id: "49E7B23B4D80274F"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -183,6 +204,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "2BD15BC292331BD0"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -192,6 +214,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "5D9389F37DF90249"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -201,6 +224,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "61F8A808CDA75D40"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -210,6 +234,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "680693D9EA260C5A"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -219,6 +244,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "78F9429D5125F6D9"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -228,6 +254,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "20387C21413026CE"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -237,6 +264,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "3ECC56924A9E11C9"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -245,6 +273,7 @@
 		}
 		{
 			height: 0.9d
+			id: "50E14B6FC9FB53D6"
 			image: "atm:textures/questpics/powah/text/storage_text.png"
 			rotation: 0.0d
 			width: 2.3019230769230767d
@@ -253,6 +282,7 @@
 		}
 		{
 			height: 0.8d
+			id: "5C9021CECFD40EA0"
 			image: "atm:textures/questpics/powah/text/generation_text.png"
 			rotation: 0.0d
 			width: 3.3600000000000003d
@@ -261,6 +291,7 @@
 		}
 		{
 			height: 0.75d
+			id: "3A9FE148A1B36579"
 			image: "atm:textures/questpics/powah/text/useful_items_text.png"
 			rotation: 0.0d
 			width: 3.908823529411765d
@@ -269,6 +300,7 @@
 		}
 		{
 			height: 0.75d
+			id: "6C2F5CF1F0776911"
 			image: "atm:textures/questpics/powah/text/transfer_text.png"
 			rotation: 0.0d
 			width: 2.6029411764705883d
@@ -277,6 +309,7 @@
 		}
 		{
 			height: 1.0d
+			id: "162D1DD523867C08"
 			image: "powah:block/niotic_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
@@ -285,6 +318,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5B590FF4DE78F569"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -293,6 +327,7 @@
 		}
 		{
 			height: 1.0d
+			id: "54D8C7D1612979E1"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -301,6 +336,7 @@
 		}
 		{
 			height: 1.0d
+			id: "540CDAB2F07F76A8"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -309,6 +345,7 @@
 		}
 		{
 			height: 1.0d
+			id: "40CDFBCAF9030FBE"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -317,6 +354,7 @@
 		}
 		{
 			height: 0.3d
+			id: "488F223D523250C6"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

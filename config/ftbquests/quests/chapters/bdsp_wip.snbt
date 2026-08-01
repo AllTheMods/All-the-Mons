@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "0B8589088CEF285F"
 			image: "atm:textures/questpics/series/bdsp_title.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "09F1D2A3C6A1CCDC"
 			image: "atm:textures/questpics/series/bdsp_sinnoh.png"
 			rotation: 0.0d
 			width: 9.0d

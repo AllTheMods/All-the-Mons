@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 0.01d
+			id: "56BA59E0D0694634"
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
 			width: 15.4d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 25.0d
+			id: "059B966D7C8285BD"
 			image: "cobblemon:item/poke_balls/poke_ball"
 			rotation: 0.0d
 			width: 25.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 4.0d
+			id: "402C056F972A03FD"
 			image: "atm:textures/questpics/gettingstarted/enderdragon.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 4.0d
+			id: "5222C742179E7B40"
 			image: "atm:textures/questpics/gettingstarted/warden_roar.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 4.0d
+			id: "38DAB0459A0DE7D6"
 			image: "atm:textures/questpics/gettingstarted/wither2.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 4.0d
+			id: "316156B22584DED2"
 			image: "atm:textures/questpics/gettingstarted/started_tree.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 3.0d
+			id: "625F580F31707767"
 			image: "atm:textures/questpics/gettingstarted/sniffer3.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2A6564F9445CF5DF"
 			image: "atm:textures/questpics/gettingstarted/started_title.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 2.0d
+			id: "463D60CBCA9690E3"
 			image: "generatorgalore:block/magmatic_generator_top_on"
 			rotation: 0.0d
 			width: 2.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5B45BDEB7EE9E3FA"
 			image: "atm:textures/questpics/logistics/pipez_energy.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1EB55C547596BD97"
 			image: "hostilenetworks:block/loot_fabricator_north"
 			rotation: 0.0d
 			width: 2.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 2.0d
+			id: "374686FF558EB11F"
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 2.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1362CDCED126D857"
 			image: "atm:textures/questpics/immersive/immersive_assembler.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5099672810FD23A9"
 			image: "atm:textures/questpics/ars/enchanting_app.png"
 			rotation: 0.0d
 			width: 3.0d

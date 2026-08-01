@@ -12,6 +12,7 @@
 	id: "07210DDF872160BA"
 	images: [{
 		height: 3.0d
+		id: "28D0B699DCCBE49F"
 		image: "atm:textures/questpics/ae2.png"
 		rotation: 0.0d
 		width: 9.27d

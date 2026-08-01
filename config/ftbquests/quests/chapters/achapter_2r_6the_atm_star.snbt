@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "446AFF850AEF7EC8"
 			image: "atm:textures/questpics/chap3/creative_chap4.png"
 			rotation: -90.0d
 			width: 10.415584415584416d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4EA31494DE8599A8"
 			image: "atm:textures/questpics/chap3/creative_creative.png"
 			rotation: -90.0d
 			width: 9.246753246753247d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "76F9BE08DAF36CA7"
 			image: "atm:textures/questpics/chap3/creative_star.png"
 			rotation: 0.0d
 			width: 10.91566265060241d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B073556E1ED36C7"
 			image: "atm:textures/questpics/chap3/creative_items.png"
 			rotation: 0.0d
 			width: 8.741176470588234d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 4.0d
+			id: "0FE1BFEDCE85BF39"
 			image: "atm:textures/questpics/chap3/creative_forge4.png"
 			rotation: 0.0d
 			width: 4.465116279069767d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 4.0d
+			id: "0CB0B3FC580BE4E9"
 			image: "atm:textures/questpics/chap3/creative_crucible4.png"
 			rotation: 0.0d
 			width: 4.4033613445378155d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 7.0d
+			id: "7232BDA385A5D653"
 			image: "atm:textures/questpics/chap3/creative_enchanter5.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 6.0d
+			id: "7E5CA38963DA7E05"
 			image: "atm:textures/questpics/chap2/atmstar_layer8.png"
 			rotation: 0.0d
 			width: 6.060362173038229d

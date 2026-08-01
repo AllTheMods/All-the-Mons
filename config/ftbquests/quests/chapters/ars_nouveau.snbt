@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.3d
+			id: "3E41803A5AA4710E"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "015859D09D5E8F2E"
 			image: "ars_nouveau:item/starbuncle_shards"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.5d
+			id: "468CA41A46E2D9B0"
 			image: "atm:textures/questpics/ars/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 8.0d

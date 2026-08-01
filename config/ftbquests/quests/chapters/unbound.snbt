@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 19.0d
+			id: "32C353D1186E5C9D"
 			image: "atm:textures/questpics/series/unbound_background.png"
 			rotation: 0.0d
 			width: 19.0d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 2.0d
+			id: "11E3D866402CB485"
 			image: "atm:textures/questpics/series/unbound_title.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 2.0d
+			id: "359DE7C1F9139A1E"
 			image: "atm:textures/questpics/series/unbound_region.png"
 			rotation: 0.0d
 			width: 7.0d

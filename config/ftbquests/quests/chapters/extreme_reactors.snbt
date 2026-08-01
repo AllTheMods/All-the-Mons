@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "1E857E493FAA58EF"
 			image: "atm:textures/questpics/extremereactors/title2.png"
 			rotation: 0.0d
 			width: 10.15d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 8.0d
+			id: "15A32DBF31DAAD8E"
 			image: "atm:textures/questpics/extremereactors/titleimage2.png"
 			order: -1
 			rotation: 0.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.75d
+			id: "2C96EF193B7C6DAA"
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
 			width: 1.75d
@@ -36,6 +39,7 @@
 		{
 			color: 14679808
 			height: 1.75d
+			id: "1A7A8D09452624B7"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.75d
@@ -44,6 +48,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3E6E98C607542431"
 			image: "ftbquests:block/base_input"
 			order: -1
 			rotation: 0.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 0.3d
+			id: "5212B65F80F6EFD3"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d

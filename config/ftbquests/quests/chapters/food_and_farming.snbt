@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "31AE79943A08699C"
 			image: "minecraft:textures/item/cake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F6C1EE945E1FE0C"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0C170593CCD74440"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3ADECFC40FC71237"
 			image: "minecraft:textures/item/wheat_seeds.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "145F830E495D817D"
 			image: "minecraft:textures/block/birch_sapling.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "185A25041F5697D5"
 			image: "minecraft:block/hay_block_side"
 			rotation: -90.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "09ABD918A4A45B8F"
 			image: "minecraft:item/torchflower_seeds"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "17A9380F43400519"
 			image: "aquaculture:item/message_in_a_bottle"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2AE6609141C5FF69"
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67AB6B9B9C957A04"
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 2.0d
+			id: "38453D8F574D2087"
 			image: "aquaculture:textures/item/catfish.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4A4852EB4318645D"
 			image: "atm:textures/questpics/food_and_farming.png"
 			rotation: 0.0d
 			width: 12.0d

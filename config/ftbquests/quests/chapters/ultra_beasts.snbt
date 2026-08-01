@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 12.5d
+			id: "735EA597BC8C50F2"
 			image: "atm:textures/questpics/pokemon/ultra_background.png"
 			rotation: 0.0d
 			width: 12.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4A8AC7449E7EC5EA"
 			image: "atm:textures/questpics/pokemon/ultra_title2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0C28E638D5A9CE59"
 			image: "atm:textures/questpics/pokemon/ultra_title1.png"
 			rotation: 0.0d
 			width: 4.0d

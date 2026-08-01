@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "3D97945CC97E5C7F"
 			image: "atm:textures/questpics/allthemodium/all_allthemodium.png"
 			rotation: 0.0d
 			width: 26.666666666666668d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5BC93EDD8754D593"
 			image: "allthemodium:item/allthemodium_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.5d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.5d
+			id: "710B74DB888E1DC5"
 			image: "allthemodium:item/vibranium_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.5d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3849A0BA0B40DC9A"
 			image: "allthemodium:item/unobtainium_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.5d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4FAEACE4B5640B01"
 			image: "atm:textures/questpics/allthemodium/all_1.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3B9F02BA697AEBDF"
 			image: "atm:textures/questpics/allthemodium/all_2.png"
 			rotation: 0.0d
 			width: 2.0842105263157893d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 2.0d
+			id: "26AE3CA461C3EB97"
 			image: "atm:textures/questpics/allthemodium/all_3.png"
 			rotation: 0.0d
 			width: 1.9365079365079365d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 3.0d
+			id: "19DFBB806756D8B5"
 			image: "atm:textures/questpics/allthemodium/all_armor_all.png"
 			rotation: 0.0d
 			width: 1.7203125000000001d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 3.0d
+			id: "50D9C9E21C0FB140"
 			image: "atm:textures/questpics/allthemodium/all_armor_vib.png"
 			rotation: 0.0d
 			width: 2.08d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6B238BD94AC8F580"
 			image: "atm:textures/questpics/allthemodium/all_armor_uno.png"
 			rotation: 0.0d
 			width: 1.5406626506024095d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 0.3d
+			id: "32ACEBDAA57C46C2"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6D0C8680CEA11111"
 			image: "atm:textures/questpics/allthemodium/all_title.png"
 			rotation: 0.0d
 			width: 10.804347826086957d

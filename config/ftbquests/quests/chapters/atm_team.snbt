@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "2FCEA6F7692D2632"
 			image: "atm:textures/questpics/series/atmteam_title.png"
 			rotation: 0.0d
 			width: 24.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 20.0d
+			id: "42BE0A80F73BBBCB"
 			image: "atm:textures/questpics/series/atmteam_elite.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "788033E6D137705D"
 			image: "atm:textures/questpics/series/atmteam_title_1.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "137084F3040939D6"
 			image: "atm:textures/questpics/series/atmteam_title_2.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "618BA94DA63B7AF4"
 			image: "atm:textures/questpics/series/atmteam_title_3.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "710296589D4D38DC"
 			image: "atm:textures/questpics/series/atmteam_title_4.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -59,6 +65,7 @@
 		{
 			dependency: "71AB7656B8B0C84B"
 			height: 1.0d
+			id: "78881287E24994F6"
 			image: "atm:textures/questpics/series/atmteam_title_5.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "66C56E68617D1161"
 			image: "atm:textures/questpics/series/atmteam_title_g.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "007C9BD1CB5090E3"
 			image: "atm:textures/questpics/series/atmteam_title_g.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 8.0d
+			id: "2BEA678FFBD05D70"
 			image: "atm:textures/questpics/series/atmteam_airship.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 8.0d
+			id: "54ADBCB6ADC22EEB"
 			image: "atm:textures/questpics/series/atmteam_bee.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 8.0d
+			id: "7B1B5EE13A28F1B3"
 			image: "atm:textures/questpics/series/atmteam_store.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 8.0d
+			id: "15C6B40B32B3481D"
 			image: "atm:textures/questpics/series/atmteam_staycation.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 15.0d
+			id: "42C00B56D6455D85"
 			image: "atm:textures/questpics/series/atmteam_volcano.png"
 			rotation: 0.0d
 			width: 15.0d

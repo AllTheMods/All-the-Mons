@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 15.0d
+			id: "510BC75A3610F101"
 			image: "cobblemon:textures/gui/pokedex/pokedex_base_red.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 15.0d
+			id: "5BBD554290C445E0"
 			image: "cobblemon:textures/gui/pokedex/pokedex_screen.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 3.0d
+			id: "44ADD89B1C382B65"
 			image: "atm:textures/questpics/pokemon/find_title.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0163D289EE56F6AA"
 			image: "atm:textures/questpics/pokemon/find_title_archeology.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6842C3A1C836070E"
 			image: "atm:textures/questpics/pokemon/find_title_fish.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7F5464EF76825001"
 			image: "atm:textures/questpics/pokemon/find_dino1.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 4.0d
+			id: "3BC6C0380C96A2D7"
 			image: "atm:textures/questpics/pokemon/find_dino2.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 4.0d
+			id: "715B6DD91535B89E"
 			image: "atm:textures/questpics/pokemon/find_dino3.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 5.0d
+			id: "08EF5A8C47C14614"
 			image: "atm:textures/questpics/pokemon/find_fish1.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 3.0d
+			id: "187DCAD847E1EE98"
 			image: "atm:textures/questpics/pokemon/find_fish2.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 4.0d
+			id: "62E98DEDD44FC9A1"
 			image: "atm:textures/questpics/pokemon/find_fish3.png"
 			rotation: 0.0d
 			width: 6.0d

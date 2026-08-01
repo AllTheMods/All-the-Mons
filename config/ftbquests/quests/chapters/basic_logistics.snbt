@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "2E480D5FDCA13271"
 			image: "atm:textures/questpics/logistics/basic.png"
 			rotation: 0.0d
 			width: 5.3300970873786415d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2677CB26F5DD7C86"
 			image: "atm:textures/questpics/logistics/logistics.png"
 			rotation: 0.0d
 			width: 8.941747572815533d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "72D445813DDCD823"
 			image: "atm:textures/questpics/logistics/pipez.png"
 			rotation: 0.0d
 			width: 3.4761904761904763d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "72D89A9044C9EAFA"
 			image: "atm:textures/questpics/logistics/mekanism.png"
 			rotation: 0.0d
 			width: 5.642857142857143d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4A30AEB8DDF3B859"
 			image: "atm:textures/questpics/logistics/integrated-.png"
 			rotation: 0.0d
 			width: 6.755813953488372d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1371255A2A50DD8B"
 			image: "atm:textures/questpics/logistics/laserio.png"
 			rotation: 0.0d
 			width: 7.232142857142857d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4941C4CBDB5AEC10"
 			image: "atm:textures/questpics/logistics/pipez_item.png"
 			rotation: 90.0d
 			width: 4.461077844311378d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6AAB45DCA57E84C2"
 			image: "atm:textures/questpics/logistics/pipez_fluid.png"
 			rotation: 90.0d
 			width: 4.578313253012048d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "71F5561F7A249EA5"
 			image: "atm:textures/questpics/logistics/pipez_energy.png"
 			rotation: 90.0d
 			width: 4.578313253012048d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 0.9d
+			id: "4AFA27CE2B9A1921"
 			image: "atm:textures/questpics/logistics/meka_transporter.png"
 			rotation: 90.0d
 			width: 4.75d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "56B7C68A5122710D"
 			image: "atm:textures/questpics/logistics/meka_cable.png"
 			rotation: 90.0d
 			width: 4.75d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2B32B6F009EB5C4A"
 			image: "atm:textures/questpics/logistics/meka_pipe.png"
 			rotation: 90.0d
 			width: 4.75d

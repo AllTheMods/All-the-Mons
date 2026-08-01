@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "065728F7E0D68B83"
 			image: "atm:textures/questpics/pokemon/paradox_future.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "54427608F3EB8937"
 			image: "atm:textures/questpics/pokemon/paradox_past.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "486CF37088F19CAD"
 			image: "atm:textures/questpics/pokemon/paradox_title.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1E266AC20BE57F42"
 			image: "mega_showdown:item/likos_pendant"
 			rotation: 0.0d
 			width: 2.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "464541EBA5C63782"
 			image: "legendarymonuments:block/electric_tera_block"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "556C34E8DC369311"
 			image: "legendarymonuments:block/fire_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3B1D3D1A13ED6237"
 			image: "legendarymonuments:block/fairy_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -68,6 +75,7 @@
 		}
 		{
 			height: 2.0d
+			id: "167ED075E7A78D44"
 			image: "legendarymonuments:block/fighting_tera_block"
 			order: 4
 			rotation: 0.0d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 2.0d
+			id: "459283B4274AAA54"
 			image: "legendarymonuments:block/ice_tera_block"
 			rotation: 0.0d
 			width: 2.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 2.0d
+			id: "787892D14FF1E12B"
 			image: "legendarymonuments:block/dark_tera_block"
 			order: 4
 			rotation: 0.0d
@@ -94,6 +104,7 @@
 		}
 		{
 			height: 2.0d
+			id: "03C9D48C52E3A45A"
 			image: "legendarymonuments:block/dragon_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -103,6 +114,7 @@
 		}
 		{
 			height: 2.5d
+			id: "54909D014014A1EA"
 			image: "legendarymonuments:block/flying_tera_block"
 			order: 1
 			rotation: 0.0d
@@ -112,6 +124,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4825065DF1B59B9D"
 			image: "legendarymonuments:block/water_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -121,6 +134,7 @@
 		}
 		{
 			height: 2.5d
+			id: "43849E5EE7E20940"
 			image: "legendarymonuments:block/ground_tera_block"
 			order: 1
 			rotation: 0.0d
@@ -130,6 +144,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5BF36D8708A82986"
 			image: "legendarymonuments:block/fire_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -139,6 +154,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2C23F15C973BF7EB"
 			image: "legendarymonuments:block/fire_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -148,6 +164,7 @@
 		}
 		{
 			height: 2.0d
+			id: "43054AF14FFC2AF0"
 			image: "legendarymonuments:block/fairy_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -157,6 +174,7 @@
 		}
 		{
 			height: 2.0d
+			id: "18A6A938456BCEBB"
 			image: "legendarymonuments:block/fairy_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -166,6 +184,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2AA148D13DE906D5"
 			image: "legendarymonuments:block/fighting_tera_block"
 			order: 4
 			rotation: 0.0d
@@ -175,6 +194,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0EEC2925515FFCD2"
 			image: "legendarymonuments:block/fighting_tera_block"
 			order: 4
 			rotation: 0.0d
@@ -184,6 +204,7 @@
 		}
 		{
 			height: 2.5d
+			id: "4E809D0B790D2ADD"
 			image: "legendarymonuments:block/ground_tera_block"
 			order: 1
 			rotation: 0.0d
@@ -193,6 +214,7 @@
 		}
 		{
 			height: 2.5d
+			id: "619BED501E039C85"
 			image: "legendarymonuments:block/flying_tera_block"
 			order: 1
 			rotation: 0.0d
@@ -202,6 +224,7 @@
 		}
 		{
 			height: 2.0d
+			id: "23806DD465913D38"
 			image: "legendarymonuments:block/water_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -211,6 +234,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2E563A2015202B51"
 			image: "legendarymonuments:block/water_tera_block"
 			order: 2
 			rotation: 0.0d
@@ -220,6 +244,7 @@
 		}
 		{
 			height: 2.0d
+			id: "760DA3674F93E854"
 			image: "legendarymonuments:block/dragon_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -229,6 +254,7 @@
 		}
 		{
 			height: 2.0d
+			id: "745604415A71B2F1"
 			image: "legendarymonuments:block/dragon_tera_block"
 			order: 3
 			rotation: 0.0d
@@ -238,6 +264,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1C4FA4E0C37D200F"
 			image: "legendarymonuments:block/dark_tera_block"
 			order: 4
 			rotation: 0.0d
@@ -247,6 +274,7 @@
 		}
 		{
 			height: 2.0d
+			id: "64F566270A2CF199"
 			image: "legendarymonuments:block/dark_tera_block"
 			order: 4
 			rotation: 0.0d

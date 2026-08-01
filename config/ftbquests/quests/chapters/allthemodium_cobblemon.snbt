@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 14.0d
+			id: "7C2C629FD5A409C0"
 			image: "cobblemon:item/poke_balls/allthemodium_ball"
 			rotation: 0.0d
 			width: 14.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 14.0d
+			id: "52C0FFE1EB136745"
 			image: "cobblemon:item/poke_balls/master_ball"
 			rotation: 0.0d
 			width: 14.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 9.0d
+			id: "5862844F222E62AF"
 			image: "cobblemon:item/poke_balls/soul_lava_ball"
 			rotation: 0.0d
 			width: 9.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 12.0d
+			id: "57EA9DD491F665DC"
 			image: "cobblemon:item/poke_balls/ultra_ball"
 			rotation: 0.0d
 			width: 12.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1F422D625DFFB832"
 			image: "atm:textures/questpics/pokemon/master_title1.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 3.0d
+			id: "29B69F7CCC306F16"
 			image: "atm:textures/questpics/pokemon/master_title2.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 14.0d
+			id: "6823F7F17123D9ED"
 			image: "cobblemon:item/poke_balls/ancient_origin_ball"
 			rotation: 0.0d
 			width: 14.0d

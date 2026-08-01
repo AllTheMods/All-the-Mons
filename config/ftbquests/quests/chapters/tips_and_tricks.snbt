@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "30852D5886E2B637"
 			image: "atm:textures/questpics/pokemon/tips_title.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "114BEAEF2C392D6B"
 			image: "minecraft:item/diamond"
 			rotation: 0.0d
 			width: 2.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5339601376FDFE51"
 			image: "cobblemon:item/poke_balls/poke_ball"
 			rotation: 0.0d
 			width: 2.0d

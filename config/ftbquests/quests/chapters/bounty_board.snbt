@@ -9,6 +9,7 @@
 	id: "18A429E7F56AF5A9"
 	images: [{
 		height: 3.0d
+		id: "67B93D57392169CD"
 		image: "atm:textures/questpics/bounty.png"
 		rotation: 0.0d
 		width: 12.0d

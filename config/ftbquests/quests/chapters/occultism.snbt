@@ -11,6 +11,7 @@
 		{
 			color: 15616811
 			height: 5.0d
+			id: "388E3F398789E8D2"
 			image: "occultism:textures/item/pentacle.png"
 			order: -1
 			rotation: 0.0d
@@ -21,6 +22,7 @@
 		{
 			color: 16711680
 			height: 1.0d
+			id: "36EB302236034C16"
 			image: "occultism:textures/gui/book/robe.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -30,6 +32,7 @@
 		{
 			color: 16711680
 			height: 1.0d
+			id: "78ECBBEE21D6EA5A"
 			image: "occultism:textures/gui/book/robe.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -39,6 +42,7 @@
 		{
 			color: 16711680
 			height: 1.0d
+			id: "1168BA3A139D099A"
 			image: "occultism:textures/gui/book/robe.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -48,6 +52,7 @@
 		{
 			color: 16711680
 			height: 1.0d
+			id: "00073B2ADAFB0877"
 			image: "occultism:textures/gui/book/robe.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -57,6 +62,7 @@
 		{
 			color: 16711680
 			height: 1.0d
+			id: "5F7D9CE8C021E203"
 			image: "occultism:textures/gui/book/robe.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +72,7 @@
 		{
 			color: 255
 			height: 2.0d
+			id: "1164C3B121C7F9E6"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 2.0d
@@ -75,6 +82,7 @@
 		{
 			color: 255
 			height: 2.0d
+			id: "308D08D3CBAF72B5"
 			image: "occultism:textures/gui/book/summoning.png"
 			order: -1
 			rotation: -30.0d
@@ -85,6 +93,7 @@
 		{
 			color: 16711680
 			height: 2.0d
+			id: "78EC10DA4CABEF88"
 			image: "occultism:textures/gui/book/summoning.png"
 			order: -1
 			rotation: 90.0d
@@ -94,6 +103,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7FB060A8A51C0370"
 			image: "occultism:textures/gui/book/familiar_shub_niggurath.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -102,6 +112,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4779BB4A4BAA7BC1"
 			image: "occultism:textures/gui/book/otherworld_bird.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -111,6 +122,7 @@
 		{
 			alpha: 150
 			height: 2.0d
+			id: "35B58BBD3C6E26C6"
 			image: "occultism:block/stable_wormhole_frame"
 			rotation: 0.0d
 			width: 2.0d
@@ -119,6 +131,7 @@
 		}
 		{
 			height: 2.0d
+			id: "46ECE645BA6C529D"
 			image: "occultism:textures/gui/book/familiar_dragon.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -127,6 +140,7 @@
 		}
 		{
 			height: 0.5d
+			id: "20722E7DFDCAB3F6"
 			image: "occultism:block/chalk_glyph/0"
 			rotation: 0.0d
 			width: 0.5d
@@ -136,6 +150,7 @@
 		{
 			color: 6111187
 			height: 0.5d
+			id: "6AA9207B5CDE1F3E"
 			image: "occultism:block/chalk_glyph/11"
 			rotation: 0.0d
 			width: 0.5d
@@ -145,6 +160,7 @@
 		{
 			color: 16711680
 			height: 0.5d
+			id: "55C63917FA38F4C7"
 			image: "occultism:block/chalk_glyph/12"
 			rotation: 0.0d
 			width: 0.5d
@@ -154,6 +170,7 @@
 		{
 			color: 16766720
 			height: 0.5d
+			id: "068A6A46D864FB42"
 			image: "occultism:block/chalk_glyph/4"
 			rotation: 0.0d
 			width: 0.5d
@@ -162,6 +179,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4F108C0BD5A14357"
 			image: "occultism:textures/gui/book/familiar_beholder.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -170,6 +188,7 @@
 		}
 		{
 			height: 3.0d
+			id: "05B5149F37DBFE65"
 			image: "occultism:textures/gui/book/familiar_headless_ratman.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -178,6 +197,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3F45FCC1A28F1D4D"
 			image: "occultism:textures/gui/book/infusion.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -187,6 +207,7 @@
 		{
 			alpha: 100
 			height: 1.25d
+			id: "1AF156B84B88637C"
 			image: "occultism:block/iesnium_block"
 			rotation: 45.0d
 			width: 1.25d
@@ -196,6 +217,7 @@
 		{
 			alpha: 150
 			height: 1.5d
+			id: "318515A8FEEA4B2E"
 			image: "occultism:block/iesnium_block"
 			order: -1
 			rotation: 45.0d
@@ -205,6 +227,7 @@
 		}
 		{
 			height: 9.0d
+			id: "502F07852C03C8A7"
 			image: "atm:textures/questpics/occultism/maridlogo.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -214,6 +237,7 @@
 		{
 			color: 16766720
 			height: 0.5d
+			id: "589CCB5E7FB55710"
 			image: "occultism:block/chalk_glyph/8"
 			rotation: 0.0d
 			width: 0.5d
@@ -222,6 +246,7 @@
 		}
 		{
 			height: 0.3d
+			id: "0919E9DC9088D253"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -230,6 +255,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6F82AB9E426763CC"
 			image: "atm:textures/questpics/occultism/occultism_title.png"
 			rotation: 0.0d
 			width: 8.4d
@@ -238,6 +264,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4983DCD43B0C12EE"
 			image: "atm:textures/questpics/occultism/occultism_logo.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -247,6 +274,7 @@
 		{
 			color: 255
 			height: 2.0d
+			id: "73D7C784D0DBC158"
 			image: "occultism:textures/gui/book/summoning.png"
 			order: -1
 			rotation: -30.0d

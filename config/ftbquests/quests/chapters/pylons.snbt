@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "4CC840CAA4047E05"
 			image: "atm:textures/questpics/pylons/pylon_harvester.png"
 			rotation: 0.0d
 			width: 3.721698113207547d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2218A038B34212B6"
 			image: "atm:textures/questpics/pylons/pylon_beacon.png"
 			rotation: 0.0d
 			width: 2.351585014409222d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "105142B6E752B98D"
 			image: "atm:textures/questpics/pylons/pylon_zombie.png"
 			rotation: 0.0d
 			width: 1.0702702702702702d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "51431D28E7ACE643"
 			image: "atm:textures/questpics/pylons/pylon_skeleton.png"
 			rotation: 0.0d
 			width: 0.8177339901477833d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7EB291F88092C228"
 			image: "atm:textures/questpics/pylons/pylon_panda.png"
 			rotation: 0.0d
 			width: 1.5126050420168067d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "28180B9530C31F6E"
 			image: "atm:textures/questpics/pylons/pylon_title.png"
 			rotation: 0.0d
 			width: 3.8596491228070176d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6C03ABD9403EE67B"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 3.308300395256917d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.0d
+			id: "576ED0AC1ABD440F"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "79F828C18778E4D1"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.1027667984189724d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.6d
+			id: "5D2431FF24158F9F"
 			image: "atm:textures/questpics/pylons/pylon_no.png"
 			rotation: 0.0d
 			width: 1.6d

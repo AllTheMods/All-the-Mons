@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "2C83071198A22FE6"
 			image: "atm:textures/questpics/theurgy/theurgy.png"
 			rotation: 0.0d
 			width: 8.717391304347826d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5610820BC4152ABB"
 			image: "atm:textures/questpics/theurgy/theurgy_sal_side.png"
 			rotation: 0.0d
 			width: 2.0597014925373136d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4F45D0F748BE3710"
 			image: "atm:textures/questpics/theurgy/theurgy_lique.png"
 			rotation: 0.0d
 			width: 1.8285714285714285d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 3.0d
+			id: "256B3236D76E446B"
 			image: "atm:textures/questpics/theurgy/theurgy_incubator.png"
 			rotation: 0.0d
 			width: 3.329113924050633d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7AC3F6307C29F0EC"
 			image: "atm:textures/questpics/theurgy/theurgy_reform_full.png"
 			rotation: 0.0d
 			width: 9.919642857142858d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0D4ABAFFD2E98439"
 			image: "atm:textures/questpics/theurgy/theurgy_brazier.png"
 			rotation: 0.0d
 			width: 2.128099173553719d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 2.0d
+			id: "268EB2651F9AF2DB"
 			image: "atm:textures/questpics/theurgy/theurgy_ferment.png"
 			rotation: 0.0d
 			width: 1.9858156028368794d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 2.5d
+			id: "51F89B2AAF0A1B2B"
 			image: "atm:textures/questpics/theurgy/theurgy_digest.png"
 			rotation: 0.0d
 			width: 2.186813186813187d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "18682D3F732551B6"
 			image: "atm:textures/questpics/theurgy/theurgy_oven.png"
 			rotation: 0.0d
 			width: 1.5678391959798994d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 2.0d
+			id: "63A5F7A90E3D0134"
 			image: "atm:textures/questpics/theurgy/theurgy_mercuryflux.png"
 			rotation: 0.0d
 			width: 1.91644908616188d

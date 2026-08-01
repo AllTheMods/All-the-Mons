@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.25d
+			id: "3F26E44E00C52318"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1DF6149FC725E164"
 			image: "atm:textures/questpics/immersive/immersive_title.png"
 			order: 2
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.25d
+			id: "40A3A6A5DFC99C0D"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 0.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "19483FA54D8B65AD"
 			image: "atm:textures/questpics/immersive/immersive_title_wir.png"
 			order: 2
 			rotation: 90.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D1A3F8EA21368CF"
 			image: "atm:textures/questpics/immersive/immersive_title_log.png"
 			order: 2
 			rotation: -90.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 1.0d
+			id: "270F64009597E4D4"
 			image: "atm:textures/questpics/immersive/immersive_title_mac.png"
 			order: 2
 			rotation: 0.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 0.8d
+			id: "22C1FEF7CA999C9B"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 0.0d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 0.8d
+			id: "69EE454FFEF0C0AA"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 90.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 0.8d
+			id: "34A17035894EE5C8"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: -90.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "77FBAC55A264C6A5"
 			image: "atm:textures/questpics/immersive/immersive_title_tol.png"
 			order: 2
 			rotation: 0.0d
@@ -100,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "03D56C426F3BF952"
 			image: "atm:textures/questpics/immersive/immersive_title_upg.png"
 			order: 2
 			rotation: 0.0d
@@ -109,6 +120,7 @@
 		}
 		{
 			height: 0.8d
+			id: "56060950522C8231"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 0.0d
@@ -118,6 +130,7 @@
 		}
 		{
 			height: 0.8d
+			id: "352DCA246F566BEE"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 0.0d
@@ -127,6 +140,7 @@
 		}
 		{
 			height: 15.0d
+			id: "353321A0471875C5"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			rotation: 0.0d
 			width: 34.87244897959184d
@@ -135,6 +149,7 @@
 		}
 		{
 			height: 15.0d
+			id: "1103A704CB73A4EA"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			rotation: 0.0d
 			width: 34.87244897959184d
@@ -143,6 +158,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1FC708F1C62BFDB0"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -151,6 +167,7 @@
 		}
 		{
 			height: 1.0d
+			id: "64F7D1453FFBFE15"
 			image: "atm:textures/questpics/immersive/immersive_title_sma.png"
 			order: 2
 			rotation: 90.0d
@@ -160,6 +177,7 @@
 		}
 		{
 			height: 0.8d
+			id: "526B44E3CD5E8EB1"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 90.0d
@@ -169,6 +187,7 @@
 		}
 		{
 			height: 0.8d
+			id: "0D5A896FBE41F54D"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: 90.0d
@@ -178,6 +197,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D4237468C0EDBC3"
 			image: "atm:textures/questpics/immersive/immersive_title_oad.png"
 			order: 2
 			rotation: -90.0d
@@ -187,6 +207,7 @@
 		}
 		{
 			height: 0.8d
+			id: "67B9EF88792C22D1"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: -90.0d
@@ -196,6 +217,7 @@
 		}
 		{
 			height: 0.8d
+			id: "1694FFB23732E94A"
 			image: "atm:textures/questpics/immersive/immersive_back2.png"
 			order: 1
 			rotation: -90.0d
@@ -205,6 +227,7 @@
 		}
 		{
 			height: 1.0d
+			id: "35079F3874551B06"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -213,6 +236,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7DD404845EC0C786"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -221,6 +245,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6222F01CFF341E8D"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -229,6 +254,7 @@
 		}
 		{
 			height: 1.0d
+			id: "38B10B04CDC260C8"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 90.0d
 			width: 10.0d
@@ -237,6 +263,7 @@
 		}
 		{
 			height: 1.0d
+			id: "069B80CD2A18D677"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 90.0d
 			width: 10.0d
@@ -245,6 +272,7 @@
 		}
 		{
 			height: 1.0d
+			id: "451AB2FCCE36DA54"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 90.0d
 			width: 10.0d
@@ -253,6 +281,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0CE7B3FBCEEFF64B"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 90.0d
 			width: 10.0d
@@ -261,6 +290,7 @@
 		}
 		{
 			height: 1.0d
+			id: "11D2320EEF9D7BEE"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: -90.0d
 			width: 10.0d
@@ -269,6 +299,7 @@
 		}
 		{
 			height: 1.0d
+			id: "006A92D03A4708BB"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: -90.0d
 			width: 10.0d
@@ -277,6 +308,7 @@
 		}
 		{
 			height: 1.0d
+			id: "30688CDEFFA7FD64"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: -90.0d
 			width: 10.0d
@@ -285,6 +317,7 @@
 		}
 		{
 			height: 1.0d
+			id: "08E4E0622D6B4903"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: -90.0d
 			width: 10.0d
@@ -293,6 +326,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00A1223C9C0A2D75"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 180.0d
 			width: 10.0d
@@ -301,6 +335,7 @@
 		}
 		{
 			height: 1.0d
+			id: "51084D9B01FE1668"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 180.0d
 			width: 10.0d
@@ -309,6 +344,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A5A644274782B0F"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 180.0d
 			width: 10.0d
@@ -317,6 +353,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05B5A97DAD4529EF"
 			image: "atm:textures/questpics/immersive/immersive_back1.png"
 			rotation: 180.0d
 			width: 10.0d

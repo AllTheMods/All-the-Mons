@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 0.5d
+			id: "63207950B77179A3"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 0.5d
+			id: "4C945EE6CB17AAD9"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 0.7d
+			id: "439F6ADCD141D987"
 			image: "atm:textures/questpics/basictools/4.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 0.7d
+			id: "5FE5A0F4A9EBC8E2"
 			image: "atm:textures/questpics/basictools/5.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 0.7d
+			id: "15EA78010F2A7A3E"
 			image: "atm:textures/questpics/basictools/6.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 0.7d
+			id: "5CB2951C4A4A93BC"
 			image: "atm:textures/questpics/basictools/7.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 0.7d
+			id: "1CC11DA549F91E32"
 			image: "atm:textures/questpics/basictools/8.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 0.7d
+			id: "5D5436DC436C3E15"
 			image: "atm:textures/questpics/basictools/13.png"
 			rotation: 0.0d
 			width: 1.4d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D62698FED7F5B04"
 			image: "minecraft:item/wooden_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "28A0920EC3BA2B5F"
 			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2421399A9F912968"
 			image: "minecraft:item/netherite_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6FDB90B295B04678"
 			image: "minecraft:item/stone_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 1.0d
+			id: "624F4F36487FED19"
 			image: "minecraft:item/diamond_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 1.0d
+			id: "09687899B39E4A7D"
 			image: "allthemodium:item/alloy_pick"
 			rotation: 0.0d
 			width: 1.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 0.5d
+			id: "7DD2C21A8E490AE4"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 0.5d
+			id: "4CD61CBD656CD647"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 0.5d
+			id: "1A1DB7A16639E050"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 0.5d
+			id: "0490943CBBAEB94B"
 			image: "minecraft:textures/particle/damage.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2B8BD95DDE53B529"
 			image: "minecraft:item/diamond_sword"
 			rotation: 0.0d
 			width: 2.0d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2BC8E4AA222A556F"
 			image: "minecraft:item/diamond_pickaxe"
 			rotation: 0.0d
 			width: 2.0d

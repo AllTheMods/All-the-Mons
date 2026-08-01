@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "4A6A0E9AE57BDD12"
 			image: "atm:textures/questpics/helper_arrow.png"
 			order: 1
 			rotation: -180.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 10.0d
+			id: "7326551C3081240B"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 10.0d
+			id: "3AD588F7F17D1401"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 10.0d
+			id: "0F4E957B950AF3CA"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 10.0d
+			id: "701710FDEDC7A663"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 10.0d
+			id: "0997AB6195D546CF"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 10.0d
+			id: "2F6435E857401A3D"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 10.0d
+			id: "76EDD78CEC7C70FB"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 10.0d
+			id: "24158CAC97D314BA"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 10.0d
+			id: "1BE6F403FC6501AE"
 			image: "railcraft:block/buffer_stop_red"
 			rotation: 0.0d
 			width: 10.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4BA36EC601BE8BDE"
 			image: "atm:textures/questpics/series/red_arrow.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 3.0d
+			id: "75C376309592957A"
 			image: "atm:textures/questpics/series/red_radical.png"
 			rotation: 0.0d
 			width: 18.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7B6748F996A068A1"
 			image: "atm:textures/questpics/series/red_kanto.png"
 			rotation: 0.0d
 			width: 7.0d

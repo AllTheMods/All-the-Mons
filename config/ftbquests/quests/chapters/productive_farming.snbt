@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "27B096ECE0C6D70E"
 			image: "atm:textures/questpics/pro_farming/farm_title_crops.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5DAFDE7026C0E873"
 			image: "atm:textures/questpics/pro_farming/farm_title_flowers.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6BB7F1304CEFD133"
 			image: "atm:textures/questpics/pro_farming/farm_title_farm.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 2.0d
+			id: "63AA2A80D2F2156C"
 			image: "atm:textures/questpics/pro_farming/farm_title_mutants.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6079CF155F4BF974"
 			image: "atm:textures/questpics/pro_farming/farm_title_1.png"
 			rotation: 0.0d
 			width: 11.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 3.0d
+			id: "09F845CA92EA9D09"
 			image: "atm:textures/questpics/pro_farming/farm_title_2.png"
 			rotation: 0.0d
 			width: 9.0d

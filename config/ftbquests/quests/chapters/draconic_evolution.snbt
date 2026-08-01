@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "7973D46C61C0F875"
 			image: "atm:textures/questpics/draconic/draconic_title.png"
 			rotation: 0.0d
 			width: 8.019230769230768d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "50B443C25C592042"
 			image: "atm:textures/questpics/draconic/draconic_core_1on.png"
 			rotation: 0.0d
 			width: 2.0089285714285716d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 5.0d
+			id: "33874FF2CCCB8FE6"
 			image: "atm:textures/questpics/draconic/draconic_core_8on.png"
 			rotation: 0.0d
 			width: 5.038167938931297d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "035BBED4A20A939D"
 			image: "atm:textures/questpics/draconic/draconic_energy.png"
 			rotation: 0.0d
 			width: 4.1257142857142854d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5B1FE0E2372A9A0E"
 			image: "atm:textures/questpics/draconic/draconic_reactor_off_down.png"
 			rotation: 0.0d
 			width: 11.26126126126126d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6F0C9035DCA3A911"
 			image: "atm:textures/questpics/draconic/draconic_fusion.png"
 			rotation: 0.0d
 			width: 9.072463768115941d
