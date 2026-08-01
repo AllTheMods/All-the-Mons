@@ -233,7 +233,7 @@
 	"kubejs.atm.rv.unstable_portal_fluid_source.1": "§8Drop a §dPortal Fluid Catalyst§8 into §dPolymorphic Fluid§8 in §5The End§8 to get §5Unstable Portal Fluid",
 	"kubejs.atm.rv.leftovers.1": "Can be randomly obtained from eating Apples",
 	"kubejs.atm.sr.atm_series_not_defeated": "You didn't defeat ATM Series yet...",
-	"kubejs.atm.sr.crafters_for_star": "Create crafters for Star Recipe",
+	"kubejs.atm.sr.crafters_for_star": "Create crafters for Pika Star Recipe excluding the Imbued Egg",
 	"kubejs.atm.sr.crafters_not_running": "Your Create crafters are not running...",
 	"kubejs.atm.sr.create_recipe_check_error": "Something very wrong occurred while checking Create recipe, report to ATM developers.",
 	"kubejs.atm.sr.mega_stone_display_cases_error": "Something is wrong with mega stone display cases, report to ATM Devs",
