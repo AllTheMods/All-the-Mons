@@ -3,19 +3,19 @@
 	quest.1E6F000000001253.title: "&5Paradox Pokémon"
 	quest.1E6F000000001255.quest_desc: ["&8The Other&r is thick with the past. The Paradox Pokémon here are &cancient&r - primal, savage forms of familiar species, dredged up from a world long gone.\\n\\nGive one of your Pokémon a Pika Star Chunk to hold and feed it to a Paradox Entity here to call the ancient ones out."]
 	quest.1E6F000000001255.title: "&cThe Other - Ancient"
-	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb you in The Other to face it."]
+	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r is a savage, ground-shaking brute from the distant past, all tusks and raw muscle - a primal echo of Donphan.\\n\\nLet a Paradox Entity absorb Donphan in The Other to face it."]
 	quest.1E6F000000001257.quest_subtitle: "Paldea"
 	quest.1E6F000000001257.title: "Great Tusk"
 	quest.1E6F00000000125B.quest_desc: ["&dScream Tail&r is an ancient Paradox Pokémon with a deafening cry, a primal cousin of Jigglypuff far fiercer than its round shape suggests.\\n\\nMeet it in The Other through a Paradox Entity."]
 	quest.1E6F00000000125B.quest_subtitle: "Paldea"
 	quest.1E6F00000000125B.title: "Scream Tail"
-	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r is an ancient Paradox Pokémon, a hulking and aggressive fungus that saps the spirit of anything that strays near it.\\n\\nDraw it out in The Other."]
+	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r is an ancient Paradox Pokémon, a hulking and aggressive fungus that saps the spirit of anything that strays near it.\\n\\nAncient form of Amoonguss."]
 	quest.1E6F00000000125F.quest_subtitle: "Paldea"
 	quest.1E6F00000000125F.title: "Brute Bonnet"
 	quest.1E6F000000001263.quest_desc: ["&dFlutter Mane&r is an ancient Paradox Pokémon, a wispy and ghostly thing said to resemble a Misdreavus from a forgotten age.\\n\\nFace it in The Other through a Paradox Entity."]
 	quest.1E6F000000001263.quest_subtitle: "Paldea"
 	quest.1E6F000000001263.title: "Flutter Mane"
-	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r is an ancient Paradox Pokémon, a massive moth-like brute that batters its foes with burning wings.\\n\\nLet a Paradox Entity bring it to you in The Other."]
+	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r is an ancient Paradox Pokémon, a massive moth-like brute that batters its foes with burning wings.\\n\\nAncient form of Volcarona."]
 	quest.1E6F000000001267.quest_subtitle: "Paldea"
 	quest.1E6F000000001267.title: "Slither Wing"
 	quest.1E6F00000000126B.quest_desc: ["&eSandy Shocks&r is an ancient Paradox Pokémon, a hovering iron-dust echo of Magneton that crackles with static.\\n\\nMeet it in The Other."]
@@ -24,7 +24,7 @@
 	quest.1E6F00000000126F.quest_desc: ["&8Roaring Moon&r is a fearsome ancient Paradox Pokémon, a primal dragon said to mirror Salamence at its most savage.\\n\\nDraw the apex predator out in The Other."]
 	quest.1E6F00000000126F.quest_subtitle: "Paldea"
 	quest.1E6F00000000126F.title: "Roaring Moon"
-	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r is the legendary ruler of the ancient Paradox Pokémon, a mighty dragon that races across any terrain.\\n\\nThe strongest Paradox Entities in The Other herald its arrival - catch the king of the past."]
+	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r is the legendary ruler of the ancient Paradox Pokémon, a mighty dragon that races across any terrain.\\n\\nThe strongest Paradox Entities in The Other herald its arrival - catch the king of the past through the sacrifice of Cyclizar."]
 	quest.1E6F000000001273.quest_subtitle: "Paldea"
 	quest.1E6F000000001273.title: "Koraidon"
 	quest.1E6F000000001277.quest_desc: ["&bWalking Wake&r is an ancient Paradox Pokémon, a serpentine dragon that recalls Suicune from a wilder era.\\n\\nFace it in The Other."]
@@ -44,13 +44,13 @@
 	quest.1E6F000000001289.quest_desc: ["&bIron Bundle&r is a future Paradox Pokémon, a mechanical echo of Delibird that fires ice with ruthless precision.\\n\\nMeet it in The Beyond."]
 	quest.1E6F000000001289.quest_subtitle: "Paldea"
 	quest.1E6F000000001289.title: "Iron Bundle"
-	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r is a future Paradox Pokémon, a hulking robotic bruiser with crushing, electrified grips.\\n\\nFace it in The Beyond through a Paradox Entity."]
+	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r is a future Paradox Pokémon, a hulking robotic bruiser with crushing, electrified grips.\\n\\nFuture form of Hariyama."]
 	quest.1E6F00000000128D.quest_subtitle: "Paldea"
 	quest.1E6F00000000128D.title: "Iron Hands"
-	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r is a future Paradox Pokémon, a three-headed flying machine that strafes the ground with beams from each maw.\\n\\nDraw it out in The Beyond."]
+	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r is a future Paradox Pokémon, a three-headed flying machine that strafes the ground with beams from each maw.\\n\\nFuture form of Hydreigon."]
 	quest.1E6F000000001291.quest_subtitle: "Paldea"
 	quest.1E6F000000001291.title: "Iron Jugulis"
-	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r is a future Paradox Pokémon, a mechanical moth that scatters searing, toxic scales as it flies.\\n\\nMeet it in The Beyond."]
+	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r is a future Paradox Pokémon, a mechanical moth that scatters searing, toxic scales as it flies.\\n\\nFuture form of Volcarona."]
 	quest.1E6F000000001295.quest_subtitle: "Paldea"
 	quest.1E6F000000001295.title: "Iron Moth"
 	quest.1E6F000000001299.quest_desc: ["&9Iron Thorns&r is a future Paradox Pokémon, a craggy machine bristling with steel and crackling current, echoing Tyranitar.\\n\\nFace it in The Beyond."]
@@ -59,7 +59,7 @@
 	quest.1E6F00000000129D.quest_desc: ["&9Iron Valiant&r is a future Paradox Pokémon, a bladed machine that fuses the grace of Gardevoir and Gallade into one weapon.\\n\\nDraw it out in The Beyond."]
 	quest.1E6F00000000129D.quest_subtitle: "Paldea"
 	quest.1E6F00000000129D.title: "Iron Valiant"
-	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r is the legendary ruler of the future Paradox Pokémon, a dragon-machine that hovers and races on shaped energy.\\n\\nThe deepest Paradox Entities in The Beyond herald it - catch the king of the future."]
+	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r is the legendary ruler of the future Paradox Pokémon, a dragon-machine that hovers and races on shaped energy.\\n\\nThe deepest Paradox Entities in The Beyond herald it - catch the king of the future by sacrificing Cyclizar."]
 	quest.1E6F0000000012A1.quest_subtitle: "Paldea"
 	quest.1E6F0000000012A1.title: "Miraidon"
 	quest.1E6F0000000012A5.quest_desc: ["&9Iron Leaves&r is a future Paradox Pokémon, a gleaming machine that recalls Virizion's bladed grace.\\n\\nMeet it in The Beyond."]
