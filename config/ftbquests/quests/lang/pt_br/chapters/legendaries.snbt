@@ -43,7 +43,7 @@
 	quest.1E6F000000001044.quest_desc: ["Seis &bMeltan&r podem se fundir em &9Melmetal&r, o titã de aço lendário. Este ritual é o mais exigente de todos.\\n\\nColoque pelo menos 9 &cBobinas de Aquecimento de Alta Potência&r no chão sob o altar - elas só brilham quando conectadas a uma &6Fundição&r ativa, então construa uma para alimentá-las em vez de esperar um interruptor nas próprias bobinas. Coloque três Baldes de Lava das Almas no altar para gerar calor e um &7Revestimento Metálico&r como catalisador. Solte seis Meltan ao redor do altar e depois ative-o - o enxame se colapsa em um único corpo enorme."]
 	quest.1E6F000000001044.quest_subtitle: "Alola"
 	quest.1E6F000000001044.title: "Melmetal"
-	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r permanece adormecido como um cristal, a própria fonte do fenômeno Terastal.\\n\\nColoque uma &5Orbe da Vida&r no altar e ofereça os quatro corações coloridos - azul, amarelo, vermelha e verde - obtidos dos inimigos mais poderosos do mundo. Erga a estrutura de cristal que o ritual exige e comece. O Pokémon Estelar se desenrola de sua concha e ganha forma."]
+	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r permanece adormecido como um cristal, a própria fonte do fenômeno Terastal.\\n\\nColoque uma &5Orbe da Vida&r no altar e ofereça os quatro corações coloridos - azul, amarelo, vermelho e verde - obtidos dos inimigos mais poderosos do mundo. Erga a estrutura de cristal que o ritual exige e comece. O Pokémon Estelar se desenrola de sua concha e ganha forma."]
 	quest.1E6F00000000104A.quest_subtitle: "Paldea"
 	quest.1E6F00000000104A.title: "Terapagos"
 	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r nunca nasceu - ele foi criado, clonado a partir do DNA do mítico &dMew&r e desenvolvido para ser o tipo Psíquico mais poderoso já registrado.\\n\\nRecrie esse experimento aqui. Traga uma &bAmostra de DNA Ancestral&r e uma &dEstrela Pika&r e conclua o processo de síntese como faria com Pokémon fossilizados para reviver o clone; depois, capture-o antes que sua fúria se volte contra você."]
@@ -69,10 +69,10 @@
 	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r é o causador de travessuras, um gênio que distorce o espaço através de seus Anéis (pelo menos no anime) e leva embora tudo o que deseja.\\n\\nSeu poder está preso dentro da &6Pirâmide de Hoopa&r. Resolva seus diversos desafios, obtendo &eChaves do Templo&r para destrancar as portas. Carregue a &eChave do Templo&r final e uma Garrafa da Prisão (encontrada na &6Pirâmide&r ou comprada na Torre de Batalha) e confronte o trapaceiro em seu interior. Capture-o, e esses Anéis poderão puxar tesouros - e problemas - de todo o mundo."]
 	quest.1E6F000000001088.quest_subtitle: "Kalos"
 	quest.1E6F000000001088.title: "Hoopa"
-	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r é o Dragão Branco da verdade, com sua cauda queimando como um motor a jato forte o suficiente para incinerar todo o mundo.\\n\\nEle espera no topo da &bTorre Espiral do Dragão&r. Traga uma &7Pedra da Luz&r (cujos fragmentos podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensor e Wither) - a forma dormente que ele assume enquanto dorme, junta de uma &6Gema do Fogo&r - para acordar o Dragão e desafiá-lo. Capture-o, e as chamas da verdade serão suas."]
+	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r é o Dragão Branco da verdade, com sua cauda queimando como um motor a jato forte o suficiente para incinerar todo o mundo.\\n\\nEle espera no topo da &bTorre Espiral do Dragão&r. Traga uma &7Pedra da Luz&r (cujos fragmentos podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensores e Withers) - a forma dormente que ele assume enquanto dorme, junta de uma &6Gema do Fogo&r - para acordar o Dragão e desafiá-lo. Capture-o, e as chamas da verdade serão suas."]
 	quest.1E6F00000000109E.quest_subtitle: "Unova"
 	quest.1E6F00000000109E.title: "Reshiram"
-	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r é o Dragão Negro dos ideais, com sua cauda funcionando como um Gerador Gigante que crepita com trovão puro.\\n\\nEle dorme na &bTorre Espiral do Dragão&r como uma &9Pedra Sombria&r. Fragmentos da &9Pedra Sombria&r podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensor e Wither. Leve a Pedra até o topo da torre, junto de uma &eGema do Elétrico&r para despertá-lo, e enfrente o Dragão em batalha. Capture-o, e os raios dos ideais responderão ao seu chamado."]
+	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r é o Dragão Negro dos ideais, com sua cauda funcionando como um Gerador Gigante que crepita com trovão puro.\\n\\nEle dorme na &bTorre Espiral do Dragão&r como uma &9Pedra Sombria&r. Fragmentos da &9Pedra Sombria&r podem ser obtidos derrotando Pokémon do tipo Dragão, assim como Defensores e Withers. Leve a Pedra até o topo da torre, junto de uma &eGema do Elétrico&r para despertá-lo, e enfrente o Dragão em batalha. Capture-o, e os raios dos ideais responderão ao seu chamado."]
 	quest.1E6F0000000010A4.quest_subtitle: "Unova"
 	quest.1E6F0000000010A4.title: "Zekrom"
 	quest.1E6F0000000010AA.quest_desc: ["&bKyurem&r é o que resta quando a verdade e os ideais são arrancados - um dragão vazio de gelo, caçando eternamente as partes de si mesmo que perdeu.\\n\\nEncontre-o na gelada &bCaverna de Kyurem&r. Você deve trazer tanto a &fGarrafa da Verdade&r quanto a &8Garrafa dos Ideais&r, coletadas de Reshiram e Zekrom, antes que o dragão vazio o enfrente."]
@@ -126,10 +126,10 @@
 	quest.1E6F00000000111B.quest_desc: ["&aXerneas&r é o Pokémon Vida, capaz de compartilhar a vida eterna e conhecido por dormir por mil anos na forma de uma grande árvore brilhante.\\n\\nEncontre-o na &2Árvore da Vida&r e ofereça um &bFrasco de Essência de Aurora&r para despertar o doador da vida. Capture-o e a própria floresta se alegrará."]
 	quest.1E6F00000000111B.quest_subtitle: "Kalos"
 	quest.1E6F00000000111B.title: "Xerneas"
-	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r é a montaria gélida do &dSantuário da Coroa&r, um cavalo feroz que irradia um frio intenso o suficiente para congelar o chão por onde passa.\\n\\nCultive uma &bCenoura de Raiz de Gelo&r para atraí-lo do santuário. Dome o corcel congelado - o rei Calyrex precisará de uma montaria."]
+	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r é a montaria gélida do &dSantuário da Coroa&r, um cavalo feroz que irradia um frio intenso o suficiente para congelar o chão por onde passa.\\n\\nCultive uma &bCenoura de Raiz de Gelo&r, encontrada na pirâmide thalic e cultivada em biomas congelados em terras cultiváveis thalic, para atraí-lo do santuário. Domestique o corcel congelado - o rei Calyrex precisará de uma montaria."]
 	quest.1E6F000000001121.quest_subtitle: "Galar"
 	quest.1E6F000000001121.title: "Glastrier"
-	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r é o corcel espectral do &dSantuário da Coroa&r, um cavalo fantasmal que galopa mais rápido do que os olhos podem seguir e drena a vida dos espectadores.\\n\\nCultive uma &5Cenoura de Raiz Sombria&r para atraí-lo. Domine o corcel das sombras - Calyrex ainda poderá montá-lo."]
+	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r é o corcel espectral do &dSantuário da Coroa&r, um cavalo fantasmal que galopa mais rápido do que os olhos podem seguir e drena a vida dos espectadores.\\n\\nCultive uma &5Cenoura de Raiz Sombria&r, encontrada em pirâmides thalic e cultivada em areia thalic, para atraí-lo. Domine o corcel das sombras - Calyrex ainda poderá montá-lo."]
 	quest.1E6F000000001127.quest_subtitle: "Galar"
 	quest.1E6F000000001127.title: "Spectrier"
 	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r é o rei que outrora governou toda Galar, um Pokémon calmo e gentil que dizem ver todo o passado e futuro.\\n\\nEle espera no &dSantuário da Coroa&r, mas um rei precisa de uma montaria. Reivindique tanto Glastrier quanto Spectrier primeiro, então aproxime-se do trono para conhecer o monarca e escolher sua montaria."]
@@ -290,7 +290,7 @@
 	]
 	quest.2B1AB9ECAB07A486.quest_subtitle: "Kalos"
 	quest.2B1AB9ECAB07A486.title: "Zygarde"
-	quest.2CA1E70813BFE6E7.quest_desc: ["A &6equipe do AllTheMods&r ou uma &2pessoa colaboradora da Comunidade&r criou esta missão para uso nos modpacks do AllTheMods.\\n\\nComo o Total dos pacotes do &6AllTheMods&r possui a licença de &eTodos os Direitos Reservados&r, nenhum pacote público que a &6equipe do AllTheMods&r não lançou pode usar esta missão sem permissão explícita.\\n\\nOcultamos esta missão intencionalmente; se estiver vendo isso, você está no modo de edição."]
+	quest.2CA1E70813BFE6E7.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, você está no modo de edição."]
 	quest.6A6BD8D2955B8476.quest_desc: ["Alguns Pokémon lendários não serão encontrados na natureza - eles precisam ser chamados. O &dAltar de Invocação&r é como você faz isso para a maioria deles. No entanto, não para estes Pokémon."]
 	quest.6A6BD8D2955B8476.title: "Invocação sem Altar"
 	task.1E6E0003571C0001.title: "Encontre a Caverna da Origem"
@@ -328,7 +328,7 @@
 	task.1E6F00000000108B.title: "Capture Hoopa"
 	task.1E6F00000000109F.title: "Encontre a Torre do Espiral de Dragão"
 	task.1E6F0000000010A1.title: "Capture Reshiram"
-	task.1E6F0000000010A5.title: "Encontre la Torre do Espiral de Dragão"
+	task.1E6F0000000010A5.title: "Encontre a Torre do Espiral de Dragão"
 	task.1E6F0000000010A7.title: "Capture Zekrom"
 	task.1E6F0000000010AB.title: "Encontre a Caverna de Kyurem"
 	task.1E6F0000000010AE.title: "Capture Kyurem"
@@ -342,9 +342,9 @@
 	task.1E6F0000000010C6.title: "Capture Latias"
 	task.1E6F0000000010CA.title: "Encontre a Ilha do Sul"
 	task.1E6F0000000010CC.title: "Capture Latios"
-	task.1E6F0000000010D0.title: "Encontre a Sala do Trono dos Heróis Cavalheiros"
+	task.1E6F0000000010D0.title: "Encontre a Sala do Trono dos Heróis Cavaleiros"
 	task.1E6F0000000010D2.title: "Capture Zacian"
-	task.1E6F0000000010D6.title: "Encontre a Sala do Trono dos Heróis Cavalheiros"
+	task.1E6F0000000010D6.title: "Encontre a Sala do Trono dos Heróis Cavaleiros"
 	task.1E6F0000000010D8.title: "Capture Zamazenta"
 	task.1E6F0000000010EC.title: "Encontre o Templo de Snowpoint"
 	task.1E6F0000000010EE.title: "Capture Regirock"
