@@ -42,7 +42,7 @@
 			rotation: 0.0d
 			width: 2.0d
 			x: 0.0d
-			y: 2.0d
+			y: 3.5d
 		}
 		{
 			height: 2.0d
@@ -284,7 +284,12 @@
 		}
 	]
 	order_index: 6
-	quest_links: [ ]
+	quest_links: [{
+		id: "0AAAEE5661BED0B8"
+		linked_quest: "0B05185B65E41DEA"
+		x: 0.0d
+		y: 1.5d
+	}]
 	quests: [
 		{
 			dependencies: ["0B05185B65E41DEA"]
@@ -1398,7 +1403,7 @@
 				}
 			]
 			x: 0.0d
-			y: 3.5d
+			y: 5.0d
 		}
 	]
 }
