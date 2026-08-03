@@ -48,6 +48,8 @@ removeMinecartWithChest = true
 	placer_plus = true
 	#remote_placer Default: false
 	remote_placer = false
+	#adv_pump Default: true
+	adv_pump = true
 
 	[powerMap.advQuarry]
 		#maxEnergy. Default: 50000,000000, Min: 0,0, Max: 10000000000,0
@@ -90,3 +92,19 @@ removeMinecartWithChest = true
 		breakFortuneCoefficient = 1.5874010519681996
 		#breakSilktouchCoefficient. Default: 4,000000, Min: 0,0, Max: 10000000000,0
 		breakSilktouchCoefficient = 4.0
+
+	[powerMap.advPump]
+		#baseEnergyLevel3. Default: 20,000000, Min: 0,0, Max: 10000000000,0
+		baseEnergyLevel3 = 20.0
+		#maxEnergy. Default: 1024,000000, Min: 0,0, Max: 10000000000,0
+		maxEnergy = 1024.0
+		#fluidCapacity. Default: 512,000000, Min: 0,0, Max: 10000000000,0
+		fluidCapacity = 512.0
+		#range. Default: 32,000000, Min: 0,0, Max: 10000000000,0
+		range = 32.0
+		#baseEnergyLevel0. Default: 100,000000, Min: 0,0, Max: 10000000000,0
+		baseEnergyLevel0 = 100.0
+		#baseEnergyLevel1. Default: 80,000000, Min: 0,0, Max: 10000000000,0
+		baseEnergyLevel1 = 80.0
+		#baseEnergyLevel2. Default: 50,000000, Min: 0,0, Max: 10000000000,0
+		baseEnergyLevel2 = 50.0
