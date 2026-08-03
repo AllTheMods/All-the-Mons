@@ -57,6 +57,9 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
 
   allthemods.remove("supplementaries:faucet")
 
+  allthemods.remove('legendarymonuments:meltan_box')
+  allthemods.remove('legendarymonuments:meltan_candy')
+
   // PKGBadges: hide gym badges with no drop source; only the 16 dropped by RCT gym leaders (BDSP Sinnoh + Radical Red Kanto) are obtainable
   allthemods.remove('pkgbadges:starfall_street_dark_badge')
   allthemods.remove('pkgbadges:starfall_street_fairy_badge')
