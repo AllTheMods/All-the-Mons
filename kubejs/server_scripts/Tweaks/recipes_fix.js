@@ -254,6 +254,9 @@ KubeJSTweaks.beforeRecipes(event => {
   if (!Platform.isLoaded("aeronautics")){
     event.disable(["create_dragons_plus:crafting/fragile_fluid_tank","create_dragons_plus:crafting/levitite_fragile_fluid_tank"])
   }
+
+  // Ignore warning for Apotheosis recipes that use specific Gems
+  event.getEntry(["apotheosis:pinnacle_spawner_upgrade_rune", "apotheosis:raven_enchanting_table"]).forEach(entry => entry.ignoreWarning())
   
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
