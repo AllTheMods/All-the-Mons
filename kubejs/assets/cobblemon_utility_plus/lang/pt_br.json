@@ -4,7 +4,6 @@
   "item.cobblemon_utility.transmutationorb": "Orbe de Transmutação",
   "item.cobblemon_utility.goldencap": "Tampa Dourada",
   "item.cobblemon_utility.woodencap": "Tampa de Madeira",
-  "item.cobblemon_utility.voidcap": "Tampa do Vazio",
   "item.cobblemon_utility.atksilvercap": "Tampa de Prata de Atq.",
   "item.cobblemon_utility.spatksilvercap": "Tampa de Prata de Atq. Esp.",
   "item.cobblemon_utility.defsilvercap": "Tampa de Prata de Def.",
@@ -31,6 +30,13 @@
   "item.cobblemon_utility.shiningspdefsilvercap": "Tampa de Prata de Def. Esp. Brilhante",
   "item.cobblemon_utility.shiningspeedsilvercap": "Tampa de Prata de Vel. Brilhante",
   "item.cobblemon_utility.shininghpsilvercap": "Tampa de Prata de HP Brilhante",
+  "item.cobblemon_utility.ridersrelic": "Relíquia do Cavaleiro",
+  "item.cobblemon_utility.atkvoidcap": "Tampa do Vazio de Atq.",
+  "item.cobblemon_utility.spatkvoidcap": "Tampa do Vazio de Atq. Esp.",
+  "item.cobblemon_utility.defvoidcap": "Tampa do Vazio de Def.",
+  "item.cobblemon_utility.spdefvoidcap": "Tampa do Vazio de Def. Esp.",
+  "item.cobblemon_utility.speedvoidcap": "Tampa do Vazio de Velocidade",
+  "item.cobblemon_utility.hpvoidcap": "Tampa do Vazio de PS",
 
 
   "tooltip.cobblemon_utility.shinycard": "§8Alterna o estado brilhante de um Cobblemon",
@@ -46,20 +52,26 @@
   "tooltip.cobblemon_utility.cobblemax": "§8Maximiza o nível, IVs e amizade de um Cobblemon",
   "tooltip.cobblemon_utility.cobblemin": "§8Minimiza o nível, IVs e amizade de um Cobblemon",
 
-  "tooltip.cobblemon_utility.atkobsidiancap": "§8Define o IV de Ataque de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.spatkobsidiancap": "§8Define o IV de Ataque Especial de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.defobsidiancap": "§8Define o IV de Defesa de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.spdefobsidiancap": "§8Define o IV de Defesa Especial de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.speedobsidiancap": "§8Define o IV de Velocidade de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.hpobsidiancap": "§8Define o IV de PS de um Cobblemon para 0",
-  "tooltip.cobblemon_utility.voidcap": "§8Define os IVs de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.atkobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de Ataque de um Cobblemon",
+  "tooltip.cobblemon_utility.spatkobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de Ataque Especial de um Cobblemon",
+  "tooltip.cobblemon_utility.defobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de Defesa de um Cobblemon",
+  "tooltip.cobblemon_utility.spdefobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de Defesa Especial de um Cobblemon",
+  "tooltip.cobblemon_utility.speedobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de Velocidade de um Cobblemon",
+  "tooltip.cobblemon_utility.hpobsidiancap": "§8Diminui em 1 os IVs Base/Hipertreinado de PS de um Cobblemon",
 
-  "tooltip.cobblemon_utility.atksilvercap": "§8Define o IV de Ataque de um Cobblemon para 31",
-  "tooltip.cobblemon_utility.spatksilvercap": "§8Define o IV de Ataque Especial de um Cobblemon para 31",
-  "tooltip.cobblemon_utility.defsilvercap": "§8Define o IV de Defesa de um Cobblemon para 31",
-  "tooltip.cobblemon_utility.spdefsilvercap": "§8Define o IV de Defesa Especial de um Cobblemon para 31",
-  "tooltip.cobblemon_utility.speedsilvercap": "§8Define o IV de Velocidade de um Cobblemon para 31",
-  "tooltip.cobblemon_utility.hpsilvercap": "§8Define o IV de PS de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.atkvoidcap": "§8Define o IV Base e Hipertreinado de Ataque de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.spatkvoidcap": "§8Define o IV Base e Hipertreinado de Ataque Especial de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.defvoidcap": "§8Define o IV Base e Hipertreinado de Defesa de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.spdefvoidcap": "§8Define o IV Base e Hipertreinado de Defesa Especial de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.speedvoidcap": "§8Define o IV Base e Hipertreinado de Velocidade de um Cobblemon para 0",
+  "tooltip.cobblemon_utility.hpvoidcap": "§8Define o IV Base e Hipertreinado de PS de um Cobblemon para 0",
+
+  "tooltip.cobblemon_utility.atksilvercap": "§8Define o IV Hipertreinado de Ataque de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.spatksilvercap": "§8Define o IV Hipertreinado de Ataque Especial de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.defsilvercap": "§8Define o IV Hipertreinado de Defesa de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.spdefsilvercap": "§8Define o IV Hipertreinado de Defesa Especial de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.speedsilvercap": "§8Define o IV Hipertreinado de Velocidade de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.hpsilvercap": "§8Define o IV Hipertreinado de PS de um Cobblemon para 31",
 
   "tooltip.cobblemon_utility.shiningatksilvercap": "§8Define o IV Base de Ataque de um Cobblemon como 31",
   "tooltip.cobblemon_utility.shiningspatksilvercap": "§8Define o IV Base de Ataque Especial de um Cobblemon como 31",
@@ -68,9 +80,10 @@
   "tooltip.cobblemon_utility.shiningspeedsilvercap": "§8Define o IV Base de Velocidade de um Cobblemon como 31",
   "tooltip.cobblemon_utility.shininghpsilvercap": "§8Define o IV Base de HP de um Cobblemon como 31",
 
-  "tooltip.cobblemon_utility.woodencap": "§8Aleatoriza os IVs de um Cobblemon",
-  "tooltip.cobblemon_utility.goldencap": "§8Define os IVs de um Cobblemon para 31",
+  "tooltip.cobblemon_utility.woodencap": "§8Aleatoriza os IVs Hipertreinados de um Cobblemon",
+  "tooltip.cobblemon_utility.goldencap": "§8Define os IVs Hipertreinados de um Cobblemon para 31",
 
+  "tooltip.cobblemon_utility.ridersrelic": "§8Aumenta todos os Atributos de Montaria em 100",
 
   "creativetab.cobblemon_utility.utility_items": "Cobblemon Utility+"
 }
