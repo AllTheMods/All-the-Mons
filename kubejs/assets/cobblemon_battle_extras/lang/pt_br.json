@@ -1,8 +1,8 @@
 {
     "move.battleinfo.power": "⚔ Poder: %d",
-    "move.battleinfo.power.none": "⚔ Poder: —",
+    "move.battleinfo.power.none": "⚔ Poder: -",
     "move.battleinfo.accuracy": "◎ Precisão: %d%%",
-    "move.battleinfo.accuracy.none": "◎ Precisão: —",
+    "move.battleinfo.accuracy.none": "◎ Precisão: -",
     "move.battleinfo.priority": "⚡ Prioridade: %s",
     "move.battleinfo.speed": "⚡ Velocidade: %s",
     "move.battleinfo.pp": "✦ PP: %d/%d",
