@@ -82,13 +82,14 @@
 			y: 9.5d
 		}
 		{
+			click_action: "none:"
 			height: 2.0d
 			id: "5C610644020DE424"
 			image: "atm:textures/questpics/artifacts/artifacts_title.png"
 			rotation: 0.0d
 			width: 10.585365853658537d
 			x: 7.0d
-			y: 0.0d
+			y: 0.35d
 		}
 		{
 			height: 5.0d
@@ -236,7 +237,7 @@
 				type: "item"
 			}]
 			x: -3.0d
-			y: 11.5d
+			y: 11.0d
 		}
 		{
 			id: "4A7AEBEB87CEC274"
@@ -361,7 +362,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { hook: { lock: { breaks: 5 }, points: 0, stats: { entities_pull_radius: { initialQuality: 4 }, experience_bonus: { initialQuality: 7 }, experience_pull_radius: { initialQuality: 3 }, steal_chance: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:golden_hook" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 6.5d
 			y: 3.0d
 		}
 		{
@@ -392,7 +393,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { piston: { lock: { breaks: 5 }, points: 0, stats: { distance_bonus_per_block: { initialQuality: 5 }, empty_hand_knockback: { initialQuality: 10 }, range_bonus: { initialQuality: 1 }, stun_duration: { initialQuality: 1 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:pocket_piston" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -6.5d
 			y: 3.0d
 		}
 		{
@@ -439,7 +440,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { feral: { lock: { breaks: 5 }, points: 0, stats: { attack_speed_per_charge: { initialQuality: 8 }, invulnerability_reduction: { initialQuality: 4 }, max_charges: { initialQuality: 5 }, window: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:feral_claws" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -5.5d
 			y: 3.0d
 		}
 		{
@@ -454,7 +455,7 @@
 				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, stats: { bare_hands_speed: { initialQuality: 1 }, momentum_per_block: { initialQuality: 9 }, momentum_window: { }, speed: { initialQuality: 10 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 5.5d
 			y: 3.0d
 		}
 		{
@@ -930,7 +931,7 @@
 				xp: 100
 			}]
 			shape: "gear"
-			size: 1.5d
+			size: 1.6d
 			tasks: [{
 				entity: "artifacts:mimic"
 				id: "68DC39876E14FC1B"
@@ -938,7 +939,7 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: 0.25d
+			y: 0.35d
 		}
 		{
 			id: "5FD6A738754F6013"

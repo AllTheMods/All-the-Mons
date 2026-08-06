@@ -1,162 +1,163 @@
 {
-	quest.010607466D565B53.quest_desc: ["Like get in touch with Mother Nature man. \\n\\nWith &aRooted Boots&r nature is your Bestfriend! When standing on Grass you will Regenerate Hearts. Also when you Eat Food when standing on Grass it will act as if you Bonemealed it."]
-	quest.010607466D565B53.quest_subtitle: "Feet"
-	quest.010607466D565B53.title: "&aRooted Boots"
-	quest.0A1D4228271DECA3.quest_desc: ["Where'd you go?\\n\\nOh you're just half your previous size. Small enough to fit beneath a 1 Block gap."]
-	quest.0A1D4228271DECA3.quest_subtitle: "Necklace"
+	quest.010607466D565B53.quest_desc: [" We keep &aRooted Boots&r for the days we want to walk with the land instead of over it. The moment we stand on &2Grass&r, roots slip into the soil beneath our feet and start drawing nourishment straight from the ground.\\n\\n- &lIt has 1 Ability:&r\\n\\n &2Root Nourishment&r:\\nWhile standing on &2Grass&r, we slowly consume the block beneath us for &6Hunger&r and &6Saturation&r, turning it briefly to Dirt before it grows back. As we grow more attuned to the Boots, eating while rooted also mends a little of our &cHealth&r and occasionally bonemeals whatever is growing nearby.\\n\\n- An &6Artifact&r for those of us who'd rather be fed by the earth than fight it."]
+	quest.010607466D565B53.quest_subtitle: "Roots growing beneath our feet"
+	quest.010607466D565B53.title: "&aRooted Boots&r"
+	quest.0A1D4228271DECA3.quest_desc: [" We're not sure where we went, but we're definitely smaller than we used to be. Small enough now to slip beneath a single Block gap. \\n\\n- &lIt has 1 Ability:&r\\n\\n &5Size Control&r:\\nWe can Shrink, Grow, or Stabilize our own scale at will. The smaller we get, the softer our &7falls&r become, the more attacks slip past us harmlessly, and the more easily we vanish from a hunting mob's sight.\\n\\n- An &6Artifact&r for those of us who'd rather disappear than fight our way out."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Shrinking magic around our neck"
 	quest.0A1D4228271DECA3.title: "&5Charm of Shrinking&r"
-	quest.0E716B90E60C486B.quest_desc: ["Some times the best way to fight, is not to fight.. it's to run away! \\n\\nWith the &4Panic Necklace&r, when hit you will get Speed Effect for a small time. Just enough time to get away!"]
-	quest.0E716B90E60C486B.quest_subtitle: "Necklace"
+	quest.0E716B90E60C486B.quest_desc: [" Sometimes the smartest move in a fight is the one that gets us out of it. Whenever the &4Panic Necklace&r feels us get hit, it floods us with the urge to run. \\n\\n- &lIt has 1 Ability:&r\\n\\n &4Panic&r:\\nOur &bmovement speed&r climbs for every hostile mob nearby that has its eye on us. The more of them are watching, the faster we move — and the calmer we get once none of them can see us anymore, our speed settles back to normal and, if nothing's hunting us, some of that panic even turns into extra protection.\\n\\n- An &6Artifact&r that turns being surrounded into an excuse to run faster."]
+	quest.0E716B90E60C486B.quest_subtitle: "Fight or flight around our neck"
 	quest.0E716B90E60C486B.title: "&4Panic Necklace&r"
-	quest.11C5F17C6BB1237B.quest_desc: ["While wearing the &5Withered Bracelet&r Melee Attacks have a chance to give the Wither Effect.\\n\\nSorry Bow users!"]
-	quest.11C5F17C6BB1237B.quest_subtitle: "Wrists (Hands)"
+	quest.11C5F17C6BB1237B.quest_desc: [" While we wear the &5Withered Bracelet&r, our Melee Attacks carry a cold, decaying edge that &5Wither&r slowly eats into anything we hit. \\n\\n- &lIt has 1 Ability:&r\\n\\n &5Withering&r:\\nOur melee hits have a chance to inflict &5Wither&r on the target. Every tick of Wither damage we cause can be siphoned back to us as &chealing&r, and if the target dies still withering, the rot can spread to anything else standing close by.\\n\\n- Sorry Bow users, this one's for Melee only. \\n\\n- An &6Artifact&r that lets our fists finish what our patience started."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Decay wrapped around our wrists"
 	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet&r"
-	quest.122E6E7CABCB17E7.quest_desc: ["For some reason Creepers are scared of Cats. Creepers are also extremely dumb and believe the Cats that your &7Slippers&r look like are real. \\n\\nAll Creepers will run away from you and won't be hostile when these &7Slippers&r are worn. \\n\\nAlso makes Kitty noises when you take damage! (Can't assure you that you will always land on your Feet though)."]
-	quest.122E6E7CABCB17E7.quest_subtitle: "Feet"
+	quest.122E6E7CABCB17E7.quest_desc: [" For some reason &2Creepers&r and &8Phantoms&r are terrified of Cats, and they're extremely dumb enough to believe the ones our &7Kitty Slippers&r resemble are real. \\n\\n- &lIt has 2 Abilities:&r\\n\\n 1. &7Feline Aura&r:\\n&2Creepers&r and &8Phantoms&r nearby keep their distance from us on sight, and we move a little quieter and lighter while sneaking, with softer landings too. \\n\\n 2. &dNine Lives&r:\\nOnce in a while, a hit that should kill us instead leaves us clinging to 1 &cHealth&r — and the very next attack against us afterward has a decent chance of missing entirely. \\n\\n- Also makes Kitty noises when we take damage! (Still can't promise we'll always land on our feet.) \\n\\n- An &6Artifact&r for those of us who'd rather be feared than found."]
+	quest.122E6E7CABCB17E7.quest_subtitle: "Nine lives on our feet"
 	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers&r"
-	quest.145E7D1A88B83DDD.quest_desc: ["Where'd you go?"]
-	quest.145E7D1A88B83DDD.quest_subtitle: "Scarf (Necklace)"
+	quest.145E7D1A88B83DDD.quest_desc: [" Where'd we go?\\n\\n- &lIt has 1 Ability:&r\\n\\n &9Vanishing&r:\\nIf we stand still for a few seconds, the &9Scarf of Invisibility&r fades us out of sight entirely. Moving, fighting, or interacting breaks it, but the longer we stay hidden the more it rewards us once we strike — a little &chealing&r while we're invisible, and a stronger first hit the moment we reappear.\\n\\n- An &6Artifact&r for those of us who fight best when nobody sees us coming."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "A vanishing act around our neck"
 	quest.145E7D1A88B83DDD.title: "&9Scarf of Invisibility&r"
-	quest.161A90E134592D0E.quest_desc: ["Like regular Raw Beef, you can cook the &cEverlasting Beef&r to get &4Eternal Steak&r!\\n\\nWorks just like &cEverlasting Beef&r but more Food Points and Saturation."]
-	quest.161A90E134592D0E.quest_subtitle: "Unique"
-	quest.161A90E134592D0E.title: "&4Everlasting Steak"
-	quest.16255FB20F35A9D9.quest_desc: ["The &3Snorkel&r gives you a small amount of Water Breathing when you enter &9Water&r. Similar to a Turtle Helmet! Careful though it runs out."]
-	quest.16255FB20F35A9D9.quest_subtitle: "Head"
-	quest.16255FB20F35A9D9.title: "&3Snorkel"
-	quest.19B393433FB0C62F.quest_desc: ["The Strider's secret to walking on &cLava&r is within their Legs. So we took their Legs off of them and have you use them instead! \\n\\nWhen Sneaking you can walk safely ontop of &cLava&r! When you stop Sneaking you will fall into the &cLava&r though. These also allow you to safely walk over Magma blocks and other hot blocks!"]
-	quest.19B393433FB0C62F.quest_subtitle: "Feet"
+	quest.161A90E134592D0E.quest_desc: [" Somewhere between the fire and our stomach, an &4Eternal Steak&r appears — a hardier, tastier cousin of the &cEverlasting Beef&r that never truly runs out. \\n\\n- &lIt has 1 Ability:&r\\n\\n &4Endless Meal&r:\\nWe can eat it again and again; each bite spends a bit of its durability instead of destroying it, and that durability slowly regenerates on its own. The more we rely on it, the better it treats us: a chance to eat for free, faster bites, and a little extra &chealing&r with every meal.\\n\\n- An &6Artifact&r for those of us who never want to cook twice."]
+	quest.161A90E134592D0E.quest_subtitle: "A meal that never runs out"
+	quest.161A90E134592D0E.title: "&4Eternal Steak&r"
+	quest.16255FB20F35A9D9.quest_desc: [" The &3Snorkel&r keeps a small pocket of air with us the moment we sink beneath &9Water&r, working like a lightweight Turtle Helmet strapped to our face. \\n\\n- &lIt has 1 Ability:&r\\n\\n &3Underwater Breathing&r:\\nWe breathe normally near the surface, and the deeper or longer we stay under, the more the &3Snorkel&r starts drawing on a hidden reserve of &9Water Breathing&r to keep us going — while also clearing away that underwater haze so we can actually see where we're swimming.\\n\\n- An &6Artifact&r for those of us who'd rather explore the depths than hold our breath."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Fresh air right on our head"
+	quest.16255FB20F35A9D9.title: "&3Snorkel&r"
+	quest.19B393433FB0C62F.quest_desc: [" We took the secret right off a Strider's legs and strapped it to our own feet. \\n\\n- &lIt has 1 Ability:&r\\n\\n &4Lava Stride&r:\\nWhile Sneaking, we can walk safely across the surface of &4Lava&r as if it had gone solid beneath us — the first steps are shaky, but our footing steadies the longer we keep moving. Stand up straight, though, and we're falling right in. These also keep us safe from Magma Blocks and other scalding floors.\\n\\n- An &6Artifact&r for those of us who trust our feet more than the ground."]
+	quest.19B393433FB0C62F.quest_subtitle: "Borrowed Strider legs on our feet"
 	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
-	quest.1E40ACF3E69A4100.quest_desc: ["Do you have to drink it? Idk it kinda just stays there and works... \\n\\nWith the &6Antidote Vessel&r, negative Effects (like Wither or Poison) will have their durations cut short! Very helpful when facing Witches or Wither Skeletons."]
-	quest.1E40ACF3E69A4100.quest_subtitle: "Belt"
+	quest.1E40ACF3E69A4100.quest_desc: [" Do we have to drink it? Honestly it kinda just sits there and works... \\n\\n- &lIt has 1 Ability:&r\\n\\n &6Antitoxin&r:\\nWhile we carry the &6Antidote Vessel&r, every negative Effect on us — &5Wither&r, &2Poison&r, you name it — burns out faster than it should. The longer we hold onto our resistance, the more it pays off: each active bad Effect actually chips away at incoming &cdamage&r instead of just hurting us. Very helpful against Witches and Wither Skeletons.\\n\\n- An &6Artifact&r for those of us who refuse to let poison slow us down."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Antidote humming at our belt"
 	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel&r"
-	quest.2215FB0777D7029D.quest_desc: ["Spikes, Cleats, Crampons whatever they are! \\n\\n&7Steadfast Boots&r keep you steady on your Feet. You won't be knocked back from attacks and you won't slip on Ice anymore."]
-	quest.2215FB0777D7029D.quest_subtitle: "Feet"
-	quest.2215FB0777D7029D.title: "&7Steadfast Boots&r"
-	quest.221C9EDA651144BA.quest_desc: ["What &9Water&r? \\n\\nWith the &3Charm of Sinking&r you move through the &9Water&r as if it were Air! Still can't breath underwater though..."]
-	quest.221C9EDA651144BA.quest_subtitle: "Necklace"
+	quest.2215FB0777D7029D.quest_desc: [" Spikes, cleats, crampons, call them whatever we like! \\n\\n- &lIt has 1 Ability:&r\\n\\n &7Steadfastness&r:\\nWe resist &7Knockback&r and stop slipping on &bIce&r the moment we put on the &7Steadfast Spikes&r, and if we're crouched and holding our ground, nothing short of a direct hit can budge us at all. \\n\\n- An &6Artifact&r for those of us who plant our feet and refuse to move."]
+	quest.2215FB0777D7029D.quest_subtitle: "A grip that never leaves our feet"
+	quest.2215FB0777D7029D.title: "&7Steadfast Spikes&r"
+	quest.221C9EDA651144BA.quest_desc: [" What &9Water&r? \\n\\n- &lIt has 1 Ability:&r\\n\\n &3Sinking&r:\\nThe moment we stand still on the bottom underwater, our air stops draining and starts refilling instead — stay put long enough and the &3Charm of Sinking&r can even grant us &eImmortality&r until we move again. We still can't breathe down there forever, but the deeper the &9Water&r above our heads, the less any of it hurts us.\\n\\n- An &6Artifact&r for those of us who move through &9Water&r as if it were &7Air&r."]
+	quest.221C9EDA651144BA.quest_subtitle: "Water magic around our neck"
 	quest.221C9EDA651144BA.title: "&3Charm of Sinking&r"
-	quest.2607F3DC07049785.quest_desc: ["Why spend time sitting down and eating a nice Home-Cooked meal when you can just Eat and Drink quickly! \\n\\nWith this very stylish &6Hat&r, Eating and Drinking is much faster."]
-	quest.2607F3DC07049785.quest_subtitle: "Head"
-	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
-	quest.27E951F4F4F6F847.quest_desc: ["Similar to &aThorn Pendant&r, just a little hotter. No wait way hotter! \\n\\nThe &cFlame Pendant&r has a chance to light your attackers on Fire! When they are lit on fire the &cPendant&r will also give you Fire Resistance."]
-	quest.27E951F4F4F6F847.quest_subtitle: "Necklace"
+	quest.2607F3DC07049785.quest_desc: [" Why sit down for a nice home-cooked meal when we can just eat and drink on the move? \\n\\n- &lIt has 1 Ability:&r\\n\\n &6Quick Sip&r:\\nEvery drink we take goes down faster while wearing this very stylish &6Hat&r, and the more we lean on it, the more it gives back — some restored &6Hunger&r, a little &cHealth&r, even a breath of Air with every sip. \\n\\n- An &6Artifact&r for those of us who'd rather chug and keep moving."]
+	quest.2607F3DC07049785.quest_subtitle: "Quick sips, worn on our head"
+	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat&r"
+	quest.27E951F4F4F6F847.quest_desc: [" Similar to the &aThorn Pendant&r, just a little hotter. No wait, way hotter! \\n\\n- &lIt has 1 Ability:&r\\n\\n &cRetaliatory Flame&r:\\nWhenever something hits us, there's a chance we set them &calight&r in return. The longer we lean on the &cFlame Pendant&r, the more it lets us profit from the fire — extra damage against anything already burning, and a trickle of &chealing&r for us while we ourselves are on fire.\\n\\n- An &6Artifact&r for those of us who answer every hit with a spark."]
+	quest.27E951F4F4F6F847.quest_subtitle: "A spark hanging from our neck"
 	quest.27E951F4F4F6F847.title: "&cFlame Pendant&r"
-	quest.29448D08C8777425.quest_desc: ["By tonight he'll be sleeping with the Fishes. \\n\\nThe &cAngler Hat&r helps you Lure Fish in and makes your chances at getting a Rare Drop higher!"]
-	quest.29448D08C8777425.quest_subtitle: "Head"
-	quest.29448D08C8777425.title: "&cAngler's Hat"
-	quest.2AD78E22988A92D3.quest_desc: ["I see you! \\n\\nWhen wearing &2Night Vision Goggles&r you get the ability to see in the dark! Not much else to them..."]
-	quest.2AD78E22988A92D3.quest_subtitle: "Head"
-	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
-	quest.321F16645640C462.quest_desc: ["Enderpearls are a fun way of travel! (Helpful for the Bumblezone, I wonder if we'll get a Quest chapter for that Mod!) But don't you hate that the Enderpearl gets consumed on use and takes 2 Hearts of damage with each use? \\n\\nWith &9Warp Drive&r that all goes away, clearly making Enderpearls the greatest transportation! Hunger gets consumed instead of the Enderpearl and no longer take damage from using an Enderpearl. When all Hunger Bars are depleted it will go back to consuming Enderpearls."]
-	quest.321F16645640C462.quest_subtitle: "Belt"
+	quest.29448D08C8777425.quest_desc: [" By tonight, whatever we hook will be sleeping with the fishes. \\n\\n- &lIt has 1 Ability:&r\\n\\n &cLucky Catch&r:\\nOur &cAngler's Hat&r boosts our Luck and Lure while fishing, and every so often a single catch multiplies into several at once. The longer we fish with it on, the better our odds get at pulling up something rarer than fish entirely.\\n\\n- An &6Artifact&r for those of us who never leave the water empty-handed."]
+	quest.29448D08C8777425.quest_subtitle: "Lucky fishing on our head"
+	quest.29448D08C8777425.title: "&cAngler's Hat&r"
+	quest.2AD78E22988A92D3.quest_desc: [" We can see you! \\n\\n- &lIt has 1 Ability:&r\\n\\n &2Night Vision&r:\\nToggle the &2Night Vision Goggles&r on and darkness stops meaning much to us. The deeper into the dark we go with them active, the harder we hit and the more often attacks against us simply miss — the goggles reward us most exactly where the light runs out. \\n\\n- An &6Artifact&r for those of us who'd rather own the dark than fear it."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Darkness tamed on our head"
+	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles&r"
+	quest.321F16645640C462.quest_desc: [" Ender Pearls are a fun way to travel! But don't we all hate that they get consumed on use and cost us 2 Hearts of &cdamage&r every single time? \\n\\n- &lIt has 1 Ability:&r\\n\\n &9Transgression&r:\\nWith the &9Warp Drive&r on, our Ender Pearls stop being consumed when thrown, though each toss puts them on a short cooldown instead. As we get more attuned to it, that damage from teleporting disappears too, and everyone nearby loses sight of us for a moment right after we arrive.\\n\\n- An &6Artifact&r that makes Ender Pearls the greatest way to travel, hands down."]
+	quest.321F16645640C462.quest_subtitle: "Free travel clipped to our belt"
 	quest.321F16645640C462.title: "&9Warp Drive&r"
-	quest.3446803FB59D8875.quest_desc: ["Gives you Thorns. Not your Armor, you! Like a Pufferfish!"]
-	quest.3446803FB59D8875.quest_subtitle: "Necklace"
+	quest.3446803FB59D8875.quest_desc: [" It gives us Thorns. Not our Armor, us! Like a Pufferfish! \\n\\n- &lIt has 1 Ability:&r\\n\\n &aPoisoned Thorns&r:\\nA portion of any &cdamage&r we take gets reflected straight back at whoever hit us. The more we're struck, the more that reflected damage starts carrying a dose of &2Poison&r with it, hitting harder against anything already poisoned. \\n\\n- An &6Artifact&r for those of us who'd rather share the pain than just take it."]
+	quest.3446803FB59D8875.quest_subtitle: "Payback hanging from our neck"
 	quest.3446803FB59D8875.title: "&aThorn Pendant&r"
-	quest.3525D5DCC3A534D9.quest_desc: ["Now these are one of my favorites! \\n\\n&9Digging Claws&r will 1. Increase your Mining Speed, so basically a level of Efficiency on all Pickaxes, and 2. Makes your Fists act as a Stone Pickaxe! \\n\\nSuper helpful for building and just playing in general!"]
-	quest.3525D5DCC3A534D9.quest_subtitle: "Hands"
+	quest.3525D5DCC3A534D9.quest_desc: [" These are honestly one of our favorites. \\n\\n- &lIt has 1 Ability:&r\\n\\n &9Digger&r:\\nOur &9Digging Claws&r speed up how fast we mine and let our bare fists chew through blocks like a Stone Pickaxe. The more we dig with them, the faster our hands and tools become, until even our fists start pulling a bit of extra &6Fortune&r from what we break.\\n\\n- Super helpful for building and just playing in general! \\n\\n- An &6Artifact&r for those of us who never want to stop for a pickaxe again."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Faster mining in our hands"
 	quest.3525D5DCC3A534D9.title: "&9Digging Claws&r"
-	quest.3705D303CF423804.quest_desc: ["The other side of the &aFeral Claws&r, these increase the Damage you deal while wearing them."]
-	quest.3705D303CF423804.quest_subtitle: "Hands"
+	quest.3705D303CF423804.quest_desc: [" The other side of the &aFeral Claws&r, this one is about the &cdamage&r we deal, not the speed we deal it. \\n\\n- &lIt has 1 Ability:&r\\n\\n &ePower Strike&r:\\nEvery so many hits, our &ePower Glove&r channels every ounce of stored force into one crushing blow. Given enough time wearing it, that blow starts ignoring part of the target's armor, breaking straight through shields, and — if it lands the kill — carrying its full force right into our next attack too.\\n\\n- An &6Artifact&r for those of us who'd rather land one hit that matters."]
+	quest.3705D303CF423804.quest_subtitle: "One heavy hit, in our hands"
 	quest.3705D303CF423804.title: "&ePower Glove&r"
-	quest.3B3BD39BA02DCA13.quest_desc: ["With the &6Pocket Piston&r your Attacks will hit your Enemies much farther! \\n\\nI wonder which wins, &6Pocket Piston&r or &7Steadfast Boots&r?"]
-	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
+	quest.3B3BD39BA02DCA13.quest_desc: [" With the &6Pocket Piston&r, our attacks reach much farther than our arms ever could. \\n\\n- &lIt has 1 Ability:&r\\n\\n &6Piston Impulse&r:\\nOur attack and block-interaction range both grow while wearing it. The farther the target we're hitting, the harder that hit lands and the faster we mine too — and land a strike near our very limit, and it can even stun what we hit. \\n\\n- We wonder which wins, the &6Pocket Piston&r or the &7Steadfast Spikes&r? \\n\\n- An &6Artifact&r for those of us who'd rather not get close at all."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Extra reach in our hands"
 	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
-	quest.3E0643EA9183CDAE.quest_desc: ["'It was his Hat Mr Krabs! He was Number 1!' \\n\\nDoes the same exact thing as the normal &6Drinking Hat&r, just looks much cooler!"]
-	quest.3E0643EA9183CDAE.quest_subtitle: "Head"
-	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
-	quest.3E1A3BC8642390B3.quest_desc: ["'I'm Marry Poppins ya'll!' \\n\\n&4The Umbrella&r is a very useful tool added by &l&3Artifacts&r! It can be held infront of you to work as a Shield, by holding Right Click. Or it can be used to slow your fall by just holding it! "]
-	quest.3E1A3BC8642390B3.quest_subtitle: "Unique"
+	quest.3E0643EA9183CDAE.quest_desc: [" 'It was his Hat, Mr Krabs! He was Number 1!' \\n\\n- &lIt has 1 Ability:&r\\n\\n &6Quick Sip&r:\\nDoes the exact same thing as the regular &6Plastic Drinking Hat&r — every drink goes down faster, and the deeper we get into it, some restored &6Hunger&r, &cHealth&r, and Air on every sip — just with a much cooler &9Novelty Drinking Hat&r on our head. \\n\\n- An &6Artifact&r for those of us who care as much about style as substance."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Style and sips on our head"
+	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat&r"
+	quest.3E1A3BC8642390B3.quest_desc: [" 'I'm Mary Poppins, y'all!' \\n\\n- &lIt has 2 Abilities:&r\\n\\n 1. &4Gliding&r:\\nHolding the &4Umbrella&r in hand slows our fall to a gentle drift, and if we've got the reflexes for it, we can even bounce off the air itself — pressing an attack while falling launches us the opposite way, refunding a charge the moment we touch ground. \\n\\n 2. &4Canopy Shield&r:\\nHold it out and it becomes a full &7shield&r, blocking hit after hit before it needs to cool down — and every successful block can send whatever hit us stumbling back. \\n\\n- An &6Artifact&r for those of us who never travel without a little protection from the sky."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Shelter we carry with us"
 	quest.3E1A3BC8642390B3.title: "&4Umbrella&r"
-	quest.3EC8A0B89788D079.quest_desc: ["I don't have Hands, I have &9Flippers&r. \\n\\n&9Flippers&r will act like a much better Depth Strider. You can Swim and Walk through &9Water&r much faster!"]
-	quest.3EC8A0B89788D079.quest_subtitle: "Feet"
+	quest.3EC8A0B89788D079.quest_desc: [" We don't have hands, we have &9Flippers&r. \\n\\n- &lIt has 1 Ability:&r\\n\\n &9Swift Swim&r:\\nOur &bswimming speed&r jumps the moment we put them on, a much better deal than any Depth Strider we've tried. The more we swim in them, the less Air we burn underwater, until gravity itself stops pulling at us below the surface — and a lucky few hits against us simply miss entirely while we're submerged.\\n\\n- An &6Artifact&r for those of us who'd rather live underwater than visit it."]
+	quest.3EC8A0B89788D079.quest_subtitle: "Faster swims on our feet"
 	quest.3EC8A0B89788D079.title: "&9Flippers&r"
-	quest.427014BDE06DE631.quest_desc: ["Everything I hit, bursts into Flames!!!!!"]
-	quest.427014BDE06DE631.quest_subtitle: "Hands"
+	quest.427014BDE06DE631.quest_desc: [" Everything we hit bursts into &cflames&r! \\n\\n- &lIt has 1 Ability:&r\\n\\n &cScorching Flame&r:\\nOur melee attacks with the &cFire Gauntlet&r set the target &calight&r on contact. The more we fight with it on, the harder our hits land against anything already burning, and eventually a burning target's death can throw off sparks that ignite whoever's standing close by too.\\n\\n- An &6Artifact&r for those of us who'd rather leave a battlefield in ashes."]
+	quest.427014BDE06DE631.quest_subtitle: "Flames sparking in our hands"
 	quest.427014BDE06DE631.title: "&cFire Gauntlet&r"
-	quest.436E4E3515BCCDE9.quest_desc: ["With the &bCloud in a Bottle&r equipped you can hit Space Bar twice to double jump! Very helpful for parkour! \\n\\nAlso increases the height you can fall from, like &dBunny Hoppers&r!"]
-	quest.436E4E3515BCCDE9.quest_subtitle: "Belt"
+	quest.436E4E3515BCCDE9.quest_desc: [" With the &bCloud in a Bottle&r equipped, we can hit the jump key twice in the air for a double jump! Very helpful for parkour. \\n\\n- &lIt has 1 Ability:&r\\n\\n &bAir Jump&r:\\nWe get an extra jump mid-air, and it also raises how far we can fall safely, just like &dBunny Hoppers&r do. The more we lean on it, landing a hit during a string of air jumps can refund one of them, and looking upward when we jump sends us soaring even higher.\\n\\n- An &6Artifact&r for those of us who never quite trust the ground to catch us."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "An extra jump on our belt"
 	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle&r"
-	quest.4564B577CB4EC046.quest_desc: ["When slaughtering hundreds of Cows you might come across a Rare Beef. Not one with Mad Cow Disease, I mean the &cEverlasting Beef&r!\\n\\n&cEverlasting Beef&r can be eaten like a normal Raw Beef, but it won't be deleted when consumed! Instead it will have a cooldown before you can eat it again.\\n\\n(Also works with autofeeding backpacks!)"]
-	quest.4564B577CB4EC046.quest_subtitle: "Unique"
+	quest.4564B577CB4EC046.quest_desc: [" When we slaughter enough Cows, we might come across something rarer than Mad Cow Disease — the &cEverlasting Beef&r! \\n\\n- &lIt has 1 Ability:&r\\n\\n &cEndless Meal&r:\\nWe can eat it like normal Raw Beef, except it never actually disappears — every bite just spends a bit of its durability, which slowly regenerates on its own. Lean on it long enough and it starts rewarding us further: a chance to eat for free, faster bites, and a little extra &chealing&r with every meal. \\n\\n- Also works with autofeeding backpacks! \\n\\n- An &6Artifact&r for those of us who never want to hunt for dinner twice."]
+	quest.4564B577CB4EC046.quest_subtitle: "A steak that never runs out"
 	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
-	quest.4933CF4675E77D50.quest_desc: ["After you take a hit from Fire Damage, the &5Obsidian Skull&r will activate giving you a period of Fire Resistance. Hopefully long enough to escape the flames!"]
-	quest.4933CF4675E77D50.quest_subtitle: "Belt"
+	quest.4933CF4675E77D50.quest_desc: [" After we take a hit of &cFire damage&r, the &5Obsidian Skull&r kicks in and grants us a stretch of &cFire Resistance&r — hopefully long enough to escape the flames. \\n\\n- &lIt has 1 Ability:&r\\n\\n &5Lava Resilience&r:\\nWe can stand in &4Lava&r without taking damage for a stretch of time, which slowly recharges once we're out of it. Push the &5Obsidian Skull&r far enough and we start moving faster the longer we linger in &4Lava&r, taking reduced damage the whole time, and we never take fall damage from landing straight into it.\\n\\n- An &6Artifact&r for those of us who treat Lava like a warm bath."]
+	quest.4933CF4675E77D50.quest_subtitle: "Fire resistance on our belt"
 	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
-	quest.4A7AEBEB87CEC274.quest_desc: ["I don't believe I have permission to use a specific brand name of &cRunning Shoes&r so use your imagination on which these are. \\n\\n&cRunning Shoes&r will give you a Speed Boost when Sprinting so you will be even faster when Running! Also gives you auto-jump when Sprinting..."]
-	quest.4A7AEBEB87CEC274.quest_subtitle: "Feet"
+	quest.4A7AEBEB87CEC274.quest_desc: [" We don't believe we have permission to use a specific brand name for these &cRunning Shoes&r, so use your imagination on which ones they are. \\n\\n- &lIt has 1 Ability:&r\\n\\n &bAcceleration&r:\\nThe longer we keep sprinting in a straight line, the faster we get, up to a solid cap — stop moving and the bonus slowly fades away. Chase that top speed long enough and jumping while running speeds up how quickly we build it, our step height while sprinting grows too, and hitting max speed can even grant us a moment of &eImmortality&r.\\n\\n- Also gives us auto-jump when Sprinting. \\n\\n- An &6Artifact&r for those of us who never stop running once we start."]
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Speed building in our feet"
 	quest.4A7AEBEB87CEC274.title: "&cRunning Shoes&r"
-	quest.4D3379D38237F830.quest_desc: ["While wearing &bthese&r on your Feet you can preform a miracle! Walking on &9Water&r! \\n\\nWell actually running on &9Water&r, you have to be Sprinting to be able to run over &9Water&r. Once you stop Sprinting you will start Sinking."]
-	quest.4D3379D38237F830.quest_subtitle: "Feet"
+	quest.4D3379D38237F830.quest_desc: [" While wearing these on our feet, we can pull off a small miracle: walking on &9Water&r! \\n\\n- &lIt has 1 Ability:&r\\n\\n &bWater Run&r:\\nAs long as we're Sprinting, the &bAqua-Dashers&r keep the water's surface solid beneath us — our first steps onto it are a little slower, but our pace returns fully within a couple of seconds. Stop Sprinting and we start Sinking. The longer we run on water with them, the less we even need to Sprint to stay up, our jumps off the surface climb higher, and projectiles can pass right through us while we're dashing across it.\\n\\n- An &6Artifact&r for those of us who never learned to swim, only to run."]
+	quest.4D3379D38237F830.quest_subtitle: "Running on water, on our feet"
 	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
-	quest.5040B3D29F238BC0.quest_desc: ["Bunny, hop. Bunny, hop. Bunny, hop.\\n\\nWith &dBunny Hoppers&r on you can jump twice as high and take half the fall damage as usual! Doesn't make you invincible to Fall Damage, you can still die it's just harder."]
-	quest.5040B3D29F238BC0.quest_subtitle: "Feet"
+	quest.5040B3D29F238BC0.quest_desc: [" Bunny, hop. Bunny, hop. Bunny, hop. \\n\\n- &lIt has 1 Ability:&r\\n\\n &dBunny Jump&r:\\nHolding the jump key with &dBunny Hoppers&r on launches us into a longer, higher jump, and any fall afterward hurts less than it should. The higher we've climbed before we land, the harder our next hit can strike, landing after a big jump can knock nearby enemies back, and eventually we stop taking &7fall damage&r from these jumps entirely. \\n\\n- Doesn't make us invincible to Fall Damage overall, we can still die from a bad fall, it's just harder. \\n\\n- An &6Artifact&r for those of us who'd rather bounce than walk."]
+	quest.5040B3D29F238BC0.quest_subtitle: "Higher jumps on our feet"
 	quest.5040B3D29F238BC0.title: "&dBunny Hoppers&r"
-	quest.50A32AC6EDBC5854.quest_desc: ["Food by itself can get pretty boring, but it gets much better when you have a side with your dish! More specifically some (a) &6Onion Ring&r!\\n\\nWhen wearing the &6Onion Ring&r, everything you eat will give you slight Haste."]
-	quest.50A32AC6EDBC5854.quest_subtitle: "Hands"
+	quest.50A32AC6EDBC5854.quest_desc: [" Food by itself can get pretty boring, but it gets so much better with a side. More specifically, some &6Onion Ring&r! \\n\\n- &lIt has 1 Ability:&r\\n\\n &6Hungry Drill&r:\\nOur mining speed climbs with every point of &6Saturation&r we're carrying, so the fuller we are, the faster blocks break. Eating food gives us an extra burst of speed right after, staying well fed enough can shatter blocks instantly, and every so often a mined block even hands a point of &6Hunger&r back to us. \\n\\n- An &6Artifact&r for those of us who mine best on a full stomach."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Hunger powering our hands"
 	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
-	quest.589F1D502F680075.quest_desc: ["Perfect for Pool Parties! \\n\\nBesides looking cute and funny the &dHelium Flamingo&r allows you to swim in Air. Yes you heard me! Swim... in... Air... \\n\\nWhen in the Air, like jumping, you can press CTRL to start Swimming in Air. You can move around just like in the Water: Swim up, Swim down, Swim all around!"]
-	quest.589F1D502F680075.quest_subtitle: "Belt"
+	quest.589F1D502F680075.quest_desc: [" Perfect for pool parties! Besides looking cute and funny, the &dHelium Flamingo&r lets us swim through the Air itself. Yes, you heard that right, swim... in... Air... \\n\\n- &lIt has 1 Ability:&r\\n\\n &dAerial Swimming&r:\\nDouble jump and we can hover freely for a while, moving around exactly like we would in &9Water&r — up, down, all around — before it needs to recharge. The more we hover, the safer and stronger it makes us: reduced &cdamage&r while airborne, harder ranged hits from up there, and eventually barely moving costs us no hover time at all. \\n\\n- An &6Artifact&r for those of us who'd rather float than fall."]
+	quest.589F1D502F680075.quest_subtitle: "Floating on air, from our belt"
 	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
-	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r is a wonderful Mod that adds &l&3Artifacts&r that will make your Minecraft expereince much easier and much more fun!\\n\\nAll &l&3Artifacts&r can either be found from exploring, archeology, or killing Mimics!\\n\\nMimics are found in Campsites underground, looking like normal Chests! But once you get too close they'll attack!"]
-	quest.5CE44C58A470E48E.title: "&l&3Artifacts"
-	quest.5DE7C4FD5FA29236.quest_desc: ["Don't you hate when you're just about to kill an Endermen and it teleports away? Well you don't hate you, you love it! You're just angry because you're envious! You want it! \\n\\nAnd with the &5Chorus Belt&r you can get it! You will teleport from a hit that would kill you."]
-	quest.5DE7C4FD5FA29236.quest_subtitle: "Belt"
-	quest.5DE7C4FD5FA29236.title: "&5Chorus Belt&r"
-	quest.5EB7CE3A1DCD3E9B.quest_desc: ["It's a &cMagnet&r."]
-	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Belt"
+	quest.5CE44C58A470E48E.quest_desc: [" &l&3Artifacts&r is a wonderful mod that gives us dozens of unique &l&3Artifacts&r to make our time in Minecraft easier and a whole lot more fun! \\n\\n With the &l&3Reliquified Artifacts&r addon, every single one of these &l&3Artifacts&r also grows with us: we can rank up their Abilities in the &6Research Window&r (Hold Shift on the item) using &eRelic Experience&r earned just from using them, unlocking stronger effects and even Synergies between items the more we play. \\n\\n We can find all of our &l&3Artifacts&r by exploring, doing archeology, or killing Mimics! Mimics hide in underground Campsites, looking like ordinary Chests, right up until we get too close and they attack."]
+	quest.5CE44C58A470E48E.title: "&l&3Artifacts&r"
+	quest.5DE7C4FD5FA29236.quest_desc: [" Don't we all hate it when we're about to land the killing blow on an &5Enderman&r and it teleports away? Well, we don't hate it, we love it, we're just a little jealous we can't do the same. \\n\\n- &lIt has 1 Ability:&r\\n\\n &dChorus Bloom&r:\\nWhen a hit would otherwise kill us, the &dChorus Totem&r steps in first, teleporting us to safety nearby instead, then cooling down for a while before it can trigger again. The more we rely on it, the kinder the save gets: our &chealing&r works better right after, everything nearby loses sight of us for a moment, and we can even vanish from sight entirely once we land.\\n\\n- An &6Artifact&r for those of us who'd rather cheat death than accept it."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "One last escape on our belt"
+	quest.5DE7C4FD5FA29236.title: "&dChorus Totem&r"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: [" It's a &cMagnet&r. \\n\\n- &lIt has 1 Ability:&r\\n\\n &cPolarity&r:\\nToggle the &cUniversal Attractor&r between Pull and Push and every nearby item either rushes toward us or scatters away. Given enough time with it, Pull mode starts grabbing loose &eExperience&r orbs for us too, and Push mode can knock hostile projectiles right out of the air.\\n\\n- An &6Artifact&r for those of us who'd rather loot never leave our sight."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Loot pulled to our belt"
 	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor&r"
-	quest.5F5E43B3F51CAE9E.quest_desc: ["'They're magically delicious!' \\n\\nThe &aSuperstitious Hat&r grants you an extra level of Looting to Mobs you kill! \\n\\nIt does stack with Enchants! "]
-	quest.5F5E43B3F51CAE9E.quest_subtitle: "Head"
-	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat"
+	quest.5F5E43B3F51CAE9E.quest_desc: [" 'They're magically delicious!' \\n\\n- &lIt has 1 Ability:&r\\n\\n &aSuperstitious Trophy&r:\\nEvery kill we make has a chance to apply an extra level of &2Looting&r on top of whatever we're already carrying, and it does stack with Enchants. Keep the streak going and every kill in quick succession raises those odds further, animals get a flat bonus too, and the first kill after a lull always lands a little luckier.\\n\\n- An &6Artifact&r for those of us who believe the &6Superstitious Hat&r really is lucky."]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Luck riding on our head"
+	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat&r"
 	quest.5FD6A738754F6013.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.623796B1D7981E59.quest_desc: ["'Also try Terraria!'\\n\\nWhen equipped you will gain 5 extra Hearts! Or 10 whole points of Health! Adding up to on default 30 Health."]
-	quest.623796B1D7981E59.quest_subtitle: "Belt"
+	quest.623796B1D7981E59.quest_desc: [" 'Also try Terraria!' \\n\\n- &lIt has 1 Ability:&r\\n\\n &4Crystal Reserve&r:\\nWearing the &4Crystal Heart&r grants us extra maximum &cHealth&r — 5 extra Hearts, 10 whole points, bringing us up to 30 Health by default. If our current Health ever dips below that bonus, it disappears and cools down for a while before returning. The longer we depend on it, being at full &cHealth&r reduces incoming damage, healing below the bonus threshold works better, and a single devastating hit can grant us a moment of &eImmortality&r.\\n\\n- An &6Artifact&r for those of us who'd rather have more Health than more excuses."]
+	quest.623796B1D7981E59.quest_subtitle: "Extra hearts on our belt"
 	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
-	quest.62622137648A4F56.quest_desc: ["Don't you hate having to Mine then Smelt your Ores with two different Items? Well now you can be lazier than ever with the &7Pickaxe Heater&r!\\n\\nWhile wearing the &7Pickaxe Heater&r, Ores that you Mined will automatically be Smelted!\\n\\nMight want to be careful with it if you want Ore Processing."]
-	quest.62622137648A4F56.quest_subtitle: "Hands"
+	quest.62622137648A4F56.quest_desc: [" Don't we all hate having to Mine an Ore and then Smelt it separately? With the &7Pickaxe Heater&r, we can be lazier than ever. \\n\\n- &lIt has 1 Ability:&r\\n\\n &7Thermal Processing&r:\\nOres we mine have a chance to smelt themselves the instant we break them. Miss that chance and it only grows for our next block, our pickaxe attacks can &cignite&r whatever we hit, and every so often the smelt even carries an extra &6Fortune&r level with it. \\n\\n- Might want to be careful with it if we're going for Ore Processing setups. \\n\\n- An &6Artifact&r for those of us who mine and smelt in the very same swing."]
+	quest.62622137648A4F56.quest_subtitle: "Smelting straight from our hands"
 	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
-	quest.6A452BFC8A967C39.quest_desc: ["Wearing these &aClaws&r just makes you feel a certain way. Adrenaline pumping, thoughts ceasing, strength rising like no other! \\n\\nWith &aFeral Claws&r you will Attack much faster with your Weapons or Fists."]
-	quest.6A452BFC8A967C39.quest_subtitle: "Hands"
+	quest.6A452BFC8A967C39.quest_desc: [" Wearing these &aClaws&r just makes us feel a certain way. Adrenaline pumping, thoughts ceasing, strength rising like nothing else. \\n\\n- &lIt has 1 Ability:&r\\n\\n &aPredatory Frenzy&r:\\nAttacking in quick succession with the &aFeral Claws&r builds up charges that speed up our next attacks even further, up to a cap. Pause too long between hits and the charges start fading, but taking &cdamage&r resets that clock, giving us more time to keep the frenzy alive.\\n\\n- An &6Artifact&r for those of us who fight faster the longer the fight goes on."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Frenzy building in our hands"
 	quest.6A452BFC8A967C39.title: "&aFeral Claws&r"
-	quest.6FBE5B5D5027B32C.quest_desc: ["Wearin' this here &7Hat&r makes yer critters run like the wind! \\n\\nIt's right purty too."]
-	quest.6FBE5B5D5027B32C.quest_subtitle: "Head"
-	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat"
-	quest.70C7D92844089DEB.quest_desc: ["Like the other Pendants this has a chance to hurt your attacker, just with Lightning! \\n\\nAlso makes it so if you're (un)lucky enough to be hit by Lightning, it won't hurt you."]
-	quest.70C7D92844089DEB.quest_subtitle: "Necklace"
+	quest.6FBE5B5D5027B32C.quest_desc: [" Wearin' this here &7Hat&r makes our critters run like the wind. It's right purty too. \\n\\n- &lIt has 1 Ability:&r\\n\\n &7Master's Saddle&r:\\nAny mount we ride gets a straight boost to its stats while we're wearing the &7Cowboy Hat&r. The longer we stay in the saddle, the more it pays off: extra reach for attacks and block interaction while mounted, a shot of &bAbsorption&r just from riding, and eventually every mount we tame settles down instantly.\\n\\n- An &6Artifact&r for those of us who'd rather ride than run."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Better rides, worn on our head"
+	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat&r"
+	quest.70C7D92844089DEB.quest_desc: [" Like the other Pendants, this one has a chance to hurt whoever hurts us first, just with &bLightning&r this time. \\n\\n- &lIt has 1 Ability:&r\\n\\n &bElectric Chain&r:\\nTaking damage has a chance to spark a jolt of electricity that leaps between nearby targets, hurting each one it touches. The more we rely on the &bShock Pendant&r, the harder that spark hits in &9Water&r or Rain, and it also makes us immune to being hit by actual &bLightning&r strikes.\\n\\n- An &6Artifact&r for those of us who'd rather answer a hit with a spark of our own."]
+	quest.70C7D92844089DEB.quest_subtitle: "Lightning coiled at our neck"
 	quest.70C7D92844089DEB.title: "&bShock Pendant&r"
-	quest.7188DC06A28AE30E.quest_desc: ["Wearin' dis &eGolden Hook&r will increase yar yield of experience from keel-hauled enemies!"]
-	quest.7188DC06A28AE30E.quest_subtitle: "Hands"
+	quest.7188DC06A28AE30E.quest_desc: [" Wearin' this here &eGolden Hook&r increases the amount of &eExperience&r we earn from every kill we make. \\n\\n- &lIt has 1 Ability:&r\\n\\n &eMarauder's Hook&r:\\nEvery kill hands us more &eExperience&r than usual. The more we lean on it, nearby Experience orbs start drifting toward us on their own, attacking pulls other creatures a little closer to the fight, and every so often it can even knock the weapon right out of an enemy's hands.\\n\\n- An &6Artifact&r for those of us who never let a single point of Experience go to waste."]
+	quest.7188DC06A28AE30E.quest_subtitle: "More experience in our hands"
 	quest.7188DC06A28AE30E.title: "&eGolden Hook&r"
-	quest.72D6265E35814927.quest_desc: ["Most games that have a Health and Damage system, have Invincibility Frames. After you take Damage you will have a few Invincibility Frames so 1. You don't die in an instant by a simple attack and 2. Gives you time to fight back. \\n\\nWith &eCross Necklace&r you get a few more Invincibility Frames. Which means a few more times to fight back!"]
-	quest.72D6265E35814927.quest_subtitle: "Necklace"
+	quest.72D6265E35814927.quest_desc: [" Most games with a Health and Damage system give us Invincibility Frames after getting hit, so we don't die in an instant and get a moment to fight back. \\n\\n- &lIt has 1 Ability:&r\\n\\n &eHoly Protection&r:\\nTaking damage while wearing the &eCross Necklace&r extends how long our Invincibility Frames last. The longer we carry it, the more it protects the faithful: Undead attacking us catch &cfire&r, our damage against them climbs, and once in a while a hit that should've killed us simply doesn't.\\n\\n- An &6Artifact&r that gives us a few more chances to fight back."]
+	quest.72D6265E35814927.quest_subtitle: "A second chance at our neck"
 	quest.72D6265E35814927.title: "&eCross Necklace&r"
-	quest.73B73870B29DFAD9.quest_desc: ["One of us! One of us! \\n\\nThe &eVillager Hat&r makes the Villagers believe you're from the same Town so they get rid of the Out-of-Towners Tax. Villager Trades are cheaper."]
-	quest.73B73870B29DFAD9.quest_subtitle: "Head"
-	quest.73B73870B29DFAD9.title: "&eVillager Hat"
-	quest.73FC51144FC2DA52.quest_desc: ["With this &7Glove&r you will steal the life from any enemies you hit!\\n\\nOh yeah sorry I forgot... bleh bleh blehhh!"]
-	quest.73FC51144FC2DA52.quest_subtitle: "Hands"
+	quest.73B73870B29DFAD9.quest_desc: [" One of us! One of us! \\n\\n- &lIt has 2 Abilities:&r\\n\\n 1. &eTrading Instinct&r:\\nThe &eVillager Hat&r makes us look enough like a local that &aVillagers&r drop their prices for us. Given enough time wearing it, a single trade can hand us multiple results at once, and sometimes it doesn't even consume the Villager's stock. \\n\\n 2. &eGolem Guard&r:\\n&7Iron Golems&r stop seeing us as a threat and start standing in our defense instead, and nearby Golems can even soak up some of the damage aimed at us. \\n\\n- An &6Artifact&r for those of us who'd rather be trusted than feared."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Trusted faces, worn on our head"
+	quest.73B73870B29DFAD9.title: "&eVillager Hat&r"
+	quest.73FC51144FC2DA52.quest_desc: [" With this &7Glove&r we steal the life right out of any enemy we hit. \\n\\n- &lIt has 1 Ability:&r\\n\\n &7Blooddrinker&r:\\nOur attacks with the &7Vampiric Glove&r heal us for a share of the &cdamage&r we deal. Keep landing hits close together and that healing grows stronger, finishing a target off restores a chunk of our own maximum &cHealth&r, and any healing beyond full can spill over into &bAbsorption&r instead of going to waste. \\n\\n- Oh yeah sorry, we forgot... bleh bleh blehhh! \\n\\n- An &6Artifact&r for those of us who fight better fed on someone else's Health."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Life stolen by our hands"
 	quest.73FC51144FC2DA52.title: "&7Vampiric Glove&r"
-	quest.74B352457BF1541B.quest_desc: ["If you're like me, or any sane person you despise Powdered Snow. Thankfully &l&3Artifacts&r gives us a tool for dealing with it! Snowshoes! \\n\\nSnowshoes will allow you to safely walk over Powdered Snow just like how Leather Boots do. You will also get a Speed boost when walking on any Snow!"]
-	quest.74B352457BF1541B.quest_subtitle: "Feet"
-	quest.7503823ACDDB0491.quest_desc: ["This and the &aSuperstitious Hat&r gives you all the lucky charms you can need!\\nThe &2Lucky Scarf&r gives you an extra level of Fortune to your Pickaxes."]
-	quest.7503823ACDDB0491.quest_subtitle: "Scarf (Necklace)"
+	quest.74B352457BF1541B.quest_desc: [" If we're like most sane people, we despise Powdered Snow. Thankfully &l&3Artifacts&r gives us a tool for dealing with it: Snowshoes! \\n\\n- &lIt has 1 Ability:&r\\n\\n &fSnowstride&r:\\nOur movement speed climbs on &bSnow&r while wearing the &fSnowshoes&r, and staying on it long enough keeps that bonus around for a few seconds even after we step off. Given enough time on the &fSnowshoes&r, we also become immune to Freezing and can walk safely across &bPowdered Snow&r just like Leather Boots let us. \\n\\n- An &6Artifact&r for those of us who never want winter to slow us down."]
+	quest.74B352457BF1541B.quest_subtitle: "Winter tamed by our feet"
+	quest.74B352457BF1541B.title: "&fSnowshoes&r"
+	quest.7503823ACDDB0491.quest_desc: [" This and the &aSuperstitious Hat&r give us every lucky charm we could ever need. The &2Lucky Scarf&r hands us an extra level of &6Fortune&r on our Pickaxes. \\n\\n- &lIt has 1 Ability:&r\\n\\n &2Lucky Vein&r:\\nMining Ores and other Fortune-sensitive blocks has a chance to apply an extra level of &6Fortune&r on top of whatever we already carry. The longer our luck holds, mining a block without a bonus quietly raises our odds for the next one, and mining right next to blocks of the same type raises those odds even further.\\n\\n- An &6Artifact&r for those of us who trust a scarf more than a horseshoe."]
+	quest.7503823ACDDB0491.quest_subtitle: "Fortune wrapped around our neck"
 	quest.7503823ACDDB0491.title: "&2Lucky Scarf&r"
 	quest.789AF6D0A6321945.quest_desc: [
 		"The single most important! Most powerful! Most dangerous &l&3Artifact&r of them all!"
 		"{@pagebreak}"
-		"I'm not even sure if I should explain what it does, it's too dangerous!"
+		"We're honestly not even sure we should explain what it does, it's that dangerous!"
 		"{@pagebreak}"
-		"If you're so sure you can handle its power, then maybe keep reading..."
+		"If we're so sure we can handle its power, maybe we should keep reading..."
 		"{@pagebreak}"
-		"Not too late to turn back!"
+		"Still not too late to turn back!"
 		"{@pagebreak}"
-		"Okay I warned you..."
+		"Okay, we warned ourselves..."
 		"{@pagebreak}"
-		"Press Shift for a chance to Fart when &dWhoopie Cushion&r is equipped."
+		" Press Shift for a chance to Fart when the &dWhoopee Cushion&r is equipped. \\n\\n- &lIt has 1 Ability:&r\\n\\n &dGas Burst&r:\\nSneaking gives us a chance to let out its signature sound and shove everything around us back, then it needs a moment to recover. The more we trust it, taking a hit can trigger the same Gas Burst in retaliation, some blasts leave nearby targets &7paralyzed&r, and every so often a lingering cloud sticks around to &2poison&r and nauseate anything that wanders through it.\\n\\n- An &6Artifact&r for those of us who take our comedy very seriously."
 	]
-	quest.789AF6D0A6321945.quest_subtitle: "Unique"
-	quest.789AF6D0A6321945.title: "&dWhoopie Cushion&r"
+	quest.789AF6D0A6321945.quest_subtitle: "Chaos we carry with us"
+	quest.789AF6D0A6321945.title: "&dWhoopee Cushion&r"
 	task.376652638B9221C9.title: "AllRightsReserved"
 	task.68DC39876E14FC1B.title: "Kill 1 Mimic"
 	task.72E89066290E3040.title: "AllRightsReserved"

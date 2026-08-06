@@ -1,162 +1,163 @@
 {
-	quest.010607466D565B53.quest_desc: ["Tipo, entre em contato com a Mãe Natureza, cara.\\n\\nCom as &aBotas Enraizadas&r, a natureza é sua melhor amiga! Ao ficar em cima da Grama, você regenerará Corações. Além disso, quando você come comida enquanto está na Grama, agirá como se você tivesse usado Farinha de Osso nela."]
-	quest.010607466D565B53.quest_subtitle: "Pés"
-	quest.010607466D565B53.title: "&aBotas Enraizadas"
-	quest.0A1D4228271DECA3.quest_desc: ["Para onde você foi?\\n\\nAh, você está apenas com metade do seu tamanho anterior. Pequeno o suficiente para caber sob um vão de 1 Bloco."]
-	quest.0A1D4228271DECA3.quest_subtitle: "Colar"
+	quest.010607466D565B53.quest_desc: [" Guardamos as &aBotas Enraizadas&r para os dias em que preferimos caminhar junto com a terra, e não por cima dela. No instante em que pisamos na &2Grama&r, raízes deslizam pelo solo sob nossos pés e começam a tirar sustento diretamente do chão.\\n\\n- &lPossui 1 Habilidade:&r\\n\\n &2Nutrição de Raiz&r:\\nEnquanto estamos sobre a &2Grama&r, consumimos lentamente o bloco sob nossos pés em troca de &6Fome&r e &6Saturação&r, transformando-o brevemente em Terra antes que volte a crescer. Quanto mais nos afeiçoamos às Botas, comer enquanto enraizados também recupera um pouco da nossa &cVida&r e, às vezes, aduba o que estiver crescendo por perto.\\n\\n- Um &6Artefato&r para quem prefere ser alimentado pela terra a lutar contra ela."]
+	quest.010607466D565B53.quest_subtitle: "Raízes crescendo sob nossos pés"
+	quest.010607466D565B53.title: "&aBotas Enraizadas&r"
+	quest.0A1D4228271DECA3.quest_desc: [" Não temos certeza de para onde fomos, mas com certeza estamos menores do que costumávamos ser. Pequenos o bastante agora para passar por um vão de um único Bloco. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &5Controle de Tamanho&r:\\nPodemos Encolher, Crescer ou Estabilizar nossa própria escala à vontade. Quanto menores ficamos, mais suaves se tornam nossas &7quedas&r, mais ataques passam por nós sem nos atingir e mais fácil é sumirmos da visão de um mob que nos caça.\\n\\n- Um &6Artefato&r para quem prefere desaparecer a abrir caminho lutando."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Magia de encolher em nosso pescoço"
 	quest.0A1D4228271DECA3.title: "&5Amuleto do Encolhimento&r"
-	quest.0E716B90E60C486B.quest_desc: ["Às vezes, a melhor maneira de lutar, não é lutar... é fugir!\\n\\nCom o &4Colar do Pânico&r, ao ser atingido, você receberá o Efeito de Velocidade por um curto período. Tempo suficiente para fugir!"]
-	quest.0E716B90E60C486B.quest_subtitle: "Colar"
+	quest.0E716B90E60C486B.quest_desc: [" Às vezes a atitude mais inteligente numa luta é a que nos tira dela. Sempre que o &4Colar do Pânico&r sente que fomos atingidos, ele nos enche da vontade de correr. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &4Pânico&r:\\nNossa &bvelocidade de movimento&r aumenta para cada mob hostil por perto que nos tem como alvo. Quanto mais deles estão de olho em nós, mais rápido nos movemos — e, assim que nenhum consegue mais nos ver, nossa velocidade volta ao normal e, se nada estiver nos caçando, parte desse pânico ainda se transforma em proteção extra.\\n\\n- Um &6Artefato&r que transforma estar cercado em um bom motivo para correr mais rápido."]
+	quest.0E716B90E60C486B.quest_subtitle: "Luta ou fuga em nosso pescoço"
 	quest.0E716B90E60C486B.title: "&4Colar do Pânico&r"
-	quest.11C5F17C6BB1237B.quest_desc: ["Enquanto usa a &5Pulseira do Wither&r, Ataques Corpo a Corpo têm uma chance de aplicar o Efeito Wither.\\n\\nDesculpe, usuários de Arco!"]
-	quest.11C5F17C6BB1237B.quest_subtitle: "Pulsos (Mãos)"
-	quest.11C5F17C6BB1237B.title: "&5Pulseira do Wither&r"
-	quest.122E6E7CABCB17E7.quest_desc: ["Por alguma razão, Creepers têm medo de Gatos. Creepers também são extremamente burros e acreditam que os Gatos que suas &7Pantufas&r parecem são reais.\\n\\nTodos os Creepers fugirão de você e não serão hostis quando estas &7Pantufas&r forem usadas.\\n\\nTambém faz barulhos de gatinho quando você leva dano! (Não posso garantir que você sempre cairá de pé)."]
-	quest.122E6E7CABCB17E7.quest_subtitle: "Pés"
+	quest.11C5F17C6BB1237B.quest_desc: [" Enquanto usamos a &5Pulseira da Decomposição&r, nossos Ataques Corpo a Corpo carregam uma aresta fria e apodrecida que a &5Decomposição&r corrói lentamente em quem atingimos. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &5Definhamento&r:\\nNossos golpes corpo a corpo têm chance de aplicar a &5Decomposição&r no alvo. Cada pulso de dano de Decomposição que causamos pode voltar para nós como &ccura&r, e se o alvo morrer ainda definhando, a podridão pode se espalhar para qualquer coisa próxima. \\n\\n- Desculpe, usuários de Arco, esta é só para Corpo a Corpo. \\n\\n- Um &6Artefato&r que deixa nossos punhos terminarem o que nossa paciência começou."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Podridão enrolada em nossos pulsos"
+	quest.11C5F17C6BB1237B.title: "&5Pulseira da Decomposição&r"
+	quest.122E6E7CABCB17E7.quest_desc: [" Por algum motivo, &2Creepers&r e &8Espectros&r têm pavor de Gatos, e são burros o bastante para acreditar que os que nossas &7Pantufas de Gatinho&r parecem são de verdade. \\n\\n- &lPossui 2 Habilidades:&r\\n\\n 1. &7Aura Felina&r:\\n&2Creepers&r e &8Espectros&r por perto mantêm distância assim que nos veem, e nos movemos um pouco mais quietos e leves enquanto agachados, com quedas também mais suaves. \\n\\n 2. &dNove Vidas&r:\\nDe vez em quando, um golpe que deveria nos matar nos deixa agarrados a 1 de &cVida&r — e o próximo ataque contra nós logo depois tem uma boa chance de errar completamente. \\n\\n- Também faz barulhos de gatinho quando levamos dano! (Ainda não podemos garantir que sempre cairemos de pé.) \\n\\n- Um &6Artefato&r para quem prefere ser temido a ser encontrado."]
+	quest.122E6E7CABCB17E7.quest_subtitle: "Nove vidas em nossos pés"
 	quest.122E6E7CABCB17E7.title: "&7Pantufas de Gatinho&r"
-	quest.145E7D1A88B83DDD.quest_desc: ["Onde você foi?"]
-	quest.145E7D1A88B83DDD.quest_subtitle: "Cachecol (Colar)"
+	quest.145E7D1A88B83DDD.quest_desc: [" Para onde fomos? \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &9Desaparecimento&r:\\nSe ficarmos parados por alguns segundos, o &9Cachecol da Invisibilidade&r nos apaga completamente da visão. Mover-se, lutar ou interagir quebra o efeito, mas quanto mais tempo passamos escondidos, mais ele nos recompensa quando atacamos — um pouco de &ccura&r enquanto estamos invisíveis, e um golpe inicial mais forte no instante em que reaparecemos. \\n\\n- Um &6Artefato&r para quem luta melhor quando ninguém vê a hora de chegar."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Um ato de sumir em nosso pescoço"
 	quest.145E7D1A88B83DDD.title: "&9Cachecol da Invisibilidade&r"
-	quest.161A90E134592D0E.quest_desc: ["Como a Carne Crua normal, você pode cozinhar a &cCarne Eterna&r para obter &4Bife Eterno&r!\\n\\nFunciona como a &cCarne Eterna&r, mas com mais Pontos de Fome e Saturação."]
-	quest.161A90E134592D0E.quest_subtitle: "Único"
-	quest.161A90E134592D0E.title: "&4Bife Eterno"
-	quest.16255FB20F35A9D9.quest_desc: ["O &3Snorkel&r lhe dá uma pequena quantidade de Respiração Aquática quando você entra na &9Água&r. Semelhante a um Casco de Tartaruga! Cuidado, pois ele se esgota."]
-	quest.16255FB20F35A9D9.quest_subtitle: "Cabeça"
-	quest.16255FB20F35A9D9.title: "&3Snorkel"
-	quest.19B393433FB0C62F.quest_desc: ["O segredo do Lavagante para andar na &cLava&r está em suas Pernas. Então, tiramos suas Pernas e fizemos você usá-las! \\n\\nAo Agachar, você pode andar com segurança sobre a &cLava&r! Quando você parar de Agachar, você cairá na &cLava&r, no entanto. Elas também permitem que você ande com segurança sobre blocos de Magma e outros blocos quentes!"]
-	quest.19B393433FB0C62F.quest_subtitle: "Pés"
+	quest.161A90E134592D0E.quest_desc: [" Em algum ponto entre o fogo e nosso estômago, surge o &4Bife Eterno&r — um primo mais resistente e saboroso da &cCarne Eterna&r que nunca realmente acaba. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &4Refeição Interminável&r:\\nPodemos comê-lo repetidas vezes; cada mordida gasta um pouco de sua durabilidade em vez de destruí-lo, e essa durabilidade se regenera sozinha aos poucos. Quanto mais dependemos dele, melhor ele nos trata: chance de comer de graça, mordidas mais rápidas e um pouco de &ccura&r extra a cada refeição. \\n\\n- Um &6Artefato&r para quem nunca quer cozinhar duas vezes."]
+	quest.161A90E134592D0E.quest_subtitle: "Uma refeição que nunca acaba"
+	quest.161A90E134592D0E.title: "&4Bife Eterno&r"
+	quest.16255FB20F35A9D9.quest_desc: [" O &3Snorkel&r mantém uma pequena bolsa de ar conosco no instante em que afundamos na &9Água&r, funcionando como um Capacete de Tartaruga bem mais leve preso ao rosto. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &3Respiração Aquática&r:\\nRespiramos normalmente perto da superfície, e quanto mais fundo ou mais tempo ficamos submersos, mais o &3Snorkel&r começa a puxar de uma reserva escondida de &9Respiração Aquática&r para nos manter vivos — além de limpar aquela névoa debaixo d'água para conseguirmos enxergar por onde nadamos. \\n\\n- Um &6Artefato&r para quem prefere explorar as profundezas a prender a respiração."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Ar fresco bem na nossa cabeça"
+	quest.16255FB20F35A9D9.title: "&3Snorkel&r"
+	quest.19B393433FB0C62F.quest_desc: [" Tiramos o segredo direto das pernas de um Lavagante e o prendemos nos nossos próprios pés. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &4Passo de Lava&r:\\nAo Agachar, conseguimos caminhar com segurança sobre a superfície da &4Lava&r como se ela tivesse endurecido sob nossos pés — os primeiros passos são instáveis, mas nosso equilíbrio melhora quanto mais continuamos em movimento. Ficar de pé, porém, e caímos direto nela. Também nos mantêm a salvo de blocos de Magma e outros pisos escaldantes. \\n\\n- Um &6Artefato&r para quem confia mais nos próprios pés do que no chão."]
+	quest.19B393433FB0C62F.quest_subtitle: "Pernas de Lavagante em nossos pés"
 	quest.19B393433FB0C62F.title: "Sapatos de &4Lavagante&r"
-	quest.1E40ACF3E69A4100.quest_desc: ["Você tem que beber? Sei lá, meio que fica lá e funciona... \\n\\nCom o &6Receptáculo de Antídoto&r, os efeitos negativos (como Wither ou Veneno) terão suas durações reduzidas! Muito útil ao enfrentar Bruxas ou Esqueletos Wither."]
-	quest.1E40ACF3E69A4100.quest_subtitle: "Cinto"
+	quest.1E40ACF3E69A4100.quest_desc: [" Será que precisamos beber isso? Sinceramente, ele meio que só fica ali e funciona... \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &6Antitoxina&r:\\nEnquanto carregamos o &6Receptáculo de Antídoto&r, todo Efeito negativo em nós — &5Decomposição&r, &2Veneno&r, qualquer um — se esgota mais rápido do que deveria. Quanto mais tempo mantemos essa resistência, mais ela compensa: cada Efeito negativo ativo passa a reduzir o &cdano&r que recebemos em vez de só nos prejudicar. Muito útil contra Bruxas e Esqueletos Wither. \\n\\n- Um &6Artefato&r para quem se recusa a deixar o veneno atrapalhar."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Antídoto pulsando em nosso cinto"
 	quest.1E40ACF3E69A4100.title: "&6Receptáculo de Antídoto&r"
-	quest.2215FB0777D7029D.quest_desc: ["Travas, chuteiras, grampos, seja lá o que forem! \\n\\nAs &7Botas Firmes&r mantêm você firme em seus pés. Você não será derrubado por ataques e não escorregará mais no gelo."]
-	quest.2215FB0777D7029D.quest_subtitle: "Pés"
-	quest.2215FB0777D7029D.title: "&7Botas Firmes&r"
-	quest.221C9EDA651144BA.quest_desc: ["Que &9Água&r? \\n\\nCom o &3Amuleto do Afundamento&r você se move através da &9Água&r como se fosse Ar! Mas ainda não consegue respirar debaixo d'água..."]
-	quest.221C9EDA651144BA.quest_subtitle: "Colar"
+	quest.2215FB0777D7029D.quest_desc: [" Travas, chuteiras, grampos, chamemos como quisermos! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &7Firmeza&r:\\nResistimos a &7Empurrões&r e paramos de escorregar no &bGelo&r no instante em que calçamos as &7Espinhos Firmes&r, e se estivermos agachados e firmes no lugar, nada além de um golpe direto consegue nos mover. \\n\\n- Um &6Artefato&r para quem planta os pés e se recusa a sair do lugar."]
+	quest.2215FB0777D7029D.quest_subtitle: "Uma firmeza que não sai dos pés"
+	quest.2215FB0777D7029D.title: "&7Espinhos Firmes&r"
+	quest.221C9EDA651144BA.quest_desc: [" Que &9Água&r? \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &3Afundamento&r:\\nNo instante em que ficamos parados no fundo debaixo d'água, nosso ar para de se esgotar e passa a se recompor — fique parado tempo suficiente e o &3Amuleto do Afundamento&r pode até nos conceder &eImortalidade&r até nos movermos de novo. Ainda não conseguimos respirar lá embaixo para sempre, mas quanto mais &9Água&r houver sobre nossas cabeças, menos ela nos machuca. \\n\\n- Um &6Artefato&r para quem se move pela &9Água&r como se ela fosse &7Ar&r."]
+	quest.221C9EDA651144BA.quest_subtitle: "Magia da água em nosso pescoço"
 	quest.221C9EDA651144BA.title: "&3Amuleto do Afundamento&r"
-	quest.2607F3DC07049785.quest_desc: ["Por que perder tempo sentado e comendo uma boa refeição caseira quando você pode simplesmente Comer e Beber rapidamente! \\n\\nCom este &6Chapéu&r muito estiloso, Comer e Beber é muito mais rápido."]
-	quest.2607F3DC07049785.quest_subtitle: "Cabeça"
-	quest.2607F3DC07049785.title: "&6Chapéu de Bebidas de Plástico"
-	quest.27E951F4F4F6F847.quest_desc: ["Semelhante ao &aPingente de Espinhos&r, só que um pouco mais quente. Não, espere, muito mais quente! \\n\\nO &cPingente de Chamas&r tem uma chance de atear fogo em seus atacantes! Quando eles estão em chamas, o &cPingente&r também lhe dará Resistência ao Fogo."]
-	quest.27E951F4F4F6F847.quest_subtitle: "Colar"
+	quest.2607F3DC07049785.quest_desc: [" Por que sentar para uma boa refeição caseira quando podemos simplesmente comer e beber em movimento? \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &6Gole Rápido&r:\\nCada bebida que tomamos desce mais rápido enquanto usamos este &6Chapéu&r muito estiloso, e quanto mais confiamos nele, mais ele retribui: um pouco de &6Fome&r recuperada, um pouco de &cVida&r e até uma bolha de Ar a cada gole. \\n\\n- Um &6Artefato&r para quem prefere beber de uma vez e seguir em frente."]
+	quest.2607F3DC07049785.quest_subtitle: "Goles rápidos na nossa cabeça"
+	quest.2607F3DC07049785.title: "&6Chapéu de Bebidas de Plástico&r"
+	quest.27E951F4F4F6F847.quest_desc: [" Semelhante ao &aPingente de Espinhos&r, só que um pouco mais quente. Não, espera, muito mais quente! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &cChama Retaliatória&r:\\nSempre que algo nos acerta, há uma chance de atearmos &cfogo&r em quem nos atacou. Quanto mais dependemos do &cPingente de Chamas&r, mais ele nos deixa lucrar com o fogo — dano extra contra qualquer coisa já em chamas, e um fio de &ccura&r para nós enquanto estamos pegando fogo. \\n\\n- Um &6Artefato&r para quem responde a cada golpe com uma fagulha."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Uma fagulha pendurada no pescoço"
 	quest.27E951F4F4F6F847.title: "&cPingente de Chamas&r"
-	quest.29448D08C8777425.quest_desc: ["Esta noite ele estará dormindo com os Peixes. \\n\\nO &cChapéu de Pescador&r ajuda você a Atrair Peixes e aumenta suas chances de obter um Drop Raro!"]
-	quest.29448D08C8777425.quest_subtitle: "Cabeça"
-	quest.29448D08C8777425.title: "&cChapéu de Pescador"
-	quest.2AD78E22988A92D3.quest_desc: ["Eu vejo você! \\n\\nAo usar &2Óculos de Visão Noturna&r, você ganha a habilidade de ver no escuro! Não há muito mais sobre eles..."]
-	quest.2AD78E22988A92D3.quest_subtitle: "Cabeça"
-	quest.2AD78E22988A92D3.title: "&2Óculos de Visão Noturna"
-	quest.321F16645640C462.quest_desc: ["Pérolas do End são uma forma divertida de viajar! (Útil para a Bumblezone, será que teremos um capítulo de Missão para esse Mod?) Mas você não odeia que a Pérola do End seja consumida ao usar e cause 2 Corações de dano a cada uso? \\n\\nCom o &9Motor de Dobra&r, tudo isso desaparece, tornando claramente as Pérolas do End o melhor meio de transporte! A Fome é consumida em vez da Pérola do End e você não sofre mais dano ao usar uma Pérola do End. Quando todas as Barras de Fome se esgotarem, ela voltará a consumir Pérolas do End."]
-	quest.321F16645640C462.quest_subtitle: "Cinto"
+	quest.29448D08C8777425.quest_desc: [" Até a noite, o que fisgarmos estará dormindo com os peixes. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &cPesca Sortuda&r:\\nNosso &cChapéu de Pescador&r aumenta nossa Sorte e Chamariz ao pescar, e de vez em quando uma única fisgada se multiplica em várias de uma vez. Quanto mais pescamos com ele, melhor ficam nossas chances de fisgar algo bem mais raro que peixe. \\n\\n- Um &6Artefato&r para quem nunca sai da água de mãos vazias."]
+	quest.29448D08C8777425.quest_subtitle: "Pescaria de sorte na nossa cabeça"
+	quest.29448D08C8777425.title: "&cChapéu de Pescador&r"
+	quest.2AD78E22988A92D3.quest_desc: [" Nós te vemos! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &2Visão Noturna&r:\\nAtivamos os &2Óculos de Visão Noturna&r e a escuridão deixa de significar muita coisa para nós. Quanto mais fundo entramos no escuro com eles ativos, mais forte batemos e mais ataques contra nós simplesmente erram — os óculos nos recompensam justamente onde a luz acaba. \\n\\n- Um &6Artefato&r para quem prefere dominar o escuro a temê-lo."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Escuridão domada na nossa cabeça"
+	quest.2AD78E22988A92D3.title: "&2Óculos de Visão Noturna&r"
+	quest.321F16645640C462.quest_desc: [" Pérolas do End são uma forma divertida de viajar! Mas não odiamos todos que elas sejam consumidas ao usar e ainda nos custem 2 Corações de &cdano&r toda vez? \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &9Transgressão&r:\\nCom o &9Motor de Dobra&r equipado, nossas Pérolas do End param de ser consumidas ao usar, mas cada arremesso entra num pequeno tempo de recarga. Quanto mais nos acostumamos com ele, o dano de nos teletransportarmos também desaparece, e todos por perto perdem nossa visão por um instante assim que chegamos. \\n\\n- Um &6Artefato&r que torna as Pérolas do End a melhor forma de viajar, sem dúvida."]
+	quest.321F16645640C462.quest_subtitle: "Viagem grátis presa ao cinto"
 	quest.321F16645640C462.title: "&9Motor de Dobra&r"
-	quest.3446803FB59D8875.quest_desc: ["Dá a você Espinhos. Não na sua Armadura, em você! Como um Baiacu!"]
-	quest.3446803FB59D8875.quest_subtitle: "Colar"
+	quest.3446803FB59D8875.quest_desc: [" Ele nos dá Espinhos. Não na nossa Armadura, em nós! Como um Baiacu! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &aEspinhos Envenenados&r:\\nUma parte do &cdano&r que recebemos é refletida de volta para quem nos atingiu. Quanto mais somos atingidos, mais esse dano refletido passa a carregar uma dose de &2Veneno&r, batendo ainda mais forte contra alvos já envenenados. \\n\\n- Um &6Artefato&r para quem prefere dividir a dor a só recebê-la."]
+	quest.3446803FB59D8875.quest_subtitle: "Vingança pendurada no pescoço"
 	quest.3446803FB59D8875.title: "&aPingente de Espinhos&r"
-	quest.3525D5DCC3A534D9.quest_desc: ["Estas são uma das minhas favoritas! \\n\\nAs &9Garras de Escavação&r irão 1. Aumentar sua Velocidade de Mineração, então basicamente um nível de Eficiência em todas as Picaretas, e 2. Fazer seus Punhos agirem como uma Picareta de Pedra! \\n\\nSuper útil para construir e apenas jogar em geral!"]
-	quest.3525D5DCC3A534D9.quest_subtitle: "Mãos"
+	quest.3525D5DCC3A534D9.quest_desc: [" Estas são sinceramente uma das nossas favoritas. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &9Escavador&r:\\nAs &9Garras de Escavação&r aceleram nossa mineração e fazem nossos punhos nus cortarem blocos como uma Picareta de Pedra. Quanto mais cavamos com elas, mais rápidas ficam nossas mãos e ferramentas, até nossos próprios punhos começarem a puxar um pouco de &6Fortuna&r extra do que quebramos. \\n\\n- Super útil para construir e para o jogo em geral! \\n\\n- Um &6Artefato&r para quem nunca mais quer parar para pegar uma picareta."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Mineração mais rápida em nossas mãos"
 	quest.3525D5DCC3A534D9.title: "&9Garras de Escavação&r"
-	quest.3705D303CF423804.quest_desc: ["O outro lado das &aGarras Ferais&r, estas aumentam o Dano que você causa enquanto as usa."]
-	quest.3705D303CF423804.quest_subtitle: "Mãos"
+	quest.3705D303CF423804.quest_desc: [" O outro lado das &aGarras Ferais&r, esta é sobre o &cdano&r que causamos, não a velocidade com que causamos. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &eGolpe de Poder&r:\\nA cada tantos golpes, nossa &eLuva do Poder&r canaliza toda a força acumulada em um único ataque esmagador. Com tempo suficiente de uso, esse golpe passa a ignorar parte da armadura do alvo, atravessa escudos e, se resultar em um abate, transfere toda a sua força para o nosso próximo ataque também. \\n\\n- Um &6Artefato&r para quem prefere acertar um golpe que realmente conta."]
+	quest.3705D303CF423804.quest_subtitle: "Um golpe pesado em nossas mãos"
 	quest.3705D303CF423804.title: "&eLuva do Poder&r"
-	quest.3B3BD39BA02DCA13.quest_desc: ["Com o &6Pistão de Bolso&r, seus Ataques atingirão seus Inimigos muito mais longe! \\n\\nQual será que vence, &6Pistão de Bolso&r ou &7Botas Firmes&r?"]
-	quest.3B3BD39BA02DCA13.quest_subtitle: "Mãos"
+	quest.3B3BD39BA02DCA13.quest_desc: [" Com o &6Pistão de Bolso&r, nossos ataques alcançam muito mais longe do que nossos braços jamais conseguiriam. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &6Impulso de Pistão&r:\\nNosso alcance de ataque e de interação com blocos aumenta enquanto o usamos. Quanto mais distante estiver o alvo que atingimos, mais forte é o golpe e mais rápido minemos também — e um ataque desferido perto do nosso alcance máximo pode até atordoar o que atingirmos. \\n\\n- Ficamos imaginando quem vence, o &6Pistão de Bolso&r ou as &7Espinhos Firmes&r? \\n\\n- Um &6Artefato&r para quem prefere nem chegar perto."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Alcance extra em nossas mãos"
 	quest.3B3BD39BA02DCA13.title: "&6Pistão de Bolso&r"
-	quest.3E0643EA9183CDAE.quest_desc: ["'Era o chapéu dele, Seu Siriguejo! Ele era o número 1!' \\n\\nFaz exatamente a mesma coisa que o &6Chapéu de Bebidas de Plástico&r normal, só que parece muito mais legal!"]
-	quest.3E0643EA9183CDAE.quest_subtitle: "Cabeça"
-	quest.3E0643EA9183CDAE.title: "&9Chapéu de Bebidas Divertido"
-	quest.3E1A3BC8642390B3.quest_desc: ["'Eu sou a Mary Poppins, pessoal!' \\n\\n&4O Guarda-chuva&r é uma ferramenta muito útil adicionada pelo &l&3Artifacts&r! Ele pode ser segurado na sua frente para funcionar como um Escudo, segurando o botão direito. Ou pode ser usado para retardar sua queda, apenas segurando-o! "]
-	quest.3E1A3BC8642390B3.quest_subtitle: "Único"
+	quest.3E0643EA9183CDAE.quest_desc: [" 'Era o chapéu dele, Seu Siriguejo! Ele era o número 1!' \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &6Gole Rápido&r:\\nFaz exatamente a mesma coisa que o &6Chapéu de Bebidas de Plástico&r normal — cada bebida desce mais rápido, e quanto mais confiamos nele, um pouco de &6Fome&r, &cVida&r e Ar recuperados a cada gole — só que com um &9Chapéu de Bebidas Divertido&r bem mais estiloso na cabeça. \\n\\n- Um &6Artefato&r para quem se importa tanto com o estilo quanto com a função."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Estilo e goles na nossa cabeça"
+	quest.3E0643EA9183CDAE.title: "&9Chapéu de Bebidas Divertido&r"
+	quest.3E1A3BC8642390B3.quest_desc: [" 'Eu sou a Mary Poppins, pessoal!' \\n\\n- &lPossui 2 Habilidades:&r\\n\\n 1. &4Planar&r:\\nSegurar o &4Guarda-chuva&r na mão desacelera nossa queda até virar um deslizar suave, e se tivermos reflexo o bastante, ainda conseguimos quicar no próprio ar — atacar enquanto caímos nos lança para o lado oposto, devolvendo uma carga assim que tocamos o chão. \\n\\n 2. &4Escudo de Copa&r:\\nSegurando-o à frente, ele vira um &7escudo&r completo, bloqueando golpe após golpe antes de precisar recarregar — e cada bloqueio bem-sucedido pode empurrar quem nos atingiu para trás. \\n\\n- Um &6Artefato&r para quem nunca viaja sem uma proteção contra o próprio céu."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Abrigo que carregamos conosco"
 	quest.3E1A3BC8642390B3.title: "&4Guarda-chuva&r"
-	quest.3EC8A0B89788D079.quest_desc: ["Eu não tenho Mãos, eu tenho &9Pés de Pato&r. \\n\\nOs &9Pés de Pato&r agirão como um &9Passos Profundos&r muito melhor. Você pode Nadar e Andar na &9Água&r muito mais rápido!"]
-	quest.3EC8A0B89788D079.quest_subtitle: "Pés"
+	quest.3EC8A0B89788D079.quest_desc: [" Não temos mãos, temos &9Pés de Pato&r. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &9Nado Rápido&r:\\nNossa &bvelocidade de natação&r dispara assim que os calçamos, um acordo bem melhor do que qualquer Passos Profundos que já usamos. Quanto mais nadamos com eles, menos Ar gastamos debaixo d'água, até a gravidade parar de nos puxar quando submersos — e alguns golpes contra nós simplesmente erram enquanto estamos na água. \\n\\n- Um &6Artefato&r para quem prefere viver debaixo d'água a só visitá-la."]
+	quest.3EC8A0B89788D079.quest_subtitle: "Nados mais rápidos em nossos pés"
 	quest.3EC8A0B89788D079.title: "&9Pés de Pato&r"
-	quest.427014BDE06DE631.quest_desc: ["Tudo que eu acerto, pega Fogo!!!!!"]
-	quest.427014BDE06DE631.quest_subtitle: "Mãos"
+	quest.427014BDE06DE631.quest_desc: [" Tudo que atingimos pega &cfogo&r! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &cChama Escaldante&r:\\nNossos ataques corpo a corpo com a &cManopla de Fogo&r atacam fogo no alvo assim que o tocamos. Quanto mais lutamos com ela, mais forte nosso golpe atinge algo já em chamas, e eventualmente a morte de um alvo em chamas pode soltar fagulhas que incendeiam quem estiver por perto também. \\n\\n- Um &6Artefato&r para quem prefere deixar o campo de batalha em cinzas."]
+	quest.427014BDE06DE631.quest_subtitle: "Chamas ateando em nossas mãos"
 	quest.427014BDE06DE631.title: "&cManopla de Fogo&r"
-	quest.436E4E3515BCCDE9.quest_desc: ["Com a &bNuvem na Garrafa&r equipada, você pode apertar a Barra de Espaço duas vezes para dar um pulo duplo! Muito útil para parkour! \\n\\nTambém aumenta a altura de queda que você pode suportar, como os &dSaltadores de Coelho&r!"]
-	quest.436E4E3515BCCDE9.quest_subtitle: "Cinto"
+	quest.436E4E3515BCCDE9.quest_desc: [" Com a &bNuvem na Garrafa&r equipada, podemos apertar a tecla de pulo duas vezes no ar para um pulo duplo! Muito útil para parkour. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &bPulo no Ar&r:\\nGanhamos um pulo extra no ar, e ela também aumenta a altura de queda que suportamos com segurança, assim como as &dSaltadores de Coelho&r fazem. Quanto mais dependemos dela, acertar um golpe durante uma sequência de pulos aéreos pode devolver um deles, e olhar para cima ao pular nos lança ainda mais alto. \\n\\n- Um &6Artefato&r para quem nunca confia totalmente que o chão vai amparar."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "Um pulo extra no cinto"
 	quest.436E4E3515BCCDE9.title: "&bNuvem na Garrafa&r"
-	quest.4564B577CB4EC046.quest_desc: ["Ao abater centenas de Vacas, você pode encontrar um Bife Raro. Não um com a Doença da Vaca Louca, quero dizer a &cCarne Eterna&r!\\n\\nA &cCarne Eterna&r pode ser comida como um Bife Cru normal, mas não será deletada quando consumida! Em vez disso, terá um tempo de recarga antes que você possa comê-la novamente.\\n\\n(Também funciona com mochilas de alimentação automática!)"]
-	quest.4564B577CB4EC046.quest_subtitle: "Único"
+	quest.4564B577CB4EC046.quest_desc: [" Quando abatemos Vacas o bastante, podemos encontrar algo mais raro que a Doença da Vaca Louca — a &cCarne Eterna&r! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &cRefeição Interminável&r:\\nPodemos comê-la como uma Carne Crua normal, só que ela nunca desaparece de verdade — cada mordida só gasta um pouco da sua durabilidade, que se regenera sozinha aos poucos. Quanto mais dependemos dela, mais ela retribui: chance de comer de graça, mordidas mais rápidas e um pouco de &ccura&r extra a cada refeição. \\n\\n- Também funciona com mochilas de alimentação automática! \\n\\n- Um &6Artefato&r para quem nunca quer caçar o jantar duas vezes."]
+	quest.4564B577CB4EC046.quest_subtitle: "Um bife que nunca acaba"
 	quest.4564B577CB4EC046.title: "&cCarne Eterna&r"
-	quest.4933CF4675E77D50.quest_desc: ["Depois que você levar um golpe de Dano de Fogo, o &5Crânio de Obsidiana&r será ativado, dando a você um período de Resistência ao Fogo. Esperançosamente, tempo suficiente para escapar das chamas!"]
-	quest.4933CF4675E77D50.quest_subtitle: "Cinto"
+	quest.4933CF4675E77D50.quest_desc: [" Depois de levarmos um golpe de dano de &cFogo&r, o &5Crânio de Obsidiana&r entra em ação e nos concede um período de &cResistência ao Fogo&r — esperamos que suficiente para escapar das chamas. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &5Resiliência à Lava&r:\\nConseguimos ficar na &4Lava&r sem tomar dano por um período de tempo, que se recarrega lentamente assim que saímos dela. Quanto mais confiamos no &5Crânio de Obsidiana&r, mais rápido nos movemos quanto mais tempo passamos na &4Lava&r, sofrendo menos dano o tempo todo, e nunca mais tomamos dano de queda ao cair direto nela. \\n\\n- Um &6Artefato&r para quem trata a Lava como um banho morno."]
+	quest.4933CF4675E77D50.quest_subtitle: "Resistência ao fogo no cinto"
 	quest.4933CF4675E77D50.title: "&5Crânio de Obsidiana&r"
-	quest.4A7AEBEB87CEC274.quest_desc: ["Não acredito que tenho permissão para usar uma marca específica de &cTênis de Corrida&r, então use sua imaginação para saber quais são. \\n\\n&cTênis de Corrida&r lhe darão um Impulso de Velocidade ao Correr, então você será ainda mais rápido ao Correr! Também lhe dá pulo automático ao Correr..."]
-	quest.4A7AEBEB87CEC274.quest_subtitle: "Pés"
+	quest.4A7AEBEB87CEC274.quest_desc: [" Não acreditamos que temos permissão para usar uma marca específica de &cTênis de Corrida&r, então usem a imaginação para saber quais são. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &bAceleração&r:\\nQuanto mais tempo seguimos Correndo em linha reta, mais rápido ficamos, até um teto — parar de se mover faz o bônus desaparecer aos poucos. Se persistirmos até a velocidade máxima, pular enquanto corremos acelera esse ganho, nossa altura de passo ao Correr também aumenta, e atingir a velocidade máxima pode até nos conceder um momento de &eImortalidade&r. \\n\\n- Também nos dá pulo automático ao Correr. \\n\\n- Um &6Artefato&r para quem nunca para de correr depois que começa."]
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Velocidade crescendo em nossos pés"
 	quest.4A7AEBEB87CEC274.title: "&cTênis de Corrida&r"
-	quest.4D3379D38237F830.quest_desc: ["Enquanto estiver usando &bestas&r nos seus Pés, você pode realizar um milagre! Andar sobre a &9Água&r! \\n\\nBem, na verdade, correr sobre a &9Água&r, você tem que estar Correndo para conseguir correr sobre a &9Água&r. Quando você parar de Correr, começará a Afundar."]
-	quest.4D3379D38237F830.quest_subtitle: "Pés"
-	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
-	quest.5040B3D29F238BC0.quest_desc: ["Coelhinho, pula. Coelhinho, pula. Coelhinho, pula.\\n\\nCom &dSaltadores de Coelho&r nos pés, você pode pular o dobro da altura e sofrer metade do dano de queda usual! Não te torna invencível a Dano de Queda, você ainda pode morrer, só é mais difícil."]
-	quest.5040B3D29F238BC0.quest_subtitle: "Pés"
+	quest.4D3379D38237F830.quest_desc: [" Usando estes nos pés, conseguimos realizar um pequeno milagre: andar sobre a &9Água&r! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &bCorrida na Água&r:\\nEnquanto estivermos Correndo, os &bCorredores Aquáticos&r mantêm a superfície da água sólida sob nossos pés — nossos primeiros passos sobre ela são um pouco mais lentos, mas nosso ritmo volta ao normal em poucos segundos. Parar de Correr e começamos a Afundar. Quanto mais corremos sobre a água com eles, menos precisamos Correr para nos manter em pé, nossos pulos na superfície ficam mais altos, e projéteis podem simplesmente atravessar por nós enquanto atravessamos correndo. \\n\\n- Um &6Artefato&r para quem nunca aprendeu a nadar, só a correr."]
+	quest.4D3379D38237F830.quest_subtitle: "Correndo na água, em nossos pés"
+	quest.4D3379D38237F830.title: "&bCorredores Aquáticos&r"
+	quest.5040B3D29F238BC0.quest_desc: [" Coelhinho, pula. Coelhinho, pula. Coelhinho, pula. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &dPulo do Coelhinho&r:\\nSegurar a tecla de pulo com os &dSaltadores de Coelho&r nos lança em um salto mais longo e alto, e qualquer queda depois dói menos do que deveria. Quanto mais alto subimos antes de cair, mais forte nosso próximo golpe pode acertar, aterrissar depois de um salto grande pode empurrar inimigos próximos para trás, e eventualmente paramos de tomar &7dano de queda&r desses saltos por completo. \\n\\n- Não nos torna invencíveis ao Dano de Queda no geral, ainda podemos morrer numa queda ruim, só fica mais difícil. \\n\\n- Um &6Artefato&r para quem prefere quicar a caminhar."]
+	quest.5040B3D29F238BC0.quest_subtitle: "Pulos mais altos em nossos pés"
 	quest.5040B3D29F238BC0.title: "&dSaltadores de Coelho&r"
-	quest.50A32AC6EDBC5854.quest_desc: ["Comida por si só pode ser bem chata, mas fica muito melhor quando você tem um acompanhamento com seu prato! Mais especificamente, um (a) &6Anel de Cebola&r!\\n\\nAo usar o &6Anel de Cebola&r, tudo que você comer lhe dará um leve efeito de Pressa."]
-	quest.50A32AC6EDBC5854.quest_subtitle: "Mãos"
+	quest.50A32AC6EDBC5854.quest_desc: [" Comida sozinha pode ficar meio chata, mas fica bem melhor com um acompanhamento. Mais especificamente, algum &6Anel de Cebola&r! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &6Broca Faminta&r:\\nNossa velocidade de mineração aumenta a cada ponto de &6Saturação&r que carregamos, então quanto mais alimentados estamos, mais rápido os blocos quebram. Comer nos dá um impulso extra de velocidade logo depois, ficar bem saciado o suficiente pode até destruir blocos instantaneamente, e de vez em quando um bloco minerado ainda devolve um ponto de &6Fome&r. \\n\\n- Um &6Artefato&r para quem mina melhor de estômago cheio."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Fome que move nossas mãos"
 	quest.50A32AC6EDBC5854.title: "&6Anel de Cebola&r"
-	quest.589F1D502F680075.quest_desc: ["Perfeito para Festas na Piscina! \\n\\nAlém de parecer fofo e engraçado, o &dFlamingo de Hélio&r permite que você nade no Ar. Sim, você me ouviu! Nadar... no... Ar... \\n\\nQuando no Ar, como ao pular, você pode pressionar CTRL para começar a Nadar no Ar. Você pode se mover como na Água: Nadar para cima, Nadar para baixo, Nadar por toda parte!"]
-	quest.589F1D502F680075.quest_subtitle: "Cinto"
+	quest.589F1D502F680075.quest_desc: [" Perfeito para festas na piscina! Além de parecer fofo e engraçado, o &dFlamingo de Hélio&r nos deixa nadar através do próprio Ar. Sim, é isso mesmo, nadar... no... Ar... \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &dNado Aéreo&r:\\nDamos um pulo duplo e conseguimos pairar livremente por um tempo, nos movendo exatamente como faríamos na &9Água&r — para cima, para baixo, para todo lado — antes de precisar recarregar. Quanto mais pairamos, mais seguro e forte ele nos deixa: &cdano&r reduzido enquanto no ar, golpes à distância mais fortes lá de cima, e eventualmente mal nos mexermos não gasta tempo de voo nenhum. \\n\\n- Um &6Artefato&r para quem prefere flutuar a cair."]
+	quest.589F1D502F680075.quest_subtitle: "Flutuando no ar, do nosso cinto"
 	quest.589F1D502F680075.title: "&dFlamingo de Hélio&r"
-	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r é um Mod maravilhoso que adiciona &l&3Artefatos&r que tornarão sua experiência no Minecraft muito mais fácil e divertida!\\n\\nTodos os &l&3Artefatos&r podem ser encontrados explorando, em arqueologia ou matando Mímicos!\\n\\nMímicos são encontrados em Acampamentos subterrâneos, parecendo Baús normais! Mas assim que você chegar muito perto, eles atacarão!"]
-	quest.5CE44C58A470E48E.title: "&l&3Artefatos"
-	quest.5DE7C4FD5FA29236.quest_desc: ["Você não odeia quando está prestes a matar um Enderman e ele se teleporta? Bem, você não odeia, você ama! Você só está com raiva porque tem inveja! Você quer isso! \\n\\nE com o &5Cinto de Chorus&r você pode conseguir! Você se teleportará de um golpe que o mataria."]
-	quest.5DE7C4FD5FA29236.quest_subtitle: "Cinto"
-	quest.5DE7C4FD5FA29236.title: "&5Cinto de Chorus&r"
-	quest.5EB7CE3A1DCD3E9B.quest_desc: ["É um &cÍmã&r."]
-	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Cinto"
+	quest.5CE44C58A470E48E.quest_desc: [" &l&3Artifacts&r é um mod maravilhoso que nos dá dezenas de &l&3Artefatos&r únicos para tornar nossa jornada no Minecraft mais fácil e muito mais divertida! \\n\\n Com o addon &l&3Reliquified Artifacts&r, cada um desses &l&3Artefatos&r também cresce junto conosco: podemos evoluir suas Habilidades na &6Janela de Pesquisa&r (Segure Shift no item) usando &eExperiência de Relíquia&r que ganhamos só de usá-los, desbloqueando efeitos mais fortes e até Sinergias entre itens quanto mais jogamos. \\n\\n Podemos encontrar todos os nossos &l&3Artefatos&r explorando, fazendo arqueologia ou matando Mímicos! Mímicos se escondem em Acampamentos subterrâneos, parecendo Baús comuns, até chegarmos perto demais e eles atacarem."]
+	quest.5CE44C58A470E48E.title: "&l&3Artefatos&r"
+	quest.5DE7C4FD5FA29236.quest_desc: [" Não odiamos todos quando estamos prestes a dar o golpe final num &5Enderman&r e ele se teleporta para longe? Bom, nós não odiamos, nós amamos, só ficamos um pouco com inveja de não conseguirmos fazer o mesmo. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &dFlor de Coro&r:\\nQuando um golpe seria capaz de nos matar, o &dTotem do Coro&r entra em ação primeiro, nos teletransportando para um lugar seguro por perto e depois entrando em um tempo de recarga antes de poder ativar de novo. Quanto mais dependemos dele, mais generoso fica o resgate: nossa &ccura&r funciona melhor logo depois, tudo por perto perde nossa visão por um instante, e podemos até sumir de vista completamente assim que chegamos. \\n\\n- Um &6Artefato&r para quem prefere trapacear a morte a aceitá-la."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "Uma última fuga em nosso cinto"
+	quest.5DE7C4FD5FA29236.title: "&dTotem do Coro&r"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: [" É um &cÍmã&r. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &cPolaridade&r:\\nAlternamos o &cAtraidor Universal&r entre Puxar e Empurrar, e todo item por perto ou corre até nós ou se espalha para longe. Com tempo suficiente de uso, o modo Puxar passa a atrair também Orbes de &eExperiência&r soltos, e o modo Empurrar consegue derrubar projéteis hostis do ar. \\n\\n- Um &6Artefato&r para quem prefere nunca perder o saque de vista."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Saque puxado para o cinto"
 	quest.5EB7CE3A1DCD3E9B.title: "&cAtraidor Universal&r"
-	quest.5F5E43B3F51CAE9E.quest_desc: ["'Eles são magicamente deliciosos!' \\n\\nO &aChapéu Supersticioso&r concede a você um nível extra de Pilhagem para os Mobs que você matar! \\n\\nEle acumula com Encantamentos!"]
-	quest.5F5E43B3F51CAE9E.quest_subtitle: "Cabeça"
-	quest.5F5E43B3F51CAE9E.title: "&aChapéu Supersticioso"
-	quest.5FD6A738754F6013.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
-	quest.623796B1D7981E59.quest_desc: ["'Experimente também Terraria!'\\n\\nQuando equipado, você ganhará 5 corações extras! Ou 10 pontos inteiros de Vida! Somando um total padrão de 30 de Vida."]
-	quest.623796B1D7981E59.quest_subtitle: "Cinto"
+	quest.5F5E43B3F51CAE9E.quest_desc: [" 'Eles são magicamente deliciosos!' \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &aTroféu Supersticioso&r:\\nCada abate que fazemos tem chance de aplicar um nível extra de &2Pilhagem&r além do que já carregamos, e ele acumula com Encantamentos. Se mantivermos a sequência, abates seguidos em pouco tempo aumentam ainda mais essas chances, animais recebem um bônus fixo à parte, e o primeiro abate depois de uma pausa sempre vem um pouco mais sortudo. \\n\\n- Um &6Artefato&r para quem acredita que o &6Chapéu Supersticioso&r é mesmo de sorte."]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Sorte montada na nossa cabeça"
+	quest.5F5E43B3F51CAE9E.title: "&aChapéu Supersticioso&r"
+	quest.5FD6A738754F6013.quest_desc: ["Esta missão foi escrita pela equipe &6AllTheMods&r, ou por um &2contribuidor da comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta missão não tem permissão para ser usada em quaisquer pacotes públicos não lançados pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
+	quest.623796B1D7981E59.quest_desc: [" 'Também experimentem Terraria!' \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &4Reserva de Cristal&r:\\nUsar o &4Coração de Cristal&r nos concede &cVida&r máxima extra — 5 corações extras, 10 pontos inteiros, chegando a 30 de Vida por padrão. Se nossa Vida atual cair abaixo desse bônus, ele desaparece e entra em tempo de recarga antes de voltar. Quanto mais dependemos dele, estar com a &cVida&r cheia reduz o dano recebido, curar abaixo do limite do bônus funciona melhor, e um golpe devastador pode nos conceder um momento de &eImortalidade&r.\\n\\n- Um &6Artefato&r para quem prefere mais Vida a mais desculpas."]
+	quest.623796B1D7981E59.quest_subtitle: "Corações extras no cinto"
 	quest.623796B1D7981E59.title: "&4Coração de Cristal&r"
-	quest.62622137648A4F56.quest_desc: ["Você não odeia ter que Minerar e depois Fundir seus Minérios com dois Itens diferentes? Bem, agora você pode ser mais preguiçoso do que nunca com o &7Aquecedor de Picareta&r!\\n\\nEnquanto estiver usando o &7Aquecedor de Picareta&r, os Minérios que você minerou serão automaticamente Fundidos!\\n\\Pode ser bom ter cuidado com isso se você quiser Processamento de Minério."]
-	quest.62622137648A4F56.quest_subtitle: "Mãos"
+	quest.62622137648A4F56.quest_desc: [" Não odiamos todos ter que Minerar um Minério e depois Fundi-lo separadamente? Com o &7Aquecedor de Picareta&r, podemos ser mais preguiçosos do que nunca. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &7Processamento Térmico&r:\\nMinérios que minerarmos têm chance de se fundir sozinhos no instante em que os quebramos. Se essa chance falhar, ela só aumenta para o próximo bloco, nossos ataques de picareta podem &cincendiar&r o que atingirmos, e de vez em quando a fundição ainda carrega um nível extra de &6Fortuna&r junto. \\n\\n- Convém ter cuidado com ele se estivermos indo atrás de um Processamento de Minério. \\n\\n- Um &6Artefato&r para quem mina e funde no mesmo golpe."]
+	quest.62622137648A4F56.quest_subtitle: "Fundição direto das mãos"
 	quest.62622137648A4F56.title: "&7Aquecedor de Picareta&r"
-	quest.6A452BFC8A967C39.quest_desc: ["Usar estas &aGarras&r simplesmente faz você se sentir de uma certa maneira. Adrenalina bombeando, pensamentos cessando, força aumentando como nenhuma outra! \\n\\nCom &aGarras Ferais&r você atacará muito mais rápido com suas Armas ou Punhos."]
-	quest.6A452BFC8A967C39.quest_subtitle: "Mãos"
+	quest.6A452BFC8A967C39.quest_desc: [" Usar estas &aGarras&r simplesmente nos faz sentir de um jeito diferente. Adrenalina bombeando, pensamentos cessando, força aumentando como nenhuma outra. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &aFrenesi Predatório&r:\\nAtacar em sequência rápida com as &aGarras Ferais&r acumula cargas que aceleram ainda mais nossos próximos ataques, até um limite. Uma pausa longa demais entre golpes começa a desfazer as cargas, mas tomar &cdano&r reinicia esse relógio, nos dando mais tempo para manter a fúria viva. \\n\\n- Um &6Artefato&r para quem luta cada vez mais rápido quanto mais a luta se estende."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Fúria crescendo em nossas mãos"
 	quest.6A452BFC8A967C39.title: "&aGarras Ferais&r"
-	quest.6FBE5B5D5027B32C.quest_desc: ["Usar este &7Chapéu&r faz seus bichos correrem como o vento! \\n\\nE é bem bonito também."]
-	quest.6FBE5B5D5027B32C.quest_subtitle: "Cabeça"
-	quest.6FBE5B5D5027B32C.title: "&7Chapéu de Cowboy"
-	quest.70C7D92844089DEB.quest_desc: ["Como os outros Pingentes, este tem a chance de ferir seu atacante, só que com Raios! \\n\\nTambém faz com que, se você tiver a (falta de) sorte de ser atingido por um Raio, ele não te machuque."]
-	quest.70C7D92844089DEB.quest_subtitle: "Colar"
-	quest.70C7D92844089DEB.title: "&bPingente de Choque (Shock Pendant)&r"
-	quest.7188DC06A28AE30E.quest_desc: ["Usar este &eGancho Dourado&r aumentará o seu rendimento de experiência de inimigos derrotados!"]
-	quest.7188DC06A28AE30E.quest_subtitle: "Mãos"
+	quest.6FBE5B5D5027B32C.quest_desc: [" Usar este &7Chapéu&r faz nossos bichos correrem como o vento. E é bem bonito também. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &7Sela do Mestre&r:\\nQualquer montaria que cavalgamos ganha um aumento direto em seus atributos enquanto usamos o &7Chapéu de Cowboy&r. Quanto mais tempo passamos na sela, mais ele compensa: alcance extra de ataque e interação com blocos enquanto montados, um pouco de &bAbsorção&r só por cavalgar e, eventualmente, toda montaria que domamos se acalma instantaneamente. \\n\\n- Um &6Artefato&r para quem prefere cavalgar a correr."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Cavalgadas melhores na nossa cabeça"
+	quest.6FBE5B5D5027B32C.title: "&7Chapéu de Cowboy&r"
+	quest.70C7D92844089DEB.quest_desc: [" Como os outros Pingentes, este tem chance de ferir quem nos machuca primeiro, só que com &bRaios&r desta vez. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &bCorrente Elétrica&r:\\nTomar dano tem chance de disparar um choque de eletricidade que salta entre alvos próximos, ferindo cada um que toca. Quanto mais dependemos do &bPingente de Choque&r, mais forte esse choque atinge na &9Água&r ou na Chuva, e ele também nos torna imunes a serem atingidos por &bRaios&r de verdade. \\n\\n- Um &6Artefato&r para quem prefere responder a um golpe com uma fagulha própria."]
+	quest.70C7D92844089DEB.quest_subtitle: "Raios enrolados em nosso pescoço"
+	quest.70C7D92844089DEB.title: "&bPingente de Choque&r"
+	quest.7188DC06A28AE30E.quest_desc: [" Usar este &eGancho Dourado&r aumenta a quantidade de &eExperiência&r que ganhamos em cada abate. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &eGancho do Saqueador&r:\\nCada abate nos dá mais &eExperiência&r que o normal. Quanto mais dependemos dele, Orbes de Experiência próximos começam a vir sozinhos até nós, atacar puxa outras criaturas um pouco para perto da luta, e de vez em quando ele consegue até derrubar a arma da mão de um inimigo. \\n\\n- Um &6Artefato&r para quem nunca deixa um ponto de Experiência se perder."]
+	quest.7188DC06A28AE30E.quest_subtitle: "Mais experiência em nossas mãos"
 	quest.7188DC06A28AE30E.title: "&eGancho Dourado&r"
-	quest.72D6265E35814927.quest_desc: ["A maioria dos jogos que possuem um sistema de Saúde e Dano, têm Quadros de Invencibilidade. Depois de sofrer Dano, você terá alguns Quadros de Invencibilidade para 1. Você não morrer instantaneamente por um ataque simples e 2. Dar tempo para você revidar. \\n\\nCom o &eColar da Cruz&r você ganha mais alguns Quadros de Invencibilidade. O que significa mais algumas chances de revidar!"]
-	quest.72D6265E35814927.quest_subtitle: "Colar"
+	quest.72D6265E35814927.quest_desc: [" A maioria dos jogos com sistema de Vida e Dano nos dá Quadros de Invencibilidade depois de sermos atingidos, para não morrermos num instante e ganharmos a chance de revidar. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &eProteção Sagrada&r:\\nTomar dano enquanto usamos o &eColar da Cruz&r estende quanto tempo nossos Quadros de Invencibilidade duram. Quanto mais tempo o carregamos, mais ele protege os fiéis: Mortos-vivos que nos atacam pegam &cfogo&r, nosso dano contra eles aumenta, e de vez em quando um golpe que deveria nos matar simplesmente não mata. \\n\\n- Um &6Artefato&r que nos dá mais algumas chances de revidar."]
+	quest.72D6265E35814927.quest_subtitle: "Uma segunda chance no pescoço"
 	quest.72D6265E35814927.title: "&eColar da Cruz&r"
-	quest.73B73870B29DFAD9.quest_desc: ["Um de nós! Um de nós! \\n\\nO &eChapéu de Aldeão&r faz com que os Aldeões acreditem que você é da mesma Vila, então eles se livram do Imposto de Forasteiro. As trocas com Aldeões ficam mais baratas."]
-	quest.73B73870B29DFAD9.quest_subtitle: "Cabeça"
-	quest.73B73870B29DFAD9.title: "&eChapéu de Aldeão"
-	quest.73FC51144FC2DA52.quest_desc: ["Com esta &7Luva&r você roubará a vida de quaisquer inimigos que acertar!\\n\\nAh sim, desculpe, esqueci... bleh bleh blehhh!"]
-	quest.73FC51144FC2DA52.quest_subtitle: "Mãos"
+	quest.73B73870B29DFAD9.quest_desc: [" Um de nós! Um de nós! \\n\\n- &lPossui 2 Habilidades:&r\\n\\n 1. &eInstinto de Troca&r:\\nO &eChapéu de Aldeão&r nos faz parecer o bastante um dos moradores para os &aAldeões&r baixarem os preços conosco. Com tempo suficiente de uso, uma única troca pode render vários resultados de uma vez, e às vezes nem consome o estoque do Aldeão. \\n\\n 2. &eGuarda de Golem&r:\\n&7Golems de Ferro&r deixam de nos ver como ameaça e passam a ficar do nosso lado, e Golems por perto conseguem até absorver parte do dano dirigido a nós. \\n\\n- Um &6Artefato&r para quem prefere ser confiado a ser temido."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Rostos confiáveis na nossa cabeça"
+	quest.73B73870B29DFAD9.title: "&eChapéu de Aldeão&r"
+	quest.73FC51144FC2DA52.quest_desc: [" Com esta &7Luva&r roubamos a vida diretamente de qualquer inimigo que atingimos. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &7Bebedor de Sangue&r:\\nNossos ataques com a &7Luva Vampírica&r nos curam por uma parte do &cdano&r que causamos. Se mantivermos os golpes próximos uns dos outros, essa cura fica mais forte, terminar um alvo restaura uma parte da nossa &cVida&r máxima, e qualquer cura além do total pode virar &bAbsorção&r em vez de se perder. \\n\\n- Ah é, desculpa, esquecemos... bleh bleh blehhh! \\n\\n- Um &6Artefato&r para quem luta melhor alimentado pela Vida de outra pessoa."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Vida roubada por nossas mãos"
 	quest.73FC51144FC2DA52.title: "&7Luva Vampírica&r"
-	quest.74B352457BF1541B.quest_desc: ["Se você é como eu, ou qualquer pessoa sã, você despreza a Neve Fofa. Felizmente, o &l&3Artifacts&r nos dá uma ferramenta para lidar com isso! Raquetes de neve! \\n\\nAs Raquetes de Neve permitirão que você caminhe com segurança sobre a Neve Fofa, assim como as Botas de Couro. Você também receberá um impulso de Velocidade ao caminhar sobre qualquer Neve!"]
-	quest.74B352457BF1541B.quest_subtitle: "Pés"
-	quest.7503823ACDDB0491.quest_desc: ["Isto e o &aChapéu Supersticioso&r dão a você todos os amuletos da sorte de que precisa!\\nO &2Cachecol da Sorte&r dá a você um nível extra de Fortuna para suas Picaretas."]
-	quest.7503823ACDDB0491.quest_subtitle: "Cachecol (Colar)"
+	quest.74B352457BF1541B.quest_desc: [" Se somos como a maioria das pessoas sãs, detestamos Neve Fofa. Felizmente, o &l&3Artifacts&r nos dá uma ferramenta para lidar com isso: as Raquetes de Neve! \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &fPasso na Neve&r:\\nNossa velocidade de movimento aumenta sobre a &bNeve&r enquanto usamos as &fRaquetes de Neve&r, e ficar nela tempo suficiente mantém esse bônus por alguns segundos mesmo depois de sairmos. Com tempo suficiente usando as &fRaquetes de Neve&r, também ficamos imunes ao Congelamento e conseguimos caminhar com segurança sobre a &bNeve Fofa&r, assim como as Botas de Couro permitem. \\n\\n- Um &6Artefato&r para quem nunca quer que o inverno o atrase."]
+	quest.74B352457BF1541B.quest_subtitle: "Inverno domado pelos nossos pés"
+	quest.74B352457BF1541B.title: "&fRaquetes de Neve&r"
+	quest.7503823ACDDB0491.quest_desc: [" Este e o &aChapéu Supersticioso&r nos dão todos os amuletos da sorte de que poderíamos precisar. O &2Cachecol da Sorte&r nos dá um nível extra de &6Fortuna&r nas nossas Picaretas. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &2Veio Sortudo&r:\\nMinerar Minérios e outros blocos sensíveis à Fortuna tem chance de aplicar um nível extra de &6Fortuna&r além do que já carregamos. Enquanto nossa sorte segurar, minerar um bloco sem bônus aumenta discretamente nossas chances para o próximo, e minerar perto de blocos do mesmo tipo aumenta essas chances ainda mais. \\n\\n- Um &6Artefato&r para quem confia mais num cachecol do que numa ferradura."]
+	quest.7503823ACDDB0491.quest_subtitle: "Fortuna enrolada em nosso pescoço"
 	quest.7503823ACDDB0491.title: "&2Cachecol da Sorte&r"
 	quest.789AF6D0A6321945.quest_desc: [
 		"O mais importante! O mais poderoso! O mais perigoso &l&3Artefato&r de todos!"
 		"{@pagebreak}"
-		"Não tenho certeza se devo explicar o que ele faz, é perigoso demais!"
+		"Sinceramente, nem temos certeza se deveríamos explicar o que ele faz, é tão perigoso assim!"
 		"{@pagebreak}"
-		"Se você tem tanta certeza de que pode lidar com seu poder, talvez continue lendo..."
+		"Se temos tanta certeza de que aguentamos o poder dele, talvez devêssemos continuar lendo..."
 		"{@pagebreak}"
-		"Ainda não é tarde para voltar atrás!"
+		"Ainda não é tarde demais para voltar atrás!"
 		"{@pagebreak}"
-		"Ok, eu avisei..."
+		"Certo, nós nos avisamos..."
 		"{@pagebreak}"
-		"Pressione Shift para ter uma chance de Soltar um Pum quando a &dAlmofada de Pum (Whoopie Cushion)&r estiver equipada."
+		" Pressione Shift para uma chance de Soltar um Pum quando a &dAlmofada de Pum&r estiver equipada. \\n\\n- &lPossui 1 Habilidade:&r\\n\\n &dRajada de Gás&r:\\nAgachar nos dá uma chance de soltar seu som característico e empurrar tudo ao nosso redor para longe, entrando depois num tempo de recarga. Quanto mais confiamos nela, tomar um golpe pode disparar a mesma Rajada de Gás como retaliação, algumas explosões deixam alvos próximos &7paralisados&r, e de vez em quando uma nuvem residual fica no ar, &2envenenando&r e enjoando tudo que passar por ela. \\n\\n- Um &6Artefato&r para quem leva a própria comédia muito a sério."
 	]
-	quest.789AF6D0A6321945.quest_subtitle: "Único"
-	quest.789AF6D0A6321945.title: "&dAlmofada de Pum (Whoopie Cushion)&r"
+	quest.789AF6D0A6321945.quest_subtitle: "Caos que carregamos conosco"
+	quest.789AF6D0A6321945.title: "&dAlmofada de Pum&r"
 	task.376652638B9221C9.title: "TodosOsDireitosReservados"
 	task.68DC39876E14FC1B.title: "Mate 1 Mímico"
 	task.72E89066290E3040.title: "TodosOsDireitosReservados"
