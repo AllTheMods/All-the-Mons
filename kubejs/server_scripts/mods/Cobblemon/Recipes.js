@@ -17,6 +17,9 @@ ServerEvents.recipes(allthemods => {
         'cobblemon:sweet_apple',
         '#c:maple_syrup'
     ])
+
+    allthemods.shapeless('pkgbadges:the_earth_badge', ['pkgbadges:the_rising_badge'])
+        .id('allthemons:rising_badge_to_indigo')
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
