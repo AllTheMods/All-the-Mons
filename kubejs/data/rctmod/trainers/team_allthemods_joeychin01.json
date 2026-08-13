@@ -21,7 +21,7 @@
     {
       "species": "charizard",
       "gender": "MALE",
-      "level": 100,
+      "level": 90,
       "nature": "timid",
       "ability": "solarpower",
       "moveset": [
@@ -51,7 +51,7 @@
     {
       "species": "fluttermane",
       "gender": "GENDERLESS",
-      "level": 100,
+      "level": 90,
       "nature": "timid",
       "ability": "protosynthesis",
       "moveset": [
@@ -80,7 +80,7 @@
     {
       "species": "rillaboom",
       "gender": "MALE",
-      "level": 100,
+      "level": 90,
       "nature": "adamant",
       "ability": "grassysurge",
       "moveset": [
@@ -109,7 +109,7 @@
     {
       "species": "ragingbolt",
       "gender": "GENDERLESS",
-      "level": 100,
+      "level": 90,
       "nature": "modest",
       "ability": "protosynthesis",
       "moveset": [
@@ -141,7 +141,7 @@
       "aspects": [
         "hearthflame-mask"
       ],
-      "level": 100,
+      "level": 90,
       "nature": "jolly",
       "ability": "moldbreaker",
       "moveset": [
@@ -170,7 +170,7 @@
     {
       "species": "greattusk",
       "gender": "GENDERLESS",
-      "level": 100,
+      "level": 90,
       "nature": "adamant",
       "ability": "protosynthesis",
       "moveset": [
