@@ -1,3 +1,6 @@
+let isOwnedPokemon = e => e.type == "cobblemon:pokemon" && e.getOwner() != null
+let isOwnedPokemonVolcanion = e => e.type == "cobblemon:pokemon" && e.getOwner() != null && e.pokemon.species.resourceIdentifier == "cobblemon:volcanion"
+
 ServerEvents.recipes(event => {
   event.recipes.kubejs.shaped("summoningrituals:altar",["CSC","CEC","UTV"],{
     "C": "#minecraft:candles",
@@ -31,7 +34,7 @@ ServerEvents.recipes(event => {
       return pattern
     })
     .fakeEntityInputs(
-      SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:charizard","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.pika_star_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore1"}','{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore2"}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)
+      SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:charizard","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.pika_star_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore1"}','{"color":"gray","translate":"kubejs.atm.sr.pika_star_req_lore2"}']]`, 6, isOwnedPokemon)
     )
     .displayOutputs([
       "allthemons:pika_star[allthemons:region='kantonian']",
@@ -205,7 +208,7 @@ ServerEvents.recipes(event => {
         .entityInputZone([5, 3, 5])
         .ticks(240)
         .fakeEntityInputs(
-            SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:meltan","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.melmetal_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.melmetal_req_lore1"}']]`, 6, e => e.type == "cobblemon:pokemon" && e.getOwner() != null)
+            SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:meltan","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.melmetal_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.melmetal_req_lore1"}']]`, 6, isOwnedPokemon)
         )
         .displayOutputs([
             `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:melmetal","aspects":[]}]`
@@ -346,7 +349,7 @@ ServerEvents.recipes(event => {
         .entityInputZone([5, 3, 5])
         .ticks(300)
         .fakeEntityInputs(
-            SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:volcanion","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.magearna_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.magearna_req_lore1"}']]`, 1, e => e.type == "cobblemon:pokemon" && e.getOwner() != null && e.pokemon.species.resourceIdentifier == "cobblemon:volcanion")
+            SummoningEntity.fakeInput(`cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:volcanion","aspects":[]},custom_name='{"color":"gold","translate":"kubejs.atm.sr.magearna_req_name"}',lore=['{"color":"gray","translate":"kubejs.atm.sr.magearna_req_lore1"}']]`, 1, isOwnedPokemonVolcanion)
         )
         .displayOutputs([
             `cobblemon:pokemon_model[cobblemon:pokemon_item={"species":"cobblemon:magearna","aspects":[]}]`
