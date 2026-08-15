@@ -121,7 +121,7 @@
 	quest.31BCE63F5E016323.title: "Pressão do Sol"
 	quest.325483DEB0C602F8.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
 	quest.32C3E14578D48E6C.quest_desc: ["Assim como os &3Tubos de Pressão&r normais, só que estes podem suportar 10 bars de pressão."]
-	quest.32C3E14578D48E6C.quest_subtitle: "Upgraded Pressure Tubes"
+	quest.32C3E14578D48E6C.quest_subtitle: "Tubos de Pressão Aprimorados"
 	quest.3334D15766A47A46.quest_desc: ["Usando um Programa de Montagem a Laser, você pode acelerar a produção de &3PCBs Não Montadas&r. Basta colocar um PCB Vazio no baú de entrada, bombear um pouco de pressão e esperar."]
 	quest.3334D15766A47A46.title: "Automatizando PCBs"
 	quest.36D72D759C4E8823.quest_desc: ["Talvez um pouco rápido demais, até."]

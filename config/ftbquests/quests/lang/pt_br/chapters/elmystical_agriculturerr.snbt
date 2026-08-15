@@ -1,4 +1,15 @@
 {
+	image.034C649EE20294AF.title: "Regador de Prudêncio"
+	image.1F0A364BADB13992.title: "Regador de Imperita"
+	image.28A960CFB71983E8.title: "Melhoria de Máquina de Prudêncio"
+	image.4B43679A03EDC7EC.title: "Melhoria de Máquina de Suprêmio Despertado"
+	image.4E7D496AC47CA688.title: "Regador de Infério"
+	image.5BFB5D9A6C52233A.title: "Melhoria de Máquina de Imperita"
+	image.63E5C9CFE8D5EBD5.title: "Regador de Suprêmio"
+	image.6C54BAEFE11473AF.title: "Melhoria de Máquina de Tértio"
+	image.72BD8846784DD3FE.title: "Melhoria de Máquina de Infério"
+	image.79FFF8334B86A65A.title: "Regador de Tértio"
+	image.7EBCE0919B1656E2.title: "Estrutura de Máquina"
 	quest.01C169A7FA424F6E.quest_subtitle: "Nível: &a2"
 	quest.02D45E3FB37ED0AD.quest_subtitle: "Nível: &63"
 	quest.04A7AA70C23830FF.quest_desc: ["Foices, ferramentas que podem ser usadas para limpar grandes quantidades de materiais orgânicos. As foices quebram blocos em uma área ao redor do bloco que você minera."]
@@ -101,7 +112,7 @@
 	quest.2C9C9CB71941DC01.title: "&cTértio"
 	quest.2D0BA4183DCA2751.quest_subtitle: "Nível: &a2"
 	quest.2DDA04088C8220D2.quest_desc: ["Fragmentos de Prosperita são um ingrediente central de fabricação no mod. Para encontrar algum Minério de Prosperita, vá minerar."]
-	quest.2DDA04088C8220D2.quest_subtitle: "Podemos finalmente ter Prosperidade?"
+	quest.2DDA04088C8220D2.quest_subtitle: "Podemos finalmente ter Prosperita?"
 	quest.2DDA04088C8220D2.title: "&bFragmentos de Prosperita"
 	quest.2E37997A065A29F1.quest_subtitle: "Nível: &c5"
 	quest.2FA6B8A1C8713DE0.quest_desc: ["Para cultivar Sementes de Nível 6 ou Mágicas, você precisa ter um Crux específico colocado diretamente abaixo da Terra Arada em que elas estão crescendo."]

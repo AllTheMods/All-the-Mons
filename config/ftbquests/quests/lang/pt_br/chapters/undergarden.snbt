@@ -73,7 +73,7 @@
 		"&2Greater Dwellers&r surgem abaixo da Camada Y 0. Você precisará de uma &aPicareta de Esquecido&r ou &6Picareta de Allthemodium&r para minerar a Dreadrock no caminho. \\n\\n&2Greater Dwellers&r evoluíram de forma diferente dos membros menores de sua família, as Profundezas são perigosas, eles precisavam se tornar maiores e mais fortes! \\n\\nEles agora têm um tamanho maior com 100 Corações. Eles também serão Neutros em vez de Pacíficos. Como Piglins Zumbificados, se um for Atingido, todos Atacarão."
 		"{image:atm:textures/questpics/undergarden/undergarden_greater.png width:100 height:100 align:center}"
 	]
-	quest.1A23BBF444D17A63.title: "&2Greater Dweller"
+	quest.1A23BBF444D17A63.title: "&2Andarilho Maior"
 	quest.1BAE1519E44E40CE.quest_desc: [
 		"Imagine o Mar Ancião. Ok, agora remova todas as Algas dele e remova todos os &bGwibs&r e &bGwiblings&r. \\n\\nEsse é o Mar Morto para você!"
 		"{image:atm:textures/questpics/undergarden/undergarden_dead.png width:200 height:100 align:center}"
@@ -230,10 +230,10 @@
 	quest.6E7C8537D8A28833.title: "Profundezas"
 	quest.6F416275B6F6D8F0.quest_desc: ["Frutas Pustulentas surgem nas Torres de Poluição. \\n\\nPorque elas crescem em uma área tão nojenta, algumas virão Podres. \\n\\nEu não recomendo comê-las, talvez elas possam ser úteis para outra coisa!"]
 	quest.6F483B77D64F4EE2.quest_desc: [
-		"Abaixo da Camada Y 0 há dois Biomas, o Bosque de Rogdorium é um deles. \\n\\nPara chegar abaixo da Camada Y 0, você precisará minerar Dreadrock. Para minerar Dreadrock, você precisará de uma Picareta de Esquecido ou Picareta de Allthemodium. \\n\\nUm Bioma muito mais agradável em comparação com as Profundezas. Muito menos Monstros e muito mais vida vegetal! Agora com Árvores de Smogstem e muitas Flores."
+		"Abaixo da Camada Y 0 há dois Biomas, o Bosque de Rogdório é um deles. \\n\\nPara chegar abaixo da Camada Y 0, você precisará minerar Dreadrock. Para minerar Dreadrock, você precisará de uma Picareta de Esquecido ou Picareta de Allthemodium. \\n\\nUm Bioma muito mais agradável em comparação com as Profundezas. Muito menos Monstros e muito mais vida vegetal! Agora com Árvores de Smogstem e muitas Flores."
 		"{image:atm:textures/questpics/undergarden/undergarden_rogdorium.png width:200 height:100 align:center}"
 	]
-	quest.6F483B77D64F4EE2.title: "Bosque de Rogdorium"
+	quest.6F483B77D64F4EE2.title: "Bosque de Rogdório"
 	quest.70FD8856BFCD9AEE.quest_desc: [
 		"A maior e mais perigosa &cCriatura Putrefata&r. \\n\\nEles têm 80 Corações, o que eu acho que se qualifica como um Chefe. \\n\\nComo todas as &cCriaturas Putrefatas&r, eles atacarão &2Stoneborns&r e &7Esquecidos&r e deixarão cair &cFragmentos de Uthério&r."
 		"{image:atm:textures/questpics/undergarden/undergarden_rotbeast.png width:100 height:100 align:center}"
