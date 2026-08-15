@@ -3,7 +3,7 @@
 	quest.003AA945CACCD641.title: "&fAbelha das Profundezas"
 	quest.003FF3813A864BA1.quest_subtitle: "Alimente uma Abelha de Lava com um Balde de Matéria Estranha"
 	quest.003FF3813A864BA1.title: "&fAbelha de Matéria Estranha"
-	quest.0072C4F028C327CB.quest_subtitle: "Magmatic + Nomad"
+	quest.0072C4F028C327CB.quest_subtitle: "Magmática + Nômade"
 	quest.0072C4F028C327CB.title: "&fAbelha de Blaze"
 	quest.00A17728A387B426.quest_desc: ["Ninhos de Madeira são usados para atrair Abelhas Carpinteiras e a Abelha de Faixa Azul.\\n\\nNinhos de Carvalho Escuro atraem 3 abelhas diferentes.\\n\\nEstes podem ser colocados em qualquer Bioma da Superfície."]
 	quest.00A17728A387B426.quest_subtitle: "Pode ser usado em qualquer Bioma da Superfície"
@@ -174,10 +174,7 @@
 	quest.18F948FF9FE015FB.quest_subtitle: "Dê TNT a uma Abelha Vanilla"
 	quest.18F948FF9FE015FB.title: "&fAbelha Creeper"
 	quest.196E55B64667AE35.quest_desc: [
-		"Você pode colocar Flores em Lajes de Alimentação e determinados itens para a alimentação de cada tipo de Abelha, são colocadas na frente das Colmeias. "
-		""
-		"Como demonstrado na imagem abaixo.\\n"
-		""
+		"Você pode colocar Flores em Lajes de Alimentação e determinados itens para a alimentação de cada tipo de Abelha, são colocadas na frente das Colmeias. Como demonstrado na imagem abaixo.\\n"
 		"{image:atm:textures/questpics/bees/feeder.png width:175 height:100 align:center fit:true}"
 	]
 	quest.196E55B64667AE35.quest_subtitle: "Colocando uma Laje"
@@ -566,10 +563,7 @@
 	quest.75CD4EE6A542D687.title: "&fAbelha de Cobre"
 	quest.761D21C6FBD13EE1.quest_subtitle: "Alimente uma Abelha de Diamante com Peridoto"
 	quest.761D21C6FBD13EE1.title: "&fAbelha de Peridoto"
-	quest.76E94639E90FEB4E.quest_desc: [
-		"Coloque algumas &eColmeias Avançadas&r vazias em uma área não iluminada. \\n"
-		"As abelhas aparecerão com o tempo á noite."
-	]
+	quest.76E94639E90FEB4E.quest_desc: ["Coloque algumas &eColmeias Avançadas&r vazias em uma área não iluminada. As abelhas aparecerão com o tempo à noite."]
 	quest.76E94639E90FEB4E.quest_subtitle: "Colmeias, sozinhas e no escuro, revelam grandes surpresas!"
 	quest.76E94639E90FEB4E.title: "&fAbelha Esquelética"
 	quest.78CCD8075249E2B7.quest_subtitle: "Magmatic + Água"
@@ -626,7 +620,7 @@
 	task.09F5BBEBACBA280D.title: "&fNinho de &ePedra Luminosa"
 	task.0A77407CE9055F04.title: "Abelha de Suor"
 	task.0CDFF60D581118E3.title: "Abelha Cuco Neon"
-	task.0EF1CA8DED2FF38C.title: "Advanced Beehives"
+	task.0EF1CA8DED2FF38C.title: "Colmeias Avançadas"
 	task.0F2BCC279B5731AB.title: "Favo de Ametista"
 	task.10D83EFF8DF8830B.title: "&fLocalizador de &6Ninhos"
 	task.11931CBFE67ADBBB.title: "TodosOsDireitosReservados"

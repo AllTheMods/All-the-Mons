@@ -118,7 +118,7 @@
 	quest.2CF96A264EB5522C.quest_desc: [
 		"A &9Torre Invertida de Uphyxes&r é o nível máximo de &6Rituais de Infusão&r. Não tem tantos usos quanto os outros três níveis, mas ainda é necessária para o \"endgame\" do Occultism. "
 		""
-		"Principalmente, é usada para criar Pó de Dragonyst, que é o ingrediente principal do Giz Magenta."
+		"Principalmente, é usada para criar Pó de Dragonita, que é o ingrediente principal do Giz Magenta."
 	]
 	quest.2CF96A264EB5522C.quest_subtitle: "Infusão Máxima"
 	quest.2CF96A264EB5522C.title: "&9Torre Invertida de Uphyxes"
@@ -142,7 +142,7 @@
 		"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
 	]
 	quest.33106E24A3B5DDD8.title: "&cIésnio: Minério do Outro Mundo"
-	quest.3543563DF036D461.quest_desc: ["Para criar o Pó de Dragonyst, você precisará realizar a &9Torre Invertida de Uphyxes&r. No entanto, para criar o Giz Magenta, você também precisará de alguns materiais que só pode obter através do &9Marid Triturador&r."]
+	quest.3543563DF036D461.quest_desc: ["Para criar o Pó de Dragonita, você precisará realizar a &9Torre Invertida de Uphyxes&r. No entanto, para criar o Giz Magenta, você também precisará de alguns materiais que só pode obter através do &9Marid Triturador&r."]
 	quest.3543563DF036D461.title: "&#AD00C8Giz Magenta"
 	quest.367E891A50991436.quest_desc: ["Usando o &cConfinamento Permanente de Sevira&r, podemos combinar vários materiais diferentes de Wither e um pouco de Netherite para criar três Pó de Witherita. Com estes, podemos criar para nós mesmos a forma mais elevada de Giz de Fundação, o Giz Preto."]
 	quest.367E891A50991436.title: "Giz Preto"
@@ -254,11 +254,7 @@
 	]
 	quest.53DEA3DFEDC4809E.quest_subtitle: "É um Pássaro? É um Avião? Não, é um &9Marid&r desvinculado!"
 	quest.53DEA3DFEDC4809E.title: "&4Atração de Tibira"
-	quest.54378277B8D28B1D.quest_desc: [
-		"Uma \"melhoria\" para o &zGiz Arco-Íris&r, para aqueles que não gostam das runas de cores que mudam rapidamente arruinando sua estética meticulosamente criada."
-		""
-		"Tem a mesma função que o Giz de Arco-íris, exceto que todas as runas aparecerão em branco. Além disso, também funciona para o giz de fundação."
-	]
+	quest.54378277B8D28B1D.quest_desc: ["Uma \"alternativa\" ao &zGiz Arco-Íris&r, para quem prefere as cores do Giz de Fundação.\\n\\nTem a mesma função que o Giz Arco-Íris, exceto que todas as runas alternarão entre as cores do Giz de Fundação."]
 	quest.56EC79AF11B0869E.quest_desc: ["&9Xeovrenth Invocada&r é o nível máximo de &5Rituais de Possessão&r. Ele tem apenas dois usos: criar Essência da Crueldade, o principal ingrediente do Giz Marrom, e criar um Golem de Iésnio, que é basicamente um Golem de Ferro imortal e que causa mais dano."]
 	quest.56EC79AF11B0869E.quest_subtitle: "Possessão Máxima"
 	quest.56EC79AF11B0869E.title: "&9Xeovrenth Invocada"
@@ -337,9 +333,7 @@
 	quest.690B89D23134B624.quest_desc: [
 		"Pegue seus gizes, desenhe seu ritual &dContato de Ronaza&r, e prepare-se para criar o GIZ DEFINITIVO*!"
 		""
-		"Em vez de carregar um conjunto completo de 16 gizes, você pode usar o &zGiz de Arco-íris&r para pintar uma Runa que muda de cor e conta como qualquer um deles!"
-		""
-		"&8*Não inclui o Giz de Fundação. Fabrique o Giz do Vazio para incluí-los&r"
+		"Em vez de carregar um conjunto completo de 16 gizes, você pode usar o &zGiz de Arco-íris&r para pintar uma Runa que muda de cor e conta como qualquer um deles! \\n\\n&8*Não inclui o Giz de Fundação. Fabrique o Giz do Vazio para incluí-los&r"
 	]
 	quest.690B89D23134B624.title: "&zGiz de Arco-íris&r"
 	quest.6C1BBA559963B3DF.quest_desc: [
@@ -410,7 +404,7 @@
 	task.3621D48E2CFAF2C2.title: "Qualquer #c:wools"
 	task.3A9C5AE548810FA6.title: "Tigelas de sacrifício"
 	task.523951BF097BA61F.title: "Qualquer #c:dusts/emerald"
-	task.53DE943DF951696B.title: "Demon Miner"
+	task.53DE943DF951696B.title: "Minerador Demoníaco"
 	task.67C1DF1704EBF6AF.title: "Entendendo as Melhorias de Pentáculos"
 	task.6C3887D42B6B2122.title: "Familiares"
 }

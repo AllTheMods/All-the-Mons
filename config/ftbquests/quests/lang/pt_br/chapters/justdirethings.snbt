@@ -8,15 +8,15 @@
 	]
 	quest.0272E58516A0C284.quest_desc: [
 		"Melhorias Válidas:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"- Minerador"
+		"- Escaneador de Minérios &4&lDESATIVADO&r&f"
+		"- Cortador de Grama"
+		"- Limpa-Céus"
+		"- Lenhador"
+		"- Quebra-Folhas"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
 	]
 	quest.02B0CCD5607FF3B5.quest_desc: ["O acessador de jogador atua como um baú que interage com o inventário do jogador. Usando a GUI, os lados do acessador de jogador podem ser configurados para interagir com o inventário, mão secundária ou slots de armadura do jogador."]
 	quest.02B8F50721F12CFF.quest_desc: [
@@ -28,16 +28,16 @@
 	]
 	quest.03ED9B0DFE8B4574.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mind Fog"
-		"- Stupefy"
+		"- Névoa Mental"
+		"- Estupefaça"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidade Intrínseca:"
+		"- Reparo à Lava"
 	]
 	quest.04A1D582003A0D9A.quest_desc: [
 		"Melhorias Válidas:"
-		"- Run Speed"
-		"- Walk Speed"
+		"- Velocidade de Corrida"
+		"- Velocidade de Caminhada"
 	]
 	quest.05056CAA64E3971B.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -47,13 +47,13 @@
 		"Faz com que flechas disparadas pelo Arco apliquem um efeito de poção com base no seu Recipiente de Poção."
 	]
 	quest.05D8C6EF8FCD6250.quest_desc: [
-		"Geleia Primogel é o primeiro nível de geleia adicionado pelo JDT e requer materiais básicos do Superfície para ser criada."
+		"Gosma de Primogel é o primeiro nível de Gosma adicionado pelo JDT e requer materiais básicos do Superfície para ser criada."
 		""
 		"Criações Desbloqueadas:"
 		"- Ferricore"
 		"- Carvão Primal"
 		""
-		"Exemplo de Espalhamento de Geleia:"
+		"Exemplo de Propagação de Gosma:"
 		""
 		"{image:atm:textures/questpics/justdirethings/goo_spread_ferricore.png width:200 height:200 align:center}"
 	]
@@ -64,7 +64,7 @@
 		""
 		"Quebra grama e flores próximas quando ativado."
 	]
-	quest.079A415488A32076.quest_desc: ["Blaze Ember é um novo material adicionado pelo JDT. Blaze Ember é adquirido realizando a Disseminação de Geleia em Blocos de Carvão Primal usando geleia de nível dois ou superior. O Minério de Blaze Ember é afetado pela fortuna."]
+	quest.079A415488A32076.quest_desc: ["Brasa de Blaze é um novo material adicionado pelo JDT. Brasa de Blaze é adquirido realizando a Propagação de Gosma em Blocos de Carvão Primal usando Gosma de nível dois ou superior. O Minério de Brasa de Blaze é afetado pela fortuna."]
 	quest.09485B63483B7A15.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
 		""
@@ -72,24 +72,24 @@
 		""
 		"Faz com que mobs hostis próximos percam temporariamente o agro para o jogador, possui um tempo de recarga."
 	]
-	quest.09D2137B4F42006E.quest_desc: ["Eclipse Ember é um novo material adicionado pelo JDT. Eclipse Ember é adquirido realizando a Disseminação de Gosma em Blocos de Carvão Voidflame usando gosma de nível quatro. O Minério de Eclipse Ember é afetado por fortuna."]
+	quest.09D2137B4F42006E.quest_desc: ["Brasa de Eclipse é um novo material adicionado pelo JDT. Brasa de Eclipse é adquirido realizando a Propagação de Gosma em Blocos de Carvão Voidflama usando gosma de nível quatro. O Minério de Brasa de Eclipse é afetado por fortuna."]
 	quest.0A02DBE226C3F44E.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mind Fog"
-		"- Stupefy"
-		"- Night Vision"
-		"- Debuff Remover"
-		"- Mental Obliteration"
+		"- Névoa Mental"
+		"- Estupefaça"
+		"- Visão Noturna"
+		"- Removedor de Efeitos"
+		"- Obliteração Mental"
 	]
 	quest.0B485DB737A036E9.quest_desc: ["O Copiador de Configurações de Máquina permite que os jogadores copiem as configurações entre as máquinas."]
 	quest.0B9BBE2A764631BF.quest_desc: ["O trocador simples pode teletransportar itens, blocos, mobs ou jogadores acima dele para outro trocador simples ao qual está ligado. Para ligar os trocadores, use a chave Ferricore."]
 	quest.0C1D55AA9CC902BD.quest_desc: [
 		"Melhorias Válidas:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"- Cortador de Grama"
+		"- Limpa-Céus"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
 	]
 	quest.0C2EC56133D3CC6C.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
@@ -100,12 +100,12 @@
 	]
 	quest.0C9DD8E53A1B92C0.quest_desc: [
 		"Melhorias Válidas:"
-		"- Ore Miner"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- X-Ray"
-		"- Instant Break"
+		"- Minerador"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
+		"- Raio X"
+		"- Quebra Instantânea"
 	]
 	quest.0CBFE2CE53DCACD5.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -155,12 +155,12 @@
 	]
 	quest.176A1CC43467EF23.quest_desc: [
 		"Melhorias Válidas:"
-		"- Assistência de Passo"
+		"- Salto Automático"
 		"- Impulso de Salto"
-		"- Pisão no Chão"
+		"- Bate-Estaca"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparo com Lava"
+		"- Reparo à Lava"
 	]
 	quest.17A9D2CA160561D9.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -180,17 +180,17 @@
 		""
 		"&lFunção da Habilidade:&r"
 		""
-		"Uma versão atualizada do Scanner de Minério que renderiza minérios próximos quando ativado."
+		"Uma versão atualizada do Escaneador de Minérios que renderiza minérios próximos quando ativado."
 	]
 	quest.199388A311FAC14C.quest_desc: [
 		"Melhorias Válidas:"
-		"- Minerador de Minério"
-		"- Scanner de Minério &4&lDESATIVADO&r&f"
-		"- Forno Automático"
+		"- Minerador"
+		"- Escaneador de Minérios &4&lDESATIVADO&r&f"
+		"- Autofundição"
 		"- Martelo"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparo com Lava"
+		"- Reparo à Lava"
 	]
 	quest.19E6757F04098A0C.quest_desc: [
 		"Melhorias Válidas:"
@@ -202,20 +202,20 @@
 	quest.1CBA0D7DA0558EBC.quest_desc: [
 		"Melhorias Válidas:"
 		"- Invulnerabilidade"
-		"- Extinguir"
+		"- Extintor"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparo com Lava"
+		"- Reparo à Lava"
 	]
 	quest.1DAA5DD81EF96469.quest_desc: [
 		"Melhorias Válidas:"
-		"- Cortador de grama"
-		"- Sky Sweeper"
-		"- Forno Automático"
+		"- Cortador de Grama"
+		"- Limpa-Céus"
+		"- Autofundição"
 		"- Martelo"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparo com Lava"
+		"- Reparo à Lava"
 	]
 	quest.1E0C6409B2573CCA.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
@@ -228,17 +228,17 @@
 	quest.1ECFA72CF2BA4B45.quest_desc: ["Um ejetor simples e você pode configurar a quantidade ejetada de uma vez."]
 	quest.1FE7C52491E7499B.quest_desc: [
 		"Melhorias Válidas:"
-		"- Assistência de Subida"
+		"- Salto Automático"
 		"- Impulso de Salto"
-		"- Pisada no Chão"
-		"- Anular Dano de Queda"
+		"- Bate-Estaca"
+		"- Anula-Quedas"
 	]
 	quest.1FFA1DA6A5EA4E70.quest_desc: [
 		"Melhorias Válidas:"
-		"- Assistência de Subida"
+		"- Salto Automático"
 		"- Impulso de Salto"
-		"- Pisada no Chão"
-		"- Anular Dano de Queda"
+		"- Bate-Estaca"
+		"- Anula-Quedas"
 		"- Terremoto"
 	]
 	quest.200ECDC70E97D254.quest_desc: ["O Recipiente dessas Barras ustível é um tanque que pode encher recipientes com o fluido que contém.\\n\\nO Recipiente dessas Barras ustível tem três modos de enchimento:\\n\\n - Nenhum\\n - Qualquer\\n - Apenas Coisas Diretas"]
@@ -246,10 +246,10 @@
 		"Melhorias Válidas:"
 		"- Derrubador de Árvores"
 		"- Quebrador de Folhas"
-		"- Forno Automático"
+		"- Autofundição"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparo com Lava"
+		"- Reparo à Lava"
 	]
 	quest.237D11FF5B09BA88.quest_desc: [
 		"Habilidade Intrínseca:"
@@ -258,10 +258,10 @@
 		"- Crescimento Acelerado de Culturas III"
 		""
 		"Upgrade Válido:"
-		"- Teletransportador de Drops"
+		"- Teleporte de Itens"
 	]
 	quest.2409EAD96CE3BDF7.quest_desc: ["Os Moldes de Blazegold são usados para aprimorar armaduras e ferramentas de Ferricore para Blazegold, mantendo encantamentos e melhorias instaladas."]
-	quest.242F74010488F261.quest_desc: ["O Galão dessas Barras ustível é um item que permite um uso mais eficiente do combustível. Ele pode armazenar 50.000 de combustível, cada item queimável tem um valor de combustível diferente dependendo da quantidade de itens fundidos. Um combustível é suficiente para fundir um item."]
+	quest.242F74010488F261.quest_desc: ["O Recipiente de Combustível é um item que permite um uso mais eficiente do combustível. Ele pode armazenar 50.000 de combustível, cada item queimável tem um valor de combustível diferente dependendo da quantidade de itens fundidos. Um combustível é suficiente para fundir um item."]
 	quest.24BA4B4EED0A9DBD.quest_desc: [
 		"Melhorias Válidas:"
 		"- Névoa Mental"
@@ -281,7 +281,7 @@
 		""
 		"&lFunção da Habilidade:&r"
 		""
-		"Uma versão aprimorada do Scanner de Mobs que aplica o efeito Brilhando (Glowing) aos mobs próximos quando ativado."
+		"Uma versão aprimorada do Escaneador de Mobs que aplica o efeito Brilhando (Glowing) aos mobs próximos quando ativado."
 	]
 	quest.2875FACD3BFB0A8E.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
@@ -299,51 +299,51 @@
 	]
 	quest.2A919F73CB09CF8B.quest_desc: [
 		"Melhorias Válidas:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
-		"- Decoy"
-		"- Phase"
+		"- Velocidade de Corrida"
+		"- Velocidade de Caminhada"
+		"- Velocidade de Natação"
+		"- Isca"
+		"- Atravessa-Parede"
 	]
 	quest.2B1BAEC5DAAF9DAC.quest_desc: [
 		"Melhorias Válidas:"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Drops Teleporter"
+		"- Lenhador"
+		"- Quebra-Folhas"
+		"- Autofundição"
+		"- Teleporte de Itens"
 	]
 	quest.2D86D4403E0F4EB9.quest_desc: [
-		"Blazegold é um novo material adicionado pelo JDT. O Blazegold é adquirido realizando a Disseminação de Gosma em Blocos de Ouro usando gosma de nível dois ou superior. O Minério de Blazegold é afetado por fortuna."
+		"Blazegold é um novo material adicionado pelo JDT. O Blazegold é adquirido realizando a Propagação de Gosma em Blocos de Ouro usando gosma de nível dois ou superior. O Minério de Blazegold é afetado por fortuna."
 		""
-		"O Blazegold concede a habilidade intrínseca de Reparo com Lava a ferramentas e armaduras. O Reparo com Lava repara a ferramenta/armadura quando caída em um bloco de fonte de lava, convertendo o bloco de fonte em obsidiana em troca da reparação da ferramenta/armadura."
+		"O Blazegold concede a habilidade intrínseca de Reparo à Lava a ferramentas e armaduras. O Reparo à Lava repara a ferramenta/armadura quando caída em um bloco de fonte de lava, convertendo o bloco de fonte em obsidiana em troca da reparação da ferramenta/armadura."
 	]
 	quest.2D86D4403E0F4EB9.title: "Blazegold"
 	quest.2F86FB9E4D49E4B0.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mob Scanner"
+		"- Escaneador de Mobs"
 	]
 	quest.3138B83ABC2930F9.quest_desc: [
 		"Habilidade Intrínseca:"
-		"- Não Pisotear"
+		"- Sem Pisotear"
 		"- Colheita Automática"
 		"- Crescimento Acelerado de Culturas IV"
 		""
 		"Melhoria Válida:"
-		"- Teletransportador de Drops"
+		"- Teleporte de Itens"
 	]
 	quest.35A78E04092767AD.quest_desc: [
 		"Melhorias Válidas:"
 		"- Flecha de Poção"
-		"- Explosão"
-		"- Duradouro"
-		"- Flecha Guiada"
+		"- Arremessável"
+		"- Prolongado"
+		"- Flecha Teleguiada"
 	]
 	quest.37B903620493A354.quest_desc: [
 		"Melhorias Válidas:"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
-		"- Drops Teleporter"
-		"- Mob X-Ray"
+		"- Autodefumação"
+		"- Cauterizar Feridas"
+		"- Teleporte de Itens"
+		"- Raio X de Mobs"
 	]
 	quest.3971FF7D044D1FE5.quest_desc: ["As habilidades da armadura podem ser configuradas e ativadas/desativadas no menu de configuração. Use uma ferramenta ou varinha JDT para abrir o menu e clique em sua armadura para configurar as habilidades daquela peça de armadura."]
 	quest.3A471716A29F5172.quest_desc: [
@@ -389,7 +389,7 @@
 		""
 		"Faz com que as Flechas de Poção disparadas pelo Arco tenham um efeito de Explosão, atingindo múltiplos alvos em uma área."
 	]
-	quest.3D9964CB0440DD5A.quest_desc: ["Jogar Brasa de Blaze em Polymorphic Fluid criará Combustível de Brasa de Blaze Não Refinado. Realizar a Dispersão de Gosma com gosma de Tier Dois ou superior converterá o Combustível de Brasa de Blaze Não Refinado em Combustível de Brasa de Blaze."]
+	quest.3D9964CB0440DD5A.quest_desc: ["Jogar Brasa de Blaze em Fluido Polimórfico criará Combustível de Brasa de Blaze Bruto. Realizar a Dispersão de Gosma com gosma de Tier Dois ou superior converterá o Combustível de Brasa de Blaze Bruto em Combustível de Brasa de Blaze."]
 	quest.3F3559EF5D08B706.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
 		""
@@ -401,8 +401,8 @@
 	quest.41E8C93A44559E48.quest_desc: ["A &7Máquina do Paradoxo&r pode, por um preço alto de Poder e &aFluido do Tempo&r, tirar uma Snapshot de Blocos (especificamente minérios) e Entidades na área designada; depois, ela pode duplicá-los. \\n\\nFazer isso acumula &5Energia de Paradoxo&r na &7Máquina de Paradoxo&r e, quando estiver cheia, um &5Paradoxo&r ocorrerá. Ele consome blocos, itens e entidades próximos, crescendo de tamanho. Um &aCristal de Tempo&r pode ser lançado no &5Paradoxo&r para fechá-lo. \\n\\nMuitos Blocos e Entidades estão na lista negra por configurações, então nada de duplicar Abelhas!"]
 	quest.433117EEA55B6A54.quest_desc: ["Apenas um simples colocador de fluidos."]
 	quest.441F37A95AB66E6B.quest_desc: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods. \\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita. \\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
-	quest.4458F8829800A950.quest_desc: ["Polymorphic Fluid é a base de todos os Fluidos / Combustíveis no JDT. O Polymorphic Fluid é criado jogando Polymorphic Catalyst na água."]
-	quest.446A37C7FCDACF84.quest_desc: ["Voidflame Coal é um novo material adicionado por JDT. Voidflame é adquirido realizando a Propagação de Gosma em Blocos de Brasa de Blaze usando gosma de nível três ou superior. O Minério de Voidflame Coal é afetado por fortuna."]
+	quest.4458F8829800A950.quest_desc: ["Fluido Polimórfico é a base de todos os Fluidos / Combustíveis no JDT. O Fluido Polimórfico é criado jogando Catalisador Polimórfico na água."]
+	quest.446A37C7FCDACF84.quest_desc: ["Carvão de Voidflama é um novo material adicionado por JDT. Voidflama é adquirido realizando a Propagação de Gosma em Blocos de Brasa de Blaze usando gosma de nível três ou superior. O Minério de Carvão de Voidflama é afetado por fortuna."]
 	quest.454662617304E299.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
 		""
@@ -413,8 +413,8 @@
 	]
 	quest.454CA1F8CC198D9D.quest_desc: [
 		"Melhorias Válidas:"
-		"- Step Assist"
-		"- Jump Boost"
+		"- Salto Automático"
+		"- Impulso de Salto"
 	]
 	quest.45A25221F54A1DEC.quest_desc: ["A Ferricore Wrench permite ao jogador girar máquinas, mas também é usada para conectar trocadores."]
 	quest.45D683D7F1A32B04.quest_desc: [
@@ -426,12 +426,12 @@
 	]
 	quest.46E6B1600AA8A61E.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
+		"- Escaneador de Mobs"
+		"- Autodefumação"
+		"- Cauterizar Feridas"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidade Intrínseca:"
+		"- Reparo à Lava"
 	]
 	quest.46EE2F9818F8D1D9.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -454,7 +454,7 @@
 		""
 		"Previne os efeitos de lentidão e velocidade de serem aplicados enquanto você tiver Cristais do Tempo no seu inventário."
 	]
-	quest.49EF8A4346AEF582.quest_desc: ["Jogar Brasa do Eclipse em Combustível de Voidflame criará Combustível de Brasa do Eclipse Não Refinado. Realizar a Dispersão de Gosma com gosma de nível quatro converterá o Combustível de Brasa do Eclipse Não Refinado em Combustível de Brasa do Eclipse."]
+	quest.49EF8A4346AEF582.quest_desc: ["Jogar Brasa do Eclipse em Combustível de Voidflama criará Combustível de Brasa do Eclipse Bruto. Realizar a Dispersão de Gosma com gosma de nível quatro converterá o Combustível de Brasa do Eclipse Bruto em Combustível de Brasa do Eclipse."]
 	quest.4A5937F6E5D06BE1.quest_desc: ["Um gerador de combustível líquido simples que funciona com os combustíveis líquidos adicionados pelo JDT."]
 	quest.4ACB72F3A23A5A19.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -465,17 +465,17 @@
 	]
 	quest.4B1E4FC4599DB916.quest_desc: [
 		"Melhorias Válidas:"
-		"- Invulnerability"
-		"- Extinguish"
+		"- Invulnerabilidade"
+		"- Extintor"
 		"- Élitros"
 	]
 	quest.4B3F20E5C7E3BCFB.quest_desc: ["Carvão Primitivo é um novo material adicionado por JDT. O Carvão Primitivo é adquirido realizando a Propagação de Gosma em Blocos de Carvão usando gosma de nível um ou superior. O Minério de Carvão Primitivo é afetado por fortuna."]
 	quest.4C54BD57CAB8A54B.quest_desc: [
-		"Blazebloom Goo é o segundo nível de gosma adicionado por JDT e requer materiais do Nether para ser fabricado."
+		"Gosma de Blazebloom é o segundo nível de Gosma adicionado por JDT e requer materiais do Nether para ser fabricado."
 		""
 		"Fabricações Desbloqueadas:"
 		"- Blazegold"
-		"- Blaze Ember"
+		"- Brasa de Blaze"
 	]
 	quest.4D98D2123BD5BFB3.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -486,17 +486,17 @@
 	]
 	quest.4E03AE15BEF86178.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
-		"- Drops Teleporter"
+		"- Escaneador de Mobs"
+		"- Autodefumação"
+		"- Cauterizar Feridas"
+		"- Teleporte de Itens"
 	]
 	quest.4E9B35DCA018FD42.title: "Melhorias de Ferramentas"
 	quest.4F9932477EDDCB8E.quest_desc: ["A Pistola de Portal Avançada é a versão atualizada da Pistola de Portal que requer tanto energia quanto fluido de portal para operar. Ao contrário da Pistola de Portal, a Pistola de Portal Avançada permite ao jogador teletransportar-se entre locais que foram codificados. Usando \"V\" (atalho de teclado padrão), o menu usado para codificar e selecionar destinos para teletransporte."]
 	quest.5054977BD5354561.quest_desc: [
 		"Melhorias Válidas:"
-		"- Tree Feller"
-		"- Leaf Breaker"
+		"- Lenhador"
+		"- Quebra-Folhas"
 	]
 	quest.515C0527226BA50C.quest_desc: [
 		"&lTipo de Habilidade:&r Passiva"
@@ -508,7 +508,7 @@
 	quest.517F0135926B15EE.quest_desc: ["Todas as máquinas simples vêm com controle de redstone, e algumas vêm com filtragem."]
 	quest.52EC86E03EB50525.quest_desc: [
 		"Habilidade Intrínseca:"
-		"- Reparo por Lava"
+		"- Reparo à Lava"
 		"- Sem Pisotear"
 		"- Colheita Automática"
 		"- Crescimento Acelerado de Culturas II"
@@ -517,10 +517,10 @@
 	quest.567005978482235F.quest_desc: [
 		"Melhorias Válidas:"
 		"- Flecha de Poção"
-		"- Explosão"
+		"- Arremessável"
 		""
 		"Habilidade Intrínseca:"
-		"- Reparação de Lava"
+		"- Reparo à Lava"
 	]
 	quest.5961C1ED32522BEF.quest_desc: [
 		"&lTipo de Habilidade:&r Ativa"
@@ -531,22 +531,22 @@
 	]
 	quest.5A1AB1AD7DEFDD9A.quest_desc: [
 		"Melhorias Válidas:"
-		"- Invulnerability"
-		"- Extinguish"
+		"- Invulnerabilidade"
+		"- Extintor"
 		"- Élitros"
-		"- Death Protection"
-		"- Flight"
-		"- Lava Immunity"
+		"- Proteção Contra a Morte"
+		"- Voo"
+		"- Imunidade à Lava"
 		"- Proteção do Tempo"
 	]
 	quest.5A38E9F68570F7F3.quest_desc: [
 		"Melhorias Válidas:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
+		"- Velocidade de Corrida"
+		"- Velocidade de Caminhada"
+		"- Velocidade de Natação"
 		""
-		"Intrinsic Ability:"
-		"- Lava Ability"
+		"Habilidade Intrínseca:"
+		"- Reparo à Lava"
 	]
 	quest.5A9436B100FC1E67.quest_desc: [
 		"Melhorias Válidas:"
@@ -554,19 +554,19 @@
 	]
 	quest.5B02719C13B1FFE2.quest_desc: [
 		"Habilidades:"
-		"- Explosão Aérea: Distância de lançamento ainda mais aprimorada."
+		"- Impulso Aéreo: Distância de lançamento ainda mais aprimorada."
 		"- Deslocamento do Vazio: Distância de teletransporte aprimorada."
-		"- Portão do Eclipse: Cria um buraco portátil em uma área de 3x3, a direção depende da face do bloco alvo. A distância do buraco criado é configurável. Nota: o Portão do Eclipse não funciona em entidades de tile."
+		"- Eclipsetal: Cria um buraco portátil em uma área de 3x3, a direção depende da face do bloco alvo. A distância do buraco criado é configurável. Nota: o Eclipsetal não funciona em entidades de tile."
 	]
 	quest.5B910F1389C0B915.quest_desc: [
 		"Habilidades:"
-		"- Explosão Aérea: Distância de lançamento aprimorada e consome FE."
+		"- Impulso Aéreo: Distância de lançamento aprimorada e consome FE."
 		"- Deslocamento do Vazio: Teletransporta o jogador na direção que ele está olhando, consumindo FE no processo."
 	]
 	quest.5BBE8B30ED7518B8.quest_desc: [
 		"Melhorias Válidas:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
+		"- Minerador"
+		"- Escaneador de Minérios &4&lDESATIVADO&r&f"
 	]
 	quest.5BD5737703F3F077.quest_desc: ["Ferricore é um novo material adicionado pelo JDT. O Ferricore é adquirido realizando a Propagação de Gosma em Blocos de Ferro usando gosma de nível um ou superior. O Minério de Ferricore é afetado por fortuna."]
 	quest.5BD5737703F3F077.title: "Ferricore"
@@ -579,7 +579,7 @@
 	]
 	quest.5D4E51471F3939E0.quest_desc: [
 		"Habilidades:"
-		"- Explosão Aérea: Lança o jogador na direção em que está virado, consumindo durabilidade no processo, varinhas de nível superior lançam o jogador a uma distância maior. Nota: o jogador não sofrerá dano de queda enquanto estiver segurando a varinha."
+		"- Impulso Aéreo: Lança o jogador na direção em que está virado, consumindo durabilidade no processo, varinhas de nível superior lançam o jogador a uma distância maior. Nota: o jogador não sofrerá dano de queda enquanto estiver segurando a varinha."
 	]
 	quest.5EE7D5DE07A83C7D.quest_desc: ["&lTipo de Habilidade:&r Ativa\\n\\n&lFunção da Habilidade:&r\\n\\nDestaca minérios próximos com partículas verdes quando ativada.\\n\\n&4&lNOTA: ESTA HABILIDADE FOI DESATIVADA.&r&f"]
 	quest.5F5120451BA5B2FE.quest_desc: ["Máquinas avançadas têm as mesmas capacidades de suas variantes simples, com a adição de área de trabalho configurável, mais slots de filtro e a necessidade de energia."]
@@ -623,19 +623,19 @@
 	]
 	quest.6A4D31194C4CE156.quest_desc: [
 		"Melhorias Válidas:"
-		"- Ore Miner"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- X-Ray"
-		"- Instant Break"
+		"- Minerador"
+		"- Cortador de Grama"
+		"- Limpa-Céus"
+		"- Lenhador"
+		"- Quebra-Folhas"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
+		"- Raio X"
+		"- Quebra Instantânea"
 	]
 	quest.6ADE6F9E004055F7.quest_desc: [
-		"Os Cristais de Tempo são um novo material adicionado por JDT. Eles crescem em Blocos de Drusa Cristal de Tempo, que são criados ao espalhar goo em Blocos de Drusa de Ametista ou Blocos de Cristal de Tempo.\\n\\nNO ENTANTO, o Bloco de Drusa de Cristal de Tempo deve coletar tempo da &9Superfície&r, do &6Nether&r, e do &aEnd&r para poder crescer Agregados de Cristal de Tempo. Você NÃO PODE quebrar ou usar toque suave no Bloco de Drusa de Cristal de Tempo. Você deve usar um Trocador, Caixa de Papelão, ou Gadget de Cortar e Colar para movê-los.\\n\\nDepois de um tempo, o Bloco de Drusa de Cristal de Tempo vai &2ficar sem energia&r, e deverá fazer outra viagem para a &9Superfície&r, &6Nether&r, e &aEnd&r."
+		"Os Cristais de Tempo são um novo material adicionado por JDT. Eles crescem em Blocos de Drusa Cristal de Tempo, que são criados ao espalhar Gosma em Blocos de Drusa de Ametista ou Blocos de Cristal de Tempo.\\n\\nNO ENTANTO, o Bloco de Drusa de Cristal de Tempo deve coletar tempo da &9Superfície&r, do &6Nether&r, e do &aEnd&r para poder crescer Agregados de Cristal de Tempo. Você NÃO PODE quebrar ou usar toque suave no Bloco de Drusa de Cristal de Tempo. Você deve usar um Trocador, Caixa de Papelão, ou Gadget de Cortar e Colar para movê-los.\\n\\nDepois de um tempo, o Bloco de Drusa de Cristal de Tempo vai &2ficar sem energia&r, e deverá fazer outra viagem para a &9Superfície&r, &6Nether&r, e &aEnd&r."
 		"{@pagebreak}"
 		"E se a &2codificação de &9cores&r na página anterior não foi suficiente, adicionei uma imagem para ajudar você a identificar em qual estágio está cada Bloco de Drusa de Cristal de Tempo."
 		""
@@ -653,38 +653,38 @@
 	quest.6F709652A2B88C78.quest_desc: ["O transmissor de energia fornece energia aos blocos dentro de seu alcance de trabalho, ele só pode aceitar energia pela parte inferior."]
 	quest.6FD4C60B547F4131.quest_desc: [
 		"Melhorias Válidas:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"- Minerador"
+		"- Escaneador de Minérios &4&lDESATIVADO&r&f"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
 	]
 	quest.703BDCDC88DD813C.quest_desc: [
 		"Melhorias Válidas:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- Instant Break"
+		"- Cortador de Grama"
+		"- Limpa-Céus"
+		"- Autofundição"
+		"- Martelo"
+		"- Teleporte de Itens"
+		"- Quebra Instantânea"
 	]
 	quest.70AD088336748892.quest_desc: ["Apenas um simples gerador a carvão."]
-	quest.70BF85E2D235BAD5.quest_desc: ["Jogar Voidflame Coal no Blaze Ember Fuel criará Unrefined Voidflame Fuel. Realizar um Goo Spread com goo de Tier Três ou superior converterá Unrefined Voidflame Fuel em Voidflame Fuel."]
+	quest.70BF85E2D235BAD5.quest_desc: ["Jogar Carvão de Voidflama no Combustível de Brasa de Blaze criará Combustível de Brasa de Blaze Bruto. Realizar um Propagação de Gosma com Gosma de Tier Três ou superior converterá Combustível de Voidflama Bruto em Combustível de Voidflama."]
 	quest.70C404E5685E4E91.quest_desc: ["Apenas um simples colocador de blocos."]
 	quest.71128E508D810DDF.quest_desc: [
 		"Melhorias Válidas:"
 		"- Flecha de Poção"
-		"- Explosão"
-		"- Duradouro"
-		"- Flecha Guiada"
+		"- Arremessável"
+		"- Prolongado"
+		"- Flecha Teleguiada"
 		"- Fase"
-		"- Flecha Yondu"
+		"- Flecha de Yondu"
 	]
 	quest.71441DFA05FD73E5.quest_desc: [
 		"Melhorias Válidas:"
-		"- Mind Fog"
-		"- Stupefy"
-		"- Night Vision"
+		"- Névoa Mental"
+		"- Estupefaça"
+		"- Visão Noturna"
 	]
 	quest.7305EE0F7D73C231.quest_desc: ["Melhorias em Branco são a base de todas as habilidades. As habilidades são separadas em dois tipos, passivas e ativas.\\n\\nHabilidades passivas não requerem entrada ativa do jogador para funcionar, no entanto, habilidades ativas só funcionam quando acionadas por uma tecla de atalho que os jogadores definem no menu de configuração, e habilidades ativas consomem durabilidade/poder quando usadas. Quando instaladas em armaduras de nível superior, as habilidades ativas têm cooldowns reduzidos e as habilidades passivas têm efeitos maiores.\\n\\nA mesa de ferraria é usada para aplicar Melhorias às ferramentas e armaduras JDT. Segurar shift ao passar o mouse sobre as ferramentas ou armaduras JDT mostra quais Melhorias são Válidas."]
 	quest.73552A4BA0687962.quest_desc: ["Essas melhorias podem ser aplicados em ferramentas ou armaduras."]
@@ -698,8 +698,8 @@
 		"Melhorias Válidas:"
 		"- Derrubador de Árvores"
 		"- Quebrador de Folhas"
-		"- Auto-forno"
-		"- Teletransportador de Drops"
+		"- Autofundição"
+		"- Teleporte de Itens"
 		"- Quebra Instantânea"
 	]
 	quest.79BBCC1BEE90DBBB.quest_desc: [
@@ -718,7 +718,7 @@
 		"Remove permanentemente a IA de mobs próximos. Devido ao custo de poder, só pode afetar no máximo cinco mobs por ativação. Possui um tempo de recarga muito longo."
 	]
 	quest.7D1D2A4E07E98709.quest_desc: ["Um simples quebrador de blocos que requer uma ferramenta para quebrar blocos."]
-	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things é um mod pau para toda obra. Just Dire Things adiciona uma nova mecânica de criação chamada Goo Spread, juntamente com máquinas que auxiliam na automação do Goo Spread e outras utilidades."]
+	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things é um mod pau para toda obra. Just Dire Things adiciona uma nova mecânica de criação chamada Propagação de Gosma, juntamente com máquinas que auxiliam na automação do Propagação de Gosma e outras utilidades."]
 	quest.7F0B2D58361FB00E.title: "Just Dire Things"
 	task.00B0A3B14DEB34B9.title: "Melhorias Híbridas"
 	task.03982D782B426ABB.title: "TodosOsDireitosReservados"

@@ -3,7 +3,7 @@
 		"O &bSal&r é importante para incubar &eEnxofres Alquímicos&r!\\n\\nPara obter &bSal&r, precisaremos cozinhar alguns Itens. Itens diferentes produzem &bSais&r diferentes. Os &bSais&r têm diferentes níveis, que aumentam quanto mais raros eles são.\\n\\nPara extrair o &bSal&r, precisamos colocar os Itens no Forno e usar uma fonte de calor para aquecê-lo. Em seguida, retire o &bSal&r do Forno!"
 		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
 	]
-	quest.02593CD4B4AE814C.title: "Desalination Plant"
+	quest.02593CD4B4AE814C.title: "Usina de Dessalinização"
 	quest.0460DDEEFDEB0AAF.quest_desc: ["Varas de Adivinhação são nossas Ferramentas que usamos para contatar os espíritos para encontrar certos Itens.\\n\\nPrimeiro, você precisará selecionar o Bloco ou Item, seja Shift + Clicando com o Botão Direito nele com a Vara, ou criando a Vara com seu &eAlchemical Sulfur&r!\\n\\nAo segurá-las e segurar o Botão Direito, a Vara procurará por um Item selecionado. Ela fará um barulho e a Vara acenderá para indicar o quão perto o Bloco ou Item está.\\n\\nSe estiver perto o suficiente, um orbe pode aparecer mostrando o caminho para o Item."]
 	quest.0460DDEEFDEB0AAF.title: "Varas de Adivinhação"
 	quest.0542FE108089A0A2.quest_desc: ["&l&6Theurgy&r é a arte de usar Magia para Alquimia! Ou, em nosso sentido, usar Máquinas e Itens para fazer mais ou diferentes Itens!\\n\\nMuitas das Máquinas que precisamos para &l&6Theurgy&r precisam de Cobre, então comece por aí!"]
