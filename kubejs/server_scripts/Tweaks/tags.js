@@ -196,6 +196,8 @@ ServerEvents.tags('entity_type', allthemods => {
         "#neoforge:bosses"
     ])
 
+    allthemods.add('c:capturing_not_supported', 'mekanism:robit');
+
     allthemods.add('allthemods:jank_blacklist', [
         '@iceandfire',
         'ars_nouveau:animated_block',
