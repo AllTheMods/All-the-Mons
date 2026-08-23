@@ -1,4 +1,5 @@
-# All the Mons: ATM10 + Cobblemon
+All the Mons: ATM10 + Cobblemon
+======
 
 This is the official repository and issue-tracker for All The Mons 10 1.21.1
 
