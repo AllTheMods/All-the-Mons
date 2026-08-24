@@ -49,9 +49,9 @@
 			shape: "pentagon"
 			size: 3.0d
 			tasks: [{
-				dimension: "minecraft:overworld"
-				id: "53444EE097EF11E1"
-				type: "dimension"
+				id: "4C84F3353AEA50BF"
+				item: { count: 1, id: "allthemons:pika_star" }
+				type: "item"
 			}]
 			x: 0.0d
 			y: -1.0d
@@ -3145,8 +3145,8 @@
 				id: "1E6F0000000011E0"
 				type: "custom"
 			}]
-			x: 1.5d
-			y: -3.5d
+			x: 0.0d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -3303,8 +3303,8 @@
 		}
 		{
 			dependencies: [
-				"1E6F0000000011D4"
 				"6251C22782FE194E"
+				"1E6F00000000106D"
 			]
 			icon: {
 				components: {
@@ -3336,21 +3336,28 @@
 				}
 			]
 			size: 2.0d
-			tasks: [{
-				icon: {
-					components: {
-						"cobblemon:pokemon_item": {
-							aspects: [ ]
-							species: "cobblemon:enamorus"
-						}
-					}
-					id: "cobblemon:pokemon_model"
+			tasks: [
+				{
+					id: "1E51DB8E1C527A63"
+					item: { components: { "legendarymonuments:love_letter_crafter_name": "Entrepreneur", "legendarymonuments:love_letter_crafter_uuid": "legendarymonuments:entrepreneur" }, count: 1, id: "legendarymonuments:love_letter" }
+					type: "item"
 				}
-				id: "1E6F0000000011F0"
-				type: "custom"
-			}]
-			x: 0.0d
-			y: -5.0d
+				{
+					icon: {
+						components: {
+							"cobblemon:pokemon_item": {
+								aspects: [ ]
+								species: "cobblemon:enamorus"
+							}
+						}
+						id: "cobblemon:pokemon_model"
+					}
+					id: "1E6F0000000011F0"
+					type: "custom"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
