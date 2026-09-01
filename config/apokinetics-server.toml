@@ -1,0 +1,613 @@
+[socketSystem]
+	#Master switch for Apokinetics machine sockets.
+	enabled = true
+	#Default sockets on compatible Create machines.
+	# Default: 4
+	# Range: 0 ~ 4
+	defaultSocketCount = 4
+	#Hard cap for sockets any single machine can expose.
+	# Default: 4
+	# Range: 1 ~ 4
+	globalSocketCap = 4
+	#Drops socketed gems only when a broken machine has no dropped machine item that can retain them.
+	dropSocketedGemsOnBreak = true
+	#Create machine block ids that cannot be socketed, e.g. create:mechanical_drill.
+	disabledMachines = []
+	#Per-machine socket counts as block_id=count, e.g. create:mechanical_drill=2.
+	machineSocketCounts = []
+	#Optional per-machine gem overrides as block_id=gem,gem, e.g. create:encased_fan=impact,extension,frostwork.
+	machineAllowedGems = []
+	#Per-machine multipliers applied to every gem effect as block_id=multiplier.
+	#1.0 is unchanged, values between 0 and 1 weaken effects, and 0 disables their strength.
+	machineEffectiveness = []
+	#When true, Velocity increases a machine's stress impact by the same multiplier as its speed bonus.
+	#Equilibrium reduction is applied after this increase.
+	velocityAddsStress = false
+
+[antiDuplication]
+	#Master switch for Precision preservation and Yielding bonus-output hooks.
+	allowBonusOutputs = false
+	#When true, Yielding never copies non-stackable recipe outputs.
+	yieldingStackableOutputsOnly = true
+
+	[processing.fan]
+		#Scales Velocity's real fan-processing timer bonus. 1.0 uses the full configured gem effect.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		velocityScale = 1.0
+		#Scales Ignition's real fan-processing timer bonus independently of Velocity.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		ignitionScale = 1.0
+		#Minimum base fan-processing time after Apokinetics speed bonuses.
+		# Default: 1
+		# Range: 1 ~ 72000
+		minimumTicks = 1
+
+	[processing.fluidMachines]
+		#Scales Flowing's Spout and Item Drain cycle-speed contribution.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		flowingScale = 1.0
+		#Scales Ignition's Spout and Item Drain cycle-speed contribution.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		ignitionScale = 1.0
+		#Minimum Spout and Item Drain cycle time after Apokinetics speed bonuses.
+		# Default: 5
+		# Range: 1 ~ 72000
+		minimumTicks = 5
+
+	[processing.crushingWheelPair]
+		#Multiplier applied to the shared gems of a valid Crushing Wheel pair.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		effectiveness = 1.0
+
+	[processing.generators]
+		#Scales Flowing's generated-RPM contribution on supported kinetic generators.
+		#1.0 is unchanged and 0 disables only this use of Flowing.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		flowingScale = 1.0
+		#Scales Ignition's generated-RPM contribution on supported kinetic generators.
+		#1.0 is unchanged and 0 disables only this use of Ignition.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		ignitionScale = 1.0
+
+	[processing.ignition]
+		#Scales Ignition's Blaze Burner fuel-duration bonus.
+		#1.0 is unchanged and 0 disables fuel extension without disabling other Ignition effects.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		fuelEfficiencyScale = 1.0
+
+	[processing.momentum]
+		#Generated-RPM bonus per effective Momentum level. 0.08 means +8% per level.
+		# Default: 0.08
+		# Range: 0.0 ~ 1000000.0
+		generatorBonusPerLevel = 0.08
+		#Maximum generated-RPM bonus from Momentum. 1.0 means +100%.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		generatorMaximumBonus = 1000000.0
+
+[performance]
+	#Ticks to cache unchanged generator gem calculations. Zero disables time-based caching.
+	# Default: 20
+	# Range: 0 ~ 72000
+	generatorBonusCacheTicks = 20
+
+	[stacking.ignition]
+		#Relative Ignition strength of the second strongest matching socket.
+		# Default: 0.8
+		# Range: 0.0 ~ 1000000.0
+		secondSocketWeight = 0.8
+		#Relative Ignition strength of the third strongest matching socket.
+		# Default: 0.6
+		# Range: 0.0 ~ 1000000.0
+		thirdSocketWeight = 0.6
+		#Relative Ignition strength of the fourth strongest matching socket.
+		# Default: 0.4
+		# Range: 0.0 ~ 1000000.0
+		fourthSocketWeight = 0.4
+		#Multiplicative weight falloff for Ignition sockets beyond the fourth.
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		extraSocketFalloff = 0.5
+
+[frostwork]
+	#Enables the Frostwork recipe type and JEI category.
+	enabled = true
+	#Legacy-named percentage scale for recipe-authored Frostwork duration. 100 is unchanged, 50 is twice as fast.
+	# Default: 100
+	# Range: 5 ~ 72000
+	processingTicks = 100
+	#Radius around a Frostwork-processed loose item used to find other recipe ingredients.
+	# Default: 1.65
+	# Range: 0.0 ~ 128.0
+	ingredientSearchRadius = 1.65
+	#Maximum multi-ingredient Frostwork crafts completed in one fan-processing completion.
+	# Default: 64
+	# Range: 1 ~ 65536
+	maxCraftsPerCompletion = 64
+	#Slowness duration refreshed on living entities inside Frostwork air currents. Zero disables Slowness.
+	# Default: 25
+	# Range: 0 ~ 72000
+	slowDurationTicks = 25
+	#Slowness amplifier applied by Frostwork air currents. Zero is Slowness I.
+	# Default: 0
+	# Range: 0 ~ 255
+	slowAmplifier = 0
+	#Freeze ticks added to living entities per Frostwork air-current tick. Zero disables freezing.
+	# Default: 3
+	# Range: 0 ~ 72000
+	freezeTicksPerTick = 3
+	#Block ids treated as cold sources by Apokinetics Frostwork.
+	coldSourceBlocks = ["minecraft:ice", "minecraft:packed_ice", "minecraft:blue_ice", "minecraft:snow_block", "minecraft:powder_snow"]
+
+[momentum]
+	#Enables the Momentum recipe type and JEI category.
+	enabled = true
+	#Minimum absolute belt speed required for Momentum processing. Zero removes the speed floor.
+	# Default: 32.0
+	# Range: 0.0 ~ 1000000.0
+	minimumBeltSpeed = 32.0
+	#Maximum ticks an item ejected from a Momentum Belt retains its captured RPM while seeking recipe inputs.
+	# Default: 80
+	# Range: 5 ~ 72000
+	processingTicks = 80
+	#Radius around an ejected Momentum item used to find other tagged recipe ingredients.
+	# Default: 1.65
+	# Range: 0.0 ~ 128.0
+	ingredientSearchRadius = 1.65
+	#Maximum multi-ingredient Momentum crafts one ejected item may complete in a tick.
+	# Default: 64
+	# Range: 1 ~ 65536
+	maxCraftsPerTick = 64
+
+[factoryLocator]
+	#Maximum distance in blocks at which Factory Locator item highlights are visible.
+	# Default: 32
+	# Range: 4 ~ 256
+	highlightRange = 32
+
+[factoryScanner]
+	#Radius in blocks scanned by the Factory Scanner when used or refreshed.
+	# Default: 128
+	# Range: 4 ~ 256
+	scanRadius = 128
+	#Maximum loaded block entities inspected by one Factory Scanner scan.
+	# Default: 65000
+	# Range: 1024 ~ 250000
+	maxScannedBlocks = 65000
+	#Minimum ticks between Factory Scanner uses or client refresh requests.
+	# Default: 10
+	# Range: 1 ~ 72000
+	refreshCooldownTicks = 10
+
+[rupture]
+	#Ticks between fallback Rupture contact checks for living entities.
+	# Default: 5
+	# Range: 1 ~ 72000
+	contactCheckIntervalTicks = 5
+	#Base damage dealt by the fallback contact hook before Rupture's multiplier. Zero disables this damage.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	baseContactDamage = 1.0
+	#Per-entity cooldown after successful fallback Rupture contact damage. Zero disables the cooldown.
+	# Default: 20
+	# Range: 0 ~ 72000
+	contactDamageCooldownTicks = 20
+	#Extra collision-box inflation used by fallback Rupture contact detection.
+	# Default: 0.08
+	# Range: 0.0 ~ 16.0
+	contactBoundsInflation = 0.08
+
+[kineticPylon]
+	#Radius in blocks scanned and affected by the Kinetic Pylon.
+	# Default: 24
+	# Range: 1 ~ 128
+	radius = 24
+	#How often the Kinetic Pylon rescans nearby Apothic Enchanting energy sources.
+	# Default: 80
+	# Range: 5 ~ 72000
+	scanIntervalTicks = 80
+	#Legacy option. Kinetic Pylons no longer stack; the strongest single pylon applies.
+	stackingMode = "highest"
+	#Legacy option kept for existing configs. Pylon bonuses are no longer additive.
+	# Default: 60.0
+	# Range: 0.0 ~ 60.0
+	stackingCapPercent = 60.0
+
+	[kineticPylon.performance]
+		#Fallback interval for detecting in-place socket/component changes on Quanta-affected player equipment.
+		#Normal equipment-change events still refresh immediately.
+		# Default: 5
+		# Range: 1 ~ 72000
+		quantaRefreshIntervalTicks = 5
+		#Maximum block positions one Kinetic Pylon examines per tick while a scan is in progress.
+		#Scans continue across ticks; lowering this smooths tick time at the cost of slower refreshes.
+		# Default: 4096
+		# Range: 64 ~ 1000000
+		scanBlocksPerTick = 4096
+		#Maximum nearby kinetic block entities inspected for network linking during one completed Pylon scan.
+		# Default: 4096
+		# Range: 0 ~ 65536
+		maxKineticCandidates = 4096
+		#Maximum source positions retained per Pylon for particles, persistence, and client updates.
+		#Energy totals and source counts still include every scanned source. Zero disables retained source links.
+		# Default: 512
+		# Range: 0 ~ 8192
+		maxRetainedSourceLinks = 512
+		#Maximum derived affected-machine positions retained per Pylon for persistence and client updates.
+		#Every affected kinetic network still receives the configured Pylon effect. Zero disables this derived list.
+		# Default: 1024
+		# Range: 0 ~ 16384
+		maxDerivedMachineLinks = 1024
+		#Maximum redundant physical member anchors remembered for each Pylon/network pair.
+		#One anchor is sufficient to associate the network; additional anchors improve removal churn tolerance.
+		# Default: 16
+		# Range: 1 ~ 1024
+		maxAnchorsPerNetwork = 16
+
+	[kineticPylon.buffs]
+		#Maximum stress impact reduction percentage at 100 Eterna energy.
+		# Default: 60.0
+		# Range: 0.0 ~ 100.0
+		eternaStressReductionPercent = 60.0
+		#Maximum generated stress capacity bonus percentage at 100 Arcana energy.
+		# Default: 60.0
+		# Range: 0.0 ~ 1000000.0
+		arcanaCapacityPercent = 60.0
+		#Maximum runtime-only stat bonus percentage for non-machine Apotheosis gems used by nearby players at 100 Quanta energy.
+		# Default: 60.0
+		# Range: 0.0 ~ 1000000.0
+		quantaGemPercent = 60.0
+
+	[kineticPylon.activation]
+		#Additional block ids, block item ids, or #block_tags that count as Kinetic Pylon Eterna sources.
+		#Apothic Enchanting stat blocks are detected automatically; this list is an override/fallback.
+		eternaSources = ["minecraft:bookshelf", "#minecraft:enchantment_power_provider"]
+		#Additional block ids, block item ids, or #block_tags that count as Kinetic Pylon Arcana sources.
+		#Apothic Enchanting stat blocks are detected automatically; this list is an override/fallback.
+		arcanaSources = []
+		#Additional block ids, block item ids, or #block_tags that count as Kinetic Pylon Quanta sources.
+		#Apothic Enchanting stat blocks are detected automatically; this list is an override/fallback.
+		quantaSources = []
+
+[rotation]
+	#Allows Apokinetics machine gems to gain and use Rotation from the Apokinetic Table.
+	affectApokineticsGems = true
+	#Allows non-Apokinetics Apotheosis gems to gain and use Rotation from the Apokinetic Table.
+	affectApotheosisGems = true
+	#Numeric gem stat multiplier gained per Rotation level. 0.01 means +1% per level.
+	# Default: 0.01
+	# Range: 0.0 ~ 10.0
+	bonusPerLevel = 0.01
+	#Base Create stress impact of the Apokinetic Table at 1 RPM.
+	#A fresh or Rotation Level 1 gem uses this base value.
+	# Default: 16.0
+	# Range: 0.0 ~ 1024.0
+	tableStressImpact = 16.0
+	#Multiplies Apokinetic Table stress impact once for each Rotation level above Level 1.
+	#The default reaches about 150,000 stress units at Level 100 when the table runs at 256 RPM.
+	# Default: 1.037039421527765
+	# Range: 1.0 ~ 128.0
+	tableStressLevelMultiplier = 1.037039421527765
+	#Maximum actual stress units the Apokinetic Table can require at its current RPM.
+	#Set to zero for no maximum (unlimited stress scaling).
+	# Default: 150000.0
+	# Range: 0.0 ~ 1.6E7
+	tableMaxStressUnits = 150000.0
+	#Ticks between Apokinetic Table Rotation charges. Lower values charge more often.
+	# Default: 20
+	# Range: 1 ~ 72000
+	tableChargeIntervalTicks = 20
+	#Multiplier applied to the Table's absolute RPM when calculating Rotation gained per charge.
+	#1.0 preserves the default rounded-RPM gain; zero disables Rotation gain.
+	# Default: 1.0
+	# Range: 0.0 ~ 1000000.0
+	tableRotationGainScale = 1.0
+	#Rotation required to complete each level.
+	#Entries can be plain numbers or labelled strings, e.g. "Level 1 = 1116".
+	#Defaults start at 1,116 Rotation and increase by 536 per level.
+	#At 256 RPM, the default 100 levels total 2,764,800 Rotation, or exactly 3 hours.
+	levelThresholds = ["Level 1 = 1116", "Level 2 = 1652", "Level 3 = 2188", "Level 4 = 2724", "Level 5 = 3260", "Level 6 = 3796", "Level 7 = 4332", "Level 8 = 4868", "Level 9 = 5404", "Level 10 = 5940", "Level 11 = 6476", "Level 12 = 7012", "Level 13 = 7548", "Level 14 = 8084", "Level 15 = 8620", "Level 16 = 9156", "Level 17 = 9692", "Level 18 = 10228", "Level 19 = 10764", "Level 20 = 11300", "Level 21 = 11836", "Level 22 = 12372", "Level 23 = 12908", "Level 24 = 13444", "Level 25 = 13980", "Level 26 = 14516", "Level 27 = 15052", "Level 28 = 15588", "Level 29 = 16124", "Level 30 = 16660", "Level 31 = 17196", "Level 32 = 17732", "Level 33 = 18268", "Level 34 = 18804", "Level 35 = 19340", "Level 36 = 19876", "Level 37 = 20412", "Level 38 = 20948", "Level 39 = 21484", "Level 40 = 22020", "Level 41 = 22556", "Level 42 = 23092", "Level 43 = 23628", "Level 44 = 24164", "Level 45 = 24700", "Level 46 = 25236", "Level 47 = 25772", "Level 48 = 26308", "Level 49 = 26844", "Level 50 = 27380", "Level 51 = 27916", "Level 52 = 28452", "Level 53 = 28988", "Level 54 = 29524", "Level 55 = 30060", "Level 56 = 30596", "Level 57 = 31132", "Level 58 = 31668", "Level 59 = 32204", "Level 60 = 32740", "Level 61 = 33276", "Level 62 = 33812", "Level 63 = 34348", "Level 64 = 34884", "Level 65 = 35420", "Level 66 = 35956", "Level 67 = 36492", "Level 68 = 37028", "Level 69 = 37564", "Level 70 = 38100", "Level 71 = 38636", "Level 72 = 39172", "Level 73 = 39708", "Level 74 = 40244", "Level 75 = 40780", "Level 76 = 41316", "Level 77 = 41852", "Level 78 = 42388", "Level 79 = 42924", "Level 80 = 43460", "Level 81 = 43996", "Level 82 = 44532", "Level 83 = 45068", "Level 84 = 45604", "Level 85 = 46140", "Level 86 = 46676", "Level 87 = 47212", "Level 88 = 47748", "Level 89 = 48284", "Level 90 = 48820", "Level 91 = 49356", "Level 92 = 49892", "Level 93 = 50428", "Level 94 = 50964", "Level 95 = 51500", "Level 96 = 52036", "Level 97 = 52572", "Level 98 = 53108", "Level 99 = 53644", "Level 100 = 54180"]
+
+	[gems.velocity]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.velocity.values]
+			cracked = 0.11666666666666667
+			chipped = 0.16333333333333333
+			flawed = 0.19833333333333333
+			normal = 0.23333333333333334
+			flawless = 0.27999999999999997
+			perfect = 0.35
+
+	[gems.equilibrium]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.equilibrium.values]
+			cracked = 0.09
+			chipped = 0.126
+			flawed = 0.153
+			normal = 0.18
+			flawless = 0.216
+			perfect = 0.27
+
+	[gems.precision]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined chance while at least one positive contribution is active.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined chance. Default 0.90 prevents guaranteed resources; set 1.0 explicitly to allow 100%.
+		# Default: 0.9
+		# Range: 0.0 ~ 1.0
+		maximumCombinedEffect = 0.9
+		#Diminishing-stacking strength. 1.0 is independent probability; higher is stronger, lower is weaker.
+		# Default: 1.0
+		# Range: 1.0E-6 ~ 1000000.0
+		diminishingExponent = 1.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.precision.values]
+			cracked = 0.1
+			chipped = 0.13999999999999999
+			flawed = 0.17
+			normal = 0.2
+			flawless = 0.24
+			perfect = 0.30000000000000004
+
+	[gems.yielding]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined chance while at least one positive contribution is active.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined chance. Default 0.90 prevents guaranteed resources; set 1.0 explicitly to allow 100%.
+		# Default: 0.9
+		# Range: 0.0 ~ 1.0
+		maximumCombinedEffect = 0.9
+		#Diminishing-stacking strength. 1.0 is independent probability; higher is stronger, lower is weaker.
+		# Default: 1.0
+		# Range: 1.0E-6 ~ 1000000.0
+		diminishingExponent = 1.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.yielding.values]
+			cracked = 0.13333333333333333
+			chipped = 0.18666666666666665
+			flawed = 0.22666666666666666
+			normal = 0.26666666666666666
+			flawless = 0.32
+			perfect = 0.4
+
+	[gems.impact]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.impact.values]
+			cracked = 0.25
+			chipped = 0.35
+			flawed = 0.425
+			normal = 0.5
+			flawless = 0.6
+			perfect = 0.75
+
+	[gems.extension]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.extension.values]
+			cracked = 5.333333333333333
+			chipped = 7.466666666666666
+			flawed = 9.066666666666666
+			normal = 10.666666666666666
+			flawless = 12.799999999999999
+			perfect = 16.0
+
+	[gems.ignition]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.ignition.values]
+			cracked = 0.125
+			chipped = 0.175
+			flawed = 0.2125
+			normal = 0.25
+			flawless = 0.3
+			perfect = 0.375
+
+	[gems.frostwork]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.frostwork.values]
+			cracked = 1.0
+			chipped = 2.0
+			flawed = 3.0
+			normal = 4.0
+			flawless = 5.0
+			perfect = 6.0
+
+	[gems.flowing]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.flowing.values]
+			cracked = 0.11666666666666667
+			chipped = 0.16333333333333333
+			flawed = 0.19833333333333333
+			normal = 0.23333333333333334
+			flawless = 0.27999999999999997
+			perfect = 0.35
+
+	[gems.conveyance]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.conveyance.values]
+			cracked = 0.125
+			chipped = 0.175
+			flawed = 0.2125
+			normal = 0.25
+			flawless = 0.3
+			perfect = 0.375
+
+	[gems.momentum]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.momentum.values]
+			cracked = 1.0
+			chipped = 2.0
+			flawed = 3.0
+			normal = 4.0
+			flawless = 5.0
+			perfect = 6.0
+
+	[gems.rupture]
+		enabled = true
+		#Multiplier applied to this gem's configured purity values. 1.0 is unchanged, 0 disables its strength.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		strengthMultiplier = 1.0
+		#Minimum combined effect after stacking.
+		# Default: 0.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedEffect = 0.0
+		#Maximum combined effect after stacking.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedEffect = 1000000.0
+
+		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
+		[gems.rupture.values]
+			cracked = 0.25
+			chipped = 0.35
+			flawed = 0.425
+			normal = 0.5
+			flawless = 0.6
+			perfect = 0.75
