@@ -75,7 +75,7 @@ if (!Platform.isClientEnvironment()) {
   if (!bannedBlockEntities.isEmpty()) {
     bannedBlockEntities.forEach(id => {
       try {
-        let type = $BuiltInRegistries.BLOCK_ENTITY_TYPE.get(id)
+        let type = $BuiltInRegistries.BLOCK_ENTITY_TYPE.get(ID.mc(id))
         if (type == null) {
           console.warn(`[banlist] no block entity type registered as '${id}', it will not be removed`)
         } else {
