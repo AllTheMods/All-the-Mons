@@ -3,6 +3,8 @@
 		"Level increase to 21. "
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aCaves, Hills, Plateaus, and Mountains&r."
 	]
 	quest.06AC44758A00C280.title: "&aLeader Brock"
 	quest.0AE4F79296B6A4E4.quest_desc: [
@@ -21,6 +23,8 @@
 		"Level Increase to 79."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aHot Biomes&r."
 	]
 	quest.0C92029DF6B9080A.title: "&aLeader Blaine"
 	quest.1665D7A3BDC93BEA.quest_desc: [
@@ -33,6 +37,8 @@
 		"Level Increase to 46."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aLush and densely vegetated Biomes&r."
 	]
 	quest.17CADE883895E1C4.title: "&aLeader Erika"
 	quest.23A05E86B1DF7B1E.quest_desc: [
@@ -45,6 +51,8 @@
 		"Level Increase to 44."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aPlains and other sparsely vegetated Biomes&r."
 	]
 	quest.245203DBA9D45934.title: "&aLeader Lt. Surge"
 	quest.2CB4138503F71E7A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -58,6 +66,8 @@
 		"Level Increase to 63."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aSpooky and sparsely vegetated Biomes&r."
 	]
 	quest.34B53B764112A1BF.title: "&aLeader Sabrina"
 	quest.3D24607A51997B39.quest_desc: [
@@ -75,6 +85,8 @@
 		"Level Increase to 29."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aRivers, Beaches, and other watery Biomes&r."
 	]
 	quest.514A8996A1C18BAF.title: "&aLeader Misty"
 	quest.5184669F1F038E9A.quest_desc: [
@@ -84,8 +96,9 @@
 	]
 	quest.5184669F1F038E9A.title: "&6Rival Terry"
 	quest.51C8B7AAA05EA266.quest_desc: [
-		"Some &aleaders &r&lONLY&r spawn in the &9Gyms&r that spawn in villages, so keep notes on which &aGym Leaders&r you found!"
+		"Most &aleaders&r are found in the &9Gyms&r that spawn in villages, so keep notes on which &aGym Leaders&r you found!"
 		"&6You will need them later!!!&r"
+		"They can also be found &orarely&r wandering in the wild, each in Biomes that suit their Type."
 	]
 	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lWARNING&r"
 	quest.51C8B7AAA05EA266.title: "Kanto &9Gyms"
@@ -131,6 +144,8 @@
 		"Level Increase to 73."
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
+		""
+		"Rarely wanders in &aSwamps and Jungles&r."
 	]
 	quest.67C1FC2100E5A73C.title: "&aLeader Koga"
 	quest.68618D5F4FC2F331.quest_desc: [
@@ -162,6 +177,7 @@
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
 		""
+		"Rarely wanders in &aMountains and Peaks&r."
 	]
 	quest.78843287D1EB98E2.title: "&aLeader Clair"
 	quest.7C112EF6EA2BB232.quest_desc: [
