@@ -279,6 +279,8 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add("mega_showdown:mega_stone", ["mega_showdown:abomasite"])
     // Dream String counts as String until LM tags it upstream
     allthemods.add("c:strings", ["legendarymonuments:dream_string"])
+    allthemods.add("c:plates/plastic", ["industrialforegoing:plastic", "pneumaticcraft:plastic"])
+    allthemods.add("c:tools/shield", ["cataclysm:azure_sea_shield", "cataclysm:black_steel_targe", "cataclysm:bulwark_of_the_flame"])
 })
 
 ServerEvents.tags('block', allthemods => {
@@ -287,6 +289,7 @@ ServerEvents.tags('block', allthemods => {
     allthemods.add("minecraft:wall_signs", ["ars_nouveau:archwood_wall_sign"])
     allthemods.add("minecraft:ceiling_hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
     allthemods.add("minecraft:wall_hanging_signs", ["ars_nouveau:archwood_hanging_wall_sign"])
+    allthemods.add("constructionstick:non_placable", ["cobblemon:black_apricorn", "cobblemon:blue_apricorn", "cobblemon:green_apricorn", "cobblemon:pink_apricorn", "cobblemon:red_apricorn", "cobblemon:white_apricorn", "cobblemon:yellow_apricorn"])
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
