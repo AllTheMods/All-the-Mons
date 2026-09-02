@@ -1,0 +1,553 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "creative"
+	group: "2084F3F6FB861C5B"
+	icon: {
+		id: "modularrouters:creative_module"
+	}
+	id: "792AD692F1468B1F"
+	images: [
+		{
+			height: 2.0d
+			id: "446AFF850AEF7EC8"
+			image: "atm:textures/questpics/chap3/creative_chap4.png"
+			rotation: -90.0d
+			width: 10.415584415584416d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			id: "4EA31494DE8599A8"
+			image: "atm:textures/questpics/chap3/creative_creative.png"
+			rotation: -90.0d
+			width: 9.246753246753247d
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			id: "76F9BE08DAF36CA7"
+			image: "atm:textures/questpics/chap3/creative_star.png"
+			rotation: 0.0d
+			width: 10.91566265060241d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			id: "4B073556E1ED36C7"
+			image: "atm:textures/questpics/chap3/creative_items.png"
+			rotation: 0.0d
+			width: 8.741176470588234d
+			x: 5.5d
+			y: 3.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["08EC6BAB5CC07513"]
+			hide_dependent_lines: true
+			id: "5436157FDFC9633E"
+			rewards: [
+				{
+					count: 50
+					id: "4A6946466714414A"
+					item: {
+						count: 1
+						id: "allthetweaks:atm_star_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "387B3FE87AA90D80"
+					item: {
+						count: 1
+						id: "allthetweaks:patrick_star"
+					}
+					type: "item"
+				}
+				{
+					id: "29F3962171357984"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [{
+				id: "0A47948D921AFC10"
+				item: { count: 1, id: "allthetweaks:atm_star" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "3FF61A4D7A250AE1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "617D1B035EF5B2CA"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E08F4D0B317C057"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "341A2C2D57C1EA1D"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1F2FBA163417B722"
+				item: { count: 1, id: "powah:energy_cell_creative" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "4F7F0A5162D70082"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "546C4530D8BCDB0F"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2007D441EA018EE0"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "519027BD291680FE"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1CE2A1DA52F7DED9"
+				item: { components: { "mekanism:energy": { energy_containers: [L;9223372036854775807L] }, "mekanism:side_config": { config: { energy: { eject: 1b, side: { back: "output", bottom: "output", front: "output", left: "output", right: "output", top: "output" } }, items: { side: { back: "input", bottom: "input", front: "output", left: "input", right: "input", top: "input" } } } } }, count: 1, id: "mekanism:creative_energy_cube" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "3BB0926C4C00BE1D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "76FD16B8E2516CBC"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0632F96D9BE1D849"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "7A42E89D36DF1A2C"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "28CF7D588D7A5D94"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:creative", "minecraft:rarity": "epic" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "070CAEAD49B8DBA3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "09D4CB3DDA783C65"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E229CF3A680CA10"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "01F175937F44B054"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "396B0AA4DB69865D"
+				item: { count: 1, id: "pneumaticcraft:creative_compressed_iron_block" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "1D87415343E65AA7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69433D3356C8A19B"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "45D2EFCB1715597A"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "16CDFDE10FBE1D32"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "2FABE0B440708CBD"
+				item: { count: 1, id: "pneumaticcraft:creative_compressor" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "66E88F916B638B3B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37384C14A52DC306"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A1FB36A23C89F56"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "04EDDEC0C6B98B1E"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "7847F14EE9F89795"
+				item: { count: 1, id: "allthearcanistgear:creative_spell_book" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "3D78D9F4E8A60EDB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "222B5C88824F24F3"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "357059E6D78390AC"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "2EE6C087E051630E"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "32AF51D9DC702D32"
+				item: { count: 1, id: "ars_nouveau:creative_source_jar" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "23DE60E57136C207"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61B6B9176B487F04"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39870A3F009CCD88"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "4E6EF9B5E041B1D3"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "5B87D7736D0C2703"
+				item: { count: 1, id: "integrateddynamics:energy_battery_creative" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "36ABE142039E712B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E80B3FE769D1404"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3604CFAF8435D961"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "5C6E6E417A8BAFEF"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "7EF001DCBCF16E73"
+				item: { count: 1, id: "ae2:creative_energy_cell" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5436157FDFC9633E"]
+			id: "228CB313BAB6406E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B74E6FD75EA51D5"
+					table_id: 5196609362437981520L
+					type: "random"
+				}
+				{
+					id: "500BE9CAB3C3F7A7"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "66D07CEEB6655550"
+				item: { count: 1, id: "railcraft:creative_locomotive" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			icon: {
+				id: "allthetweaks:patrick_star"
+			}
+			id: "6C16670D16113DE9"
+			rewards: [
+				{
+					id: "5E435C67548052ED"
+					item: {
+						components: {
+							"minecraft:repair_cost": 7
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:luck_of_the_sea": 3
+									"minecraft:lure": 3
+									"minecraft:mending": 1
+									"minecraft:unbreaking": 3
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+				{
+					id: "2CE31C1FED69C72D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				biome: "minecraft:warm_ocean"
+				id: "3A1D32F6C816C3D2"
+				type: "biome"
+			}]
+			x: 5.5d
+			y: -4.678571428571431d
+		}
+		{
+			dependencies: ["6C16670D16113DE9"]
+			id: "405D2571E61694FD"
+			rewards: [
+				{
+					id: "63ACD592E90A3BD3"
+					item: {
+						count: 1
+						id: "productivelib:upgrade_productivity_3"
+					}
+					type: "item"
+				}
+				{
+					id: "62B5C3CDEF65DE2F"
+					item: {
+						count: 1
+						id: "productivelib:upgrade_block"
+					}
+					type: "item"
+				}
+				{
+					id: "2584F77CC134423D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "7CB5927898DE12B0"
+				item: { count: 1, id: "allthetweaks:atm_star_block" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"405D2571E61694FD"
+				"7C9154EF6068BE27"
+			]
+			dependency_requirement: "one_completed"
+			id: "73201E591C2A40CC"
+			rewards: [
+				{
+					count: 10
+					id: "561AC4CEA2FC687B"
+					item: {
+						count: 1
+						id: "allthetweaks:atm_star_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "0DA7DBFE693517B1"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [{
+				id: "24321595C5F52B83"
+				item: { count: 1, id: "allthetweaks:atm_star_shard" }
+				type: "item"
+			}]
+			x: 5.547077922077925d
+			y: -1.8214285714285694d
+		}
+		{
+			id: "7C9154EF6068BE27"
+			invisible: true
+			tasks: [{
+				id: "25AE4E531CE97B98"
+				item: { count: 1, id: "mekanism:crusher" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73201E591C2A40CC"]
+			id: "08EC6BAB5CC07513"
+			rewards: [
+				{
+					count: 5
+					id: "3C3F67B8F731549B"
+					item: {
+						count: 1
+						id: "allthetweaks:atm_star_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "54986EA30A30FED2"
+					type: "xp_levels"
+					xp_levels: 55
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				count: 55L
+				id: "049CE99BDA788159"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.1428571428571459d
+		}
+	]
+}

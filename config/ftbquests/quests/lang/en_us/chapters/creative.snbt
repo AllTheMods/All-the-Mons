@@ -1,0 +1,35 @@
+{
+	quest.070CAEAD49B8DBA3.quest_desc: ["For 8 Stacks of &7Compressed Iron Blocks&r and an &6&lATM Star&r you can get the &5Creative &7Compressed Iron Block&r! \\n\\nThis can be set to any temperature you want it to be set to, which can then be used in your Machines. \\n\\n8 Stacks of &7Compressed Iron Blocks&r equals 4,608 &7Compressed Iron Ingots&r... good luck!"]
+	quest.070CAEAD49B8DBA3.title: "&5&lCreative &7Compressed Iron Blocks"
+	quest.08EC6BAB5CC07513.quest_desc: ["We've got 55 Items to combine into 1... that sounds like too big for a Crafting Table! \\n\\nWe'll need &6Mechanical Crafters&r from &6&lCreate&r to create our Star. 55 total in a 9x9 Star Shape. Now it can be upside down as well! \\n\\nMake sure all &6Crafters&r are connected by Right Clicking with the &6&lCreate&r Wrench on its sides to change its direction. All of them need to go to one final spot. \\n\\nOnce all Items are in and each &6Crafter&r is given &dRotational Power&r the &6&lATM Star&r will be created!"]
+	quest.1D87415343E65AA7.quest_desc: ["The &5Creative &8Compressor&r allows you to choose any Bar Pressure you want! Positive, Negative, even 0! It can be used within Machines. \\n\\nYou'll need 4 stacks of Advanced Pressure Tubes, Advanced Liquid Compressor, Advanced Air Compressor, Electrostatic Compressor, and a Flux Compressor. \\n\\nI don't know what's harder getting the &6&lStar&r or remembering all the Items you need to make this!"]
+	quest.1D87415343E65AA7.title: "&5&lCreative &8Compressor"
+	quest.228CB313BAB6406E.quest_desc: ["Apparently this one didn't have a recipe by default! It's like the Mod Dev didn't want you using your &5Creative&r Locomotives in Survival. \\n\\nI didn't think they were too OP so enjoy your &5Trains&r! \\n\\nThey work like normal &3Locomotives&r just without needing Fuel or Energy! Just need &6Rails&r."]
+	quest.228CB313BAB6406E.title: "&5&lCreative &8Locomotive"
+	quest.23DE60E57136C207.quest_desc: ["The easiest infinite Energy storage, only needing 4 &3Energy Batteries&r (from &3&lID&r) and a &6&lStar&r! \\n\\nYou'll need to energize them all with... well as much Energy as &2&lMinecraft&r can handle... Quite literally the integer limit!"]
+	quest.23DE60E57136C207.title: "&5&lCreative &3Energy Battery"
+	quest.36ABE142039E712B.quest_desc: ["This one works like normal infinite energy storage, just this one can connect to your system though! Never have to worry about if your System has enough Power! And that includes the &5Quantum Armor&r. \\n\\nYou'll need 4 &dSuperdense Cells&r and an &6&lATM Star&r. Each &dSuperdense Cell&r needs 8 &dDense Cells&r, each &dDense Cell&r needs 8 &dEnergy Cells&r. \\n\\n256 &dEnergy Cells&r... plus a lotta energy!"]
+	quest.36ABE142039E712B.title: "&5&lCreative &dEnergy Cell"
+	quest.3BB0926C4C00BE1D.quest_desc: ["Don't you hate when you run out of Energy in your Jetpack? Well you'll neever need to worry about that again! \\n\\nYou might need to make every Jetpack before it, an &6&lATM Star&r, plus more expensive Items but hey it is worth it! \\n\\nJust put it on and use it as normal, just with less charging."]
+	quest.3BB0926C4C00BE1D.title: "&5&lCreative Jetpack"
+	quest.3D78D9F4E8A60EDB.quest_desc: ["Currently a pretty simple recipe, only needing 4 &5Unobtainium&r &dSource Jars&r that are completely filled with &dSource&r, 4 &dSource Gem Blocks&r, and a &6&lStar&r. Don't worry this will be changed to be even harder! \\n\\nThis jar is always full of &dSource&r and can be linked to anything needing &dSource&r. Including the &6&lATM Star&r multiblocks."]
+	quest.3D78D9F4E8A60EDB.quest_subtitle: "Get this first!"
+	quest.3D78D9F4E8A60EDB.title: "&5&lCreative &dSource &fJar"
+	quest.3FF61A4D7A250AE1.quest_desc: ["For this &5Creative &cEnergy Cell&r, not to be confused with the other &5Creative &dEnergy Cell&r, you'll need 4 &cNitro Cells&r. \\n\\nEach &cNitro Cell&r needs 2 &aSpirited Cells&r, and each &aSpirited Cell&r needs 2 &bNiotic Cells&r. This goes on for awhile... \\n\\nI'm not doing this math, get a Recipe Tree, I got more important things to do!"]
+	quest.3FF61A4D7A250AE1.quest_subtitle: "Unlimited Powah!"
+	quest.3FF61A4D7A250AE1.title: "&l&cEnergy Cell &5(Creative)"
+	quest.405D2571E61694FD.quest_desc: ["By Right Clicking a &dPatrick &aBee&r with an &6&lATM Star Block&r, you'll get a &6Starry Bee&r! \\n\\nYou'll need another &6&lATM Star Block&r for them to pollinate... I probably should have told you that before... \\n\\nThe &6Starry Bees&r will make &6Starry Combs&r which can then be used in a Centrifuge to rarely get &6Star Shards&r!"]
+	quest.405D2571E61694FD.title: "&6Starry Bee&r!"
+	quest.4F7F0A5162D70082.quest_desc: ["Don't be confused there is a full and empty &5Creative &aEnergy Cube&r. \\n\\n&aEmpty Cubes&r work as an Energy Trash Can, voiding any Energy coming into it. \\n\\n&aFull Cubes&r work as an infinite energy storage. You'll need &aempty Energy Cubes&r to make it though... and those are expensive! \\n\\nEnergizing 4 &aempty Energy Cubes&r with an &6&lATM Star&r you can get the full one."]
+	quest.4F7F0A5162D70082.title: "&5&lCreative &aEnergy Cube"
+	quest.5436157FDFC9633E.quest_desc: ["With 55 &6Star Shards&r we can rebuild &6&lATM Stars&r, 100% automated! \\n\\nNow these &5Creative&r Items will be a breeze to craft!"]
+	quest.5436157FDFC9633E.title: "Fully Automated &6&lATM Star"
+	quest.66E88F916B638B3B.quest_desc: ["This one might be a bit confusing, there is quite a few &5Creative &eSpellbooks&r! But the one we want is from &d&lAllTheArcanist Gear&r. \\n\\nTo make this one we need to craft the one from &l&dArs Nouveau&r. That &eSpellbook&r needs an &eArchmage Spellbook&r, &6&lATM Star&r, and a few extra Items. \\n\\nIt has the same configs as an &eUnobtainium Spellbook&r but has infinite Mana and all Glyphs unlocked! \\n\\nAll the Spell Power BWAHAHAHAHA!"]
+	quest.66E88F916B638B3B.title: "&5&lCreative &eSpellbook"
+	quest.6C16670D16113DE9.quest_desc: ["In order to automate &6&lATM Star&r crafting, we'll need &6Star Shards&r. In order to get &6Star Shards&r we'll need &6Starry Bees&r. \\n\\nAnd of course, to get &6Starry Bees&r we'll need &dPatrick &aBees&r! You can rarely get &dPatrick &aBees&r by fishing in Warm Oceans! \\nIf you don't wish to convert them, you can also farm &dPatrick &aStars&r with them."]
+	quest.6C16670D16113DE9.title: "&dPatrick &aStar&r... Bee?"
+	quest.73201E591C2A40CC.quest_desc: ["Now that you got &6Star Shards&r, you can start making the different parts to remake our &6&lStars&r! \\n\\nYou'll need 55 &6Star Shards&r total to remake 1 &6&lStar&r... hope you've got a good Bee set up!"]
+	quest.73201E591C2A40CC.title: "&6Star Shards&r"
+	quest.7C9154EF6068BE27.quest_desc: ["Technically you can also use the Crusher to make the &6&lATM Star&r into 5 &6Star Shards&r... \\n\\nBut you'll need 55 to make a new &6&lStar&r... \\n\\nSo why would you?"]
+	quest.7C9154EF6068BE27.title: "But why?"
+}
