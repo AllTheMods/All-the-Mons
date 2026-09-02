@@ -290,11 +290,7 @@
 	]
 	quest.6FD65139CD50A8C0.quest_desc: ["Is that even possible?\\n\\nIf you wish to automate this process you can use &eProductive Bees&r or &aMystical Agriculture&r. Or I guess you could automate it, with...explosions."]
 	quest.6FD65139CD50A8C0.quest_subtitle: "Tired of blowing stuff up?"
-	quest.7040CA41C0A3C2F2.quest_desc: [
-		"&3PCB Blueprints&r ON SALE NOW for 8 Emeralds. (Only for a limited time)."
-		"{@pagebreak}"
-		"(new page placeholder text)"
-	]
+	quest.7040CA41C0A3C2F2.quest_desc: ["&3PCB Blueprints&r ON SALE NOW for 8 Emeralds. (Only for a limited time)."]
 	quest.7040CA41C0A3C2F2.quest_subtitle: "Thanks Amadron!"
 	quest.7040CA41C0A3C2F2.title: "&9PCB Blueprint"
 	quest.715B86DC82EA636B.quest_desc: [
