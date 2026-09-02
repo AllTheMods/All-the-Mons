@@ -8,9 +8,13 @@
 
 let $HashSet = Java.loadClass("java.util.HashSet")
 let $ArrayList = Java.loadClass("java.util.ArrayList")
+let $BuiltInRegistries = Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
 
 let config
 let bannedBlockEntities
+// Resolved BlockEntityType objects, matched by identity so the chunk scan never calls a
+// method on a value Rhino handed back: getKey and toString both misresolve there.
+let bannedBlockEntityTypes = new $HashSet()
 
 if (!Platform.isClientEnvironment()) {
   let configPath = "server_banlist_config.json"
@@ -69,6 +73,21 @@ if (!Platform.isClientEnvironment()) {
   let $ChunkEvent$Load = Java.loadClass("net.neoforged.neoforge.event.level.ChunkEvent$Load")
   let $LevelTickEvent$Pre = Java.loadClass("net.neoforged.neoforge.event.tick.LevelTickEvent$Pre")
   if (!bannedBlockEntities.isEmpty()) {
+    bannedBlockEntities.forEach(id => {
+      try {
+        let type = $BuiltInRegistries.BLOCK_ENTITY_TYPE.get(id)
+        if (type == null) {
+          console.warn(`[banlist] no block entity type registered as '${id}', it will not be removed`)
+        } else {
+          bannedBlockEntityTypes.add(type)
+        }
+      } catch (error) {
+        console.error(`[banlist] could not resolve banned block entity '${id}': ${error}`)
+      }
+    })
+    if (bannedBlockEntityTypes.isEmpty()) {
+      console.error("[banlist] none of the banned block entities resolved, block entity removal is disabled")
+    }
     NativeEvents.onEvent($ChunkEvent$Load, event => {
       if (event.level.clientSide) return
 	  removeBlockEntities(event)
@@ -108,9 +127,7 @@ let removeBlockEntities = (/** @type {$ChunkEvent$Load_} */ event) => {
   if (event.chunk instanceof $LevelChunk) {
     if (event.chunk.persistedStatus != "minecraft:full") return
     event.chunk.getBlockEntities().forEach((pos, be) => {
-      /** @type {$ResourceLocation_} */
-      let beRL = be.getType().getKey(be.getType())
-      if (bannedBlockEntities.contains(beRL.toString())) {
+      if (bannedBlockEntityTypes.contains(be.getType())) {
         blocksToRemove.add(pos)
       }
     })
