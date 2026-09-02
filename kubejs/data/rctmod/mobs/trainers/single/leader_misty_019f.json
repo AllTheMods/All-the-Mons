@@ -1,0 +1,30 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_underground",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+    "is_wet",
+    "is_water",
+    "is_river",
+    "is_beach"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": 3,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "rival_terry_014c",
+      "rival_terry_014d",
+      "rival_terry_014e"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0.1,
+  "type": "leader"
+}

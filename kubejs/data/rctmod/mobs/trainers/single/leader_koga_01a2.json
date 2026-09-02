@@ -1,0 +1,24 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+    "is_swamp",
+    "is_jungle"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": 3,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "trainer_brendan_0039"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0.1,
+  "type": "leader"
+}

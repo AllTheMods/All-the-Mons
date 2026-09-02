@@ -1,0 +1,26 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_underground",
+    "is_nether",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+    "is_plains",
+    "is_sparse_vegetation"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": 3,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "trainer_brendan_0032"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0.1,
+  "type": "leader"
+}

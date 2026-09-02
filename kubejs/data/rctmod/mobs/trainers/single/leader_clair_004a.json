@@ -1,0 +1,24 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_end"
+  ],
+  "biomeTagWhitelist": [
+    "is_mountain",
+    "is_peak"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": 3,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "boss_giovanni_0045"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0.1,
+  "type": "leader"
+}

@@ -1,0 +1,24 @@
+{
+  "battleCooldownTicks": 240,
+  "biomeTagBlacklist": [
+    "is_void",
+    "is_end",
+    "is_wet"
+  ],
+  "biomeTagWhitelist": [
+    "is_hot"
+  ],
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": 3,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "trainer_may_003d"
+    ]
+  ],
+  "series": [
+    "radicalred"
+  ],
+  "spawnWeightFactor": 0.1,
+  "type": "leader"
+}
