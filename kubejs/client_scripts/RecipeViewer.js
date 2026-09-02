@@ -56,6 +56,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove(/mekmm:.*rolling_mill.*/)
 
   allthemods.remove("supplementaries:faucet")
+  allthemods.remove('ars_elemental:glyph_nullify_defense')
 
   allthemods.remove('legendarymonuments:meltan_box')
   allthemods.remove('legendarymonuments:meltan_candy')
