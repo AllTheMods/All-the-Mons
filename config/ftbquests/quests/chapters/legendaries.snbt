@@ -1662,9 +1662,9 @@
 			size: 2.0d
 			tasks: [
 				{
+					dimension: "legendarymonuments:hall_of_origin_world"
 					id: "1E6F000000001133"
-					structure: "legendarymonuments:hall_of_origin"
-					type: "structure"
+					type: "dimension"
 				}
 				{
 					id: "1E6F000000001134"
