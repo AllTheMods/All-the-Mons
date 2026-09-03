@@ -4,7 +4,7 @@
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
 		""
-		"Rarely wanders in &aCaves, Hills, Plateaus, and Mountains&r."
+		"Sometimes wanders in &aCaves, Hills, Plateaus, and Mountains&r."
 	]
 	quest.06AC44758A00C280.title: "&aLeader Brock"
 	quest.0AE4F79296B6A4E4.quest_desc: [
@@ -38,7 +38,7 @@
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
 		""
-		"Rarely wanders in &aLush and densely vegetated Biomes&r."
+		"Sometimes wanders in &aLush and densely vegetated Biomes&r."
 	]
 	quest.17CADE883895E1C4.title: "&aLeader Erika"
 	quest.23A05E86B1DF7B1E.quest_desc: [
@@ -52,7 +52,7 @@
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
 		""
-		"Rarely wanders in &aPlains and other sparsely vegetated Biomes&r."
+		"Sometimes wanders in &aPlains and other sparsely vegetated Biomes&r."
 	]
 	quest.245203DBA9D45934.title: "&aLeader Lt. Surge"
 	quest.2CB4138503F71E7A.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
@@ -86,7 +86,7 @@
 		""
 		"Can be found randomly at &9Gyms&r that spawns on &a#minecraft:village&r"
 		""
-		"Rarely wanders in &aRivers, Beaches, and other watery Biomes&r."
+		"Sometimes wanders in &aRivers, Beaches, and other watery Biomes&r."
 	]
 	quest.514A8996A1C18BAF.title: "&aLeader Misty"
 	quest.5184669F1F038E9A.quest_desc: [
