@@ -9,6 +9,7 @@ ServerEvents.recipes(allthemods => {
 
     allthemods.remove({ id: 'utilitarian:tiny_fuel/coal'})
     allthemods.remove({ id: 'utilitarian:tiny_fuel/charcoal'})
+    allthemods.remove({ id: 'utilitarian:utility/green_dye'})
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
