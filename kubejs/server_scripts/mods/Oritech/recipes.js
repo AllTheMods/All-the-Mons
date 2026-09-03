@@ -145,6 +145,27 @@
 		  "time": 6000
 		})
 		
+		// Immersive Engineering and The Undergarden both add their own items to #minecraft:coals, so the tag
+		// form of this recipe also crushes coal coke and ditchbulb paste into coal dust.
+		allthemods.remove({ id: 'oritech:crushing/compat/create/coal' })
+
+		const plainCoals = ['coal', 'charcoal']
+		plainCoals.forEach(coal => {
+			allthemods.custom({
+				"type": "create:crushing",
+				"ingredients": [
+					{
+						"item": `minecraft:${coal}`
+					}
+				],
+				"results": [
+					{
+						"id": "oritech:coal_dust"
+					}
+				]
+			}).id(`allthemods:crushing/${coal}_to_coal_dust`)
+		})
+
 		// Resolve conflict between Infused Alloy and Redstone Alloy
 		allthemods.custom({
 		    "type": "oritech:foundry",
