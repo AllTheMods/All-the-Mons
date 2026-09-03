@@ -23,6 +23,21 @@ ServerEvents.recipes(allthemods =>{
 		"aquamarine",
 		"persimmon"
 	]
+	allthemods.remove({ id: 'dyenamics:ma/dye/lavender_dye' })
+
+	// Dyenamics lays lavender out as the mirror of Mystical Agriculture's brown dye, and vanilla shaped
+	// matching is mirror insensitive, so brown wins the arrangement. This shape is symmetric and unclaimed.
+	allthemods.custom({
+		type: 'cucumber:shaped_no_mirror',
+		pattern: [
+			' E ',
+			'   ',
+			'E E'
+		],
+		key: { E: { item: 'mysticalagriculture:dye_essence' } },
+		result: { id: 'dyenamics:lavender_dye', count: 6 }
+	}).id('allthemods:crafting/lavender_dye_from_essence')
+
 	dyenamicdyes.forEach((name) => {
 		let material = `dyenamics:${name}_dye`
 		
