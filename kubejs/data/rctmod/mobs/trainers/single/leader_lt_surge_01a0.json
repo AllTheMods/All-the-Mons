@@ -21,6 +21,6 @@
   "series": [
     "radicalred"
   ],
-  "spawnWeightFactor": 0.1,
+  "spawnWeightFactor": 0.25,
   "type": "leader"
 }
