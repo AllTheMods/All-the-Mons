@@ -25,15 +25,7 @@
 	quest.3371F9248D403664.title: "&l&cRecompensa do Nether:&r&e Esqueletos Wither"
 	quest.3813F5C1760C3A79.quest_desc: ["A presença de Piglin Bárbaro aqui pode causar controvérsia, mas eu os considero Minibosses. \\n\\nEles aparecem em Bastiões com Piglins normais, mas estes são Hostis, não Neutros. Pessoalmente, eu odeio isso, especialmente porque se você os atacar, todos os Piglins se tornarão Hostis a você. \\n\\nEles têm 50 Corações e um Machado de Ouro para te atingir. Normalmente, Machados de Ouro mal causam dano, mas quando eles o usam, é divino de alguma forma! \\n\\nEles não dropam nada e agem mais como um obstáculo para os Bastiões!"]
 	quest.3813F5C1760C3A79.title: "&fMatar um &cPiglin Bárbaro"
-	quest.41C0948CD9D50322.quest_desc: [
-		"&fExplore e lute!"
-		"&fAqui você encontrará uma lista detalhada de todos, ou quase todos, os &6&lmonstros&r que pode encontrar para &c&lderrotar&r."
-		""
-		"&7Cada combate é um verdadeiro teste de resiliência."
-		"&7Fique de olho na raridade de cada saque."
-		""
-		"&eContinue caçando para ganhar todas as recompensas."
-	]
+	quest.41C0948CD9D50322.quest_desc: ["&fExplore e lute! &fAqui você encontrará uma lista detalhada de todos, ou quase todos, os &6&lmonstros&r que pode encontrar para &c&lderrotar&r.\\n\\n&7Cada combate é um verdadeiro teste de resiliência. &7Fique de olho na raridade de cada saque.\\n\\n&eContinue caçando para ganhar todas as recompensas."]
 	quest.41C0948CD9D50322.quest_subtitle: "Matando tudo o que for possível..."
 	quest.41C0948CD9D50322.title: "&eQuadro de Recompensas"
 	quest.42822B1E8A53D051.title: "&l&9Recompensa da Superfície:&r&e Esqueletos"

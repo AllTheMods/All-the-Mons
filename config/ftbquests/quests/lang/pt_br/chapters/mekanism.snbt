@@ -88,7 +88,7 @@
 	quest.1922623A26E08078.title: "&cTanques Produtos Químicos"
 	quest.19341B01E048ACAB.quest_desc: ["O &a&lTier Básico&r é o mais simples, mais barato e pior &lTier&r de &5Máquinas&r e Blocos! \\n\\nBem, a menos que você conte as &5Máquinas&r Padrão como um &lTier&r totalmente novo, mas eu não conto. Eu apenas o conto com o &a&lBásico&r. \\n\\nAs &5Máquinas&r começarão no padrão e podem ser Atualizadas para &a&lBásico&r. Enquanto outros Blocos como &bTubos&f ou &aCubos de Energia&r começarão no &a&lBásico&r. \\n\\nTodos estes são feitos de &4Redstone&f, &aCircuitos de Controle Básicos&f, e às vezes &7Ferro&r!"]
 	quest.19341B01E048ACAB.title: "&a&lTier Básico"
-	quest.195729280394ABFB.quest_desc: ["A &7&lMáquina&r cria duas Barras muito fortes: &ePedra Luminosa Refinada&f e &5Obsidiana Refinada&r.\\n\\nEla &7Infunde&r um &eItem&r com &7Ósmio&r para criar um Barra mais poderoso. \\n\\nPrecisaremos colocar &7Osmium Ingots&f, &7Osmium Blocks&f, ou um &cTanque Químico&f com &7Produto Químico de Ósmio&r para alimentar o &l&7Compressor&r com &7Ósmio&r!"]
+	quest.195729280394ABFB.quest_desc: ["A &7&lMáquina&r cria dois Lingotes muito fortes: &ePedra Luminosa Refinada&f e &5Obsidiana Refinada&r.\\n\\nEla &7Infunde&r um &eItem&r com &7Ósmio&r para criar um Lingote mais poderoso. \\n\\nPrecisaremos colocar &7Lingotes de Ósmio&f, &7Blocos de Ósmio&f, ou um &cTanque Químico&f com &7Produto Químico de Ósmio&r para alimentar o &l&7Compressor&r com &7Ósmio&r!"]
 	quest.195729280394ABFB.quest_subtitle: "Realmente Só é Bom Para 2 Coisas"
 	quest.195729280394ABFB.title: "Compressor de &7&lÓsmio"
 	quest.1ABD22AA58E093A6.quest_desc: ["Apenas as melhores das melhores &5Máquinas&r precisarão dos melhores Materiais. \\n\\nUse &d&lItens Ultimate&r para fazer estas &5Máquinas&r e mais! \\n\\nSim, você vai querer estas &5Máquinas&r, elas valem o tempo e os Materiais!"]
@@ -211,7 +211,7 @@
 	quest.6DC1E08D019FD543.quest_subtitle: "Processamento de Minério Tier 4"
 	quest.6DC1E08D019FD543.title: "Fazendo mais &3Cloreto de Hidrogênio"
 	quest.6F62B5510FA881CD.quest_desc: ["&7Ósmio&r é um Minério que surge abaixo do Nível Y 56. Seu Minério tem forma semelhante à &aEsmeralda&r com a Cor sendo um &bAzul-&7acinzentado&r! \\n\\nSerá útil para muitas das &5Máquinas&r usadas em &5&lMekanism&r! Então você precisará de muito! \\n\\nVocê também pode Criar &7Armadura &fe &7Ferramentas&r com ele! A &7Armadura &fe &7Espada&r têm os mesmos Pontos que a &cNetherita&r! Enquanto a &7Picareta&r é a mesma que uma &7Picareta de Ferro&r."]
-	quest.6F62B5510FA881CD.quest_subtitle: "O Barra de Criação Base"
+	quest.6F62B5510FA881CD.quest_subtitle: "O Lingote de Fabricação Base"
 	quest.6F62B5510FA881CD.title: "&7Ósmio"
 	quest.71869B1D81D6A7EF.quest_desc: ["A &2&lC.R.P.&r (&2&lCâmara de Reação Pressurizada&r) combina múltiplos &bFluidos &fe &cQuímicos&r com um &eItem&f para fazer novos &eItens &fe &cQuímicos&r! \\n\\n&bFluidos&r, muito provavelmente &9Água&r, vão na Barra mais à esquerda. &cQuímicos&r vão na Barra ao lado, e &eItens&r iniciais no &4Slot Vermelho&r. \\n\\nO &eItem&r finalizado aparecerá no &9Slot Azul&r e o &cQuímico&r finalizado estará na &9Barra Azul&r. \\n\\nA &2&lC.R.P.&r pode fazer alguns Itens como Itens de PEAD, &7Pólvora&r e &aEnxofre&r, e até &2Itens Nucleares&r!"]
 	quest.71869B1D81D6A7EF.title: "&2&lCâmara de Reação Pressurizada"

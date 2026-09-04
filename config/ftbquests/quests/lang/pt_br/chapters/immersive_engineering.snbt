@@ -58,7 +58,7 @@
 	quest.18A9392BBCF5A871.quest_desc: ["Como todo Mod de Máquina, o &8&lImmersive Engineering&r precisa de uma maneira de mover &eItens&r, &bFluidos&r e mais! \\n\\nA maioria das Máquinas terá &6Saídas&r e &9Entradas&r definidas por padrão, mas estas podem ser configuradas, como com a &6Chave de Fenda do Engenheiro&r! Você também pode precisar usar um &6Martelo de Engenheiro&r, mas isso é diferente."]
 	quest.18A9392BBCF5A871.title: "Logística do &8&lImmersive Engineering&r"
 	quest.1A13039D6302ADA5.quest_desc: ["Você pode verificar Missões anteriores para aprender a construir alguns destes: &7Componentes Mecânicos de Ferro&r nos &eBlocos de Engenharia Leve&r e &8Chapas de Aço&r nos &7Blocos de Engenharia Pesada&r. \\nAs &eBobinas de Electro&r serão um pouco diferentes, no entanto... \\n\\nAs &eBobinas de Electro&r precisam de um Lingote de Ferro e 8 Bobinas de Fio MV. Para obter Bobinas de Fio MV, precisaremos cortar um pouco de &eElectrum&r com os Alicates de Fio de Engenheiro."]
-	quest.1A13039D6302ADA5.title: "&6Generator Block"
+	quest.1A13039D6302ADA5.title: "&6Bloco Gerador"
 	quest.1A3F053E0F693002.quest_desc: ["O Sistema de Lubrificação Avançado agirá como Inquebrável para nossas &8Cabeças de Broca&r e &8Lâminas de Serra Circular&r. \\n\\nEles perderão menos Durabilidade com o uso."]
 	quest.1A3F053E0F693002.quest_subtitle: "Pare de rir do nome!"
 	quest.1A6A383B4EF26B20.quest_desc: ["A &4&lBroca de Mineração&r não tem muitas opções, temos uma &7Cabeça de Broca de Ferro&r ou uma &8Cabeça de Broca de Aço&r. \\n\\n&7Cabeças de Broca de Ferro&r Mineram em uma Área de 2x2 no Tier de uma &7Picareta de Ferro&r. Também causa 6 de Dano e tem menos Durabilidade que a... \\n\\n&8Cabeças de Broca de Aço&r Mineram em uma Área de 3x3 no mesmo Tier de uma &bPicareta de Diamante&r. Estas causam 7 de Dano e têm mais Durabilidade!"]
@@ -81,7 +81,7 @@
 	]
 	quest.1C76E244AE3582E6.title: "&5&lMontador"
 	quest.1D4E7F548431263A.quest_desc: ["De longe o mais simples destes blocos de fazer. \\n\\nFerro e &4Redstone&r você obterá da jogabilidade &2&lVanilla&r, o único item \"difícil\" é a &7Iron Sheetmetal&r."]
-	quest.1D4E7F548431263A.title: "&4Redstone Engineering Block"
+	quest.1D4E7F548431263A.title: "&4Bloco de Engenharia de Redstone"
 	quest.1F7DA060792D716A.quest_desc: [
 		"O &d&lMisturador&r é como aqueles que sua mãe/avó usa para misturar ovos com farinha e açúcar para fazer qualquer guloseima deliciosa que elas estejam preparando! \\n\\nO &d&lMisturador&r misturará &eItens&r e &bFluidos&r. Para colocar &bFluidos&r, precisaremos usar a porta do lado esquerdo do &d&lMisturador&r. Para dar a ele &eItens&r, precisaremos usar as portas na parte de trás. \\n\\nPara funcionar, ele precisará de &cEnergia&r inserida pela porta na parte superior da frente do &d&lMisturador&r. \\n\\nDepois que ele misturar, nosso resultado sairá pela porta na frente da máquina!"
 		"{@pagebreak}"
@@ -230,7 +230,7 @@
 	quest.452EF09F6CB4AD99.quest_desc: ["&cRelays&r não conectam &cFios&r a Máquinas, mas sim conectam &cFios&r a mais &cFios&r! \\n\\n&cRelays&r funcionam combinando um monte de &cFios&r em um só lugar, então ele pegará toda a &9Energia&r de &cEntrada&r e a enviará para &cConectores&r para todas as &6Saídas&r conectadas. \\n\\nIsso é útil para quando você tem um Gerador de Energia que deseja carregar várias Máquinas!"]
 	quest.452EF09F6CB4AD99.title: "&cRelays"
 	quest.458265FCD6B3068E.quest_desc: ["Todo mundo amava as Estações de Criação do &lTinker's Construct&r e, aparentemente, os desenvolvedores do &8&lIE&r também! \\n\\nA &6Engineer's Crafting Table&r agirá como uma Bancada de Trabalho normal, com 18 Slots de Armazenamento adicionais, e ainda mantém seus &eItens&r na Grade quando você para de visualizá-la! \\n\\nO que mais você poderia querer!"]
-	quest.458265FCD6B3068E.title: "&6Engineer's Crafting Table"
+	quest.458265FCD6B3068E.title: "&6Mesa de Fabricação do Engenheiro"
 	quest.47656073894224AF.quest_desc: ["Sim, é como as dos navios de guerra gigantes! \\n\\nO &5&lCanhão Magnético&r é uma Arma especial. Primeiro, ele usa Munição especial, não Cartuchos como o Revólver usa. Segundo, ele usa &cEnergia&r e precisa carregar antes de atirar. \\n\\nA Munição que ele usa são &eItens&r do seu Inventário: &7Hastes de Alumínio&r, &7Ferro&r e &8Aço&r, &0Eletrodos de Grafite&r, Lâminas de Serra, Pérolas do Ender, Tridentes, Varas de Blaze e Varas do End. \\n\\nEle pegará o que estiver no seu Inventário, para mudar o que ele Atira, Segure Shift e Role o mouse. \\n\\nEm seguida, ele precisa de &cEnergia&r dentro dele para Atirar, para carregá-lo podemos usar qualquer &cCarregador de Itens&r, incluindo o adicionado pelo &8&lImmersive Engineering&r! \\n\\nAssim que tivermos tudo isso, Segure o Botão Direito do Mouse até o Canhão Magnético chegar ao Nível 99, então solte! \\n\\nAs Melhorias do &5&lCanhão Magnético&r são: Mira de Precisão e Dissipadores de Calor. \\n\\nEle pode segurar 2 Melhorias, bem, faz sentido que não possa usar mais do que isso!"]
 	quest.47656073894224AF.title: "&5&lCanhão Magnético"
 	quest.47E32A084CAA1512.quest_desc: ["Pode ser Trocado com um Armeiro ou Fabricado. \\n\\nArmas não são muito divertidas sem Balas, então vamos Fabricar algumas! Para Fabricá-las, no entanto, precisaremos deste &9Projeto&r."]
