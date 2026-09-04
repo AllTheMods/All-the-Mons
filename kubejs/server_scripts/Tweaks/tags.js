@@ -281,6 +281,13 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add("c:strings", ["legendarymonuments:dream_string"])
     allthemods.add("c:plates/plastic", ["industrialforegoing:plastic", "pneumaticcraft:plastic"])
     allthemods.add("c:tools/shield", ["cataclysm:azure_sea_shield", "cataclysm:black_steel_targe", "cataclysm:bulwark_of_the_flame"])
+
+    // nothing, so drop them the way Artifacts own overlay_disable_accessories would.
+    allthemods.remove("accessories:belt", ["#artifacts:slot/belt"])
+    allthemods.remove("accessories:hand", ["#artifacts:slot/hands"])
+    allthemods.remove("accessories:hat", ["#artifacts:slot/head", "#artifacts:slot/face", "#artifacts:slot/all"])
+    allthemods.remove("accessories:necklace", ["#artifacts:slot/necklace"])
+    allthemods.remove("accessories:shoes", ["#artifacts:slot/feet"])
 })
 
 ServerEvents.tags('block', allthemods => {
