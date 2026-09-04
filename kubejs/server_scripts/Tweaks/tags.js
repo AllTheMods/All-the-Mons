@@ -297,6 +297,8 @@ ServerEvents.tags('block', allthemods => {
     allthemods.add("minecraft:ceiling_hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
     allthemods.add("minecraft:wall_hanging_signs", ["ars_nouveau:archwood_hanging_wall_sign"])
     allthemods.add("constructionstick:non_placable", ["cobblemon:black_apricorn", "cobblemon:blue_apricorn", "cobblemon:green_apricorn", "cobblemon:pink_apricorn", "cobblemon:red_apricorn", "cobblemon:white_apricorn", "cobblemon:yellow_apricorn"])
+
+    allthemods.add("legendarymonuments:cosmic_dust_spawnable_blocks", ["minecraft:basalt", "minecraft:smooth_basalt", "minecraft:blackstone", "minecraft:dead_tube_coral_block", "minecraft:dead_fire_coral_block", "minecraft:dead_horn_coral_block", "minecraft:dead_bubble_coral_block"])
 })
 
 ServerEvents.tags('worldgen/biome', allthemods => {
