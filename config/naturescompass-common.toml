@@ -12,7 +12,7 @@
 	# Range: 0 ~ 1000000
 	sampleSpaceModifier = 16
 	#A list of biomes that the compass will not be able to search for, specified by resource location. The wildcard character * can be used to match any number of characters, and ? can be used to match one character. Ex: ["minecraft:savanna", "minecraft:desert", "minecraft:*ocean*"]
-	biomeBlacklist = []
+	biomeBlacklist = ["integrateddynamics:meneglin", "ars_nouveau:archwood_forest", "ars_elemental:blazing_forest", "ars_elemental:cascading_forest", "ars_elemental:flashing_forest", "ars_elemental:flourishing_forest", "ars_elemental:vexing_caves"]
 	#The maximum number of samples to be taken when searching for a biome.
 	# Default: 50000
 	# Range: 0 ~ 1000000
