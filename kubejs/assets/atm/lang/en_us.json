@@ -307,6 +307,8 @@
 	"kubejs.atm.tooltip.mekanism.waste_to_plutonium_buffed": "Waste -> Plutonium buffed!",
 	"kubejs.atm.tooltip.mekanism.waste_to_polonium_buffed": "Waste -> Polonium buffed!",
 	"kubejs.atm.tooltip.patrickyu_egg": "§6Patrickyu Variant",
+	"kubejs.atm.tooltip.regional_food.1": "§7Right-Click a Pokémon to cure its status condition",
+	"kubejs.atm.tooltip.regional_food.2": "§7§lShift-Right-Click§r§7 to eat it yourself",
 	"kubejs.atm.tooltip.runic.1": "§7Spawns at the bottom of the world up to Y 2",
 	"kubejs.atm.tooltip.silent_ingot.1": "§7§oThese arent the ingots you are looking for",
 	"kubejs.atm.tooltip.silent_ingot.allthemodium": "§6Look for the [Silent Allthemodium Plate]",

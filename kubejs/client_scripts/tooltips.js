@@ -162,6 +162,12 @@ ItemEvents.modifyTooltips(allthemods => {
     allthemods.add('eternal_starlight:loot_bag[eternal_starlight:loot_table="eternal_starlight:bosses/lunar_monstrosity"]', [
         Text.translate('kubejs.atm.tooltip.eternal_starlight.loot_bag_lunar_monstrosity.1')
     ])
+
+	//Cobblemon
+    allthemods.add(['cobblemon:pewter_crunchies', 'cobblemon:rage_candy_bar', 'cobblemon:lava_cookie', 'cobblemon:old_gateau', 'cobblemon:casteliacone', 'cobblemon:lumiose_galette', 'cobblemon:big_malasada', 'cobblemon:smoked_tail_curry', 'cobblemon:jubilife_muffin', 'cobblemon:open_faced_sandwich'], [
+        Text.translate('kubejs.atm.tooltip.regional_food.1'),
+        Text.translate('kubejs.atm.tooltip.regional_food.2')
+    ])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
