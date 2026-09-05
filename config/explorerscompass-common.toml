@@ -8,7 +8,7 @@
 	# Range: 0 ~ 1000000
 	maxRadius = 5000
 	#A list of structures that the compass will not display in the GUI and will not be able to search for. Wildcard character * can be used to match any number of characters, and ? can be used to match one character. Ex: ["minecraft:buried_treasure", "minecraft:end*", "minecraft:*village*"]
-	structureBlacklist = []
+	structureBlacklist = ["cobblemonextrastructures:ancient_tomb", "cobblemonextrastructures:bell_tower", "cobblemonextrastructures:desert_ruins", "cobblemonextrastructures:island_cave", "cobblemonextrastructures:snowpoint_temple", "rgs:blackthorn_gym", "rgs:celadon_gym", "rgs:cerulean_gym", "rgs:cinnabar_gym", "rgs:fuchsia_gym", "rgs:pewter_gym", "rgs:saffron_gym", "rgs:vermilion_gym"]
 	#The maximum number of samples to be taken when searching for a structure.
 	# Default: 100000
 	# Range: 0 ~ 100000000
