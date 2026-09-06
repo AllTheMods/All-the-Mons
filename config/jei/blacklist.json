@@ -32,8 +32,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"pneumaticcraft:creative_upgrade"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"quarryplus:creative_generator"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"rftoolspower:dimensionalcell_creative"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"xycraft_machines:item_selector"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"xycraft_machines:fluid_selector"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"stevescarts:module_creative_engine"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"stevescarts:module_creative_hull"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"stevescarts:upgrade_creative_mode"},"type":"item_stack"}},
