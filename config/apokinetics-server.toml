@@ -398,18 +398,14 @@
 		# Default: 1.0
 		# Range: 0.0 ~ 1000000.0
 		strengthMultiplier = 1.0
-		#Minimum combined chance while at least one positive contribution is active.
+		#Minimum expected bonus copies after additive stacking.
 		# Default: 0.0
-		# Range: 0.0 ~ 1.0
-		minimumCombinedEffect = 0.0
-		#Maximum combined chance. Default 0.90 prevents guaranteed resources; set 1.0 explicitly to allow 100%.
-		# Default: 0.9
-		# Range: 0.0 ~ 1.0
-		maximumCombinedEffect = 0.9
-		#Diminishing-stacking strength. 1.0 is independent probability; higher is stronger, lower is weaker.
-		# Default: 1.0
-		# Range: 1.0E-6 ~ 1000000.0
-		diminishingExponent = 1.0
+		# Range: 0.0 ~ 1000000.0
+		minimumCombinedBonusCopies = 0.0
+		#Maximum expected bonus copies after additive stacking. Whole values guarantee copies; the fraction rolls once.
+		# Default: 1000000.0
+		# Range: 0.0 ~ 1000000.0
+		maximumCombinedBonusCopies = 1000000.0
 
 		#Direct contribution for each gem purity. Rotation and strengthMultiplier are applied before stacking.
 		[gems.yielding.values]

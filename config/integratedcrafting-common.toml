@@ -7,6 +7,10 @@
 		logRecipeValidationFailures = true
 		#The minimal update frequency in ticks to use for crafting interfaces.
 		minCraftingInterfaceUpdateFreq = 5
+		#The number of ticks after which a measured crafting duration is forgotten, so that estimations follow changes to the network. Set to 0 to never forget them.
+		craftingInterfaceRecipeDurationMaxAge = 144000
+		#The maximum number of recipes that a crafting interface remembers crafting durations for, which are used to estimate the duration of crafting jobs. Set to 0 to disable recipe-specific estimations.
+		craftingInterfaceRecipeDurationEntries = 32
 
 	[general.general]
 		#The base energy usage for the crafting interface per crafting job being processed.

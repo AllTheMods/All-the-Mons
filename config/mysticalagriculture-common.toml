@@ -40,6 +40,8 @@
 	requiresEffectiveFarmland = false
 	#Should Supremium & Awakened Supremium Armor be unbreakable?
 	unbreakableSupremiumArmor = false
+	#Should Supremium & Awakened Supremium Armor be enchantable in an Enchanting Table?
+	enchantableSupremiumArmor = true
 
 #World generation options.
 [World]

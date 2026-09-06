@@ -32,6 +32,12 @@
 	max_discount = 0.35
 	#Enables and disables compat structures for Repurposed Structures mod
 	repurposed_structures_compat = true
+	#Copies sawmill recipes to Create's Mechanical Saw. Off by default: the saw picks a random matching recipe, so a log could come out as any sawmill output
+	create_saw_compat = false
+	#Multiplier applied to the spawn weight of carpenter houses inside villages. Higher values make them more common compared to the other houses of a village. Set to 0 to stop them from generating altogether. Does not affect Repurposed Structures villages, use a datapack for those
+	# Default: 1.0
+	# Range: 0.0 ~ 16.0
+	carpenter_house_spawn_rate = 1.0
 
 	#This is a map of wood object type to its cost in planks. Its used to add some discount to some special blocks.Change this if say you want all fences to cost 1 plank. Not all keys will work here bt you can try modded ones if you hae Every Compat
 	[general.special_recipe_costs]

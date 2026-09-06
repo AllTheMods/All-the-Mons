@@ -261,7 +261,16 @@
 
 		[functional.cannon.plunderer]
 			enabled = true
+			#Galleons are automatically disabled if 'rope' feature is disabled
 			galleon = true
+			#Chance for a raid wave to spawn in open water near the village instead of on land. Such waves arrive on boats steered by plunderers, which take the place of some of the wave pillagers. The rest swim along and hop on when a seat is free. Set to 0 to disable
+			# Default: 0.75
+			# Range: 0.0 ~ 1.0
+			naval_raid_chance = 0.75
+			#Chance for a naval wave pillager to be replaced by a plunderer. 1 replaces them all
+			# Default: 0.5
+			# Range: 0.0 ~ 1.0
+			naval_raid_plunderer_chance = 0.5
 
 	[functional.present]
 		enabled = true
@@ -311,7 +320,6 @@
 	candle_holder = true
 	fire_pit = true
 	wicker_fence = true
-	brittlestone = true
 
 	[building.sconce]
 		enabled = true
@@ -415,6 +423,7 @@
 
 	[building.globe]
 		enabled = true
+		#Sepia globes are automatically disabled if 'antique_ink' feature is disabled
 		sepia_globe = true
 		#Displays current coordinates when using a globe
 		show_coordinates = true
@@ -587,13 +596,25 @@
 		cooldown = true
 
 		[tools.bomb.blue_bomb]
-			#Bomb explosion radius (damage depends on this)
-			# Default: 5.15
+			#Blue bomb explosion radius. Same blast as a normal bomb, just a bit bigger
+			# Default: 3.0
 			# Range: 0.1 ~ 10.0
 			explosion_radius = 5.15
-			#Do bombs break blocks like tnt?
+			#Do blue bombs break blocks like tnt?
 			#Allowed Values: ALL, WEAK, NONE
 			break_blocks = "WEAK"
+			#How many baby bombs a blue bomb scatters when it goes off. Set to 0 to turn it into a plain, bigger bomb
+			# Default: 5
+			# Range: 0 ~ 32
+			split_count = 5
+			#Explosion radius of the baby bombs scattered by a blue bomb
+			# Default: 1.2
+			# Range: 0.1 ~ 10.0
+			baby_explosion_radius = 1.2
+			#Seconds of fire baby bombs set nearby entities on fire for. 0 to disable
+			# Default: 5
+			# Range: 0 ~ 100
+			baby_fire_duration = 5
 
 	[tools.slingshot]
 		enabled = true
@@ -667,7 +688,7 @@
 	[tweaks.placeable_sticks]
 		#Allow placeable sticks
 		sticks = true
-		#Allow placeable blaze rods
+		#Allow placeable blaze and breeze rods
 		blaze_rods = true
 
 	[tweaks.placeable_gunpowder]

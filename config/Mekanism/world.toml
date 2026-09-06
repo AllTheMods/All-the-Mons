@@ -488,3 +488,96 @@ userWorldGenVersion = 0
 	# Default: 1
 	# Range: 0 ~ 2031
 	halfHeight = 1
+
+#Generation Settings for Silver ore.
+[silver]
+	#Determines if Silver ore should be added to world generation.
+	shouldGenerate = true
+
+	#Small Silver Vein Generation Settings.
+	[silver.small]
+		#Determines if Small Silver Veins should be added to world generation. Note: Requires generating silver ore to be enabled.
+		shouldGenerate = true
+		#Chance that Small Silver Veins generates in a chunk.
+		# Default: 16
+		# Range: 1 ~ 256
+		perChunk = 16
+		#Maximum number of blocks in a Small Silver Vein.
+		# Default: 4
+		# Range: 1 ~ 64
+		maxVeinSize = 4
+		#Chance that blocks that are directly exposed to air in a Small Silver Vein are not placed.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		discardChanceOnAirExposure = 0.0
+		#Distribution shape for placing Small Silver Veins.
+		#Allowed Values: TRAPEZOID, UNIFORM
+		shape = "TRAPEZOID"
+		#Half length of short side of trapezoid, only used if the shape is Trapezoid. A value of zero means the shape is a triangle.
+		plateau = 0
+
+		#Minimum (inclusive) height anchor for Small Silver Veins. This defines the minimum y-level that Small Silver Veins can spawn at.
+		[silver.small.minInclusive]
+			#The type of anchor. This is used to define how the value is used in calculating the y-level.
+			#Absolute (y = value)
+			#Above Bottom (y = minY + value)
+			#Below Top (y = depth - 1 + minY - value)
+			#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
+			type = "ABSOLUTE"
+			#Value used for calculating the y-level for the anchor based on the type.
+			value = -24
+
+		#Maximum (inclusive) height anchor for Small Silver Veins. This defines the maximum y-level that Small Silver Veins can spawn at.
+		[silver.small.maxInclusive]
+			#The type of anchor. This is used to define how the value is used in calculating the y-level.
+			#Absolute (y = value)
+			#Above Bottom (y = minY + value)
+			#Below Top (y = depth - 1 + minY - value)
+			#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
+			type = "ABSOLUTE"
+			#Value used for calculating the y-level for the anchor based on the type.
+			value = 88
+
+	#Large Silver Vein Generation Settings.
+	[silver.large]
+		#Determines if Large Silver Veins should be added to world generation. Note: Requires generating silver ore to be enabled.
+		shouldGenerate = true
+		#Chance that Large Silver Veins generates in a chunk.
+		# Default: 10
+		# Range: 1 ~ 256
+		perChunk = 10
+		#Maximum number of blocks in a Large Silver Vein.
+		# Default: 8
+		# Range: 1 ~ 64
+		maxVeinSize = 8
+		#Chance that blocks that are directly exposed to air in a Large Silver Vein are not placed.
+		# Default: 0.0
+		# Range: 0.0 ~ 1.0
+		discardChanceOnAirExposure = 0.0
+		#Distribution shape for placing Large Silver Veins.
+		#Allowed Values: TRAPEZOID, UNIFORM
+		shape = "TRAPEZOID"
+		#Half length of short side of trapezoid, only used if the shape is Trapezoid. A value of zero means the shape is a triangle.
+		plateau = 0
+
+		#Minimum (inclusive) height anchor for Large Silver Veins. This defines the minimum y-level that Large Silver Veins can spawn at.
+		[silver.large.minInclusive]
+			#The type of anchor. This is used to define how the value is used in calculating the y-level.
+			#Absolute (y = value)
+			#Above Bottom (y = minY + value)
+			#Below Top (y = depth - 1 + minY - value)
+			#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
+			type = "ABSOLUTE"
+			#Value used for calculating the y-level for the anchor based on the type.
+			value = -32
+
+		#Maximum (inclusive) height anchor for Large Silver Veins. This defines the maximum y-level that Large Silver Veins can spawn at.
+		[silver.large.maxInclusive]
+			#The type of anchor. This is used to define how the value is used in calculating the y-level.
+			#Absolute (y = value)
+			#Above Bottom (y = minY + value)
+			#Below Top (y = depth - 1 + minY - value)
+			#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
+			type = "ABSOLUTE"
+			#Value used for calculating the y-level for the anchor based on the type.
+			value = 64

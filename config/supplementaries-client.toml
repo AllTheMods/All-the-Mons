@@ -122,16 +122,6 @@
 		# Range: 0.01 ~ 200.0
 		wobbling_period = 12.0
 
-	[blocks.pulley]
-		#How the topmost moving block of a continuous-mode pulley is clipped
-		#against the pulley body so it appears to disappear into / emerge from it.
-		# - OFF: no masking, the block may poke through the pulley
-		# - STENCIL: clean clip using stencil buffer (recommended)
-		# - DEPTH: simpler depth-buffer clip; can interact poorly with translucent
-		#   blocks (slime, glass, water) rendered after BE pass
-		#Allowed Values: OFF, STENCIL, DEPTH
-		mask_mode = "STENCIL"
-
 	[particles.turn_particle]
 		#An RGBA color
 		initial_color = "#002A77EA"
@@ -159,6 +149,10 @@
 	# Default: 0
 	# Range: -10000 ~ 10000
 	configs_button_y_offset = 0
+	#Make the config button open Moonlight's mod list, where every installed mod's config can be reached, instead of going straight to Supplementaries' own config
+	configs_button_opens_mod_list = true
+	#Outline the config button with a rainbow when hovered
+	configs_button_rainbow_outline = true
 
 [tweaks]
 	#Adds an overlay to projectile weapons in gui displaying currently selected ammo

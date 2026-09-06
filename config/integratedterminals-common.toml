@@ -13,6 +13,8 @@
 		guiStorageFluidIncrementalQuantity = 1000
 		#The number of items that should be selected when clicking on a fluid in the storage terminal.
 		guiStorageFluidInitialQuantity = 100000
+		#If a toast should be shown when a crafting job that you requested has been completed.
+		craftingJobFinishedToast = true
 
 	[general.general]
 		#If the crafting grid should always be shown centrally, and not be responsive based on screen size.
@@ -45,11 +47,13 @@
 		syncItemStorageAndCraftingTabStates = true
 		#The number of columns in the medium scale of the storage terminal.
 		guiStorageScaleMediumColumns = 10
+		#If the automatic re-sorting of the storage terminal contents should be paused while the shift key is held down.
+		guiStoragePauseSortingWhileShifting = true
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
 		analytics = false
-		#If the crafting planners can work on separate thread.
+		#If the crafting planners can work on separate thread. WARNING: THIS IS UNSAFE, AND WILL CAUSE SOME JOBS TO FAIL!!!
 		craftingPlannerEnableMultithreading = false
 		#The maximum number of terminal storage crafting recipes that can be sent in a single packet. Reduce this when you have packet overflows.
 		terminalStoragePacketMaxRecipes = 128
@@ -67,3 +71,7 @@
 		packetDeserializationEnableMultithreading = true
 		#If client-directed packets should be serialized in a separate thread.
 		packetSerializationEnableMultithreading = true
+		#If ender-upgraded storage terminals should emit ender particles.
+		terminalStorageEnderParticles = false
+		#If storage terminals can be ender-upgraded with an eye of ender to gain a tab with the player's ender chest contents.
+		terminalStorageTabEnderChestEnabled = true
