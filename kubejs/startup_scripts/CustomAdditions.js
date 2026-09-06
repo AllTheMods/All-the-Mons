@@ -21,12 +21,6 @@ StartupEvents.registry('item', allthemods => {
     allthemods.create('silent_allthemodium_plate').displayName('Silent Allthemodium Plate').glow(true);
     allthemods.create('silent_vibranium_plate').displayName('Silent Vibranium Plate').glow(true);
     allthemods.create('silent_unobtainium_plate').displayName('Silent Unobtainium Plate').glow(true);
-
-    allthemods.create('atm_star_shard_1').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_2').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_3').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_4').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_5').displayName('ATM Star Fragment')
 })
 
 StartupEvents.modifyCreativeTab('ironfurnaces:ironfurnaces_tab', allthemods => {
