@@ -76,14 +76,14 @@ Added mods:
 </details>
 
 <details open>
-<summary>Updated (93)</summary>
+<summary>Updated (92)</summary>
 
 Mod list changes after the latest successful launch:
 Updated mods:
 
 - AE2 Import Export Card (1.21.1-1.5.0 > 1.21.1-1.6.0)
 - All The Leaks (1.1.11+1.21.1-neoforge > 1.1.12+1.21.1-neoforge)
-- All The Mons (0.5.0 > 0.6.1)
+- All The Mons (0.5.0 > 0.6.2)
 - Amendments (1.21-2.1.7 > 1.21-2.1.9)
 - Apokinetics (1.0.4 > 1.0.6)
 - Apothic Enchanting (1.6.0 > 1.6.2)
@@ -144,7 +144,7 @@ Updated mods:
 - Mekanism: MoreMachine (1.3.3 > 1.4.1)
 - ModernFix (5.27.20+mc1.21.1 > 5.27.24+mc1.21.1)
 - ModularBees (1.21.1-3.3-neoforge > 1.21.1-3.4-neoforge)
-- Moonlight Lib (1.21.1-3.3.0 > 1.21.1-3.6.1)
+- Moonlight Lib (1.21.1-3.3.0 > 1.21.1-3.6.3)
 - Mystical Agriculture (8.0.27 > 8.0.28)
 - NaturesAura (41.9 > 41.10)
 - neoforge (21.1.248 > 21.1.249)
@@ -165,10 +165,9 @@ Updated mods:
 - Sophisticated Storage In Motion (0.10.33 > 0.10.34)
 - Starbunclemania (1.5.7 > 1.5.8)
 - SuperMartijn642's Core Lib (1.1.22 > 1.1.24)
-- Supplementaries (1.21.1-3.8.5 > 1.21.1-3.9.7)
+- Supplementaries (1.21.1-3.8.5 > 1.21.1-3.9.8)
 - Tesseract API (1.12.13-1.21.1 > 1.12.16-1.21.1)
 - Titanium (4.0.45 > 4.0.50)
-- Torchmaster (21.1.9 > 21.1.11)
 - Trash Cans (1.0.18+c > 1.1.0)
 - Universal Sawmill (1.21-1.8.0 > 1.21-1.8.1)
 - Waystones (21.1.40 > 21.1.42)
