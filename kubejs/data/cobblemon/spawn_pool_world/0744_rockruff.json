@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "atmons-rockruff-1",
+      "pokemon": "rockruff",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "uncommon",
+      "level": "2-27",
+      "weight": 5.04,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "biomes": [
+          "#cobblemon:is_badlands",
+          "#cobblemon:is_hills"
+        ]
+      }
+    },
+    {
+      "id": "atmons-rockruff-dusk-1",
+      "pokemon": "rockruff wolf_form=dusk",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "rare",
+      "level": "2-27",
+      "weight": 5.04,
+      "condition": {
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "timeRange": "dusk",
+        "biomes": [
+          "#cobblemon:is_badlands",
+          "#cobblemon:is_hills"
+        ]
+      }
+    }
+  ]
+}
