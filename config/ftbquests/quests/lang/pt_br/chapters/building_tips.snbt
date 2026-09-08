@@ -13,15 +13,14 @@
 	quest.0539AF15A10B2859.quest_desc: ["As &lMáquinas Compactas&r permitem que você entre em uma dimensão compactada. Depois de colocar uma &lMáquina Compacta&r, você pode entrar nela usando o Dispositivo de Encolhimento Pessoal.\\n\\nO tamanho da &lMáquina Compacta&r depende da receita, variando de 5x5x5 a 45x45x45!\\n\\nVocê não pode quebrar as paredes da &lMáquina Compacta&r, e pode sair clicando com o botão direito no Dispositivo de Encolhimento Pessoal."]
 	quest.0539AF15A10B2859.title: "&lMáquinas Compactas"
 	quest.0596F6C70758EEC0.quest_desc: ["Apesar de serem os mais caros, também são os mais bonitos!\\n\\nE é isso que importa para as Construções!"]
-	quest.0596F6C70758EEC0.title: "&7Blocos de &fMetal&r \\& &bGemas"
 	quest.06FFBB12CFA87815.quest_desc: ["Os Troncos do &2Vanilla &lMinecraft&r, encontradas nos diferentes Biomas &2Vanilla&r!\\n\\nNão preciso explicar mais do que isso!"]
 	quest.06FFBB12CFA87815.title: "&fTroncos do &2Vanilla&r"
 	quest.09955CF85F579E0F.quest_desc: ["Você vai conseguir isso eventualmente, é literalmente o Bloco mais abundante em &2&lMinecraft&r."]
-	quest.09955CF85F579E0F.title: "&fBlocos de Pedra"
+	quest.09955CF85F579E0F.title: "Blocos de Pedra"
 	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r é outro Mod baseado no &lChiseled&r.\\n\\nA essência do Mod é usar a Ferramenta Chisel para mudar os designs de alguns Blocos.\\n\\nVocê pode clicar com o botão direito com o Chisel para abrir sua GUI, lá você pode colocar até um pack de Blocos, então escolher um design que você quer, e retirá-lo. Ou você pode mantê-lo no Chisel, embora eu não veja por que você iria querer fazer isso.\\n\\nVocê também pode clicar com o botão esquerdo em um Bloco com o Chisel para mudar seu design sem abrir a INTERFACE do Chisel!\\n\\nNão se preocupe, este não tem Durabilidade."]
 	quest.09F49ED309152E24.title: "&l&cChisel Reborn"
 	quest.0A21773B773F34F8.quest_desc: ["A cor é uma das partes mais importantes para tornar uma Construção mais viva!\\n\\nEla dá vida, personalidade e cor!\\n\\nComece com os Corantes!"]
-	quest.0A21773B773F34F8.title: "&fBlocos &zColoridos"
+	quest.0A21773B773F34F8.title: "Blocos &zColoridos"
 	quest.0EB6ED88895366D0.quest_desc: ["Lembra quando era só Pedra e Pedregulho?"]
 	quest.0EB6ED88895366D0.title: "&fPedras do &2Vanilla&r"
 	quest.0FE30548F25FEDB1.quest_desc: ["Se você é como eu e não gosta de viver em uma Caixa (isso me lembra muito a Escola), então você vai gostar de ter Vidro em suas Construções para ver o lado de fora.\\n\\nEmbora os normais da Vanilla sejam bons, claro que podemos fazer muito melhor!\\n\\nPodemos até obter algum uso disso!"]
@@ -30,7 +29,7 @@
 	quest.10A2E758D7743DD0.quest_desc: ["O &5&lEternal Starlight&r é o lar de muitos Itens, Mobs e Blocos únicos.\\n\\nÁrvores também!\\n\\nVocê pode encontrar essas Árvores por toda a Dimensão em quase todos os Biomas."]
 	quest.10A2E758D7743DD0.title: "Árvores do &5&lEternal Starlight&r"
 	quest.11C43962B06D5092.quest_desc: ["Isso é necessário?"]
-	quest.11C43962B06D5092.title: "&fAgora você está só se exibindo"
+	quest.11C43962B06D5092.title: "Agora você está só se exibindo"
 	quest.1591013DDD4766E1.quest_desc: ["&l&cCooking for Blockheads&r é sobre fazer da Cozinha o seu lar. \\n\\nRecomendo usar tudo o que ele oferece, pois cada Item tem um uso e parece incrível!"]
 	quest.1591013DDD4766E1.title: "&l&cCooking for Blockheads&r"
 	quest.1972B36F72808D55.quest_desc: ["Apenas algumas dessas pedras estão lascadas."]
@@ -72,7 +71,7 @@
 	quest.392F34FD4FCC794A.quest_desc: ["Embora possam ser caros, eles também são muito estilosos!"]
 	quest.392F34FD4FCC794A.title: "Blocos de &2&lMystical Agriculture&r"
 	quest.3BA4504DEFB87264.quest_desc: ["Funciona de forma semelhante às &lSimply Lights&r, a Invertida acenderá quando nenhuma Redstone for aplicada, enquanto a normal só funcionará com Redstone. \\n\\nNo entanto, estas precisam ser fixadas a uma Parede para serem colocadas."]
-	quest.3BA4504DEFB87264.title: "&fLâmpadas de Parede"
+	quest.3BA4504DEFB87264.title: "Lâmpadas de Parede"
 	quest.3E4B27759C973006.quest_desc: ["&l&6Framed Blocks&r é o Mod de Construção mais importante de todos. Na verdade, se você me der um Modpack e &l&6Framed Blocks&r não estiver nele, eu não jogo. É tão importante assim! \\n\\n&l&6Framed Blocks&r nos dá Blocos de imitação que podem ser preenchidos com qualquer Bloco que não seja uma Entidade de Bloco (Entidades de Bloco são Blocos como Mesa de Trabalho, Fornalha ou Câmara de Enriquecimento). \\n\\nEssas Estruturas podem ter praticamente qualquer forma! Desde Lajes verticais, até rampas, e até mesmo quartos de bloco! \\n\\nVocê quer Escadas de &5Netherita&r? Então use Framed Blocks! Você quer uma Mesa de Trabalho de Fardo de Feno? Você pode ter! Você quer ângulos perfeitos em sua construção? Então comece a fazer &l&6Framed Blocks&r!"]
 	quest.3E4B27759C973006.title: "&l&6Framed Blocks&r"
 	quest.3ED8365BAD406CC5.quest_desc: ["Estes são Mods que eu achei perfeitos para decorar sua casa ou base! \\n\\nSinta-se à vontade para conferir ainda mais do que é mostrado aqui!"]
@@ -84,11 +83,10 @@
 	quest.3FD9DC6B7844A79C.quest_desc: ["Eu sempre odiei como o Concreto é sem graça, especialmente na vida real. \\n\\nBem, pelo menos no &2&lMinecraft&r com o Mod &l&bChipped&r podemos obter diferentes designs com ele!"]
 	quest.3FD9DC6B7844A79C.title: "&fConcreto &l&bChipped&r"
 	quest.40C068B2B8AC0F33.quest_desc: ["Terraformar é uma parte importante até mesmo das Construções mais simples. Mas nós, Jogadores de &2&lMinecraft&r, simplesmente não temos tempo ou esforço para isso. \\n\\nEntão, por que não deixar as Máquinas fazerem isso por nós? \\n\\nPedreiras são maneiras muito fáceis de fazer isso, mas todas começam com Quebradores de Blocos. O Quebrador de Blocos Simples só quebrará o que está à sua frente, não é o mais útil... \\n\\nMas o Quebrador de Blocos Avançado Minará uma Área definida! Muito melhor para Terraplanar!"]
-	quest.40C068B2B8AC0F33.title: "&fPedreiras e Minas"
+	quest.40C068B2B8AC0F33.title: "Pedreiras e Minas"
 	quest.44688FC2E34FF09F.quest_desc: ["O Minecraft já adiciona centenas de Blocos, e os Mods adicionam mais centenas! Mas às vezes ainda não é o suficiente. \\n\\nCom alguns Mods podemos mudar os Blocos que já temos em outros com diferentes formas, designs e até mesmo em Blocos totalmente novos!"]
-	quest.44688FC2E34FF09F.title: "&fMudando Blocos"
+	quest.44688FC2E34FF09F.title: "Mudando Blocos"
 	quest.48971CE964CF037F.quest_desc: ["Embora proteger nossos Reatores Nucleares seja importante e visualizar seu conteúdo esteja relacionado à segurança dele. \\n\\nO Vidro também pode ser usado para deixar nossas bases mais bonitas! \\n\\nE, na verdade, o que é mais importante: segurança e proteção de nossos reatores nucleares? Ou deixar nossas bases mais bonitas!"]
-	quest.48971CE964CF037F.title: "&fVidro dos &3Reatores"
 	quest.4BEA1F7E788B50C5.quest_desc: ["O &l&cChisel Reborn&r é outro mod baseado no &lChipped&r. \\n\\nA essência do mod é... espere, missão errada.\\n\\nO &l&cCobble&fmon &7Stone Statues&r permite que você faça uma &7Estátua&r de basicamente qualquer &cPokémon&r que você possa imaginar, em uma variedade de poses diferentes.\\n\\nClique com o botão direito usando o Cinzel de &7Estátua&r para selecionar um &cPokémon&r, depois uma de suas poses possíveis, se a &7Estátua&r será de &7Pedra&r ou &6Ouro&r, e também a escala da &7Estátua&r, para deixá-la maior ou menor.\\n\\nVocê precisará de 5 de &7Pedra&r ou 5 &6Blocos de Ouro&r no seu inventário para posicionar uma Estátua.\\n\\nAdivinhou, esse Cinzel também não tem durabilidade."]
 	quest.4BEA1F7E788B50C5.title: "&l&cCobble&fmon &7Stone Statues"
 	quest.51E77B9CD3FB6DEA.quest_desc: ["Isso não é necessário, mas eu acho muito útil. \\n\\nAs Garras de Escavação aumentam o Nível da sua Picareta, para suas Mãos. Assim, você pode Minerar até Minério de Ferro apenas com seus Punhos! \\n\\nIsso também inclui minerar coisas como Pedra, Terracota e Concreto. E você pode até minerar isso com os Blocos em suas Mãos. \\n\\nHonestamente, é basicamente necessário."]
@@ -107,7 +105,6 @@
 	quest.5F7F753FD72BFBBF.quest_desc: ["Mais blocos adicionados por &l&7Railcraft&r? Estou começando a duvidar se é mesmo sobre Trens!"]
 	quest.5F7F753FD72BFBBF.title: "Blocos Coloridos do &l&7Railcraft&r"
 	quest.61BE7882EE0E6FAF.quest_desc: ["O que rola escada abaixo \\nSozinho ou em pares... \\nRola sobre o cachorro do seu vizinho \\nO que é ótimo para um lanche \\nE cabe nas suas costas? \\nÉ Tronco! Tronco! Tronco!"]
-	quest.61BE7882EE0E6FAF.title: "&6Troncos"
 	quest.6258F26293B9C1C1.quest_desc: ["O que o &9&lCrystalix&r nos dá, você pergunta? \\nEle nos dá Vidro! Todos os tipos diferentes de Vidro! Há o Normal, o Transparente e o com Borda. \\n\\nCom Borda é o padrão de Vidro do &2&lMinecraft&r. Ele tem bordas e pixels perto do canto para que você saiba que é Vidro. Transparente tem as bordas, mas não os pixels perto dos cantos, então o interior é todo transparente. Normal não tem bordas nem pixels, é inteiramente 100% transparente e de uma só cor. \\n\\nCada Vidro do &9&lCrystalix&r tem suas próprias propriedades também: Sem Sombra, Reforçado, Luminoso e Fantasma. \\n\\nSem Sombra afetará como ele reage aos Shaders e até mesmo à iluminação do &2&lMinecraft&r. Reforçado afetará a Resistência a Explosões. Luminoso afetará se ele emite Luz, ignora a Luz ou age como vidro normal, deixando a Luz entrar. Fantasma poderá mudar quem pode atravessar o Vidro, este tem o maior número de configurações."]
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.6607E5CDB3D17D67.quest_desc: ["Não se preocupe, estas não vão pegar fogo!"]
@@ -120,7 +117,7 @@
 	quest.6F65216B13E9FFA9.title: "Blocos!"
 	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r é um Mod muito importante para construção, mesmo para construções com propósitos! \\nNão é apenas Vidro normal, estes têm habilidades que podem ser lidas ao passar o mouse sobre o Item! \\n\\nComo o Vidro Etéreo, pelo qual você pode passar, mas os Mobs não. (Eu usei isso para minha Cúpula de Abelhas em 9sky!)"]
 	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
-	quest.7C2ED69E07988DF4.quest_desc: ["A Cadeira original do &2&lMinecraft&r, as escadas. \\n\\nBem-vindo ao &2&lMinecraft&r Modificado, temos muito mais do que apenas escadas para decoração. \\n\\nExistem dezenas de mods que adicionam decoração e ainda mais que adicionam itens que podem ser usados para decoração!"]
+	quest.7C2ED69E07988DF4.quest_desc: ["A Cadeira original do &2&lMinecraft&r, as escadas. \\n\\nBem-vindo(a) ao &2&lMinecraft&r Modificado, temos muito mais do que apenas escadas para decoração. \\n\\nExistem dezenas de mods que adicionam decoração e ainda mais que adicionam itens que podem ser usados para decoração!"]
 	quest.7C2ED69E07988DF4.title: "Decoração!"
 	quest.7CF13A4941F608E5.quest_desc: ["De Vidro normal, a Vidro com Painéis, a até mesmo Mosaicos!"]
 	quest.7CF13A4941F608E5.title: "&fVidro &l&bChipped&r"

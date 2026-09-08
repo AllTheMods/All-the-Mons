@@ -27,7 +27,7 @@
 	]
 	quest.053483E3349B2F8A.title: "&bSantuário Sempiterno Azul"
 	quest.0584073A7383E0EA.quest_desc: [
-		"Algumas das Missões da &5Abelha Rainha&r podem parecer irritantes porque não há muitos lugares para farmar &dEndermites&r e &7Traça&r.\\n\\nBem, não havia até as atualizações recentes! Bem-vindo à Fortaleza dos Ácaros!\\n\\nNas enormes estruturas pontiagudas de &7Pedra&r você encontrará &7Traça&r em abundância (além de saques, especialmente dentro da &5Obsidiana&r).\\n\\nNo meio da estrutura, com tudo de cor &5Roxa&r, haverá &dEndermites&r.\\n\\nA propósito, você sabia que as &8A&6b&8e&6l&8h&6a&8s&r atacarão &dEndermites&r e &7Traça&r! Entre na batalha com elas para conquistar o coração de sua &5Rainha&r!"
+		"Algumas das Missões da &5Abelha Rainha&r podem parecer irritantes porque não há muitos lugares para farmar &dEndermites&r e &7Traça&r.\\n\\nBem, não havia até as atualizações recentes! Bem-vindo(a) à Fortaleza dos Ácaros!\\n\\nNas enormes estruturas pontiagudas de &7Pedra&r você encontrará &7Traça&r em abundância (além de saques, especialmente dentro da &5Obsidiana&r).\\n\\nNo meio da estrutura, com tudo de cor &5Roxa&r, haverá &dEndermites&r.\\n\\nA propósito, você sabia que as &8A&6b&8e&6l&8h&6a&8s&r atacarão &dEndermites&r e &7Traça&r! Entre na batalha com elas para conquistar o coração de sua &5Rainha&r!"
 		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
 	]
 	quest.0584073A7383E0EA.title: "Fortaleza dos Ácaros"
@@ -92,7 +92,7 @@
 	quest.21BFDE6AD1C0F62A.quest_desc: ["Obviamente, na vida real, há muito mais do que apenas &6Abelhas de Mel&r ou &6Mamangavas&r, então a &6&lBumblezone&r adiciona mais &8A&6b&8e&6l&8h&6a&8s&r e &8A&6b&8e&6l&8h&6a&8s&r únicas! \\n\\nDe &4&lRabo Vermelho&r &8A&6b&8e&6l&8h&6a&8s&r, a &9Azuis&r &8A&6b&8e&6l&8h&6a&8s&r, a &8A&6b&8e&6l&8h&6a&8s&r Neopolitanas!"]
 	quest.21BFDE6AD1C0F62A.title: "Variantes de &8A&6b&8e&6l&8h&6a&8s&r"
 	quest.22BB55249EF2E819.quest_desc: ["A &l&6Bumblezone&r é um Mod de Exploração que adiciona uma dimensão totalmente nova dentro de nossas &eColmeias&r. \\n\\nJá se perguntou o que as &6A&8b&6e&8l&6h&8a&6s&r fazem em suas &eColmeias&r? Bem, você pode descobrir se aventurando nela!"]
-	quest.22BB55249EF2E819.quest_subtitle: "Bem-vindo ao Bumble!"
+	quest.22BB55249EF2E819.quest_subtitle: "Bem-vindo(a) ao Bumble!"
 	quest.22BB55249EF2E819.title: "&l&6A Bumblezone!"
 	quest.253957D992A88C88.quest_desc: [
 		"Este Escudo, como parece ser o caso da maioria dos Itens aqui, pode ser: encontrado em estruturas, criado ou trocado com a &5Abelha Rainha&r. \\n\\nFunciona como um Escudo &2Vanilla&r, segure-o na sua mão secundária e bloqueie ataques. \\n\\nO que o torna diferente (e melhor) é que, depois de repará-lo com &5Cristais de Mel&r, ele ficará mais forte."

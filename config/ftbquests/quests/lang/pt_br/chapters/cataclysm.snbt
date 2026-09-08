@@ -295,7 +295,7 @@
 	quest.7F4963FCAE5337EC.quest_desc: ["Porque só lutar contra o &b&lIgnis&r não é difícil o suficiente, você terá que lutar contra o &bFantasma Incendiado&r primeiro para obter as &bCinzas Ardentes&r. \\n\\nQuando as tiver, use-as no Altar de Fogo para invocar o &b&lIgnis&r."]
 	quest.7F4963FCAE5337EC.quest_subtitle: "Reacendendo o Ignis"
 	quest.7F4963FCAE5337EC.title: "&7Cinzas &cArdentes"
-	task.01063DC98BCE5A91.title: "&cO Cataclismandante"
+	task.01063DC98BCE5A91.title: "O Cataclismandante"
 	task.0303CDB18BBD9575.title: "TodosOsDireitosReservados"
 	task.0B7F934439806558.title: "TodosOsDireitosReservados"
 }

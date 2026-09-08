@@ -44,7 +44,7 @@
 	quest.4CE6EB54B12EF6C5.quest_subtitle: "&f10 de &cDano de Ataque"
 	quest.4DCEC4B97E24B6F1.quest_subtitle: "&f17 de &cDano de Ataque"
 	quest.512396B331108BAF.quest_subtitle: "Nível: &e5"
-	quest.5151CDD8FCDE7A07.quest_desc: ["Bem-vindo às Ferramentas Básicas!\\n\\nJá pegou uma ferramenta que nunca viu ou ouviu falar e quis saber onde ela se encaixa entre outras ferramentas? Então essas missões são perfeitas para você!\\n\\n(As espadas são classificadas por dano base, espadas que podem ser melhoradas ou usadas para obter mais dano não estão incluídas).\\n\\nA missão para todas as picaretas e espadas é OPCIONAL!"]
+	quest.5151CDD8FCDE7A07.quest_desc: ["Bem-vindo(a) às Ferramentas Básicas!\\n\\nJá pegou uma ferramenta que nunca viu ou ouviu falar e quis saber onde ela se encaixa entre outras ferramentas? Então essas missões são perfeitas para você!\\n\\n(As espadas são classificadas por dano base, espadas que podem ser melhoradas ou usadas para obter mais dano não estão incluídas).\\n\\nA missão para todas as picaretas e espadas é OPCIONAL!"]
 	quest.5151CDD8FCDE7A07.quest_subtitle: "Todas as Ferramentas"
 	quest.5151CDD8FCDE7A07.title: "Ferramentas Básicas!"
 	quest.51DBE688ED630DB1.quest_subtitle: "Nível: &54"

@@ -133,7 +133,7 @@
 		"As Minhocas Sonoras surgem ao pisar em &3Sculk Infestado&r nas &9Terras Baixas&r. \\n\\nElas são Mini chefes com 100 &4Corações&r. \\n\\nSe você chegar muito perto, elas te morderão, causando muito Dano! Mas se você for para muito longe, elas recuarão de volta para o chão. \\n\\nElas não dropam nada além de um pouco de &aXP&r, o que eu não acho que valha o trabalho."
 		"{image:atm:textures/questpics/deepndark/dnd_worm.png width:100 height:200 align:center}"
 	]
-	quest.774D61FEFABEFD9A.title: "&3Minhoca Sonora"
+	quest.774D61FEFABEFD9A.title: "Minhoca Sonora"
 	quest.78BCED8699ADEDF4.quest_desc: ["O &3Vidro Acústico&r é feito combinando &3Pó das Almas&r e Vidro. \\n\\nEstes funcionam para abafar o Som, assim como a Lã! Se um &3Sensor de Sculk &fou &3Emissor&r tiver um cobrindo-os, eles não ouvirão os Sons. \\n\\nSó que através destes você pode ver!"]
 	quest.78BCED8699ADEDF4.title: "&3Vidro Acústico"
 	quest.7CBAA67204CC258C.quest_desc: ["Não, o &9&lDefensor&r não usa Espadas e Machados. Mas nós podemos! \\n\\nAmbos, a &9Espada do Defensor &fe o &9Machado&r, são aprimoramentos de suas &cversões de Netherite&r com um &9Fragmento de Eco Reforçado &fe um &9Molde de Aprimoramento do Defensor&r. \\n\\nCada um tem 1 &4Coração&r de Dano a mais e ainda mais Durabilidade! \\n\\nSim, o Machado ainda pode derrubar Árvores eficientemente."]
