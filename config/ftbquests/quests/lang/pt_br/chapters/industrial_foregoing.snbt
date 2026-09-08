@@ -90,7 +90,7 @@
 		"{image:atm:textures/questpics/industrialforegoing/blaze_input_for_interface.png width:125 height:100 align:center}"
 		"{image:atm:textures/questpics/industrialforegoing/water_for_interface.png width:125 height:100 align:center}"
 		"{@pagebreak}"
-		"Opcionalmente, você pode colocar um Rótulo de Transferência entre o &5Provedor Avançado&r e o &cDestilador&r.\\n\\nSe você ainda está confuso com esta configuração, ou prefere assistir a um vídeo, confira o vídeo que linkei aqui, do ChosenArchitect:"
+		"Opcionalmente, você pode colocar um Rótulo de Transferência entre o Provedor Avançado e o Destilador.\\n\\nSe você ainda está confuso com esta configuração, ou prefere assistir a um vídeo, confira o vídeo que linkei aqui, do ChosenArchitect:"
 		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://youtu.be/DOW4xkxqp6g?si=paZ2xFKyycPumqaS&t=427\"},\"color\":\"blue\",\"text\":\"LINK DO VÍDEO AQUI\",\"underlined\":true} "
 	]
 	quest.538186D01429F05F.quest_subtitle: "Usando AE2"

@@ -57,13 +57,13 @@
 		""
 		"As diferentes Máquinas são exigentes com as Configurações e precisarão ser alteradas em sua INTERFACE para mover itens corretamente. Então você pode usar os &5&lCanos Meka&r para mover o que precisar!"
 		""
-		"Mas espere, não é só para o &5&lMekanism&r que eles funcionam! Eles funcionam para muitas outras máquinas também! Só precisam ser configurados com uma Chave Inglesa para Empurrar e Puxar."
+		"Mas espere, não é só para o &5&lMekanism&r que eles funcionam! Eles funcionam para muitas outras máquinas também! Só precisam ser configurados com uma Chave-Inglesa para Empurrar e Puxar."
 		""
 		"(Eles podem causar um pouco de lag quando usados em massa, então tome cuidado com eles)."
 	]
 	quest.34CFE1439262AA72.title: "&5&lMekanism"
 	quest.36836AD948F96B9F.quest_desc: [
-		"O mais simples dos simples dos &e&lCanos&r, o &eCano de Item&r. \\n\\nEle moverá Itens de um Inventário para outro. Pode ser de um Baú para outro, de uma Fazenda para um Sistema, ou até de uma Pedreira para uma Fundição. \\n\\nMuito simples, basta conectar os &eCanos&r ao que você quer mover, e usar sua Chave Inglesa para configurar de qual lado ele Puxa. "
+		"O mais simples dos simples dos &e&lCanos&r, o &eCano de Item&r. \\n\\nEle moverá Itens de um Inventário para outro. Pode ser de um Baú para outro, de uma Fazenda para um Sistema, ou até de uma Pedreira para uma Fundição. \\n\\nMuito simples, basta conectar os &eCanos&r ao que você quer mover, e usar sua Chave-Inglesa para configurar de qual lado ele Puxa. "
 		"{image:atm:textures/questpics/logistics/pipez_item.png width:200 height:50 align:center}"
 	]
 	quest.36836AD948F96B9F.title: "&ePipez de Item"
@@ -94,9 +94,9 @@
 		"{image:atm:textures/questpics/logistics/pipez_energy.png width:200 height:50 align:center}"
 	]
 	quest.53EC96FA0E7C4ED4.title: "&cPipez de Energia"
-	quest.5C0F6B1C93A52113.quest_desc: ["Agora, este é o verdadeiro Coração do &c&lLaserIO&r! Os &cNós de Laser&r são onde os Cartões realmente irão para funcionar. \\n\\nEles moverão Itens de qualquer Inventário adjacente nas 4 Direções Cardeais e para Cima e para Baixo. Para mover para Inventários mais distantes, você precisará de um segundo &cNó&r e conectá-los com a Chave Inglesa, segurando Shift e clicando com o botão direito no 1º e clicando com o botão direito no 2º. \\n\\nVocê colocará os Cartões nos Slots da Direção correta e também pode colocar Overclockers de Nó lá para fazê-lo funcionar mais rápido."]
+	quest.5C0F6B1C93A52113.quest_desc: ["Agora, este é o verdadeiro Coração do &c&lLaserIO&r! Os &cNós de Laser&r são onde os Cartões realmente irão para funcionar. \\n\\nEles moverão Itens de qualquer Inventário adjacente nas 4 Direções Cardeais e para Cima e para Baixo. Para mover para Inventários mais distantes, você precisará de um segundo &cNó&r e conectá-los com a Chave-Inglesa, segurando Shift e clicando com o botão direito no 1º e clicando com o botão direito no 2º. \\n\\nVocê colocará os Cartões nos Slots da Direção correta e também pode colocar Overclockers de Nó lá para fazê-lo funcionar mais rápido."]
 	quest.5F1218CF8EFC607B.quest_desc: [
-		"&c&lLaserIO&r é a continuação do DireWolf da &lLogística&r do &a&lEnderIO&r."
+		"&c&lLaserIO&r é a continuação criada por DireWolf da &a&lEnderIO&r na área de &lLogística&r."
 		""
 		"É tudo sobre mover itens via &cLasers&r! Quem não ama &cLasers&r?!"
 		""
@@ -113,7 +113,7 @@
 	quest.6E05B62A40D5A891.quest_desc: [
 		"&3&lIntegrated Dynamics&r é tudo sobre &f&lLogística&r! É praticamente a definição de &lLogística&r."
 		""
-		"É tudo sobre mover, gerenciar e armazenar itens. Caramba, você pode nem precisar da Chave Inglesa para isso, é tão bem projetado! Pegue uma por precaução, no entanto."
+		"É tudo sobre mover, gerenciar e armazenar itens. Caramba, você pode nem precisar da Chave-Inglesa para isso, é tão bem projetado! Pegue uma por precaução, no entanto."
 		""
 		"(Solução de tubos menos lagada, estes são recomendados)."
 	]
@@ -128,8 +128,8 @@
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.76CECFB244F39F18.title: "&3Importação de Energia"
-	quest.7BC8F50A89A3BE1A.quest_desc: ["Estes são apenas usados para Conectar &cNós de Laser&r uns aos outros e a Conectores. Não são muito importantes, eu só queria manter o tema das Chaves Inglesas. \\n\\nFunciona como uma Chave Inglesa para outras Configurações!"]
-	quest.7EE27C3908008E20.quest_desc: ["Se precisar estender seus &cNós de Laser&r por uma longa distância, tente usar Conectores! Basta usar a Chave Inglesa como de costume."]
+	quest.7BC8F50A89A3BE1A.quest_desc: ["Estes são apenas usados para Conectar &cNós de Laser&r uns aos outros e a Conectores. Não são muito importantes, eu só queria manter o tema das Chaves Inglesas. \\n\\nFunciona como uma Chave-Inglesa para outras Configurações!"]
+	quest.7EE27C3908008E20.quest_desc: ["Se precisar estender seus &cNós de Laser&r por uma longa distância, tente usar Conectores! Basta usar a Chave-Inglesa como de costume."]
 	task.2BA7FC10243AA011.title: "Tubos Pressurizados"
 	task.337725ECA2C04090.title: "Transportadores Lógicos"
 	task.4448DE84ABA737BE.title: "Cabos Universais"
