@@ -63,8 +63,8 @@
   "relics.description.researching.general.relic_rank.extra_info": "Obtido aumentando manualmente o grau da relíquia, o que zera todo o progresso ds melhorias, mas aumenta seu nível máximo.",
 
   "relics.description.researching.relic.card.low_level": "Para desbloquear esta habilidade, você deve aumentar o nível da relíquia para %1$s!",
-  "relics.description.researching.relic.card.unresearched": "Para usar esta habilidade, você deve concluir a pesquisa!",
   "relics.description.researching.relic.card.low_rank": "Para desbloquear, você precisa elevar o grau da relíquia para %1$s!",
+  "relics.description.researching.relic.card.unresearched": "Para usar esta habilidade, você deve concluir a pesquisa!",
   "relics.description.researching.relic.card.ready_to_unlock": "A habilidade está pronta para ser desbloqueada! Cliques restantes: %1$s",
   "relics.description.researching.relic.card.ready_to_upgrade": "A habilidade está pronta para ser melhorada!",
 
@@ -239,7 +239,7 @@
   "item.relics.roller_skate": "Patins",
   "relics.description.roller_skate.description": "Aparentemente inofensivos, estes patins são o legado de um inventor maluco que sonhava em capturar o vento. Um passo é suficiente para que os patins o puxem para frente, ganhando movimento e acelerando-o à velocidade do vento. Em mãos habilidosas, essa rapidez pode se transformar em uma dança de fogo: uma curva fechada, e uma série de faíscas mortais voa pelo chão, deixando um rastro de chamas para trás.",
   "relics.description.roller_skate.ability.skating": "Aceleração",
-  "relics.description.roller_skate.ability.skating.description": "Com esta relíquia, corridas normais rapidamente deixam de ser normais. A superfície desliza sobre os pés, movimento se torna mais preciso e, ao derrapar, faíscas voam sob as rodas, cortando tão bem quanto uma espada.",
+  "relics.description.roller_skate.ability.skating.description": "Ao correr continuamente, aumenta gradualmente a velocidade de movimento do jogador, atingindo o bônus máximo de %1$s%% após 5 segundos. À medida que a velocidade aumenta, os blocos também ficam mais escorregadios.",
   "relics.description.roller_skate.ability.skating.rank_modifier.step_height": "Aumenta a altura do passo enquanto corre em %2$s blocos.",
   "relics.description.roller_skate.ability.skating.rank_modifier.resistance": "À medida que a velocidade de movimento aumenta, a resistência ao dano recebido também aumenta até %3$s%%.",
   "relics.description.roller_skate.ability.skating.rank_modifier.sparkling": "Ao derrapar, espalha faíscas que causam %4$s de dano e incendeiam alvos por %5$s segundos por unidade de velocidade do usuário da relíquia no momento em que aparecem.",
@@ -254,7 +254,7 @@
   "relics.description.roller_skate.ability.skating.statistic.ignite_duration": "Duração da Ignição por Faíscas",
 
   "item.relics.midnight_mantle": "Manto da Meia-noite",
-  "relics.description.midnight_mantle.description": "A relíquia muda com a Lua: sob uma lua cheia, o usuário ataca mais rápido e forte, sob a lua nova, ele se torna mais resistente e se recupera de feridas mais facilmente. Na escuridão, ela o esconde de observadore s até a luz revelar sua silhueta novamente. E se o usuário for ferido, as estrelas brilham ao seu redor, prontas para formar uma constelação mortífera.",
+  "relics.description.midnight_mantle.description": "A relíquia muda com a Lua: sob uma lua cheia, o usuário ataca mais rápido e forte, sob a lua nova, ele se torna mais resistente e se recupera de feridas mais facilmente. Na escuridão, ela o esconde de observadores até a luz revelar sua silhueta novamente. E se o usuário for ferido, as estrelas brilham ao seu redor, prontas para formar uma constelação mortífera.",
   "relics.description.midnight_mantle.ability.phase": "Fase Lunar",
   "relics.description.midnight_mantle.ability.phase.mode.full_moon": "Lua Cheia",
   "relics.description.midnight_mantle.ability.phase.mode.new_moon": "Lua Nova",
@@ -399,7 +399,7 @@
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.blood_projectile_damage": "Dano causado por projéteis de sangue",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.salvation_triggers": "Acionamentos de mitigação de dano em troca da ativação da habilidade",
   "relics.description.sphere_of_self_sacrifice.ability.sacrifice.statistic.salvation_damage_blocked": "Dano mitigado em troca da ativação da habilidade",
-  
+
   "item.relics.hunting_belt": "Cinto de Caça",
   "relics.description.hunting_belt.description": "A relíquia não dá poder ao usuário diretamente. Em vez disso, ela dá sua fúria às feras domesticadas ao seu lado e seus golpes se tornam notávelmente mais fortes. Quanto mais de tais feras se juntam à luta, pior fica para o alvo desejado.",
   "relics.description.hunting_belt.ability.slots": "Expansão de Arsenal",

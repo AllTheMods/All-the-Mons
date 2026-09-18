@@ -212,7 +212,7 @@
   "description.mekanismgenerators.reactor.logic.disabled": "Não irá emitir sinal de redstone",
   "description.mekanismgenerators.reactor.logic.ready": "Reactor atingiu o nível necessário de calor para ignição",
   "description.mekanismgenerators.reactor.logic.temperature": "Despejar quando o reator atingir temperaturas perigosas",
-  "description.mekanismgenerators.reactor_glass": "Vidro Reforçado que pode ser utilizado no multibloco do Reator de Fusão.",
+  "description.mekanismgenerators.reactor_glass": "Vidro Reforçado que pode ser usado nos multiblocos do Reator de Fissão e do Reator de Fusão, além de quaisquer outros compatíveis.",
   "description.mekanismgenerators.rotational_complex": "Conector colocado na Hélice mais alta da Turbina Industrial para transportar energia cinética para Bobinas Eletromagnéticas.",
   "description.mekanismgenerators.saturating_condenser": "Um bloco que condensa o vapor transformado por uma Turbina Industrial em água reutilizável. Isso pode ser colocado em qualquer disposição que esteja acima do seu complexo rotativo.",
   "description.mekanismgenerators.solar_generator": "Um gerador que usa o poder do sol para produzir energia.",
