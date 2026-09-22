@@ -2,5 +2,9 @@
   {
     "mob": "minecraft:squid",
     "result": "deny"
+  },
+  {
+    "mob": "minecraft:glow_squid",
+    "result": "deny"
   }
 ]
