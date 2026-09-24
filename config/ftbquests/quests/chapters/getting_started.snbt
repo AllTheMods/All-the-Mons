@@ -1105,7 +1105,7 @@
 				id: "57295E23FF0932C4"
 				item: {
 					count: 1
-					id: "simpletms:tm_blank"
+					id: "cobblemon:blank_tm"
 				}
 				type: "item"
 			}]

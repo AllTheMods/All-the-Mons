@@ -259,7 +259,7 @@ ServerEvents.tags('item', allthemods => {
 })
 
 ServerEvents.tags('block', allthemods => {
-    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot_black", "cobblemon:campfire_pot_blue", "cobblemon:campfire_pot_green", "cobblemon:campfire_pot_pink", "cobblemon:campfire_pot_red", "cobblemon:campfire_pot_white", "cobblemon:campfire_pot_yellow", "cobblemon:pc", "cobblemon:healing_machine", "simpletms:machine_tm", "cobblemon:display_case"]);
+    allthemods.add('c:relocation_not_supported', ["cobblemon:campfire_pot_black", "cobblemon:campfire_pot_blue", "cobblemon:campfire_pot_green", "cobblemon:campfire_pot_pink", "cobblemon:campfire_pot_red", "cobblemon:campfire_pot_white", "cobblemon:campfire_pot_yellow", "cobblemon:pc", "cobblemon:healing_machine", "cobblemon:display_case"]);
     allthemods.add("minecraft:standing_signs", ["ars_nouveau:archwood_sign"])
     allthemods.add("minecraft:wall_signs", ["ars_nouveau:archwood_wall_sign"])
     allthemods.add("minecraft:ceiling_hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
