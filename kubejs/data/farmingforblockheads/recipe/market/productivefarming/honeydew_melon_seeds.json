@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "productivefarming:rare_seeds",
+  "result": {
+    "item": "productivefarming:honeydew_melon_seeds"
+  }
+}

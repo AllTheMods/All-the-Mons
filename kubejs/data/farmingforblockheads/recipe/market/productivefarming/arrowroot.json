@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset": "productivefarming:seeds",
+  "result": {
+    "item": "productivefarming:arrowroot"
+  }
+}
