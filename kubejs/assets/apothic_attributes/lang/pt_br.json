@@ -134,7 +134,6 @@
     "effect.minecraft.poison.desc": "Inflige periodicamente dano não letal.",
     "effect.minecraft.regeneration.desc": "Faz com que você regenere vida ao longo do tempo.",
 
-    "comment_id": "Damage Sources",
 
     "death.attack.apothic_attributes:bleeding": "%1$s sangrou até morrer",
     "death.attack.apothic_attributes:bleeding.item": "%1$s sangrou até morrer devido a %3$s de %2$s",
@@ -183,7 +182,7 @@
 
     "item.minecraft.potion.effect.minecraft.levitation": "Poção de Levitação",
     "item.minecraft.splash_potion.effect.minecraft.levitation": "Poção Arremessável de Levitação",
-    "item.minecraft.lingering_potion.effect.minecraft.levitation": "Poção Persistente de Levitação",
+    "item.minecraft.lingering_potion.effect.minecraft.levitation": "Poção Prolongada de Levitação",
     "item.minecraft.tipped_arrow.effect.minecraft.levitation": "Flecha de Levitação",
 
     "item.minecraft.potion.effect.apothic_attributes.sundering": "Poção Ruptura",

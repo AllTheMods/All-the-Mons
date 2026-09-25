@@ -9,8 +9,7 @@
 	]
 	quest.050CD33E92601651.title: "&6Forja &l&3Tier 2"
 	quest.07BEE6FEC14765DC.quest_desc: ["Receita bem simples, precisando de Argila, Ferro, Bolas de Slime e mais...\\n\\nMagnetitas são melhores para saquear, Mods adicionam estas em Poças de Saque por todo o &c&lNether&r, então não crie uma, apenas encontre uma!\\n\\nCera é um novo Item adicionado pelo &6&lForbidden \\& Arcanus&r, que é uma mistura de Garrafa de Mel e Bolas de Slime!\\n\\nVocê pode usá-la em um &6Pedestal de Pedra Sombria&r para obter &7Pedestais Magnetizados&r que funcionam em conjunto com Funis (e Itens semelhantes a Funis, como Canos).\\n\\nVocê também pode usá-la com Botas para aumentar a proximidade com que os Itens podem ser arrastados para o seu Inventário!"]
-	quest.092BB595F75D5536.quest_desc: ["Bem-vindo ao &6&lForbidden \\& Arcanus&r!\\n\\nPara começar este Mod, precisaremos começar a minerar no subsolo... bem no fundo do subsolo.\\n\\nComo no Nível Y 1 e abaixo."]
-	quest.092BB595F75D5536.quest_subtitle: "Hora de Forjar!"
+	quest.092BB595F75D5536.quest_desc: ["Bem-vindo(a) ao &6&lForbidden \\& Arcanus&r!\\n\\nPara começar este Mod, precisaremos começar a minerar no subsolo... bem no fundo do subsolo.\\n\\nComo no Nível Y 1 e abaixo."]
 	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
 	quest.0AC8FE3B59D1B09D.quest_desc: ["O Apanhador Quântico é uma Ferramenta muito útil para mover Mobs.\\n\\nSimplesmente clique com o botão direito em um Mob para \"capturá-los\", depois clique com o botão direito novamente para soltá-los.\\n\\nVocê precisará de uma quantidade definida de &bAureal&r em você para usá-lo, isso depende da Vida do Mob. Mais Vida, mais &bAureal&r necessário! Não custará nada para soltar Mobs, isso é de graça.\\n\\nAh, espere, eu provavelmente deveria te dizer como Criá-lo! Você precisará de um &7Núcleo Quântico&r que é criado com &7Runas&r, &cPó de Mundabitur&r e &8Sílex&r!\\n\\nOs Fragmentos de Spawner são drops ao Minerar um Spawner sem Toque Suave, então quebrará o Spawner."]
 	quest.0FD638380EECFFBD.quest_desc: [
@@ -32,7 +31,7 @@
 	]
 	quest.185DBBDD252CBA0C.title: "&6Forja &l&cTier 1"
 	quest.198E9E90CC9606C4.quest_desc: ["Temos nossos Itens em Pedestais, temos nosso &bAureal&r, Almas, &4Sangue&r e &aExperiência&r... e não está terminando? Por que não está terminando? \\n\\nPara finalizar o Ritual, precisaremos usar um Martelo! \\n\\nEle funciona como uma Picareta, mas também tem um número limitado de usos para finalizar Rituais, basta Clicar com o Botão Direito na &6&lForja&r com ele!"]
-	quest.198E9E90CC9606C4.title: "&eFinalizando o Ritual"
+	quest.198E9E90CC9606C4.title: "Finalizando o Ritual"
 	quest.2002AB7D061007FA.quest_desc: ["A &6Relíquia do Artesão&r é encontrada dentro de alguns edifícios em aldeias. \\n\\nQuando usada no &l&bClibano&r, ela permitirá que você faça &5Obsidiansteel&r. \\n\\nQuando usada em &6&lForjas&r, ela lhe dará um desconto na &aExperiência&r usada!"]
 	quest.2002AB7D061007FA.title: "&6Relíquia do Artesão"
 	quest.22F5F931D38E5187.quest_desc: ["Pedras Carmesins são encontradas dentro de Postos Avançados de Saqueadores, elas são um pouco raras, mas não ajuda que nos deem apenas 2 Baús! \\n\\nElas não são usadas para novas receitas, mas diminuirão o uso de Almas na &6&lForja&r."]
@@ -105,7 +104,7 @@
 	quest.539266A1C03C2EBA.title: "Almas"
 	quest.53E2BEA626B35BFC.quest_desc: ["Receita bem cara, mas com certeza vale a pena! \\n\\nUsar o &6Olho &4Espectral&r lhe dará o &4Efeito de Visão Espectral&r. Este Efeito dá &eBrilho&r a todos os Mobs em um raio de 100 Blocos em todas as direções! \\n\\nPerfeito para encontrar estruturas subterrâneas, ou Bastiões no &c&lNether&r, ou até mesmo para encontrar a fazenda de Axolotes escondida de seus amigos!"]
 	quest.53E2BEA626B35BFC.quest_subtitle: "Muito popular no ATM6!"
-	quest.53E2BEA626B35BFC.title: "Amuleto do &6Olho &4Espectral &7"
+	quest.53E2BEA626B35BFC.title: "&7Amuleto do &6Olho &4Espectral"
 	quest.580148D1141446A6.quest_desc: [
 		"&c&lO Nether&r é assustador demais para você? Então, você pode procurar Almas na &2&lSuperfície&r!\\n\\nDentro do seu mundo (eu te fiz ir para Florestas Escuras porque o antigo &l&6Forbidden \\& Arcanus&r costumava ter blocos lá) você pode encontrar algumas Almas Perdidas vagando por aí.\\n\\nVocê pode matá-las pelas Almas que elas dropam! Mas é bem menos eficiente...\\n"
 		"Se estiver tendo dificuldades para encontrar Almas, talvez queira considerar o encantamento Saque de Alma para sua espada. Matar mobs com esse encantamento ocasionalmente fará aparecer Almas."

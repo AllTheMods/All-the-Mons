@@ -2,7 +2,7 @@
 	quest.00E4E946891014D9.quest_desc: ["Para &5Terastalizar&r precisamos de permissão. Não pergunte o porquê, eu não sei a resposta. \\n\\nA forma de conseguirmos permissão é usando um &5Orbe Tera&r. \\n\\nVocê precisará Fabricá-lo. Curiosamente, ele é feito apenas com Itens &2&lVanilla&r. \\n\\nVocê pode apenas clicar com o Botão Direito com ele para Equipar ou usar sua Tela de Acessórios."]
 	quest.00E4E946891014D9.title: "&5Orbe Tera"
 	quest.0CFF4E3560CFFB49.quest_desc: ["Cada &cPokemon&r precisa de sua &bMega Pedra&r específica para se tornar &bMega&r. \\n\\nÉ bem fácil saber quem é quem, porque elas geralmente recebem o nome do &cPokemon&r a que se destinam, apenas com \"ita\" no final. \\n\\nCada um precisa de uma &bMega Pedra&r, 2 Lingotes de Ferro, um &bDiamante&r e um Item único para aquele &cPokemon&r. \\n\\nAlém disso, Charizard e Mewtwo têm duas formas de &bMega&r com X e Y."]
-	quest.0CFF4E3560CFFB49.title: "&bMega Pedras&r Específicas"
+	quest.0CFF4E3560CFFB49.title: "Específicas: &bMegapedras"
 	quest.117ADB40CE01CE07.quest_desc: ["Por algum motivo, nossos &cPokemon&r precisam que usemos &eAnéis&r especiais para poder usar &eMovimento-Z&r. \\n\\nNão sei por que... mas precisaremos de uma Pedra Brilhante para fabricá-lo. Além de alguns outros Itens. \\n\\nO tipo de &eAnel&r não importa, apenas muda a aparência. Eu gosto mais dos &dAnéis da Olivia&r!"]
 	quest.117ADB40CE01CE07.title: "&eAnéis Z"
 	quest.1690E9F6BBF820D1.quest_desc: ["Para &5Terastalizar &cPokemon&r precisaremos de muitos &5Fragmentos Tera&r. \\n\\nVamos facilitar o armazenamento de muitos desses &5Fragmentos Tera&r usando uma Bolsa! \\n\\nA Bolsa Tera pode armazenar um Pack de cada tipo de &5Fragmento Tera&r."]

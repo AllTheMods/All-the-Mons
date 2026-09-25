@@ -26,5 +26,50 @@
   "item.allthearcanistgear.vibranium_leggings": "Calças de Arcanistas de Vibranium",
   "item.allthearcanistgear.vibranium_robes": "Vestes de Arcanista de Vibranium",
   "item.allthearcanistgear.vibranium_spell_book": "Livro de Feitiços de Vibranium",
-  "tab.allthearcanistgear.armor": "All The Arcanist Gear"
+  "tab.allthearcanistgear.armor": "All The Arcanist Gear",
+
+
+
+
+
+
+  "attribute.name.additionalentityattributes.generic.water_speed": "Velocidade na Água",
+  "attribute.name.additionalentityattributes.generic.water_speed.desc": "Aumenta a velocidade de movimento na água",
+  "attribute.name.additionalentityattributes.generic.lava_speed": "Velocidade na Lava",
+  "attribute.name.additionalentityattributes.generic.lava_speed.desc": "Aumenta a velocidade de movimento na lava",
+  "attribute.name.additionalentityattributes.generic.width": "Largura",
+  "attribute.name.additionalentityattributes.generic.width.desc": "Aumenta a largura",
+  "attribute.name.additionalentityattributes.generic.height": "Altura",
+  "attribute.name.additionalentityattributes.generic.height.desc": "Aumenta a altura",
+  "attribute.name.additionalentityattributes.generic.hitbox_scale": "Escala da Hitbox",
+  "attribute.name.additionalentityattributes.generic.hitbox_scale.desc": "Aumenta a escala da caixa de colisão",
+  "attribute.name.additionalentityattributes.generic.hitbox_width": "Largura da Hitbox",
+  "attribute.name.additionalentityattributes.generic.hitbox_width.desc": "Aumenta a largura da caixa de colisão",
+  "attribute.name.additionalentityattributes.generic.hitbox_height": "Altura da Hitbox",
+  "attribute.name.additionalentityattributes.generic.hitbox_height.desc": "Aumenta a altura da caixa de colisão",
+  "attribute.name.additionalentityattributes.generic.model_scale": "Escala do Modelo",
+  "attribute.name.additionalentityattributes.generic.model_scale.desc": "Aumenta a escala do modelo",
+  "attribute.name.additionalentityattributes.generic.model_width": "Largura do Modelo",
+  "attribute.name.additionalentityattributes.generic.model_width.desc": "Aumenta a largura do modelo ",
+  "attribute.name.additionalentityattributes.generic.model_height": "Altura do Modelo",
+  "attribute.name.additionalentityattributes.generic.model_height.desc": "Aumenta a altura do modelo",
+  "attribute.name.additionalentityattributes.generic.mob_detection_range": "Alcance de Detecção de Mobs",
+  "attribute.name.additionalentityattributes.generic.mob_detection_range.desc": "Aumenta a distância em que mobs hostis podem detectar você",
+  "attribute.name.additionalentityattributes.generic.magic_protection": "Proteção Mágica",
+  "attribute.name.additionalentityattributes.generic.magic_protection.desc": "Reduz o dano causado por fontes de dano mágico",
+
+  "attribute.name.additionalentityattributes.player.critical_bonus_damage": "Dano Crítico",
+  "attribute.name.additionalentityattributes.player.critical_bonus_damage.desc": "Aumenta o dano ao desferir golpes críticos",
+  "attribute.name.additionalentityattributes.player.water_visibility": "Visão Aquática",
+  "attribute.name.additionalentityattributes.player.water_visibility.desc": "Aumenta o alcance de visão na água",
+  "attribute.name.additionalentityattributes.player.lava_visibility": "Visão na Lava",
+  "attribute.name.additionalentityattributes.player.lava_visibility.desc": "Aumenta o alcance de visão na lava",
+  "attribute.name.additionalentityattributes.player.bonus_rare_loot_rolls": "Rolagens Adicionais de Saques Raros",
+  "attribute.name.additionalentityattributes.player.bonus_rare_loot_rolls.desc": "Aumenta a probabilidade de obter espólios não garantidos",
+  "attribute.name.additionalentityattributes.player.bonus_loot_count_rolls": "Sorteios Adicionais de Espólios de Encantamento",
+  "attribute.name.additionalentityattributes.player.bonus_loot_count_rolls.desc": "Aumenta a probabilidade de obter uma quantidade elevada em espólios de quantidade variável",
+  "attribute.name.additionalentityattributes.player.dropped_experience": "Experiência Derrubada",
+  "attribute.name.additionalentityattributes.player.dropped_experience.desc": "Aumenta a experiência obtida de blocos e criaturas mortas",
+  "attribute.name.additionalentityattributes.player.collection_range": "Alcance de Coleta",
+  "attribute.name.additionalentityattributes.player.collection_range.desc": "Influencia a distância em que você coleta objetos ao seu redor"
 }

@@ -18,6 +18,8 @@
     "text.apotheosis.world_tier.pinnacle": "Pináculo",
     "text.apotheosis.world_tier.pinnacle.desc": "Perder a si mesmo nos picos tempestuosos da montanha",
 
+    "text.apotheosis.world_tier.difficulty": "Dificuldade:",
+
     "title.apotheosis.select_world_tier": "Selecione Nível de Mundo",
     "title.apotheosis.world_tier_details": "Detalhes do Nível Mundial",
 
@@ -69,6 +71,7 @@
     "text.apotheosis.tier_info": "Informações de Nível Mundial",
     "text.apotheosis.monster_augments": "Melhorias de Monstros",
     "text.apotheosis.player_augments": "Melhorias do Jogador",
+    "tier_augment.apotheosis.damage_reduction": "+%s%% %s Resist",
     "text.apotheosis.drop_chances": "Chances de Drop",
     "text.apotheosis.rarities": "Raridades",
     "text.apotheosis.purities": "Purezas",
@@ -86,13 +89,13 @@
     "info.apotheosis.affix_item": "Item de afixo apótico",
 
     "death.attack.apotheosis:execute": "%2$s executou %1$s",
-    "death.attack.apotheosis:execute.item": "%2$s executou %1$s usando %s",
+    "death.attack.apotheosis:execute.item": "%2$s executou %1$s usando %3$s",
     "death.attack.apotheosis:execute.player": "%2$s executou %1$s",
 
     "misc.apotheosis.affix_name.two": "%2$s %1$s",
     "misc.apotheosis.affix_name.three": "%2$s %1$s %3$s",
     "misc.apotheosis.affix_name.four": "%3$s %2$s %4$s de %1$s",
-	"misc.apotheosis.affix_bounds": "[%s\u00A0-\u00A0%s]",
+    "misc.apotheosis.affix_bounds": "[%s\u00A0-\u00A0%s]",
 
     "misc.apotheosis.radial_state_updated": "Modo de mineração radial atualizado para \"%s\"",
     "misc.apotheosis.radial_state.require_not_sneaking": "Desativado enquanto se agacha",
@@ -224,7 +227,7 @@
     "affix.apotheosis:ranged/mob_effect/shulkers": "Tocado por Shulker",
     "affix.apotheosis:ranged/mob_effect/shulkers.suffix": "da Levitação",
 
-    "affix.apotheosis:shield/mob_effect/withering": "Withering",
+    "affix.apotheosis:shield/mob_effect/withering": "Definhamento",
     "affix.apotheosis:shield/mob_effect/withering.suffix": "do Esqueleto das Trevas",
 
     "affix.apotheosis:shield/attribute/ironforged": "Ferroforjado",
@@ -698,7 +701,7 @@
     "text.apotheosis.any_x_item": "Qualquer Item com Afixo %s",
     "text.apotheosis.any_affix_item": "Qualquer item de afixo ",
     "text.apotheosis.malice_marker": "Malícia será aplicada na fabricação",
-    "text.apotheosis.touched_by_malice": "Tocado por Malícia",
+    "text.apotheosis.touched_by_malice": "Tocado pela Malícia (x%s)",
     "text.apotheosis.malice_notice": "Malícia: %s consumiu a força de %s",
 
     "title.apotheosis.smithing": "Ferraria Apótica",
@@ -764,7 +767,6 @@
 
     "elite.apotheosis.craig": "Craig o Eterno",
 
-    "comment_id": "/Adventure + Gateways Compat",
 
     "misc.apotheosis.random": "Aleatório",
     "wave_entity.apotheosis.invader": "Invasor Apótico %s",
@@ -787,7 +789,7 @@
     "wave_entity.apotheosis.affixed_polar_bear": "Urso Polar com Afixo",
     "wave_entity.apotheosis.affixed_wolf": "Lobo com Afixo",
     "wave_entity.apotheosis.affixed_armored_bogged": "Pantanoso Armadurado com Afixo",
-    "wave_entity.apotheosis.vampiric_phantom": "Phantom Vampírico",
+    "wave_entity.apotheosis.vampiric_phantom": "Espectro Vampírico",
     "wave_entity.apotheosis.nether_herald": "Arauto do Nether",
     "wave_entity.apotheosis.affixed_armored_zombified_piglin": "Piglin-Zumbi Armadurado com Afixo",
     "wave_entity.apotheosis.affixed_armored_wither_skeleton": "Esqueleto Wither Armadurado com Afixo",
@@ -805,7 +807,6 @@
     "apotheosis.tiered/pinnacle": "Portal do Pináculo Apótico",
     "apotheosis.endless_invader": "Portal Infinito dos Invasores Apóticos",
 
-    "comment_id": "/Advancements",
 
     "advancements.apotheosis.progression.root.title": "Níveis Apóticos do Mundo",
     "advancements.apotheosis.progression.root.desc": "Marcos para desbloquear Níveis Mundiais em Apotheosis.\nPressione CTRL+T para abrir a tela de seleção.",
@@ -906,7 +907,6 @@
     "advancements.apotheosis.challenge_gates.sigil_of_supremacy.title": "Supremacia!                    ",
     "advancements.apotheosis.challenge_gates.sigil_of_supremacy.desc": "Adquira um Sigilo da Supremacia na Onda 100 do Portal Infinito dos Invasores Apóticos",
 
-    "comment_id": "/Potion Module",
 
     "item.apotheosis.lucky_foot": "Pé de Coelho da Sorte",
 
@@ -920,13 +920,11 @@
     "item.apotheosis.potion_charm.curios_only": "Funciona apenas em um encaixe de Curios",
     "misc.apotheosis.blacklisted_potion": "Não pode ser convertido em um Amuleto de Poção.",
 
-    "comment_id": "/Garden Module",
     "item.apotheosis.ender_lead": "Laço do Ender",
     "info.apotheosis.noentity": "Entidade Guardada: nada",
     "info.apotheosis.containedentity": "Entidade Guardada: %s",
     "info.apotheosis.ender_lead": "O Laço do Ender é um item que pode ser usado para mover animais.  Dê um soco em um animal para capturá-lo e clique com o botão direito para liberá-lo.  A guia não funciona em outros tipos de entidades.",
 
-    "comment_id": "/Wanderer Trades",
     "name.apotheosis.captive_dreams": "Sonhos Aprisionados",
     "name.apotheosis.stonebreaker": "Quebra-pedra",
     "name.apotheosis.treecapitator": "Corta-árvores",
@@ -938,10 +936,9 @@
     "name.apotheosis.rune_forged_greaves": "Grevas Forjadas em Runas",
     "name.apotheosis.eternal_vigilance": "Vigilância Eterna",
 
-    "comment_id": "/Misc",
     "info.apoth.modifier_disabled": "Este Modificador está desativado",
-    "itemGroup.apotheosis.adventure": "Apotheosis: Módulo de Aventura",
-    "itemGroup.apotheosis.ench": "Apotheosis: Módulo de Encantamento",
+    "itemGroup.apotheosis.adventure": "Apotheosis: Adventure Module",
+    "itemGroup.apotheosis.ench": "Apotheosis: Enchanting Module",
     "config.jade.plugin_apotheosis.spawner": "Módulo de Gerador Apótico",
     "config.jade.plugin_apotheosis.ench": "Módulo de Encan. Apótico",
     "config.jade.plugin_apotheosis.adventure": "Módulo de Aventura Apótico",
@@ -957,7 +954,7 @@
     "subtitle.apotheosis.music_disc.glimmer": "Caner Crebes - Glimmer",
 
     "item.apotheosis.music_disc_shimmer": "Disco Musical",
-    "jukebox_song.apotheosis.shimmer": "Camareiro Kaifry - Shimmer",
+    "jukebox_song.apotheosis.shimmer": "Chamberlain Kaifry - Shimmer",
     "subtitle.apotheosis.music_disc.shimmer": "Camareiro Kaifry - Shimmer",
 
     "painting.apotheosis.gems.title": "Gems",
@@ -984,8 +981,7 @@
     "apotheosis.subtitle.invader_rare": "Invasor Apótico Raro surge",
     "apotheosis.subtitle.invader_epic": "Invasor Apótico Épico surge",
     "apotheosis.subtitle.invader_mythic": "Invasor Apótico Mítico surge",
-    
-    "comment_id": "Guidebook",
+
     "book.apotheosis.name": "Crônica das Sombras",
     "book.apotheosis.subtitle": "Guia Apótico",
     "book.apotheosis.landing": "Bem-vindo ao mundo do Apotheosis.$(br2)O Apotheosis é organizado em $(#8080FF)módulos$(), assim como o conteúdo deste livro.$(br2)Os módulos desabilitados estão ocultos."

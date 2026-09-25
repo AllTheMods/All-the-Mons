@@ -80,7 +80,7 @@
 	]
 	quest.1BAE1519E44E40CE.title: "Mar Morto"
 	quest.1C232674CD04024D.quest_desc: ["A Dimensão do &2&lUndergarden&r está cheia de Biomas diversos e nojentos, cheios de muita Vegetação, Criaturas: amigáveis e não amigáveis, e claro, Minérios e Itens. \\n\\nEspero que você esteja pronto para uma luta!"]
-	quest.1C232674CD04024D.title: "Bem-vindo ao &2&lUndergarden&r!"
+	quest.1C232674CD04024D.title: "Bem-vindo(a) ao &2&lUndergarden&r!"
 	quest.1D2C70F1750E84D0.quest_desc: [
 		"Uma nova Criatura &cPutrefatas&r? \\n\\nO &cRotbelcher&r tem 17 Corações e meio e 4 Pontos de Armadura. \\n\\nSe estiverem perto de você, eles balançarão os Braços na sua direção. Se você estiver um pouco mais longe, eles cuspirão em você. \\n\\nEles precisam de um enxaguante bucal se o cuspe deles é tão nojento."
 		"{image:atm:textures/questpics/undergarden/undergarden_rotbelcher.png width:100 height:200 align:center}"

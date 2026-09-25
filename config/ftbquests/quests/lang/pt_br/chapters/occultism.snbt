@@ -9,7 +9,7 @@
 	quest.08697EB269B011FD.quest_desc: [
 		"Com o &dContato de Ronaza&r, você pode aprimorar sua &bTigela Ritualistica de Iésnio&r para o &5Cálice Ancestral&r. Quando usado em um ritual, reduz o tempo que leva para completar... inteiramente."
 		""
-		"Sim, o &5Cálice de Eldritch&r faz com que todos os rituais se completem instantaneamente!"
+		"Sim, o Cálice de Eldritch faz com que todos os rituais se completem instantaneamente!"
 	]
 	quest.08697EB269B011FD.title: "Cálice Ancestral"
 	quest.0A25276925EB0CBA.quest_desc: [
@@ -245,7 +245,7 @@
 	]
 	quest.4F35D04721DFC9FF.quest_subtitle: "Círculo de Aviar"
 	quest.4F35D04721DFC9FF.title: "&bNosso Primeiro &dRitual"
-	quest.5316DF321B45D2CA.quest_desc: ["Bem-vindo ao &dOccultism&r!\\n\\nEste mod visa ajudar o jogador de várias maneiras, recrutando a ajuda de &c&mDemônios&r &bEspíritos&r! Não se preocupe, a maioria deles é amigável. &oA maioria&r.\\n\\nPara começar, você precisará obter algumas &aSementes de Fruta do Demônio&r."]
+	quest.5316DF321B45D2CA.quest_desc: ["Bem-vindo(a) ao &dOccultism&r!\\n\\nEste mod visa ajudar o jogador de várias maneiras, recrutando a ajuda de &c&mDemônios&r &bEspíritos&r! Não se preocupe, a maioria deles é amigável. &oA maioria&r.\\n\\nPara começar, você precisará obter algumas &aSementes de Fruta do Demônio&r."]
 	quest.5316DF321B45D2CA.title: "&dSonhando&r com &cDemônios"
 	quest.53DEA3DFEDC4809E.quest_desc: [
 		"Não se preocupe, este é o último da série de rituais de Abras. Ele é usado para invocar um demônio &9Marid&r, mas mesmo que use Giz Vermelho, não é poderoso o suficiente para &9vincular&r o Demônio. Isso significa que, infelizmente, você terá que lutar contra ele."
@@ -333,7 +333,7 @@
 	quest.690B89D23134B624.quest_desc: [
 		"Pegue seus gizes, desenhe seu ritual &dContato de Ronaza&r, e prepare-se para criar o GIZ DEFINITIVO*!"
 		""
-		"Em vez de carregar um conjunto completo de 16 gizes, você pode usar o &zGiz de Arco-íris&r para pintar uma Runa que muda de cor e conta como qualquer um deles! \\n\\n&8*Não inclui o Giz de Fundação. Fabrique o Giz do Vazio para incluí-los&r"
+		"Em vez de carregar um conjunto completo de 16 gizes, você pode usar o &zGiz de Arco-íris para pintar uma Runa que muda de cor e conta como qualquer um deles! \\n\\n*Não inclui o Giz de Fundação. Fabrique o Giz do Vazio para incluí-los"
 	]
 	quest.690B89D23134B624.title: "&zGiz de Arco-íris&r"
 	quest.6C1BBA559963B3DF.quest_desc: [

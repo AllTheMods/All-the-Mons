@@ -70,9 +70,9 @@
 		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
 	]
 	quest.36926B5EBFF6E55A.title: "Fazendo &cMercúrio"
-	quest.393DA9C9D808A851.quest_desc: ["A Chave Inglesa da &l&6Teurgia&r é a Varinha &cMercurial&r. Você pode usar Shift e Scroll para mudar seus Modos. \\n\\nVocê pode Habilitar/Desabilitar para basicamente impedir a transferência por Fios. \\n\\nVocê pode mudar o lado de onde os Itens serão Extraídos ou Inseridos. \\n\\nE você pode mudar o Canal de Frequência!"]
+	quest.393DA9C9D808A851.quest_desc: ["A Chave-Inglesa da &l&6Teurgia&r é a Varinha &cMercurial&r. Você pode usar Shift e Scroll para mudar seus Modos. \\n\\nVocê pode Habilitar/Desabilitar para basicamente impedir a transferência por Fios. \\n\\nVocê pode mudar o lado de onde os Itens serão Extraídos ou Inseridos. \\n\\nE você pode mudar o Canal de Frequência!"]
 	quest.393DA9C9D808A851.quest_subtitle: "Pensei que este era um mod de magia..."
-	quest.393DA9C9D808A851.title: "Claro que tem uma Chave Inglesa"
+	quest.393DA9C9D808A851.title: "Claro que tem uma Chave-Inglesa"
 	quest.3B6F723B03C4BF55.quest_desc: ["A Digestão (uma forma muito rudimentar de processamento) é como mudamos os &3Nitratos Alquímicos&r para diferentes formas. \\n\\nPrimeiro, precisaremos de Ouro Purificado, que pode ser feito colocando Ouro, &bSal Alquímico&r e &9Água&r no Tanque de Digestão e clicando com Shift + botão direito para fechá-lo como o Tanque de Fermentação. \\n\\nDepois, podemos combinar 4 de um &3Nitrato Alquímico&r com Ouro Purificado e &dSal Amoníaco&r para obter um Tier superior ou fazer o inverso para um Tier inferior."]
 	quest.3B6F723B03C4BF55.title: "Tanque de Digestão"
 	quest.3C5734448FEC128B.quest_desc: ["A Vareta de Adivinhação mais barata, a Vareta de Adivinhação de Vidro. \\n\\nEla pode encontrar todos os Minérios que uma Picareta de Pedra pode minerar. Ou seja, Cobre, Carvão e Ferro. Nada superior."]

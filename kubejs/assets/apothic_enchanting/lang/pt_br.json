@@ -23,7 +23,7 @@
     "block.apothic_enchanting.deepshelf": "Estante das Profundezas",
     "block.apothic_enchanting.echoing_deepshelf": "Estante das Profundezas Ecoante",
     "block.apothic_enchanting.soul_touched_deepshelf": "Estante das Profundezas Tocada por Almas",
-    
+
     "block.apothic_enchanting.echoing_sculkshelf": "Estante de Sculk Ecoante",
     "block.apothic_enchanting.soul_touched_sculkshelf": "Estante de Sculk Tocada por Almas",
 
@@ -38,7 +38,7 @@
 
     "block.apothic_enchanting.sightshelf": "Estante Infernal da Visão",
     "block.apothic_enchanting.sightshelf_t2": "Estante Infernal da Visão Magistral",
-    
+
     "block.apothic_enchanting.filtering_shelf": "Estante Marinha de Filtragem Aquática",
     "block.apothic_enchanting.treasure_shelf": "Estante das Profundezas de Tesouros Arcanos",
     "block.apothic_enchanting.geode_shelf": "Estante de Livros de Estabilidade Envolta em Geodo",
@@ -74,7 +74,8 @@
     "gui.apothic_enchanting.enchant.eterna.desc": " - Energia Mágica",
     "gui.apothic_enchanting.enchant.eterna.desc2": "Define o nível máximo de encantamento",
     "gui.apothic_enchanting.enchant.eterna.desc3": "Valor Atual: %s/%s",
-    "gui.apothic_enchanting.enchant.eterna.desc4": "Limitado a %s pelo seu atributo de Eterna Máxima",
+    "gui.apothic_enchanting.enchant.eterna.limited": "Limitada a %s pelo seu atributo máximo de Eterna",
+    "gui.apothic_enchanting.enchant.eterna.limited.world_tier": "Limitada a %s pelo seu nível de mundo (CTRL+T)",
     "gui.apothic_enchanting.enchant.quanta.desc": " - Puro Caos",
     "gui.apothic_enchanting.enchant.quanta.desc2": "Aumenta a aleatoriedade subjacente",
     "gui.apothic_enchanting.enchant.quanta.desc3": " diminui os efeitos negativos",
@@ -113,7 +114,7 @@
 
     "enchantment.apothic_enchanting.infusion": "Infusão",
     "enchantment.apothic_enchanting.infusion.desc": "Espaço reservado para Criação de Encantamentos",
-    
+
     "enchantment.apothic_enchanting.mounted_strike": "Golpe Montado",
     "enchantment.apothic_enchanting.mounted_strike.desc": "Causa dano extra quando em um cavalo.",
 
@@ -131,7 +132,7 @@
 
     "enchantment.apothic_enchanting.icy_thorns": "Espinhos Gelados",
     "enchantment.apothic_enchanting.icy_thorns.desc": "Atrasa os atacantes.",
-    
+
     "enchantment.apothic_enchanting.bane_of_illagers": "Perdição dos Illagers",
     "enchantment.apothic_enchanting.bane_of_illagers.desc": "Illagers recebem dano aumentado.",
 
@@ -155,7 +156,7 @@
     "item.apothic_enchanting.improved_scrap_tome": "Tomo da Desmontagem Superior",
     "item.apothic_enchanting.extraction_tome": "Tomo de Extração",
     "item.apothic_enchanting.warden_tendril": "Gavinha de Defensor",
-    "item.apothic_enchanting.infused_breath": "Bafo de Dragão Imbuído",
+    "item.apothic_enchanting.infused_breath": "Bafo do Dragão Imbuído",
     "item.apothic_enchanting.flimsy_ender_lead": "Laço de Ender Frágil",
     "item.apothic_enchanting.flimsy_ender_lead.desc": "Pode capturar e mover animais",
     "item.apothic_enchanting.ender_lead": "Laço de Ender",
@@ -218,7 +219,7 @@
 
     "enchantment.apothic_enchanting.magic_protection": "Aversão Oculta",
     "enchantment.apothic_enchanting.magic_protection.desc": "O dano mágico causado por e para o usuário é reduzido.",
-    
+
     "enchantment.apothic_enchanting.crescendo_of_bolts": "Crescendo de Virotes",
     "enchantment.apothic_enchanting.crescendo_of_bolts.desc": "Sua besta pode ser disparada vezes adicionais por recarga.",
 
@@ -239,7 +240,7 @@
 
     "enchantment.apothic_enchanting.spearfishing": "Pesca com Lança",
     "enchantment.apothic_enchanting.spearfishing.desc": "Abates com um tridente arremessado podem pescar um peixe.",
-    
+
     "enchantment.apothic_enchanting.endless_quiver": "Aljava Infinita",
     "enchantment.apothic_enchanting.endless_quiver.desc": "Torna todas as flechas infinitas.",
 
@@ -273,11 +274,11 @@
     "info.apothic_enchanting.slider_power": "Poder: %s",
     "info.apothic_enchanting.enchinfo_level": "Nível: %s",
     "info.apothic_enchanting.enchinfo_weight": "Peso: %s (%s)",
-    "info.apothic_enchanting.enchinfo_chance": "Chance: %s",
+    "info.apothic_enchanting.enchinfo_chance": "Probabilidade: %s",
     "info.apothic_enchanting.enchinfo_slot": "Espaço de Encantamento %s",
     "info.apothic_enchanting.enchinfo_minpow": "Poder Mínimo: %s",
     "info.apothic_enchanting.enchinfo_maxpow": "Poder Máximo: %s",
-    
+
     "rarity.apothic_enchanting.common": "Comum",
     "rarity.apothic_enchanting.uncommon": "Incomum",
     "rarity.apothic_enchanting.rare": "Raro",
@@ -288,49 +289,49 @@
 
     "advancements.apothic_enchanting.enchantment": "Os Segredos do Encantamento",
     "advancements.apothic_enchanting.enchantment.desc": "Obtenha uma mesa de encantamentos e comece a desvendar o mistério.",
-    
+
     "advancements.apothic_enchanting.30ench": "O Básico",
     "advancements.apothic_enchanting.30ench.desc": "Encante um item no nível 30.",
-    
+
     "advancements.apothic_enchanting.60ench": "Dominando o Inferno e o Mar",
     "advancements.apothic_enchanting.60ench.desc": "Encante um item no nível 60.",
-    
+
     "advancements.apothic_enchanting.80ench": "Encantamentos das Profundezas",
     "advancements.apothic_enchanting.80ench.desc": "Encante um item no nível 80.",
-    
+
     "advancements.apothic_enchanting.100ench": "Encantamento Dracônico",
     "advancements.apothic_enchanting.100ench.desc": "Encante um item no nível 100.",
-    
+
     "advancements.apothic_enchanting.bookshelf": "Bibliotecário Local",
     "advancements.apothic_enchanting.bookshelf.desc": "Fabrique uma estante de livros.",
-    
+
     "advancements.apothic_enchanting.hellshelf": "O Caos do Inferno",
     "advancements.apothic_enchanting.hellshelf.desc": "Obtenha uma Estante Infernal.",
-    
+
     "advancements.apothic_enchanting.upgrade_hellshelf": "Dominando o Inferno",
     "advancements.apothic_enchanting.upgrade_hellshelf.desc": "Aprimore uma Estante Infernal Infundida.",
-    
+
     "advancements.apothic_enchanting.deepshelf": "Mergulhando na Escuridão",
     "advancements.apothic_enchanting.deepshelf.desc": "Ative uma Estante das Profundezas Adormecida.",
-    
+
     "advancements.apothic_enchanting.sculkshelf": "Abraçando o Sculk",
     "advancements.apothic_enchanting.sculkshelf.desc": "Fabrique uma Estante de Sculk usando uma Gavinha de Defensor.",
-    
+
     "advancements.apothic_enchanting.endshelf": "Encantador Matador de Dragões",
-    "advancements.apothic_enchanting.endshelf.desc": "Adquira Bafo de Dragão Imbuído e fabrique uma Estante do End.",
-    
+    "advancements.apothic_enchanting.endshelf.desc": "Adquira Bafo do Dragão Imbuído e fabrique uma Estante do End.",
+
     "advancements.apothic_enchanting.upgrade_endshelf": "A Estante final",
     "advancements.apothic_enchanting.upgrade_endshelf.desc": "Aprimore uma Estante do End para uma Estante do End Dracônica.",
-    
+
     "advancements.apothic_enchanting.seashelf": "A Pureza dos Mares",
     "advancements.apothic_enchanting.seashelf.desc": "Obtenha uma Estante Marinha",
-    
+
     "advancements.apothic_enchanting.infuse_seashelf": "Infusão Marinha",
     "advancements.apothic_enchanting.infuse_seashelf.desc": "Obtenha uma Estante Marinha Infundida através de Encantamento por Infusão.",
-    
+
     "advancements.apothic_enchanting.upgrade_seashelf": "Dormindo no Frio Abaixo",
     "advancements.apothic_enchanting.upgrade_seashelf.desc": "Aprimore uma Estante Marinha Infundida",
-    
+
     "advancements.apothic_enchanting.infuse_hellshelf": "Infusão Infernal",
     "advancements.apothic_enchanting.infuse_hellshelf.desc": "Obtenha uma Estante Infernal Infundida através de Encantamento por Infusão.",
 
@@ -382,6 +383,8 @@
     "rarity.enchantment.uncommon": "Incomum",
     "rarity.enchantment.rare": "Raro",
     "rarity.enchantment.very_rare": "Muito Raro",
+
+    "text.apothic_enchanting.star_prefix": "🌟 ",
 
     "enchantment.level.0": "0",
     "enchantment.level.11": "XI",

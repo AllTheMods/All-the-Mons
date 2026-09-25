@@ -42,7 +42,6 @@
 	quest.290C1416EA2B5DF2.quest_subtitle: "Parecem um pouco secos"
 	quest.2A69272FD3C57924.quest_subtitle: "Um pouco melhor"
 	quest.310FA9380CB3E0BB.quest_subtitle: "Permite a adição de fluidos à centrífuga"
-	quest.334AB2ED426108C7.quest_desc: ["É um &#E3495Emoedor&r, tudo o que ele faz é triturar coisas."]
 	quest.334AB2ED426108C7.quest_subtitle: "Chame como quiser, isso mói"
 	quest.35BC118040E7428F.quest_desc: [
 		"Lasers Endéricos têm múltiplos usos:"
@@ -86,14 +85,12 @@
 	quest.53D5A6F210DF199C.quest_subtitle: "Transfira suavemente 10k rf/t"
 	quest.53D5A6F210DF199C.title: "Transferindo Energia"
 	quest.55DCCC4035B8BB2A.quest_subtitle: "Misture netherita e platina"
-	quest.58819CE09A648A43.quest_desc: ["Estes são alguns dos &#3FE0AEcomponentes básicos&r necessários para fabricar a maioria dos itens em &#F5D842Oritech&r. Recomenda-se produzi-los usando o &#E0F772Montador&r para economizar recursos."]
 	quest.58819CE09A648A43.quest_subtitle: "Estes serão usados para fazer a maioria das máquinas"
 	quest.58819CE09A648A43.title: "Componentes Básicos de Construção"
 	quest.5932B5AD48F6AB74.quest_desc: ["Use energia com um &5Reforço de Tubo&r para impulsionar a velocidade de extração dos tubos &2Oritech&r."]
 	quest.5932B5AD48F6AB74.quest_subtitle: "Torna-os mais rápidos"
 	quest.5E9AF8BB2C67DCCE.quest_subtitle: "Muitas maneiras de transportar líquidos"
 	quest.5E9AF8BB2C67DCCE.title: "Transportando líquidos"
-	quest.5F8363EC8F4499B6.quest_desc: ["A &#25AFF5Fundição&r é uma máquina com aparência muito sofisticada. Tudo o que ela faz é aquecer o material e &cuni-los&r. Este será um passo importante para o seu progresso."]
 	quest.5F8363EC8F4499B6.quest_subtitle: "Fazendo ligas"
 	quest.6134991F25B25B42.quest_desc: ["&lMontadores&r não apenas permitem que você fabrique &aitens mais novos&r, mas também melhoram o rendimento de alguns outros itens."]
 	quest.6134991F25B25B42.quest_subtitle: "Mais que um fabricante"

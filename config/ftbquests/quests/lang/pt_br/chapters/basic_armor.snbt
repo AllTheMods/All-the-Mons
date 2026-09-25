@@ -78,7 +78,7 @@
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
 	quest.243008D4DCD789D0.title: "Enfeite da Selva"
-	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque luto para encontrar tantas &8V&fa&8c&fa&rs&r, desculpe &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade para encontrar tantas &8V&fa&8c&fas&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Armadura de Couro"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["Versão aprimorada do &2Prudentium&r."]
@@ -89,10 +89,10 @@
 	quest.2C387BFA6EE6FDB7.title: "&cArmadura de Utherium"
 	quest.2D93888313B03029.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_blue.png width:100 height:150 align:center}"]
 	quest.2D93888313B03029.title: "&9Cristal de Luz Estelar Azul&r"
-	quest.2E0F82F7E1B74033.quest_desc: ["&2Armadura da Terra&r do &d&lArs Elemental&r!"]
+	quest.2E0F82F7E1B74033.quest_desc: ["&d&lArs Elemental&r: &2Armadura da Terra&r!"]
 	quest.2E0F82F7E1B74033.quest_subtitle: "15"
 	quest.2E0F82F7E1B74033.title: "&2Traje de Geomancer"
-	quest.2EAA6BE598C83F24.quest_desc: ["&3Armadura da Água&r do &d&lArs Elemental&r!"]
+	quest.2EAA6BE598C83F24.quest_desc: ["&d&lArs Elemental&r: &3Armadura da Água&r!"]
 	quest.2EAA6BE598C83F24.quest_subtitle: "15"
 	quest.2EAA6BE598C83F24.title: "&3Traje de Aquamante"
 	quest.2FA0F5B348322095.quest_desc: ["&7Cloggrum&r é o Minério de Ferro do &2&lUndergarden&r. Ele aparece em todos os lugares."]
