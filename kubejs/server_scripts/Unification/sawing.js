@@ -60,6 +60,9 @@ ServerEvents.recipes(allthemods => {
     let mekSawmillRecipes = allthemods.findRecipes({type: "mekanism:sawing"}).stream().filter(r => r.json.asMap().main_output != undefined && logsTag["matches(dev.latvian.mods.kubejs.recipe.filter.RecipeMatchContext,net.minecraft.world.item.crafting.Ingredient,boolean)"](null,Ingredient.of(r.json.asMap().input.has("ingredient") ? r.json.asMap().input.get("ingredient") : r.json.asMap().input), false)).collect($Collectors.toMap(r => r.json.asMap().main_output.get("id").asString, r => r))
     
     function mekSawing(output, input, extraOutput, id) {
+        if (output.getId().includes('cobblemon:apricorn_planks')) {
+            return
+        }
         if (mekSawmillRecipes.containsKey(output.id)) {
             // console.info("Already exists a mek recipe for " + output.id)
             return
