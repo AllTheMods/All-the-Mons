@@ -31,7 +31,6 @@ ServerEvents.recipes(allthemods => {
     prediction_convert('16x eternal_starlight:crystallum_coral_block', 'minecraft:tube_coral_block')
     prediction_convert('16x eternal_starlight:crystallum_coral_fan', 'minecraft:tube_coral_fan')
     prediction_convert('16x eternal_starlight:crystallum_coral', 'minecraft:tube_coral')
-    prediction_convert('16x eternal_starlight:orbflora_light', 'minecraft:shroomlight')
     prediction_convert('16x eternal_starlight:lunaris_cactus', 'minecraft:cactus')
     prediction_convert('16x eternal_starlight:dead_lunar_bush', 'minecraft:dead_bush')
     prediction_convert('16x eternal_starlight:glowing_mushroom', ['minecraft:brown_mushroom', 'minecraft:red_mushroom'])

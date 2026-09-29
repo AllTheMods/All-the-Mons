@@ -3,6 +3,8 @@
 
 ServerEvents.recipes(allthemods => {
     allthemods.remove({id: 'minecraft:cake'})
+    allthemods.replaceInput({id: 'minecraft:bookshelf'}, '#minecraft:planks',
+        Ingredient.of('#minecraft:planks').except('#allthemods:planks_with_bookshelf'))
 
     allthemods.shaped(
         Item.of('minecraft:sculk', 1), // arg 1: output

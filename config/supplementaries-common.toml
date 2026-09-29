@@ -315,7 +315,7 @@
 	feather_block = true
 	statue = true
 	doormat = true
-	flint_block = true
+	flint_block = false
 	fine_wood = true
 	candle_holder = true
 	fire_pit = true

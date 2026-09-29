@@ -9,4 +9,8 @@ ServerEvents.recipes(allthemods => {
     C: 'minecraft:end_crystal'   
   }
   )
+
+  allthemods.remove({ id: 'deimos:deimosgeneratedcrafting0' })
+  allthemods.remove({ id: 'deimos:deimosgeneratedcrafting2' })
+  allthemods.remove({ id: 'deimos:deimosgeneratedcrafting3' })
 })

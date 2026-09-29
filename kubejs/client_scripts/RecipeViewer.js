@@ -56,6 +56,11 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove(/mekmm:.*rolling_mill.*/)
 
   allthemods.remove("supplementaries:faucet")
+  allthemods.remove('supplementaries:flint_block')
+  allthemods.remove('farmersdelight:beetroot_crate')
+  allthemods.remove('farmersdelight:carrot_crate')
+  allthemods.remove('farmersdelight:potato_crate')
+  allthemods.remove('oritech:silicon_block')
   allthemods.remove('ars_elemental:glyph_nullify_defense')
 
   allthemods.remove('legendarymonuments:meltan_box')
