@@ -52,7 +52,7 @@
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.iron.@Tooltip": "Chance percentual de um depósito de minério conter ferro.",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.redstone": "Chance de geração de Redstone",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.redstone.@Tooltip": "Chance percentual de um depósito de minério conter Redstone.",
-  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.gold": "Chance de Geração de Puro",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.gold": "Chance de Geração de Ouro",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.gold.@Tooltip": "Chance percentual de um depósito de minério conter ouro.",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.lapis": "Chance de Geração de Lápis-Lazúli",
   "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.lapis.@Tooltip": "Chance percentual de um depósito de minério conter lápis-lazúli.",

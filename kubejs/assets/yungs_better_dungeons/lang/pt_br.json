@@ -70,7 +70,7 @@
 
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks": "Habilitar Blocos do Nether em Calabouços",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[0]": "Alguns calabouços podem raramente ter blocos tais como areia das almas, fogueira das almas e lampiões das almas.",
-  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[1]": "Observe que os blocos serão puramente decorativos - nada que quebre a progressão, como Detritos Ancetrais.",
+  "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[1]": "Observe que os blocos serão puramente decorativos - nada que quebre a progressão, como Detritos Ancestrais.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[2]": "Defina essa opção para false para impedir quaisquer blocos relacionados ao Nether de gerarem em calabouços.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[3]": "Esta opção pode ser útil para alguns criadores de modpack.",
   "text.autoconfig.betterdungeons-fabric-1_21.option.betterDungeons.general.enableNetherBlocks.@Tooltip[4]": "Padrão: true",

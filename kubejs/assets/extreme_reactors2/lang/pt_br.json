@@ -1,11 +1,13 @@
 {
     "_comment": "Extreme Reactors 2 Language File - Portuguese (Brazil)",
-    "_comment": "@author SAMUELPV, PrincessStellar",
+
+    "_comment": "@author Erogenous Beef, ZeroNoRyouki, ABookFreak",
+
     "_comment": "-- please don't translate the _comment lines ! --",
 
     "itemGroup.bigreactors.general": "Extreme Reactors",
-    "itemGroup.bigreactors.reactor": "Extreme Reactors - Partes do Reator",
-    "itemGroup.bigreactors.turbine": "Extreme Reactors - Partes da Turbina",
+    "itemGroup.bigreactors.reactor": "Extreme Reactors - Reactor parts",
+    "itemGroup.bigreactors.turbine": "Extreme Reactors - Turbine parts",
 
     "reactant.bigreactors.yellorium": "Yellório (reagente)",
     "reactant.bigreactors.cyanite": "Cianita (reagente)",
@@ -672,4 +674,3 @@
     "compat.bigreactors.jei.coolantmappings.recipecategory.title": "Fluido <=> Refrigerante",
     "compat.bigreactors.jei.vapormappings.recipecategory.title": "Fluido <=> Vapor"
 }
-

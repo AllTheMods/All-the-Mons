@@ -63,13 +63,13 @@
   "item.tempad.knowledge_projector.cell_usage": "Células de Crônons vazias podem ser carregadas lentamente ao longo do tempo se carregadas junto com um %s ou um %s, ou podem ser colocadas dentro de um %s. Células de Crônons carregadas transferirão seus Crônons armazenados para todos os dispositivos carregados automaticamente, desde que estejam todos presentes no inventário principal ou nos slots de curios. Células de Crônons contêm {X} Crônons.",
   "item.tempad.knowledge_projector.chronomark_crafting": "Cronomarcas são fabricadas a partir de um Bloco de Ferro, Lingotes de Ferro, lingotes de %s, uma Pérola do End e um bloco de Vidro Fumê.",
   "item.tempad.knowledge_projector.chronomark_overview": "A Cronomarca é um bloco estacionário usado para gerar coordenadas espaciais exatas e fornecê-las a outros dispositivos. Como uma melhoria sobre o %s, as Cronomarcas permitem que um deslocamento de até %s blocos seja especificado, caso o usuário queira montar o dispositivo em um teto alto ou enterrá-lo sob o chão. Elas também permitem mais opções de filtro para o usuário.",
-  "item.tempad.knowledge_projector.chronomark_usage": "Para escrever dados em um %s, coloque a Cronomarca e clique com o botão direito nela com um %s. O cartão será então escrito e poderá ser usado com o %s. O %s exibe Cronomarcas e %ss pertencentes ao usuário automaticamente, mas %ss escritos podem ser compartilhados com outros.",
+  "item.tempad.knowledge_projector.chronomark_usage": "Para escrever dados em um %s, coloque a Cronomarca e clique com o botão direito nela com um %s. O cartão será então escrito e poderá ser usado com o %s. O %s exibe automaticamente Cronomarcas e dispositivos do tipo %s pertencentes ao usuário, mas cartões do tipo %s que tenham sido gravados podem ser compartilhados com outras pessoas.",
   "item.tempad.knowledge_projector.chronomark_usage_2": "Filtros podem ser definidos na Cronomarca para permitir que apenas certos usuários acessem livremente o dispositivo com base em frameworks de equipe ou guilda disponíveis e compatíveis. Clicar com o botão direito no dispositivo com a mão vazia abre uma interface onde o nome do dispositivo, a cor da Porta Temporal, as opções de segurança e os deslocamentos podem ser configurados.",
   "item.tempad.knowledge_projector.chronometer_crafting": "Cronômetros podem ser criados a partir de qualquer Relógio básico, junto com alguns componentes extras. Também será necessário um bloco de Vidro Fumê, lingotes de %s e um %s.",
   "item.tempad.knowledge_projector.chronometer_overview": "Cronômetros são um dispositivo de geração de Crônons carregado pelo usuário para gerar passivamente Crônons para seus outros dispositivos. Cronômetros fabricados corretamente geram Crônons a uma taxa mais rápida do que as soluções primitivas.",
   "item.tempad.knowledge_projector.chronometer_usage": "Mantido no inventário principal ou em um slot de curios, um Cronômetro ou %s inverterá o decaimento temporal da radiação de fundo local para sintetizar Crônons, que são então distribuídos para todos os dispositivos ou células de armazenamento carregados automaticamente, desde que estejam todos presentes no inventário principal ou nos slots de curios.",
-  "item.tempad.knowledge_projector.chronon_battery_crafting": "Baterias de Crônons podem ser criadas com %s, Lingotes de Ferro, %ss e Fragmentos de Ametista, para alimentar dispositivos multiversais, e são a maneira ideal de carregar Crônons em movimento.",
-  "item.tempad.knowledge_projector.chronon_battery_overview": "Baterias de Crônons são dispositivos para armazenar Crônons feitos de células menores. Elas contêm mais Crônons do que %ss individuais.",
+  "item.tempad.knowledge_projector.chronon_battery_crafting": "Baterias de Crônons podem ser criadas com %s, Lingotes de Ferro, células do tipo %s e Fragmentos de Ametista para alimentar dispositivos multiversais, sendo a maneira ideal de carregar Crônons durante uma viagem.",
+  "item.tempad.knowledge_projector.chronon_battery_overview": "Baterias de Crônons são dispositivos para armazenar Crônons feitos de células menores. Elas contêm mais Crônons do que células individuais do tipo %s.",
   "item.tempad.knowledge_projector.chronon_battery_usage": "Baterias de Crônons vazias podem ser carregadas lentamente ao longo do tempo se carregadas junto com um %s ou um %s, ou podem ser colocadas dentro de um %s. Baterias de Crônons carregadas transferirão seus Crônons armazenados para todos os dispositivos carregados automaticamente, desde que estejam todos presentes no inventário principal ou nos slots de curios. Baterias de Crônons contêm %s Crônons.",
   "item.tempad.knowledge_projector.chronongen_crafting": "Geradores de Crônons podem ser criados a partir de qualquer Relógio básico, juntamente com um bloco de Vidro, Lingotes de Ferro e um %s",
   "item.tempad.knowledge_projector.chronongen_overview": "Um Gerador de Crônons é um dispositivo primitivo capaz de gerar Crônons para uso com outros dispositivos.",
@@ -83,7 +83,7 @@
   "item.tempad.knowledge_projector.location_broadcasters_usage": "Se um Transmissor de Localização for carregado no inventário ou no slot de curios e estiver ligado, o portador aparecerá na lista de teleportes possíveis para %s com o upgrade de Teleporte para Jogadores.",
   "item.tempad.knowledge_projector.marker_crafting": "Eles são fabricados a partir de um Bloco de Ferro, Lingotes de Ferro, uma Pérola do End e um bloco de Vidro.",
   "item.tempad.knowledge_projector.marker_overview": "O Marcador de Porta Temporal é usado para gerar coordenadas espaciais exatas e fornecê-las a outros dispositivos.",
-  "item.tempad.knowledge_projector.marker_usage": "Para escrever dados em um %s, coloque o Marcador de Porta Temporal e clique com o botão direito nele com um %s. O cartão será então escrito e poderá ser usado com o %s. O %s exibe Marcadores de Porta Temporal e %ss pertencentes ao usuário automaticamente, mas %ss vinculados a dispositivos podem ser compartilhados com outros.",
+  "item.tempad.knowledge_projector.marker_usage": "Para escrever dados em um %s, coloque o Marcador de Porta Temporal e clique com o botão direito nele com um %s. O cartão será então escrito e poderá ser usado com o %s. O %s exibe automaticamente Marcadores de Porta Temporal e dispositivos do tipo %s pertencentes ao usuário, mas cartões do tipo %s vinculados a dispositivos podem ser compartilhados com outras pessoas.",
   "item.tempad.knowledge_projector.marker_usage_2": "Clicar com o botão direito no dispositivo com a mão vazia abre uma interface onde o nome do dispositivo, a cor da Porta Temporal e as opções de segurança podem ser configuradas.",
   "item.tempad.knowledge_projector.metronomes_booted": "Uma vez iniciado, o Metrônomo começará a gerar Crônons em sua própria bateria interna, que armazena %s Crônons. Clicar com o botão direito no dispositivo abrirá a interface, onde dispositivos podem ser colocados para armazenar Crônons através dos slots da esquerda ou pegar Crônons através dos slots da direita. Além disso, o Metrônomo é codificado para a aura temporal do usuário e pode ser bloqueado para impedir o acesso não autorizado através do botão de bloqueio no canto superior direito. Ele é bloqueado por padrão.",
   "item.tempad.knowledge_projector.metronomes_crafting": "Metrônomos são fabricados com Lingotes de %s, Baterias de Crônons e um Baú do End.",
@@ -95,7 +95,7 @@
   "item.tempad.knowledge_projector.projector_overview": "Quando um %s padrão não está disponível, versões rudimentares do dispositivo podem ser fabricadas usando materiais disponíveis. O Projetor de Porta Temporal é o dispositivo mais básico capaz de permitir o teletransporte via Portas Temporais.",
   "item.tempad.knowledge_projector.projector_timedoors": "Portas Temporais são portais entre dois pontos no espaço e/ou tempo. Elas aparecem como painéis de vidro brilhantes e podem ser atravessadas em qualquer direção como qualquer outro portal.",
   "item.tempad.knowledge_projector.projector_timedoors_2": "As Portas Temporais consomem Crônons do Projetor de Porta Temporal na geração e aparecem por um tempo determinado antes de fechar automaticamente.",
-  "item.tempad.knowledge_projector.projector_usage": "Projetores de Porta Temporal permitem a criação de Portas Temporais para coordenadas espaciais lidas de %ss. Eles podem ser carregados no dispositivo clicando com o botão direito do mouse no cartão sobre o Projetor de Porta Temporal enquanto ele está no inventário ou colocado no mundo, ou clicando com o botão direito em um cartão no inventário enquanto segura o projetor com o cursor. Os cartões podem ser recuperados do dispositivo clicando com o botão direito sobre um espaço vazio do inventário ou clicando com o botão direito no dispositivo onde ele está colocado no mundo.",
+  "item.tempad.knowledge_projector.projector_usage": "Projetores de Porta Temporal permitem criar Portas Temporais para coordenadas espaciais lidas de cartões do tipo %s. Eles podem ser carregados no dispositivo clicando com o botão direito no cartão sobre o Projetor de Porta Temporal enquanto ele estiver no inventário ou colocado no mundo, ou clicando com o botão direito em um cartão no inventário enquanto segura o projetor com o cursor. Os cartões podem ser recuperados do dispositivo clicando com o botão direito sobre um espaço vazio do inventário ou no dispositivo colocado no mundo.",
   "item.tempad.knowledge_projector.projector_usage_2": "O dispositivo pode ser ativado enquanto segurado usando-o (botão direito). Segurar o agachamento e usar o dispositivo o colocará no bloco que está sendo olhado. Colocar o Projetor de Porta Temporal permite que ele seja acionado por um sinal de Redstone, como de um botão adjacente.",
   "item.tempad.knowledge_projector.screening_device_crafting": "Dispositivos de Triagem são fabricados com um bloco de Vidro Fumê, uma Esmeralda, uma medida de Pó de Redstone, uma Bússola e um lingote de %s.",
   "item.tempad.knowledge_projector.screening_device_overview": "O Dispositivo de Triagem é uma versão avançada do %s que possui capacidade de filtragem mais avançada.",
@@ -104,7 +104,7 @@
   "item.tempad.knowledge_projector.tempad_app_new_location": "O aplicativo Nova Localização permite ao usuário salvar suas coordenadas atuais no Tempad para permitir viagens através do aplicativo Teleporte. Um mapa está presente na tela para ajudar os usuários a se orientarem ao salvar localizações. A localização pode ser nomeada antes de salvar, e o usuário também pode especificar uma cor específica para Portas Temporais abertas para a localização.",
   "item.tempad.knowledge_projector.tempad_app_portal_setup": "Quando acoplado a uma %s, o terminal fornece acesso ao aplicativo Configuração do Portal, permitindo a seleção de um destino do Tempad acoplado do usuário e ajustes de precisão na posição e rotação da Porta Temporal aberta (mais ou menos %s blocos da posição padrão). Este aplicativo não está disponível sem acoplar o Tempad. Consulte a entrada %s para mais informações.",
   "item.tempad.knowledge_projector.tempad_app_settings": "O aplicativo Configurações permite que os usuários ajustem o comportamento de certas funções do Tempad. A função do botão de macro do Tempad pode ser alterada, bem como qual aplicativo abre por padrão quando o Tempad é aberto.",
-  "item.tempad.knowledge_projector.tempad_app_teleport": "Abrir o aplicativo Teleporte apresentará ao usuário uma lista de localizações salvas no dispositivo, bem como os %ss ou %ss pertencentes ao usuário. Clicar nessas entradas preencherá o painel de informações à direita da lista e ativará o botão de teleporte. Clicar no botão Teleporte consumirá Crônons e gerará uma Porta Temporal para a localização especificada na entrada.",
+  "item.tempad.knowledge_projector.tempad_app_teleport": "Abrir o aplicativo Teleporte apresentará ao usuário uma lista de localizações salvas no dispositivo, bem como dispositivos dos tipos %s ou %s pertencentes ao usuário. Clicar nessas entradas preencherá o painel de informações à direita da lista e ativará o botão de teleporte. Clicar no botão Teleporte consumirá Crônons e gerará uma Porta Temporal para a localização especificada na entrada.",
   "item.tempad.knowledge_projector.tempad_app_teleport_2": "Ao lado da barra de pesquisa, há um botão que alternará entre os modos de classificação disponíveis. As localizações podem ser classificadas por dimensão, ordem alfabética ou por tipo. Em todos os modos, as localizações são classificadas em categorias recolhíveis para facilitar a visualização da lista.",
   "item.tempad.knowledge_projector.tempad_app_teleport_3": "Quando uma localização é selecionada da lista e o painel de informações à direita é preenchido, dois botões adicionais são exibidos na parte inferior do painel. O botão de fixar fixará a localização no topo da lista. Apenas uma localização pode ser fixada por vez. O botão X excluirá a localização da lista. Um %s clicado com o botão direito neste painel de informações será escrito com os dados de localização da localização salva.",
   "item.tempad.knowledge_projector.tempad_app_travel_timeline": "Com um %s acoplado dentro do Tempad, o acesso ao aplicativo Linha do Tempo de Viagem é concedido. Isso expande a funcionalidade do %s acoplado e dá um controle mais granular, permitindo ao usuário retroceder para mais pontos ao longo de sua linha do tempo, em vez de se limitar a eventos importantes.",
@@ -112,9 +112,9 @@
   "item.tempad.knowledge_projector.tempad_crafting": "O Tempad é fabricado com blocos de Vidro Fumê, um Pedaço de Quartzo do Nether, uma Pérola do End, uma Lâmpada de Redstone, lingotes de %s e um %s.",
   "item.tempad.knowledge_projector.tempad_overview": "O Tempad padrão é a peça de tecnologia mais poderosa abordada neste banco de dados. Um Tempad pode criar Portas Temporais para quaisquer coordenadas salvas no dispositivo, bem como acessar um %s acoplado para permitir que o usuário visualize e se mova ao longo de sua linha do tempo pessoal.",
   "item.tempad.knowledge_projector.tempad_timedoors": "Portas Temporais são portais entre dois pontos no espaço e/ou tempo. Elas aparecem como painéis de vidro brilhantes e podem ser atravessadas em qualquer direção como qualquer outro portal.",
-  "item.tempad.knowledge_projector.tempad_timedoors_2": "As Portas Temporais consomem Crônons do Tempad na geração e aparecem por um tempo determinado antes de fechar automaticamente. %ss que recebem um sinal de redstone constante abrirão uma porta indefinidamente por um custo contínuo de Crônons.",
+  "item.tempad.knowledge_projector.tempad_timedoors_2": "As Portas Temporais consomem Crônons do Tempad ao serem geradas e permanecem por um tempo determinado antes de fechar automaticamente. Dispositivos do tipo %s que recebem um sinal de redstone constante mantêm uma porta aberta indefinidamente por um custo contínuo de Crônons.",
   "item.tempad.knowledge_projector.tempad_usage": "Segurar o Tempad e clicar com o botão direito abrirá a interface do Tempad, bem como o inventário do usuário. A funcionalidade do Tempad é organizada em aplicativos e apresentada ao usuário através da bandeja de aplicativos à esquerda da interface. Clicar nesses botões de aplicativo abrirá o aplicativo apropriado dentro do dispositivo e dará acesso a todas as suas funções poderosas.",
-  "item.tempad.knowledge_projector.tempad_usage_2": "Dados de localização podem ser adicionados ao Tempad para teletransporte através do aplicativo Nova Localização. Para usar %ss com o Tempad, consulte o %s.",
+  "item.tempad.knowledge_projector.tempad_usage_2": "Dados de localização podem ser adicionados ao Tempad para teletransporte através do aplicativo Nova Localização. Para usar cartões do tipo %s com o Tempad, consulte o %s.",
   "item.tempad.knowledge_projector.time_steel_crafting": "Aço Temporal pode ser adquirido em MC-21 e reinos adjacentes fabricando Fragmentos de Netherita com Lingotes de Ferro. Ferro bruto para refinar pode ser encontrado em minério em quase qualquer lugar. Adquirir os fragmentos de Netherita, por outro lado, depende do acesso a uma dimensão do Nether. Não é aconselhável ficar preso em uma linha do tempo sem acesso a esses recursos, pois desenvolver tecnologia multiversal sem isso pode levar a resultados instáveis.",
   "item.tempad.knowledge_projector.time_steel_overview": "O Aço Temporal é um componente crucial para toda a tecnologia multiversal avançada, pois não é afetado pela passagem do tempo. Assim, é um material confiável para abrigar e proteger todos os componentes sensíveis necessários para atravessar o espaço e o tempo.",
   "item.tempad.knowledge_projector.time_steel_tech_discovery": "Dependendo da tecnologia disponível em uma determinada linha do tempo, métodos alternativos ou mais eficientes para produzir Aço Temporal podem ser descobertos. Repositórios de receitas podem ser verificados para mais detalhes.",
@@ -127,7 +127,7 @@
   "item.tempad.knowledge_projector.usage": "Uso",
   "item.tempad.knowledge_projector.wallet_crafting": "Carteiras de Cartões podem ser fabricadas com Lingotes de Cobre, Couro e um %s em branco.",
   "item.tempad.knowledge_projector.wallet_overview": "Carteiras de Cartões são uma maneira conveniente de armazenar e carregar uma grande quantidade de Cartões de Localização.",
-  "item.tempad.knowledge_projector.wallet_usage": "Clique com o botão direito na carteira em mãos para abrir seu armazenamento. %ss podem ser colocados no armazenamento para guarda segura para evitar que o inventário fique muito bagunçado.",
+  "item.tempad.knowledge_projector.wallet_usage": "Clique com o botão direito na carteira em mãos para abrir seu armazenamento. Cartões do tipo %s podem ser guardados nela com segurança para evitar que o inventário fique muito bagunçado.",
   "item.tempad.knowledge_projector.wallet_usage_2": "Uma vez que o usuário obtém um %s padrão, os Cartões dentro da carteira são automaticamente adicionados à lista de localizações do %s se forem colocados dentro de uma carteira carregada. Note que isso é desnecessário para um %s ou um %s pertencente ao usuário, pois esses dispositivos já são adicionados ao %s do usuário. O que isso permite, no entanto, é o compartilhamento contínuo de cartões de localização entre usuários e a capacidade de acessar esses cartões compartilhados através da interface do %s.",
   "item.tempad.knowledge_projector.wallet_usage_3": "Apenas uma Carteira de Cartões pode fornecer localizações ao %s do usuário por vez. A prioridade é dada ao slot de curios, se disponível, depois aos slots da hotbar da esquerda para a direita, e depois aos slots do inventário da esquerda para a direita, de cima para baixo.",
   "item.tempad.knowledge_projector.workstation_crafting": "Pode ser fabricada com blocos de Vidro Fumê, Lingotes de Cobre, lingotes de %s e um pedaço de Quartzo do Nether.",
@@ -162,5 +162,170 @@
   "key.tempad.travel_timeline": "Abrir App de Linha do Tempo de Viagem do Tempad",
   "upgrade.tempad.knowledge_repository": "Ver Repositório de Conhecimento",
   "upgrade.tempad.new_location": "Criar Localizações Salvas",
-  "upgrade.tempad.player_teleport": "Teleportar para Jogadores"
+  "upgrade.tempad.player_teleport": "Teleportar para Jogadores",
+
+
+
+
+
+
+  "config.jade.plugin_tempad.chronon": "Chronon",
+  "gui.tempad.search_field": "Buscar...",
+  "gui.tempad.name_field": "Nome...",
+  "gui.tempad.teleport_disabled": "Você não pode se teletransportar para este local",
+  "gui.tempad.delete": "Deletar local",
+  "gui.tempad.delete_disabled": "Você não pode deletar este local",
+  "gui.tempad.favorite": "Favoritar local",
+  "gui.tempad.unfavorite": "Desfavoritar local",
+  "gui.tempad.timedoor": "Porta Temporal",
+  "gui.tempad.dimension": "Dim: %s",
+  "gui.tempad.no_locations.first_line": "Pressione [+] para",
+  "gui.tempad.no_locations.second_line": "adicionar um local",
+  "gui.tempad.no_selection.first_line": "Selecione um local",
+  "gui.tempad.no_selection.second_line": "para mais detalhes",
+  "gui.tempad.x": "X: %s",
+  "gui.tempad.y": "Y: %s",
+  "gui.tempad.z": "Z: %s",
+  "gui.tempad.angle": "Angle: %s",
+
+  "advancements.tempad.tempad": "Para Todo o Sempre. E Sempre.",
+  "advancements.tempad.tempad.description": "Obtenha um Tempad",
+  "advancements.tempad.he_who_remains": "Propósito glorioso!",
+  "advancements.tempad.he_who_remains.description": "Obtenha um Tempad 'Aquele Que Resta'",
+  "subtitles.tempad.entity.timedoor.open": "Porta temporal abre",
+  "message.tempad.not_enough_chronons": "Crônons insuficientes",
+
+  "dimension.minecraft.overworld": "Superfície",
+  "dimension.minecraft.the_nether": "O Nether",
+  "dimension.minecraft.the_end": "O End",
+
+  "locations.tempad.anchor_point": "Marker Named: \"%s\"",
+  "locations.tempad.player": "Rastreando Jogador: %s",
+
+  "item.tempad.creative_chronometer.infinite": "Infinito",
+
+  "category.tempad": "Tempad",
+
+  "screen.tempad.marker": "Marcador",
+  "screen.tempad.marker.access_field": "Quem pode acessar?",
+  "screen.tempad.marker.public_access": "Acesso público:",
+  "screen.tempad.marker.yoffset": "Deslocamento Y do Portal:",
+  "screen.tempad.marker.angle": "Ângulo:",
+
+  "access.tempad.private": "Somente você",
+  "access.tempad.public": "Everyone",
+  "access.tempad.guild": "Guildmates",
+  "access.tempad.party": "Party members",
+  "access.tempad.ftbteams": "Equipe",
+
+  "app.tempad.tp_to.teleport": "Teletransportar",
+  "app.tempad.tp_to.selected": "Selecionado",
+
+  "provider.tempad.default": "No Dispositivo",
+  "provider.tempad.markers": "Markers",
+  "provider.tempad.player": "Jogadores",
+  "provider.tempad.wallet": "Carteira de Cartões",
+
+  "macro.tempad.default": "Abrir Favorito",
+  "macro.tempad.default.description": "Teletransporta para o local favorito",
+
+  "button.tempad.type": "Ordenar por Tipo",
+  "button.tempad.alphabetical": "Ordenar Alfabeticamente",
+  "button.tempad.dimension": "Ordenar por Dimensão",
+
+  "marker.tempad.death": "Morreu em",
+  "marker.tempad.respawn": "Renasceu em",
+  "marker.tempad.dimension_exit": "Saiu da dimensão em",
+  "marker.tempad.dimension_enter": "Entrou na dimensão em",
+
+  "config.jade.plugin_tempad.timedoor": "Porta Temporal",
+  "config.jade.plugin_tempad.anchor": "Marcador",
+  "config.jade.plugin_tempad.rudimentary": "Projetor de Porta Temporal",
+  "config.jade.plugin_tempad.metronome": "Metrônomo",
+  "config.jade.plugin_tempad.workstation": "Estação de Trabalho",
+
+  "jade.tempad.will_close": "Fechando em %s segundos",
+  "jade.tempad.closing": "Closing...",
+  "jade.tempad.pos": "Teleportando para %s em %s",
+  "misc.tempad.return": "Retornando para %s",
+  "tempad.tooltip.player_pos": "Alvo: %s",
+
+  "misc.tempad.upgrades": "Installed Upgrades:",
+  "misc.tempad.wandering": "Vagando em",
+
+  "misc.tempad.shift_key_info": "Segure [%s] para mais informações",
+
+  "location.tempad.saved": [
+    "",
+    { "text": "Localização salva: ", "color": "#ff6f00" },
+    { "index": 0, "color": "#91450d" }
+  ],
+  "location.tempad.player.error": [
+    "",
+    { "text": "Erro: ", "color": "#ff6f00" },
+    { "text": "Não é possível salvar localizações de jogadores", "color": "#91450d" }
+  ],
+  "tempad.error.timedoor_already_open": "A Porta Temporal já está aberta",
+
+  "entity.tempad.timedoor": "Porta Temporal",
+  "entity.tempad.timedoor.success": "Porta Temporal aberta",
+  "entity.tempad.timedoor.fail": [
+    "",
+    { "text": "Erro: ", "color": "#ff6f00" },
+    { "text": "Falha ao abrir a Porta Temporal", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.pos": [
+    "",
+    { "text": "Erro: ", "color": "#ff6f00" },
+    { "text": "A posição não foi inicializada", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.interdimensional": [
+    "",
+    { "text": "Erro: ", "color": "#ff6f00" },
+    { "text": "Não é permitido viajar entre dimensões", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional_all": [
+      "",
+      { "text": "Erro: ", "color": "#ff6f00" },
+      { "text": "Não é permitido viajar dentro das dimensões", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.intradimensional": [
+      "",
+      { "text": "Erro: ", "color": "#ff6f00" },
+      { "text": "Não é permitido viajar dentro desta dimensão", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.leaving": [
+      "",
+      { "text": "Erro: ", "color": "#ff6f00" },
+      { "text": "Não é permitido sair desta dimensão", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.entering": [
+      "",
+      { "text": "Erro: ", "color": "#ff6f00" },
+      { "text": "Não é permitido entrar nesta dimensão", "color": "#91450d" }
+  ],
+  "entity.tempad.timedoor.fail.no_chronons": [
+      "",
+      { "text": "Error: ", "color": "#ff6f00" },
+      { "text": "Crônons insuficientes", "color": "#91450d" }
+  ],
+
+
+
+
+
+
+    "olympus.ui.back": "Voltar",
+    "olympus.ui.delete": "Excluir",
+    "olympus.ui.cancel": "Cancelar",
+    "olympus.ui.refresh": "Refresh",
+    "olympus.ui.loading": "Carregando...",
+
+    "olympus.ui.tristate.true": "Sim",
+    "olympus.ui.tristate.false": "Não",
+    "olympus.ui.tristate.undefined": "Indefinido",
+
+    "olympus.color.preset.recents": "Recentes",
+    "olympus.color.preset.defaults": "Padrões",
+    "olympus.color.preset.mc_colors": "Chat Colors"
 }

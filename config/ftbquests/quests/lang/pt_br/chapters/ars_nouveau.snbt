@@ -71,8 +71,8 @@
 	quest.6B511C8B572E8940.title: "Mana"
 	quest.6DAA82B5F94AF9F8.quest_desc: ["A &9Jarra de Luz&r invoca uma fonte de luz flutuante que o segue. \\n\\nA &6Jarra do Vazio&r destrói os itens que você pega em troca de mana. Isso pode ser filtrado. \\n\\nPara adicionar ou remover um item a ser destruído pela jarra, use a jarra com o item em sua mão secundária, ou use um item na Mesa do Escriba com a jarra colocada sobre ela. \\n\\nA jarra deve estar na sua Barra de acesso rápido para funcionar."]
 	quest.6DAA82B5F94AF9F8.title: "As Jarras"
-	quest.6E0E13806F388D7E.quest_desc: ["Bem-vindo ao &aArs Nouveau&f! \\n\\nArs Nouveau é um mod de magia que permite criar feitiços personalizados com os diferentes Glifos feitos dentro do mod!"]
-	quest.6E0E13806F388D7E.title: "Bem-vindo ao &aArs Nouveau&f!"
+	quest.6E0E13806F388D7E.quest_desc: ["Bem-vindo(a) ao &aArs Nouveau&f! \\n\\nArs Nouveau é um mod de magia que permite criar feitiços personalizados com os diferentes Glifos feitos dentro do mod!"]
+	quest.6E0E13806F388D7E.title: "Bem-vindo(a) ao &aArs Nouveau&f!"
 	quest.6F3602F5600A6221.quest_desc: ["Glifos de Tier 3 requerem 10 níveis de experiência para serem feitos. \\n\\nEles também requerem um &6Livro de Feitiços de Arquimago&r."]
 	quest.77145113CD5B26FB.quest_desc: ["Bagas de Fonte produzem mais Fonte do que outras fontes. \\n\\nIsso também converterá grama ou terra em Micélio em uma área de 3x3 ao seu redor. Também fará crescer cogumelos ao seu redor se o espaço estiver vazio."]
 	quest.77145113CD5B26FB.quest_subtitle: "Gera Fonte de Comida Próxima"

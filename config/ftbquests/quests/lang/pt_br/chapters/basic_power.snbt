@@ -1,5 +1,5 @@
 {
-	quest.05B6DB75AEC01187.quest_desc: ["O RFTools Power tem &9Células de Energia&r para armazenar energia, que são unidades de armazenamento multibloco que podem ser personalizadas e aprimoradas para armazenar energia.\\n\\nVocê precisará de uma Chave Inglesa para determinar as entradas e saídas de energia."]
+	quest.05B6DB75AEC01187.quest_desc: ["O RFTools Power tem &9Células de Energia&r para armazenar energia, que são unidades de armazenamento multibloco que podem ser personalizadas e aprimoradas para armazenar energia.\\n\\nVocê precisará de uma Chave-Inglesa para determinar as entradas e saídas de energia."]
 	quest.05B6DB75AEC01187.title: "&9RFTools Power: &cCélulas de Energia"
 	quest.0AEC181F5E21A299.quest_desc: ["Se você já ouviu alguém falando sobre \"Poder do Melão\", é isso. O &dGerador a Gás&r do Mekanism pode produzir uma boa quantidade de energia bombeando &9Etileno&r feito de Fatias de Melão.\\n\\nPara produzir &dEtileno&r, comece triturando materiais orgânicos em um &eTriturador&r para criar &6Biocombustível&r. Fatias de Melão são normalmente usadas para isso! Isso é então bombeado para uma &dCâmara de Reação Pressurizada&r (PRC para abreviar).\\n\\nA PRC precisa de Água, Biocombustível e um pouco de Hidrogênio para criar Etileno. Você pode obter o Hidrogênio separando a água em um &9Separador Eletrolítico&r.\\n\\nDepois de começar a produzir o Etileno, bombeie-o para o Gerador a Gás para começar a gerar energia!"]
 	quest.0AEC181F5E21A299.quest_subtitle: "PODER DO MELÃO!"
@@ -65,7 +65,7 @@
 	quest.5F078A574A783B02.quest_subtitle: "Apenas conecte!"
 	quest.5F078A574A783B02.title: "Iniciando sua Rede"
 	quest.682034C680FDEDC2.quest_desc: [
-		"A &aMatriz de Indução&r do &9Mekanism&r é uma das melhores maneiras de armazenar sua energia.\\n\\nSe você está procurando o melhor armazenamento de energia que o Mekanism tem a oferecer, confira o capítulo de missão &aMekanism:&r &dReatores&r.\\n"
+		"O &9Mekanism&r possui a &aMatriz de Indução&r, a melhor maneira de armazenar energia.\\n\\nSe estiver procurando o melhor armazenamento de energia do jogo, confira o capítulo de missões &aMekanism:&r &dReatores&r.\\n"
 		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
 	]
 	quest.682034C680FDEDC2.title: "Mais Armazenamento de Energia"

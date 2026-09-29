@@ -12,7 +12,7 @@
 	quest.3CB6DC5B09C62CFE.quest_desc: ["Os &5Portões Ender&r são usados para transferir energia sem fio de e para um bloco adjacente na &7Rede Ender&r.\\n\\nPense neles como pontos de acesso sem fio para sua rede de energia sem fio.\\n\\nNota: Você só pode adicionar &acapacidade de armazenamento de energia&r usando uma Célula Ender."]
 	quest.3D5F87F8E6B89C1B.quest_desc: ["O &7Furnator&r queimará itens como carvão e madeira para produzir FE."]
 	quest.3DDF87A1E5F5D009.quest_desc: [
-		"No início, você pode se virar criando as máquinas de tier &7Iniciante&r e &bBásico&r usando Ferro, mas eventualmente precisará criar materiais energizados usando o &9Orbe Energizante&r.\\n\\nO &9Orbe Energizante&r energizará itens usando &aVaretas Energizantes&r próximas em uma área de 9x9 ao redor dele, criando materiais melhores para você usar para progredir através dos &eTiers&r no Powah.\\n\\nPara alimentar o orbe, você precisará conectar Varetas Energizantes a Cabos de Energia que estão sendo supridos com energia. Se você quiser que o Orbe energize mais rápido, faça mais varetas, atualize para varetas de tier superior, ou ambos! Para ver se as Varetas estão conectadas, defina sua &aChave Inglesa&r para o modo de vinculação e você poderá vincular qualquer Vareta ao Orbe."
+		"No início, você pode se virar criando as máquinas de tier &7Iniciante&r e &bBásico&r usando Ferro, mas eventualmente precisará criar materiais energizados usando o &9Orbe Energizante&r.\\n\\nO &9Orbe Energizante&r energizará itens usando &aVaretas Energizantes&r próximas em uma área de 9x9 ao redor dele, criando materiais melhores para você usar para progredir através dos &eTiers&r no Powah.\\n\\nPara alimentar o orbe, você precisará conectar Varetas Energizantes a Cabos de Energia que estão sendo supridos com energia. Se você quiser que o Orbe energize mais rápido, faça mais varetas, atualize para varetas de tier superior, ou ambos! Para ver se as Varetas estão conectadas, defina sua &aChave-Inglesa&r para o modo de vinculação e você poderá vincular qualquer Vareta ao Orbe."
 		""
 		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
 	]
@@ -33,7 +33,7 @@
 		"Nota: Para obter uma Pérola Aérea de Jogador, use uma Pérola Aérea em um Zumbi ou Casca."
 	]
 	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r é um mod de tecnologia focado em gerar, armazenar e transmitir &dEnergia&r. Variando de geração básica de FE a &aReatores&r que produzem &b250k FE/t&r, Powah tem tudo o que você precisa!\\n\\nPara começar, saia e minere um pouco de &aUraninita&r!"]
-	quest.6B2027DA7AA6FF34.title: "&aBem-vindo ao &9Powah&r!!!"
+	quest.6B2027DA7AA6FF34.title: "&aBem-vindo(a) ao &9Powah&r!!!"
 	quest.6D88C19F47D0D469.title: "Tier: &7Minúsculo"
 	quest.700F3FF7C23D0C0F.quest_desc: ["A &5Célula do End&r armazenará energia para um canal em sua &7Rede do End&r. Para aumentar a capacidade de energia da rede, clique com o botão direito na Célula do End para abrir a interface e adicione uma &aBateria&r ou uma &9Célula de Energia&r para aumentar a capacidade geral."]
 	quest.7678B5DD1339833E.quest_desc: ["O Painel Solar gera FE quando tem acesso direto ao sol. No entanto, você pode usar uma &7Lente de Ender&r para ignorar blocos em seu caminho."]

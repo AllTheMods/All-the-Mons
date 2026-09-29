@@ -136,7 +136,7 @@
 	"gui.fluxnetworks.access.admin": "Admin",
 	"gui.fluxnetworks.access.user": "Usuário",
 	"gui.fluxnetworks.access.blocked": "Bloqueado",
-	"gui.fluxnetworks.access.superadmin": "Super Admin",
+	"gui.fluxnetworks.access.superadmin": "Superadministrador",
 
 	"gui.fluxnetworks.jei.creatingfluxrecipe": "Criando Flux",
 	"gui.fluxnetworks.jei.leftclickhelp": "Clique à esquerda %s"

@@ -68,6 +68,6 @@
     "message.rftoolsbase.smartwrench_select.gold": "Use como um seletor de blocos: clique com Shift para selecionar o bloco mestre e clique com o botão direito para associar blocos ao mestre",
     "message.rftoolsbase.smartwrench_select.info1": "Modo: ",
     "message.rftoolsbase.smartwrench_select.info2": "Bloco: ",
-    
+
     "message.rftoolsbase.security_manager": "@aConteúdo: %s stacks\n@fEste bloco gerencia seus cartões de segurança"
 }

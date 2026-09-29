@@ -158,7 +158,7 @@
     "block.cobblefurnies.spruce_chair": "Cadeira de Abeto",
     "block.cobblefurnies.warped_chair": "Cadeira Distorcida",
     "block.cobblefurnies.apricorn_chair": "Cadeira de Bolota",
-    "block.cobblefurnies.saccharine_chair": "Cadeira Sacarina",
+    "block.cobblefurnies.saccharine_chair": "Cadeira de Sacarina",
 
     "block.cobblefurnies.bamboo_nightstand": "Mesa de Cabeceira de Bambu",
     "block.cobblefurnies.birch_nightstand": "Mesa de Cabeceira de Bétula",
@@ -282,7 +282,7 @@
     "block.cobblefurnies.spruce_table": "Mesa de Abeto",
     "block.cobblefurnies.warped_table": "Mesa Distorcida",
     "block.cobblefurnies.apricorn_table": "Mesa de Bolota",
-    "block.cobblefurnies.saccharine_table": "Mesa Sacarina",
+    "block.cobblefurnies.saccharine_table": "Mesa de Sacarina",
 
     "block.cobblefurnies.red_sink": "Pia Vermelha",
     "block.cobblefurnies.orange_sink": "Pia Laranja",
@@ -455,7 +455,7 @@
     "container.cobblefurnies.stove": "Fogão",
     "container.cobblefurnies.cabinet": "Armário",
     "container.cobblefurnies.drawer": "Gaveteiro",
-    "container.cobblefurnies.freezer": "Freezer",
+    "container.cobblefurnies.freezer": "Congelador",
     "container.cobblefurnies.fridge": "Geladeira",
     "container.cobblefurnies.nightstand": "Mesa de Cabeceira",
     "container.cobblefurnies.upper_cabinet": "Armário Superior"

@@ -3,7 +3,7 @@
 	quest.1B5C86AE05678420.quest_desc: ["Quando você clica com o botão direito em uma interface, ela exibe várias opções, eis o que todas elas fazem:\\n\\n&lDefinir Lado&r: Na parte superior da tela, você pode definir o lado em que a interface \"age\" como se estivesse. Pode ser útil para máquinas com lados de entrada/saída específicos.\\n\\n&lTiques/Operação&r: Se uma interface estiver definida para 10 tiques/operação, ela importará/exportará uma vez a cada 10 tiques (0,5 segundos).\\n\\n&lPrioridade&r: Envia itens para o inventário com a interface de maior prioridade.\\n\\n&lCanais de Item/Energia&r: Isso dividirá seu sistema em vários canais. Você pode empurrar e puxar de diferentes lugares em sua rede."]
 	quest.232A06C9FF0EE7B2.quest_desc: ["Sementes de Menril podem ser usadas para automatizar Bagas de Menril, Troncos de Menril e Mudas de Menril."]
 	quest.232A06C9FF0EE7B2.quest_subtitle: "Automatizando Menril"
-	quest.2F37E284BB83BFF6.quest_desc: ["A Chave Inglesa é usada para girar ou destruir certos blocos, segure shift e clique com o botão direito no ar para mudar os modos."]
+	quest.2F37E284BB83BFF6.quest_desc: ["A Chave-Inglesa é usada para girar ou destruir certos blocos, segure shift e clique com o botão direito no ar para mudar os modos."]
 	quest.33F4A7613764A016.quest_desc: ["Funciona como os Importadores, só que eles exportam."]
 	quest.33F4A7613764A016.quest_subtitle: "Exportando"
 	quest.3BC94B0B922C0708.quest_desc: ["Estes são ingredientes de criação para coisas que fazem importação, seja de itens, fluidos ou energia."]

@@ -14,11 +14,5 @@
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "Dita se Templos da Selva do jogo padrão devem ser desabilitados.",
 
   "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Habilitar Compatibilidade com Pick Your Poison",
-  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Dita se dardos de veneno do PYP devem ser gerados nos novos templos da selva.",
-  
-  "advancement.betterjungletemples.root": "YUNG's Better Jungle Temples",
-  "advancement.betterjungletemples.root.desc": "Templos da selva com mais perigo e recompensas.",
-  "advancement.betterjungletemples.find_temple": "Templo da Selva Encontrado",
-  "advancement.betterjungletemples.find_temple.desc": "Encontre um Templo da Selva melhorado.",
-  "structure.betterjungletemples.jungle_temple": "Templo da Selva"
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Dita se dardos de veneno do PYP devem ser gerados nos novos templos da selva."
 }

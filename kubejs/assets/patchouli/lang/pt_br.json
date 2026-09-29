@@ -2,29 +2,29 @@
 	"item.patchouli.guide_book": "Livro Guia",
 	"item.patchouli.guide_book.undefined": "Livro inválido: nenhum ID definido",
 	"item.patchouli.guide_book.invalid": "Livro inválido: %s",
-	
+
 	"item.patchouli.comprehensive_test_book.name": "Livro de Teste Abrangente",
 	"item.patchouli.comprehensive_test_book.landing": "O que esperançosamente se tornará um livro de teste abrangente para todos Patchouli, em vez da confusão de espaguete aleatório que temos agora.",
-	
+
 	"item.patchouli:test_book_1.name": "Livro de Teste 1",
 	"item.patchouli:test_book_1.landing": "Não é um texto inicial tão divertido, mas ainda está aqui.",
-	
+
 	"item.patchouli:test_book_2.name": "Livro de Teste 2",
 	"item.patchouli:test_book_2.landing": "Texto inicial! Ele ainda suporta $(2)cores$() e $(4)coisas do $(bold)gênero$()!",
-	
+
 	"item.patchouli:test_completion.name": "Livro Orientado para o Avanço de Teste",
 	"item.patchouli:test_completion.landing": "Este livro muda de cor quando você desbloqueia entradas!",
-	
+
 	"item.patchouli:intro_book.name": "Patchouli",
 	"item.patchouli:intro_book.subtitle": "Documentação para todos",
-	
 	"item.patchouli:intro_book.landing": "Com o $(item)Patchouli$(), você pode fazer $(thing)livros$() desbloqueáveis de avanço fácil de ler para mods e modpacks!",
+
 	"item.patchouli:pamphlet.name": "Panfleto de Teste",
-	
 	"item.patchouli:pamphlet.landing": "Um folheto de teste, que é um livro com apenas uma categoria.",
+
 	"patchouli.subtitle.book_open": "Livro Abre",
-	
-	"patchouli.subtitle.book_flip": "Viradas de Pgina",
+	"patchouli.subtitle.book_flip": "Viradas de Página",
+
 	"patchouli.gui.lexicon.landing_info": "(Texto inicial do marcador de posição, defina seu próprio no arquivo json do livro!)",
 	"patchouli.gui.lexicon.progress_meter": "Progresso de Desbloqueio:",
 	"patchouli.gui.lexicon.progress_tooltip": "%d/%d Desbloqueado",
@@ -53,7 +53,7 @@
 	"patchouli.gui.lexicon.structure_complete": "Completo!",
 	"patchouli.gui.lexicon.needs_air": "(Limpar blocos marcados em vermelho)",
 	"patchouli.gui.lexicon.visualize_letter": "V",
-	"patchouli.gui.lexicon.seconds": "%ss",
+	"patchouli.gui.lexicon.seconds": "%s s",
 	"patchouli.gui.lexicon.history": "Histórico de Leitura",
 	"patchouli.gui.lexicon.history.info": "Esta seção armazena os poucos capítulos anteriores que você visitou.$(br2)Os capítulos são adicionados e removidos automaticamente conforme você navega pelo livro. Se desejar mantê-los referenciados por mais tempo, você pode marcá-los.$(br2)$(o) Dica: tente clicar no botão Shift e em um capítulo!$()",
 	"patchouli.gui.lexicon.toast": "Novos Capítulos",
@@ -74,7 +74,7 @@
 	"patchouli.gui.lexicon.complete": "Completo!",
 	"patchouli.gui.lexicon.mark_complete": "Marca Completa",
 	"patchouli.gui.lexicon.mark_incomplete": "Marca Incompleta",
-	
+
 	"patchouli.gui.lexicon.button.prev_page": "Anterior",
 	"patchouli.gui.lexicon.button.next_page": "Próxima",
 	"patchouli.gui.lexicon.button.back": "Voltar",
@@ -98,7 +98,7 @@
 	"patchouli.gui.lexicon.button.history": "História",
 	"patchouli.gui.lexicon.button.mark_all_read": "Marcar tudo como lido",
 	"patchouli.gui.lexicon.button.mark_category_read": "Marcar esta categoria como lida",
-	
+
 	"patchouli.networking.open_book.failed": "Falha ao abrir o livro %s",
 	"patchouli.networking.reload_contents.failed": "Falha ao recarregar o conteúdo %S"
 }

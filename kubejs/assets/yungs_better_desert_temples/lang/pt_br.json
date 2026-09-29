@@ -11,7 +11,7 @@
   "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Better Desert Temples",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "Desativar pirâmides do Jogo Padrão",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "Se as pirâmides do deserto jogo padrão devem ser desativadas.",
-  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Aplicar Fadiga de Mineração",
-  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Se a fadiga de mineração deve ser aplicada aos jogadores no templo",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "Aplicar Exaustão",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "Se a Exaustão deve ser aplicada aos jogadores no templo",
   "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "se ele ainda não tiver sido concluído."
 }

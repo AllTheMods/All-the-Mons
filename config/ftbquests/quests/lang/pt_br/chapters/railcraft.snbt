@@ -60,7 +60,7 @@
 		""
 		"Todas elas começam com Iron Ingots!"
 	]
-	quest.175D943160C10646.title: "Máquinas &l&7"
+	quest.175D943160C10646.title: "&l&7Máquinas"
 	quest.17F7964611D893BE.quest_desc: ["O Carregador de Fluido será útil para manter suas &3Locomotivas a Vapor&r funcionando. Ele deve ser colocado alguns blocos acima dos &6Trilhos&r e irá descarregar fluidos na &5Locomotiva&r ou nos &7Carrinhos&r."]
 	quest.17F7964611D893BE.title: "Carregador de Fluido"
 	quest.184F98BE0F6710E2.quest_desc: ["Estes 2 &cKits de Trilho&r são para usar &7Carrinhos&r e Redstone.\\n\\nO &cKit Ativador&r ativará qualquer &7Carrinho&r que passar sobre ele. \\nO &cKit Detector&r ativará um sinal de redstone sempre que um &7Carrinho&r passar sobre ele. \\n\\nAmbos são semelhantes aos seus equivalentes &2Vanilla&r para &6trilhos&r regulares."]
@@ -179,7 +179,7 @@
 	quest.6C163E005351FF6D.title: "Apito do &cKit de Trilhos&r"
 	quest.6DB65926EE6D6C2E.quest_desc: ["Estes &cKits de Trilhos&r servem para alterar o momento com seus &7Carrinhos&r. \\n\\nOs &cKits de Transição&r mudam a velocidade da &5Locomotiva&r que passa, precisa de energia de redstone. \\nOs &cKits de Impulso&r acelerarão o &7Carrinho&r se energizados e desacelerarão o &7Carrinho&r se não energizados. \\nO &cKit de Controle&r dá um empurrãozinho aos &7Carrinhos&r, quando energizado mudará a direção em que empurra. \\nO &cKit de Aceleração&r mudará a velocidade de uma &5Locomotiva&r que passa para qualquer velocidade configurada, precisa ser energizado com redstone. \\nO &cKit de Lançamento&r literalmente lançará seu &7Carrinho&r!"]
 	quest.6DB65926EE6D6C2E.title: "&cKits de Trilhos&r para mover &7Carrinhos&r"
-	quest.6E7C4228CD2B6BB9.quest_desc: ["Este &4Pé-de-cabra&r tem alguns modos diferentes, cada um mudando o design de uma &5Locomotiva&r. Do padrão, que é descrito ao passar o mouse sobre o item em seu inventário, nenhum, que vai para &7cinza&r, &6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r, que a torna assustadora, e &cN&r&2a&r&ct&r&2a&r&cl&r, que a torna festiva!"]
+	quest.6E7C4228CD2B6BB9.quest_desc: ["Este &4Pé-de-cabra&r tem alguns modos diferentes, cada um mudando o design de uma &5Locomotiva&r. Do padrão, que é descrito ao passar o mouse sobre o item em seu inventário, nenhum, que vai para &7cinza&r, &6H&r&5a&r&6l&r&5l&r&6o&r&5w&r&6e&r&5e&r&6n&r, que a torna assustadora, e &cN&r&2a&r&ct&r&2a&r&cl&r&2í&r&cc&r&2i&r&co&r, que a torna festiva!"]
 	quest.75DD345164EE5CD9.quest_desc: [
 		"&6High Speed Tracks&r são como &6Trilhos Reforçados&r, mas obviamente mais rápidos. Eles precisarão de &cKits de Trilho&r para ajudar a aumentar a velocidade! E cuidado nas curvas."
 		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
@@ -189,7 +189,7 @@
 	quest.7D40B80DBBC4E160.quest_desc: ["A Máquina de Laminação Manual será sua pequena máquina de criação para muitos materiais do railcraft! \\n\\nQuando você coloca a receita e ela pode fazer mais de 1, ela irá fabricar automaticamente enquanto você ainda estiver olhando para ela. Quando você sai da Máquina de Laminação enquanto ela está fabricando, ela abortará a fabricação e a colocará em seu inventário. \\n\\nVocê deve construir manualmente a última receita!"]
 	quest.7F187E291C3D5BA7.quest_desc: ["O Descarregador de Fluidos é exatamente o oposto do Carregador de Fluidos. Em vez de estar sobre o &6Trilho&r, ele está sob. Em vez de dar água às &3Locomotivas a Vapor&r, ele pega a água delas. Não sei por que você iria querer fazer isso, mas você pode!"]
 	quest.7F187E291C3D5BA7.title: "Descarregador de Fluidos"
-	quest.7F4B734CFB0F0306.quest_desc: ["Estes novos &7Carrinhos&r são semelhantes aos &7Carrinhos&r especiais do &2Vanilla&r. O &7Carrinho de Minas com um Tanque&r irá conter e mover qualquer Líquido nele. O &7Carrinho de Minas com uma célula de Energia&r irá, em vez disso, conter e mover Energia!"]
+	quest.7F4B734CFB0F0306.quest_desc: ["Estes novos &7Carrinhos&r são semelhantes aos especiais do &2Minecraft&r, os &7Carrinhos&r. O &7Carrinho de Minas com Tanque&r armazena e transporta qualquer líquido inserido nele. Já o &7Carrinho de Minas com Célula de Energia&r armazena e transporta energia!"]
 	quest.7F4B734CFB0F0306.title: "Novos Carrinhos"
 	task.025A45B704969EAE.title: "Trilhos em Y"
 	task.03AE084C781CBA31.title: "Kits de Trilhos"

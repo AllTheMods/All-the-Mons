@@ -153,7 +153,7 @@
   "block.enderio.painted_crafting_table": "Bancada de Trabalho Pintada",
   "block.enderio.painted_fence": "Cerca Pintada",
   "block.enderio.painted_fence_gate": "Portão Pintado",
-  "block.enderio.painted_glowstone": "Pedra Luminosa Pintada",
+  "block.enderio.painted_glowstone": "Pedra-Luminosa Pintada",
   "block.enderio.painted_redstone_block": "Bloco de Redstone Pintado",
   "block.enderio.painted_sand": "Areia Pintada",
   "block.enderio.painted_slab": "Laje Pintada",
@@ -542,7 +542,7 @@
   "tag.item.enderio.enderio.hide_facades": "Esconde Fachadas",
   "tag.item.enderio.explosives": "Explosivos",
   "tag.item.enderio.insulation_metals": "Metal de Isolamento",
-  "tag.item.enderio.lightning_rod": "Para-raios",
+  "tag.item.enderio.lightning_rod": "Para-Raios",
   "tag.item.enderio.meat": "Carne",
   "tag.item.enderio.natural_lights": "Luzes Naturais",
   "tag.item.enderio.prismarine": "Prismarinho",
@@ -565,6 +565,9 @@
   "tooltip.enderio.conduit.probe.mode": "Modo %s",
   "tooltip.enderio.conduit.probe.mode.contains_copied": "Copiar/Colar",
   "tooltip.enderio.conduit.probe.probe": "Contém dados de condutor copiados:",
+  "tooltip.enderio.conduit.slot.fluid_filter": "Espaço de Filtro de Fluidos",
+  "tooltip.enderio.conduit.slot.item_filter": "Espaço de Filtro de Itens",
+  "tooltip.enderio.conduit.slot.redstone_filter": "Espaço de Filtro de Redstone",
   "tooltip.enderio.dark_steel_ladder.faster": "Mais rápida que escadas comuns",
   "tooltip.enderio.energy_equivalence": "Uma unidade de energia, equivalente a FE.",
   "tooltip.enderio.filter.configured": "Configurado",
@@ -583,7 +586,7 @@
   "tooltip.enderio.machine.photovoltaic_cell.advanced3": "Saída Máx: ",
   "tooltip.enderio.machine.photovoltaic_cell.main": "Energia Solar!",
   "tooltip.enderio.machine.progress": "Progresso %s%%",
-  "tooltip.enderio.machine.sag_mill.chance": "Chance: %s%%",
+  "tooltip.enderio.machine.sag_mill.chance": "Probabilidade: %s%%",
   "tooltip.enderio.machine.sag_mill.chance.grinding_ball": "Chance: %s%% (modificado por esfera de trituração)",
   "tooltip.enderio.machine.sag_mill.grinding_ball.remaining": "Restante: %s%%",
   "tooltip.enderio.machine.sag_mill.grinding_ball.title": "Esfera de Trituração do Triturador SAG",
@@ -603,5 +606,22 @@
   "tooltip.enderio.soul_bound": "Alma Vinculada: %s",
   "tooltip.enderio.tool.soul_vial.health": "Vida: %s/%s",
   "tooltip.enderio.tool.void_vial.hint": "Coleta esferas de experiência para o jogador; pode inserir experiência em tanques ou o jogador pode bebê-la.",
-  "tooltip.enderio.tool.void_vial.stored_experience": "Armazenado: %s níveis + %s de experiência"
+  "tooltip.enderio.tool.void_vial.stored_experience": "Armazenado: %s níveis + %s de experiência",
+
+
+
+
+
+
+  "conduit.enderio.chemical": "Conduíte Químico",
+  "conduit.enderio.dense_me": "Conduíte ME Denso",
+  "conduit.enderio.ender_chemical": "Conduíte Químico Ender",
+  "conduit.enderio.heat": "Conduíte de Calor",
+  "conduit.enderio.me": "Conduíte ME",
+  "conduit.enderio.pressurized_chemical": "Conduíte Químico Pressurizado",
+  "conduit.enderio.rs": "Condutor do Refined Storage",
+  "item.enderio.basic_chemical_filter": "Filtro Químico Básico",
+  "tooltip.enderio.conduit.chemical.change_fluid1": "Substância Química Bloqueada:",
+  "tooltip.enderio.conduit.chemical.change_fluid2": "Clique para resetar!",
+  "tooltip.enderio.conduit.chemical.change_fluid3": "Chemical: %s"
 }

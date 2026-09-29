@@ -13,7 +13,7 @@
 		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
 	]
 	quest.111E4ACF7D570EE8.title: "Cidade Ancestral"
-	quest.11E957CDEFA0CAAB.quest_desc: ["Bem-vindo ao &5&lAlém&r!\\n\\nNão há nada aqui!\\n\\nVocê pode querer um Bloco de Anjo."]
+	quest.11E957CDEFA0CAAB.quest_desc: ["Bem-vindo(a) ao &5&lAlém&r!\\n\\nNão há nada aqui!\\n\\nVocê pode querer um Bloco de Anjo."]
 	quest.11E957CDEFA0CAAB.title: "&5&lO Além"
 	quest.144BB025516E0994.quest_desc: [
 		"&3Vibranium&r é o próximo minério depois do &6Allthemodium&r, então, claro, requer uma &6Picareta de Allthemodium&r (ou do mesmo tier) para minerá-lo.\\n\\nVocê pode encontrá-lo raramente no &c&lNether&r ou abundantemente no &b&lOutro&r.\\n\\nTambém é recomendado Processar o Minério para obter mais.\\n\\nInfelizmente, embora seja um minério ATM de cor legal, ele tem menos usos para Itens diferentes."

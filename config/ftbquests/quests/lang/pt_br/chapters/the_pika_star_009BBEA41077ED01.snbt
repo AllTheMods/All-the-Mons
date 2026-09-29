@@ -62,9 +62,9 @@
 	quest.531A0EC04A6A8D5D.quest_subtitle: "Capture todos os Pokémon de Paldea"
 	quest.5A94E168B6362E43.quest_subtitle: "Fabrique a Estrela Pika de Unova"
 	quest.6251C22782FE194E.quest_subtitle: "Fabrique a Estrela Pika de Hisui"
-	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &eEstrela Pikas &cRegionais&r."]
+	quest.64CC314ECC49B92A.quest_desc: ["Obtenha todas as &cregionais &eEstrelas Pika."]
 	quest.6A2810DEDC54A414.quest_subtitle: "Fabrique a Estrela Pika Regional de Kanto"
-	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &eEstrela Pika &cRegional&r."]
+	quest.6B4196A8DC3235D5.quest_desc: ["Conclua &atodo o progresso&r em cada &cregional &eEstrela Pika."]
 	quest.6E2B112E46A5A2BE.quest_desc: ["Para fabricar a &dEstrela Pika Libertada&r, você precisará de uma &cEsfera Vermelha&r e uma &9Esfera Azul&r.\\n\\nExistem 2 formas de obter essas esferas.\\n\\nTorre de Batalha Holo: podem ser compradas por 20 Pontos de Batalha cada.\\n\\n&4&lChefes Cataclsym&r: &b&lIgnis&r e &3&lMaledictus&r às vezes soltam uma &cEsfera Vermelha&r. &9&lScylla&r e o &5&lLeviatã&r às vezes soltam uma &9Esfera Azul&r.\\n\\nA chance de cada esfera cair é de cerca de 25%."]
 	quest.6E2B112E46A5A2BE.title: "Esferas &cVermelha&r e &9Azul&r"
 	quest.72FB20982A2940BF.quest_subtitle: "Capture todos os Pokémon de Kanto"

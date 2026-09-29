@@ -5,7 +5,7 @@
 	quest.099B7F8D13868CCD.title: "&7Comandante Mars"
 	quest.0BD70EAB43DBD003.quest_desc: ["Ele aumentará seu Nível novamente! Só que desta vez para 39. \\n\\nSeu Item de Assinatura agora é uma &bPedra da Alvorada&r."]
 	quest.0BD70EAB43DBD003.title: "&6Treinador Pokemon Cedric"
-	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r é a campanha para a Região de Sinnoh. \\n\\nComece-a como qualquer outra &4&oSérie&r. Encontre um &4Associado de Treinador&r em Vilas ou Gerando aleatoriamente quando você segura seu &4Cartão de Treinador&r na mão, se ele não tiver uma &4&oSérie&r. \\n\\nNegocie com ele para começar a &4&oSérie BDSP&r. \\n\\nVocê precisará passar por esta &4&oSérie&r para desbloquear outras &4&oSéries&r, incluindo a &4Série&r &6&oATM&r!"]
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r é a campanha da região de Sinnoh. \\n\\nComece-a como qualquer outra &4&oSérie&r. Encontre um &4Associado de Treinador&r em vilas ou surgindo aleatoriamente enquanto você segura seu &4Cartão de Treinador&r sem uma &4&oSérie&r. \\n\\nNegocie com ele para começar a &4&oSérie BDSP&r. \\n\\nVocê precisará concluir esta &4&oSérie&r para desbloquear outras &4&oSéries&r, incluindo a &6&oATM &4Série&r!"]
 	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
 	quest.11EBB510A604026A.quest_desc: ["Esta revanche aumentará seu Limite de Nível para 49. \\n\\nSeu Item de Assinatura desta vez é um &9Fragmento de Eco&r. Isso não é barato, Cyrus!"]
 	quest.11EBB510A604026A.title: "&7Revanche do Chefe da Equipe Galáctica Cyrus"
@@ -57,7 +57,7 @@
 	quest.716F9AA2E9011F06.quest_desc: ["Ele não aumentará seu Limite de Nível. \\n\\nSeu Item de Assinatura é um &eRelógio&r!"]
 	quest.716F9AA2E9011F06.title: "&7Chefe da Equipe Galáctica Cyrus"
 	quest.7F124EAE153EFE7F.quest_desc: ["Agora temos a última Batalha da &4&oSérie&r. Apenas uma última Batalha com a &5Campeã Cynthia&r. \\n\\nEla não aumentará seu Limite de Nível, em vez disso, finalizará a &4&oSérie&r. Então, você poderá começar uma nova! Como a do &6&oATM&r."]
-	quest.7F124EAE153EFE7F.title: "&4&oSérie&r Finalizada"
+	quest.7F124EAE153EFE7F.title: "Concluída: &4&oSérie"
 	task.5D2F31B6D492426B.title: "TodosOsDireitosReservados"
 	task.72B575AD169F9D75.title: "TodosOsDireitosReservados"
 }
