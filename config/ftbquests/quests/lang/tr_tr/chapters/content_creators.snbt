@@ -1,0 +1,35 @@
+{
+	image.005F2C1D67F21641.title: "BucketSt"
+	image.0810906F81D2FA56.title: "ChosenArchitect"
+	image.1376607600353018.title: "PrincessStellar"
+	image.3B5F32E04DC11D95.title: "MitinhoPlayer"
+	image.3D670F332C3AD463.title: "Pilpoh"
+	image.46FEC9810F7A065D.title: "Nofaxu"
+	image.61F852CA6AA42891.title: "Virtuositas"
+	image.6AF76E01F70E71D0.title: "Danrique"
+	image.6DDABB40D3034FF3.title: "Direwolf20"
+	quest.0709CE22181A74BB.title: "&a&lMitinho Player"
+	quest.13EB9A996928ED60.title: "&l&5Nofaxu"
+	quest.261E8EE0C7E7E2F0.title: "&c&lDanrique"
+	quest.273605A191309522.title: "&lPilpoh"
+	quest.31749B21AD674C5F.title: "&6&lVirtuositas"
+	quest.349E8C0C3F9CC99B.title: "&l&dPrincessStellar"
+	quest.507635FE52E22D7D.title: "&3&lDirewolf20"
+	quest.508F619C2764FB5B.title: "&9&lBucketST"
+	quest.5AF01BC5631ED1BD.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	quest.7AB52F600829F468.title: "&b&lChosen Architect"
+	task.18E4A63F487E8C88.title: "Tüm hakları saklıdır"
+	task.4F74717D8C29890A.title: "Tüm hakları saklıdır"
+	quest.0709CE22181A74BB.quest_desc: ["Yenmen gereken 3. kişi &a&lMitinho Player&r. \\nKarakter görünümünün sırtındaki &aZümrüdü&r araman yeterli; onu bulmana yardımcı olacaktır. \\n\\nAyrıca içerik üreticilerinin hepsinin ana dili İngilizce değil! Gerçekten de &6&lATM&r dil engelini aşıyor!"]
+	quest.13EB9A996928ED60.quest_desc: ["Son sırada ama kesinlikle diğerlerinden daha önemsiz olmayan &5&lNofaxu&r var! \\n&cFuturistic &5Steelworks&r yapısında &c&lDanrique&r ile birlikte ortaya çıkar. \\n\\nOnu yenersen, 1. YouTube'da bir milyondan fazla abonesi olan birine karşı kazandığın için kendini tebrik et! Ve 2. &4&oSeriyi&r tamamlamış olacaksın. \\n\\nAma kariyerleri boyunca çok sevdiğin oyunları daha iyi anlamana ve onlardan daha fazla keyif almana yardımcı olan favori içerik üreticilerini &l&cAll&7The&fMons&r'da acımasızca bozguna uğrattığın için pişmanlık ve suçluluk duymaya başlarsan... kanallarına göz atarak bunu telafi edebilirsin!"]
+	quest.261E8EE0C7E7E2F0.quest_desc: ["&c&lDanrique&r! Temaya uygun bir karakter görünümüyle gelen tek kişi! \\n\\nOnu &cFuturistic &5Steelworks&r yapısında bulabilirsin! \\n\\nBir &cPokémon&r savaşında seni yenecek biri gibi görünen içerik üreticisini ara... sonra onun yerine sen onu yen!"]
+	quest.273605A191309522.quest_desc: ["&9&lBucketST&r'nin ardından &lPilpoh&r geliyor. \\n\\nOnu bir &4Trainer Spawner&r ile çağırmak için &6Allthemodium Külçesi&r yerine Beyaz Beton kullanılıyor. \\n\\nOnu tanıdığıma göre &l&cAll&7The&fMons&r oynadığı bir seri yapacaktır... bu, sonunda kendisiyle savaşacağı anlamına mı geliyor? Bu... tuhaf hissettiriyor."]
+	quest.31749B21AD674C5F.quest_desc: ["Sırada &6&lVirtuositas&r var! \\n\\n&6&lCreate&r modunu ve &c&lCobble&fmon&r'u kullanmasıyla tanınıyor! &c&lAll&7The&fMons&r'da ikisi de var; ama onu yenmek için &c&lCobble&fmon&r ile yetin. \\n\\nBir &6&lCreate&r savaşında kaybedeceğini düşünüyorum... her ne anlama geliyorsa."]
+	quest.349E8C0C3F9CC99B.quest_desc: ["Sanırım önce hanımlar! \\n\\nYenmen gereken ilk yayıncı &d&lPrincessStellar&r! \\n\\nGörevler de dahil olmak üzere &6&lATM&r'e çok katkıda bulunuyor! Bunu Brezilya Portekizcesinde okuyorsan, bunun için ona teşekkür et! "]
+	quest.507635FE52E22D7D.quest_desc: ["&cPokémon&r temalı bir karakter görünümünden Steve görünümü kullanan birine geçiyoruz: &3&lDirewolf20&r! \\n\\nOnu &3DW House&r, diğer adıyla &3DireWolf House&r'da bulabilirsin! \\n\\nYıllardır mod yapması ve oynamasıyla tanınıyor. Artık sana yenilmesiyle de tanınacak! \\n\\n&3&lJust Dire Things&r burada işine yaramayacak, &3&lDirewolf&r!"]
+	quest.508F619C2764FB5B.quest_desc: ["Şimdi sıra &9&lBucketST&r'de. &9BucketST Gym&r adlı kendi yapısı var. \\n\\n&9&lBucketST&r, &l&cAll&7The&fMons&r'un geliştirilmesi boyunca aktifti; hatta video rehberi hazırlayan ilk kişilerden biriydi! \\n\\nAllTheMons General'da hâlâ aktif ve elinden geldiğince yardımcı oluyor. Acaba biri ona kendisini yenmek için ipucu sormuş mudur?"]
+	quest.64EBFB904388B206.quest_desc: ["Favori YouTuber'ların, yayıncıların ve yardımcılarınla savaşmayı hiç istedin mi? \\n\\n&o&4İçerik Üreticileri Serisi&r ile bunu yapabilirsin! \\n\\nDiğer &4&oSeriler&r gibi, bir &4Trainer Associate&r'e &4Trainer Card&r verip &4&oContent Creator Series&r seçeneğini seçerek başlarsın."]
+	quest.64EBFB904388B206.quest_subtitle: "İsteğe Bağlı Seri"
+	quest.64EBFB904388B206.title: "&o&4İçerik Üreticileri"
+	quest.7AB52F600829F468.quest_desc: ["En tanınmış &2&lMinecraft&r yayıncılarından birinden diğerine geçiyoruz; şimdi &b&lChosen Architect&r ile karşılaşma zamanı. \\n\\nOrtaya çıktığı, kendisine ait bir kulesi var: &bChosen Tower&r. \\n\\nVideolarına ve mod paketlerine duyduğun sevgi ve nostaljinin onu yenmene engel olmasına izin verme. \\n\\n&cPokémon&r sevgiden önce gelir; artık bunu biliyor olmalısın!"]
+}

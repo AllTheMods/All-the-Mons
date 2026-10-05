@@ -1,0 +1,195 @@
+{
+	quest.00C0536DE2878A36.quest_desc: [
+		"Seviye 53'e yükselir."
+		""
+		"Özel eşyası: Siyah Augurite."
+	]
+	quest.00C0536DE2878A36.title: "&7Patron Zeph"
+	quest.01ABEC296643443F.quest_desc: [
+		"Seviye artışı yok..."
+		""
+		"Özel eşyası: Electric Gem."
+	]
+	quest.01ABEC296643443F.title: "&aLider Galavan"
+	quest.01B54F372558DCE5.title: "&aLider Tessy"
+	quest.023BF4B6D80621EA.quest_desc: [
+		"Seviye 34'e yükselir."
+		""
+		"Özel eşyası: Dark Gem."
+	]
+	quest.023BF4B6D80621EA.title: "&aLider Vega"
+	quest.072329284468B14C.title: "&6Eğitmen Blue"
+	quest.0C72FEE8AF6A3DDC.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Büyü Etiketi."
+	]
+	quest.0C72FEE8AF6A3DDC.title: "&3Elit Dörtlü: Elias"
+	quest.0EF1ABF3185E4C47.quest_desc: [
+		"Seviye 28'e yükselir."
+		""
+		"Özel eşyası: Medicinal Leek."
+	]
+	quest.0EF1ABF3185E4C47.title: "&aLider Mirskle"
+	quest.1A3CF2D85E20CA99.title: "&6Rakip Wayne"
+	quest.1AAAD0BB67A94487.quest_desc: [
+		"Bizim için hâlâ seviye artışı yok."
+		""
+		"Özel eşyası: Krallar Kayası."
+	]
+	quest.1AAAD0BB67A94487.title: "&7Ruin Lideri: Aklove"
+	quest.1FBF130C71A2112F.quest_desc: [
+		"Burada da seviye artışı yok."
+		""
+		"Özel eşyası: Ender İncisi."
+	]
+	quest.1FBF130C71A2112F.title: "&7Patron Zeph"
+	quest.201F9E2D3FF0533F.title: "&7Shadow Yöneticisi: Ivory"
+	quest.23503DF29786B519.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Iron Ball."
+	]
+	quest.23503DF29786B519.title: "&3Elit Dörtlü: Moleman"
+	quest.2B4286EFCE51CC21.quest_desc: [
+		"Seviye 21'e yükselir."
+		""
+		"Özel eşyası: Guard Spec."
+	]
+	quest.2B4286EFCE51CC21.title: "&6Rakip Wayne"
+	quest.2EEA11E6CE65C317.quest_desc: [
+		"Seviye küçük bir artışla 38'e yükselir."
+		""
+		"Özel eşyası: Normal Gem."
+	]
+	quest.2EEA11E6CE65C317.title: "&aLider Mel"
+	quest.3270D40010F5C78A.quest_desc: [
+		"Seviye 41'e yükselir."
+		""
+		"Özel eşyası: Siyah Apricorn."
+	]
+	quest.3270D40010F5C78A.title: "&7Shadow Yöneticisi: Ivory ve Er"
+	quest.38FE871A5867D6F3.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Hızlı Pençe."
+	]
+	quest.38FE871A5867D6F3.title: "&3Elit Dörtlü: Penny"
+	quest.3C108354DB6D9562.quest_desc: [
+		"Seviye artışı yok; artık bunun düzenini anlıyorum."
+		""
+		"Özel eşyası: Sky Tumblestone."
+	]
+	quest.3C108354DB6D9562.title: "&7Ruin Lideri: Aklove"
+	quest.4160EC0860E9CA4C.quest_subtitle: "İsteğe Bağlı Seri"
+	quest.4816190648A0F176.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Fairy Feather."
+	]
+	quest.4816190648A0F176.title: "&3Elit Dörtlü: Arabella"
+	quest.49264B6A20E2657E.title: "&6Rakip Wayne"
+	quest.49598F74E0F165D1.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Nether Yıldızı."
+	]
+	quest.49598F74E0F165D1.title: "&7Ruin Lideri: Aklove"
+	quest.4A82BC9DA2759C9E.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Relic Coin."
+	]
+	quest.4A82BC9DA2759C9E.title: "&7Ruin Yöneticisi: Ivory"
+	quest.524606135B91B536.quest_desc: [
+		"Seviye 76'ya yükselir."
+		""
+		"Özel eşyası: Bug Gem."
+	]
+	quest.524606135B91B536.title: "&aLider Benjamin"
+	quest.554FADF336FF2D04.quest_desc: [
+		"Yine, yine ve yine seviye artışı yok."
+		""
+		"Özel eşyası: Siyah Gözlük."
+	]
+	quest.5A15FBB64AB9369B.quest_desc: [
+		"Seviye 47'ye yükselir."
+		""
+		"Özel eşyası: Colbur Berry."
+	]
+	quest.5A15FBB64AB9369B.title: "&7Shadow Yöneticisi: Marlon"
+	quest.5F2AB0F9166A6AD5.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Elmas."
+	]
+	quest.5F2AB0F9166A6AD5.title: "&6Halef Maxima"
+	quest.65E76C4AD74338E4.title: "&6Rakip Wayne"
+	quest.67A3611F07575F71.quest_desc: [
+		"Seviye 58'e yükselir."
+		""
+		"Özel eşyası: Fighting Gem."
+	]
+	quest.67A3611F07575F71.title: "&aLider Big Mo"
+	quest.6E7DC2CDA7147743.quest_desc: [
+		"Seviye 84'e yükselir."
+		""
+		"Özel eşyası: Ölümsüzlük Totemi."
+	]
+	quest.6E7DC2CDA7147743.title: "&5Şampiyon Jax"
+	quest.7CD47C3C2F1223A1.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: Mürekkep Kesesi."
+	]
+	quest.7CD47C3C2F1223A1.title: "&7Shadow Yöneticisi: Marlon ve Er"
+	quest.7D88BBE64DC2A9D0.title: "&7Eski Shadow Yöneticisi: Marlon"
+	quest.7F132BF6D4B5F803.quest_desc: [
+		"Sonunda bir seviye artışı! 37'ye yükselir."
+		""
+		"Özel eşyası: Flying Gem."
+	]
+	quest.7F132BF6D4B5F803.title: "&aLider Alice"
+	quest.01B54F372558DCE5.quest_desc: [
+		"Seviye 65'e yükselir."
+		""
+		"Özel eşyası Water Gem'dir. Sanırım burada da bir düzen fark etmeye başladım."
+	]
+	quest.072329284468B14C.quest_desc: ["Borrius bölgesinde yenmen gereken son kişi, &6Eğitmen Blue&r. \\\\n\\\\n&4&oRadical Red&r oynadıysan &6Eğitmen Red&r'i hatırlayabilirsin; ona çok benzer. \\\\n\\\\nOnunla savaşmak isteğe bağlıdır. Bu nedenle özel bir eşyası yoktur; bunun yerine onu yine End şehirlerinin bulunduğu belirli biyomlarda bulman gerekir. \\\\n\\\\nOnu yenebilirsen bir sürü ödül alırsın; ayrıca Borrius Efsanesi olursun!"]
+	quest.1A3CF2D85E20CA99.quest_desc: [
+		"Cidden &6Wayne&r, seviyemi artırmayı unutmaya devam edeceksen seninle savaşmaya hevesli değilim!"
+		""
+		"Özel eşyası Bağlantı Kablosudur."
+	]
+	quest.1CE0095340328C08.quest_desc: ["Hâlâ tatmin olmadın mı? Daha da fazla eğitmen mi yenmen gerekiyor? \\n\\nBattleground'da isteğe bağlı olarak savaşabileceğin daha fazla eğitmen bulunur! Bunlar da End şehirlerinin oluştuğu yerlerde ortaya çıkar. \\n\\nBunlar &5Battleground Alice&f, &5Battleground Benjamin&f, &5Battleground Big Mo&f, &5Battleground Mel&f, &5Battleground Mirskle&f, &5Battleground Tessy&f ve &5Battleground Vega&r'dır. \\nHepsini yenerek Battleground'u kazan!"]
+	quest.1CE0095340328C08.title: "Battleground Gladyatörü"
+	quest.201F9E2D3FF0533F.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası Black Apricorn Sprout'tur."
+	]
+	quest.3B750DFAF99B858A.quest_desc: ["&4&oUnbound&r'u açmak için &4&oRadical Red&r veya &4&oBDSP&r'den birini tamamlaman gerekir. \\\\n\\\\nBunlar &4&oUnbound&r'dan önce gelen iki &4&oSeridir&r. Birini tamamlayana kadar &4Trainer Associate&r sana &4&oUnbound&r'u sunmaz. \\\\n\\\\nDoğru duydun; ikisini birden değil, yalnızca birini bitirmen gerekiyor!"]
+	quest.3B750DFAF99B858A.title: "&4&oRadical Red'i Tamamla"
+	quest.4160EC0860E9CA4C.quest_desc: ["&4&oUnbound&r, ikinci nesil oyunların birinci nesille aynı hikâyeyi izlemesine bir tepki olarak oluşturuldu. \\\\n\\\\nFirered ile aynı mekanikler; sadece yeni &cPokémonlar&r ve en önemlisi yeni bir hikâye! \\\\n\\\\nHer zamanki gibi &4Trainer Card&r'ını bir &4Trainer Associate&r'e ver; sana &4&oUnbound&r'a ayarlanmış şekilde geri verecektir."]
+	quest.4160EC0860E9CA4C.title: "&4&oUnbound"
+	quest.45686EA3EC85C958.quest_desc: ["&4&oUnbound&r'u açmak için &4&oRadical Red&r veya &4&oBDSP&r'den birini tamamlaman gerekir. \\\\n\\\\nBunlar &4&oUnbound&r'dan önce gelen iki &4&oSeridir&r. Birini tamamlayana kadar &4Trainer Associate&r sana &4&oUnbound&r'u sunmaz. \\\\n\\\\nDoğru duydun; ikisini birden değil, yalnızca birini bitirmen gerekiyor!"]
+	quest.45686EA3EC85C958.title: "&4&oBDSP'yi Tamamla"
+	quest.49264B6A20E2657E.quest_desc: [
+		"Burada seviye artışı yok; bu adam gerçekten çok cimri!"
+		""
+		"Özel eşyası Binding Band'dir."
+	]
+	quest.554FADF336FF2D04.title: "&7Light of Ruin Vega"
+	quest.65E76C4AD74338E4.quest_desc: [
+		"Hâlâ seviye artışı yok mu? Neyi yanlış yaptık?"
+		""
+		"Bu seferki özel eşyası Dire Hit'tir."
+	]
+	quest.76CA3D98A4772886.quest_desc: ["&4&oSeri&r bitmiş olabilir ama &5Şampiyon&r olarak kalmak istiyorsan unvanını korumak için savaşmalısın! \\\\n\\\\nDaha önce sana yenilenlerden bazıları intikam almak ve &5Şampiyon&r unvanını ele geçirmek için geri dönüyor! \\\\n\\\\nBunlar: &5Title Defense Jax&f, &5Title Defense Marlon&f, &5Title Defense Milo&f, &5Title Defense Solenk&f, &5Title Defense Wayne&f ve &5Title Defense Zeph&r. \\\\n\\\\nBunlarla savaşmak isteğe bağlı olduğu için ne yazık ki özel eşyaları yoktur. Bunun yerine belirli biyomlarda rastgele ortaya çıkarlar. (İpucu: Hepsi End şehirlerinin oluşabildiği biyomlardır.) \\\\n\\\\nHepsini yenersen Borrius Unvanını alırsın!"]
+	quest.76CA3D98A4772886.title: "Hâlâ &5Şampiyon&r!"
+	quest.7D88BBE64DC2A9D0.quest_desc: [
+		"Seviye artışı yok... Neden en az seviye artışı bu &4&oSeride&r var?"
+		""
+		"Özel eşyası Karanlık Taşıdır."
+	]
+}

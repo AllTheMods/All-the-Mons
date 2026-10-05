@@ -1,0 +1,199 @@
+{
+	quest.2CB4138503F71E7A.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.0A55BA7668023573.title: "Tüm hakları saklıdır"
+	task.1092D3B8F9A7B0E7.title: "Tüm hakları saklıdır"
+	quest.06AC44758A00C280.quest_desc: [
+		"Seviye 21'e yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"Bazen &amağaralarda, tepelerde, platolarda ve dağlarda&r dolaşır."
+	]
+	quest.06AC44758A00C280.title: "&aLider Brock"
+	quest.0AE4F79296B6A4E4.quest_desc: [
+		"Seviye 85'e yükselir."
+		""
+		"Özel eşyası: &3Seçim Atkısı&r."
+	]
+	quest.0AE4F79296B6A4E4.title: "&6Eğitmen Brendan"
+	quest.0B7A76864B36BB51.quest_desc: [
+		"Seviye 82'ye yükselir."
+		""
+		"Özel eşyası: &7Şanslı Yumurta&r."
+	]
+	quest.0B7A76864B36BB51.title: "&6Rakip Terry"
+	quest.0C92029DF6B9080A.quest_desc: [
+		"Seviye 79'a yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"&aSıcak biyomlarda&r nadiren dolaşır."
+	]
+	quest.0C92029DF6B9080A.title: "&aLider Blaine"
+	quest.1665D7A3BDC93BEA.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: &7Soothe &cBell&r."
+	]
+	quest.1665D7A3BDC93BEA.title: "&6Rakip Terry "
+	quest.17CADE883895E1C4.quest_desc: [
+		"Seviye 46'ya yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"Bazen &ayemyeşil ve yoğun bitki örtüsüne sahip biyomlarda&r dolaşır."
+	]
+	quest.17CADE883895E1C4.title: "&aLider Erika"
+	quest.23A05E86B1DF7B1E.quest_desc: [
+		"Seviye 80'e yükselir."
+		""
+		"Özel eşyası: &0Utility Umbrella&r."
+	]
+	quest.23A05E86B1DF7B1E.title: "&7Rocket Yöneticisi: Ariana"
+	quest.245203DBA9D45934.quest_desc: [
+		"Seviye 44'e yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"Bazen &aovalarda ve bitki örtüsü seyrek olan diğer biyomlarda&r dolaşır."
+	]
+	quest.245203DBA9D45934.title: "&aLider Lt. Surge"
+	quest.3150CD77C1E90229.quest_desc: [
+		"Seviye 56'ya yükselir."
+		""
+		"Özel eşyası: &8Siyah Çamur&r."
+	]
+	quest.3150CD77C1E90229.title: "&7Rocket Yöneticileri: Archer ve Ariana"
+	quest.34B53B764112A1BF.quest_desc: [
+		"Seviye 63'e yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"&aÜrkütücü ve bitki örtüsü seyrek olan biyomlarda&r nadiren dolaşır."
+	]
+	quest.34B53B764112A1BF.title: "&aLider Sabrina"
+	quest.3D24607A51997B39.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"&cKanto League&r yapısının 3. katında bulunur."
+	]
+	quest.3D24607A51997B39.title: "&3Elit Dörtlü: Agatha"
+	quest.49F4016F012BFA95.quest_subtitle: "İsteğe Bağlı Seri"
+	quest.4FD9219B6005D90E.title: "&6Eğitmen Red"
+	quest.514A8996A1C18BAF.quest_desc: [
+		"Seviye 29'a yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"Bazen &anehirlerde, kumsallarda ve bol su bulunan diğer biyomlarda&r dolaşır."
+	]
+	quest.514A8996A1C18BAF.title: "&aLider Misty"
+	quest.5184669F1F038E9A.quest_desc: [
+		"Seviye 27'ye yükselir."
+		""
+		"Özel eşyası: &eAltın Parçası&r."
+	]
+	quest.5184669F1F038E9A.title: "&6Rakip Terry"
+	quest.54B5E76DD69EA4CD.quest_desc: [
+		"Seviye 68'e yükselir."
+		""
+		"Özel eşyası: &5Expert Belt&r."
+	]
+	quest.54B5E76DD69EA4CD.title: "&6Eğitmen Brendan"
+	quest.5C335DBA0A7C23B5.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"&cKanto League&r yapısının 4. katında bulunur."
+	]
+	quest.5C335DBA0A7C23B5.title: "&3Elit Dörtlü: Lance"
+	quest.60C7BBFC8CA911FF.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"&cKanto League&r yapısının 2. katında bulunur."
+	]
+	quest.60C7BBFC8CA911FF.title: "&3Elit Dörtlü: Bruno"
+	quest.61CC4CEE94D2B612.quest_desc: [
+		"Seviye 34'e yükselir."
+		""
+		"Özel eşyası: İpek Atkı."
+	]
+	quest.61CC4CEE94D2B612.title: "&6Eğitmen Brendan"
+	quest.6374DDC15639E3C3.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: &9Covert Cloak&r."
+	]
+	quest.6374DDC15639E3C3.title: "&7Rocket Yöneticisi: Archer"
+	quest.643604ECFEE714D4.quest_desc: [
+		"Seviye 81'e yükselir."
+		""
+		"Özel eşyası: &cDestiny Knot&r."
+	]
+	quest.643604ECFEE714D4.title: "&7Patron Giovanni"
+	quest.67C1FC2100E5A73C.quest_desc: [
+		"Seviye 73'e yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"&aBataklıklarda ve yağmur ormanlarında&r nadiren dolaşır."
+	]
+	quest.67C1FC2100E5A73C.title: "&aLider Koga"
+	quest.68618D5F4FC2F331.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"&cKanto League&r yapısının 1. katında bulunur."
+	]
+	quest.68618D5F4FC2F331.title: "&3Elit Dörtlü: Lorelei"
+	quest.71525B9B007ECD34.quest_desc: [
+		"Seviye artışı yok."
+		""
+		"Özel eşyası: &8Black Tumblestone&r."
+	]
+	quest.71525B9B007ECD34.title: "&7Rocket Yöneticisi: Archer"
+	quest.73AC47B946B9A388.title: "&7Patron Giovanni"
+	quest.7588ADA67F348B0C.quest_desc: [
+		"Seviye 76'ya yükselir."
+		""
+		"Özel eşyası: &bVivichoke&r."
+	]
+	quest.7588ADA67F348B0C.title: "&6Eğitmen May"
+	quest.78843287D1EB98E2.quest_desc: [
+		"Seviye 81'e yükselir."
+		""
+		"&a#minecraft:village&r etiketli konumlarda oluşan &9Spor Salonlarında&r rastgele bulunabilir."
+		""
+		"&aDağlarda ve zirvelerde&r nadiren dolaşır."
+	]
+	quest.78843287D1EB98E2.title: "&aLider Clair"
+	quest.7C112EF6EA2BB232.title: "&5Şampiyon Terry"
+	quest.7DF8583CAB36812E.quest_desc: [
+		"Seviye 59'a yükselir."
+		""
+		"Özel eşyası: &dŞüpheli Disk&r."
+	]
+	quest.7DF8583CAB36812E.title: "&7Patron Giovanni"
+	quest.49F4016F012BFA95.quest_desc: ["&4&oRadical Red&r, Pokémon Red için hazırlanmış bir ROM hack'idir. Pokémon Red ile aynı hikâyeyi izler... sadece çok daha zordur. \\\\n\\\\nEvet, bu kolay olmayacak. \\\\n\\\\n&4&oRadical Red&r'e başlamak için bir &4Trainer Associate&r ile takas yapıp ona &4Trader Card&r'ını vererek &4&oSeriyi&r başlatabilirsin."]
+	quest.49F4016F012BFA95.title: "&4&oRadical Red"
+	quest.4FD9219B6005D90E.quest_desc: ["&4&oRadical Red&r'i tamamladıktan sonra ilk oyunların ve diğer yapımların ana karakteri &6Eğitmen Red&r'i bulabilirsin! \\n\\nOnunla savaşmak isteğe bağlıdır. Bu yüzden özel bir eşyası yoktur; bunun yerine onu belirli biyomlarda dolaşırken bulman gerekir. Bunlar End şehirlerinin oluşabildiği bütün biyomlardır. \\n\\nFarklı oyunlar ve yapımlar boyunca yıllarca eğitmenlerle savaşmak onu oldukça iyi bir savaşçı hâline getirmiş; bu yüzden en iyi takımını getir! \\n\\nOnu yenebilirsen Kanto Efsanesi olursun!"]
+	quest.51C8B7AAA05EA266.quest_desc: [
+		"Çoğu &alider&r, köylerde oluşan &9Spor Salonlarında&r bulunur; bu yüzden hangi &aSpor Salonu Liderlerini&r bulduğunu not et!"
+		"&6Onlara daha sonra ihtiyacın olacak!!!&r"
+		"Her biri türüne uygun biyomlarda olmak üzere, doğada dolaşırken de &onadiren&r bulunabilir."
+	]
+	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lUYARI&r"
+	quest.51C8B7AAA05EA266.title: "Kanto &9Spor Salonları"
+	quest.5D635B2021C98D41.quest_desc: ["&3Elit Dörtlü&r ve &5Şampiyon&r ile savaşmak istiyorsan Kanto League Gym yapısına gitmen gerekir! \\n\\nBu, &d&lEnd&r'de bulunan dev bir kuledir. Purpur ve End Taşından yapılmıştır; önünde dev, turuncu bir Poké Topu vardır. \\n\\nİlk katta birkaç Pokemart tüccarı, hemşire ve alabileceğin ganimet bulunur. Sonraki birkaç katın her birinde &3Elit Dörtlüden&r biri vardır. En üst katta ise &5Şampiyon&r bulunur!"]
+	quest.5D635B2021C98D41.title: "Kanto League Gym"
+	quest.73AC47B946B9A388.quest_desc: [
+		"Seviye 55'e yükselir."
+		""
+		"Özel eşyası Geliştirici'dir (eşyanın tam adı bu)."
+	]
+	quest.7C112EF6EA2BB232.quest_desc: [
+		"Hâlâ seviye artışı yok ama en azından &5Şampiyonu&r yendin!"
+		""
+		"&cKanto League&r yapısının son katında bulunur."
+		""
+		"&5Şampiyon Terry&r, &4&oSeride&r yenmen gereken son kişidir; ancak Kanto bölgesindeki her şey bununla bitmez..."
+	]
+}

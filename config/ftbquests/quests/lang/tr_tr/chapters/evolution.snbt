@@ -1,0 +1,81 @@
+{
+	quest.36B8B3C61E0CFAD1.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.385FFCF622B7C550.title: "Tüm hakları saklıdır"
+	task.7FC2F6F453502ACF.title: "Tüm hakları saklıdır"
+	image.0140A7A8D9DAE6AC.title: "Ceruledge"
+	image.2219BC2DBEE000D4.title: "Marshstomp"
+	image.2BF5E30B49518210.title: "Mudkip"
+	image.4A269306A4A6F283.title: "Slowbro"
+	image.4C264DE10ECC680E.title: "Swampbert"
+	image.4FF1BDDB4BC803E5.title: "Ursaluna"
+	image.7447F2A5070BAA18.title: "Alcreamie"
+	quest.02F23D223E792587.quest_desc: ["Artık bunun nasıl işlediğini biliyor olmalısın! \\n\\nYen! \\n\\nŞu! \\n\\n&4Eğitmeni&r!"]
+	quest.02F23D223E792587.title: "Şu &4Eğitmeni&r Yen!"
+	quest.03E605A91496B257.quest_desc: ["&7Torf Bloğu&r aslında üretmesi çok ucuz bir eşya! \\n\\nŞimdi dolunayı bekle ve bir Ursaring'e vererek onu &6Ursa&rluna'ya &bevrimleştir&r. \\n\\nBu adın ayı ayı anlamına geldiğinden oldukça eminim!"]
+	quest.03E605A91496B257.title: "Ursaring'i &bEvrimleştirme&r"
+	quest.03E8FB54B87524E1.quest_desc: ["&9Ay Taşı&r, &dClefairy&r'yi &dClefable&r'a ve Jiggly&dpuff&r'ı Wiggly&dtuff&r'a &bevrimleştirir&r."]
+	quest.03E8FB54B87524E1.title: "&9Ay Taşı"
+	quest.04D0FAEF00F88A15.quest_desc: ["&3Takas&r yoluyla &bevrimleşmeyi&r hatırlıyor musun? Hatırlamalısın; bundan hemen önceki görev buydu! \\n\\nBu da tamamen aynı şekilde işler, ancak bazı &cPokémonların&r &bevrimleşebilmesi&r için &3takas edilirken&r bir eşya tutması gerekir. \\n\\nEvet, benim gibi tek oyunculu oynayanlar, &3takas işlemini&r taklit etmek için &3Bağlantı Kablosunu&r kullanabiliriz. \\n\\nBunlarla elde edebileceğin bütün &bevrimleri&r tek tek listelemeyeceğim..."]
+	quest.04D0FAEF00F88A15.title: "Eşya Tutarken &3Takas&r"
+	quest.093D21D44BE4D923.quest_desc: ["&cGüneş Taşlarını&r savanlarda, kırgıbayırlarda ve yemyeşil mağaralarda aramalısın. \\n\\nBu yeterli gelmezse onları çöllerde de bulabilirsin."]
+	quest.093D21D44BE4D923.title: "&cGüneş Taşlarını Bulma"
+	quest.0AABCD95FABC6025.quest_desc: ["&5Karanlık Taşları&r taygalarda, nadiren de bataklıklarda bulunabilir."]
+	quest.0AABCD95FABC6025.title: "&5Karanlık Taşlarını Bulma"
+	quest.0ADFE26AD63EC714.quest_desc: ["Belirli bir &4Eğitmeni&r bulmak için sağ oka tıklayarak ortaya çıktığı bütün biyomları görebilirsin. \\n\\n&2&lMinecraft&r'ta dolaşmaya ayıracak bir milyon yılın yoksa bir &4Trainer Spawner&r üretmeni öneririm! \\n\\n&4&oSeri&r &4Eğitmenlerini&r bulabileceğin biyomların gösterildiği yerde bir özel eşya da görebilirsin. Bu eşyayı &4Trainer Spawner&r'ın içine yerleştirmen gerekir. \\n\\nHazır olduğunda &4Spawner&r'a bir &4Redstone sinyali&r ver; ilgili &4&oSeri&r &4Eğitmeni&r, savaşmaya hazır bir şekilde sihirli biçimde önünde belirecektir! \\n\\nUmarım onu çağırmadan önce önemli bir şey yapmıyordur..."]
+	quest.0CB92F8E8C685159.quest_desc: ["&cGüneş Taşı&r; &2Glo&5om&r'u &2Bellossom&r'a, &2Sunkern&r'ü &2Sunflora&r'ya, &2Cotto&dnee&r'yi &2Whimsi&dcott&r'a ve &2Petilil&r'i &2Lilligant&r'a &bevrimleştirir&r."]
+	quest.0CB92F8E8C685159.title: "&cGüneş Taşı"
+	quest.0D501F8E9C5EC0B4.quest_desc: ["&9Su Taşları&r okyanusların, nehirlerin ve bataklıkların altında bulunur. \\n\\nBu sana yeterli gelmezse yağmur ormanlarını dene!"]
+	quest.0D501F8E9C5EC0B4.title: "&9Su Taşlarını Bulma"
+	quest.16DFD50997856CFA.quest_desc: ["&5Karanlık Taşı&r; &9Murkrow&r'u &9Honchkrow&r'a, &5Misdreavus &f'u &5Mismagius&r'a, &5Lamp&cent&r'i &5Chande&clure&r'a ve &7Doub&5lade&r'i &7Aegis&5lash&r'e &bevrimleştirir&r."]
+	quest.16DFD50997856CFA.title: "&5Karanlık Taşı"
+	quest.1B06907584B3405B.quest_desc: ["&bŞafak Taşları&r zirve biyomlarında bulunur: taşlık, karlı, her türlü zirvede! Kısacası, yükseklik sınırına yakın blokları olan bütün biyomlarda. \\n\\nÇiçek tarlalarında, buzlu biyomlarda veya tepelik biyomlarda nadiren bulunurlar."]
+	quest.1B06907584B3405B.title: "&bŞafak Taşlarını Bulma"
+	quest.1E0E07B8CCC48531.quest_desc: ["&aGök Gürültüsü Taşları&r tepelik biyomlarda oluşur. \\n\\nBazen yağmur ormanlarında da bulunurlar."]
+	quest.1E0E07B8CCC48531.title: "&aGök Gürültüsü Taşını Bulma"
+	quest.2182F3E8D8696D6C.quest_desc: ["&cAteş Taşları&r çöllerde ve &c&lNether&r'daki bazı biyomlarda oluşur. \\n\\nÇok nadiren kumsallarda da bulunurlar!"]
+	quest.2182F3E8D8696D6C.title: "&cAteş Taşlarını Bulma"
+	quest.252E8C0AA0C61575.quest_desc: ["&cCharcadet&r'in izleyebileceği 2 farklı &bevrim&r yolu vardır. \\n\\nİlki, ona &eUğurlu Zırh&r verilerek elde edilen &cArma&drogue&r'dur. \\n\\n&eUğurlu Zırh&r, burç kalıntılarındaki sandıklarda bulunabilir! \\n\\nİkincisi ise &5Malicious Armor&r kullanılarak elde edilen &cCeru&5ledge&r'dir. \\n\\n&5Malicious Armor&r, Nether kalesi sandıklarında bulunur!"]
+	quest.252E8C0AA0C61575.title: "&cCharcadet'in &bEvrim&r Eşyaları"
+	quest.269D24B28FA92DF8.quest_desc: ["&4Trainer Associate&r'ler köylüdür. Elinde bir &4Trainer Card&r tutuyorsan ve bir &4&oSerin&r yoksa çevrende ortaya çıkarlar. Ayrıca normal köylüler gibi köylerde de ortaya çıkarlar. \\n\\nOnlara eşya vererek bir &4Trainer Card&r alabilir veya bir &4Trainer Card&r vererek bir &4&oSeri&r edinebilirsin! \\n\\nBilgilerini görmek için &4Trainer Card&r'a sağ tıkla. Burada daha önce savaştığın bütün &4Eğitmenler&r veya &4&oSerindeki&r &4Eğitmen&r hakkında bilgi bulabilirsin. \\n\\nBir &4Eğitmeni&r görüntülerken adını ve seviye sınırını görebilirsin. Ortaya çıktığı biyomları görmek için sağ oka tıkla! \\n\\n&4&oSeri &r&4Eğitmenlerinin&r adları, onları görüntüleyene kadar &krastgele&r görünür. Sonrasında adları ve seviye sınırları gösterilir. \\n\\nBir &4&oSerideki&r daha yüksek seviye sınırına sahip &4Eğitmeni&r yenersen kendi seviye sınırın artar!"]
+	quest.269D24B28FA92DF8.title: "&4&oSeri"
+	quest.311E949E3299C95C.quest_desc: ["&bBuz Taşı&r, &6Sandshrew&r'ü &6Sandslash&r'e ve &cVulpix&r'i &cNinetails&r'e &bevrimleştirir&r."]
+	quest.311E949E3299C95C.title: "&bBuz Taşı"
+	quest.3602CA4E5D3687DF.quest_desc: ["&aParlak Taşlar&r çiçek biyomlarında ve bazı zirve biyomlarında oluşur."]
+	quest.3602CA4E5D3687DF.title: "&aParlak Taşları Bulma"
+	quest.37E3E12CFC8DCA4F.quest_desc: ["&2Yaprak Taşı&r; &2Glo&5om&r'u &2Vile&5plum&r'a, &2Weepin&5bell&r'i &2Victree&5bell&r'e, &2Exegg&dcute&r'u &2Exegg&dutor&r'a ve &2Nuz&9leaf&r'i &2Shif&9try&r'a &bevrimleştirir&r."]
+	quest.37E3E12CFC8DCA4F.title: "&2Yaprak Taşı"
+	quest.39E4FD684972B543.quest_desc: ["Bir &cPokémonu&r &bevrimleştirmek&r için tamamlaman gereken epey şey vardır... Bu yüzden yanlışlıkla birini &bevrimleştirmek&r oldukça zordur... \\n\\nAma yine de &cPokémonunun&r &bevrimini geri almak&r istersen ona bu eşyayı ver! \\n\\nHayır, ilk &bevrim aşamasındaki &cPokémonlara&r uygulayarak eksi &bevrimler&r bulamazsın."]
+	quest.3ACC787A0ED75A11.quest_desc: ["&aParlak Taş&r, &2Rose&5lia&r'yı &2Rose&5rade&r'e ve &dFloette&r'i &dFlorges&r'e &bevrimleştirir&r."]
+	quest.3ACC787A0ED75A11.title: "&aParlak Taş"
+	quest.3B04DBF92FDF859F.quest_desc: ["Harika! (&b1. aşama evrimdeki&r) &cPokémonunu&r 15. seviyeye çıkardın! \\n\\nPeki neden onu henüz &bevrimleştiremiyoruz&r? \\n\\n&4&lRadical Trainers&r sayesinde seviye sınırımızı açmak için belirli bir &4Eğitmeni&r savaşta yenmemiz gerekiyor. \\n\\nBir &4Trainer Card&r edin ve bir &4Trainer Associate&r bul (ben en çok köylerde buldum!)."]
+	quest.3B04DBF92FDF859F.title: "Seviye Sınırları"
+	quest.3F67085593A2DF93.quest_desc: ["&9Ay Taşları&r taygalarda ve damla taş mağaralarında bulunur."]
+	quest.3F67085593A2DF93.title: "&9Ay Taşlarını Bulma"
+	quest.402F1F09F5AB59FD.quest_desc: ["&dAlcreamie&r, dondurmadan esinlenilmiş bir &cPokémon&r! \\n\\n&dMilcrey'yi bu tatlılarla &dAlcreamie&r'ye &bevrimleştirdiğinde&r onları süsleme olarak kullanır! Çok sevimli."]
+	quest.402F1F09F5AB59FD.title: "&dMilcrey'nin &bEvrim&r Eşyası"
+	quest.46342661700839E0.quest_desc: ["&bŞafak Taşı &f, &dKirlia &f'yı &dGall&4ade&r'e ve &bSnorunt&f'u &bFros&5lass&r'e &bevrimleştirir&r."]
+	quest.46342661700839E0.title: "&bŞafak Taşı"
+	quest.4DC435B42889FE12.quest_desc: ["Bunları buz veya kar bulunan bütün biyomlarda bulabilirsin!"]
+	quest.4DC435B42889FE12.title: "&bBuz Taşlarını Bulma"
+	quest.4F460A7A6F0C704B.quest_desc: ["&2Yaprak Taşları&r ormanlarda, yağmur ormanlarında ve yemyeşil mağaralarda oluşur. \\n\\nYani neredeyse her yerde!"]
+	quest.4F460A7A6F0C704B.title: "&2Yaprak Taşlarını Bulma"
+	quest.5387480428BC6E0A.quest_desc: ["&9Su Taşı&r; &9Poliwhirl&r'ü &9Poli&4wrath&r'a, &9Shellder&r'ı &9Cloy&bster&r'a, &9Staryu&r'yu &9Star&dmie&r'ye, &9Lom&2bre&r'yi &9Ludi&2colo&r'ya ve son olarak Eevee'yi &9Vaporeon&r'a &bevrimleştirir&r!"]
+	quest.5387480428BC6E0A.title: "&9Su Taşı"
+	quest.53B3B9A401360586.quest_desc: ["&aGök Gürültüsü Taşı&r, &ePikachu&r'yu &eRaichu&r'ya ve Eevee'yi &eJolteon&r'a &bevrimleştirir&r."]
+	quest.53B3B9A401360586.title: "&aGök Gürültüsü Taşı"
+	quest.53E70A8232A8F06E.quest_desc: ["Gezgin Tüccarlar ve &4Eğitmenler&r?!?!?! Daha kaç ziyaretçiye ihtiyacımız var! \\n\\nNeyse ki &4Trainer Repel Rod&r ile &4Eğitmenlerden&r kurtulabiliriz. \\n\\nOnu bir yere yerleştir; artık yakınında ortaya çıkmayacaklar!"]
+	quest.5FC88C5D97FFE44E.quest_desc: ["Arkadaşlarınla oynuyorsan onların üzerinde R tuşunu kullanarak savaş başlatabilir ve &cPokémon &3takası&r yapabilirsin! \\n\\nTuş ataması başka bir tuşla çakışıyorsa değiştirmen gerekebilir. \\n\\nBazı &cPokémonlar&r başka birine &3takas edildikten&r sonra &bevrimleşir&r. \\n\\nArkadaşın yok mu? Yani sunucularda oynamıyor musun? O hâlde üzülme; &3Bağlantı Kablomuz&r var! \\n\\nBu eşyayı bir &cPokémon&r üzerinde kullanarak onu \"&3takas et&r\"; böylece &bevrimleşecektir&r!"]
+	quest.5FC88C5D97FFE44E.title: "&3Takas &fyoluyla &bEvrimleşme"
+	quest.6C3E88C02ED3C1F0.quest_desc: ["İster seviye, ister eşya, ister &3takas&r yoluyla, ister başka bir şekilde olsun! &cPokémonunu&r bir sonraki &bevrim aşamasına&r geçirmek için aynı işlemi uygularsın. \\n\\n&cPokémon&r hazır olduğunda (M) tuşuyla takımını aç. \\n\\nBurada &cPokémonu&r görüntüle; &bEvrimleştirme&r düğmesi &cPokémonun&r resminin altında olacaktır. \\n\\nDüğmeye tıkladığında &cPokémon&r &bevrimleşir&r!"]
+	quest.6C3E88C02ED3C1F0.title: "&cPokémonunu &bEvrimleştir&r"
+	quest.6E780D295717056D.quest_desc: ["&cAteş Taşı &f, &cVulpix&r'i &cNinetails&r'e, &cGrowlithe&r'ı &cArcanine&r'e ve Eevee'yi &cFlareon&r'a &bevrimleştirir&r."]
+	quest.6E780D295717056D.title: "&cAteş Taşı"
+	quest.7A4A07325C00A238.quest_desc: ["&9Slow&dpoke&r, &cCharcadet&r'e çok benzer; ikisinin de eşyalarla ulaşabileceği 2 farklı &bevrimi&r vardır. \\n\\n&9Slow&dpoke&r'a bir &6Galarica Cuff&r verdiğinde &9Slow&dbro&r elde edersin. \\n\\nBunun yerine &6Galarica Wreath&r kullanırsan &9Slow&dking&r elde edersin!"]
+	quest.7A4A07325C00A238.title: "&9Slow&dpoke'un &bEvrim&r Eşyaları"
+	task.09E7D93E692CB782.title: "15. Seviyeye Çık"
+	task.2FF61E9EBBEDE7EF.title: "Takas Eşyaları"
+	task.47E6E6B51447C8DC.title: "Slowpoke'un Evrim Eşyaları"
+	task.48230014D8628136.title: "Milcrey'nin Evrim&r Eşyaları"
+	task.6097F6DEBA79FDF0.title: "Charcadet'in Evrim Eşyaları"
+	task.6D8B0FFD3F4C0BCB.title: "Bir Pokémonu Evrimleştir"
+}

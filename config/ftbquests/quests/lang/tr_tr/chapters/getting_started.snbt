@@ -1,0 +1,110 @@
+{
+	quest.0287136D3E986317.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.07BE9AE873DB60D3.title: "Tüm hakları saklıdır"
+	task.1341FBFC95647A1E.title: "Tüm hakları saklıdır"
+	quest.0328E5E416D0F785.quest_desc: ["&nGüçlü&r \\n\\n&aBug&r \\n&2Çimen&r \\n&bIce&r \\n&7Çelik&r \\n\\n&nSavunmasız&r \\n\\n&6Kaya&r \\n&6Yer&r \\n&bWater&r"]
+	quest.0328E5E416D0F785.title: "&cAteş"
+	quest.0FAAA8628228ABA4.quest_desc: ["&nGüçlü&r \\n\\n&8Karanlık&r \\n&2Çimen&r \\n&dPsychic&r \\n\\n&nSavunmasız&r \\n\\n&cFire&r \\n&9Uçuş&r \\n&6Kaya&r"]
+	quest.0FAAA8628228ABA4.title: "&aBöcek"
+	quest.113087E13651BFAB.quest_desc: ["&nGüçlü&r \\n\\n&5Hayalet&r \\n&dPsychic&r \\n\\n&nSavunmasız&r \\n\\n&8Karanlık&r \\n&5Hayalet&r"]
+	quest.113087E13651BFAB.title: "&5Hayalet"
+	quest.194DA601C17C50D5.quest_desc: ["&nGüçlü&r \\n\\n&dFairy&r \\n&2Çimen&r \\n\\n&nSavunmasız&r \\n\\n&6Yer&r \\n&dPsychic&r"]
+	quest.194DA601C17C50D5.title: "&5Zehir"
+	quest.20A9DB41C6BDDE53.quest_desc: ["&nGüçlü&r \\n\\n&8Karanlık&r \\n&9Dragon&r \\n&4Dövüş&r \\n\\n&nSavunmasız&r \\n\\n&5Zehir&r \\n&7Çelik&r"]
+	quest.20A9DB41C6BDDE53.title: "&dPeri"
+	quest.23DAF5129F244C2C.quest_desc: ["&nGüçlü&r \\n\\n&cFire&r \\n&6Yer&r \\n&6Kaya&r \\n\\n&nSavunmasız&r \\n\\n&eElectric&r \\n&2Çimen&r"]
+	quest.23DAF5129F244C2C.title: "&bSu"
+	quest.277D15B7FC23784D.quest_desc: ["&nGüçlü&r \\n\\n&9Uçuş&r \\n&bWater&r \\n\\n&nSavunmasız&r \\n\\n&6Yer&r"]
+	quest.277D15B7FC23784D.title: "&eElektrik"
+	quest.28F40B9DD4896B5E.quest_desc: ["&nGüçlü&r \\n\\n&dFairy&r \\n&bIce&r \\n&6Kaya&r \\n\\n&nSavunmasız&r \\n\\n&4Dövüş&r \\n&cFire&r \\n&6Yer&r"]
+	quest.28F40B9DD4896B5E.title: "&7Çelik"
+	quest.351CFE6AD802F065.quest_desc: ["&nGüçlü&r \\n\\n&4Dövüş&r \\n&5Zehir&r \\n\\n&nSavunmasız&r \\n\\n&aBug&r \\n&8Karanlık&r \\n&5Hayalet&r"]
+	quest.351CFE6AD802F065.title: "&dPsişik"
+	quest.35815F62705D1D53.quest_desc: ["&nSavunmasız&r \\n\\n&4Dövüş"]
+	quest.35815F62705D1D53.title: "Normal"
+	quest.3940A15B6CE854D0.quest_desc: ["&nGüçlü&r \\n\\n&6Yer&r \\n&6Kaya&r \\n&bWater&r \\n\\n&nSavunmasız&r \\n\\n&aBug&r \\n&cFire&r \\n&9Uçuş&r \\n&bIce&r \\n&5Zehir&r"]
+	quest.3940A15B6CE854D0.title: "&2Çimen"
+	quest.3CD6F0BBE9D7EB75.quest_desc: ["&nGüçlü&r \\n\\n&5Hayalet&r \\n&dPsychic&r \\n\\n&nSavunmasız&r \\n\\n&aBug&r \\n&dFairy&r \\n&4Dövüş&r"]
+	quest.3CD6F0BBE9D7EB75.title: "&8Karanlık"
+	quest.3F33E55B8D9E09A4.quest_desc: ["&nGüçlü&r \\n\\n&8Karanlık&r \\n&bIce&r \\nNormal \\n&6Kaya&r \\n&7Çelik&r \\n\\n&nSavunmasız&r \\n\\n&dFairy&r \\n&9Uçuş&r \\n&dPsychic&r"]
+	quest.3F33E55B8D9E09A4.title: "&4Dövüş"
+	quest.40E89CCC6DFDA49A.quest_desc: ["&nGüçlü&r \\n\\n&aBug&r \\n&2Çimen&r \\n&4Dövüş&r \\n\\n&nSavunmasız&r \\n\\n&eElectric&r \\n&bIce&r \\n&6Kaya&r"]
+	quest.40E89CCC6DFDA49A.title: "&9Uçuş"
+	quest.4975A8FD77155647.quest_desc: ["&nGüçlü&r \\n\\n&aBug&r \\n&cFire&r \\n&9Uçuş&r \\n&bIce&r \\n\\n&nSavunmasız&r \\n\\n&4Dövüş&r \\n&2Çimen&r \\n&6Yer&r \\n&7Çelik&r \\n&bWater&r"]
+	quest.4975A8FD77155647.title: "&6Kaya"
+	quest.503B409765D30E60.quest_desc: ["&nGüçlü&r \\n\\n&9Dragon&r \\n\\n&nSavunmasız&r \\n\\n&9Dragon&r \\n&dFairy&r \\n&bIce&r"]
+	quest.503B409765D30E60.title: "&9Dragon"
+	quest.6F3B6275D2BBEA5B.quest_desc: ["&nGüçlü&r \\n\\n&eElectric&r \\n&cFire&r \\n&5Zehir&r \\n&6Kaya&r \\n&7Çelik&r \\n\\n&nSavunmasız&r \\n\\n&2Çimen&r \\n&bIce&r \\n&bWater&r"]
+	quest.6F3B6275D2BBEA5B.title: "&6Yer"
+	quest.7D0F4EF83BA40D66.quest_desc: ["&nGüçlü&r \\n\\n&9Dragon&r \\n&9Uçuş&r \\n&2Çimen&r \\n&6Yer&r \\n\\n&nSavunmasız&r \\n\\n&4Dövüş&r \\n&cFire&r \\n&6Kaya&r \\n&7Çelik&r"]
+	quest.7D0F4EF83BA40D66.title: "&bBuz"
+	quest.012A8C905608C86E.quest_desc: ["&cPokémon Merkezleri&r artık köylerin dışında, ayrı yapılar hâlindedir. \\n\\nGerçi herkese açık sürümden önce oynamadıysan bunu bilemezdin... \\n\\nÇoğunlukla Beyaz Betondan yapılmış büyük binalardır. Üstlerindeki cam &cPoké&r topunu görünce onları tanırsın! \\n\\n&cPokémon Merkezleri&r dünyanda her yerde oluşur. İçlerinde köylüler ve bolca makine bulunur; örneğin..."]
+	quest.012A8C905608C86E.title: "&cPokémon Merkezi"
+	quest.0338E3A881A6DD98.quest_desc: ["&6Remedy&r, Big Root eritilerek yapılır. \\n\\nBir &cPokémona&r savaş sırasında veya dışında yedirilerek canını yenileyen bir eşyadır (&dArkadaşlık&r kaybı karşılığında değil). \\n\\nOnunla üretim yaparak daha da iyi &6Remedy'ler&r elde edebilirsin!"]
+	quest.0338E3A881A6DD98.title: "&6Remedy"
+	quest.0EE5B550E4752CF2.quest_desc: ["Ditto gerçek bir çapkındır; herkes onu sever! \\n\\nDitto, eksik bir &cPokémonun&r yerine geçerek &dÇiftleşebilen&r herhangi bir &cPokémonla&r &dÇiftleştirilebilir&r. Hatta normalde &dÇiftleşemeyen&r bazı &cPokémonlarla&r bile &dÇiftleşebilir&r! \\n\\nDitto kullandığında, &cYumurtanın&r türü Ditto'nun &dÇiftleştiği&r &cPokémonla&r aynı olur."]
+	quest.0EE5B550E4752CF2.title: "Ditto ile &dÇiftleştirme"
+	quest.10C1718C792F3ABB.quest_desc: [
+		"&aŞifa Makinesi&r, içine yerleştirilen &cPokémonların&r canını ve Saldırı Puanlarını yeniler. Bayılan &cPokémonları&r da canlandırır. \\n\\nAynı anda 6 &cPokémon&r alabilir ve bir şarjı vardır. \\n\\nHer kullanımda biraz şarj harcar. Elbette kullanılmadığı zamanlarda, zamanla şarj olur. \\n\\n&cPokémon Merkezlerindeki&r makineleri alamazsın; bunun yerine bir tane üretmelisin! \\n\\nHırsızlığa karşı önlem..."
+		"{image:atm:textures/questpics/pokemon/poke_heal.png width:100 height:100 align:center}"
+	]
+	quest.10C1718C792F3ABB.title: "&aŞifa Makinesi"
+	quest.1A609549BBCFFFAE.quest_desc: ["Medicinal Leek, nehirlerin, göletlerin ve bataklıkların &bSularında&r yetişir. Kısacası tuzlu su dışında hemen her yerde. \\n\\nBir İksir Tezgâhı al, birkaç şişeyi suyla doldur; ardından Medicinal Leek'i bunlara demleyerek şunu elde et..."]
+	quest.211A39A0881A4E1A.quest_desc: ["Bazı &cPokémonların&r nesli milyonlarca yıl önce tükendi... \\n\\nAma şanslı birkaç tanesi fosilleşerek korunmuş! \\n\\nOnları bulalım! Fırçanı kap ve bir kazı alanına git. "]
+	quest.211A39A0881A4E1A.title: "Kadim &cPokémonlar"
+	quest.22B99F88295EC967.quest_desc: ["&cPokémonların &9Seviyesini Yükseltmek&r, çeşitli istatistiklerini güçlendirir ve belirli hareketler ile evrimler için gereklidir. \\n\\n&cPokémonlar&r her savaş kazandıklarında &9Deneyim&r edinir; &4Eğitmenlere&r karşı daha fazla kazanırlar. Başka &cPokémonları&r yakalamaktan da deneyim edinirler. \\n\\nTakım menüsünde bir &cPokémonun&r ne kadar &9Deneyimi&r olduğunu veya seviye atlamak için ne kadar deneyime ihtiyacı bulunduğunu kontrol edebilirsin!"]
+	quest.22B99F88295EC967.title: "&cPokémonunun Seviyesini Yükseltmek"
+	quest.22FCEAECFBC734DD.quest_desc: ["&6Apricorn Ağaçları&r her yerde oluşur! Yalnız oldukça nadirdirler. \\n\\nMeşe ağaçlarıyla aynı boyuttadırlar; &eSarımsı &6Kahverengimsi&r yaprakları ve &6Kahverengi&r kütükleri vardır. \\n\\nYapraklarda &6Apricorn'lar&r filizlenir. Olgunlaştıklarında sağ tıklayarak hasat edebilirsin. \\n\\n7 &6Apricorn&r vardır: &cKırmızı&f, &eSarı&f, &aYeşil&f, &bMavi&f, &dPembe&f, &0Siyah&r ve Beyaz. Diğer tariflerde renk önemlidir."]
+	quest.22FCEAECFBC734DD.quest_subtitle: "Apricot değil; kayısı başka şey!"
+	quest.22FCEAECFBC734DD.title: "&6Apricorn"
+	quest.25CDC402800CA4D1.quest_desc: ["Hey, &cPokémonlar&r bir yerden gelmeli! \\n\\n2 &cPokémon&r bir &6Pasture&r içinde dolaşıyorsa &dÇiftleşebilir&r. Ancak önce karşılanması gereken birçok şart vardır. \\n\\nÖncelikle &dÇiftleşme&r için bir &bErkek &fve bir &dDişi&r gerekir. Yavru &cPokémon&r bir &cPokémon Yumurtasından&r çıkar ve &dAnnesiyle&r aynı türden olur. \\n\\nİki &cPokémonun&r da aynı \"Yumurta Grubu\" içinde olması gerekir. Wiki'yi kullan; bütün &cPokémonları&r tek tek listelemeyeceğim! \\n\\nSon olarak, &dÇiftleşemeyen&r bazı özellikler ve &cPokémonların&r kendileri vardır... \\n\\nBütün şartları karşılıyorsan &dDişi &cPokémon&r arada bir &cYumurta&r bırakır!"]
+	quest.25CDC402800CA4D1.quest_subtitle: "Delibird'ler ve Beedrill'ler"
+	quest.25CDC402800CA4D1.title: "&cPokémon &dÇiftleştirme"
+	quest.270BEFADE842144B.quest_desc: ["&l&cAll&7The&fMons&r'a hoş geldin! \\n\\nHayır, bu bir yazım hatası değildi! Bu, biz &6&lATM Team&r tarafından yapılmış, &c&lCobble&fmon&r odaklı bir mod paketi. \\n\\nBaşlamak için bir başlangıç &cPokémonu&r gerekir. Onu edinmek için varsayılan tuş (M). \\n\\nHer bölgenin 3 başlangıç Pokémonu vardır: &2Çimen&f, &bSu &fve &cAteş&r. Seçmek için simgelere tıklayabilir veya okları hareket ettirebilirsin. \\n\\n&2Çimen türünün&r, &2Yaprak Simgeli&r bir &2Yeşil&r arka planı vardır. &bSu türünün&r, &bSu Damlası Simgeli&r bir &bMavi Arka Planı&r vardır. &cAteş&r içinse &cAlev Simgeli&r bir &cTuruncu Arka Plan&r bulunur. \\n\\nHer &cPokémonun&r üstünde adı ve açıklaması yer alır. Beğendiğin birini bulduğunda \"Seni seçtim!\" düğmesine bas! \\n\\n(&bMudkip&r benim favorim!)"]
+	quest.270BEFADE842144B.title: "&c&lAll&7The&fMons"
+	quest.2EA725733AC5B290.quest_desc: ["&dArkadaşlık Değeri&r evrimleşmek ve savaşmak için gereklidir. \\n\\nBu Palworld değil; &cPokémonlarına&r kötü davranıp yine de senin için çalışmalarını bekleyemezsin. \\n\\nPeki &dArkadaşlığımızı&r nasıl artırırız? \\n&cPokémonunu&r seninle dolaşması için &cPoké&r topundan dışarı çıkardığında &dArkadaşlık&r artar. Belirli tutulan eşyalar ve tüketilebilir eşyalar da &dArkadaşlığı&r artırmaya yardım eder! \\n\\nAncak &dArkadaşlığını&r azaltmamaya da dikkat et... Bazı eşyalar başka yardımlar karşılığında &dArkadaşlığı&r düşürebilir. \\n\\n&cPokémonların&r &dArkadaşlığı&r çok düşükse &4Eğitmenlerle&r savaşmayı reddederler; ya bunu düzelt ya da onları kaldır!"]
+	quest.2EA725733AC5B290.title: "&dArkadaşlık"
+	quest.2EA9DBB7F8F4EF40.quest_desc: ["Bazı &cPokémonlar&r çoğu gibi ortaya çıkmaz; bazıları &9Okyanusun&r derinliklerinde yaşamayı sever! \\n\\nOnlara ulaşmak için bir &cPoké&r oltası gerekir! Bir dakika, &cPoké&r oltası mı? \\n\\nEvet, bu &cPokémonları&r yemle ortaya çıkarmak için bir olta. Bir tane üretmek için Fishing Rod Template gerekir. \\n\\nUsta Balıkçı Köylüyle takas yaparak bir tane edinebilirsin!"]
+	quest.2EA9DBB7F8F4EF40.title: "Oltayla &cPokémon Tutmak"
+	quest.2EEF25FE72F8E4A3.quest_desc: ["Sık sık yolda olan meşgul bir eğitmensen PC on a Stick üretebilir ve yolda, tıpkı çubuğa takılı bir çalışma masası gibi kullanabilirsin.\\n\\nHealing Station sürümü de vardır."]
+	quest.2EEF25FE72F8E4A3.quest_subtitle: "Eşyalara çubuk takmak"
+	quest.366A1733E63AB3AD.quest_desc: ["&cPokémonlarla&r savaşmak! İşte hepimiz bunun için buradayız! Sonunda... \\n\\n&4Eğitmenlerle&r veya vahşi &cPokémonlarla&r savaşmak için varsayılan tuş (R). Ardından ne yapacağımıza dair birkaç seçenek gelir. \\n\\nHer savaş sıra tabanlıdır; önce sen, sonra onlar hareket eder. Her sırada ne yapacağını seçersin. \\n\\nDövüş, &cPokémonumuzla&r diğer &cPokémona&r saldırmak için kullandığımız hareketleri açar. Hareketin adını, türünü ve Saldırı Puanlarını görebilirsin. Saldırı Puanları 0 olduğunda o hareket kullanılamaz. \\n\\nDeğiştir, &cPokémonumuzun&r yerine takımındaki başka bir Pokémonu almamızı sağlar. Ancak bu bir sıra harcar. \\n\\nYakala yalnızca vahşi &cPokémonlarda&r çalışır; daha fazla bilgi için &cPoké&r topu görevine bak. \\n\\nKaç ve Forfeit aynı şekilde çalışır: Savaştan ayrılabilirsin. Forfeit kabul edildiğinde &4Eğitmene&r karşı kaybedersin. Kaç seçeneğinde, savaşı bırakmak için &cPokémonun&r çevresindeki belirli bir alandan uzaklaşmalısın. \\n\\nSavaş sırasında, savaşa girmek için kullandığın aynı tuşa basarak serbestçe dolaşabilirsin. Burada &cPokémona&r eşyalar yedirebilirsin."]
+	quest.366A1733E63AB3AD.title: "&cPokémon&r Savaşları"
+	quest.3932FF3765BFACD3.quest_desc: [
+		"&9PC&r, &cPokémonları&r saklamak için kullanılan bir makinedir. \\n\\n100 kutusu vardır; her biri 30 &cPokémon&r alabilir. &cPokémonları&r takımından &9PC&r'ye veya ters yönde sürükleyebilirsin. \\n\\nMenüde bir &cPokémonun&r üzerine geldiğinde adını, cinsini, türünü, Nature özelliğini, yeteneğini, tuttuğu eşyaları ve hareketlerini görebilirsin. \\n\\nBir &cPokémonu&r takımına doğru taşıdığında bir Serbest bırak düğmesi görünür. Bir &cPokémonla&r buna basarsan o &cPokémon&r doğaya salınır! \\n\\nArtık &cPoké&r topunda bulunmaz ve senin &cPokémonun&r da değildir."
+		"{image:atm:textures/questpics/pokemon/poke_pc.png width:100 height:175 align:center}"
+	]
+	quest.3932FF3765BFACD3.title: "&9PC"
+	quest.404DE5C374A17479.quest_desc: ["Bir Revival Herb ısıtmak bize &aHeal Powder&r verir. \\n\\nBu toz, felç gibi bütün etkileri &cPokémonundan&r kaldırır! Ancak &dArkadaşlığı&r azaltır... \\n\\nDiğer bir seçenek de onunla &aRevive&r üretmektir. Bu eşya, bayılmış bir &cPokémonu&r canlandırıp canının yarısını geri verir. \\n\\nBunlardan 3 tanesiyle daha güçlü bir &aRevive&r yapabilir veya bazı makineler üretebilirsin!"]
+	quest.404DE5C374A17479.title: "&aRevive"
+	quest.447F3DCAB7F60641.quest_desc: ["&6Pasture Block&r, &9PC&r ile birlikte çalışır. Farkı, &cPokémonlarının&r belirli bir alanda dolaşmasına izin vermesidir! \\n\\nBir &6Pasture&r içine en fazla 16 &cPokémon&r taşıyabilirsin. Ardından bunlar &6Pasture&r çevresindeki alanda dolaşır. \\n\\nDolaşan &cPokémonlar&r düşman yaratıklara veya senin vurduğun yaratıklara saldırır. \\n\\nBir &cPokémon&r bayılırsa &9PC&r'ye geri döner."]
+	quest.447F3DCAB7F60641.title: "&6Pasture Block"
+	quest.4E943465A0F727A9.quest_desc: ["Başlangıç Pokémonunu seçtiğinde &2Pokepedia&r alırsın! \n\nBu kitap, &c&lCobble&fmon&r hakkındaki her şey için eksiksiz rehberindir. \n\nGörevler yerine yalnızca kitabı da takip edebilirsin... Ama... \n\nİkisini de takip etmeni tercih ederiz!"]
+	quest.4E943465A0F727A9.title: "&2Pokepedia"
+	quest.5405C436B4489E0C.quest_desc: ["&3Medicinal Brew&r! \\n\\nBunlar üretim veya demleme yoluyla tüketilebilir eşyalara dönüştürülebilir. \\n\\nİstatistikleri artıranlar, etkileri kaldıranlar, hatta etki verenler bile var! \\n\\nHepsini demleyebilir misin?"]
+	quest.5405C436B4489E0C.title: "&3Medicinal Brew"
+	quest.6214530BEC461C9D.quest_desc: [
+		"Artık &cPokémonların&r olduğuna göre onları en iyi nasıl kullanacağını öğrenmelisin! \\n\\nTakımındaki ilk &cPokémonu&r &cPoké&r topundan dışarı çıkarmak için varsayılan tuş (R). Böylece evcil bir köpek gibi çevrende dolaşır. \\n\\nDışarıdayken bütün düşman yaratıklara, sana vuran veya senin vurduğun her şeye saldırır. Ancak hasar alması veya bayılması, savaştaymış gibi aynı şekilde sayılır. \\n\\nTakımını nasıl değiştireceğini ve inceleyeceğini görmek için sonraki sayfaya bak."
+		"{@pagebreak}"
+		"Başlangıç Pokémonunu seçmek için kullandığın tuşla takımını görebilir ve değiştirebilirsin. \\n\\nSolda &cPokémonun&r resmini, değiştirebileceğin adını, türünü, cinsiyetini ve tuttuğu eşyayı görürsün. \\n\\nSağda takımın gösterilir; diğer &cPokémonlara&r da tıklayarak onları inceleyebilirsin. \\n\\nOrtada, yeni istatistikleri görmek için geçiş yapabileceğin 3 sayfa vardır."
+		"{@pagebreak}"
+		"İlk Sayfa: Daha fazla &cPokémon&r istatistiği gösterir! Yaşasın! \\n\\n&cPok&fe&cdex&r numarasını, &cPokémonun&r cinsini, &cPokémonun&r türünü yeniden, sahibini, yeteneğini ve açıklamasını, ayrıca deneyimini gösterir. "
+		"{@pagebreak}"
+		"İkinci Sayfa: &cPokémonun&r savaşta kullandığı hareketleri gösterir. \\n\\nAşağıda açıklamasını, gücünü, etkisini ve isabetini görmek için harekete tıkla. \\n\\nHareket sırasını değiştirmek için soldaki okları kullanabilirsin. Hareketleri değiştirmek içinse sağdaki düğmeyi kullan."
+		"{@pagebreak}"
+		"Üçüncü ve son sayfa istatistikler hakkındadır. Bütün grafikler &cPokémonun&r canını (HP), saldırısını (atk), savunmasını (def), hızını, özel savunmasını (Sp.Def) ve özel saldırısını (SP.Atk) gösterir. \\n\\nStatlar, &cPokémonun&r mevcut istatistiklerini gösterir. IV, &cPokémonun&r başlangıçtaki istatistikleridir; EV ise savaşlar veya eşyalar yoluyla gelişen istatistikleri gösterir. \\n\\nDiğer bölümünde &dArkadaşlık&r ve Dynamax bulunur. &dArkadaşlık&r çok önemli bir istatistiktir!"
+	]
+	quest.6214530BEC461C9D.quest_subtitle: "En azından bir tane yakalamalısın!"
+	quest.6214530BEC461C9D.title: "Bir &cPokémon&r Yakala!"
+	quest.64320561B2275D90.quest_desc: ["&cPokémon&r yakalamanın anahtarı: &cPoké&r topu! \\n\\nBunları yalnızca vahşi &cPokémonlarda&r, doğada veya savaş sırasında kullanabilirsin. Doğada &cPoké&r topunu bir &cPokémona&r doğrultup atmak için sağ tıkla! \\n\\nSavaş sırasında Yakala düğmesini seçmelisin. Bu, onları yakalamayı denemen için savaşa ara verir. \\n\\n&cPoké&r topu atıldıktan sonra tüketilir. &cPokémonu&r yakalarsa Pokémon takımına katılır veya &9PC&r'ne eklenir. \\n\\n&cTop&r onu yakalayamazsa, savaşta değilsen hiçbir şey olmaz. Savaşta başarısız olursa sıranı kaybedersin. \\n\\nFarklı &cTopların&r farklı yakalama oranları vardır. Yüksek olan daha iyidir! Ayrıca daha zayıf &cPokémonlar&r ile hasar almış &cPokémonlar&r daha kolay yakalanır."]
+	quest.64320561B2275D90.title: "&cPoké&f Topları"
+	quest.7217BEFB0088A442.quest_desc: ["Revival Herb, Yemyeşil Mağaralarda yetişir ve Tarım Arazisinde yetiştirilebilir. \\n\\nOlgun Revival Herb, Pep-Up Flower da düşürür! \\n\\nBayılmış bir &cPokémonu&r canlandırmak için üzerinde Revival Herb kullanabilirsin... ama bunu hatırlar, hem de iyi bir şekilde değil. Yani &dArkadaşlık&r kaybedersin. \\n\\nOnu eritip &aHeal Powder&r elde etmeye veya bununla daha iyi bir &aRevive&r üretmeye ne dersin?"]
+	quest.73C7479D929498AE.quest_desc: ["Big Root, Parlayan Meyveler gibi mağaraların tavanlarında oluşur. \\n\\n&8Kayrak Taşının&r üzerinde oluşurlar! \\n\\nBazen aslında Big Root gibi görünen ve aynı şekilde oluşan bir Energy Root olabilir."]
+	quest.77DF4336700646D0.quest_desc: ["&4&lRadical Trainers&r, bize &4Eğitmenler&r sunan ama &c&lCobble&fmon&r için aynı zamanda &cPokémonlarımızın&r ulaşabileceği seviyeleri değiştiren bir eklentidir... \\n\\nTa ki belirli bir &4Eğitmeni&r yenene kadar! \\n\\nBunu öğrenmek için bir &4Trainer Card&r gerekir. Ya üret ya da bir &4Trainer Associate&r ile takas yap. \\n\\n&4Trainer Card&r'ını elinde tutarken belirlenmiş bir &4&oSerin&r yoksa veya bir köyün yakınındaysan çevrende &4Trainer Associate'ler&r ortaya çıkar. Biri yeterince yakındayken &4Trainer Card&r, &5Büyülüymüş&r gibi parlar; elindeki kartın üzerinde bir ok belirir ve &4Trainer Associate&r'ı gösterir. \\n\\nBu köylüler sana, seviye sınırını yükseltmek için hangi &4Eğitmeni&r yenmen gerektiğini bildiren &4&oSeriyi&r de verebilir. \\n\\nKim olduklarını, hatta daha önce savaştığın &4Eğitmenlerin&r istatistiklerini görmek için &4Trainer Card&r'a sağ tıkla!"]
+	quest.77DF4336700646D0.title: "&bEvrim"
+	quest.7B758074DB4BD138.quest_desc: ["&cPok&fe&cdex&r çok önemli bir araçtır. Oyundaki her &cPokémon&r için bir sözlük görevi görür! \\n\\nBir &cPokémonla&r savaşıldığında adı, resmi, animasyonu ve sesi gösterilir. \\n\\nBir &cPokémon&r yakalanırsa bunların hepsine ek olarak türü, Entry bilgisi, yeteneği, boyu ve ağırlığı, temel istatistikleri ve düşürdüğü eşyalar gösterilir. \\n\\nAd, yetenek ve düşen eşyalara göre arama yapabileceğin bir arama çubuğu vardır. Örneğin Drops seçiliyse Kil Topu aratarak hangi &cPokémonların&r öldüğünde bunları düşürdüğünü görebilirsin. Ya da Identify yeteneğini istiyorsan Ability filtresiyle bunu ekleyip hangi &cPokémonların&r Identify yeteneğine sahip olduğunu görebilirsin."]
+	quest.7B758074DB4BD138.title: "&cPok&fe&cdex"
+	task.06D7446522B1CF78.title: "Apricorn'lar"
+	task.4E9620F93F7144CB.title: "Pokédex"
+	task.55EC49744EF03C63.title: "Poké Topları"
+}

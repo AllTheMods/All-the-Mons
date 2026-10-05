@@ -1,0 +1,88 @@
+{
+	quest.04D9F6587EF8D9B7.quest_subtitle: "İksir Depolama"
+	quest.0A1ABE9CF7740AAA.title: "İndirim Yüzükleri"
+	quest.0D330FAD6C993DBC.quest_desc: ["Bu, Büyü Kitabınız için bir sonraki yükseltmedir! \\n\\nToplam mananızı ve mana yenilenmenizi artırmanın yanı sıra Seviye 2 Glifleri oluşturup kullanmanıza olanak tanır."]
+	quest.151648179684B088.quest_subtitle: "Yerleştirilebilir Büyüler"
+	quest.18A2FBE2D4133FA2.quest_subtitle: "Süslü Masalar"
+	quest.18A2FBE2D4133FA2.title: "Esrarengiz Kaideler"
+	quest.1D86B2E553503E53.title: "Yardım Çağır!"
+	quest.227DBA8836021B0B.quest_subtitle: "Kaynak Depolama"
+	quest.3142A40E1EAEBAA3.quest_subtitle: "Sihir Bulucu"
+	quest.3D862A3D3F83CA26.title: "Büyüleyici Aparat"
+	quest.40BC67BDEE15D1DE.title: "&5Kaynak Cevheri"
+	quest.58EC47584C773B82.title: "Büyülü Çiçek Tohumu"
+	quest.5C3FF43CF16BCF30.title: "kaynak taşı"
+	quest.64D0E66CB4FBEC82.title: "Büyü Kitapları"
+	quest.6A1C0B17B22CE50F.title: "Tılsımlar"
+	quest.6B511C8B572E8940.quest_subtitle: "Büyücü Gücü"
+	quest.6B511C8B572E8940.title: "Mana"
+	quest.6DAA82B5F94AF9F8.title: "Kavanozlar"
+	quest.6E0E13806F388D7E.title: "&aArs Nouveau&f Moduna Hoş Geldiniz!"
+	task.01FD75641E5EA5E4.title: "Mana"
+	task.03EB390E79866058.title: "kaynak taşı"
+	task.0E6876A34D1975EB.title: "Tüm Hakları Saklıdır"
+	task.15C6E9C02D1FBEC0.title: "Seviye 2 Glifler"
+	task.1B916AE67F84E6D7.title: "İlk Büyünüzü Oluşturma"
+	task.1CC556A6921208B8.title: "Seviye 1 Glifler"
+	task.2BC0F5A88E2F03C3.title: "Archwood Kütükleri"
+	task.388545A0E3B4930D.title: "Tüm Hakları Saklıdır"
+	task.65D68BEEB36FC805.title: "Seviye 3 Glifler"
+	quest.04D9F6587EF8D9B7.quest_desc: ["&9İksir Kavanozu&r, 100 iksire kadar depolayabilir. Boş bir şişeyi veya İksir Şişesini kavanozda kullanarak iksirleri çıkarabilirsiniz. \\n\\nWixie'ler otomatik iksir üretimi sırasında bu kavanozları kullanır."]
+	quest.088FCB5267CB7A89.quest_desc: ["Bu kemer, kısa süreliğine rastgele olumlu iksir etkileri sağlar. Bu etkilerin gücü değişkenlik gösterir."]
+	quest.0A1ABE9CF7740AAA.quest_desc: ["Küçük İndirim Yüzüğü ve Büyük İndirim Yüzüğü, azami mananıza ve mana yenilenmenize küçük bir bonus sağlar. Ayrıca bir büyü yapmanın toplam maliyetini de düşürür."]
+	quest.0E2AD156E5EF263A.quest_desc: ["Yazıcı Masası kullanılarak üzerine büyü yazmak için kullanılır."]
+	quest.111649D7E16D869F.quest_desc: ["&9Enchanter's Wand&r yalnızca tek bir büyü kabul eder ve üzerine Yazıcı Masası kullanılarak büyü yazılır. \\n\\nAsanın büyüleri her zaman Mermi > Hızlanmak ile başlar. Asaya yazılacak büyü başka bir biçim (Dokunmak, öz vb.) KESİNLİKLE içermemelidir. \\n\\nBu sayede 10 büyü sınırının ötesinde büyüler yapabilirsiniz. Kırmak glifini kullanmak istiyorsanız, asaya yalnızca Kırmak glifini yazmanız yeterlidir."]
+	quest.14DB8A515CA50932.quest_desc: ["&9Büyücünün Kılıcı&r, kılıca Dokunmak biçimli bir büyü bağlamanızı sağlar. \\n\\nKılıçtaki tüm büyüler, büyünün son etkisine uygulanan 1 ek Yükseltmek güçlendirmesi kazanır. \\n\\nKılıca büyü eklemek için Yazıcı Masası kullanın. Büyüyü herhangi bir biçim eklemeden oluşturun."]
+	quest.151648179684B088.quest_desc: ["Runik Tebeşir, yere kalıcı rünler çizmek için kullanılır. Bu rünler, üzerlerinden geçen varlıklara büyü yapar. \\n\\nBir rüne büyü bağlamak için Yazıcı Masası kullanarak bir &eBüyülü Parşömenin&r üzerine büyü yazın.\\n\\nNot: Rünün çalışması için Kaynak gereklidir."]
+	quest.17D7D34F519F7E5F.quest_desc: ["Büyü Kitabınızın son seviyesini oluşturmak için &6Yabani Chimera'yı&r öldürmüş olmanız gerekir. \\n\\nBunu, bir &9ritüel mangal&r kullanarak tamamlamanız gereken bir ritüelle yaparsınız."]
+	quest.18A2FBE2D4133FA2.quest_desc: ["Esrarengiz Kaideler, ritüel mangal için ve Büyüleyici Aparat ile eşya üretmek için gereklidir. \\n\\nHaydi, kendinize 8 adet üretin!"]
+	quest.19D02325579F2AA8.quest_desc: ["Volkanik Kaynak Bağlantısı, yanıcı eşyaları tüketerek Kaynak üretir. Archwood kütükleri fazladan Kaynak sağlar. \\n\\nEşyaları yaktıkça yakındaki taşları lava dönüştürür. \\n\\nAyrıca lav zambakları da üretir."]
+	quest.1D86B2E553503E53.quest_desc: ["Hakimiyet Asası, dünyada karşılaşabileceğiniz yaratıkları kontrol etmek için kullanılır! Her varlık asaya farklı tepki verir; bu yüzden Aşınmış Defter'de ilgili bilgileri okumayı unutmayın!"]
+	quest.227DBA8836021B0B.quest_desc: ["Ars Nouveau'da makinelerin güç sistemine &9Kaynak&r denir. \\n\\nKaynak toplamaya başlamak için bir Kaynak Kavanozuna ihtiyacımız olacak. \\n\\nKaynak, kovalarla veya Kaynak Kavanozlarını kırıp alarak da taşınabilir."]
+	quest.295C77EEC89000FC.quest_subtitle: "Yaratık Ölümlerinden ve Hayvan Üremesinden Kaynak Üretir"
+	quest.2D0CF18C8B2ABB7D.quest_desc: ["Büyüyen bitkilerin veya fidanların yanına yerleştirildiğinde Kaynak sağlar. Archwood ağaçları daha fazla Kaynak sağlar! \\n\\nNot: Kemik tozu kullanmak Kaynak üretmez."]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "Bitkilerin Büyümesinden Kaynak Üretir"
+	quest.3142A40E1EAEBAA3.quest_desc: ["&6Maden Çubuğu&r kullanıldığında Büyü bulmak (Magic Find) ve Ağlamak (Scrying) etkilerini verir. \\n\\nBu, yakındaki sihirli yaratıkları görmenizi sağlar ve ametist bulmanıza yardımcı olur!"]
+	quest.3182E8AF755104E4.quest_desc: ["&9Büyücünün Kalkanı&r hasarı engellediğinde kullanıcıya kısa süreliğine Mana Yenilenmesi ve Büyü Hasarı etkilerini verir. \\n\\nAyrıca kalkan, kullanıcının manasını harcayarak zamanla kendini onarır."]
+	quest.36CDA39C23D3AA2B.quest_desc: ["Bu görev, AllTheMods mod paketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya bir &2topluluk katkıcısı&r tarafından hazırlanmıştır. \\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansı altında olduğundan, &6AllTheMods Ekibi&r tarafından yayımlanmayan hiçbir herkese açık pakette bu görevin açık izin olmadan kullanılmasına izin verilmez. \\n\\nBu görev bilerek gizlenmiştir; görüyorsanız düzenleme modundasınız demektir."]
+	quest.3D4D88B8BE881351.quest_desc: ["Daha iyi büyüler yapmak istiyorsanız, Büyü Kitabınız için yeni gliflerin kilidini açmak üzere bir &6Yazıcı Masasına&r ihtiyacınız olacak. \\n\\nKilidini açabileceğiniz 3 glif seviyesi vardır ve her biri bir miktar deneyim ve eşya gerektirir. \\n\\nYazıcı Masası, Büyülü Parşömenlere büyü bağlamak için de kullanılır. Bunun için masaya bir Büyülü Parşömen yerleştirin, Büyü Kitabınızdan büyüyü seçin ve ardından eğilerek kitabınızla masaya sağ tıklayın. \\n\\nBir glif oluşturmak için Yazıcı Masasına Büyü Kitabınızla sağ tıklayın. Oluşturmak istediğiniz glifi arayın ve alttaki 'Seçme' düğmesine tıklayın. Gerekli eşyalarla masaya sağ tıkladığınızda glif oluşturulur. Glifi öğrenmek için kullanın. \\n\\nNot: Masa, yakındaki envanterlerden eşya çekebilir."]
+	quest.3D4D88B8BE881351.quest_subtitle: "Büyüleri Geliştirme"
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"&9Büyüleyici Aparat&r, moddaki çeşitli eşyaları üretmek için kullanılır. Çalışması için Kaynak gerekir.\\n\\nAyrıca üretim yapmak için Esrarengiz Kaideleri kullanan çok bloklu bir yapıdır.\\n\\nÖnce yere bir Esrarengiz Çekirdek yerleştirin, ardından üzerine Büyüleyici Aparatı koyun. Aparatın çevresini Esrarengiz Kaidelerle çevreleyin.\\n"
+		"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
+	]
+	quest.3FD702B5AB006402.quest_desc: ["Gittiğiniz her yerde havada süzülmek hiç aklınıza geldi mi? \\n\\nBu kemer havada süzülmenizi sağlar. Etkinleştirmek için düşerken veya zıpladıktan sonra havadayken eğilmeniz yeterlidir."]
+	quest.40BC67BDEE15D1DE.quest_desc: ["Kaynak Cevheri üretmek için İmplant Odasına Lapis Lazuli veya Ametist Parçaları koymamız gerekir. Bunlar zamanla Kaynak Cevherine dönüşür!"]
+	quest.41A0BE357C8A74E1.quest_desc: ["&9Simyasal Kaynak Bağlantısı&r, bitişiğindeki iksir kavanozlarından Kaynak üretir. \\n\\nKaynak miktarı, iksire ve karmaşıklığına göre değişir."]
+	quest.41A0BE357C8A74E1.quest_subtitle: "İksirlerle Güç Üretimi"
+	quest.441C0659ED28D935.quest_desc: ["Seviye 1 Glifleri oluşturmak için 3 deneyim seviyesi gerekir."]
+	quest.51162B9185A45BB1.quest_desc: ["Bu yayın üzerine Yazıcı Masası kullanılarak büyü yazılabilir. \\n\\nMana harcanarak oklar Büyü Oklarına dönüşür ve hedeflerine büyüyü uygular. \\n\\nHiç okunuz yoksa 0 hasar veren bir büyü oku atılır. Yeterli mana yoksa bunun yerine normal oklar atılır. \\n\\n&9Büyücünün Yayı&r, üzerine yazılan büyüyü güçlendiren özel Artırma Oklarını da kullanabilir."]
+	quest.542C6D76B579886C.quest_desc: ["Büyüleyici Aparat düzeneğimizi kullanarak ilk tohumumuz olan &5Büyülü Çiçek Tohumunu&r üretmek isteyeceğiz. \\n\\nBunu kendimize sihirli giysiler yapmak için kullanacağız!"]
+	quest.5766C8B9E850C186.quest_desc: [
+		"Ars'ın temel üretim malzemelerinden biri olan &9Kaynak Cevherini&r oluşturmak için bir &6İmplant Odası&r üretmemiz gerekir. \\n\\nİmplant Odası, eşyalara güç aşılamak için Kaynak gerektirir. Kendi başına az miktarda Kaynak üretir, ancak güç kaynağı olarak Kaynak Kavanozlarını da kullanabilir. \\n\\nBazı tarifler için çevresine Esrarengiz Kaideler yerleştirilmesi de gerekir.\\n"
+		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
+	]
+	quest.5766C8B9E850C186.quest_subtitle: "Kaynak Cevheri Oluşturma"
+	quest.58EC47584C773B82.quest_desc: ["Büyüleyici Aparat düzeneğimizi kullanarak ilk tohumumuz olan &5Büyülü Çiçek Tohumunu&r üretmek isteyeceğiz. \\n\\nBunu kendimize sihirli giysiler yapmak için kullanacağız!"]
+	quest.58EC47584C773B82.quest_subtitle: "Sihir Yetiştirme"
+	quest.5C3FF43CF16BCF30.quest_desc: ["Kaynak Cevheriyle &5kaynak taşı&r üreterek çeşitli makineleri üretmeye başlayabilirsiniz."]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "Eski adıyla \"Esrarengiz Taşlar\""
+	quest.5CFBA24B3E0CDEDD.quest_desc: [
+		"Büyü Kitabınızı elinizde tutarken C tuşuna basarak büyü oluşturma sayfasını açabilirsiniz. \\n\\nHer büyünün bir biçimi olmalıdır. Başlangıçta 3 temel biçiminiz vardır: Mermi, öz ve Dokunmak. \\n\\nEtki, büyüyü yaptığınızda ne olacağını belirler. Bir büyüde en fazla 9 etki kullanabilirsiniz. \\n\\nBaşlangıçta Zarar ve Kırmak etkilerine sahipsiniz. \\n\\nBir Biçim ve bir Etki seçin, büyünüze isim verin ve 'Yaratmak' düğmesine tıklayın!"
+		""
+		"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
+	]
+	quest.632BC46928CC9A8C.quest_desc: ["&9Büyücünün Aynası&r kullanıldığında öz biçimli bir büyü uygular. \\n\\nBu aynayla yapılan büyülerin maliyeti azalır ve sürelerine ek bir bonus verilir. \\n\\nBir büyü eklemek için Yazıcı Masası kullanın. Büyüyü herhangi bir biçim eklemeden oluşturun."]
+	quest.63DD7F5A4441ACE7.quest_desc: ["Seviye 2 Glifleri oluşturmak için 5 deneyim seviyesi gerekir. \\n\\nBunları oluşturmak için ayrıca bir &9Büyücünün Büyü Kitabı&r gerekir."]
+	quest.64D0E66CB4FBEC82.quest_desc: ["Başlamak için kendinize bir &6Acemi Büyü Kitabı&r üretmeniz gerekir! \\n\\nBüyülerinizi burada oluşturur ve saklarsınız. \\n\\n&9C&r tuşuna basmak 'Büyü Oluşturma' sayfasını açar. Solda birkaç sekme vardır; başlıca 3 sekme Büyü Oluşturma, 'Renk seçici' ve 'tanıdıklar' sekmeleridir. \\n\\nBu Büyü Kitabı yalnızca Seviye 1 Glifleri oluşturmanıza ve kullanmanıza izin verir. Daha iyi büyüler oluşturmak için Büyü Kitabınızı yükseltmeniz gerekir!"]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "İlk Büyü Kitabımız"
+	quest.6A1C0B17B22CE50F.quest_desc: ["&9Mana Takviyesi Tılsımı&r azami mananızı artırır. \\n\\n&6Mana Yenilenmesi Tılsımı&r ise mana yenilenmenizi artırır."]
+	quest.6B511C8B572E8940.quest_desc: ["Ekranınızın sol alt köşesinde bir gösterge göreceksiniz. Bu gösterge mana havuzunuzdur! \\n\\nModda ilerledikçe mana havuzunuzu büyütmenin veya büyülerinizin verimliliğini artırmanın çeşitli yolları vardır. Büyü Kitabınızı yükseltmek de mananızı artırabilir!"]
+	quest.6DAA82B5F94AF9F8.quest_desc: ["&9Işık Kavanozu&r, sizi takip eden ve havada süzülen bir ışık kaynağı çağırır. \\n\\n&6İşeme Kavanozu&r, topladığınız eşyaları mana karşılığında yok eder. Buna filtre uygulanabilir. \\n\\nKavanozun yok edeceği eşyaları eklemek veya çıkarmak için eşya ikincil elinizdeyken kavanozu kullanın ya da kavanozu Yazıcı Masasının üzerine yerleştirip masada bir eşya kullanın. \\n\\nKavanozun çalışması için hızlı erişim çubuğunuzda bulunması gerekir."]
+	quest.6E0E13806F388D7E.quest_desc: ["&aArs Nouveau&f moduna hoş geldiniz! \\n\\nArs Nouveau, modda oluşturulan farklı Gliflerle kendi özel büyülerinizi yapmanıza olanak tanıyan bir büyü modudur!"]
+	quest.6F3602F5600A6221.quest_desc: ["Seviye 3 Glifleri oluşturmak için 10 deneyim seviyesi gerekir. \\n\\nAyrıca bir &6Archmage Büyü Kitabı&r gerekir."]
+	quest.77145113CD5B26FB.quest_desc: ["kaynak üzümü, diğer kaynaklara göre daha fazla Kaynak üretir. \\n\\nBu bağlantı ayrıca çevresindeki 3x3'lük alanda çimen veya toprağı Miselyuma dönüştürür. Çevresindeki alan boşsa orada mantarlar da yetiştirir."]
+	quest.77145113CD5B26FB.quest_subtitle: "Yakındaki Yiyeceklerden Kaynak Üretir"
+	quest.457DE8C154641437.quest_desc: ["&9ritüel mangal&r, ritüeller gerçekleştirmek için kullanılır. Dekorasyon için de kullanılabilir. Mangalı yakmak istiyorsanız, üzerinde Magelight'ı Büyüle büyüsünü kullanın. \\n\\nRitüeller gerçekleştirmek için Esrarengiz Kaidelere de ihtiyacınız olacak. Gerçekleştirilebilecek çok sayıda ritüel olduğundan, her birini &6Aşınmış Defter&r aracılığıyla incelemeyi unutmayın! \\n\\nKitap envanterinizdeyken ritüel mangal üzerinde Ctrl tuşunu basılı tutarak bunu yapabilirsiniz."]
+	quest.33682F4B44950123.quest_desc: ["Büyüler hakkında daha fazla bilgi edinmek için özel bir büyülü odun türüne ihtiyacımız olacak! \\n\\nArchwood ağaçları Ana Dünyada bulunabilir."]
+}

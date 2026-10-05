@@ -1,0 +1,450 @@
+{
+	quest.2CA1E70813BFE6E7.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.47FF36EC8F4EDE22.title: "Tüm hakları saklıdır"
+	task.7B91C38DD6E214C3.title: "Tüm hakları saklıdır"
+	quest.1E6E0003C0FFEE01.quest_subtitle: "Hoenn"
+	quest.1E6E0003C0FFEE01.title: "Kyogre"
+	quest.1E6E0004C0FFEE02.quest_subtitle: "Hoenn"
+	quest.1E6E0004C0FFEE02.title: "Groudon"
+	quest.1E6E0005C0FFEE03.quest_subtitle: "Hoenn"
+	quest.1E6E0005C0FFEE03.title: "Rayquaza"
+	quest.1E6F000000001004.quest_subtitle: "Unova"
+	quest.1E6F000000001004.title: "Genesect"
+	quest.1E6F00000000100A.quest_subtitle: "Alola"
+	quest.1E6F00000000100A.title: "Type: Null"
+	quest.1E6F000000001010.quest_subtitle: "Kalos"
+	quest.1E6F000000001010.title: "Volcanion"
+	quest.1E6F000000001019.quest_subtitle: "Paldea"
+	quest.1E6F000000001019.title: "Munkidori"
+	quest.1E6F00000000101F.quest_subtitle: "Paldea"
+	quest.1E6F00000000101F.title: "Fezandipiti"
+	quest.1E6F000000001025.quest_subtitle: "Paldea"
+	quest.1E6F000000001025.title: "Okidogi"
+	quest.1E6F00000000103D.quest_subtitle: "Alola"
+	quest.1E6F00000000103D.title: "Meltan"
+	quest.1E6F000000001044.quest_subtitle: "Alola"
+	quest.1E6F000000001044.title: "Melmetal"
+	quest.1E6F00000000104A.quest_subtitle: "Paldea"
+	quest.1E6F00000000104A.title: "Terapagos"
+	quest.1E6F000000001053.quest_subtitle: "Kanto"
+	quest.1E6F000000001053.title: "Mewtwo"
+	quest.1E6F000000001058.quest_subtitle: "Paldea"
+	quest.1E6F000000001058.title: "Pecharunt"
+	quest.1E6F000000001070.quest_subtitle: "Johto"
+	quest.1E6F000000001070.title: "Lugia"
+	quest.1E6F000000001076.quest_subtitle: "Sinnoh"
+	quest.1E6F000000001076.title: "Heatran"
+	quest.1E6F00000000107C.quest_subtitle: "Kanto"
+	quest.1E6F00000000107C.title: "Mew"
+	quest.1E6F000000001082.quest_subtitle: "Unova"
+	quest.1E6F000000001082.title: "Victini"
+	quest.1E6F000000001088.quest_subtitle: "Kalos"
+	quest.1E6F000000001088.title: "Hoopa"
+	quest.1E6F00000000109E.quest_subtitle: "Unova"
+	quest.1E6F00000000109E.title: "Reshiram"
+	quest.1E6F0000000010A4.quest_subtitle: "Unova"
+	quest.1E6F0000000010A4.title: "Zekrom"
+	quest.1E6F0000000010AA.quest_subtitle: "Unova"
+	quest.1E6F0000000010AA.title: "Kyurem"
+	quest.1E6F0000000010B1.quest_subtitle: "Sinnoh"
+	quest.1E6F0000000010B1.title: "Dialga"
+	quest.1E6F0000000010B7.quest_subtitle: "Sinnoh"
+	quest.1E6F0000000010B7.title: "Palkia"
+	quest.1E6F0000000010BD.quest_subtitle: "Sinnoh"
+	quest.1E6F0000000010BD.title: "Giratina"
+	quest.1E6F0000000010C3.quest_subtitle: "Hoenn"
+	quest.1E6F0000000010C3.title: "Latias"
+	quest.1E6F0000000010C9.quest_subtitle: "Hoenn"
+	quest.1E6F0000000010C9.title: "Latios"
+	quest.1E6F0000000010CF.quest_subtitle: "Galar"
+	quest.1E6F0000000010CF.title: "Zacian"
+	quest.1E6F0000000010D5.quest_subtitle: "Galar"
+	quest.1E6F0000000010D5.title: "Zamazenta"
+	quest.1E6F0000000010EB.quest_subtitle: "Hoenn"
+	quest.1E6F0000000010EB.title: "Regirock"
+	quest.1E6F0000000010F1.quest_subtitle: "Hoenn"
+	quest.1E6F0000000010F1.title: "Regice"
+	quest.1E6F0000000010F7.quest_subtitle: "Hoenn"
+	quest.1E6F0000000010F7.title: "Registeel"
+	quest.1E6F0000000010FD.quest_subtitle: "Galar"
+	quest.1E6F0000000010FD.title: "Regieleki"
+	quest.1E6F000000001103.quest_subtitle: "Galar"
+	quest.1E6F000000001103.title: "Regidrago"
+	quest.1E6F000000001109.quest_subtitle: "Sinnoh"
+	quest.1E6F000000001109.title: "Regigigas"
+	quest.1E6F00000000110F.quest_subtitle: "Galar"
+	quest.1E6F00000000110F.title: "Eternatus"
+	quest.1E6F000000001115.quest_subtitle: "Kalos"
+	quest.1E6F000000001115.title: "Yveltal"
+	quest.1E6F00000000111B.quest_subtitle: "Kalos"
+	quest.1E6F00000000111B.title: "Xerneas"
+	quest.1E6F000000001121.quest_subtitle: "Galar"
+	quest.1E6F000000001121.title: "Glastrier"
+	quest.1E6F000000001127.quest_subtitle: "Galar"
+	quest.1E6F000000001127.title: "Spectrier"
+	quest.1E6F00000000112D.quest_subtitle: "Galar"
+	quest.1E6F00000000112D.title: "Calyrex"
+	quest.1E6F000000001132.quest_subtitle: "Sinnoh"
+	quest.1E6F000000001132.title: "Arceus"
+	quest.1E6F000000001138.quest_subtitle: "Sinnoh"
+	quest.1E6F000000001138.title: "Mesprit"
+	quest.1E6F00000000113E.quest_subtitle: "Sinnoh"
+	quest.1E6F00000000113E.title: "Azelf"
+	quest.1E6F000000001144.quest_subtitle: "Sinnoh"
+	quest.1E6F000000001144.title: "Uxie"
+	quest.1E6F00000000114A.quest_subtitle: "Sinnoh"
+	quest.1E6F00000000114A.title: "Cresselia"
+	quest.1E6F00000000114F.quest_subtitle: "Sinnoh"
+	quest.1E6F00000000114F.title: "Darkrai"
+	quest.1E6F000000001154.quest_subtitle: "Kanto"
+	quest.1E6F000000001154.title: "Articuno"
+	quest.1E6F000000001159.quest_subtitle: "Kanto"
+	quest.1E6F000000001159.title: "Zapdos"
+	quest.1E6F00000000115E.quest_subtitle: "Kanto"
+	quest.1E6F00000000115E.title: "Moltres"
+	quest.1E6F000000001175.quest_subtitle: "Paldea"
+	quest.1E6F000000001175.title: "Chi-Yu"
+	quest.1E6F00000000117A.quest_subtitle: "Paldea"
+	quest.1E6F00000000117A.title: "Wo-Chien"
+	quest.1E6F00000000117F.quest_subtitle: "Paldea"
+	quest.1E6F00000000117F.title: "Chien-Pao"
+	quest.1E6F000000001184.quest_subtitle: "Paldea"
+	quest.1E6F000000001184.title: "Ting-Lu"
+	quest.1E6F0000000011D7.quest_subtitle: "Hoenn"
+	quest.1E6F0000000011D7.title: "Jirachi"
+	quest.1E6F0000000011DB.quest_subtitle: "Sinnoh"
+	quest.1E6F0000000011DB.title: "Manaphy"
+	quest.1E6F0000000011DF.quest_subtitle: "Sinnoh"
+	quest.1E6F0000000011DF.title: "Shaymin"
+	quest.1E6F0000000011E3.quest_subtitle: "Unova"
+	quest.1E6F0000000011E3.title: "Tornadus"
+	quest.1E6F0000000011E7.quest_subtitle: "Unova"
+	quest.1E6F0000000011E7.title: "Thundurus"
+	quest.1E6F0000000011EB.quest_subtitle: "Unova"
+	quest.1E6F0000000011EB.title: "Landorus"
+	quest.1E6F0000000011EF.quest_subtitle: "Hisui"
+	quest.1E6F0000000011EF.title: "Enamorus"
+	quest.1E6F0000000011F3.quest_subtitle: "Kalos"
+	quest.1E6F0000000011F3.title: "Diancie"
+	quest.1E6F0000000011F7.quest_subtitle: "Alola"
+	quest.1E6F0000000011F7.title: "Tapu Koko"
+	quest.1E6F0000000011FB.quest_subtitle: "Alola"
+	quest.1E6F0000000011FB.title: "Tapu Lele"
+	quest.1E6F0000000011FF.quest_subtitle: "Alola"
+	quest.1E6F0000000011FF.title: "Tapu Bulu"
+	quest.1E6F000000001203.quest_subtitle: "Alola"
+	quest.1E6F000000001203.title: "Tapu Fini"
+	quest.1E6F000000001207.quest_subtitle: "Alola"
+	quest.1E6F000000001207.title: "Magearna"
+	quest.1E6F00000000120B.quest_subtitle: "Alola"
+	quest.1E6F00000000120B.title: "Zeraora"
+	quest.1E6F00000000120F.quest_subtitle: "Galar"
+	quest.1E6F00000000120F.title: "Kubfu"
+	quest.1E6F000000001213.quest_subtitle: "Galar"
+	quest.1E6F000000001213.title: "Zarude"
+	quest.1E6F000000001217.quest_subtitle: "Paldea"
+	quest.1E6F000000001217.title: "Ogerpon"
+	quest.1E6F00000000122F.quest_subtitle: "Unova"
+	quest.1E6F00000000122F.title: "Cobalion"
+	quest.1E6F000000001234.quest_subtitle: "Unova"
+	quest.1E6F000000001234.title: "Terrakion"
+	quest.1E6F000000001239.quest_subtitle: "Unova"
+	quest.1E6F000000001239.title: "Virizion"
+	quest.1E6F00000000123E.quest_subtitle: "Unova"
+	quest.1E6F00000000123E.title: "Keldeo"
+	quest.1E6F0000000012C1.quest_subtitle: "Johto"
+	quest.1E6F0000000012C1.title: "Entei"
+	quest.1E6F0000000012C7.quest_subtitle: "Johto"
+	quest.1E6F0000000012C7.title: "Raikou"
+	quest.1E6F0000000012CD.quest_subtitle: "Johto"
+	quest.1E6F0000000012CD.title: "Suicune"
+	quest.1E6F0000000012D3.quest_subtitle: "Johto"
+	quest.1E6F0000000012D3.title: "Ho-Oh"
+	quest.1E6F0000000012E9.quest_subtitle: "Galar"
+	quest.1E6F0000000012E9.title: "Galarian Articuno"
+	quest.1E6F0000000012EE.quest_subtitle: "Galar"
+	quest.1E6F0000000012EE.title: "Galarian Zapdos"
+	quest.1E6F0000000012F3.quest_subtitle: "Galar"
+	quest.1E6F0000000012F3.title: "Galarian Moltres"
+	quest.1E6F000000001308.quest_subtitle: "Johto"
+	quest.1E6F000000001308.title: "Celebi"
+	quest.1E6F00000000130D.quest_subtitle: "Alola"
+	quest.1E6F00000000130D.title: "Marshadow"
+	quest.1E6F000000001313.quest_subtitle: "Unova"
+	quest.1E6F000000001313.title: "Meloetta"
+	quest.1E6F000000001318.quest_subtitle: "Alola"
+	quest.1E6F000000001318.title: "Cosmog"
+	quest.1E6F00000000131D.quest_subtitle: "Alola"
+	quest.1E6F00000000131D.title: "Necrozma"
+	quest.1E6F000000001331.quest_subtitle: "Hoenn"
+	quest.1E6F000000001331.title: "Deoxys"
+	quest.2B1AB9ECAB07A486.quest_subtitle: "Kalos"
+	quest.2B1AB9ECAB07A486.title: "Zygarde"
+	task.1E6E0003CA7C0001.title: "Bir Kyogre Yakala"
+	task.1E6E0004CA7C0002.title: "Bir Groudon Yakala"
+	task.1E6E0005CA7C0003.title: "Bir Rayquaza Yakala"
+	task.1E6F000000001006.title: "Bir Genesect Yakala"
+	task.1E6F00000000100C.title: "Bir Type: Null Yakala"
+	task.1E6F000000001012.title: "Bir Volcanion Yakala"
+	task.1E6F00000000101B.title: "Bir Munkidori Yakala"
+	task.1E6F000000001021.title: "Bir Fezandipiti Yakala"
+	task.1E6F000000001027.title: "Bir Okidogi Yakala"
+	task.1E6F000000001041.title: "Bir Meltan Yakala"
+	task.1E6F000000001047.title: "Bir Melmetal Yakala"
+	task.1E6F000000001050.title: "Bir Terapagos Yakala"
+	task.1E6F000000001055.title: "Bir Mewtwo Yakala (ŞU ANDA BOZUK)"
+	task.1E6F00000000105A.title: "Bir Pecharunt Yakala"
+	task.1E6F000000001073.title: "Bir Lugia Yakala"
+	task.1E6F000000001079.title: "Bir Heatran Yakala"
+	task.1E6F00000000107F.title: "Bir Mew Yakala"
+	task.1E6F000000001085.title: "Bir Victini Yakala"
+	task.1E6F00000000108B.title: "Bir Hoopa Yakala"
+	task.1E6F0000000010A1.title: "Bir Reshiram Yakala"
+	task.1E6F0000000010A7.title: "Bir Zekrom Yakala"
+	task.1E6F0000000010AE.title: "Bir Kyurem Yakala"
+	task.1E6F0000000010B4.title: "Bir Dialga Yakala"
+	task.1E6F0000000010BA.title: "Bir Palkia Yakala"
+	task.1E6F0000000010C0.title: "Bir Giratina Yakala"
+	task.1E6F0000000010C6.title: "Bir Latias Yakala"
+	task.1E6F0000000010CC.title: "Bir Latios Yakala"
+	task.1E6F0000000010D2.title: "Bir Zacian Yakala"
+	task.1E6F0000000010D8.title: "Bir Zamazenta Yakala"
+	task.1E6F0000000010EE.title: "Bir Regirock Yakala"
+	task.1E6F0000000010F4.title: "Bir Regice Yakala"
+	task.1E6F0000000010FA.title: "Bir Registeel Yakala"
+	task.1E6F000000001100.title: "Bir Regieleki Yakala"
+	task.1E6F000000001106.title: "Bir Regidrago Yakala"
+	task.1E6F00000000110C.title: "Bir Regigigas Yakala"
+	task.1E6F000000001112.title: "Bir Eternatus Yakala"
+	task.1E6F000000001118.title: "Bir Yveltal Yakala"
+	task.1E6F00000000111E.title: "Bir Xerneas Yakala"
+	task.1E6F000000001124.title: "Bir Glastrier Yakala"
+	task.1E6F00000000112A.title: "Bir Spectrier Yakala"
+	task.1E6F00000000112F.title: "Bir Calyrex Yakala"
+	task.1E6F000000001135.title: "Bir Arceus Yakala"
+	task.1E6F00000000113B.title: "Bir Mesprit Yakala"
+	task.1E6F000000001141.title: "Bir Azelf Yakala"
+	task.1E6F000000001147.title: "Bir Uxie Yakala"
+	task.1E6F00000000114C.title: "Bir Cresselia Yakala"
+	task.1E6F000000001151.title: "Bir Darkrai Yakala"
+	task.1E6F000000001156.title: "Bir Articuno Yakala"
+	task.1E6F00000000115B.title: "Bir Zapdos Yakala"
+	task.1E6F000000001160.title: "Bir Moltres Yakala"
+	task.1E6F000000001177.title: "Bir Chi-Yu Yakala"
+	task.1E6F00000000117C.title: "Bir Wo-Chien Yakala"
+	task.1E6F000000001181.title: "Bir Chien-Pao Yakala"
+	task.1E6F000000001186.title: "Bir Ting-Lu Yakala"
+	task.1E6F0000000011D8.title: "Bir Jirachi Yakala"
+	task.1E6F0000000011DC.title: "Bir Manaphy Yakala"
+	task.1E6F0000000011E0.title: "Bir Shaymin Yakala"
+	task.1E6F0000000011E4.title: "Bir Tornadus Yakala"
+	task.1E6F0000000011E8.title: "Bir Thundurus Yakala"
+	task.1E6F0000000011EC.title: "Bir Landorus Yakala"
+	task.1E6F0000000011F0.title: "Bir Enamorus Yakala"
+	task.1E6F0000000011F4.title: "Bir Diancie Yakala"
+	task.1E6F0000000011F8.title: "Bir Tapu Koko Yakala"
+	task.1E6F0000000011FC.title: "Bir Tapu Lele Yakala"
+	task.1E6F000000001200.title: "Bir Tapu Bulu Yakala"
+	task.1E6F000000001204.title: "Bir Tapu Fini Yakala"
+	task.1E6F000000001208.title: "Bir Magearna Yakala"
+	task.1E6F00000000120C.title: "Bir Zeraora Yakala"
+	task.1E6F000000001210.title: "Bir Kubfu Yakala"
+	task.1E6F000000001214.title: "Bir Zarude Yakala"
+	task.1E6F000000001218.title: "Bir Ogerpon Yakala"
+	task.1E6F000000001231.title: "Bir Cobalion Yakala"
+	task.1E6F000000001236.title: "Bir Terrakion Yakala"
+	task.1E6F00000000123B.title: "Bir Virizion Yakala"
+	task.1E6F000000001240.title: "Bir Keldeo Yakala"
+	task.1E6F0000000012C4.title: "Bir Entei Yakala"
+	task.1E6F0000000012CA.title: "Bir Raikou Yakala"
+	task.1E6F0000000012D0.title: "Bir Suicune Yakala"
+	task.1E6F0000000012D6.title: "Bir Ho-Oh Yakala"
+	task.1E6F0000000012EB.title: "Bir Galarian Articuno Yakala"
+	task.1E6F0000000012F0.title: "Bir Galarian Zapdos Yakala"
+	task.1E6F0000000012F5.title: "Bir Galarian Moltres Yakala"
+	task.1E6F00000000130A.title: "Bir Celebi Yakala"
+	task.1E6F000000001310.title: "Bir Marshadow Yakala"
+	task.1E6F000000001315.title: "Bir Meloetta Yakala"
+	task.1E6F00000000131A.title: "Bir Cosmog Yakala"
+	task.1E6F00000000131E.title: "Bir Necrozma Yakala"
+	task.1E6F000000001334.title: "Bir Deoxys Yakala"
+	task.5A94D921FBE617B9.title: "Bir Zygarde Yakala (ŞU ANDA BOZUK)"
+	quest.1E6E0001CA7C4111.quest_desc: ["En nadir Pokémonlar kolay kolay teslim olmaz. &6Efsanevi&r, &dMitik&r, &bUltra Beast&r ve &cParadox&r türleriyle, ait oldukları bölgenin &ebölgesel Pika Star'ını&r yanında taşımadan savaşamaz veya onları yakalayamazsın. Yıldızı taşısan bile onları bir topta tutabilmek için önce her birini savaşta yenmen gerekir.\\n\\nOnların izini sürmenin tek bir yolu yoktur. Bazıları kadim &6tapınaklarda&r uyur, bazıları sunaktaki bir &dçağırma ritüeline&r cevap verir; birçoğu da doğru anahtar eşyayla gelmeni kendi anıtında bekler. Diğerleri &bUltra Wormhole'lardan&r geçer, takip edebileceğin belli belirsiz ayak izleri bırakır veya yalnızca kendini kanıtladıktan sonra ortaya çıkar.\\n\\nBu bölümdeki görevler, nerede ve nasıl bulunduklarına göre gruplandırılarak her birinde sana yol gösterir. Güçlü bir takım kur, her efsanevinin istediği şeyleri topla ve bol şans, eğitmen."]
+	quest.1E6E0001CA7C4111.quest_subtitle: "Hepsini hak etmelisin"
+	quest.1E6E0001CA7C4111.title: "&6&lEfsanevi Pokémonları Yakalamak"
+	quest.1E6E0002E57A0C75.quest_desc: ["Eğitmenlerin bu topraklarda yürümeye başlamasından çok önce, en güçlü Pokémonları barındırmak için büyük &6tapınaklar&r inşa edildi. Bunlar bugün hâlâ ayaktadır ve dünyada, içlerindeki efsanevi Pokémona uygun biyomlarda oluşurlar.\\n\\nBurada uğraşman gereken bir anahtar veya ritüel yoktur. Yapıyı bul, merkezindeki odaya savaşarak ulaş; içeride bekleyen Pokémon seninle yüzleşecektir. Bir &bKaşif'in Pusulası&r arayışı çok hızlandırır, ama bildiğin gibi etrafı dolaşmak da iş görür."]
+	quest.1E6E0002E57A0C75.title: "&6Kadim Tapınaklar"
+	quest.1E6E0003C0FFEE01.quest_desc: ["Yüzeyin çok altında, &9Origin Cave&r'in sularla dolu karanlığında denizleri şekillendiren yaratık uyur. Eski denizciler, okyanusları karaların üzerine yükselten ve dünyayı bitmeyen yağmurlarla boğan bir balinadan söz ederdi.\\n\\nOnu uyandırmak için mağaraya in ve merkezine ulaş. Suda kendi başının çaresine bakabilen bir takım getir; kadim deniz Pokémon'u nihayet kıpırdadığında kopacak fırtınaya hazır ol."]
+	quest.1E6E0004C0FFEE02.quest_desc: ["&cOrigin Tomb&r'un magma salonlarının derinliklerinde, kıtaları denizden yükselten dev yatar. Bedeninden erimiş kaya akar ve attığı her adımda yerin kendisi sarsılır.\\n\\nOnu uyandırmak için sıcağı aşarak mezarın merkezine ulaş. Ateşe dayanıklılık ve ağır darbeleri kaldırabilen sağlam bir takım, karaların en eski gücüne karşı işine yarayacaktır."]
+	quest.1E6E0005C0FFEE03.quest_desc: ["&aSky Pillar&r'ın en tepesinde, bulutların çok üzerinde göklerin koruyucusu kıvrılmış hâlde bekler. Sayısız çağ boyunca üst atmosferde dolaşıp göktaşlarıyla beslenmiştir; denizle kara arasındaki bir anlaşmazlığı yalnız o çözebilir.\\n\\nOna meydan okumak için sütunun zirvesine kadar tırman. Yukarı çıkan yol uzundur ve düşersen ölürsün; bu yüzden hem tırmanışa hem de zirvede bekleyen ejderhaya hazırlıklı gel."]
+	quest.1E6F000000001001.quest_desc: ["Team Rocket, aktif bir yanardağın içine bir kale oyup onu tasarlanmış efsanevi Pokémonlarla doldurdu. Bu anıt dünyada oluşur ve iç odalarında üç güçlü Pokémon bekler.\\n\\nİçeriye savaşarak gir ve onlarla yüzleş. Burada kadim efsaneler değil, teknoloji ve hırs söz konusu; dolayısıyla bir tapınaktan ziyade çetin bir dövüş bekle."]
+	quest.1E6F000000001001.title: "&cTeam Rocket Volcano"
+	quest.1E6F000000001004.quest_desc: ["Team Rocket'ın başyapıtı yanardağın merkezindedir: Sırtına bir top takılarak canlı bir silah olarak yeniden inşa edilmiş, 300 milyon yıllık bir fosil Pokémon. Makineyi yen; altındaki böcek senin olsun."]
+	quest.1E6F00000000100A.quest_desc: ["Yanardağda kilit altında tutulan Type: Null, diğer efsanevi Pokémonlarla savaşmak için üretilmiş ve gücünü mühürlü tutmak amacıyla maskelenmiş sentetik bir kimeradır. Onu yakala, güvenini kazan; maskesini çıkarıp Silvally'ye dönüşsün."]
+	quest.1E6F000000001010.quest_desc: ["Yanardağın derinliklerinde Volcanion bekler; hem Ateş hem de Su türünde olan tek Pokémon'dur. Bir dağın içini boşaltabilecek kadar güçlü buhar püskürtür. Onu magma odalarında köşeye sıkıştır ve alt et."]
+	quest.1E6F000000001016.quest_desc: ["&bAether&r'in yüksekte süzülen diyarında üç zindan, eski bir efsanenin hizmetkârları olan &dLoyal Three&r etrafında yeniden düzenlenmiştir. Her zindan onlardan birini korur; Pecharunt Doll da Aether ganimetleri arasında bulunur.\\n\\nÜçünü de elde etmek için Bronz, Gümüş ve Altın zindanlarını temizle. İleride hepsinin bir arada olmasına ihtiyacın olacak."]
+	quest.1E6F000000001016.title: "&bAether Zindanları"
+	quest.1E6F000000001019.quest_desc: ["Bronz Zindan'ın patronu, Loyal Three'nin bilge maymunu Munkidori'dir; güvenli bir mesafeden düşmanlarının zihinleriyle oynar. Zindanı yenip onu takımına kat, çünkü Pecharunt onun yakında olmasını isteyecektir."]
+	quest.1E6F00000000101F.quest_desc: ["Gümüş Zindan'ın patronu, Loyal Three'nin kendini beğenmiş kuşu Fezandipiti'dir; kokusu müttefiklerini bir araya getirip düşmanlarını huzursuz eder. Onu yakalamak için zindanı temizle; Pecharunt'ın istediği üç Pokémondan biridir."]
+	quest.1E6F000000001025.quest_desc: ["Altın Zindan'ın patronu, Loyal Three'nin kasları ve tehditkâr tavrıyla öne çıkan dövüşçü köpeği Okidogi'dir. Onu elde etmek için zindanı yen ve Pecharunt'a bağlı üçlüyü tamamla."]
+	quest.1E6F00000000103B.quest_desc: ["Bazı efsanevi Pokémonlar doğada bulunmaz; onları çağırmak gerekir. Bunu &dSummoning Altar&r ile yapabilirsin.\\n\\nSunağa bir katalizör eşya yerleştir, ritüelin malzemelerini çevresindeki yere saç ve tarifin istediği blok düzenini kur. Başlamak için sunağa sağ tıkla, ardından çağırmanın tamamlanmasını bekle. Aşağıdaki her görev, ilgili ritüelin ihtiyaçlarını listeler; nadir parçaları topla, yapıyı kur ve efsaneviyi dünyaya çağır."]
+	quest.1E6F00000000103B.title: "Summoning Altar"
+	quest.1E6F00000000103D.quest_desc: ["&bMeltan&r doğada bulunmaz; dövülerek oluşturulur. Sunağa bir Salamander's Eye, bir Siyah Lazer Merceği ve bir Red Network Cable yerleştir; son olarak bir &6Ring Cast&r ekle (altıgene yeterince benziyor). Ritüeli, erimiş altın ve çelikle dolu, çalışan bir dökümhanenin yanında gerçekleştir.\\n\\nCevher yiyen bu altıgen somun Pokémon, doğrudan erimiş metalden yoğunlaşarak oluşur. Birini yakala, sonra daha fazlasını topla; çünkü tek bir Meltan, çok daha büyük bir şeyin yalnızca başlangıcıdır."]
+	quest.1E6F000000001044.quest_desc: ["Altı &bMeltan&r birleşerek efsanevi çelik dev &9Melmetal&r'i oluşturabilir. Bu ritüel, hepsinin içinde en zahmetli olanıdır.\\n\\nSunağın altındaki zemine en az 9 &cHigh Powered Heating Coil&r yerleştir. Bunlar ancak çalışan bir &6dökümhaneye&r bağlandıklarında ışıldar; bu yüzden bobinlerin üzerinde bir anahtar aramak yerine, onlara güç verecek bir dökümhane kur. Isıyı sağlamak için sunağa üç Ruh Lavı Kovası koy ve katalizör olarak bir &7Metal Ceket&r kullan. Sunağın çevresine altı Meltan çıkar, ardından ritüeli başlat; sürü tek bir devasa bedende birleşir."]
+	quest.1E6F00000000104A.quest_desc: ["&aTerapagos&r bir kristal olarak uykudadır; Terastal olgusunun asıl kaynağıdır.\\n\\nSunağa bir &5Life Orb&r yerleştir ve dünyanın en güçlü düşmanlarından alınan dört renkli kalbi, yani mavi, sarı, kırmızı ve yeşil kalpleri sun. Ritüelin istediği kristal çerçeveyi kur ve başlat. Stellar Pokémon kabuğundan açılarak biçim kazanır."]
+	quest.1E6F000000001053.quest_desc: ["&dMewtwo&r doğmadı; mitik &dMew&r'in DNA'sından klonlandı ve kayıtlardaki en güçlü Psişik türü olacak şekilde tasarlandı.\\\\n\\\\nBu deneyi burada yeniden gerçekleştir. Bir &bAncient DNA Sample&r ve bir &dPika Star&r getir; fosilleşmiş Pokémonlarda yaptığın gibi sentez sürecini tamamlayarak klonu canlandır. Ardından öfkesi sana yönelmeden onu yakala."]
+	quest.1E6F000000001058.quest_desc: ["&5Pecharunt&r, &dLoyal Three&r'nin bir zamanlar hizmet ettiği gizli efendidir; zehirli zincirlerle başkalarını kendi iradesine boyun eğdiren mitik bir Pokémon'dur.\\n\\nOnu çağırmak için önce Okidogi, Munkidori ve Fezandipiti'nin üçünü de takımında bulundurmalısın. &5Pecharunt Doll&r'u yerleştir, üçlüyü dışarı çıkar; kukla ustası çağrıya cevap verecektir. Onu yakaladığında Loyal Three sonunda özgür kalır."]
+	quest.1E6F00000000106D.quest_desc: ["Dünyanın dört bir yanında &dEfsanevi Anıtlar&r bulunur; her biri tek bir efsanevi Pokémonu çağırmak için yapılmış kadim kaideler, tapınaklar ve kutsal yapılardır.\\n\\nAnıtı bul, istediği anahtar eşyayı getir ve koruyucusunu çağırmak için kaideyi etkinleştir. Aşağıdaki her görev, yapının ve ihtiyaç duyduğun eşyanın adını verir. Yeniden denemek istersen bir &6Medallion of Renewal&r, kullanılmış kaideyi sıfırlar."]
+	quest.1E6F00000000106D.title: "&dEfsanevi Anıtlar"
+	quest.1E6F000000001070.quest_desc: ["&7Lugia&r denizin dibinde bekler; fırtınaların koruyucusu ve üç efsanevi kuşun gözeticisidir.\\n\\n&bLugia Temple&r'ı bul ve Articuno, Zapdos ile Moltres'i alt ettiğinin kanıtı olan bir &9Vortex Stone&r getir. Dalış Pokémon'u ancak o zaman seninle yüzleşmek için yükselir. Onu yakaladığında denizlerin kendisi sana cevap verir."]
+	quest.1E6F000000001076.quest_desc: ["&cHeatran&r, mağaraların duvar ve tavanlarında haç biçimindeki ayaklarıyla sürünen, erimiş çelikten bir yaratık olarak magmada yaşar.\\n\\n&6Heatran Cave&r'e in ve onu uyandırmak için yanında bir &cMagma Stone&r taşı. Sıcakta çetin bir dövüşe hazır ol; bu, bir yanardağın içini yuva edinmiş az sayıdaki Pokémondan biridir."]
+	quest.1E6F00000000107C.quest_desc: ["&dMew&r bütün Pokémonların atasıdır; küçücük bedeninde tüm türlerin DNA'sını taşıdığı söylenir.\\n\\nDenizin çok uzağındaki ıssız bir adada saklanır. &bOld Sea Map&r'i takip ederek (Yağmur Ormanı Tapınaklarında %50 olasılıkla bulunabilir) &dFinal Island&r'a git ve onu ara. Oyuncu ve utangaç Mew nadiren kendini gösterir; ama harita seni beklediği yere götürür."]
+	quest.1E6F000000001082.quest_desc: ["&eVictini&r, Zafer Pokémon'dur; onu yanında tutan bir eğitmenin asla kaybetmediği söylenir.\\n\\n&bLiberty Island&r'ın altında mühürlenmiştir. Deniz fenerinin altındaki gizli odaya ulaşmak için bir &eLiberty Pass&r edin (Çöl Piramitlerinde %25 olasılıkla bulunabilir) ve sınırsız enerjiyle yanan bu küçük yaratığı elde et."]
+	quest.1E6F000000001088.quest_desc: ["&5Hoopa&r, halkaları aracılığıyla uzayı büken (en azından animede) ve istediği her şeyi ortadan kaybeden yaramaz bir cindir.\\n\\nGücü &6Hoopa Pyramid&r'in içine hapsedilmiştir. Kapıları açmak için &eTemple Key'ler&r elde ederek çeşitli sınavlarını çöz. Son &eTemple Key&r'i ve bir Prison Bottle'ı (ya &6Pyramid&r'de bulunur ya da Battle Tower'dan satın alınır) yanında taşı ve içerideki hilebazla yüzleş. Onu yakaladığında bu halkalar dünyanın dört bir yanından hazineler, hatta belalar çekip getirebilir."]
+	quest.1E6F00000000109E.quest_desc: ["&fReshiram&r, gerçeğin beyaz ejderhasıdır; kuyruğu dünyayı tamamen kavurabilecek kadar güçlü bir jet motoru gibi yanar.\\n\\n&bDragonspiral Tower&r'ın tepesinde bekler. Ejderhayı uyandırıp ona meydan okumak için bir &7Light Stone&r (Ejderha türü Pokémonların yanı sıra Muhafızları ve Wither'ları yenerek parçaları elde edilebilir) ve bir &6Fire Gem&r getir. Light Stone, ejderhanın uyurken aldığı hareketsiz biçimdir. Onu yakaladığında gerçeğin alevleri senin olur."]
+	quest.1E6F0000000010A4.quest_desc: ["&8Zekrom&r, ideallerin siyah ejderhasıdır; kuyruğu saf yıldırımla çatırdayan devasa bir jeneratördür.\\n\\n&bDragonspiral Tower&r'da bir &9Dark Stone&r olarak uyur. &9Dark Stone&r parçaları, Ejderha türü Pokémonların yanı sıra Muhafızları ve Wither'ları yenerek elde edilebilir. Onu uyandırmak için taşı ve bir &eElectric Gem&r'i kulenin zirvesine götür; ardından ejderhayla savaşta yüzleş. Onu yakaladığında ideallerin yıldırımı çağrına cevap verir."]
+	quest.1E6F0000000010AA.quest_desc: ["&bKyurem&r, gerçek ve idealler koparıldığında geriye kalandır; kendinden kaybettiği parçaları sonsuza dek arayan, içi boş bir buz ejderhasıdır.\\n\\nOnu donmuş &bKyurem Cave&r'de bul. Bu boş ejderhanın seninle yüzleşmesi için Reshiram ve Zekrom'dan elde edilen &fTruth Bottle&r ile &8Ideals Bottle&r'ın ikisini de getirmelisin."]
+	quest.1E6F0000000010B1.quest_desc: ["&9Dialga&r, zamanın kendisinin efendisidir; kalp atışları geçen her anın ritmini belirleyen çelik bir ejderhadır.\\n\\n&dSpear Pillar&r'a tırman ve onu bağlamak için bir &dRed Chain&r getir. Zaman Pokémon'u ortaya çıkmak için şimdiki zamanda bir delik açar; çıktığı anda hazır ol."]
+	quest.1E6F0000000010B7.quest_desc: ["&dPalkia&r uzayın efendisidir; iki nokta arasındaki mesafeyi, birbirlerine değene kadar katlayabilen bir ejderhadır.\\n\\n&dSpear Pillar&r'da Dialga ile aynı çağrıya cevap verir. Uzay Pokémon'unu dünyalar arasındaki boşluktan çıkarmak için zirveye bir &dRed Chain&r taşı."]
+	quest.1E6F0000000010BD.quest_desc: ["&8Giratina&r, şiddeti nedeniyle &5Distortion World&r'e sürgün edilmiştir; dünyamızı aynanın öte tarafından izleyen hayaletimsi bir ejderhadır.\\n\\n&5Giratina Island&r'ı bul ve yolu açmak için yanında bir &dGriseous Orb&r taşı. Bu asiyle kendi yansımalı diyarında yüzleş ve onu evine getir."]
+	quest.1E6F0000000010C3.quest_desc: ["&cLatias&r, Eon ikilisinin nazik kırmızı yarısıdır; kendini görünmez kılabilir ve çevresindekilerin duygularını hissedebilir.\\n\\nGizli &aSouthern Island&r'da yuva yapar. Utangaç ejderhayı ortaya çıkarmak için bir &cLatias Treat&r sun ve güvenini kazan."]
+	quest.1E6F0000000010C9.quest_desc: ["&9Latios&r, Eon ikilisinin asil mavi yarısıdır; bir jetten hızlı uçabilir ve gördüğü görüntüleri başkalarına gösterecek kadar zekidir.\\n\\n&aSouthern Island&r'ı kız kardeşiyle paylaşır. Onu aşağı çağırmak için bir &9Latios Treat&r getir ve bu hızlı ejderhaya layık olduğunu kanıtla."]
+	quest.1E6F0000000010CF.quest_desc: ["&cZacian&r, Galar'ın taçlı kahraman kurdudur; bir zamanlar çenesinde tuttuğu parlak bir kılıçla Darkest Day'i geri püskürtmüştür.\\n\\n&6Throne Room of Knightly Heroes&r'da bekler. Eskiden kullandığı paslı kılıç olan &bHero Sword&r'u ve bir &eÖlümsüzlük Totemi&r'ni yanında taşı; savaşçı Pokémon kararlılığını sınayacaktır."]
+	quest.1E6F0000000010D5.quest_desc: ["&9Zamazenta&r, Galar'ın kalkanlı kahraman kurdudur; Darkest Day'e karşı Zacian'ın yanında durup her darbeyi savuşturmuştur.\\n\\n&6Throne Room of Knightly Heroes&r'ı korur. Kadim, paslı kalkanı &bHero Shield&r'ı ve bir &eÖlümsüzlük Totemi&r getir; koruyucu Pokémon layık olup olmadığına karar verecektir."]
+	quest.1E6F0000000010EB.quest_desc: ["&7Regirock&r, efsanevi devlerin kaya golemidir; bedeni büyük kayalardan bir araya getirilmiş ve bilinmeyen bir güçle bir arada tutulur.\\n\\n&bSnowpoint Temple&r'da uyur. Odasının mührünü açıp bu kadim yapıyı uyandırmak için &7Rock Golem Key&r getir."]
+	quest.1E6F0000000010F1.quest_desc: ["&bRegice&r, efsanevi devlerin buz golemidir; bedeni sıfırın yüzlerce derece altında donmuştur ve asla erimez.\\n\\n&bSnowpoint Temple&r'da mühürlü hâlde bekler. Mahzenini açıp bu donmuş deve meydan okumak için &bIce Golem Key&r'i yanında taşı."]
+	quest.1E6F0000000010F7.quest_desc: ["&7Registeel&r, efsanevi devlerin çelik golemidir; bedeni bilinen bütün metallerden sert olsa da bükülüp esneyebilir.\\n\\n&bSnowpoint Temple&r'da yatar. Mührü kırıp demir devle yüzleşmek için &7Steel Golem Key&r getir."]
+	quest.1E6F0000000010FD.quest_desc: ["&eRegieleki&r, elektrik devidir; saf enerjiden oluşan bu varlığın bütün bir bölgeyi elektrik akımıyla doldurabildiği söylenir.\\n\\n&bSnowpoint Temple&r'ın derinliklerinde kilitlidir. İçeride hapsedilen fırtınayı serbest bırakmak için &eElectric Golem Key&r'i yanında taşı."]
+	quest.1E6F000000001103.quest_desc: ["&5Regidrago&r, ejderha devidir; kristalleşmiş ejderha enerjisinden şekillenmiştir ve açlığı asla dinmez.\\n\\n&bSnowpoint Temple&r'da uyuklar. Bu doymak bilmeyen devi uyandırıp elde etmek için &5Dragon Golem Key&r getir."]
+	quest.1E6F000000001109.quest_desc: ["&6Regigigas&r, daha küçük devleri inşa eden efendidir; kıtaları halatlarla çekip yerlerine oturttuğu söylenir.\\n\\nBeş Regi'nin tamamı yanında olmadan kıpırdamaz. Regirock, Regice, Registeel, Regieleki ve Regidrago'yu topla; ardından bu devasa varlığı uyandırmak için &bSnowpoint Temple&r'a &6Titan Key&r getir."]
+	quest.1E6F00000000110F.quest_desc: ["&5Eternatus&r, Darkest Day'in özüdür; bedeni sınırsız enerjiden oluşan canlı bir reaktör olan uzaylı bir ejderhadır.\\n\\n&dEternatus Cocoon&r'ın içinde uykudadır. Kabuğu kırıp Dynamax olgusunun asıl kaynağıyla yüzleşmek için yeterince &dGalar Particle&r topla."]
+	quest.1E6F000000001115.quest_desc: ["&cYveltal&r, Yıkım Pokémon'dur; zamanı geldiğinde kanatları bütün canlıların yaşamını emer.\\n\\n&cYveltal Cocoon&r'ın içinde yatar. Ölümün habercisini uyandırıp gücünü ona karşı sınamak için arzuladığı &8Soul Jar'ları&r getir."]
+	quest.1E6F00000000111B.quest_desc: ["&aXerneas&r, Yaşam Pokémon'dur; sonsuz yaşamı paylaşabilir ve büyük, ışıldayan bir ağaç biçiminde bin yıl uyuduğu bilinir.\\n\\nOnu &2Tree of Life&r'ta bul ve yaşam veren bu varlığı uyandırmak için bir &bAurora Essence Jar&r sun. Onu yakaladığında ormanın kendisi sevinir."]
+	quest.1E6F000000001121.quest_desc: ["&bGlastrier&r, &dCrown Shrine&r'ın buzlu bineğidir; bastığı zemini donduracak kadar keskin bir soğuk yayan vahşi bir attır.\\n\\nOnu tapınaktan çıkarmak için bir &bIceroot Carrot&r yetiştir. Bu havuç, Thalic Pyramid'de bulunur ve donmuş biyomlarda Thalic Farmland üzerinde yetiştirilir. Donmuş savaş atını ehlileştir; kral Calyrex bir binek isteyecektir."]
+	quest.1E6F000000001127.quest_desc: ["&8Spectrier&r, &dCrown Shrine&r'ın hayalet bineğidir; gözün takip edebileceğinden hızlı koşan ve onu izleyenlerin yaşamını emen hayaletimsi bir attır.\\n\\nOnu ortaya çıkarmak için bir &5Shaderoot Carrot&r yetiştir. Bu havuç, Thalic Pyramid'lerde bulunur ve Thalic Sand üzerinde yetiştirilir. Gölge bineğine hükmet; Calyrex henüz ona binebilir."]
+	quest.1E6F00000000112D.quest_desc: ["&dCalyrex&r, bir zamanlar bütün Galar'a hükmeden kraldır; bütün geçmişi ve geleceği görebildiği söylenen sakin ve nazik bir Pokémon'dur.\\n\\n&dCrown Shrine&r'da bekler, ancak bir kralın bineğe ihtiyacı vardır. Önce hem Glastrier'ı hem de Spectrier'ı elde et; ardından hükümdarla tanışıp bineğini seçmek için tahta yaklaş."]
+	quest.1E6F000000001132.quest_desc: ["&fArceus&r, İlk Olan'dır; bütün evreni kendi varlığından şekillendirdiği söylenen Pokémon'dur.\\n\\nYaşadığı yer dünyanın ötesindedir. Giratina, Dialga ve Palkia'yı alt ettiğinin kanıtı olan &eAzure Flute&r'u çal; &fHall of Origin&r'e giden merdiveni açıp yaratıcının huzuruna çık. Çok az kişi bir tanrıyla yüzleşme fırsatını kazanır."]
+	quest.1E6F000000001138.quest_desc: ["&dMesprit&r, Duygu Varlığı'dır; Sinnoh'nun göl koruyucularından biridir ve insanlara duyguların sevincini ve kederini öğrettiği söylenir.\\n\\n&bLake Verity&r'nin altında saklanır. Bir &aProof of Conquest&r kazan ve duygu perisini ortaya çağırmak için gölde sun."]
+	quest.1E6F00000000113E.quest_desc: ["&9Azelf&r, İrade Varlığı'dır; insanlara harekete geçme ve karar verme gücü veren göl koruyucusudur.\\n\\n&bLake Valor&r'ın dibinde yatar. İrade perisini çağırmak için göl kıyısına bir &aProof of Conquest&r getir."]
+	quest.1E6F000000001144.quest_desc: ["&eUxie&r, Bilgi Varlığı'dır; insanlığa inşa etme ve hayal kurma zekâsını verdiği söylenen göl koruyucusudur.\\n\\n&bLake Acuity&r'nin altında yaşar. Bilgi perisini ortaya çıkarmak için kıyısına bir &aProof of Conquest&r taşı."]
+	quest.1E6F00000000114A.quest_desc: ["&dCresselia&r, Ay Pokémon'dur; ışıldayan hilaller saçar, huzurlu uyku ve hoş rüyalar getirir.\\n\\nOnun için bir tapınak yoktur. Gece göğünün altında &dFullmoon Whistle&r'ı çal; ay ışığından kanatlarıyla aşağı inecektir. En kötü kâbusları kovmak için onu yakala."]
+	quest.1E6F00000000114F.quest_desc: ["&8Darkrai&r, yeni ay gecelerinin kapkara Pokémon'udur; rüyalara sızıp onları bitmeyen kâbuslara dönüştürür.\\n\\nYalnızca karanlığa cevap verir. Kâbusların getiricisini gölgelerden çağırmak için gece çöktükten sonra &8Newmoon Whistle&r'ı çal; cesaretin varsa onu yakala."]
+	quest.1E6F000000001154.quest_desc: ["&bArticuno&r, efsanevi üçlünün dondurucu kuşudur; dağlarda kaybolan gezginlere göründüğü ve ardında bıraktığı havayı dondurduğu söylenir.\\n\\nOnun için bir anıt yoktur. 50 Buz türü Pokémonu yenerek bir &bUrn of Frost&r'u doldur, ardından donmuş kuşu çağırmak için gücünü serbest bırak."]
+	quest.1E6F000000001159.quest_desc: ["&eZapdos&r, efsanevi üçlünün yıldırım kuşudur; gücünü yıldırımlardan alır ve uçtuğu her yerde fırtına bulutlarını karartır.\\n\\n50 Elektrik türü Pokémonu yenerek bir &eUrn of Storms&r'u doldur, ardından fırtına kuşunu aşağı çağırmak için gücünü serbest bırak."]
+	quest.1E6F00000000115E.quest_desc: ["&cMoltres&r, efsanevi üçlünün alev kuşudur; kanat çırpışları korlar saçar ve baharın gelişini müjdelediği söylenir.\\n\\n50 Ateş türü Pokémonu yenerek bir &cUrn of Embers&r'ı doldur, ardından alevler içindeki kuşu çağırmak için ateşini serbest bırak."]
+	quest.1E6F000000001173.quest_desc: ["&8Treasures of Ruin&r dört lanetli kaptan oluşur; her biri, hırsıyla bir zamanlar bir krallığı yıkıma sürüklemiş kadim bir hükümdarın kinini barındırır.\\n\\nHer biri kendi tapınağında ritüel kazıklarıyla sabitlenmiştir. Dünyaya dağılmış bu tapınakları bul ve içlerinde mühürlenen felaketlerle yüzleş."]
+	quest.1E6F000000001173.title: "&8Treasures of Ruin"
+	quest.1E6F000000001175.quest_desc: ["&cChi-Yu&r alevlerle sarılı bir japon balığıdır; insanların kalplerinde körüklediği kıskançlıkla dağları küle çevirdiği söylenir.\\n\\n&cFirescourge Shrine&r'da mühürlenmiştir. Tapınağı bul ve kıskançlıktan doğmuş bu yıkım hazinesiyle yüzleş."]
+	quest.1E6F00000000117A.quest_desc: ["&2Wo-Chien&r, ahşap levhalardan oluşan bir pelerini ardında sürükleyen kadim bir salyangozdur; bitmeyen kini bir zamanlar bütün ormanların yaşamını tüketmiştir.\\n\\n&2Grasswither Shrine&r'da bağlıdır. Tapınağı bul ve kinden doğmuş bu yıkım hazinesiyle yüzleş."]
+	quest.1E6F00000000117F.quest_desc: ["&bChien-Pao&r, kılıç biçimli kulaklarıyla kar üzerinde kayan bir yaratıktır; eğlence olsun diye oluşturduğu çığlarla bütün kasabaları gömdüğü söylenir.\\n\\n&bIcerend Shrine&r'da mühürlenmiştir. Tapınağı bul ve zalimlikten doğmuş bu yıkım hazinesine meydan oku."]
+	quest.1E6F000000001184.quest_desc: ["&6Ting-Lu&r, üzerinde ritüel kapları asılı duran boynuzlu bir devdir; yaydığı korkunun yeryüzünü dümdüz edip gezginleri bütün olarak yutacak kadar ağır olduğu söylenir.\\n\\n&6Groundblight Shrine&r'da bağlıdır. Tapınağı bul ve korkudan doğmuş bu yıkım hazinesinin karşısına dikil."]
+	quest.1E6F0000000011D4.quest_desc: ["Her efsanevi Pokémon için bir ritüel veya anıt gerekmez. Bazıları, kendilerini bulacak kadar dikkatli bir eğitmeni bekleyerek yalnızca dünyada dolaşır.\\n\\nBu Pokémonlar doğal yaşam alanlarında nadiren doğada ortaya çıkar; yapı, çağırma eşyası veya anahtar gerekmez. Geniş alanları keşfet, gözlerini açık tut ve yanında bolca top taşı. Er ya da geç her biri kendini gösterir."]
+	quest.1E6F0000000011D4.title: "&2Doğal Ortaya Çıkışlar"
+	quest.1E6F0000000011D7.quest_desc: ["&eJirachi&r, Dilek Pokémon'dur; başına iliştirilmiş notlara yazılan her dileği gerçekleştirdiği söylenir.\\n\\nTuhaf, büyülü yerlerde oyalanır. Çok nadir ortaya çıktığı &dMantar Arazileri&r'nde, &dMirage Island'larda&r ve diğer büyülü biyomlarda onu ara."]
+	quest.1E6F0000000011DB.quest_desc: ["&bManaphy&r, Denizci Pokémon'dur; soğuk deniz tabanında doğmuş olsa da karşılaştığı her yaratıkla bağ kurabilir.\\n\\nAsla karaya çıkmaz; denizlerin prensini elde etmenin tek yolu onu oltayla tutmaktır. İyi yemlenmiş bir oltayı açık okyanusa at; çok şanslıysan Manaphy oltana takılır."]
+	quest.1E6F0000000011DF.quest_desc: ["&aShaymin&r, Minnettarlık Pokémon'dur; toksinleri çözüp çiçeklerden bir alan oluşturarak püskürten, çayırlarda yaşayan bir kirpidir.\\n\\nYalnızca &egeceleri&r, &eaçık gökyüzü&r altında, &açiçekli biyomlarda ve yüksek arazilerde&r ortaya çıkar; yağmur yağarken asla görünmez. Onu oralarda ara ve yakala."]
+	quest.1E6F0000000011E3.quest_desc: ["&aTornadus&r, Kasırga Pokémon'dur; kuyruğuyla evleri dümdüz edecek kadar güçlü rüzgârlar oluşturur.\\n\\n&2Yağmur Ormanlarında&r ve &2Bambu Ormanlarında&r dolaşır. Bu vahşi fırtınanın izini orada sür ve onu ele geçir."]
+	quest.1E6F0000000011E7.quest_desc: ["&9Thundurus&r, Yıldırım Darbesi Pokémon'dur; kuyruğundaki dikenlerden yıldırımlar fırlatır.\\n\\n&eOvalarda&r, &7dağlarda&r ve &6Kırgıbayır'da&r dolaşırken onu bul ve bu vahşi yıldırımı yakala."]
+	quest.1E6F0000000011EB.quest_desc: ["&6Landorus&r, Bereket Pokémon'dur; bastığı yerlerde toprağın verdiği bereketli hasatlar nedeniyle çiftçiler ona saygı duyar.\\n\\n&eaçık gökyüzü&r altında, &açiçekli tarlalarda&r, &6savanlarda&r ve &eçöllerde&r dolaşır; yağmurda asla görünmez. Bereket getiricisini oralarda ara."]
+	quest.1E6F0000000011EF.quest_desc: ["&dEnamorus&r, Aşkın Vücut Bulmuş Hâli Pokémon'dur; dokunuşu toprağı kış uykusundan uyandırıp baharın çiçek açmasını sağlar.\\n\\nOnu yakalamak için 3 öz gerekir.\\n\\n&dEssence of Love&r: Herhangi bir hayvanı çiftleştirerek %1 olasılıkla elde edilir.\\n&9Essence of Friendship&r: Herhangi bir &cPokémon&r ile &dArkadaşlığı&r en üst düzeye çıkararak elde edilir.\\n&eEssence of Altruism&r: Bir Zombi Köylüyü iyileştirerek elde edilir.\\n\\nBu özler bir Kâğıt ile birleştirilerek bir &dLove Letter&r oluşturulabilir. &dEnamorus&r'u ortaya çıkarmak için &dLetter&r'ı kullan.\\n\\n&dLove Letter&r onu üreten kişi dışında biri tarafından kullanıldığında, &dEnamorus&r'un Parlak olma olasılığı artar. Parlak olma olasılığı artışını uygulamak için bir Girişimci Köylüyle &dLove Letter&r takası da yapabilirsin."]
+	quest.1E6F0000000011F3.quest_desc: ["&dDiancie&r, Mücevher Pokémon'dur; çevresindeki havayı sıkıştırıp ışıldayan elmaslara dönüştürebilen karbondan bir yaratıktır.\\n\\nOnu &1yerin çok derinliklerinde&r, karanlıkta, &dametistin&r yakınında ara; çok aşağıdaki ametist jeotlarının yakınında ortaya çıkar. Bir ışık getir ve onu yakala."]
+	quest.1E6F0000000011F7.quest_desc: ["&eTapu Koko&r, adasının koruyucu tanrısıdır; depoladığı elektrikle çatırdayan meraklı bir Pokémon'dur.\\n\\nAda koruyucusunu &egündüzleri&r, &2Yağmur Ormanlarında&r, &2tropik adalarda&r ve &esahillerde&r bul; onu yakalayarak saygısını kazan."]
+	quest.1E6F0000000011FB.quest_desc: ["&dTapu Lele&r, yatıştıran ve iyileştiren ışıldayan pullar saçan bir koruyucu tanrıdır.\\n\\nAda koruyucusunu &2Yağmur Ormanlarında&r, &2tropik adalarda&r ve &esahillerde&r ara ve yakala."]
+	quest.1E6F0000000011FF.quest_desc: ["&2Tapu Bulu&r, bitkilerin büyümesine hükmeden ve bölgesinin sınırlarını büyük ağaçlarla işaretleyen bir koruyucu tanrıdır.\\n\\nBu boğa koruyucuyu &2Yağmur Ormanlarında&r, &2tropik adalarda&r ve &esahillerde&r bul ve alt et."]
+	quest.1E6F000000001203.quest_desc: ["&bTapu Fini&r, davetsiz misafirleri şaşırtmak için sis oluşturan ve kirlenmiş suyu bu sisle arındıran bir koruyucu tanrıdır.\\n\\nAda koruyucusunu &2Yağmur Ormanlarında&r, &2tropik adalarda&r ve &esahillerde&r ara ve yakala."]
+	quest.1E6F000000001207.quest_desc: ["&fMagearna&r, Yapay Pokémon'dur; beş yüz yılı aşkın süre önce dâhi bir mucit tarafından yapılmıştır ve diğer Pokémonların duygularını hissedebilir.\\n\\nBu mekanik efsanevi doğada bulunmaz; onu inşa etmelisin. Önce açık bir alandaki bir &bSoul Heart Mechanism&r'i, 50 Pokémonu savaşta yenerek doldur; bu savaşlar mekanizmanın 10 blok yakınında yapılmalıdır. Ardından bir &6Summoning Altar&r üzerindeki dolu Soul Heart'ın çevresine Magearna'nın otomat gövdesini kur. Tanıklık etmesi için kendi &cVolcanion&r'larından biri oradayken, önce bir Mark of Technomancy, ardından bir &5Enchanted Soul&r ile sunağı etkinleştirerek makineye hayat ver."]
+	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r, Gök Gürültüsü Pokémon'dur; dört ayak üzerinde bir yıldırıma yetişebilecek kadar hızlı koşar.\\n\\n&eAçık gökyüzü&r altında, &6savanlarda&r peşine düş."]
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r, Wushu Pokémon'dur; bedenini ve ruhunu güçlendirmek için durmadan antrenman yapan küçük bir ayıdır.\\n\\nOnu &2Yağmur Ormanlarında&r ve &2Bambu Ormanlarında&r bul. İyi yetiştirirsen tek bir yıkıcı tarzın ustası olan güçlü &7Urshifu&r'ya evrimleşir."]
+	quest.1E6F000000001213.quest_desc: ["&2Zarude&r, Asi Maymun Pokémon'dur; sarmaşığı andıran kollarıyla sık yağmur ormanlarında salınan, sürü hâlinde yaşayan vahşi bir Pokémon'dur.\\n\\nOnu &2Yağmur Ormanlarının&r derinliklerinde ara ve ormanın efsanevisini yakala."]
+	quest.1E6F000000001217.quest_desc: ["&2Ogerpon&r, Maske Pokémon'dur; bir maskenin ardına saklanan, bir zamanlar haksız yere kötü olarak damgalanmış utangaç bir devdir.\\n\\nOnu &açiçekli tarlalarda&r, &2Bambu Ormanlarında&r ve &2Yağmur Ormanlarında&r bul; bu maskeli efsanevinin güvenini kazan."]
+	quest.1E6F00000000122B.quest_desc: ["Bazı efsanevi Pokémonlar hiçbir yere yerleşmez; ardında yalnızca &2ayak izleri&r bırakarak dünyayı durmadan dolaşır.\\n\\nBirini ortaya çıkarmak için izlerini takip etmeli ve sevdiği yiyeceği yere koymalısın. Aşağıdaki her görev, ilgili Pokémonun karşı koyamadığı yemin adını verir. Yemi bırak, bekle ve nihayet ortaya çıktığında savaşmaya hazır ol."]
+	quest.1E6F00000000122B.title: "&2Ayak İzlerini Takip Etmek"
+	quest.1E6F00000000122F.quest_desc: ["&7Cobalion&r, Swords of Justice'ın sakin ve aklı başında lideridir; çelik bir bedene ve vahşi Pokémonları korkutarak itaat ettiren bir bakışa sahiptir.\\n\\nDoğada izini sür ve bu çelik kılıcı yanına getirmek için &7Special Meat Chunk'ları&r yere koy."]
+	quest.1E6F000000001234.quest_desc: ["&6Terrakion&r, hücum eden bedeniyle bir kale duvarını parçalayabilen bir Sword of Justice'tır; efsanelerde Pokémonları insanların zulmünden korumasıyla anılır.\\n\\nİzlerini takip et ve bu kaya kıranı ortaya çıkarmak için &6Special Spices&r bırak."]
+	quest.1E6F000000001239.quest_desc: ["&2Virizion&r, kılıç gibi boynuzları olan bir Sword of Justice'tır; düşmanların çevresinde baş döndürücü bir hızla hareket ederek onları sersemletir.\\n\\nİzini sür ve bu zarif kılıcı yakına çekmek için &2Special Leafy Greens&r sun."]
+	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r, en genç Sword of Justice'tır; her türlü suyu dörtnala aşan ve cesaretini savaşarak kanıtlayan bir taydır.\\n\\nAyak izlerini suyun kenarına kadar takip et ve bu genç kılıç ustasını ortaya çağırmak için bir &bCurry of Justice&r sun."]
+	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r, Yanardağ Pokémon'dur; &eEcruteak Village&r'daki &6Burned Tower&r'ın küllerinde yeniden doğmuş üç efsanevi yaratıktan biridir.\\n\\nBir Poketreat Box ve meyvelerden bir &cEntei Treat&r üret; ardından ateş yaratığını çağırıp yakalamak için Burned Tower'a getir."]
+	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r, Yıldırım Pokémon'dur; yıldırım gibi koşup fırtına gibi kükreyen bu efsanevi yaratık, &eEcruteak Village&r'daki &6Burned Tower&r'da yeniden doğmuştur.\\n\\nBir &eRaikou Treat&r üret ve onu çağırmak için Burned Tower'a getir."]
+	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r, Kutup Işığı Pokémon'dur; kuzey rüzgârında koşan saf suyun efsanevi yaratığı, &eEcruteak Village&r'daki &6Burned Tower&r'da yeniden doğmuştur.\\n\\nBir &bSuicune Treat&r üret ve onu ortaya çıkarmak için Burned Tower'a getir."]
+	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r, Gökkuşağı Pokémon'dur; Ecruteak kasaba yapısındaki &eBell Tower&r'ın tepesinde tünediği ve onu gören herkese sonsuz mutluluk getirdiği söylenir. Efsaneye göre aşağıdaki üç yaratığa hayat vermiştir.\\n\\nEntei, Suicune ve Raikou'dan kazanılan &ckırmızı&r, &bmavi&r ve &esarı&r tüyleri bir &6Rainbow Feather&r oluşturmak için birleştir. Ardından Ho-Oh'u aşağı çağırmak için Bell Tower'a tırman."]
+	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r, efsanevi kuşun görkemli Galar formudur; sakin bakışlarının ardında soğuk ve zalim bir yan saklayan psişik bir uçucudur.\\n\\n&bGalarian Urn of Frost&r'u, Kanto kuşunun Urn of Frost'a cevap verdiği yönteme benzer biçimde, ancak 75 Psişik türü Pokémonla doldur; rakip form uçarak gelecektir."]
+	quest.1E6F0000000012EE.quest_desc: ["&eGalarian Zapdos&r, efsanevi kuşun Galar formudur; gök gürültüsü kadar ani ve şiddetli tekmeler atan, uçamayan bir dövüşçüdür.\\n\\nOnu çağırmak için 75 Dövüş türü Pokémonu yenerek &eGalarian Urn of Storms&r'u doldur."]
+	quest.1E6F0000000012F3.quest_desc: ["&9Galarian Moltres&r, efsanevi kuşun Galar formudur; soğuk mavi alevlerle sarılı bu uğursuz uçucu, yanan gözleriyle karşılaşan herkesin ruhunu tüketir.\\n\\nOnu çağırmak için 75 Karanlık türü Pokémonu yenerek &cGalarian Urn of Embers&r'ı doldur."]
+	quest.1E6F000000001308.quest_desc: ["&aCelebi&r, Zaman Yolculuğu Pokémon'dur; geçmişle gelecek arasında geçiş yapan ve dinlendiği her yerde çiçekler bırakan bir orman koruyucusudur.\\n\\n&eGS Ball&r üretilemez. Apricorn topları yapan &6Kurt&r'tan (Kurt adlı bir PokéMart Trader köylü) takasla bir tane edinmeli, ardından Celebi'yi zamanın ötesinden çağırıp yakalamak için onu bir &2Ilex Shrine&r üzerinde kullanmalısın.\\n\\n&cNot:&r Sıradan bir köylüye vanilla yöntemiyle (bir isim etiketiyle) ad ver. Kurt özgür bir ruhtur ve bir &eEasy Villagers&r Tüccar bloğuna kapatılmayı sevmez."]
+	quest.1E6F00000000130D.quest_desc: ["&8Marshadow&r, Karanlıkta Yaşayan Pokémon'dur; ayakların altında saklanan ve izlediği herkesin hareketlerini kopyalayan canlı bir gölgedir.\\n\\nSaklandığı yerden çıkarmak için &7Shadow Ichor&r'u, kılıç ve kalkan ya da Thalic zindanlarında ganimet olarak bulunan &8Shadowy Cowl&r ve &7Old Fighters Towel&r ile birlikte bir kazanda karıştır; ardından onu yakala."]
+	quest.1E6F000000001313.quest_desc: ["&dMeloetta&r, Melodi Pokémon'dur; şarkıları o kadar derin duygular uyandırır ki kendi bedenini zarif dans ile yükselen ses arasında yeniden şekillendirebilir.\\n\\n&bDisc of the First Song&r'u parçalarından yeniden oluştur ve onu çağırmak için &dMeloetta Jukebox&r'ta çal; ardından yakala."]
+	quest.1E6F000000001318.quest_desc: ["&9Cosmog&r, Bulutsu Pokémon'dur; başka bir dünyadan süzülerek gelen, bir esintinin bile taşıyabileceği kadar hafif, küçük bir yıldız tozu bulutudur.\\n\\nSaçtığı kozmik tozu toplamak ve Cosmog'u ortaya çıkarmak için &bCosmic Catalyst&r kullan. Onu yetiştir; zamanla sertleşerek &9Cosmoem&r'e, ardından ışıldayan &6Solgaleo&r'ya veya ayı temsil eden &dLunala&r'ya dönüşür. Tek bir yakalama bütün evrim zincirini açar."]
+	quest.1E6F00000000131D.quest_desc: ["&8Necrozma&r, Prizma Pokémon'dur; kadim zamanlarda gökten düşmüş ve şimdi başkalarının ışığına açlık duyan, canlı ışıktan bir parçadır.\\n\\nDoğada kendi başına dolaşır; birinin izini sür ve yakala. Yanında &6Solgaleo&r veya &dLunala&r da bulundurursan Necrozma, alevli &eDusk Mane&r ya da &dDawn Wings&r formuna birleşir. Bunların da ötesinde, &bUltra Necrozma&r olarak nihai güç patlaması yer alır."]
+	quest.1E6F000000001331.quest_desc: ["&cDeoxys&r, DNA Pokémon'dur; uzayın derinliklerinden bir göktaşıyla inmiş, uzaylı genetik kodundan bir parçadır. Onu ortaya çıkarmak, yalnızca Parlak Pika Star'ın ritüeliyle yarışan, dünyanın en zahmetli ikinci ritüelidir ve üç sınavdan oluşur.\\n\\nÖnce sunağa bir &eAncient DNA Sample&r ile bir &2Plütonyum Peleti&r yerleştir; altına &7Block Magnet'lerden&r oluşan 3x3 bir platform kur. Ritüeli Eternal Starlight'ın &9Ether River&r'ında gerçekleştir; ancak yalnızca bir &dgöktaşı yağmuru&r sürerken ve Radyasyon Kalkan Birimi takılmış dört MekaSuit parçası giyerken. Gökyüzü cevap verir ve dünyaya bir &bDeoxys Crystal&r düşer.\\n\\nKristal hareketsizdir. &5Birth Island&r'ı bul ve kristali adadaki &bDeoxys Base&r'in üzerinde serbest bırak. Göktaşı zemininin üzerinde hızla yer değiştirir; tamamen dolup ışıldayana ve tabanın üzerinde yanar hâlde sabitlenene kadar peşinden koşup tekrar tekrar vurmalısın.\\n\\nKristal yanarken son ritüeli tam bu tabanın çevresine kur: Bir Arcane Crystal Obelisk halkası ve her biri ağzına kadar, yani 10,000 Kaynakla dolu iki &bKaynak Kavanozu&r. Ardından &eDeoxys Meteorite&r'ı, formlarını yansıtan dört ağırlık olan &ePower Bracer&r, &ePower Belt&r, &ePower Anklet&r ve &ePower Weight&r ile birlikte sunağa atıp ritüeli gerçekleştir. &cDeoxys&r'in kendisi çağrıya cevap verir."]
+	quest.2B1AB9ECAB07A486.quest_desc: [
+		"&aZygarde&r, dünyanın ekosisteminin koruyucusudur ve onu korumanın görevi olduğuna kesin olarak inanır. &aZygarde Core&r ve &aZygarde Cell&r denen daha küçük birimlerden oluşur.\\n\\n&cPokémonu&r yeniden birleştirmek için bir &bReassembly Unit&r ve bir &aZygarde Cube&r gerekir. &aCore'ları&r ve &aCell'leri&r içine yerleştirmek için &aCube&r'u tutarken sağ tıkla.\\n\\n&aCore&r ve &aCell&r miktarı, yeniden birleştirildiğinde &aZygarde&r'ın alacağı formu belirler."
+		"&lSonraki Sayfa ->&r"
+		"{@pagebreak}"
+		"9 &aCell&r ve 1 &aCore&r ile &aZygarde&r %10 Formunu alır. Bu formun yeniden birleştirilmesi 2 dakika sürer.\\n\\n49 &aCell&r ve 1 &aCore&r ile &aZygarde&r %50 Formunu alır. Bu formun yeniden birleştirilmesi 5 dakika sürer.\\n\\n95 &aCell&r ve 5 &aCore&r'un tamamıyla &aZygarde&r, diğer formların sahip olduğu Aura Break yeteneği yerine Power Construct yeteneğini kazanarak \"Complete Forme\" biçimini alır. Bu formun yeniden birleştirilmesi 10 dakika sürer.\\n\\nYeniden birleştirme işlemini başlatmak için &aZygarde Cube&r'u &bReassembly Unit&r üzerinde kullan. İşlem tamamlandığında &aZygarde&r'ı yakalamak için &bReassembly Unit&r üzerinde herhangi bir Poké Topu kullan.\\n\\n&aCube&r ile &aZygarde&r'a sağ tıklayıp ardından &aCube&r'u &bReassembly Unit&r üzerinde kullanarak bu işlemi tersine çevirebilir, &aCore'ları&r ve &aCell'leri&r geri alabilirsin."
+	]
+	quest.6A6BD8D2955B8476.quest_desc: ["Bazı efsanevi Pokémonlar doğada bulunmaz; onları çağırmak gerekir. Çoğunu &dSummoning Altar&r ile çağırırsın. Ama bu Pokémonları değil."]
+	quest.6A6BD8D2955B8476.title: "Sunak Dışında Çağırma"
+	task.1E6E0003571C0001.title: "Origin Cave Yapısını Bul"
+	task.1E6E0004571C0002.title: "Origin Tomb Yapısını Bul"
+	task.1E6E0005571C0003.title: "Sky Pillar Yapısını Bul"
+	task.1E6F000000001005.title: "Team Rocket Volcano Yapısını Bul"
+	task.1E6F00000000100B.title: "Team Rocket Volcano Yapısını Bul"
+	task.1E6F000000001011.title: "Team Rocket Volcano Yapısını Bul"
+	task.1E6F00000000101A.title: "Bronz Zindanı Temizle"
+	task.1E6F000000001020.title: "Gümüş Zindanı Temizle"
+	task.1E6F000000001026.title: "Altın Zindanı Temizle"
+	task.1E6F000000001071.title: "Lugia Temple Yapısını Bul"
+	task.1E6F000000001077.title: "Heatran Cave Yapısını Bul"
+	task.1E6F00000000107D.title: "Final Island Yapısını Bul"
+	task.1E6F000000001083.title: "Liberty Island Yapısını Bul"
+	task.1E6F000000001089.title: "Hoopa Pyramid Yapısını Bul"
+	task.1E6F00000000109F.title: "Dragonspiral Tower Yapısını Bul"
+	task.1E6F0000000010A5.title: "Dragonspiral Tower Yapısını Bul"
+	task.1E6F0000000010AB.title: "Kyurem Cave Yapısını Bul"
+	task.1E6F0000000010B2.title: "Spear Pillar Yapısını Bul"
+	task.1E6F0000000010B8.title: "Spear Pillar Yapısını Bul"
+	task.1E6F0000000010BE.title: "Giratina Island Yapısını Bul"
+	task.1E6F0000000010C4.title: "Southern Island Yapısını Bul"
+	task.1E6F0000000010CA.title: "Southern Island Yapısını Bul"
+	task.1E6F0000000010D0.title: "Throne Room of Knightly Heroes Yapısını Bul"
+	task.1E6F0000000010D6.title: "Throne Room of Knightly Heroes Yapısını Bul"
+	task.1E6F0000000010EC.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F0000000010F2.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F0000000010F8.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F0000000010FE.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F000000001104.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F00000000110A.title: "Snowpoint Temple Yapısını Bul"
+	task.1E6F000000001110.title: "Eternatus Cocoon Yapısını Bul"
+	task.1E6F000000001116.title: "Yveltal Cocoon Yapısını Bul"
+	task.1E6F00000000111C.title: "Tree of Life Yapısını Bul"
+	task.1E6F000000001122.title: "Crown Shrine Yapısını Bul"
+	task.1E6F000000001128.title: "Crown Shrine Yapısını Bul"
+	task.1E6F00000000112E.title: "Crown Shrine Yapısını Bul"
+	task.1E6F000000001133.title: "Hall of Origin Yapısına Ulaş"
+	task.1E6F000000001139.title: "Lake Verity Yapısını Bul"
+	task.1E6F00000000113F.title: "Lake Valor Yapısını Bul"
+	task.1E6F000000001145.title: "Lake Acuity Yapısını Bul"
+	task.1E6F000000001176.title: "Firescourge Shrine Yapısını Bul"
+	task.1E6F00000000117B.title: "Grasswither Shrine Yapısını Bul"
+	task.1E6F000000001180.title: "Icerend Shrine Yapısını Bul"
+	task.1E6F000000001185.title: "Groundblight Shrine Yapısını Bul"
+	task.1E6F0000000012C2.title: "Burned Tower Yapısına Gir"
+	task.1E6F0000000012C3.title: "Entei Treat Taşı"
+	task.1E6F0000000012C8.title: "Burned Tower Yapısına Gir"
+	task.1E6F0000000012C9.title: "Raikou Treat Taşı"
+	task.1E6F0000000012CE.title: "Burned Tower Yapısına Gir"
+	task.1E6F0000000012CF.title: "Suicune Treat Taşı"
+	task.1E6F0000000012D4.title: "Bell Tower Yapısına Tırman"
+	task.1E6F0000000012D5.title: "Rainbow Feather Taşı"
+	task.1E6F0000000012EA.title: "Galarian Urn of Frost Taşı"
+	task.1E6F0000000012EF.title: "Galarian Urn of Storms Taşı"
+	task.1E6F0000000012F4.title: "Galarian Urn of Embers Taşı"
+	task.1E6F000000001309.title: "GS Ball Taşı"
+	task.1E6F00000000130E.title: "Shadowy Cowl Taşı"
+	task.1E6F00000000130F.title: "Old Fighters Towel Taşı"
+	task.1E6F000000001314.title: "Disc of the First Song Taşı"
+	task.1E6F000000001319.title: "Cosmic Catalyst Taşı"
+	task.1E6F000000001332.title: "Ancient DNA Sample Taşı"
+	task.1E6F000000001333.title: "Plütonyum Peleti Taşı"
+	task.1F0B19DDCA4D603F.title: "Birth Island Yapısını Bul"
+}

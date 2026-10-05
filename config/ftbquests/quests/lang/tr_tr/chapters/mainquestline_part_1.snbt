@@ -1,26 +1,94 @@
 {
-	quest.346860B8EBC4C28C.quest_desc: ["Şimdi bu kadar lavın olduğuna göre onunla ne yapacaksın? Daha fazla oyun başlarında kullanılabileceğin güç! "]
+	quest.346860B8EBC4C28C.quest_desc: ["&cEnerji&r üretimi çok basit bir şeyle başlar. \\n\\nGenellikle FE üretmek için &0Kömür&r veya &cLav&r kullanan bir üreteçle. \\n\\nBu üreteçlerin hepsi tam olarak bunu yapar!"]
 	quest.346860B8EBC4C28C.title: "Lav Gücü"
-	quest.4869C413646CC4CC.quest_desc: [
-		"Jeneratörlerinden güç aktarmak muhtemelen iyi bir fikirdir, ancak bunu nasıl yapabilirsin? "
-		""
-		"Başlamak için &aPipez&r modundaki &cEnerji Kabloları&r'nı kullanabilir veya bu modu kullanmaya başladıysan &9Powah&r'ın &cEnerji Kabloları&r'nı kullanabilirsin."
-		""
-		"Ya da geçmişe dönmek istiyorsan, bu pakette &6EnderIO&r var ve ondaki &6Enerji Oluklarını&r kullanabilirsin."
-	]
-	quest.672134A1A620EEAB.quest_desc: [
-		"Güç depolamanın birçok yolu var! "
-		""
-		"&9Powah&r, yükseltilebilen &aEnerji Hücreleri&r kullanarak harika bir depolama sunar veya &aPowercell&r'ler kullanarak &aRFTools&r'un çoklu blok stilini her zaman tercih edebilirsin! Seçim senin. "
-		""
-		"Not: Görevi tamamlamak için eşyalardan yalnızca birini yapman gerekir."
-	]
-	quest.69A517AB8A801939.quest_desc: ["&5Wither&r, Minecraft'ta öldürmesi en zor patronlardan biridir. Esas nedeni uçabiliyor olması. Ve patlaması. Ve hızlı olması. Ne demek istediğimi anladın.\\n\\nÇağırmak için, 4 Ruh Kumunu T şeklinde yerleştir. 3 Wither İskelet Kafatasını 'T'nin üstüne yerleştir ve &5Wither&r ortaya çıkacaktır.\\n\\nİpucu: Patlıyor. Hem de çok. Bunu üssünün yakınında çağırma."]
-	quest.69A517AB8A801939.title: "&5Wither'ı &6 Öldür"
-	quest.6D09511D64DDC282.quest_desc: ["&dMuhafız&r, &3Sculk Çığırtkanı&r yakınında bulunan &5Sculk Sensör&r'ünü en az 3 kez etkinleştirilerek çağrılabilir.\\n\\nİlginç Bilgi: Muhafız kördür! Seni sadece duyarsa bulabilir, bu yüzden ya etrafta uç ya da eğilip etrafta öyle gezin!\\n\\nİpucu: Menzilli veya Yakın dövüş saldırıları kullanman fark etmez, çünkü seni bulacak. Ve sana vuracak. Eğer çok uzağa gidersen, yere gömülür ve yanına gelir! İyi şanslar :D"]
-	quest.6D09511D64DDC282.title: "&5Muhafız'ı Öldür"
-	quest.6EE5BE5693E8ACE4.quest_desc: ["&dEnd&r'de, Vanilla Minecraft'ın son patronunu bulacaksın: &5Ender Ejderhası&r.\\n\\nHer Obsidiyen sütununun tepesinde, Ejderhayı iyileştiren bir End Kristali bulacaksın. Önce onları kırdığından emin ol! Ayrıca çok fazla hasar verirler, bu yüzden biraz mesafe bıraktığından da emin ol!\\n\\nYenildiğinde, Çıkış Geçidinin tepesinde bir &dEjderha Yumurtası&r ortaya çıkar. Bu normal bloklar gibi kırılamaz ancak yerçekiminden etkilenir."]
-	quest.6EE5BE5693E8ACE4.title: "&5Son"
+	quest.4869C413646CC4CC.quest_desc: ["Her mod, makinelerin &cEnerjiyi&r doğrudan paylaştığı &5&lMekanism&r gibi değildir. Bazıları bunun yerine enerjiyi aktarmanı ister! \\n\\nPipez, kablolar veya oluklar fark etmez; hepsi &cEnerjiyi&r bir makineden diğerine aktarabilir. \\n\\nHer makine ve borunun &cEnerjinin&r hangi yönden girip çıkacağını belirleyen kendi ayarları vardır. &cEnerji&r borularında bunu değiştirmek için her uçta bir tür anahtar kullanarak hangisinin ittiğini, hangisinin çektiğini ayarlamalısın."]
+	quest.672134A1A620EEAB.quest_desc: ["Enerjiyi depolamanın birçok yolu vardır! \\n\\n&c&lPowah&r Enerji Hücreleri. \\n&5&lMekanism&r Enerji Küpleri. \\n&3&lIntegrated Dynamics&r Energy Battery birimleri. \\n&b&lAE2&r Enerji Hücreleri. \\n\\nBunların her biri daha fazla &cEnerji&r tutacak şekilde yükseltilebilir! \\n\\nBunlar yeterli gelmiyorsa çoklu blok enerji depolaması için &5&lMekanism&r veya &5&lDraconic Evolution&r'a bak."]
+	quest.69A517AB8A801939.quest_desc: ["&0&lWither&r, &2&lMinecraft&r'ta öldürmesi en zor patronlardan biridir. Özellikle uçtuğu için. Bir de patlar. Ve hızlıdır. Ne demek istediğimi anladın. \\n\\nÇağırmak için 4 Ruh Kumunu T şeklinde yerleştir. 3 Wither İskeleti Kafatasını 'T'nin üstüne koyduğunda &5Wither&r ortaya çıkar. \\n\\nTam canda 300 &4Kalbi&r vardır; ardından uçmaya ve sana &0Wither Kafatasları&r fırlatmaya başlar! \\n\\nCanını yarıya indirdiğinde &d&lEnder Ejderhası&r gibi fırlatılan nesnelere karşı bağışık hâle gelir. Bu noktada ona yakın dövüşle vurman gerekir. \\n\\nOnu öldürdüğünde bir Nether Yıldızı düşürür! \\n\\n(Not: &0&lWither&r bir yaratığı öldürürse o yaratık bir &0Wither Gülü&r düşürür!)"]
+	quest.69A517AB8A801939.title: "&l&8Wither"
+	quest.6D09511D64DDC282.quest_desc: ["&3&lMuhafız&r. &2&lMinecraft&r'ın en güçlü patronu. Hani yapımcıların öldürmemen gerektiğini açıkça söylediği yaratık var ya? \\n\\n&3&lMuhafızın&r 500 &4Kalbi&r vardır. Tam &cNetherit Zırhlı&r oyuncuları iki vuruşta öldürebilir. \\n\\nOyuncular yakınındaysa onları kollarıyla ezer. Çok daha uzakta algılarsa &3Sonik Işınıyla&r vurur. \\n\\nNeyse ki kör olması onu zayıflatır (Daredevil'in aksine). Yalnızca ses ve kokuyla hareket eder. Evet, çok yaklaşırsan seni her zaman bulabilir. \\n\\nSes çıkarırsan duyabilir ve ses çıkardığın yere gider. &3Sculk Sensörleri&r tetiklendiğinde bile seni bulabilir! Uzakta bir ses duyarsa &3Sculk&r içine gömülüp sese daha yakın bir yere ışınlanabilir! \\n\\nPeki onu nasıl öldürürüz? Her zaman üstüne doğru 23 blok yükselip ona ok atmayı deneyebilirsin. 23 blok yükseklik, sonik ışını için fazla uzaktır! \\n\\nOnu öldürebilirsen bir sürü &3Sculk&r ve &3&lDeeper and Darker&r eşyası düşürür!"]
+	quest.6D09511D64DDC282.title: "&3&lMuhafız"
+	quest.6EE5BE5693E8ACE4.quest_desc: ["&d&lEnd&r'de, &2&lVanilla Minecraft&r'ın son patronunu bulursun: &d&lEnder Ejderhası&r. \\n\\n&d&lEnder Ejderhasının&r 150 &4Kalbi&r vardır. Ayrıca her &5Obsidiyen&r sütununun tepesindeki &dEnd Kristallerinden&r can yeniler. Onlarla iyileşirken kristalleri kırarak çok fazla hasar ver. \\n\\n&d&lEjderhanın&r 2 durumu vardır: uçuş ve tüneme. \\n\\nUçarken sana &dEjderha Ateş Topları&r fırlatır. Bunlar bir şeye çarptığında o noktada &dEjderha Nefesi&r oluşturur. Sana çarpıp çok uzağa fırlatabilir de! \\n\\nTünerken Katman Kayası yuvasının üzerinde durur. Burada fırlatılan nesnelere karşı bağışık olduğundan oklar hasar vermez; yalnızca yakın dövüş saldırıları işe yarar! Tünerken önüne &dEjderha Nefesi&r de püskürtebilir. \\n\\nÖldürüldüğünde yuvasının üzerinde &dEjderha Yumurtası&r oluşur! Ona sağ tıklayıp tam blok olmayan bir bloğun üzerine düşürdüğünde tuhaf şeyler olur."]
+	quest.6EE5BE5693E8ACE4.title: "&d&lEnder Ejderhası"
 	task.6CAD0E4CF3577BEB.title: "1 Muhafız Öldür"
 	task.76C41881A02F2098.title: "1 Wither Öldür"
+	quest.110BF3A2BE85F911.quest_desc: ["Bu Görev, &6AllTheMods&r ekibi veya AllTheMods mod paketlerinde kullanılmak üzere bir &2topluluk katılımcısı&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan herhangi bir herkese açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	task.44CEA28EBD6C0898.title: "Tüm hakları saklıdır"
+	task.7C6F7EF2B3AC2824.title: "Tüm hakları saklıdır"
+	quest.06B182C3FCCA6C02.quest_desc: ["&cNetherit&r, &2&lMinecraft&r cevherleri arasında kendine özgü bir yere sahiptir. \\n\\nÖnce &cAntik Kalıntı&r kaz. Bunlar &c&lNether&r'in her yerinde oluşur; ancak &cLav Gölleri&r nedeniyle yüzeyin çok altında kazmak en güvenlisidir. \\n\\nSonra &cAntik Kalıntıyı&r eriterek &cNetherit Hurdası&r elde et. 4 &cNetherit Hurdasını&r 4 &eAltın Külçesiyle&r birleştirerek bir &cNetherit Külçesi&r yap! \\n\\nDur, işimiz henüz bitmedi. Bir &cNetherit Yükseltme Şablonuna&r ihtiyacımız var. Bunlar Piglin Tabyalarının sandıklarında bulunur..."]
+	quest.06B182C3FCCA6C02.title: "&cNetherit Elde Etmek"
+	quest.0AC4ACDF3D6B9BC2.quest_desc: ["Bu modlar &cEnerji&r ve &eEşya Lojistiği&r için kendilerine özgü yöntemler kullanır! \\n\\n&6&lCreate&r, dönme gücüne odaklanır. Makineleri &cÇalıştıracak&r gücü üretmek için yel değirmenleri veya su çarkları gibi üreteçlere ihtiyacın olacak. \\n\\n&7&lPneumaticCraft&r, çoğu makine ve işleme süreci için hava basıncı kullanır. &eEşyalar&r normal şekilde taşınır; yalnızca hepsinin çalışması için hava basıncı gerekir. \\n\\n&8&lImmersive Engineering&r de bir çoklu blok modudur. Ancak bu çoklu bloklar, borularla veya yalnızca 2 bloğu birbirine yaklaştırarak değil, teller ve bağlantı noktalarıyla çalıştırılır."]
+	quest.10605FEAF8C94237.quest_desc: ["Bir &dBüyü&r modunu nasıl tanımlarım? \\n\\nHepsine farklı şekilde başlanır; hepsinin amaçları ve oyun sonu içerikleri farklıdır... \\n\\nŞey... hepsi &dBüyüyle&r ilgilidir! \\n\\nBazıları, &a&lNature's Aura&r ve &c&lReliquary&r gibi, doğa aracılığıyla &dBüyüye&r erişmekle ilgilidir. Diğerleriyse &6&lForbidden \\& Arcanus&r veya &b&lOccultism&r gibi ritüeller kullanır! "]
+	quest.10605FEAF8C94237.title: "&dBüyü"
+	quest.109953B8F559AE06.quest_desc: ["İşte gerçek malzeme \"çiftçiliği\"! \\n\\nYer altında &aInferium Özü&r bulabilirsin. Bunlar &2&lMystical Agriculture&r'ın temelidir. Bu yüzden milyarlarcasına ihtiyacın olacak. \\n\\n&aInferium Özü&r ve başka eşyalarla &2Tohumlar&r yapabiliriz. Peki bu &2Tohumlar&r ne yetiştirir? Neredeyse her şeyi!"]
+	quest.109953B8F559AE06.title: "&2&lMystical Agriculture"
+	quest.180D7DB1038D3C03.quest_desc: ["&c&lAll&7The&fMons&r'ta bile arkeoloji hâlâ önemlidir. \\n\\nBir çubuk, tüy ve &6Bakır Külçesiyle&r bir Fırça üret! \\n\\nFırçayı bir eşyanın üzerinde sağ tıkı basılı tutarak kullanabilir ve o eşyayı fırçalayabilirsin. Bunu belirli şüpheli bloklarda yaptığında içlerinden eşyalar çıkar."]
+	quest.180D7DB1038D3C03.title: "Arkeoloji"
+	quest.19DB78FD215E07A7.quest_desc: ["&eEşyaları&r depolamak önemlidir. Lütfen onları yerde bırakma! \\n\\nBunun yerine &eEşyaları &f&eSandıklara&r koy! Yer mi yetmiyor? &lDemir Sandıklar&r veya &eÇekmeceler&r yap! \\n\\nBütün &eEşyalarına&r tek bir depolama ağından erişmeyi mi tercih edersin? &b&lAE2&r kullan! \\n\\nHareket hâlindeyken &eEşyalarına&r ihtiyacın varsa &dShulker&r arama. Bunun yerine &eSırt Çantaları&r veya &l&7Pocket Storage&r kullan."]
+	quest.19DB78FD215E07A7.title: "&eEşya Depolama"
+	quest.2103BA3C535DF02A.quest_desc: ["&7Kaleyi&r bulmak için &aEnder Gözlerini&r fırlatıp izleyebilirsin! \\n\\n&7Kaleler&r yer altındaki yapılardır; hapishane hücreleri, kütüphane ve geçit odasından oluşan labirentlerdir. \\n\\nGeçit odasında &aEnd Geçidi&r bulunur. Her &aEnd Geçidi Çerçevesine&r &aEnder Gözü&r yerleştirdiğinde geçit hazır olacaktır. \\n\\nİçine atlaman yeterli!"]
+	quest.2103BA3C535DF02A.title: "&l&dEnd"
+	quest.21D1EA9F80823BF2.quest_desc: ["Şimdiye kadar üretim yaptığını varsayacağım, değil mi? Sonuçta oyunun adı &2&lMineCRAFT&r.\\n\\nElbette envanterindeki 2x2 üretim ızgarasında eşya üretebilirsin; ama bu seni pek ileri götürmez. Bir &6Çalışma Masası&r yaparak bir üst seviyeye çıkmalıyız!"]
+	quest.21D1EA9F80823BF2.title: "&2&lMinecraft'ın Üretim Kısmı"
+	quest.2587D8B0BE7FE584.quest_desc: ["\"Basit\" dememin tek nedeni, makinelerin &cEnerjiyi&r ve &eEşyaları&r alma şeklidir. \\n\\nBütün &eEşyalar&r ve &cEnerji&r normal şekilde borularla aktarılabilir. \\n\\n&6&lOritech&r, &5&lMekanism&r ve &lIndustrial Foregoing&r kendilerine özgü teknoloji modlarıdır. \\n\\n&6&lOritech&r, çoklu blokları tasarlamaya ve &eEşyaları&r bunlarla işlemeye odaklanır. \\n\\n&5&lMekanism&r, farklı makineler ve bunların birleşimleriyle &eEşyaları&r mümkün olan en ileri seviyede işlemeye odaklanır. \\n\\n&lIndustrial Foregoing&r, her biri dünyayla farklı biçimde etkileşime giren makineler sunar."]
+	quest.28AE1D7D659E55D4.quest_desc: ["&6Tahta Kazmamızla&r biraz &7Taş&r kazmalıyız! \\n\\nEvet, &6Tahta Kazmamızı&r hemen değiştireceğiz... \\n\\nOnu bırakmadan önce 18 &7Kırık Taş&r toplamanı öneririm. Bu; bir &cOcak&r, kılıç, balta, kazma ve çapa yapmaya yeter!"]
+	quest.28AE1D7D659E55D4.title: "&7Kırık Taş"
+	quest.315FEAAAFDC05139.quest_desc: [
+		"Bu düzende 10 &5Obsidiyen&r (üstte ve altta 2, yanlarda 3). "
+		"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:150 height:200 align:center}"
+		"Ardından onu &cAteşe&r vererek &cNether Geçidini&r etkinleştiririz. İçinden geçmek bizi &c&lNether&r'e ışınlar. \\n\\n&cLav&f, &cAteş&r ve öfkeli yaratıklarla dolu bir boyuttur. "
+	]
+	quest.315FEAAAFDC05139.title: "&c&lNether"
+	quest.32826A0DCA65AB2B.quest_desc: ["İster deneyimli bir modlu oyun oyuncusu ister &2&lMC&r'ye tamamen yeni biri ol; herkes bir &6Tahta Kazma&r yapmak zorundadır.\\n\\nKazmalar, çoğu &7Taş &fve &7Metal&r bloğunu kırmanı sağlar. Bu &6Tahta&r olan uzun süre dayanmayacağı için onunla biraz &7Kırık Taş&r topladığından emin ol!"]
+	quest.32826A0DCA65AB2B.title: "İlk Kazmamız"
+	quest.3C84F6C08BC4C74E.quest_desc: ["Bunlar tam 3 ayrı mod kategorisi! Hepsini yalnızca birkaç göreve nasıl sığdırdım? \\n\\nSunduklarının yalnızca yüzeyine dokunarak! \\n\\nGeri kalanını senin keşfetmen gerekiyor."]
+	quest.3C84F6C08BC4C74E.title: "&lKeşif, Savaş ve Büyü"
+	quest.46581A7015C7AD87.quest_desc: ["&3Karanlık Derinlikler&r, &2&lMinecraft&r'ın en tehlikeli biyomudur. Genellikle dağların ve tepelerin altında, &8Kayrak Taşının&r çok derinlerinde oluşur. \\n\\nBir biyomu bu kadar tehlikeli yapan nedir? &3Sculk&r. \\n\\n&3Sculk&r ile birlikte &3Sculk Sensörleri &fve &3Çığırtkanlar&r gelir. &3Sensörler&r belirli bir alandaki bütün sesleri algılar. Blok kazmak, ok atmak ve yemek yemek hep ses çıkarır. \\n\\nBir &3Sensör&r ses algılarsa yakındaki &3Sculk Çığırtkanlarını&r uyarır. &3Sculk Çığırtkanları&r art arda 3 kez tetiklenirse ortaya çıkan..."]
+	quest.46581A7015C7AD87.title: "&3Karanlık Derinlikler&r Biyomu"
+	quest.4967CD7D2701C594.quest_desc: ["Aradan tam 6 sürüm güncellemesi geçti ve &6Arılar&r hâlâ neredeyse hiçbir şey yapmıyor! \\n\\nTabii &6&lProductive Bees&r kullanmıyorsan; o zaman her şeyi yaparlar! \\n\\n&6Petek&r üretmekten bedava &6AllTheModium&r sağlamaya, &6Kütükleri &fve &7Taşı&r çoğaltmaya kadar bu küçük &6Arı&r dostları neye ihtiyacın varsa onu yapar. \\n\\nTek ihtiyaçları çiçeklenme bloğu ve bir &6Kovandır&r. Yükseltmeler ve genler isteğe bağlıdır."]
+	quest.4967CD7D2701C594.title: "&6&lProductive Bees"
+	quest.51CE19706BB6B2A1.quest_desc: ["&bElmaslar&r, &2&lMinecraft&r'ın kalbi ve ruhudur. \\n\\nY seviyesi 16'nın altında bulunur; en çok Katman Kayasının hemen üzerinde görülür! \\n\\nKazmak için bir Demir Kazmaya (tercihen Servet büyülü) ihtiyacın olacak. Ardından daha iyi aletler ve zırhlar yapabilirsin! \\n\\nEskiden &2&lVanilla&r'daki en iyi malzeme buydu; şimdi bu yer &cNetheritin&r. Modlar sayesinde &cNetheritten&r bile daha iyisi var."]
+	quest.51CE19706BB6B2A1.title: "Oyuncunun En İyi Dostu"
+	quest.53B00024E5493C96.quest_desc: ["&3Külçeyi&r ve &3Şablonu&r elde ettikten sonra &8Demirci Masasında&r &cKülçeyi &fve &cŞablonu&r bir &bElmas&r ekipmanla birleştirerek onu &cNetherite&r yükselt. \\n\\n&cNetherit&r, bütün &2&lMinecraft&r ekipmanları arasında en yüksek hasar, dayanıklılık ve korumaya sahiptir! Ayrıca tamamen &cAteşe Dayanıklıdır&r (sana Ateş Direnci vermez; yalnızca eşyalar &cLavda&r yanmaz). \\n\\nSıradaki yerde şansımız olması için &cNetheritin&r gücüne ihtiyacımız olacak..."]
+	quest.53B00024E5493C96.title: "&cNetherit&r Aletler ve Ekipmanlar"
+	quest.544893F746387EC8.quest_desc: ["Artık &cRedstone&r sayesinde &cEnerjiye&r erişebiliyoruz! \\n\\n&c&lModlu Minecraft&r'taki neredeyse bütün makineler &cEnerjiye&r ihtiyaç duyar. Bu çoğunlukla FE (Forge Energy) biçimindedir. \\n\\nBazılarında AE gibi benzer biçimler kullanılır; bunlar FE ile çalışabilir veya FE, AE'ye dönüştürülebilir. Diğer modlar ise kendilerine özgü enerji biçimlerini kullanır."]
+	quest.544893F746387EC8.title: "&cEnerji"
+	quest.5480C9F72052ECAD.quest_desc: ["Savaş, bütün Hayatta Kalma &2&lMinecraft&r oyunlarının önemli bir parçasıdır. \\n\\nZorluk isteyip istememen, nasıl savaştığını etkiler. \\n\\n&5&lApotheosis&r gibi modlar, nasıl &5Büyü Yaptığımızı&r değiştirerek bunu tamamen farklı (ve daha iyi) hâle getirir. Başka modlar da daha fazla &5Büyü&r ekler. \\n\\nBazı modlar, etkiler kazanmak için takıp tutabileceğin küçük &6&lRelics&r veya &3&lArtifacts&r eşyaları sunar! "]
+	quest.5480C9F72052ECAD.title: "Savaş"
+	quest.588D4017A5FEB45B.quest_desc: ["&5&lDraconic Evolution&r ve &3&lJust Dire Things&r gerçekten teknoloji modları mı? \\n\\n&5&lDraconic Evolution&r, farklı blokları birleştirmek ve yükseltmek için makineler ve... büyü mü kullanıyor? Her şey &d&lEnd&r üzerine kurulu. \\n\\n&3&lJust Dire Things&r, yeni bloklar ve &eEşyalar&r dönüştürüp üretmek için Goo kullanmaya odaklanır. Böylece yeni makineler, hatta aletler yapabilirsin!"]
+	quest.5BA5B2670890EAFE.quest_desc: ["Şahsen, yalnızca üretim yapmak için bir bloğa koşmak zorunda kalmaktan nefret ediyorum. İşte burada &2Çubukta Çalışma Masası&r devreye giriyor!\\n\\nBu eşya taşınabilir bir &6Çalışma Masası&r olarak çalışır!\\n\\nİpucu: Bunu &aCurios&r yuvana da koyabilir ve açmak için bir &bTuş Ataması&r ayarlayabilirsin!"]
+	quest.5BA5B2670890EAFE.title: "Üretim, ama Çubukta"
+	quest.5E84A58C2EC65240.quest_desc: ["&8Çelik&r tamamen &cModlara Aittir&r. &2&lVanilla&r'da hiç bulunmaz; yalnızca Demir ve &0Kömür&r gibi &2&lVanilla&r eşyalarından yapılır. \\n\\nNasıl mı yaparız? Bir mod seçmen yeterli! \\n\\nMetalurjik İnfüzer - &5&lMekanism&r \\nAlaşım Eritici - &a&lEnderIO&r \\nAlaşım Fırını veya Yüksek Fırın - &8&lImmersive Engineering&r \\nDökümhane - &6&lOritech&r \\nFoundry - &c&lProductive Metalworks&r \\nBlast Furnace - &6&lRailCraft Reborn&r \\n\\nBunların hepsi işe yarar!"]
+	quest.5E84A58C2EC65240.title: "&8Çelik"
+	quest.616AE66BE7812E09.quest_desc: ["Keşfedecek o kaaaadar çok mod var ki! \\n\\n&2&lAna Dünyadaki&r &4&lCataclysm&r gibi modlardan başlayabilirsin.\\n\\n&2&lUndergarden&r, &6&lBumblezone&r ve &5&lEternal Starlight&r gibi kendi boyutları olan daha birçok mod da var.\\n\\nBütün bu modlarda yeni bloklar toplaman ve benzersiz yaratıklarla savaşman gerekir; en iyi kısmıysa harika silahlardır!"]
+	quest.616AE66BE7812E09.title: "Keşif"
+	quest.62527F657474DD91.quest_desc: ["&c&lModlu Minecraft&r ucuz değildir; ÇOK FAZLA eşyaya ihtiyacın olacak. \\n\\nO hâlde eşya çiftçiliğini öğrenelim!"]
+	quest.62527F657474DD91.title: "&lMalzeme Çiftçiliği"
+	quest.6300278B00A0FB50.quest_desc: ["Adı üzerinde. \\n\\nYer altında tonlarca eşya bulunur; toplamak için onları kazmalıyız! \\n\\nHer eşyayı kazmak için belirli bir seviyede kazma gerekir. &7Kırık Taş&r için en az &6Tahta Kazma&r, Demir için en az &7Taş Kazma&r gerekir. \\n\\nTemel Aletler bölümü bunu daha ayrıntılı açıklar; ama bir bloğa bakarken ekranının üst kısmından onu kazmak için hangi seviyede kazmaya ihtiyacın olduğunu da görebilirsin!"]
+	quest.6300278B00A0FB50.title: "&lMadencilik"
+	quest.672CE0EC2DD0E704.quest_desc: ["&bElmaslarla&r bir &bElmas Kazma&r yapabiliriz! Bu, &5Obsidiyen&r ve &cAntik Kalıntı&r dâhil bütün &2&lVanilla&r bloklarını kazabilir. \\n\\nZırh ve silah da üretebilirsin... onlar da var."]
+	quest.672CE0EC2DD0E704.title: "&bElmas&r Aletler ve Ekipmanlar"
+	quest.6BEBE739EB97082A.quest_desc: ["Demirden ne yapılır? \\n\\nZırh, kova ve makas gibi daha fazla alet, huni ve kazan gibi yeni bloklar. \\n\\nDemir oldukça önemlidir. Ama &bElmas&r kazabilmek için önce bir Demir Kazma yapmalısın!"]
+	quest.6BEBE739EB97082A.title: "Demir Çağı"
+	quest.7045F1A0E409CB8C.quest_desc: ["&lIron Furnaces&r, &cOcakları&r geliştiren bir moddur. \\n\\n&c&lModlu Minecraft&r'ta çok fazla eşya eriteceksin! Zamandan (ve TPS'den) tasarruf etmek için daha çok &cOcak&r yerine daha iyilerini kullan. \\n\\n&cOcak&r ne kadar iyiyse o kadar hızlı ve çok eşya eritir. \\n\\nAyrıca yakıtı enerjiye çevirmekten hangi eşyaları erittiklerine ve verimliliğe kadar her şeyi değiştirebilen takviyeleri vardır."]
+	quest.7045F1A0E409CB8C.title: "&lIron Furnaces"
+	quest.715EC1B06585C141.quest_desc: ["&l&cAll&7The&fMons&r, &l&cCobble&fmon&r üzerine kurulu bir &6&lATM Mod Paketidir&r! \\n\\nHedef her zamanki gibi &6&lATM Yıldızı&r olacak; ama bu kez &l&cCobble&fmon&r'da ilerlemen gerekecek. \\n\\n&c&lCobble&fmon&r (ve eklentileri) bu kadar büyük ve önemli bir mod olduğu için kendi bölümü var! \\n\\n&c&lCobble&fmon&r'da nasıl ilerleyeceğini öğrenmen gerekiyorsa o bölüme bak. Bu bölümse &2&lVanilla&r'dan &6&lATM Yıldızı'na&r kadar geri kalan her şeyde sana yol gösterecek!"]
+	quest.715EC1B06585C141.title: "&2&lMinecraft"
+	quest.78099189ADEBE4B3.quest_desc: ["&cNether Kalesi&r, doğal olarak &c&lNether&r'de bulunan bir yapıdır. \\n\\n&0Wither İskeletlerinin&r ve &cBlaze&r'lerin doğal olarak oluştuğu tek yerdir. \\n\\n&aEnder Gözleri&r için &cBlaze Tozu&r yapmak üzere &cBlaze&r'lere ihtiyacımız olacak. \\n\\n&0&lWither&r'ı çağırmak içinse &0Wither İskeletlerinin&r &0Kafataslarına&r ihtiyacımız var."]
+	quest.78099189ADEBE4B3.title: "&cNether Kalesi"
+	quest.7B8811333BF8FAD4.quest_desc: ["&6Bakır&r, Demir gibi bir &7Cevherdir&r. Yalnızca daha ucuz ve daha yaygındır! \\n\\nKazmak için bir &7Taş Kazmaya&r ihtiyacın olacak. \\n\\nOnu &7Taş Kazmadan&r hemen sonra değil de buraya koymamın tek nedeni görünüşün daha güzel olması."]
+	quest.7B8811333BF8FAD4.title: "&6Bakır Çağı"
+	quest.7DC8D8CAE84A7541.quest_desc: ["&b&lHostile Neural Networks&r, yaratıklardan düşen eşyaları kolayca üretmek isteyenler için kusursuz bir moddur. \\n\\nBir &9Derin Öğrenici&r ve &bModel Çerçeveleriyle&r başlar. &bModel Çerçevesini&r bir yaratığa ayarlamak için onunla yaratığa sağ tıklaman gerekir. \\n\\nArdından ayarladığın &bÇerçeveyi&r &9Derin Öğreniciye&r koy ve öldürmeye başla!"]
+	quest.7DC8D8CAE84A7541.title: "&b&lHostile Neural Networks"
+	quest.7F53544DE1ED4C2A.quest_desc: ["&cOcak&r, &2&lMinecraft&r'ın en önemli 2. bloğudur. &6Çalışma Masası&r daha önemli, tabii ki. \\n\\n&cOcak&r, yeni (genellikle daha iyi) eşyalar yapmak için eşyaları eritebilir! Yemek pişirebilir, &7Cevherleri&r külçeye dönüştürebilir ve tamamen yeni bloklar üretebilir. \\n\\n&cOcağın&r alt yuvasına yakıt koymak gerekir. &6Odun&r, &0Kömür&r, mahsuller, hatta &6Tahta Kılıçlar&r gibi şeyler kullanılabilir."]
+	quest.7F53544DE1ED4C2A.title: "&cOcak"
+	task.06EBCF560231620B.title: "Enerji Kabloları"
+	task.0CD12198ACDE6CA3.title: "Herhangi bir #minecraft:logs"
+	task.17D0D74341039621.title: "Teknoloji Bile Sayılmaz"
+	task.22E61039582EC71B.title: "Enerji Depolama"
+	task.252110AC59A6D14B.title: "Başlangıç Üreteçleri"
+	task.370E9F4F33E18278.title: "Iron Furnaces"
+	task.39E4B29492C4AD74.title: "\"Basit\" Teknoloji"
+	task.494C0EECD07B0C04.title: "\"Karmaşık\" Teknoloji"
+	task.57F2C03FE201A491.title: "Netherit Ekipman"
+	task.7B31FC110DE606D9.title: "Elmas Aletler"
 }

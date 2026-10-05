@@ -1,0 +1,63 @@
+{
+	quest.3B57EEC3E8E67D12.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.5D2F31B6D492426B.title: "Tüm hakları saklıdır"
+	task.72B575AD169F9D75.title: "Tüm hakları saklıdır"
+	quest.0346A5856EBC22FB.title: "&aSpor Salonu Lideri: Wake"
+	quest.099B7F8D13868CCD.title: "&7Komutan Mars"
+	quest.0BD70EAB43DBD003.title: "&6Pokémon Eğitmeni: Cedric"
+	quest.11EBB510A604026A.title: "&7Team Galactic Patronu: Cyrus — Rövanş"
+	quest.183E4F5F940CBDEA.title: "&7Komutan Saturn"
+	quest.1AB8BB655AFA79E4.title: "&3Elit Dörtlü: Flint"
+	quest.207D96D22A9B97F1.title: "&7Komutan Mars — Rövanş"
+	quest.21EE03301BEFB449.title: "&7Komutan Jupiter"
+	quest.23F5D39BCBCD7D42.title: "&3Elit Dörtlü: Bertha"
+	quest.27ACBFA9D014D2A6.title: "&aSpor Salonu Lideri: Volkner"
+	quest.3A12B03FE9C9D925.title: "&5Şampiyon Cynthia"
+	quest.3D63B8A64B561A71.title: "&6Pokémon Eğitmeni: Cedric"
+	quest.4975ADE2D75353CA.title: "&aSpor Salonu Lideri: Byron"
+	quest.508CCA2DDD8602AA.title: "&aSpor Salonu Lideri: Roark"
+	quest.5169625567DC3B75.title: "&6Pokémon Eğitmeni: Cedric"
+	quest.54729932639621E3.title: "&aSpor Salonu Lideri: Maylene"
+	quest.55519316D85D116B.title: "&7Komutan Saturn — Rövanş"
+	quest.5596F9B74231AB62.title: "&6Pokémon Eğitmeni: Cedric"
+	quest.57B314DBCE27B06E.title: "&aSpor Salonu Lideri: Fantina"
+	quest.607E5EBE3696CC26.title: "&aSpor Salonu Lideri: Gardenia"
+	quest.6092335560810B6F.title: "&3Elit Dörtlü: Aaron"
+	quest.6106D2F6CEFFFC82.title: "&aSpor Salonu Lideri: Candice"
+	quest.6431628BFD0A9386.title: "&3Elit Dörtlü: Lucian"
+	quest.69EAC857B2CCB045.title: "&7Komutan Mars ve Jupiter"
+	quest.716F9AA2E9011F06.title: "&7Team Galactic Patronu: Cyrus"
+	quest.0346A5856EBC22FB.quest_desc: ["Seviye sınırını yükseltecek ama yalnızca 31'e kadar. \\n\\nÖzel eşyası &9Notilus Kabuğudur&r."]
+	quest.099B7F8D13868CCD.quest_desc: ["Seviye sınırını 20'ye yükseltecek. \\nÖzel eşyası &cWide Lens&r'tir."]
+	quest.0BD70EAB43DBD003.quest_desc: ["Seviyeni tekrar yükseltecek! Bu sefer yalnızca 39'a. \\n\\nArtık özel eşyası bir &bŞafak Taşıdır&r."]
+	quest.0E7C79861D18D885.quest_desc: ["&4&oBrilliant Diamond and Shining Pearl&r, Sinnoh bölgesinin hikâye serisidir. \\n\\nDiğer &4&oSeriler&r gibi başlatılır. Köylerin yakınında bir &4Trainer Associate&r bul veya elinde henüz bir &4&oSerisi&r olmayan &4Trainer Card&r tutarken rastgele ortaya çıkmasını bekle. \\n\\nOnunla takas yaparak &4&oBDSP Serisini&r başlat. \\n\\n&6&oATM &4Serisi&r de dâhil olmak üzere diğer &4&oSerileri&r açmak için bu &4&oSeride&r ilerlemen gerekecek!"]
+	quest.0E7C79861D18D885.title: "&4&oBrilliant Diamond and Shining Pearl"
+	quest.11EBB510A604026A.quest_desc: ["Bu rövanş seviye sınırını 49'a yükseltecek. \\n\\nBu seferki özel eşyası bir &9Yankı Parçacığıdır&r. Bu hiç ucuz değil Cyrus!"]
+	quest.13FDC88F09F96D0F.quest_desc: ["Devam mı ediyor? Evet... Hepsiyle tekrar rövanş yapman gerekecek. \\n\\n&3Aaron&r sınırını 81'e yükseltecek. \\n\\n&3Bertha&r 83'e. \\n\\n&3Flint&r 85'e. \\n\\n&3Lucian&r 88'e."]
+	quest.13FDC88F09F96D0F.title: "Yine Rövanş Zamanı!"
+	quest.183E4F5F940CBDEA.quest_desc: ["Seviye sınırını o da yükseltmeyecek. \\n\\nEşyası bir &6Zoom Lens&r'tir."]
+	quest.1AB8BB655AFA79E4.quest_desc: ["Seviye sınırını 63'e yükseltecek. \\n\\nÖzel eşyası bir &cAteş Taşıdır&r."]
+	quest.207D96D22A9B97F1.quest_desc: ["İntikam için geri döndü; bu sefer seviyeni 42'ye yükseltecek. \\n\\nÖzel eşyası bir &4Ateş Topudur&r."]
+	quest.21EE03301BEFB449.quest_desc: ["Seviye sınırını 22'ye yükseltecek. \\n\\nÖzel eşyası &7Scope Lens&r'tir."]
+	quest.23F5D39BCBCD7D42.quest_desc: ["Seni 59'dan 61'e yükseltecek. \\n\\nÖzel eşyası &5Yumuşak kumdur&r."]
+	quest.27ACBFA9D014D2A6.quest_desc: ["&aVolkner&r seviye sınırını tam 55'e kadar yükseltecek. \\n\\nÖzel eşyası &aGök Gürültüsü Taşıdır&r."]
+	quest.3A12B03FE9C9D925.quest_desc: ["Sonunda &5Şampiyon&f, &5Cynthia&r ile yüz yüzesin! \\n\\nOnu yenersen seviye sınırın 69'a yükselir. \\n\\nÖzel eşyası bir &3Pirizma Puludur&r."]
+	quest.3D63B8A64B561A71.quest_desc: ["Seviye sınırını 36'ya yükseltecek. \\n\\nBu seferki özel eşyası &dEviolite&r'tır. \\n\\nOnunla 3 kez savaşman gerekir. Sadece savaşmak da yetmez; kazanmalısın!"]
+	quest.45135F112E05F9B5.quest_desc: ["&4&oSeri&r henüz bitmedi! &3Son Dörtlü&r ve &5Şampiyon Cynthia&r ile rövanş yapman gerekiyor. \\n\\nOnları yalnızca kendi biyomlarında bulabilirsin; &4Trainer Card&r'ını kontrol et! \\n\\n&3Aaron&r'ı yenmek seviyeni 71'e yükseltecek. \\n&3Bertha&r 73'e. \\n\\n&3Flint&r 75'e. \\n\\n&3Lucian&r 78'e. \\n\\n&5Şampiyon Cynthia&r ise 79'a."]
+	quest.45135F112E05F9B5.title: "&3Elit Dörtlü&r ve &5Şampiyon &rRövanşı"
+	quest.4975ADE2D75353CA.quest_desc: ["Seviye sınırını yükseltmeyecek. \\n\\nÖzel eşyası &7Metal Cekettir&r."]
+	quest.508CCA2DDD8602AA.quest_desc: ["Seviye sınırını 16'ya yükseltecek. \\n\\nÖzel eşyası &eSmooth Rock&r'tır."]
+	quest.5169625567DC3B75.quest_desc: ["Seviye sınırını 30'a yükseltecek. \\n\\nÖzel eşyası &bEverstone&r'dur."]
+	quest.54729932639621E3.quest_desc: ["Seviye sınırını yükseltmeyecek. \\n\\nÖzel eşyası &0Siyah Kuşaktır&r; karatede iyi olmalı!"]
+	quest.55519316D85D116B.quest_desc: ["Seviye sınırını o da yükseltmeyecek. Bu adamlarla neden savaşıyoruz ki! \\n\\nDoğru ya, mecburuz. \\n\\nÖzel eşyası bir Rüzgâr Topudur."]
+	quest.5596F9B74231AB62.quest_desc: ["Yine bu adam mı? Sana âşık mı olmuş ne? \\n\\nSeviye sınırını 57'ye yükseltecek. \\n\\nArtık özel eşyası bir Parlak Taştır."]
+	quest.57B314DBCE27B06E.quest_desc: ["Seviye sınırını 37'ye yükseltecek. \\n\\nÖzel eşyası bir &aEnder Gözüdür&r."]
+	quest.607E5EBE3696CC26.quest_desc: ["Seviye sınırını değiştirmeyecek. \\n\\nÖzel eşyası bir &eAyçiçeğidir&r."]
+	quest.6092335560810B6F.quest_desc: ["Artık &3Elit Dörtlüdeyiz&r! Bu adamları yendikten sonra &5Şampiyonla&r karşılaşabiliriz! \\n\\nİlki seviye sınırını 59'a yükseltecek. \\n\\nÖzel eşyası &3Gümüş Tozudur&r."]
+	quest.6106D2F6CEFFFC82.quest_desc: ["Seviye sınırını 43'e yükseltecek. \\n\\nÖzel eşyası &bBuz Taşıdır&r."]
+	quest.6431628BFD0A9386.quest_desc: ["Seni 66'ya yükseltecek. \\n\\nÖzel eşyaları &dPsychic Seed&r'lerdir."]
+	quest.69EAC857B2CCB045.quest_desc: ["Onları yenmek seviye sınırını 48'e yükseltecek. \\n\\nÖzel eşyaları bir &dSmoke Ball&r'dur."]
+	quest.716F9AA2E9011F06.quest_desc: ["Seviye sınırını yükseltmeyecek. \\n\\nÖzel eşyası bir &eSaattir&r!"]
+	quest.7F124EAE153EFE7F.quest_desc: ["Şimdi &4&oSerinin&r son savaşına geliyoruz. &5Şampiyon Cynthia&r ile son bir savaş daha. \\n\\nSeviye sınırını yükseltmeyecek; bunun yerine &4&oSeriyi&r bitirecek. Sonrasında &6&oATM&r gibi yeni bir seriye başlayabilirsin!"]
+	quest.7F124EAE153EFE7F.title: "Tamamlanan &4&oSeri"
+}
