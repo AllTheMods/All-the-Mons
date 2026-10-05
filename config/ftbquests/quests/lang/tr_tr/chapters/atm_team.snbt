@@ -1,0 +1,77 @@
+{
+	quest.357C9381A8155C08.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.2162ED741BA0D5EB.title: "Tüm hakları saklıdır"
+	task.568553C4E059B622.title: "Tüm hakları saklıdır"
+	quest.035DBF19839FB73B.quest_desc: ["İlk &6Ekip Üyelerinden&r 5 tanesi &2&lAna Dünyadaki&r özel salonlarda oluşur. \\n\\nEvet! Bu salonların her birini &e&lRosary&r ve &6Paket Geliştiricileri&r inşa etti. \\n\\nOnları bulmak için &2&lAna Dünyayı&r araştır; yardım almak için Kaşif'in Pusulasını bile kullanabilirsin!"]
+	quest.035DBF19839FB73B.title: "Özel Salonlar"
+	quest.0A0DEF4CBF965750.quest_desc: [
+		"&dTeam Rocket Volcano&r, &cTeam Rocket&r'ın merkezidir; ama bizim &d&lJoey&r'miz de burada yaşar! \\n\\nBir yanardağın tepesindeki dev bir fabrika binasıdır; oldukça uygun. \\n\\n&cTeam Rocket&r üyelerini binanın her yerinde bulabilirsin; &d&lJoey&r'yi ise yanardağın altındaki mağaralarda, kükürt göletlerinin yakınında buluruz. \\n\\nOnu bulmayı kolaylaştırmak için arka tarafta doğrudan mağaralara açılan bir giriş var!"
+		"{image:atm:textures/questpics/series/atmteam_volcano.png width:110 height:100 align:center}"
+	]
+	quest.0A0DEF4CBF965750.title: "&dTeam Rocket Volcano"
+	quest.13635B28AB1F2E68.quest_desc: ["&4Elite Gym&r'in lobisinde &l&8CesarZorak&r'ın seni beklediğini göreceksin. \\n\\n&l&8CesarZorak&r dijital sanat yapar; peki bu mod paketleri için ne demektir? Bir sürü eşya tasarımı! \\n\\nRozetleri beğendin mi? Ona teşekkür et. \\n\\nKendi &8Rozeti&r bile var! Onu almak için CesarZorak'ı yenmen gerekecek."]
+	quest.13635B28AB1F2E68.title: "&8&lCesarZorak"
+	quest.1C0FA8A4EFD02DFF.quest_desc: [
+		"Gökyüzünde yüksekte uçan bir başka yapı. \\n\\nAdı tam olarak ne olduğunu söylüyor: uçan bir &5çikolata fabrikası&r. Keşke Hershey'nin de böyle bir şeyi olsaydı... \\n\\nGeminin kaptanını üstteki kontrol odasında bulursun."
+		"{image:atm:textures/questpics/series/atmteam_airship.png width:125 height:100 align:center}"
+	]
+	quest.1C0FA8A4EFD02DFF.title: "&5Airship Chocolate Factory"
+	quest.1CE940627F4BC431.quest_desc: ["&4&oATM Ekibi Serisinde&r &6&lATM Ekibi&r üyelerini yenmen gerekir! \\n\\nFarklı &6Ekip Üyelerini&r bulmanın 3 yolu vardır. Bazıları kendi özel salonlarında oluşur, bazıları dolaşır ve onları çağırmak için kendilerine özgü eşyaları vardır; geri kalanlar da &4Elite Gym&r'de oluşur. \\n\\n&e&lShiny Pika Star&r üretmek için gereken eşyaları almak üzere bütün &6Ekip Üyelerini&r yenmelisin. Böylece &l&cAll&7The&fMons&r'u resmen tamamlamış olursun."]
+	quest.1CE940627F4BC431.title: "&4&oATM Ekibi Serisi"
+	quest.1D236A72F7EC11AE.quest_desc: ["Hayır, bu &7Mikrodalgayı&r satın alamazsın; ama onu savaşta yenebilirsin! \\n\\n&7&lToshiba&r neredeyse yalnızca görevler üzerinde çalışır; ancak bu, tek başına yaptığı anlamına gelmez. \\n\\nPek çok &6Ekip Üyesi&r, içerik üreticisi, hatta GitHub üzerinden değişiklik gönderen sıradan oyuncular bile görevlerin hazırlanmasına yardım eder! \\n\\nOnu yenersen &7Mikrodalga&r şeklinde bir &7Rozet&r alırsın. Acaba fişe takılabiliyor mu?"]
+	quest.1D236A72F7EC11AE.title: "&7&lToshiba Microwave"
+	quest.1E1CF820CF7E88C9.quest_desc: ["&3Bee Gym&r'de &3Lego &fve &3Nektar&r'ın ikisini de yendikten sonra &l&3LobsterJonn&r'la karşılaşabilirsin. \\n\\nYaptığı bütün modlar (&3Lego &fve &3Nektar&r'ın yardımıyla) için ona güzel, büyük bir teşekkür etmek istiyorsan onu kendi &3Salonunda&r yen. \\n\\nBunu yaparsan bir &3The Lobster Badge&r alırsın! Bu bir &3Mavi Istakoz&r; acaba &l&3Lobsterjonn&r'un kendisi de Shiny mı?"]
+	quest.1E1CF820CF7E88C9.title: "&3&lLobsterjonn"
+	quest.1EA1CDA0099B2E2F.quest_desc: [
+		"&4Pokémon Eğitmenleri&r &9PC&r'lerini ve &aŞifa Makinelerini&r bir ev aletleri mağazasından başka nereden alabilir ki! \\n\\nBurada, ön taraftaki çalışan otomatlar dâhil, çeşit çeşit güzel şey bulabilirsin. \\n\\n&7&lToshiba Microwave&r arıyorsan Pikachu robotunun yanına bakmayı dene."
+		"{image:atm:textures/questpics/series/atmteam_store.png width:100 height:110 align:center}"
+	]
+	quest.1EA1CDA0099B2E2F.title: "&7Bestbuy Gym"
+	quest.2974542418F17450.quest_desc: ["&3&lLobsterJonn&r'la savaşmanın önünde &3Nektar &fve &3Lego&r durur. \\n\\nBu mod paketindeki diğer bütün &5Eğitmenler&r gibi onları da yenmen gerekir! \\n\\n&3Lego &fve &3Nektar&r, farklı &6&lProductive&r modlarının geliştirilmesinde çalışır; bu yüzden burada ona yardım etmeleri gayet doğaldır!"]
+	quest.2974542418F17450.title: "&3Nektar &fve &3Lego"
+	quest.327A838DB087D0EA.quest_desc: [
+		"Özel salonların en büyük ve en güzellerinden biri: &3Bee Gym&r! \\n\\nDev çiçekleri ve &6Arıları&r olan kaç tane kocaman yapı görüyorsun? Tamam, birkaç tane var; ama inan bana, en güzel görüneni bu. \\n\\nİçeride bir odaya rastlayacaksın ve tahmin ettiğin gibi burada başka bir &6Arı Heykeli&r var! Salon bölümünü açmak için basabileceğin bir düğme bulunur. \\n\\nBirden fazla savaş alanı olmasının nedenini merak edebilirsin. Çünkü &3&lLobsterJonn&r'la savaşmadan önce 2 eğitmenle karşılaşman gerekir!"
+		"{image:atm:textures/questpics/series/atmteam_bee.png width:125 height:100 align:center}"
+	]
+	quest.327A838DB087D0EA.title: "&3Bee Gym"
+	quest.48254318628B60F7.quest_desc: [
+		"Hey, burası tanıdık görünüyor! \\n\\n&b&lATM10: TTS&r oynadıysan &2Steve's Staycation&r'ı tanıyacaksın. \\n\\nGökyüzünde, üzerinde sevimli küçük bir karavan olan uçan bir ada bulursun. &2&lOly&r de burada!"
+		"{image:atm:textures/questpics/series/atmteam_staycation.png width:100 height:100 align:center}"
+	]
+	quest.48254318628B60F7.title: "&2Steve's Staycation"
+	quest.4C15052DCF8371A3.quest_desc: ["Asansörle veya merdivenlerle 1. kattaki Muhafaza Tesislerine çık. Bu kat, &4Salonun&r bütün enerji ve verisini yönetir. \\n\\nReaktör gibi; &4&lSatherov&r'u orada bulursun! Artık Discord'da olmayabilir ama her zaman kalplerimizde bizimle olacak... bir de bu mod paketindeki &4Eğitmen&r olarak. \\n\\nOnu yen ve &4The Kitty Badge&r al! Çok sevimli, değil mi?"]
+	quest.4C15052DCF8371A3.title: "&4&lSatherov"
+	quest.5081E5E0BA982973.quest_desc: ["Son kat, Ekibin Ortak Alanı. Burada ekip üyelerinin yemek yediği, uyuduğu ve eğlendiği yerleri bulursun. Televizyon, bilardo; bize iyi bakılıyor! \\n\\nÇalışma bölümü de var. Simülasyon Laboratuvarını bulmak için bölümün sonuna kadar ilerle. \\n\\nOdacığı \"kullan\" (içindeyken zıplayarak); bir labirente götürülürsün. Uzun bir yürüyüş, zıplama, yüzme ve tırmanıştan sonra Notch Tapınağına ulaşırsın. \\n\\n&2&lMinecraft&r'ın yaratıcısı &lNotch&r'un kendisi. Daha ne söylemem gerekiyor? \\n\\nRozeti kendi yüzü! O sakal gerçekten çok yakışıyor."]
+	quest.5081E5E0BA982973.title: "&lNotch"
+	quest.54530BFB46624C51.quest_desc: ["&5Airship Chocolate Factory&r'nin kaptanı &5&lToblerone&r'un kendisi. \\n\\n&5&lToblerone&r, &7&lToshiba'nın&r görevlerdeki hatalarını düzeltmek dâhil, &6&lATM Paketlerinde&r çok fazla çalışır. \\n\\nMerak etme, görevlerden fazlasını da yapıyor! \\n\\n&5&lToblerone'un&r &5Rozeti&r, üçgen parçalar hâlinde kırmak için kusursuz olan çok parlak bir &5Çikolata Kalıbıdır&r."]
+	quest.54530BFB46624C51.title: "&5&lToblerone0508"
+	quest.56A11740B93819D4.quest_desc: ["&6&lATM Ekibinin&r her üyesini yenerek kazandığımız rozetleri &6ATM Badge Box&r içinde tutarız. \\n\\n&6Rozet Kutusunu&r kullanmak için sağ tıklayarak aç veya kapat; açıkken onunla etkileşime girmek için Shift + sağ tık kullan."]
+	quest.56A11740B93819D4.title: "&6ATM Badge Box"
+	quest.580A66080AB6B117.quest_desc: ["3. kat, Solaris Salonu. &4Elite Gym&r'in en büyük odası. \\n\\nBirçok kütüphane ve çalışma odası vardır; ama en önemlisi &9&lVortex&r'i bulacağın laboratuvardır. \\n\\nDiscord'daki bütün yaramazların korkulu rüyası ve &c&lGravitas&r'ın yaratıcısı! &2&lMinecraft&r'ın azıcık bile kolay olmasından nefret ediyorsan &c&lGravitas&r'ı seversin. \\n\\nOnun &9Rozeti &fbir &9Girdaptır&r... tabii ki."]
+	quest.580A66080AB6B117.title: "&9&lThevortex"
+	quest.5A7E0848E16A5453.quest_desc: ["&d&lJoey&r artık &dTeam Rocket Volcano&r'nun altında bulunur. \\n\\nKükürt göletlerinin yakınında dinleniyor. \\n\\n&d&lJoey&r'nin bir kanalı yok; ama mod paketlerimize çok yardım ediyor! \\n\\nHey, bu da içerik ve onu üreten de kendisi; bu yüzden onu içerik üreticisi sayıyoruz. \\n\\nOnun &dRozeti&r, ne kadar çok yardımcı olduğuna uygun olarak &dThe Helpful Badge&r'dir."]
+	quest.5A7E0848E16A5453.title: "&d&lJoey"
+	quest.670756F02FD8179F.quest_desc: ["Bazı &6ATM Ekibi Üyelerinin&r evi yok. \\n\\n&l&cAll&7The&fMons&r içinde demek istedim; gerçek hayatta hepimize çok iyi bakılıyor. \\n\\nOnları bulmak için &b&lOther&r'da dolaşmalı veya &4Trainer Spawner&r kullanmalısın! &4Trainer Spawner&r'ı yere koy, bir &5Unobtainium Bloğu&r ver ve açmak için &4Redstone Sinyali&r uygula! \\n\\nBir &4Eğitmenin&r kendine özgü eşyası &5Unobtainium Bloğu&r ise ortaya çıkabilir. Yanlış eğitmen mi? Onu öldür; yerine yenisi gelir! \\n\\n&6Gezgin Ekip Üyeleri&r şunlardır: Bored, Drack_ion, Helix Ranmara, Mitchell52, Mutant Gumdrop, ShinyPorygon ve Ultra Megaa."]
+	quest.670756F02FD8179F.title: "&6Gezgin ATM Ekibi Üyelerini Yen"
+	quest.671208DA73DF3987.quest_desc: [
+		"İnan bana, &4Elite Gym&r'i gördüğünde tanıyacaksın. Devasa ve muhteşem. İçerisi daha da güzel! \\n\\n&4Salonun&r yüksekliği gözünü korkutmasın; içeride bir asansör var."
+		"{image:atm:textures/questpics/series/atmteam_elite.png width:125 height:200 align:center}"
+	]
+	quest.671208DA73DF3987.title: "&4Elite Gym"
+	quest.68518CCD2EF8B22F.quest_desc: ["&6Ekibin&r geri kalanı &b&lOther&r'da oluşur. \\n\\n&c&lNether&r'e gidip bir &6Işınlanma Pedi&r yerleştir. İki elinin de boş olduğundan emin ol ve &6Işınlanma Pedine&r Shift + sağ tıkla. \\n\\nBu seni &b&lOther&r'a götürür."]
+	quest.68518CCD2EF8B22F.title: "&b&lOther"
+	quest.6B409AE2D10E174B.quest_desc: ["Bir sanatçıdan diğerine; yalnızca farklı bir alanda. \\n\\nLobide &e&lRosary&r'yi de bulursun. \\n\\n&e&lRosary&r, &c&lAll&7The&fMons&r'taki çeşitli özel salonların tasarımının çoğunu yaptı. \\n\\n&3Bee House&r'tan &5Chocolate Airship&r'e, oradan &4Elite Gym&r'e kadar. Yapıları inşa etmeye yardım eden ve tamamen çalışır hâle getiren diğer gruplarla birlikte ona da teşekkür edebilirsin! \\n\\n&8Rozetini&r ondan çalarak teşekkür et!"]
+	quest.6B409AE2D10E174B.title: "&e&l_Rosary_"
+	quest.6C57E0C60AA72B9E.quest_desc: ["&lNotch&r'u yendikten sonra bir &dAncient D&3N&dA &3Sample&r buluruz. \\n\\n&4Elite Gym&r'deki deneylerin sonucu olmalı. \\n\\n&dAncient D&3N&dA &3Sample&r'ı bir &eUnbound Pika Star&r ile Fossil Analyzer'da kullanırsak &dMewtwo&r yaratabiliriz. \\n\\nFossil Analyzer'ın üstünde Data Monitor, yanlarında da Restoration Tank bulunduğundan emin ol. Ayrıca Restoration Tank'i dolduracak kadar biyoyakıt gerekir. \\n\\nKlonlama tamamen bittiğinde &dMewtwo&r'yu almak için tank üzerinde bir &cPoké&r Topu kullan."]
+	quest.6C57E0C60AA72B9E.title: "&dMewtwo Yakalamak"
+	quest.6DBF2F6AE30CAA75.quest_desc: ["Rozetlerimizi depolamak için bir Rozet Kutusuna ihtiyacımız var. O kutuyu almak için &4&oBrilliant Diamond and Shining Pearl Serisini&r bitirmeliyiz. \\n\\nDiğer serilerde olduğu gibi bir &4Trainer Associate&r'a &4Trainer Card&r vererek &4&oSeriye&r başlayabilirsin. \\n\\nSonunda &5Şampiyon Cynthia&r'yı (üçüncü kez) yendikten sonra &6ATM Badge Box&r ile ödüllendirilirsin."]
+	quest.6DBF2F6AE30CAA75.title: "&4&oBrilliant Diamond and Shining Pearl'i Bitir"
+	quest.6F976023ECB5CA63.quest_desc: ["2. kat Sağlıklı Yaşam Merkezidir. Güzel bahçeler, sessiz çalışma odaları, hatta bir balkon vardır. \\n\\nBalkonun yanında bir Pokémon savaş alanı bulunur; &0&lUncandango&r da orada, hazır ve rahat bir şekilde bekler! \\n\\n&0&lUncandango&r, paketlerin yalnızca NASA bilgisayarlarında değil, başka bilgisayarlarda da oynanabilmesini sağlar. Ana seri paketlerinin geliştirilmesinin önemli bir kısmıyla da ilgilenir! \\n\\nYenildiğinde sana çok &0Pokémon Tarzı Bir Rozet&r verir."]
+	quest.6F976023ECB5CA63.title: "&0&lUncandango"
+	quest.71AB7656B8B0C84B.quest_desc: ["4. kata, Şampiyonlar Kulübüne çıkıyoruz. Her türlü eğlence için bir yer; barı ve karaoke sahnesi var. \\n\\nBir de &6&lWhatTheDrunk&r'ı bulacağın balkon var. Umarım dışarıda fazla çakırkeyif değildir; oldukça yüksekteyiz. \\n\\n&6&lWhatTheDrunk&r, &6&lAllTheMods&r'un başındaki kişidir. O olmasaydı AllTheMods da olmazdı! \\n\\n&6&lWhatTheDrunk'ın&r &6Rozeti&r genellikle arpa ve şerbetçiotundan yapılan fermente bir içecektir... buna &6Bira&r dememize izin var mı? Bu oyun teknik olarak E10 ve üzeri için..."]
+	quest.71AB7656B8B0C84B.title: "&6&lWhatthedrunk"
+	quest.73CE51862BA4F68B.quest_desc: ["Gökyüzündeki gözlerden uzak tatilinde dinleniyor... sonra huzuru ve sessizliği bozmak için sen, oyuncu geliyorsun. \\n\\nTerbiyen nerede? Yerden yüzlerce blok yukarıda, adında tatil anlamına gelen 'cation' olan bir yerde. Açıkça dinlenmek istiyor; ama hayır, \"kazanmak\" daha önemli. \\n\\n&2&lOly2o6&r, özellikle &b&lSkyblock&r paketleri olmak üzere, ana seriden ayrılan birçok &6&lATM Mod Paketinin&r geliştirilmesine öncülük eder! \\n\\nBu yüzden hem özel salonu hem de &bRozeti&r birer &bSkyblock&r'tur."]
+	quest.73CE51862BA4F68B.title: "&2&lOly2o6"
+	quest.7E3857288A505801.quest_desc: ["&4&oATM Ekibi Serisinde&r ilerlemek için salonlarındaki &6Ekip Üyelerinin&r 5'ini de, ayrıca &3&lLobsterJonn&r'dan önce gelen 2 &4Eğitmeni&r yenmen gerekir. \\n\\n&2Steve's Staycation&r'daki &2&lOly206&r; &3Bee Gym&r'deki &3&lLobsterJonn&r, &3Lego &fve &3Nektar&r; &dTeam Rocket Volcano&r'nun altındaki &d&lJoey&r; &5Chocolate Airship&r üzerindeki &5&lToblerone&r ve &7Mağazasındaki&r &7&lToshiba&r. \\n\\nHepsini yendiğinde yine de ilerleyemezsin. &6Gezgin Ekip Üyelerini&r de yenmen gerekir. \\n\\nOnları da yenersen ilerleyebilirsin!"]
+	quest.7E3857288A505801.title: "Salonlarındaki bütün &6Ekip Üyelerini&r yen"
+}

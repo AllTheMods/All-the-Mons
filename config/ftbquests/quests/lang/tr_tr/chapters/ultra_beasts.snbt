@@ -1,0 +1,47 @@
+{
+	quest.0591F84BFDE50BC2.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.08CEADF9CD99EDA7.title: "Tüm hakları saklıdır"
+	task.55C98E26B9B5329B.title: "Tüm hakları saklıdır"
+	quest.1E6F00000000119C.quest_subtitle: "Alola"
+	quest.1E6F00000000119C.title: "Nihilego"
+	quest.1E6F0000000011A0.quest_subtitle: "Alola"
+	quest.1E6F0000000011A0.title: "Buzzwole"
+	quest.1E6F0000000011A4.quest_subtitle: "Alola"
+	quest.1E6F0000000011A4.title: "Pheromosa"
+	quest.1E6F0000000011A8.quest_subtitle: "Alola"
+	quest.1E6F0000000011A8.title: "Xurkitree"
+	quest.1E6F0000000011AC.quest_subtitle: "Alola"
+	quest.1E6F0000000011AC.title: "Celesteela"
+	quest.1E6F0000000011B0.quest_subtitle: "Alola"
+	quest.1E6F0000000011B0.title: "Kartana"
+	quest.1E6F0000000011B4.quest_subtitle: "Alola"
+	quest.1E6F0000000011B4.title: "Guzzlord"
+	quest.1E6F0000000011B8.quest_subtitle: "Alola"
+	quest.1E6F0000000011B8.title: "Stakataka"
+	quest.1E6F0000000011BC.quest_subtitle: "Alola"
+	quest.1E6F0000000011BC.title: "Blacephalon"
+	quest.1E6F0000000011C0.quest_subtitle: "Alola"
+	quest.1E6F0000000011C0.title: "Poipole"
+	task.1E6F00000000119D.title: "Bir Nihilego Yakala"
+	task.1E6F0000000011A1.title: "Bir Buzzwole Yakala"
+	task.1E6F0000000011A5.title: "Bir Pheromosa Yakala"
+	task.1E6F0000000011A9.title: "Bir Xurkitree Yakala"
+	task.1E6F0000000011AD.title: "Bir Celesteela Yakala"
+	task.1E6F0000000011B1.title: "Bir Kartana Yakala"
+	task.1E6F0000000011B5.title: "Bir Guzzlord Yakala"
+	task.1E6F0000000011B9.title: "Bir Stakataka Yakala"
+	task.1E6F0000000011BD.title: "Bir Blacephalon Yakala"
+	task.1E6F0000000011C1.title: "Bir Poipole Yakala"
+	quest.1E6F000000001199.quest_desc: ["&8Other&r'da &5Ultra Wormhole'lar&r uyarı vermeden açılır; bunlar Ultra Beast'lerin yaşadığı yabancı boyuta geçitlerdir.\\n\\nYaklaşık saatte bir bir solucan deliği oluşur ve içinden güçlendirilmiş, yüksek seviyeli bir patron olarak bir Ultra Beast çıkar. Onu zayıflat, ardından yarık kapanmadan yakala. Ne bir tapınak ne de çağırma eşyası vardır; gökyüzü yarıldığında orada olman yeterlidir. Bir &dCanavar Topu&r sana en iyi yakalama şansını verir."]
+	quest.1E6F000000001199.title: "&5Ultra Wormhole'lar"
+	quest.1E6F00000000119C.quest_desc: ["&fNihilego&r, denizanası gibi süzülen bir Ultra Beast'tir. Bir konağa yapışıp zehriyle zihnini çarpıtan bir parazit olduğu düşünülür.\\n\\nOther'daki bir Ultra Wormhole'da onu gözle ve ortaya çıktığında alt et."]
+	quest.1E6F0000000011A0.quest_desc: ["&cBuzzwole&r, Şişkin Pokémon'dur; grotesk kaslardan oluşan bu Ultra Beast, şişkin bedenini ani ve zemini çatlatan pozlarla sergiler.\\n\\nBir Ultra Wormhole'dan zorla çıktığında onu yakala."]
+	quest.1E6F0000000011A4.quest_desc: ["&fPheromosa&r, Zarif Pokémon'dur; olağanüstü hızlı ve zarif bu Ultra Beast, kirli hiçbir şeyin kendisine dokunmasına izin vermez.\\n\\nKaçıp gitmeden önce bir Ultra Wormhole'da peşine düş."]
+	quest.1E6F0000000011A8.quest_desc: ["&eXurkitree&r, Işıldayan Pokémon'dur; canlı kablolardan oluşan bir yumağa benzeyen bu Ultra Beast, elektrikli bedenini beslemek için bütün elektrik şebekelerini tüketir.\\n\\nBir Ultra Wormhole'dan fırlayıp çıktığında onu yakala."]
+	quest.1E6F0000000011AC.quest_desc: ["&aCelesteela&r, Fırlatılan Pokémon'dur; roket şeklindeki bu devasa Ultra Beast'in havalanırken çevresindeki ormanları kavurduğu söylenir.\\n\\nOther'daki bir Ultra Wormhole'da onu alt et."]
+	quest.1E6F0000000011B0.quest_desc: ["&2Kartana&r, Çekilmiş Kılıç Pokémon'dur; origami gibi katlanmış bu Ultra Beast, tek darbede çelik bir kuleyi kesebilecek kadar keskindir.\\n\\nBir Ultra Wormhole'dan keserek kendine yol açtığında onu yakala."]
+	quest.1E6F0000000011B4.quest_desc: ["&8Guzzlord&r, Çöp Yiyen Pokémon'dur; binaları, dağları, denizi, her şeyi yiyip bitiren bu devasa Ultra Beast hiç doymuyor gibi görünür.\\n\\nBir Ultra Wormhole'da bu oburla yüzleş ve onu yakala."]
+	quest.1E6F0000000011B8.quest_desc: ["&7Stakataka&r, Sur Pokémon'dur; üst üste yığılmış yaratıklardan oluşan yüksek bir duvarın harekete geçmiş hâline benzeyen bir Ultra Beast'tir.\\n\\nBir Ultra Wormhole'da onu devir ve takımına kat."]
+	quest.1E6F0000000011BC.quest_desc: ["&dBlacephalon&r, Havai Fişek Pokémon'dur; göz kamaştırıcı bir gösteriyle insanları yakınına çeken, ardından onları dağıtmak için kendi başını patlatan bir Ultra Beast'tir.\\n\\nBir Ultra Wormhole'dan patlarcasına çıktığında onu yakala."]
+	quest.1E6F0000000011C0.quest_desc: ["&5Poipole&r, Zehir İğnesi Pokémon'dur; heyecanlandığında zehirli dikenler fırlatan, nadir ve tuhaf biçimde sevecen bir Ultra Beast'tir.\\n\\nBir Ultra Wormhole'da onu yakala; yeterince dostlukla yetiştirirsen tehditkâr &5Naganadel&r'e evrimleşir."]
+}
