@@ -23,7 +23,9 @@
 		"rgs:saffron_gym",
 		"rgs:vermilion_gym",
 		"ars_additions:arcane_library", # Requires Archwood Forest biome which does not generate
-		"minecraft:stronghold" # YUNG's Strongholds replace vanilla
+		"ars_additions:ruined_portal_large",
+		"minecraft:stronghold", # YUNG's Strongholds replace vanilla
+		"legendarymonuments:hall_of_origin", # This only exists in its own dimension
 	]
 	#The maximum number of samples to be taken when searching for a structure.
 	# Default: 100000
