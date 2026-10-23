@@ -1,0 +1,18 @@
+{
+    "midnightlib.overview.title": "Visão Geral do MidnightConfig",
+    "midnightlib.midnightconfig.title": "Configuração do MidnightLib",
+    "midnightlib.midnightconfig.config_screen_list": "Ativar Lista de Telas de Configuração",
+    "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aSim",
+    "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cNão",
+    "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+    "midnightlib.modrinth": "Modrinth",
+    "midnightlib.curseforge": "CurseForge",
+    "midnightlib.wiki": "Wiki",
+    "midnightconfig.action.list_index": "Editando lista no índice %s",
+    "midnightconfig.action.color_chooser": "Abrir seletor de cores",
+    "midnightconfig.action.file_chooser": "Abrir seletor de arquivos",
+    "midnightconfig.color_chooser.title": "Escolha uma cor",
+    "midnightconfig.color_chooser.hue": "Matiz: %s",
+    "midnightconfig.color_chooser.saturation": "Saturação: %s",
+    "midnightconfig.color_chooser.brightness": "Brilho: %s"
+}

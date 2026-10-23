@@ -7,7 +7,7 @@
 	quest.109953B8F559AE06.quest_desc: ["Agora isso é \"Cultivo\" de Materiais! \\n\\nSubterraneamente você pode encontrar &aEssência de Infério&r. Estas são a espinha dorsal do &2&lMystical Agriculture&r. Então você precisará de bilhões delas. \\n\\nCom &aEssência de Infério&r e outros Itens, podemos fazer &2Sementes&r. &2Sementes&r que crescem o quê? Praticamente tudo!"]
 	quest.109953B8F559AE06.title: "&2&lMystical Agriculture"
 	quest.110BF3A2BE85F911.quest_desc: ["Esta Missão foi escrita pela equipe &6AllTheMods Staff&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não tem permissão para ser usada em quaisquer pacotes públicos não lançados pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você estiver vendo isso, está no modo de edição."]
-	quest.180D7DB1038D3C03.quest_desc: ["Arqueologia ainda é importante, mesmo no &c&lAll&7The&fMons&r. \\n\\nFabrique um Pincel com um Graveto, Pena e &6Lingote de Cobre&r! \\n\\nCom o Pincel você pode Segurar o Clique Direito com ele em um Item para Pincelar o Item. Quando feito em certos Blocos Suspeitos, Itens sairão."]
+	quest.180D7DB1038D3C03.quest_desc: ["Arqueologia ainda é importante, mesmo no &zAllTheMons&r. \\n\\nFabrique um Pincel com um Graveto, Pena e &6Lingote de Cobre&r! \\n\\nCom o Pincel você pode Segurar o Clique Direito com ele em um Item para Pincelar o Item. Quando feito em certos Blocos Suspeitos, Itens sairão."]
 	quest.180D7DB1038D3C03.title: "Arqueologia"
 	quest.19DB78FD215E07A7.quest_desc: ["Armazenar &eItens&r é importante. Por favor, não os deixe apenas no chão! \\n\\nEm vez disso, coloque &eItens &fem &eBaús&r! Não tem espaço suficiente? Faça &lIron Chests&r ou &eDrawers&r! \\n\\nPrefere ter todos os seus &eItens&r acessíveis em uma única Rede de Armazenamento? Use &b&lAE2&r! \\n\\nSe precisar de &eItens&r em movimento, não procure por &dShulkers&r. Em vez disso, use &eMochilas&r ou &l&7Pocket Storage&r."]
 	quest.19DB78FD215E07A7.title: "&eArmazenamento de Itens"
@@ -66,7 +66,7 @@
 	quest.6EE5BE5693E8ACE4.title: "&d&lDragão Ender"
 	quest.7045F1A0E409CB8C.quest_desc: ["&lIron Furnaces&r é um Mod que melhora as &cFornalhas&r. \\n\\nCom o &c&lMinecraft com Mods&r você estará fundindo uma tonelada de coisas! Para economizar tempo (e TPS), use &cFornalhas&r melhores em vez de mais. \\n\\nQuanto melhor a &cFornalha&r, mais rápido elas fundem e mais elas fundem. \\n\\nElas também têm melhorias que podem mudar tudo, desde o combustível até a energia, o que elas fundem e a eficiência."]
 	quest.7045F1A0E409CB8C.title: "&lIron Furnaces"
-	quest.715EC1B06585C141.quest_desc: ["&l&cAll&7The&fMons&r é um &6&lModpack ATM&r baseado em &l&cCobble&fmon&r! \\n\\nO objetivo ainda será a &6&lEstrela ATM&r como de costume, mas desta vez você precisará jogar através do &l&cCobble&fmon&r. \\n\\nComo o &c&lCobble&fmon&r (e seus complementos) é um mod tão grande e importante, ele ganha seu próprio Capítulo! \\n\\nSe você precisar aprender como passar pelo &c&lCobble&fmon&r, confira esse Capítulo; este aqui o guiará por todo o resto. Do &2&lVanilla&r até a &6&lEstrela ATM&r!"]
+	quest.715EC1B06585C141.quest_desc: ["&l&zAllTheMons&r é um &6&lModpack ATM&r baseado em &l&cCobble&fmon&r! \\n\\nO objetivo ainda será a &6&lEstrela ATM&r como de costume, mas desta vez você precisará jogar através do &l&cCobble&fmon&r. \\n\\nComo o &c&lCobble&fmon&r (e seus complementos) é um mod tão grande e importante, ele ganha seu próprio Capítulo! \\n\\nSe você precisar aprender como passar pelo &c&lCobble&fmon&r, confira esse Capítulo; este aqui o guiará por todo o resto. Do &2&lVanilla&r até a &6&lEstrela ATM&r!"]
 	quest.715EC1B06585C141.title: "&2&lMinecraft"
 	quest.78099189ADEBE4B3.quest_desc: ["A &cFortaleza do Nether&r é uma estrutura obviamente no &c&lO Nether&r. \\n\\nÉ o único local de geração natural para &0Esqueletos Wither&r e &cBlazes&r. \\n\\nPrecisaremos dos &cBlazes&r para fazer &cPó de Blaze&r para os &aOlhos do Ender&r. \\n\\nOs &0Esqueletos Wither&r precisamos para invocar &0&lO Wither&r com seus &0Crânios&r."]
 	quest.78099189ADEBE4B3.title: "&cFortaleza do Nether"
@@ -81,7 +81,7 @@
 	task.17D0D74341039621.title: "Mal é Tecnologia"
 	task.22E61039582EC71B.title: "Armazenamento de Energia"
 	task.252110AC59A6D14B.title: "Geradores Iniciais"
-	task.370E9F4F33E18278.title: "Fornalhas de Ferro"
+	task.370E9F4F33E18278.title: "Iron Furnaces"
 	task.39E4B29492C4AD74.title: "Tecnologia \"Simples\""
 	task.44CEA28EBD6C0898.title: "TodosOsDireitosReservados"
 	task.494C0EECD07B0C04.title: "Tecnologia \"Complicada\""

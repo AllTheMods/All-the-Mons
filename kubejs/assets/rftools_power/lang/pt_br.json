@@ -39,13 +39,13 @@
     "message.rftoolspower.blazing_rod.duration": "Duração: ",
     "message.rftoolspower.blazing_rod.infused": "Infusão: ",
 
-    "message.rftoolspower.cell1.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave inglesa para alternar o modo de entrada/saída de um lado",
+    "message.rftoolspower.cell1.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave-Inglesa para alternar o modo de entrada/saída de um lado",
     "message.rftoolspower.cell1.info": "Energia: ",
 
-    "message.rftoolspower.cell2.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave inglesa para alternar o modo de entrada/saída de um lado",
+    "message.rftoolspower.cell2.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave-Inglesa para alternar o modo de entrada/saída de um lado",
     "message.rftoolspower.cell2.info": "Energia: ",
 
-    "message.rftoolspower.cell3.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave inglesa para alternar o modo de entrada/saída de um lado",
+    "message.rftoolspower.cell3.header": "Este bloco pode armazenar energia e ser combinado com outras células para formar um grande multibloco. Clique com o botão direito com uma chave-Inglesa para alternar o modo de entrada/saída de um lado",
     "message.rftoolspower.cell3.info": "Energia: ",
 
     "message.rftoolspower.power_monitor.header": "O monitor de energia pode enviar um sinal de redstone dependendo da quantidade de energia no bloco alvo",
