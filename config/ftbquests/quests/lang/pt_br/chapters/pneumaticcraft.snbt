@@ -128,7 +128,7 @@
 	quest.36D72D759C4E8823.quest_subtitle: "Máx: 1"
 	quest.371A34B297C8A8EF.quest_desc: ["PneumaticCraft é tudo sobre Pressão! Estas missões não abordarão tudo o que o mod tem, mas ainda abordarão muito! Por favor, lembre-se de verificar o JEI, ler as dicas de ferramentas e ler o PCB:R, todos eles são muito úteis.\\n\\nPara começar, você precisará criar alguns &3Lingotes de Ferro Comprimido&r! A maneira mais fácil de fazer isso é fazer um buraco no chão, jogar alguns Lingotes de Ferro (ou blocos) e depois explodi-lo com um pouco de TNT!\\n\\nAlguns podem se perder na explosão, mas é um risco que teremos que correr!"]
 	quest.371A34B297C8A8EF.quest_subtitle: "O Poder do Ar"
-	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurized"
+	quest.371A34B297C8A8EF.title: "PneumaticCraft: Repressurizado"
 	quest.39F142224D5210A9.quest_desc: ["&3Biodiesel&r pode ser usado para fazer &3Lubrificante&r e &3Plástico Derretido&r."]
 	quest.39F142224D5210A9.quest_subtitle: "Bio/Diesel"
 	quest.39F142224D5210A9.title: "Biodiesel"
@@ -276,7 +276,7 @@
 	quest.681A3F31FB242555.title: "Etanol"
 	quest.68F92455A9483AD6.quest_desc: ["Você só verá esta missão se tiver usado Jet Boots.\\n\\nNão há como usar Jet Boots sem sofrer dano, nem tente..."]
 	quest.68F92455A9483AD6.quest_subtitle: "Você achou que usar um Élitros era difícil?"
-	quest.68F92455A9483AD6.title: "Jet Boots"
+	quest.68F92455A9483AD6.title: "Botas a Jato"
 	quest.6B1C06C753C10E44.quest_desc: ["O &3Configurador de Logística&r pode ser usado para configurar Estruturas Logísticas e Gadgets de Transferência."]
 	quest.6CA01DCE1F4A0EC3.quest_desc: ["O próximo estágio do mod requer a coleta de &3Óleo Cru&r. Este Óleo pode ser encontrado naturalmente na Superfície."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "O Caminho para o Plástico"
@@ -292,8 +292,6 @@
 	quest.6FD65139CD50A8C0.quest_subtitle: "Cansado de explodir coisas?"
 	quest.7040CA41C0A3C2F2.quest_desc: [
 		"&3Plantas de PCB&r EM PROMOÇÃO AGORA por 8 Esmeraldas. (Apenas por tempo limitado)."
-		"{@pagebreak}"
-		"(texto de espaço reservado de nova página)"
 	]
 	quest.7040CA41C0A3C2F2.quest_subtitle: "Obrigado Amadron!"
 	quest.7040CA41C0A3C2F2.title: "&9Planta de PCB"

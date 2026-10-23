@@ -63,7 +63,7 @@
     "enum.bridgingmod.bridging_adjacency.corners": "Faces + Arestas + Cantos",
 
     "config.bridgingmod.option.showCrosshair": "Mostrar Mira da Ponte",
-    "config.bridgingmod.option.showCrosshair.description.0": "Adiciona setas ao redor da sua mira quando a ponte está ativa, indicando aproximadamente de onde seu bloco fará a ponte (Para cima, Horizontal, Para baixo)",
+    "config.bridgingmod.option.showCrosshair.description.0": "Adiciona setas ao redor da sua mira quando a ponte está ativa, indicando aproximadamente de onde seu bloco fará a ponte (Para cima, Horizontal, para baixo)",
     "config.bridgingmod.option.showOutline": "Mostrar Contorno do Bloco da Ponte",
     "config.bridgingmod.option.showOutline.description.0": "Mostra um contorno (semelhante ao contorno de quebra de bloco vanilla) sempre que a ponte estiver ativa, destacando o local onde seu bloco fará a ponte.",
     "config.bridgingmod.option.showOutlineEvenWhenNotBridging": "Mostrar Contorno de Bloco Sem Ponte",
@@ -107,5 +107,4 @@
     "config.bridgingmod.option.showNonBridgingDebugHighlight.description.0": "Veja Visuais->Mostrar Contorno de Bloco Sem Ponte, mas com F3",
     "config.bridgingmod.option.showDebugTrace": "Mostrar Rastro do Bloco da Ponte no F3",
     "config.bridgingmod.option.showDebugTrace.description.0": "Contorna levemente todas as posições de blocos que foram verificadas e ignoradas ao tentar encontrar um alvo de ponte. Bastante perturbador!"
-
 }

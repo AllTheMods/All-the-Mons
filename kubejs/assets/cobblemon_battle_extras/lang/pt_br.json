@@ -45,7 +45,7 @@
     "config.cobblemon-battle-extras.key_name.unbound": "-",
     "config.cobblemon-battle-extras.key_name.backspace": "Backspace",
     "config.cobblemon-battle-extras.key_name.escape": "Esc",
-    "config.cobblemon-battle-extras.key_name.enter": "Enter",
+    "config.cobblemon-battle-extras.key_name.enter": "Entrar",
     "config.cobblemon-battle-extras.key_name.tab": "Tab",
     "config.cobblemon-battle-extras.key_name.space": "Espaço",
     "config.cobblemon-battle-extras.key_name.left_shift": "Shift esq.",
@@ -346,5 +346,5 @@
 
 
 
-  "cobblemon.battle.start.slowstart": "Início Lento de %1$s ativado!"
+    "cobblemon.battle.start.slowstart": "Início Lento de %1$s ativado!"
 }

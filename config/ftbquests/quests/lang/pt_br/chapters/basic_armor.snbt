@@ -46,9 +46,9 @@
 	quest.1A8440C0048EEB02.quest_desc: ["&cOuro de Blaze&r tem os mesmos status do Ferro, mas tem outras habilidades que o Ferro gostaria de ter! \\n\\nConfira as descrições dos Itens para saber mais sobre o que eles podem fazer!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
 	quest.1A8440C0048EEB02.title: "Armadura de &cOuro de Blaze"
-	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r, você pode atualizar a &5Armadura de Unobtainium&r para o &aMekaTraje&r! \\n\\nAgora ele pode conter Energia e, em vez de tirar corações de dano, ele tirará Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
+	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r, você pode atualizar a &5Armadura de Unobtainium&r para o &aTraje-Meka&r! \\n\\nAgora ele pode conter Energia e, em vez de tirar corações de dano, ele tirará Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
 	quest.1C27C74722A19FC1.quest_subtitle: "Tanta Energia quanto você puder fornecer"
-	quest.1C27C74722A19FC1.title: "&aMekaTraje"
+	quest.1C27C74722A19FC1.title: "&aTraje-Meka"
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Ruínas de Trilha"
 	quest.1CC627D3FB348C89.title: "Enfeite de Moldador"
@@ -61,7 +61,7 @@
 	quest.1E3E688B3B52C4D2.quest_subtitle: "Ruínas de Trilha"
 	quest.1E3E688B3B52C4D2.title: "Enfeite de Levante"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
-	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
+	quest.1EABF2E7AE7B8F22.title: "&8Netherita&r"
 	quest.1EBF234015B26F15.quest_desc: ["Armadura básica adicionada pelo &a&lRoots Classic&r, você precisará de um Ritual para obtê-la!"]
 	quest.1EBF234015B26F15.quest_subtitle: "14"
 	quest.1EBF234015B26F15.title: "&2Equipamento Silvestre"
@@ -78,7 +78,7 @@
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
 	quest.243008D4DCD789D0.title: "Enfeite da Selva"
-	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade para encontrar tantas &8V&fa&8c&fas&r, desculpe &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque tenho dificuldade para encontrar tantas &zVacas&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Armadura de Couro"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["Versão aprimorada do &2Prudentium&r."]
@@ -102,14 +102,14 @@
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5Armadura de Aethersent"
 	quest.333682022948E2F3.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_thioquartz.png width:100 height:150 align:center}"]
-	quest.333682022948E2F3.title: "&2Thioquartz&r"
+	quest.333682022948E2F3.title: "&2Tioquartzo&r"
 	quest.338BD467EBE6EE1F.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_sentry.png width:100 height:150 align:center}"]
 	quest.338BD467EBE6EE1F.quest_subtitle: "Posto Avançado de Saqueador"
 	quest.338BD467EBE6EE1F.title: "Enfeite de Sentinela"
 	quest.3416DB9F58D8AA2C.quest_desc: ["&3Neptunium&r é uma recompensa da Recompensa de Netuno, que é obtida através da Pesca! \\nTambém concede bônus por estar debaixo d'água."]
 	quest.3416DB9F58D8AA2C.quest_subtitle: "28"
 	quest.3416DB9F58D8AA2C.title: "&3Armadura de Neptunium"
-	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r pode ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMeka-Traje&r, pode usar Energia como um escudo. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
+	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r pode ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aTraje-Meka&r, pode usar Energia como um escudo para Negar 30% do Dano. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
 	quest.34D14B807A2DAC0F.quest_subtitle: "Tanta Energia quanto você puder fornecer"
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
@@ -244,7 +244,7 @@
 	quest.72DDA413D73E3235.quest_subtitle: "32"
 	quest.72DDA413D73E3235.title: "Armadura de &3Vibranium"
 	quest.756628F4B7F79446.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_aramber.png width:100 height:150 align:center}"]
-	quest.756628F4B7F79446.title: "&cAmaramber&r"
+	quest.756628F4B7F79446.title: "&cÂmbaramarelo&r"
 	quest.76CDF08465700AA2.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_silent.png width:100 height:150 align:center}"]
 	quest.76CDF08465700AA2.quest_subtitle: "Cidades Ancestrais"
 	quest.76CDF08465700AA2.title: "Enfeite de Silêncio"
@@ -260,7 +260,7 @@
 	quest.7B500E0577BDFF8F.quest_subtitle: "18"
 	quest.7B500E0577BDFF8F.title: "&6Armadura de Bronze"
 	quest.7B76EC62E3F7E12C.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_aethersent.png width:100 height:150 align:center}"]
-	quest.7B76EC62E3F7E12C.title: "&5Aethersent&r"
+	quest.7B76EC62E3F7E12C.title: "&5Golpe Etéreo&r"
 	quest.7C1D407CF67786F6.quest_desc: ["&d&lArs Elemental&r Armadura de Ar!"]
 	quest.7C1D407CF67786F6.quest_subtitle: "15"
 	quest.7C1D407CF67786F6.title: "&fTraje de Aethermante"

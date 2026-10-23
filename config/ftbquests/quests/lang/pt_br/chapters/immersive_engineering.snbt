@@ -118,7 +118,7 @@
 	quest.28E99A6E17E86709.title: "Movendo &bFluidos"
 	quest.29C9F8719DA63D8D.quest_desc: ["A &2&lSerra Circular&r funciona de forma semelhante à &4&lBroca de Mineração&r, só que para &2Árvores&r! \\n\\nRequer &2Bio-Diesel&r como Combustível, que não vou explicar como obter aqui também! \\n\\nE algum tipo de &8Lâmina de Serra&r. Que você pode anexar através do Slot Superior na &6Bancada de Trabalho do Engenheiro&r. \\n\\nSimplesmente quebre Troncos em uma &2Árvore&r e todos os Troncos, Folhas e Ninhos de Pássaros cairão com ela! Você pode segurar Shift para não quebrar tudo que está anexado. \\n\\nA &2&lSerra Circular&r também causa 10 de Dano! Caramba, por que usar uma Espada? Ah sim, as &8Serras&r têm Durabilidade e precisam de &2Bio-Diesel&r. \\n\\nA &2&lSerra Circular&r pode conter 1 &8Lâmina&r ou &8Disco&r e 2 Melhorias."]
 	quest.29C9F8719DA63D8D.title: "&2&lSerra Circular"
-	quest.2A1BFB2E0F1F3312.quest_desc: ["A &dVara do End&r causa 10 de Dano e também atinge Endermen. \\nAs &5Pérolas do Ender&r não atingirão Mobs, em vez disso, elas o teleportarão para muito mais longe quando disparadas. \\nO &3Tridente&r age como um arremesso de &3Tridente&r normal, causando 8 de Dano. \\nAs &cVaras de Blaze&r causam 10 de Dano e incendeiam os Mobs!"]
+	quest.2A1BFB2E0F1F3312.quest_desc: ["A &dVara do End&r causa 10 de Dano e também atinge Endermen. \\nAs &5Pérolas de Enderer&r não atingirão Mobs, em vez disso, elas o teleportarão para muito mais longe quando disparadas. \\nO &3Tridente&r age como um arremesso de &3Tridente&r normal, causando 8 de Dano. \\nAs &cVaras de Blaze&r causam 10 de Dano e incendeiam os Mobs!"]
 	quest.2A1BFB2E0F1F3312.title: "Munição do &5&lCanhão Magnético&r do &2&lMinecraft"
 	quest.2E89A03BA809634E.quest_desc: ["Estes só podem ser trocados com Armeiros. \\n\\nProjéteis Especializados são aqueles que fazem coisas únicas! \\n\\nHoming, Explosivos e Sinalizadores precisam ser fabricados com estes &9Projetos&r."]
 	quest.2E89A03BA809634E.title: "&9Projetos de Projéteis Especializados"
@@ -228,10 +228,10 @@
 	quest.442B1A1900BADAFC.quest_desc: ["Algumas Máquinas no &8&lIE&r не são Multiblocos, mas sim de um único bloco! \\n\\nNão pense que, só porque são feitas com 1 Bloco, não são importantes!"]
 	quest.442B1A1900BADAFC.title: "Máquinas Pequenas"
 	quest.452EF09F6CB4AD99.quest_desc: ["&cRelays&r não conectam &cFios&r a Máquinas, mas sim conectam &cFios&r a mais &cFios&r! \\n\\n&cRelays&r funcionam combinando um monte de &cFios&r em um só lugar, então ele pegará toda a &9Energia&r de &cEntrada&r e a enviará para &cConectores&r para todas as &6Saídas&r conectadas. \\n\\nIsso é útil para quando você tem um Gerador de Energia que deseja carregar várias Máquinas!"]
-	quest.452EF09F6CB4AD99.title: "&cRelays"
+	quest.452EF09F6CB4AD99.title: "&cRelés"
 	quest.458265FCD6B3068E.quest_desc: ["Todo mundo amava as Estações de Criação do &lTinker's Construct&r e, aparentemente, os desenvolvedores do &8&lIE&r também! \\n\\nA &6Engineer's Crafting Table&r agirá como uma Bancada de Trabalho normal, com 18 Slots de Armazenamento adicionais, e ainda mantém seus &eItens&r na Grade quando você para de visualizá-la! \\n\\nO que mais você poderia querer!"]
 	quest.458265FCD6B3068E.title: "&6Mesa de Fabricação do Engenheiro"
-	quest.47656073894224AF.quest_desc: ["Sim, é como as dos navios de guerra gigantes! \\n\\nO &5&lCanhão Magnético&r é uma Arma especial. Primeiro, ele usa Munição especial, não Cartuchos como o Revólver usa. Segundo, ele usa &cEnergia&r e precisa carregar antes de atirar. \\n\\nA Munição que ele usa são &eItens&r do seu Inventário: &7Hastes de Alumínio&r, &7Ferro&r e &8Aço&r, &0Eletrodos de Grafite&r, Lâminas de Serra, Pérolas do Ender, Tridentes, Varas de Blaze e Varas do End. \\n\\nEle pegará o que estiver no seu Inventário, para mudar o que ele Atira, Segure Shift e Role o mouse. \\n\\nEm seguida, ele precisa de &cEnergia&r dentro dele para Atirar, para carregá-lo podemos usar qualquer &cCarregador de Itens&r, incluindo o adicionado pelo &8&lImmersive Engineering&r! \\n\\nAssim que tivermos tudo isso, Segure o Botão Direito do Mouse até o Canhão Magnético chegar ao Nível 99, então solte! \\n\\nAs Melhorias do &5&lCanhão Magnético&r são: Mira de Precisão e Dissipadores de Calor. \\n\\nEle pode segurar 2 Melhorias, bem, faz sentido que não possa usar mais do que isso!"]
+	quest.47656073894224AF.quest_desc: ["Sim, é como as dos navios de guerra gigantes! \\n\\nO &5&lCanhão Magnético&r é uma Arma especial. Primeiro, ele usa Munição especial, não Cartuchos como o Revólver usa. Segundo, ele usa &cEnergia&r e precisa carregar antes de atirar. \\n\\nA Munição que ele usa são &eItens&r do seu Inventário: &7Hastes de Alumínio&r, &7de Ferro&r e &8de Aço&r, &0Eletrodos de Grafite&r, Lâminas de Serra, Pérolas de Enderer, Tridentes, Varas de Blaze e Hastes do End. \\n\\nEle pegará o que estiver no seu Inventário, para mudar o que ele Atira, Segure Shift e Role o mouse. \\n\\nEm seguida, ele precisa de &cEnergia&r dentro dele para Atirar, para carregá-lo podemos usar qualquer &cCarregador de Itens&r, incluindo o adicionado pelo &8&lImmersive Engineering&r! \\n\\nAssim que tivermos tudo isso, Segure o Botão Direito do Mouse até o Canhão Magnético chegar ao Nível 99, então solte! \\n\\nAs Melhorias do &5&lCanhão Magnético&r são: Mira de Precisão e Dissipadores de Calor. \\n\\nEle pode segurar 2 Melhorias, bem, faz sentido que não possa usar mais do que isso!"]
 	quest.47656073894224AF.title: "&5&lCanhão Magnético"
 	quest.47E32A084CAA1512.quest_desc: ["Pode ser Trocado com um Armeiro ou Fabricado. \\n\\nArmas não são muito divertidas sem Balas, então vamos Fabricar algumas! Para Fabricá-las, no entanto, precisaremos deste &9Projeto&r."]
 	quest.47E32A084CAA1512.title: "&9Projeto de Projéteis Comuns"
@@ -374,7 +374,7 @@
 		"{image:atm:textures/questpics/immersive/immersive_lightning.png width:100 height:100 align:center}"
 		"Eu não fiz uma imagem para este passo, mas você precisará de &8Cercas de Aço&r em cima da &5&lLightning Coil&r para que um Raio a atinja!"
 	]
-	quest.5EE1DF1C8F0C1FF9.title: "&5&lLightning Coil"
+	quest.5EE1DF1C8F0C1FF9.title: "&5&lBobina de Raios"
 	quest.5F4F7637044BD4F1.quest_desc: [
 		"O &2&lFermentador&r armazenará seus &eItens&r de Comida e, após um tempo, os transformará em Etanol. \\n\\nHá uma lista de Itens, que você pode encontrar no &6Manual do Engenheiro&r, de &eItens&r que podem ser colocados no &2&lFermentador&r pelas Portas na parte de Trás e no lado Esquerdo. \\n\\nSe você usar &6Garrafas de Mel&r, poderá &6Extrair&r as Garrafas pela Porta no lado Direito. \\n\\nO &2&lFermentador&r precisará de &cEnergia&r que virá de uma Porta no Topo do &2&lFermentador&r!"
 		"{@pagebreak}"
@@ -403,12 +403,12 @@
 		"Clique com o botão direito na &7Chapa de Ferro&r do meio com nosso Martelo!"
 		"{image:atm:textures/questpics/immersive/immersive_saw.png width:100 height:100 align:center}"
 	]
-	quest.63F5314A1072FA05.title: "&e&lSawmill"
+	quest.63F5314A1072FA05.title: "&e&lSerraria"
 	quest.662DD269B027B6C8.quest_desc: ["Você não pode carregar sua &c&lMochila Acumuladora&r sem fio... mas pode carregá-la &ccom fio&r! \\n\\nSimplesmente conecte sua Antena de Carregamento à sua &c&lMochila Acumuladora&r e aproxime-se de quaisquer &cFios&r que transportam &cEnergia&r e parte dela virá para sua &c&lMochila&r."]
 	quest.67940C0774E73217.quest_desc: ["O &eRoteador de Itens&r irá &9Entrar &eItens&r e &6Sair&r para locais específicos com base na Filtragem definida em sua UI! \\n\\nEles podem ser configurados para &eCorreias&r, Caixotes ou outros Inventários."]
-	quest.67940C0774E73217.title: "&eItem Router"
+	quest.67940C0774E73217.title: "&eRoteador de Itens"
 	quest.679E80EBB9A2AE7E.quest_desc: ["&bFluid Routers&r classificam e filtram &bFluidos&r que passam por eles. \\n\\nVocê precisará definir as configurações em sua interface para definir os Filtros e qual Lado. Depois de fazer isso, ele pegará todos os &bFluidos&r que entrarem e os enviará para onde estão configurados para ir!"]
-	quest.679E80EBB9A2AE7E.title: "&bFluid Router"
+	quest.679E80EBB9A2AE7E.title: "&bRoteador de Fluido"
 	quest.67FB03BE6685AFE1.quest_desc: ["Para começar uma guerra, precisamos primeiro declará-la! \\n\\nBrincadeira, nós vamos direto para os tiros! Nada de baboseira diplomática por aqui! \\n\\nPara começar, mate um Pillager com uma Arma. \\n\\nIsso iniciará o surgimento de novos e mais difíceis Pillagers!"]
 	quest.67FB03BE6685AFE1.title: "Ataque e Defesa"
 	quest.6B2BD6F939136F50.quest_desc: ["A Plataforma Giratória é bem simples. A face superior com o quadrado &7Cinza&r será a parte móvel. \\n\\nAs outras faces são as &4Portas de Redstone&r, onde você dará um &4Sinal de Redstone&r para ativá-la. \\n\\nQuando ativada, ela girará qualquer Bloco que esteja anexado ao Topo. \\n\\nVocê pode precisar usar seu &6Martelo de Engenheiro&r nela para mudar como ela gira!"]

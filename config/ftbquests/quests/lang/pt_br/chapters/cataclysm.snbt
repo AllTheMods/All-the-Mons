@@ -139,11 +139,11 @@
 	quest.3C0F8EB779E56F2A.quest_desc: ["Aqui está a sua Garra de Caranguejo da Votação dos Mobs! \\n\\nMas o Caranguejo que você precisa matar é muito maior... e mais feroz... \\n\\nA Garra de Quitina é um item solto pelo Garradião. \\n\\nQuando usada, você terá aumento no Alcance de Bloqueio e no Alcance de Entidade. Assim, você pode colocar Blocos mais longe e golpear Mobs mais longe também!"]
 	quest.3C0F8EB779E56F2A.title: "&9Garra de Quitina"
 	quest.3DD71B6C4B80FB44.quest_desc: ["O &3Eye of Curse&r o levará à &3Frosted Prison&r para lutar contra o &3&lMaledictus&r."]
-	quest.3DD71B6C4B80FB44.title: "&3Eye of Curse"
+	quest.3DD71B6C4B80FB44.title: "&3Olho da Maldição"
 	quest.3E8C7D92F99496BE.quest_desc: ["O &5Olho do Abismo&r o levará à &5Cidade Submersa&r para lutar contra o &5&lLeviatã&r."]
 	quest.3E8C7D92F99496BE.title: "&5Olho do Abismo&r"
 	quest.43A5B83862D9E94C.quest_desc: ["O &bEye of Flame&r o levará para a &bBurning Arena&r para lutar contra o &b&lIgnis&r."]
-	quest.43A5B83862D9E94C.title: "&bEye of Flame&r"
+	quest.43A5B83862D9E94C.title: "&bOlho Flamejante&r"
 	quest.445C9117198936B6.quest_desc: ["A &4Arma de Assalto de Wither (A.D.A.D.W.)&r é a última arma que você pode fazer com &4Witherita&r. \\n\\nEla tem 2 projéteis diferentes que pode disparar: &4Míssil de Wither&r e &4Bomba de Wither&r. \\n\\nOs &4Míssil de Wither&r são disparados apenas segurando o botão direito do mouse e danificarão qualquer coisa que for atingida por eles, com baixo tempo de recarga. \\n\\nOs &4Bomba de Wither&r são disparados quando você segura Shift e o botão direito do mouse, eles danificam uma área maior e deixam uma área de Efeito Wither, que danifica qualquer coisa que entre nela. Eles têm um tempo de recarga muito maior, no entanto."]
 	quest.445C9117198936B6.title: "&4A.D.A.D.W. (Arma de Assalto de Wither)"
 	quest.45FBEABEBA7CC09E.quest_desc: [
@@ -162,7 +162,7 @@
 	quest.4BF5EB050EC14C80.title: "&4Os Vigias&r"
 	quest.4CCEC13CC5A5772D.quest_desc: ["Existem 3 Pets de &4&lCataclysm&r: o &eRemanescente Moderno&r, o &5Bebê Leviatã&r e a &4Ministruosidade de Netherita&r! \\n\\nTanto o &eRemanescente Moderno&r quanto a &4Ministruosidade de Netherita&r podem ser colocados em Baldes. \\n\\nO &5Bebê Leviatã&r precisará de um Balde de Água."]
 	quest.4CCEC13CC5A5772D.title: "Aqui, segure isso!"
-	quest.4D644A9829C240CB.quest_desc: ["Você gosta do escudo do &b&lIgnis'&r? Bem, você pode fazer um para si mesmo com &bIgnítio&r. \\n\\nO &bBaluarte da Chama&r pode ser usado como um Escudo normal, mas também tem um efeito especial. \\n\\nAo Segurar o Clique Direito e Shift, soltar permitirá que você avance contra o que estiver à sua frente, como as cabras fazem. \\n\\nO que for atingido sofrerá Dano e, se for pressionado contra uma parede, também ficará atordoado. \\n\\nDefinitivamente bom ter por perto!"]
+	quest.4D644A9829C240CB.quest_desc: ["Você gosta do escudo do &b&lIgnis&r? Bem, você pode fazer um para si mesmo com &bIgnítio&r. \\n\\nO &bBaluarte da Chama&r pode ser usado como um Escudo normal, mas também tem um efeito especial. \\n\\nAo Segurar o Clique Direito e Shift, soltar permitirá que você avance contra o que estiver à sua frente, como as cabras fazem. \\n\\nO que for atingido sofrerá Dano e, se for pressionado contra uma parede, também ficará atordoado. \\n\\nDefinitivamente bom ter por perto!"]
 	quest.4D644A9829C240CB.title: "&bBaluarte da Chama"
 	quest.4D822D92492E1F53.quest_desc: ["O &3Aptrgangr&r é o mini chefe dentro da &3Prisão Gelada&r. \\n\\nEles têm 480 &4Corações&r e irão atacá-lo com seu machado gigante. \\n\\nEles podem balançar seu Machado normalmente, ou podem esmagá-lo no chão perto de você. Quando fazem isso, lasers aparecerão, danificando tudo em seu caminho. Eles também têm um ataque de carga semelhante ao do &eCobóleto Gladiador&r! \\n\\nNa morte, eles derrubarão Barras e Pepitas de Aço Negro, e Carne Podre e Ossos."]
 	quest.4D822D92492E1F53.title: "&3Aptrgangr"
@@ -170,7 +170,7 @@
 	quest.4E2C589C7638390F.title: "&3Arco Amaldiçoado"
 	quest.4FA156C383C9C438.quest_desc: ["&eKoboletons&r são mini Esqueletos de Dinossauros que servem ao &e&lRemanescente Ancestral&r. \\n\\nEles têm apenas 12 e meio &4Corações&r e te atacam com seu Khopesh. \\n\\nEles podem dropar sua arma, junto com seus Ossos e Pepitas de Metal Ancestral."]
 	quest.4FA156C383C9C438.quest_subtitle: "Mini Dinos!"
-	quest.4FA156C383C9C438.title: "&eKoboletons"
+	quest.4FA156C383C9C438.title: "&eCobóletos"
 	quest.4FA7774D89171BB3.quest_desc: ["Quer outro pet de &4&lCataclysm&r? Então o Crânio Remanescente é o que você precisa! \\n\\nÉ um drop confirmado do &eRemanescente Ancestral&r e quando usado irá gerar um Revenant Moderno. \\n\\nEste é muito menor e mais legal que o &eAncestral&r. Você pode domesticá-lo alimentando-o com um Ovo de Sniffer e então ele agirá como um cachorro. \\n\\nAtacando o que te ataca ou o que você ataca. Ele também tem 3 modos: seguir, vagar e ficar. Seguir, ele vai... bem, te seguir. Vagar fará com que ele ande por uma determinada área. E ficar fará com que ele se deite em um lugar. \\n\\nEles têm 1,500 &4Corações&r e eu aprendi que você pode alimentá-los com &eOssos de Koboleton&r para curá-los! \\n\\nAproveite seu novo dino!"]
 	quest.4FA7774D89171BB3.title: "O que não deve ser nomeado por minhas razões de travamento"
 	quest.50C9CB8FB16E453D.quest_desc: [
@@ -246,7 +246,7 @@
 	quest.6FC4146E534C51DA.quest_desc: ["Você pode combinar um Molde de Melhoria de Netherita, um Elmo de Netherita e um &cChifre da Monstruosidade&r para fazer o &cCapacete da Monstruosidade&r. \\n\\nEle tem os mesmos atributos, mas quando você está com metade da vida, ele Repelirá tudo perto de você e aumentará os atributos de defesa."]
 	quest.6FC4146E534C51DA.title: "&cCapacete da Monstruosidade"
 	quest.70CDA5F1593DB4B2.quest_desc: [
-		"A &eThe Cursed Pyramid&r aparece em desertos e é muito difícil não a ver. Uma pirâmide massiva com enormes pilares na entrada. \\n\\Entra e encontrarás armadilhas por toda parte, &eKoboletons&r e mini-bosses! \\n\\nNão te preocupes, também há Baús, Potes e até Areia Suspeita que precisarás para o..."
+		"A &eThe Cursed Pyramid&r aparece em desertos e é muito difícil não a ver. Uma pirâmide massiva com enormes pilares na entrada. \\n\\nEntra e encontrarás armadilhas por toda parte, &eKoboletons&r e mini-bosses! \\n\\nNão te preocupes, também há Baús, Potes e até Areia Suspeita que precisarás para o..."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"
 	]
 	quest.70CDA5F1593DB4B2.title: "&ePirâmide Amaldiçoada&r: Lar do &e&lRemanescente Ancestral&r"
@@ -256,7 +256,7 @@
 	]
 	quest.71055E7BBB337C4D.title: "&3&lMaledictus, O Cavaleiro Espectral Amaldiçoado"
 	quest.713006AB89E43C6D.quest_desc: [
-		"Bem no topo da enorme &9Acropolis&r é onde a &9&lScylla, A Imperatriz da Tempestade&r surgirá. Assim como o &d&lGuardião Ender&r, basta estar perto para que ela surja. \\n\\nEla é um dos menores chefes do &4&lCataclysm&r, com apenas cerca de 3 blocos de altura. Além disso, ela possui 8.658 &4corações&r e 12 pontos de armadura. A melhoria dela estava atrasada, mas foi feita.\\n\\nNão a subestime pelo seu tamanho, ela tem a maior quantidade de ataques de todos os chefes daqui. \\n\\nEla pode usar a sua &9Âncora&r, &9Ceraunus&r, para puxar você de longe, ou simplesmente desferir golpes para causar muito dano! \\n\\nEla pode atirar &9Lanças de Raio&r de suas costas ou das nuvens. Pode até saltar no ar e cair com tudo para invocar &9Raios&r ao redor de onde atingiu. \\n\\nE não é só isso! Ela também tem controle sobre a &9água&r, o que permite que envie &9Ondas&r na sua direção ou até mesmo invoque &9Cobras de Água&r para morder! \\n\\nAo derrotá-la, ela deixará cair o equipamento de chefe habitual, além de &9Lágrima&r e da &9Essência da Tempestade&r. Além disso, também tem chance de deixar um &9Orbe Azul&r ao morrer."
+		"O topo da imensa &9Acrópole&r é onde a &9&lScylla&r vai aparecer. Assim como o &d&lGuardião Ender&r, você só precisa estar perto para que ela apareça aqui. \\n\\nEla é um dos menores Chefes de &4&lCataclysm&r, com apenas cerca de 3 Blocos de altura. Além disso, no momento ela tem 8.658 &4Corações&r e 12 Pontos de Armadura. O fortalecimento dela estava atrasado, mas foi feito.\\n\\nNão deixe o Tamanho dela fazer você subestimá-la, ela tem alguns dos maiores conjuntos de Ataques de todos os Chefes daqui. \\n\\nEla pode usar sua &9Âncora&r, &9Ceraunus&r, para puxá-lo para mais perto de longe, ou simplesmente balançá-la em sua direção para causar um dano enorme! \\n\\nEla pode lançar &9Lanças de Raios&r em você de suas Costas ou das Nuvens. Ela pode até saltar para o Ar e cair de volta, trazendo &9Relâmpagos&r ao redor de onde atingiu. \\n\\nIsso não é tudo! Ela também tem controle sobre a &9Água&r, podendo enviar &9Ondas&r em sua direção ou até invocar &9Serpentes Aquáticas&r para morder você! \\n\\nQuando derrotada, ela soltará o Equipamento usual de Chefes, além de &9Lágrima&r e &9Essência da Tempestade&r. Além disso, ela também tem chance de soltar um &9Orbe Azul&r ao morrer."
 		"{image:atm:textures/questpics/cataclysm/cataclysm_scylla.png width:100 height:100 align:center}"
 	]
 	quest.713006AB89E43C6D.title: "&9&lScylla"

@@ -3,6 +3,8 @@
 		"Aumento de nível para 21. "
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Às vezes perambula por &aCavernas, Colinas, Platôs e Montanhas&r."
 	]
 	quest.06AC44758A00C280.title: "&aLíder Brock"
 	quest.0AE4F79296B6A4E4.quest_desc: [
@@ -21,6 +23,8 @@
 		"Aumento de nível para 79."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Raramente perambula por &aBiomas Quentes&r."
 	]
 	quest.0C92029DF6B9080A.title: "&aLíder Blaine"
 	quest.1665D7A3BDC93BEA.quest_desc: [
@@ -33,6 +37,8 @@
 		"Aumento de nível para 46."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Às vezes perambula por &aBiomas Exuberantes e densamente vegetados&r."
 	]
 	quest.17CADE883895E1C4.title: "&aLíder Erika"
 	quest.23A05E86B1DF7B1E.quest_desc: [
@@ -45,6 +51,8 @@
 		"Aumento de nível para 44."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Às vezes perambula por &aPlanícies e outros Biomas pouco vegetados&r."
 	]
 	quest.245203DBA9D45934.title: "&aLíder Lt. Surge"
 	quest.2CB4138503F71E7A.quest_desc: ["Esta Missão foi escrita pela &6Equipe AllTheMods&r, ou por um &2colaborador da comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não tem permissão para ser usada em quaisquer pacotes públicos não lançados pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
@@ -58,6 +66,8 @@
 		"Aumento de nível para 63."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Raramente perambula por &aBiomas Sombrios e pouco vegetados&r."
 	]
 	quest.34B53B764112A1BF.title: "&aLíder Sabrina"
 	quest.3D24607A51997B39.quest_desc: [
@@ -75,6 +85,8 @@
 		"Aumento de nível para 29."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Às vezes perambula por &aRios, Praias e outros Biomas aquáticos&r."
 	]
 	quest.514A8996A1C18BAF.title: "&aLíder Misty"
 	quest.5184669F1F038E9A.quest_desc: [
@@ -84,8 +96,9 @@
 	]
 	quest.5184669F1F038E9A.title: "&6Rival Terry"
 	quest.51C8B7AAA05EA266.quest_desc: [
-		"Alguns &alíderes &r&lAPENAS&r geram nos &9Ginásios&r que geram em vilas, então anote quais &aLíderes de Ginásio&r você encontrou!"
+		"A maioria dos &alíderes&r é encontrada nos &9Ginásios&r que geram em vilas, então anote quais &aLíderes de Ginásio&r você encontrou!"
 		"&6Você precisará deles mais tarde!!!&r"
+		"Eles também podem ser encontrados &oraramente&r perambulando pelo mundo, cada um em Biomas adequados ao seu Tipo."
 	]
 	quest.51C8B7AAA05EA266.quest_subtitle: "&e&lAVISO&r"
 	quest.51C8B7AAA05EA266.title: "&9Ginásios&r de Kanto"
@@ -131,6 +144,8 @@
 		"Aumento de nível para 73."
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
+		""
+		"Raramente perambula por &aPântanos e Selvas&r."
 	]
 	quest.67C1FC2100E5A73C.title: "&aLíder Koga"
 	quest.68618D5F4FC2F331.quest_desc: [
@@ -162,6 +177,7 @@
 		""
 		"Pode ser encontrado aleatoriamente em &9Ginásios&r que geram em &a#minecraft:village&r"
 		""
+		"Raramente perambula por &aMontanhas e Picos&r."
 	]
 	quest.78843287D1EB98E2.title: "&aLíder Clair"
 	quest.7C112EF6EA2BB232.quest_desc: [
