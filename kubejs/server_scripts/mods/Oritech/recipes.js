@@ -86,10 +86,9 @@
           "results": [],
           "time": 120
         })
-        // Remove enchanting stuff
-        allthemods.remove({id: 'oritech:crafting/catalyst_alt'})
-        allthemods.remove({id: 'oritech:crafting/catalyst'})
-        allthemods.remove({id: 'oritech:crafting/enchanter'})
+        // Rebalance enchanting stuff
+        allthemods.replaceInput({id: 'oritech:crafting/catalyst_alt'}, 'minecraft:enchanting_table', 'apothic_enchanting:raven_enchanting_table')
+        allthemods.replaceInput({id: 'oritech:crafting/catalyst'}, 'minecraft:enchanting_table', 'apothic_enchanting:raven_enchanting_table')
 
         // Cheaty alloys
         allthemods.remove({id: 'oritech:crafting/alloy/steel'})
