@@ -1,0 +1,46 @@
+{
+	quest.19188EA560161CCF.quest_desc: ["&8Tumblestone&r önemli bir kaynaktır; bu yüzden onu üretmenin bir yoluna ihtiyacımız olduğu açıktır. \\n\\nBurada &7Çelik&r türü Pokémonlara onu üretme işi verebiliriz. \\n\\n&8Black Tumblestone&r, &cLavın&r veya &cMagmanın&r yanına yerleştirildiğinde &5Ametist&r gibi büyür. Bir &6Pasture&r içindeki &7Çelik &cPokémonlar&r, tamamen olgunlaşmış &8Black Tumblestone&r'u toplar."]
+	quest.19188EA560161CCF.title: "&8Tumblestone&r Otomatik Madenciliği"
+	quest.1F0DC2F7794A0288.quest_desc: ["&2Pasif Yaratıkları&r gerçekten o kadar mı özledin? \\n\\nSanırım bazı işler için onlara ihtiyacın olabilir. Peki, onları geri alabilirsin. \\n\\nMarket'te bir ücret karşılığında! \\n\\nGerçek dünyaya hoş geldin! Hiçbir şey bedava değil AHAHAHAHA!!!"]
+	quest.1F0DC2F7794A0288.title: "&2&lVanilla&r Yaratıkları"
+	quest.211AE5F590087251.quest_desc: ["Boş bir Kazanın varsa &cAteş&r türleri onu her 90 saniyede &cLavla&r doldurur."]
+	quest.211AE5F590087251.title: "Bedava &cLav"
+	quest.27CD92EF07EAE50A.quest_desc: ["&bSu&r türleri hazır bekliyorsa &cAteş&r artık üslerimiz için tehlike değildir! \\n\\nBir &6Pasture&r içindeki &bSu&r türleri &cAteşi&r söndürür. \\n\\nNe kadar işe yaradığına emin değilim... ama oldukça havalı!"]
+	quest.27CD92EF07EAE50A.title: "İtfaiyecilik mi?"
+	quest.28F136444E69CA08.quest_desc: ["Hâlâ (nedense) &dİksir Tezgâhlarında&r &dİksir&r yapıyorsan fazladan &cBlaze Tozu&r eklemek için &9Dragon&r türlerini kullanabilirsin! \\n\\nHer 80 saniyede bir &dİksir Tezgâhına&r 2 &cBlaze Tozuna&r eşdeğer yakıt eklerler."]
+	quest.28F136444E69CA08.title: "&dİksir Tezgâhı&r Doldurmak"
+	quest.29C5E1F7ECDE3D14.quest_desc: ["Düşen eşyaları elde etmenin başka yolları da vardır... pek etik olmayan başka yollar. \\n\\nPokémonlar savaşta bir Pokémona veya oyuncuya yenildiğinde (yani onları öldürdüğünde) eşya düşürür. \\n\\nHer Pokémonun düşürdüğü eşyalar farklıdır. Bunları Pokédex'te görebilir, hatta bunlara göre filtreleme yapabilirsin."]
+	quest.29C5E1F7ECDE3D14.title: "Etik Olmayan Çiftçilik..."
+	quest.2B75BBE79045C25A.quest_desc: ["&2Çimen&r türleri ne kadar değerli olduklarını göstermeye devam ediyor; meyve de yetiştirebilirler!"]
+	quest.2B75BBE79045C25A.title: "Meyve Bakımı"
+	quest.2F28B8949C088C00.quest_desc: ["Ender Hopper'lar çok mu pahalı? Neden büyülü &cPokémonları&r kullanmayasın! \\n\\n&dPsişik &cPokémonlar&r yerdeki eşyaları alıp envanterlere yerleştirebilir. \\n\\nAma bunu elleriyle yaptıklarına oldukça eminim; öyleyse neden herhangi bir &cPokémonun&r bunu yapamadığı kafamı karıştırıyor!"]
+	quest.2F28B8949C088C00.title: "Eşya Toplamak"
+	quest.41FC412D91C6A8F0.quest_desc: ["Boş bir Kazanın varsa &bSu&r türleri onu her 90 saniyede &bSuyla&r doldurur."]
+	quest.41FC412D91C6A8F0.title: "Bedava &bSu"
+	quest.4519A9C7A77C5398.quest_desc: ["Artık inek yok... ama ineğe benzeyen &cPokémonlarımız&r var! \\n\\nBir Miltank üzerinde Kova kullan; süt elde edersin. \\n\\nBen içer miydim bilmiyorum... ama burada süt için tek seçenek bu."]
+	quest.4519A9C7A77C5398.title: "Iyy, &cPoké&fSütü"
+	quest.47C13756D74186F2.quest_desc: ["&l&cAll&7The&fMons&r'ta işleri biraz farklı yapıyoruz. \\n\\nKoyun, tavuk ve inek gibi &2Pasif&r yaratıkların eksikliğini fark etmiş olabilirsin. \\n\\nEvet, onların yerini &cPokémonlar&r aldı! \\n\\n&c&lCobble &fWorkers&r adlı bir başka modumuz da var; bu, &cPokémonlarımıza&r çiftçilik için daha da fazla seçenek verir."]
+	quest.47C13756D74186F2.title: "Cobble Workers ve Pokémon Çiftçiliği"
+	quest.4D3800272EF65A37.quest_desc: ["&5Ametist&r, kapsamlı Redstone makineleriyle üretilebilir... \\n\\nVeya bir &6Pasture&r içindeki &6Kaya&r türleriyle!"]
+	quest.4D3800272EF65A37.title: "&5Ametist&r Otomatik Hasadı"
+	quest.503012CEA79A0328.quest_desc: ["Merak etme, yumurta elde etmenin etik yolları da var! \\n\\nBazı 'kuşa benzeyen' &cPokémonlar&r, bir &6Pasture&r içindeyken rastgele yumurtlar. \\n\\nPidgey gibi &cPokémonlar&r! \\n\\nYumurtaları rastgele etrafa attıkları için yanlarına onları toplayıp depolayan bir &dPsişik&r &cPokémon&r koymak ya da Huni kullanmak isteyeceksin."]
+	quest.503012CEA79A0328.title: "&2&lVanilla&r Yumurtaları"
+	quest.5FAF3153F0D7F9DC.quest_desc: ["&2&lVanilla Minecraft&r'taki kendine özgü mahsullerden biridir. \\n\\n&cPokémonların&r onu yetiştirmesini istiyorsan bunun için &5Hayalet&r türüne ihtiyacın olacak. \\n\\nBelki de diğer &cPokémonlar&r onu toplamaktan çok korkuyordur; sonuçta bu işi gerçek hayaletler yapıyor."]
+	quest.5FAF3153F0D7F9DC.title: "&4Nether Yumrusu"
+	quest.616E5709D0008953.quest_desc: ["Koyuna benzeyen bazı &cPokémonlar&r vardır. \\n\\nWooloo, Dubwool ve &eMareep&r, yünlerini elde etmek için kırkılabilir. \\n\\nKoyunlar gibi, yünlerini yeniden büyütmek için &2Çimen&r yiyebilirler. \\n\\nÜstelik boyanabilirler!"]
+	quest.616E5709D0008953.title: "&cPokémon Kırkmak"
+	quest.6C1B33D7DC8E9574.quest_desc: ["Boş bir Kazanın varsa &bBuz&r türleri onu her 90 saniyede Tozlaşmış Karla doldurur."]
+	quest.6C1B33D7DC8E9574.title: "Bedava Kar"
+	quest.6E0983AFA6D23A06.quest_desc: ["&cPokémonların&r uzun çimenlerde neden saklandığını sonunda biliyoruz; mahsul yetiştiriyorlar! \\n\\n&2Çimen&r türleri mahsulleri otomatik olarak hasat edip tohumlarını yeniden ekebilir. \\n\\nHangi mahsulleri toplayıp hangilerini toplayamadıklarından emin değilim... anlaşılan bunu kendin öğrenmen gerekiyor."]
+	quest.6E0983AFA6D23A06.title: "&cPoké&fÇiftçiler"
+	quest.6F6EFA2631EFC35F.quest_desc: ["&aBöcek &cPokémonlar&r, ağaçlardaki olgun &6Apricorn'ları&r toplayabilir. \\n\\nYalnızca onlara ulaşabiliyorlarsa ve yalnızca normal &6Apricorn'ları&r. &6Allthemodium Apricorn'ları&r &cPokémonlar&r tarafından toplanamaz."]
+	quest.6F6EFA2631EFC35F.title: "&6Apricorn&r Toplamak"
+	quest.70A03755ACCD7163.quest_desc: ["Naneler, &c&lCobble&fmon&r'daki yararlı (ve bulunması zor) eşyalardır. \\n\\nOnları otomatik yetiştirmek oldukça tuhaftır; neden &dPeri&r türlerini kullanmayasın! "]
+	quest.70A03755ACCD7163.title: "Nane Yetiştirmek"
+	quest.76EA1F7B05A315B4.quest_desc: ["&cOcaklarına&r sürekli yakıt koymaktan yorulduğun oluyor mu? \\n\\nO hâlde &cAteş Pokémonlarını&r &6Pasture&r içine çıkar. Bir &0Kömür Bloğuna&r eşdeğer yakıt verir, ardından aynı süre boyunca bekleme süresine girerler."]
+	quest.76EA1F7B05A315B4.title: "&cOcaklara&r Yakıt Sağlamak"
+	task.02B912D44C5ABB86.title: "Meyveler"
+	task.0409B0E69C451C08.title: "Apricorn'lar"
+	task.0CA978DAF9AB1C1A.title: "Naneler"
+	task.0FF5DC05DE332A95.title: "Pokédex"
+}

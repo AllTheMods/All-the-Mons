@@ -1,0 +1,154 @@
+{
+	quest.3A7120AD61BC6D74.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.38EE9A31CBDD5AE8.title: "Tüm hakları saklıdır"
+	task.495FB1055FFDC998.title: "Tüm hakları saklıdır"
+	quest.07016F654CFFAA20.quest_desc: [
+		"Hangi &6Fosilden&r ne çıkacağını sürpriz olarak öğrenmek istiyorsan sayfayı çevirme!"
+		"{@pagebreak}"
+		"&eHelix Fossil&r - &6Oma&bnyte&r \\n&eDome Fossil&r - &6Kab&buto&r \\n&6Old Amber Fossil&r - &6Aero&9dactyl&r \\n&aRoot Fossil&r - &6Lil&2eep&r \\n&aClaw Fossil&r - &6Ano&arith&r \\n&cSkull Fossil&r - &6Cranidos&r \\n&cArmor Fossil&r - &6Shiel&7don&r \\n&5Cover Fossil&r - &9Tirt&6ouga&r \\n&5Plume Fossil&r - &6Arc&9hen&r \\n&7Jaw Fossil&r - &6Tyr&9unt&r \\n&3Sail Fossil&r - &6Ama&bura&r "
+		"{@pagebreak}"
+		"Son 4 &6Fosil&r farklı çalışır. Bu &6Fosillerden&r 2 tanesini birleştirerek 1 &cPokémon&r elde etmen gerekir. \\n\\n&6Fossilized Bird&r + &aFossilized Drake&r = &eDraco&9zolt&r \\n&6Fossilized Bird&r + &5Fossilized Dino&r = &eArcto&bzolt&r \\n&bFossilized Fish&r + &aFossilized Drake&r = &bDraco&9vish&r \\n&bFossilized Fish&r + &5Fossilized Dino&r = &bArctovish&r"
+	]
+	quest.07016F654CFFAA20.title: "&6Fosiller"
+	quest.07392142A0166032.quest_desc: [
+		"Zamana karşı korunmuş bir Preserved Skeleton'ın kalıntıları burada yatar. \\n\\nKemiklerin çevresinde &7Şüpheli Çakıl&f ve &eKum&r bulunur. "
+		"{image:atm:textures/questpics/pokemon/find_skeleton.png width:200 height:100 align:center}"
+	]
+	quest.07392142A0166032.title: "Prehistoric Preserved Skeleton"
+	quest.131ACE9712128876.quest_desc: ["&3PokéFinder&r, adının söylediği işi yapar! &cPokémon&r bulmana yardım eder! \\n\\n&3PokéFinder'ı&r elinde tutman, ekranının sağ alt köşesinde bir harita görünmesini sağlar. Haritada yakındaki her &cPokémon&r için bir (X) gösterir. Koordinatlarını ve bir pusulayı da gösterir! \\n\\n&3PokéFinder'ı&r açtığımızda filtreleme seçenekleri gelir. İlki &cPokémon&r adıdır. Doğru yazdığından emin ol; burada otomatik düzeltme yok. \\n\\nArdından &cPokémon&r için Properties ve Labels seçenekleri gelir. Properties bende çalışmıyor gibi görünüyor; ama Labels ile ilk nesil &cPokémon&r için gen1 gibi farklı etiketler ekleyebiliriz. \\n\\nSonra EV'ler gelir. Farklı &cPokémonların&r EV değerleri farklıdır; hayır, her birinin değerini söyleyemem. Ama daha belirli &cPokémonları&r bulmak için bunlardan istediğin kadarına tıklayıp birleştirebilirsin! \\n\\nSon seçenek, bir &cPokémonu&r daha önce yakalayıp yakalamadığındır."]
+	quest.131ACE9712128876.title: "&3PokéFinder'lar"
+	quest.16B06A4C0B9F8DFB.quest_desc: [
+		"Bataklıklarda Rooted Pit bulabilirsin. \\n\\nBiraz &7Şüpheli Çakılla&r birlikte &8Çamur &fve &2Kökler&r."
+		"{image:atm:textures/questpics/pokemon/find_root.png width:200 height:100 align:center}"
+	]
+	quest.16B06A4C0B9F8DFB.title: "Prehistoric Rooted Pit"
+	quest.21281EC844F00D68.quest_desc: [
+		"Bu kez farklı bir okyanus: Mercan Okyanusu. Burada Vibrant Hydrothermal Vents bulunur. \\n\\nYapının çevresinde &eŞüpheli Kum&r bulursun."
+		"{image:atm:textures/questpics/pokemon/find_vibrant.png width:200 height:100 align:center}"
+	]
+	quest.21281EC844F00D68.title: "Prehistoric Vibrant Hydrothermal Vents"
+	quest.2150D54D18BD85EE.quest_desc: ["Sonunda &cOltanı&r atabilirsin. Bu, &2Meyveyi&r tüketir. \\n\\nŞamandıra oynamaya başladığında &cPokémonu&r çekmek için sağ tıkla! \\n\\nBu, o &cPokémonla&r savaşı başlatır. \\n\\nArdından ona bir &cPoké&r Topu atmak için savaşta bir tur kullanman gerekir."]
+	quest.2150D54D18BD85EE.title: "Balık Tutmaya Gittim"
+	quest.222E16E832A13624.quest_desc: [
+		"Damla Taş Mağaralarının derinliklerinde bir tür vaha bulabilirsin! \\n\\nBurada &7Şüpheli Çakıl&r, vahanın zemininde oluşur."
+		"{image:atm:textures/questpics/pokemon/find_dripstone.png width:200 height:100 align:center}"
+	]
+	quest.222E16E832A13624.title: "Prehistoric Dripstone Oasis"
+	quest.2444614287B6398E.quest_desc: [
+		"Ovada nadiren yerden çıkan farklı bloklar görebilirsin. Burası bir Suspicious Mound olabilir! \\n\\n&7Şüpheli Çakıl&r, &2Çimenli Toprağın&r ve bazı &7Taşların&r altında oluşur."
+		"{image:atm:textures/questpics/pokemon/find_sus_mound.png width:200 height:100 align:center}"
+	]
+	quest.2444614287B6398E.title: "Prehistoric Suspicious Mound"
+	quest.24DB1F587DB99074.quest_desc: [
+		"Fosilleri yeniden canlandıran çoklu blok 3 blok gerektirir: Fossil Analyzer, Data Monitor ve Restoration Tank. Onları bu düzende yerleştir."
+		"{image:atm:textures/questpics/pokemon/find_fossil.png width:100 height:100 align:center} "
+		"Onarmaya, diriltmeye veya her ne yapacaksak ona başlamadan önce yakıta ihtiyacımız var... Yakıt olarak çeşitli &2Mahsuller &fve &2Bitki&r benzeri eşyalar kullanılır. \\n\\nMeyveler, biftek ve pasta gibi yiyecekler. Bal veya Şüpheli Güveç gibi sıvılar. Fidanlar, çiçekler ve yapraklar gibi yiyemediğimiz şeyler bile! \\n\\nTank dolduğunda &6Fosilimizi&r Fossil Analyzer'a yerleştirebiliriz. Bazı özel &6Fosilleri&r kullanıyorsak içine birbirinden farklı 2 &6Fosilleşmiş &cPokémon&r yerleştirmemiz gerekir. \\n\\nÇalışmaya başladığında sistem açılır, ekran parlar, analiz cihazı kırmızı lazerler gönderir ve tankta kabarcıklar çıkar. \\n\\nSonunda işlem tamamlandığında &6Fosil&r, tankta tamamen yeniden canlandırılmış bir &cPokémon&r olur. Tank üzerinde bir &cPoké Topu&r kullanırsan &cPokémonu&r otomatik olarak yakalar."
+	]
+	quest.24DB1F587DB99074.title: "Fosilleri Yeniden Canlandırmak"
+	quest.25498A20F05FB703.quest_desc: ["Bir köylü işsizse (ve &2Aptal Köylü&r değilse!) yere bir meslek bloğu koyabilirsin. Köylü o bloğa giderek iş sahibi olur. \\n\\nMesleği, koyduğun blok belirler; &bBalıkçı&r için bir Fıçıya ihtiyacımız var. \\nOnunla takas yapmayı sürdür; deneyim kazanacaktır. En yüksek seviyeye ulaştığında bütün takasları açılır. Şunu elde etmek için bir &bUsta Balıkçıya&r ihtiyacımız var... \\n\\n&bPokéRod Upgrade Template&r."]
+	quest.25498A20F05FB703.title: "&bPokéRod Upgrade Template"
+	quest.268DEC15019B7CF0.quest_desc: [
+		"Okyanus tabanının yakınında Hydrothermal Vents içine doğru çekilebilirsin. \\n\\n&7Şüpheli Çakıl&r, okyanus tabanındaki diğer &7Çakılların&r yakınında oluşur!"
+		"{image:atm:textures/questpics/pokemon/find_hydrothermal.png width:200 height:100 align:center}"
+	]
+	quest.268DEC15019B7CF0.title: "Prehistoric Hydrothermal Vents"
+	quest.2E4A0D8AEA1AE6B6.quest_desc: [
+		"Bir başka Kırgıbayır yapısı: Sunscorched Remains. Ne olduğunu bilmiyorum ama anlaşılan biri bir &cAteş Pokémonunu&r çok kızdırmış. \\n\\n&7Şüpheli Çakıl&r, Kırmızı Kumun altında oluşur."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_remains.png width:200 height:100 align:center}"
+	]
+	quest.2E4A0D8AEA1AE6B6.title: "Prehistoric Sunscorched Remains"
+	quest.2EC9EC0184C2024D.quest_desc: [
+		"Yemyeşil Mağaralardaki bir başka yapı: Mossy Pond. \\n\\n&7Şüpheli Çakıl&r, &9Suyun&r altında oluşur."
+		"{image:atm:textures/questpics/pokemon/find_mossy.png width:200 height:100 align:center}"
+	]
+	quest.2EC9EC0184C2024D.title: "Prehistoric Mossy Pond"
+	quest.2F71A83DC5E91615.quest_desc: [
+		"Okyanusun derinliklerinde pek çok tuhaf yapı vardır. Submerged Impact kesinlikle en tuhaflarından biridir. \\n\\nNeredeyse bir mağarayı andıran yapının içinde &7Şüpheli Çakıl&r bulunur."
+		"{image:atm:textures/questpics/pokemon/find_submerged_impact.png width:200 height:100 align:center}"
+	]
+	quest.2F71A83DC5E91615.title: "Prehistoric Submerged Impact"
+	quest.3308D7EDFBF51190.quest_desc: [
+		"Çöller tepe üstüne tepelerle doludur. Bazıları Sandy Den bile olabilir! \\n\\nYuvanın içinde &eŞüpheli Kum&r oluşur."
+		"{image:atm:textures/questpics/pokemon/find_sandy.png width:200 height:100 align:center}"
+	]
+	quest.3308D7EDFBF51190.title: "Prehistoric Sandy Den"
+	quest.397E11CDCB8B4DC4.quest_desc: [
+		"Frozen Pond, hem zamanda hem de herhangi bir buzlu biyomun içinde donup kalmıştır. \\n\\n&bBuzun&r içinde &7Şüpheli Çakıl&r bulursun."
+		"{image:atm:textures/questpics/pokemon/find_frozen_pond.png width:200 height:100 align:center}"
+	]
+	quest.397E11CDCB8B4DC4.title: "Prehistoric Frozen Pond"
+	quest.3B5578F000D6AD9E.quest_desc: ["Herhangi bir oltayı &bPokéRod Upgrade Template&r ve bir &cPoké&r Topuyla birleştirerek &cPoké&rRod yap! \\n\\nKullanılan &cPoké&r Topu yalnızca &cPoké&rRod'un görünüşünü değiştirir... bunun için pahalı toplar kullanma. \\n\\nBenim favorim &dİyileşme Topuyla&r yapılan!"]
+	quest.3B5578F000D6AD9E.title: "&cPoké&rRod Yapımı"
+	quest.3E822975A8A66EBD.quest_desc: [
+		"Mud Pit, Yağmur Ormanlarında oluşur; batak kum olmadıklarına seviniyorum! \\n\\n&7Şüpheli Çakıl&r, &8Çamurun&r altında bulunur."
+		"{image:atm:textures/questpics/pokemon/find_mud.png width:200 height:100 align:center}"
+	]
+	quest.3E822975A8A66EBD.title: "Prehistoric Mud Pit"
+	quest.3FC34BEE629F4037.quest_desc: [
+		"Karlı biyomlarda Tozlaşmış Kar tehlikesi vardır. Soğuk bir yenilgiye, büyük bir düşüşe, hatta fosillere yol açabilir! \\n\\n&7Şüpheli Çakıl&r, Tozlaşmış Karın altındadır."
+		"{image:atm:textures/questpics/pokemon/find_powder.png width:200 height:100 align:center}"
+	]
+	quest.3FC34BEE629F4037.title: "Prehistoric Powdered Deposit"
+	quest.410492282A446A06.quest_desc: ["&aPokéNav&r, yakınında hangi &cPokémonların&r oluşacağını (veya oluşabileceğini) anlamana yardımcı olan bir araçtır. \\n\\nBulunduğun biyoma göre ayarlanır. \\n\\n&aPokéNav'ı&r açtığında uzun bir &cPokémon&r listesi görürsün! \\n\\nÜstteki düğmeler, &cPokémonların&r oluşma nadirliğini ve listenin en yaygından en nadire mi, yoksa tersine mi sıralandığını değiştirir; son düğme listeyi yeniler! \\n\\nListedeki bir &cPokémonun&r üzerine gelmek bilgi gösterir: türü, oluşma olasılığı ve havada mı yoksa yerde mi oluştuğu. \\n\\n&cPokémona&r tıklamak, oluşma koşulları hakkında daha da fazla bilgi gösterir. Zaman sınırlamalarından üzerinde oluşabildiği veya oluşamadığı bloklara, hatta ışık seviyelerine kadar. \\n\\nYakında bir &cPokémon&r varsa ekranda onun sağ üst tarafında bir düğme belirir. Tıklarsan o &cPokémonun&r en yakın örneğinin yönünü gösteren bir ok görürsün. Oku kaldırmak için yeniden sağ tıkla."]
+	quest.410492282A446A06.title: "&aPokéNav"
+	quest.421C02BBAF6616FC.quest_desc: ["Bir &6Fosil Alanı&r bulduğun için tebrikler!... Şimdi ne olacak? \\n\\nBir Fırça al (veya yap). Ardından &eŞüpheli Kuma &fya da &7Çakıla&r bakarak sağ tıkı basılı tut. \\n\\nBu, şüpheli blokları fırçalayıp eşyaları ortaya çıkarır. Eşyalar, zindan sandıklarında olduğu gibi rastgele ganimet havuzlarından seçilir. \\n\\nAncak farklı yerlerden farklı &6Fosiller&r çıkar."]
+	quest.421C02BBAF6616FC.title: "&6&lArkeoloji"
+	quest.55BF1E9BB9F0768D.quest_desc: [
+		"Sanırım düzeni anladın; ladinlerin olduğu her yerde bunlar da vardır! \\n\\n&7Şüpheli Çakılı&r bulmak için kütükleri aşağı doğru takip et."
+		"{image:atm:textures/questpics/pokemon/find_spruce.png width:200 height:100 align:center}"
+	]
+	quest.55BF1E9BB9F0768D.title: "Prehistoric Spruce Tree"
+	quest.5B8A381EFA3D836B.quest_desc: [
+		"Buzlu biyomların üzerinde bazı sivri oluşumlar Submerged Spike'a benzeyebilir. \\n\\nBunlarda &eŞüpheli Kum&r bulunur!"
+		"{image:atm:textures/questpics/pokemon/find_submerged_spike.png width:200 height:100 align:center}"
+	]
+	quest.5B8A381EFA3D836B.title: "Prehistoric Submerged Spike"
+	quest.5E64DDC28C1AD3FF.quest_desc: ["Bazı &cPokémonları&r &bOltayla Yakalamak&r gerekir; ama hangi &cPokémonları&r &bOltayla Çekebileceğimizi&r nasıl öğreniriz? \\n\\n&bFishingNav&r ile! Peki benimki neden hiç &cPokémon&r göstermiyor? \\n\\nYakınında yakalayabileceğin &cPokémonları&r görmek için envanterinde bir &cPoké&rRod bulunmalı. Bir tane olduğunda okyanus ve nehir gibi en yakın su biyomuna göre onları gösterir. \\n\\nTıpkı &aPokéNav&r gibi türlerini, nadirliklerini ve oluşma olasılıklarını gösterir!"]
+	quest.5E64DDC28C1AD3FF.title: "&bFishingNav"
+	quest.5ECE56EAB6773769.quest_desc: ["Balıklar (ve balık &cPokémonlar&r) korkutucu kancalara gelmez! Yalnızca üzerinde lezzetli yem bulunan korkutucu kancalara gelirler. \\n\\n&cPokémon&r yakalamak için &2Meyvelere&r ihtiyacımız olacak! \\n\\nFarklı &2Meyveler&r balıkçılık için farklı etkiler sağlar. Belirli bir &cPokémon&r türünü daha yaygın hâle getirebilir, daha iyi istatistikler verebilir, hatta &cPokémonun&r seviyesini artırabilirler. \\n\\nKullanmak için balık tutarken &2Meyveleri&r diğer elinde tut."]
+	quest.5ECE56EAB6773769.title: "Balıkçılık Yemi"
+	quest.6F2E30BE5CF82C77.quest_desc: [
+		"Yine &9Suyun&r altında Underwater Fissure bulunur. \\n\\nİçinde her yerde &7Şüpheli Çakıl&r bulabilirsin."
+		"{image:atm:textures/questpics/pokemon/find_underwater.png width:200 height:100 align:center}"
+	]
+	quest.6F2E30BE5CF82C77.title: "Prehistoric Underwater Fissure"
+	quest.72DCD32EC59F8E9C.quest_desc: [
+		"&bBuzun&r oluştuğu her yerde Frozen Spike da oluşur! \\n\\nEroded Pillar'da olduğu gibi &7Şüpheli Çakıl&r sivri oluşumun içinde bulunur."
+		"{image:atm:textures/questpics/pokemon/find_frozen_spike.png width:200 height:100 align:center}"
+	]
+	quest.72DCD32EC59F8E9C.title: "Prehistoric Frozen Spike"
+	quest.731A8877EA474D67.quest_desc: [
+		"Eroded Pillar, canlı renkli Kırgıbayırı delip yükselir. \\n\\nBu yapıda &7Şüpheli Çakıl&r sütunun içinde oluşur."
+		"{image:atm:textures/questpics/pokemon/find_eroded.png width:200 height:100 align:center}"
+	]
+	quest.731A8877EA474D67.title: "Prehistoric Eroded Pillar"
+	quest.74285B2AC6E00D20.quest_desc: [
+		"Yağmur Ormanlarında dolaşırken küçük bir çukura rastlayabilirsin; bu çukur Lush Den'dir! \\n\\nİçinde &7Şüpheli Çakıl&r oluşur."
+		"{image:atm:textures/questpics/pokemon/find_lush.png width:200 height:100 align:center}"
+	]
+	quest.74285B2AC6E00D20.title: "Prehistoric Lush Den"
+	quest.775D4E9974C70D5C.quest_desc: [
+		"Meşe ağacı bulabileceğin her yerde Prehistoric Oak Tree de bulabilirsin! \\n\\nKütüklerin altında &7Şüpheli Çakıl&r bulunur."
+		"{image:atm:textures/questpics/pokemon/find_oak.png width:200 height:100 align:center}"
+	]
+	quest.775D4E9974C70D5C.title: "Prehistoric Oak Tree"
+	quest.7781133CB04584AA.quest_desc: [
+		"\"Yemyeşil Mağaranın içindeki mağara\" demenin çok süslü bir yolu! \\n\\n&7Şüpheli Çakıl&r, &9Suyun&r altında oluşur."
+		"{image:atm:textures/questpics/pokemon/find_enhydro.png width:200 height:100 align:center}"
+	]
+	quest.7781133CB04584AA.title: "Prehistoric Enhydro Agate"
+	quest.78FC6687B5FD964F.quest_desc: [
+		"Prehistoric Birch Tree, huş ağaçlarının oluştuğu her yerde oluşur. \\n\\nAğacın kütüklerinin çok altında &7Şüpheli Çakıl&r bulunur."
+		"{image:atm:textures/questpics/pokemon/find_birch.png width:200 height:100 align:center}"
+	]
+	quest.78FC6687B5FD964F.title: "Prehistoric Birch Tree"
+	quest.7E8CBDC0377013E0.quest_desc: [
+		"Kırgıbayırdaki bir başka yapı: Sunscorched Den. \\n\\n&7Şüpheli Çakıl&r, yuvanın içinde uslu uslu durur."
+		"{image:atm:textures/questpics/pokemon/find_sunscorched_den.png width:200 height:100 align:center}"
+	]
+	quest.7E8CBDC0377013E0.title: "Prehistoric Sunscorched Den"
+	task.03C72EFDFD9D0F8D.title: "PokéRod"
+	task.419216305C141D67.title: "PokéFinder'lar"
+	task.570E6A812FFE21EF.title: "Fosiller"
+	task.6A9462E51E54383F.title: "Meyveler"
+}

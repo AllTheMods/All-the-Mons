@@ -2,32 +2,36 @@
 	quest.0790D3BB481162A6.quest_desc: [
 		"Taşınabilir bir Çalışma Masasına mı ihtiyacın var? Taşınabilir bir Demirci Masasına ne dersin? "
 		""
-		"&l&8Crafting On A Stick&r en sevdiğin üretim istasyonlarından bazılarının taşınabilir versiyonlarını ekliyor! Bu, oyunun başlarında sahip olunması gereken bir şey."
+		"&l&8Çubukta Üretim&r en sevdiğin üretim istasyonlarından bazılarının taşınabilir versiyonlarını ekliyor! Bu, oyunun başlarında sahip olunması gereken bir şey."
 	]
 	quest.0790D3BB481162A6.quest_subtitle: "Daha Az Yerleştirme, Daha Fazla Üretim"
-	quest.0790D3BB481162A6.title: "Üretim... Çubuk üzerinde!"
+	quest.0790D3BB481162A6.title: "Üretim... Çubukta!"
 	quest.0C856BBB1679A7DD.quest_desc: ["Bu sayfada, yolculuğunda size yardımcı olacak bazı yararlı eşyalar ve bilgiler bulacaksın!"]
 	quest.0C856BBB1679A7DD.quest_subtitle: "Ve Diğer Faydalı Eşyalar!"
 	quest.0E9CE6241CDBC420.quest_desc: ["&9Ranged Pump&r o kadar özel ki kendi moduna sahip! \\n\\n&9Pump&r altındaki &9Su Kaynaklarını&r toplayacak ve onları Taş ile değiştirecektir. \\nGerçi çalışması için Enerji gerekiyor ama buna değer, çok geniş bir menzili var! \\n\\nİçinde toplanan &9Suyun&r Borularla dışarı atılması gerekecektir."]
 	quest.0F8F37D7E12078F5.quest_subtitle: "Tüm ipuçlarını tamamla!"
 	quest.219AA017149C36E2.quest_desc: ["Trapped Trader Carpet'lar, yakınında beliren Seyyar Tüccarları anında öldürecektir!\\n\\nBunlar tüm paketteki en iyi eşyalar olabilir."]
 	quest.219AA017149C36E2.quest_subtitle: "Artık Sinir Bozucu Tüccarlar Yok!"
-	quest.28E60192912BEBAD.quest_desc: ["&l&2Vanilla&r'da Köylülerle uğraşmak gerçekten sinir bozucu olabiliyor. Ticaret yapmak hiç de kolay değil ve mesleklerle uğraşmak bazen zor olabilir.\\n\\n&l&2Easy Villagers&r tüm bunlarla başa çıkmayı çok daha kolay hale getirecek bir mod! Yeni başlayanlar için, bir köylüye eğilip sağ tıklayarak onu alabilirsin. Daha sonra kolayca dünyaya veya &l&2Easy Villager&r modundaki belirli bloklara yerleştirebilirsin!\\n\\nModun sunduğu blokları görmek için JEI'de &d@EasyVillagers&r yazarak arama yapabilirsin!"]
+	quest.28E60192912BEBAD.quest_desc: ["&l&2Vanilla&r'da Köylülerle uğraşmak gerçekten sinir bozucu olabiliyor. Takas tekliflerini yenilemek hiç de kolay değil ve mesleklerle uğraşmak bazen zor olabilir.\\n\\n&l&2Easy Villagers&r tüm bunlarla başa çıkmayı çok daha kolay hale getirecek bir mod! Yeni başlayanlar için, bir köylüye eğilip sağ tıklayarak onu alabilirsin. Daha sonra kolayca dünyaya veya &l&2Easy Villager&r modundaki belirli bloklara yerleştirebilirsin!\\n\\nModun sunduğu blokları görmek için JEI'de &d@EasyVillagers&r yazarak arama yapabilirsin!"]
 	quest.28E60192912BEBAD.quest_subtitle: "Köylüler, artık daha da kolaylaştırıldı"
-	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Jetpack&r'ler etrafta dolaşmanın sevilen bir yöntemidir. \\n\\nBunları yapmaya başlamak için &6Wood Jetpack&r ile başlaman gerekecek! Bu, &5Creative Jetpack&r'e kadar yükseltilebilir. \\n\\nBirçok çeşidi olsa da her biri aynı şekilde çalışır. Hepsi Göğüs Zırhı Yuvana, Sırt Curio'na veya Curio Curio'na yerleştirilebilir. \\n\\nAyrıca hepsinin çalışması için FE'ye ihtiyacı vardır, onları şarj etmek için herhangi bir Eşya Şarj Cihazını kullanabilirsin! Uçmak için FE kullanırlar ve evet, Enerjin biterse düşersin. \\nUçmak için Motorunu (V) açman gerekecek, ardından Boşluk'u basılı tuttuğunda yukarı uçacak ve bıraktığında düşeceksin. \\n\\nDüşmekten hoşlanmıyorsan, Hover'ı (Tuş Bağlantısı yok) açabilirsin, ayarlandığında aynı yükseklikte Uçacaksın; (Boşluk) ile daha yükseğe ve (Shift) ile daha alçağa gidebileceksin. \\n\\nNe kadar hızlı uçacağını ayarlamak için Gaz Ayarını(Throttle) değiştir. Azaltmak için varsayılan olarak (,) ve artırmak için varsayılan olarak (.) kullanılabilirsin!"]
-	quest.3B4BF42C55C8BBBF.quest_desc: ["Bir şey kırarken blokların uzanamayacağın bir yere düşmesinden hoşlanmıyor musun? \\n\\nArtık endişelenmene gerek yok çünkü &4Magnet&r'ler var! Etkinleştirmek için &4Magnet&r'i tutarken Sağ Tıklaman yeterli. Ardından, 5 Blok Yarıçapındaki tüm düşen Eşyalar ve Bloklar sana gelecektir. \\n\\nAyrıca &4Magnet&r'i kullanmaya devam etmek için Curios'a da takabilirsin! \\n\\nEğer &4Magnet&r'i kullanmaya devam etmek istemiyorsan (bunun Yaratık Çiftliği yakınlarında olduğunu düşünüyorum), devre dışı bırakmak için tekrar Sağ Tıklaman yeterli olacaktır. \\n\\nAyrıca menzilini artırmak için yükseltilebilir!"]
-	quest.47043AF7D1FABC43.quest_desc: ["Buradaki en yararlı ipucu muhtemelen &bDis-Enchanting Table&r'dır. \\n\\nSol Yuvaya bir Büyülü Eşya ve Orta Yuvaya bir Kitap koyman yeterlidir. Ardından, Büyüler Kitap biçiminde Sağ Yuvaya gidecektir! \\n\\nBüyüleri bölmek için Eşya yerine Büyülü Kitaplar da kullanabilirsin."]
+	quest.32ECD93A8F2FAB8F.quest_desc: ["&6Sırt Roketleri&r etrafta dolaşmanın sevilen bir yöntemidir. \\n\\nBunları yapmaya başlamak için &6Wood Sırt Roketi&r ile başlaman gerekecek! Bu, &5Creative Sırt Roketine&r kadar yükseltilebilir. \\n\\nBirçok çeşidi olsa da her biri aynı şekilde çalışır. Hepsi Göğüs Zırhı Yuvana, Sırt Curio'na veya Curio Curio'na yerleştirilebilir. \\n\\nAyrıca hepsinin çalışması için FE'ye ihtiyacı vardır, onları şarj etmek için herhangi bir Item Charger'ı kullanabilirsin! Uçmak için FE kullanırlar ve evet, Enerjin biterse düşersin. \\nUçmak için Motorunu (V) açman gerekecek, ardından Boşluk'u basılı tuttuğunda yukarı uçacak ve bıraktığında düşeceksin. \\n\\nDüşmekten hoşlanmıyorsan, Hover'ı (Tuş Bağlantısı yok) açabilirsin, ayarlandığında aynı yükseklikte Uçacaksın; (Boşluk) ile daha yükseğe ve (Shift) ile daha alçağa gidebilirsin. \\n\\nNe kadar hızlı uçacağını ayarlamak için Gaz Ayarını değiştir. Azaltmak için varsayılan olarak (,) ve artırmak için varsayılan olarak (.) kullanabilirsin!"]
+	quest.3B4BF42C55C8BBBF.quest_desc: ["Bir şey kırarken blokların tam uzanamayacağın bir yere düşmesinden nefret etmiyor musun? \\n\\nArtık endişelenme; &4Magnet&r'lerimiz var! Etkinleştirmek için &4Magnet&r'i elinde tutarken sağ tıklaman yeterli. Sonra 5 blok yarıçapındaki bütün yere düşmüş eşyalar ve bloklar sana gelir. \\n\\nKullanmaya devam etmek için &4Magnet&r'i Curios yuvasına da takabilirsin! \\n\\n&4Magnet&r'i kullanmayı sürdürmek istemiyorsan (ben bunu yaratık çiftliklerinin yakınında yaşıyorum), devre dışı bırakmak için onunla tekrar sağ tıkla. \\n\\nMenzilini artırmak için de yükseltilebilir!"]
+	quest.47043AF7D1FABC43.quest_desc: [
+		"Eşyaların üzerindeki büyüleri kitaplara aktarmanın birçok yolu var. Bu görev, bu yöntemlerin birçoğuna odaklanacak.\\n\\n&cSuper Factory Manager&r: Ekipmanının büyüsünü kaldırmak için aklıma gelen en ucuz yollardan biri; hiçbir &aTecrübe&r maliyeti yok. Büyülü eşyanı ve bir sürü kitabı bir &5Obsidiyen&r bloğunun üzerine at, ardından düşen bir &8Örsün&r büyülü eşyanın ve kitapların üzerine inmesini sağla.\\n\\n&6Draconic Evolution Büyü Bozucu&r: Büyülü bir eşyadan kitaba aktarılacak belirli bir büyüyü seçmeni sağlar. &aTecrübe&r tüketir."
+		"{@pagebreak}"
+		"&5&lApothic Enchanting Kitapları&r: Örste kullanıldıklarında büyülü eşyanın bütün büyülerini çıkarırlar.\\n&8Hurda Kitabı&r, eşyanın büyülerinin yalnızca yarısını çıkarır ve bu sırada eşyayı yok eder.\\n&8Üstün Hurda Kitabı&r, eşyanın bütün büyülerini çıkarır ve bu sırada eşyayı yok eder.\\n&8Çıkarma Kitabı&r, eşyanın bütün büyülerini çıkarır ve bu sırada eşyayı sağlam tutar.\\nBu kitaplara nasıl güç aşılayacağını öğrenmek için &5&lApothic Enchanting&r bölümüne göz at.\\n\\n&bIndustrial Foregoing Büyü Çıkarıcı&r: Otomatik büyü kaldırma için önerilir. Makineye büyülü bir eşya ve kitaplar yerleştir; makine eşyanın büyülerini çıkarır. İstersen büyüleri bunun yerine &aÖze&r de dönüştürebilirsin.\\n\\n&5Actually Additions Lens of Disenchanting&r: Bu lensler bir Atomic Reconstructor'a takılır. Atomic Reconstructor'ın yaydığı lazerin önüne büyülü bir eşya ve tek bir kitap at; eşyadaki tek bir büyüyü kitaba aktarır."
+	]
 	quest.5EE945A1185E8336.quest_desc: ["&l&7Functional Storage&r, bir eşyadan birkaç istif tutabilen &7Çekmeceler&r ekler. Bunlar daha da fazla istif tutmak için yükseltilebilir!\\n\\nBu Kırık Taş ve Tohum gibi çok fazla elde ettiğin eşyalar için harikadır!"]
-	quest.637981B64BBE0D92.quest_desc: ["&aCharging Station&r, Oyun Başlangıcında çok faydalı Bloktur. \\n\\nAçıkça Eşyaları şarj etmek için kullanılır. FE şeklinde Enerji üretmek için ya Enerjiyi Boruyla aktar ya da Ocak Yakıtı kullan. \\n\\nArdından, şarj edilmesi gereken herhangi bir Eşyayı en Sağ Yuvaya koyabilirsin."]
-	quest.6E17595887A051C2.quest_desc: ["&l&2Modlu Minecraft&r bizi yeni Köylü Meslekleri ile tanıştırıyor! \\n\\nDemirci Örsü: &5Sanayici&r \\n\\nŞarj Cihazı: &bFluix Araştırmacısı&r \\n\\nGelişmiş Arı Kovanı: &6Arıcı&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nEsrarengiz Çekirdek: &dGölgeli Sihirbaz&r \\n\\nToplayıcı Masası: &aForager&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nEngineer's Workbench: &7Gunsmith&r \\nBeyaz Sancak: &7Outfitter&r \\nEngineer's Circuit Workbench: &7Electrician&r \\nEngineer's Crafting Table: &7Machinist&r \\nTurntable: &7Structural Engineer&r \\n\\nCharging Station: &4Pressure Mechanic&r \\n\\nSaw: &8Carpenter&r"]
-	quest.6E17595887A051C2.title: "Daha Fazla Meslekler"
-	quest.70B6C9409AE69284.quest_desc: ["Doğa'nın Pusulası sana arayabileceğin biyomların bir listesini verir.\\n\\nBir biyom seç, ardından 'Ara'ya bas. Sol üstte bazı bilgiler göreceksin ve pusula, biyomun yönünü gösterecektir.\\n\\nExplorer's Compass da aynı şekilde çalışır ancak biyomlar yerine yapılar için kullanılır."]
+	quest.637981B64BBE0D92.quest_desc: ["&aŞarj İstasyonu&r, Oyun Başlangıcında çok faydalı Bloktur. \\n\\nAçıkça Eşyaları şarj etmek için kullanılır. FE şeklinde Enerji üretmek için ya Enerjiyi Boruyla aktar ya da Ocak Yakıtı kullan. \\n\\nArdından, şarj edilmesi gereken herhangi bir Eşyayı en Sağ Yuvaya koyabilirsin."]
+	quest.6E17595887A051C2.quest_desc: ["&l&2Modlu Minecraft&r bizi yeni köylü meslekleriyle tanıştırıyor! \\n\\nŞarj Cihazı: &bFluix Araştırmacısı&r \\n\\nGelişmiş Arı Kovanı: &6Arıcı&r \\n\\nCoffee Maker: &9Engineer&r \\n\\nEsrarengiz Çekirdek: &dGölgeli Sihirbaz&r \\n\\nPowered Rolling Machine: &eCartman&r \\nManual Rolling Machine: &eTrackman&r \\n\\nMühendis'in Çalışma Tezgahı: &7Silahçı&r \\nBeyaz Sancak: &7Teçhizatçı&r \\nMühendis'in Devre Çalışma Tezgahı: &7Elektrikçi&r \\nMühendis'in Çalışma Masası: &7Makinist&r \\nDöner Tabla: &7Yapı Mühendisi&r \\n\\nCharging Station: &4Pressure Mechanic&r \\n\\nSaw: &8Carpenter&r\\n\\nPC: &cPoké Ma&rrt Trader\\n\\nŞifa Makinesi: &dNurse&r"]
+	quest.6E17595887A051C2.title: "Daha Fazla Meslek"
+	quest.70B6C9409AE69284.quest_desc: ["Doğa'nın Pusulası sana arayabileceğin biyomların bir listesini verir.\\n\\nBir biyom seç, ardından 'Ara'ya bas. Sol üstte bazı bilgiler göreceksin ve pusula, biyomun yönünü gösterecektir.\\n\\nKaşif'in Pusulası da aynı şekilde çalışır ancak biyomlar yerine yapılar için kullanılır."]
 	quest.70B6C9409AE69284.quest_subtitle: "Biyomları/Yapıları Bulmaya Yardımcı Olur"
 	quest.70B6C9409AE69284.title: "Arama İçin Pusulalar"
 	quest.722978AC0C1B2649.quest_desc: ["Sonsuz &9suyu&r otomatikleştirmek için kolay eşya. \\n\\nDaha fazla &9suya&r mı ihtiyacın var? Bir tane daha yap!"]
 	quest.722978AC0C1B2649.quest_subtitle: "Reaktör Soğutucusu olarak kullanılabilir"
 	quest.722978AC0C1B2649.title: "Sonsuz &9Su&r"
-	quest.7A514E27E1A7FE32.quest_desc: ["Elmaslar ayrıca &l&cBuilding Gadgets&r modunu kullanarak inşa etmemize yardımcı olacak bazı harika araçlar oluşturmamızı sağlar.\\n\\nBunlar daha büyük üsler inşa etmene veya &cDestruction Gadget&r kullanarak yer açmana yardımcı olacak harika aletlerdir."]
+	quest.7A514E27E1A7FE32.quest_desc: ["Elmaslar, &l&cBuilding Gadgets&r modunu kullanarak inşa etmemize yardımcı olacak harika cihazlar üretmemizi de sağlar.\\n\\nBunlar daha büyük üsler inşa etmek veya &cYok Etme Aleti&r kullanarak alan temizlemek için harika araçlardır."]
 	quest.7EC8814940C4C3D7.quest_desc: ["Küçülmek için bu eşyayı kullan. Otomasyon üzerinde çalışmak için yararlı ve aynı zamanda genel olarak eğlenceli."]
 	quest.7EC8814940C4C3D7.quest_subtitle: "Tatlım, Kendimi Küçülttüm"
 	task.0D5203048B6E068C.title: "Trapped Trader Carpet'lar"
@@ -35,4 +39,40 @@
 	task.3DC008A578A93CCF.title: "İpuçları ve Püf Noktaları"
 	task.42DA8E971B27ACED.title: "İpuçları Verildi"
 	task.58E3131A3EA2661E.title: "Pusulalar"
+	quest.0152938EE5651409.quest_desc: ["Bu Görev, AllTheMods Mod Paketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya bir &2Topluluk katılımcısı&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisanslı olduğundan, bu Görevin açık izin alınmadan &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	quest.0E9CE6241CDBC420.title: "&l&9Ranged Pump"
+	quest.28E60192912BEBAD.title: "&l&2Easy Villagers"
+	quest.32ECD93A8F2FAB8F.title: "&l&6Iron Jetpacks"
+	quest.5EE945A1185E8336.quest_subtitle: "Storage Drawers mı?"
+	quest.5EE945A1185E8336.title: "&l&7Functional Storage&r"
+	quest.637981B64BBE0D92.title: "&l&aCharging Gadgets"
+	quest.7EC8814940C4C3D7.title: "Personal Shrinking Device"
+	task.47A1F59A538E3C4B.title: "Building Gadgets"
+	task.4AEB792F6A939B3A.title: "Tüm hakları saklıdır"
+	task.6038387EA35404CD.title: "Çubukta Üretim"
+	task.6A965CD027BF762F.title: "Tüm hakları saklıdır"
+	quest.159FAAE66F20FB4F.quest_desc: ["&2Arkadaşlık&f, &8Lüks&f ve &dİyileşme&r &cPoké&r Topları, yakalandıktan sonra &cPokémonuna&r yardımcı olur! \\n\\n&2Arkadaşlık Topuyla&r yakalanan &cPokémon&r 150 arkadaşlık puanıyla başlar (bu gerçek arkadaşlıktan çok manipülasyon gibi geliyor!). \\n\\n&8Lüks Toplardaki&r &cPokémonlar&r, diğer &cToplardaki&r &cPokémonlara&r göre iki kat hızlı arkadaşlık kazanır. \\n\\n&dİyileşme Topu&r ise yakaladığın &cPokémonu&r güzel bir &aŞifa Makinesi&r banyosu yapmış gibi iyileştirir. Evet, yalnızca o seferlik; sürekli değil."]
+	quest.159FAAE66F20FB4F.title: "&cPokémonlara&r yardımcı olan &cToplar"
+	quest.1CA43B9A95159AD0.quest_desc: ["Mücevherler, &cPokémon&r yapılarında ve şüpheli bloklarda bulunan eğlenceli eşyalardır. \\n\\n&cPokémonuna&r bir mücevher vererek o türdeki ilk hamlesini güçlendirebilirsin. \\n\\nBir &bWater Gem&r, ilk &bSu hamlesini&r güçlendirir. &cFire Gem&r ilk &cAteş hamlesini&r güçlendirir; diğerleri de aynı şekilde."]
+	quest.23D1F785BACBD39B.quest_desc: ["Bazen &dÇiftleştirmek&r için aradığımız o &dDişi &cPokémonu&r bir türlü bulamayız. \\n\\nÖyleyse neden &bErkeklerden&r birini sihirli bir şekilde &dDişiye&r dönüştürmeyelim! Ya da tam tersini yapmayalım! \\nBir &cPokémona&r &dTransmutation &aOrb&r ile sağ tıklaman yeterli; cinsiyeti değişir. \\n\\nAcaba bunu Ditto üzerinde kullanıp bir Ditta yapabilir misin?"]
+	quest.23D1F785BACBD39B.title: "&dTransmutation &aOrb"
+	quest.3DA07EE81C9E13BF.quest_desc: ["Ball &eSynchronizer&r, bir &cPokémonun&r içinde bulunduğu &cTopu&r değiştirmek için kullanılabilir. \\n\\nBir &cPokémonun&r istediğin &cTopu&r tutmasını sağla; sonra değiştirmek için üzerinde Ball &eSynchronizer&r kullan. Daha önce içinde bulunduğu &cTop&r yok olur... \\n\\nBir &cPokémon&r yakalandıktan sonra avantaj sağlayan &cTopları&r kullanmadığın sürece bunun pek işe yarayacağını sanmıyorum!"]
+	quest.3DA07EE81C9E13BF.title: "Ball &eSynchronizer"
+	quest.3FEFD0340A60DD5F.quest_subtitle: "Bütün püf noktalarını tamamla!"
+	quest.40708C304424C3FE.quest_desc: ["Etrafta çok fazla istenmeyen &4Eğitmen&r mi var? &4Trainer Repel Rod&r ile onlardan kurtul! \\n\\nDoğmayı engellediği alanın büyüklüğünden emin değilim... bana söylemiyor. \\n\\nEn azından &4Trainer Spawner&r'ların çalışmasını engellemiyor."]
+	quest.40708C304424C3FE.title: "&4Trainer Repel Rod"
+	quest.58D3CBB518020833.quest_desc: ["Bu &cPoké&r Toplarının hepsini tek tek sıralamayacağım. \\n\\nBu &cPoké&r Toplarının tamamı, belirli koşullarda bir &cPokémonu&r yakalamak için daha yüksek şans sağlar. \\n\\nYabani &cPokémonun&r istatistiklerinden savaşta geçen süreye, dünyadaki konumdan günün saatine kadar değişen koşullar var. Bu &cPoké&r Toplarının hepsi kendine özgü! \\n\\nAksi belirtilmediği sürece çoğu, bu koşullar sağlanmadığında yalnızca 1x yakalama şansına sahiptir."]
+	quest.58D3CBB518020833.title: "Daha yüksek yakalama şansı sağlayan &cToplar&r"
+	quest.620913A1FF09255F.quest_desc: ["Bu 6 &cPoké&r Topu, diğer bütün &cToplardan&r farklı şekilde fırlatılır. \\n\\n&bAncient Feather Ball&f, &bAncient Wing Ball&f ve &bAncient Jet Ball&r, normal &cPoké&r Topundan çok daha uzağa fırlatılır. \\n\\n&8Ancient Heavy Ball&f, &8Ancient Leaden Ball&f ve &8Ancient Gigaton Ball&r ise normal &cPoké Topu&r kadar uzağa fırlatılmaz. \\n\\n1.5x ve 2x değerleri mesafeyle değil, &cPokémon&r yakalama şansıyla ilgilidir!"]
+	quest.620913A1FF09255F.title: "Farklı şekilde fırlatılan &cToplar&r"
+	task.0B0B4FE92ACE168D.title: "Farklı şekilde fırlatılan toplar"
+	task.14F7981692060FAA.title: "Yeni bir Pokémona yeni numaralar öğretebilirsin!"
+	task.2F4F472A9D461347.title: "İş İstasyonları"
+	task.41D4434AE6ABBE2A.title: "Pokémonlara yardımcı olan toplar"
+	task.59CCC8560F55F743.title: "Daha yüksek yakalama şansı sağlayan toplar"
+	task.7CF36B2DD1136490.title: "Poké Mücevherleri"
+	quest.3B4BF42C55C8BBBF.title: "&l&9Simple &4Magnets"
+	quest.47043AF7D1FABC43.title: "&l&bBüyü Silme Yöntemleri"
+	quest.7A514E27E1A7FE32.title: "&l&cBuilding Gadgets&r"
+	task.279AB1DAAFD60C52.title: "Büyü Silme Yöntemleri"
 }

@@ -1,0 +1,180 @@
+{
+	quest.76BF91F3D73B4E68.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.13DC280F10DD1580.title: "Tüm hakları saklıdır"
+	task.407F0CA54F2E525B.title: "Tüm hakları saklıdır"
+	quest.013065F73A676E7D.quest_desc: ["&3Ancient Vibranium Lid&r, &6Ancient Allthemodium Lid&r ile aynı şekilde yapılır. \\n\\nBir &3Vibranium Lid&r üzerine biraz &6Tumblestone&r at; işte sana bir &3Ancient Vibranium Lid&r!"]
+	quest.013065F73A676E7D.title: "&3Ancient Vibranium Ball Lid"
+	quest.015EC0ACDA0BB5F8.quest_desc: ["&6Half Apricorn&r'un rengi, hangi &bLid&r'i elde edeceğimizi belirler. Üstelik ondan boya da elde ederiz! \\n\\nBir &bBall Lid&r'i eritirsek Blank Ball Lid elde edebiliriz. Bunlar boyanarak başka &bLid'lere&r dönüştürülebilir. \\n\\nElimizdeki bir başka &bLid&r ise Apricorn Lid'dir. Bunu yapmanın birkaç yolu vardır, ancak hepsinde Apricorn ağaçlarından elde edilen Apricorn kütükleri kullanılır. \\n\\nNormal Apricorn kütüklerini Apricorn Lid'e dönüştürmek için ya lazerli bir &8Assembly Line&r ya da bir &cParça Dövücü&r kullan. Diğer bir seçenek de Stamped Apricorn Log üzerinde bir &6Mekanik Testere&r kullanmaktır."]
+	quest.015EC0ACDA0BB5F8.title: "&bBall Lid'ler"
+	quest.04212A285952402C.quest_desc: ["&6Mekanik Testere&r'nin içinden atarak veya güç verip çalıştırdığın bir &eBıçkı Fabrikası&r ya da &cParça Dövücü&r kullanarak kes. Hatta bütün bir &8Assembly Line&r'dan bile geçirebilirsin! Bir de büyü var; büyü her zaman güzeldir. \\n\\nNasıl yaparsan yap, &6Apricorn'larını&r al ve ikiye kes."]
+	quest.04212A285952402C.title: "&6&lAllthemodium&r Metalinden &6Half Apricorn'lar"
+	quest.077216EA10FA4AA4.quest_desc: [
+		"Levhalarının damgalanmış olup olmaması, hangi makineyi kullanabileceğini belirler. \\n\\nDamgalanmışlarsa &7Ball Base'leri&r yapmak için &6Mekanik Pres&r kullanabilirsin. \\n\\nDeğillerse bunları dene!"
+		"{@pagebreak}"
+		"&8Assembly Line&r, eşyaların işlenmesinde birlikte çalışmaları için farklı montaj makinelerini birbirine bağlar. \\n\\nAssembly Line'ımızı oluşturmak için Assembly Controller, Assembly Drill ve giriş ile çıkış birimlerini yerleştir. \\n\\nEşyalar için giriş ve çıkış birimlerinin yanına sandıklar da koyman gerekir. \\n\\nHazır olduğunda Assembly Controller'a biraz basınç ver; hemen çalışmaya başlayacaktır. "
+		"{@pagebreak}"
+		"&5Atomic Forge&r, oldukça gösterişli bir &6&lOritech&r makinesidir. \\n\\n&5Forge&r'u yerleştirip çevresini Makine Kasalarıyla sar. Ardından onu inşa etmek için &5Forge&r'a sağ tıkla. \\n\\n&5Atomic Forge&r normal bir yoldan &cEnerji&r almaz; neden kolay olsun ki? Bunun yerine &2Enderik Lazerler&r gerekir! \\n\\nBir &2Enderik Lazer&r kur, ona güç ver; ardından bir Hedef Belirleyiciyle hem &5Forge&r'a hem de &2Lazere&r Shift + sağ tıklayarak bağlantıyı ayarla."
+	]
+	quest.0785CE63067DBE78.quest_desc: ["&6Allthemodium&f, &3Vibranium&f ve &5Unobtainium&r &cPoké&r topları özel &cToplardır&r; bu yüzden onlara özel &7Mechanism'ler&r gerekir! "]
+	quest.0785CE63067DBE78.title: "&6&lAllthemodium&r Metalinden &7Mechanism'ler"
+	quest.07F142663892007B.quest_desc: [
+		"Yarım parçaları kesmenin 4 yolu aynıdır. Tek yeni yöntem ise..."
+		"{@pagebreak}"
+		"&5Atomic Forge&r! Çok havalı ve düz bir makine. \\n\\nBu kez 8 Makine Kasası gerekiyor. \\n\\n&5Atomic Forge&r normal makineler gibi enerji almaz; bunun yerine enerjinin ona lazerle aktarılması gerekir! \\n\\nBunun için &2Enderik Lazerler&r kullanılır. Bir &2Enderik Lazere&r güç ver; ardından Hedef Belirleyiciyle önce &5Atomic Forge&r'a, sonra &2Enderik Lazere&r Shift + sağ tıkla. \\n\\nÇalışırsa &6Apricorn Halves&r parçalarını içine atıp &6Bits&r elde edebilirsin."
+	]
+	quest.0A7CF61C8500FE26.quest_desc: ["&c&lAncient Origin Ball&r'u yapmanın tek yolu &6&lCreate&r işlemleridir! \\n\\nİlk adım, bir &5Ancient Unobtainium Ball&r'u preste sıkıştırmaktır. \\n\\nSonra Konuşlandırıcıyla üzerine &cOrigin Lid&r yerleştir. Ardından bir &5Unobtainium&f-&6Allthemodium&r Alaşım Külçesi, bir Nether Yıldızı ve bir &5Unobtainium&f-&6Allthemodium&r Alaşım Külçesi daha gelir. \\n\\nSon adım, &c&lAncient Origin Ball&r'umuzu bitirmek için Konuşlandırıcıyla bir Blank Ball Lid yerleştirmektir. \\n\\n&c&lOrigin Ball&r, &5&lUsta Topu&r'nun kadim sürümüdür; artık şık bir &cKırmızı&r renktedir! Çeşitli &e&lPika Star'ları&r üretmek için gerekecektir!"]
+	quest.0A7CF61C8500FE26.title: "&c&lAncient Origin Ball"
+	quest.0CE62B46FD2C48FE.quest_desc: [
+		"Neredeyse diğer bütün adımlarda olduğu gibi, &7Mechanism'lerimizi&r oluşturmanın da birden fazla yolu vardır. \\n\\nBir &7Ball Base&r üzerine önce bir parça, sonra bir &8Şaft&r ve ardından diğer &7Ball Base&r'i yerleştirerek tam bir &7Mechanism&r oluşturmak için &6Konuşlandırıcılar&r kullanabilirsin. "
+		"{@pagebreak}"
+		"&8&lPneumaticCraft&r'ın &7Pressure Chamber&r'ı da var. \\n\\nBir Pressure Chamber Interface, 2 Valve ve Pressure Chamber Wall ya da Glass gerekir. \\n\\nPressure Chamber'a basıncı Interface ile aktarırsın; evet, onu üretmek için basınç gerekir. \\n\\nEşyalar Valve'larla içeri (mavi taraftan) girer ve dışarı (turuncu taraftan) çıkar. \\n\\nWall veya Glass, merkez dışında yapının geri kalanını doldurur. Merkezin boş olması gerekir."
+		"{@pagebreak}"
+		"&cBirleştirici&r (&8Assembly Line&r'dan farklıdır), ayrıntılı 2x2 üretim tariflerimiz için kusursuzdur. \\n\\nÖnce makinemizi yapmalıyız. &cBirleştiriciyi&r 3 Makine Kasasıyla birlikte 1x2x2 düzeninde yerleştir. Ardından onu monte etmek için &cBirleştiriciye&r sağ tıkla. \\n\\nArtık ona biraz &cEnerji&r verebiliriz; o da &7Mechanism'lerimizi&r üretir!"
+	]
+	quest.0CE62B46FD2C48FE.title: "Konuşlandırma"
+	quest.11742FC5C5EDBCBD.quest_desc: ["Artık istediğin hemen her &cTopu&r &l&6Create&r ile yapabilirsin. Bazıları daha pahalı olabilir! \\n\\n&cAncient Ball&r istiyorsan &8Ancient Ball Mechanism&r ve &6Apricorn Wood Lid&r kullanman gerekir. \\n\\nBu &cTopların&r hepsi normal &cToplarla&r tamamen aynıdır; yalnızca onları bulmak yerine kendin yaptın!"]
+	quest.11742FC5C5EDBCBD.title: "&cPoké&r topları!"
+	quest.162955874B77F4F6.quest_desc: ["&bLid'lerimiz&r ve &7Mechanism'lerimiz&r hazır; artık &cPoké&r toplarımızı yapalım! \\n\\nİhtiyacımız olan tek ek eşya bir Blank Lid ve bir &7Demir Çubuk&r. \\n\\nHepsini birleştirmek için &6Konuşlandırıcılar&r, bir &7Pressure Chamber&r veya bir &8Assembly Line&r kullanabiliriz. Hadi ama, artık bunları kullanmayı biliyor olmalısın!"]
+	quest.162955874B77F4F6.title: "Hepsini birleştirerek yapacağımız şey..."
+	quest.1734A0746239B5A2.quest_desc: ["&6Ancient Allthemodium Ball Lid&r, üzerine &6Tumblestone&r eklenmiş normal bir &6Allthemodium Ball Lid&r'dir. \\n\\n2 &6Tumblestone Dust&r ile bunları birleştirmek için bir &7Pressure Chamber&r veya &5Atomic Forge&r kullanabiliriz. \\n\\nDiğer bir seçenek, &9Metalurjik İnfüzer&r kullanarak Lid'e &6Tumblestone Dust&r aşılamaktır. \\n\\nElimizde zaten &6Coating&r varsa Muslukla bu &6Coating&r'i &6Lid&r üzerine damlatabiliriz."]
+	quest.1734A0746239B5A2.title: "&6Ancient Allthemodium Ball Lid"
+	quest.173DE446B07004C8.quest_desc: ["&bGreat Ball of Fire&r'ı yapmak için kendi &bLid&r'i, bir Blank Lid, bir &5Sturdy Mechanism&r ve bir &7Demir Çubuk&r gerekir. \\n\\nSeçtiğin işlemle hepsini birleştirdiğinde sonunda topu elde edersin. \\n\\nBu topun hemen hemen bütün &cPokémon&r türlerinde yakalama çarpanı 2x'tir; ancak &cAteş türlerinde&r 50x, &bSu türlerinde&r ise 0x'tir. \\n\\nEvet, &bMudkip&r yakalamak için pek iyi değil..."]
+	quest.173DE446B07004C8.title: "&bGreat Ball of Fire"
+	quest.179C2D15E2E93CB6.quest_desc: ["Sanki iki gözü varmış gibi görünüyor... \\n\\nİki öfkeli göz..."]
+	quest.179C2D15E2E93CB6.title: "&bGreat Ball of Fire Lid"
+	quest.17FFBED5CC92ACF0.quest_desc: ["Bir &6Konuşlandırıcı&r kullanarak &8Rubber Stamp'leri&r &7Parçaların&r üzerine bastırıp onları damgalayabiliriz! \\n\\n&7Mechanism'leri&r yapmak için bu gerekli olacaktır. \\n\\n&5Sağlam Levha&r, &5Obsidiyen Tozu&r önce üzerine &cLav&r akıtılarak, ardından preslenerek işlenince yapılır; bu işlem iki kez uygulanır!"]
+	quest.17FFBED5CC92ACF0.title: "&7Stamped Nugget'lar"
+	quest.19B6649B049A402A.quest_desc: ["&6Allthemodium&r, &3Vibranium&r ve &5Unobtainium&r. Üç &6AllTheModium&r metali. \\n\\nUmarım bu görevlerden önce kendi görev bölümlerini tamamlamışsındır... \\n\\n&cPoké&r toplarını yapmak için bu külçelerden epey gerekir. Evet, pahalı. \\n\\n&7Mechanism'ler&r için bu külçelerden birkaçını levhaya çevirmelisin ki..."]
+	quest.19B6649B049A402A.title: "&6&lAllthemodium&r Metalleri"
+	quest.1D76272C64F9CBD5.quest_desc: ["&5Ancient Unobtainium Lid&r, &3Vibranium Lid&r için bir yükseltmedir. \\n\\nBir &3Ancient Vibranium Lid&r üzerine bir &5Unobtainium Bloğu&r ve &5Unobtainium Apricorn Bits&r eklemelisin. \\n\\nBu malzemeleri birleştirmek için &5Atomic Forge &fveya &7Pressure Chamber&r kullanabiliriz. Diğer bir seçenek, Muslukla &3Lid&r üzerine bir blok miktarında &5Unobtainium&r akıtıp ardından &5Unobtainium Apricorn Bits&r parçalarını Konuşlandırıcıyla yerleştirmektir."]
+	quest.1D76272C64F9CBD5.title: "&5Ancient Vibranium Ball Lid"
+	quest.1F81408C55EFC5DB.quest_desc: ["Tamam, aslında bunları damgalamak zorunda değilsin. \\n\\nBazıları normal levha olarak kalabilir."]
+	quest.1F81408C55EFC5DB.title: "&6&lAllthemodium&r Metal Levhaları"
+	quest.2CE9AB9D08F1BF37.quest_desc: ["&7Ball Base'ler&r! Evet, &7Çinkonun&r &7Iron Ball Base&r oluşturacağını söylemeliydim; özür dilerim. \\n\\nHer &7Mechanism&r için 2 &7Ball Base&r gerekir. \\n\\nAyrıca &7Mechanism'leri&r oluşturmak için &6Konuşlandırıcılarla&r birlikte başka eşyalar da kullanılır."]
+	quest.2CE9AB9D08F1BF37.title: "&7Ball Base'ler"
+	quest.2E058260BFA30B26.quest_desc: ["&3Ancient Vibranium Ball&r yapmak için bir &cBirleştirici&f, &7Pressure Chamber &fveya &6&lCreate&r kullanabiliriz. \\n\\n&7Pressure Chamber&r ya da &cBirleştirici&r kullanıyorsan &3Ancient Vibranium Mechanism&r, &3Ancient Vibranium Lid&r, Apricorn Lid ve &7Demir Çubuk&r eklemen yeterlidir. \\n\\n&6&lCreate&r fabrikalarında ise &3Mechanism&r ile başla; sonra Konuşlandırıcıyla &3Vibranium Lid&r'i, ardından Apricorn Lid'i yerleştir. Son olarak &3Ancient Vibranium Ball&r'u tamamlamak için &7Demir Çubuğu&r ekle!"]
+	quest.2E058260BFA30B26.title: "&3Ancient Vibranium Ball"
+	quest.369913246ECA136C.title: "Presleme"
+	quest.37F71E88EDF6BA2D.quest_desc: ["&6Half Apricorn'lar&r! &bLid&r yapmanın dışında pek işe yaramazlar... \\n\\nOnlardan çok şey bekliyorduysan üzgünüm."]
+	quest.37F71E88EDF6BA2D.title: "&6Half Apricorn'lar"
+	quest.3C8522C5E8CA5629.quest_desc: ["Bazen istediğimiz belirli bir &cPoké&r topunu yapmak için özel bir &bBall Lid&r gerekir. \\n\\nBunları elde etmek için &6Apricorn Bits&r oluşturacak şekilde bazı &bBall Lid'leri&r kesmeliyiz. \\n\\nBu yüzden &bBall Lid'leri&r &6Testereden&r veya kullanmak istediğin başka bir araçtan geçir!"]
+	quest.3C8522C5E8CA5629.title: "Testereyle Kesme (yine)"
+	quest.3EC2877B9018FF02.quest_desc: [
+		"&6Mekanik Testere&r çoğu &6&lCreate&r makinesi gibi çalışır. \\n\\nOna &dDönme Gücü&r ver; içinden geçen eşyalar ikiye kesilir."
+		"{@pagebreak}"
+		"&eBıçkı Fabrikası&r, &5&lMekanism&r modunun bir fabrika makinesidir. \\n\\nKullanımı çok kolaydır! Ona biraz &cEnerji&r ver, ardından &6Apricorn&r'u makineye koy; onu kesip &6Half Apricorn&r parçalarına ayıracaktır!"
+		"{@pagebreak}"
+		"&8Assembly Line&r'ı çalıştırmak için epey makine gerekir: Assembly Controller, Laser, Input Unit, Export Unit ve Assembly Platform. \\n\\nÇalışmaları için bütün makineler birbirine bitişik ve bağlı olmalıdır. \\n\\nBasıncı Controller alır. Input Unit'in eşya alacağı bir envanter yakında bulunmalıdır; Export Unit'in ise eşyaları koyacağı bir sandığa ihtiyacı vardır. Her şey yolundaysa çalıştığı belirtilir. Değilse Controller sorunu bildirir!"
+		"{@pagebreak}"
+		"&cParça Dövücü&r, bütün açgözlü &6&lOritech&r fabrikaları gibi, yapılmak için Makine Kasalarına ihtiyaç duyar. \\n\\nTam olarak 3 tane. 3 Makine Kasasını ve &cParça Dövücüyü&r yerleştirdikten sonra dövücüyü inşa etmek için ona sağ tıkla. \\n\\nSonrası çok daha kolaydır; ona güç ver ve &6Apricorn'larını&r içine at!"
+		"{@pagebreak}"
+		"Son seçenek &dKesmek Glifi&r. \\n\\nÖnce istediğin büyü biçimini kullan: Dokunmak, Ray, Mermi, Missile; hangisini istersen! \\n\\nArdından &dKesmek Glifi&r'ni seçip ona Hassas ekle. Böylece &dKesmek&r, yere bırakılmış eşyalarda çalışabilir. \\n\\nArtık &6Apricorn'larını&r yere atıp büyüyle vurabilir ve onları sihirli biçimde kesebilirsin."
+	]
+	quest.3F769D575AF8C3CC.quest_desc: ["&6Apricorn Bits&r pek işe yaramaz. Onları yiyemez veya &cPokémonlara&r veremezsin. \\n\\nYalnızca başka &bLid'ler&r yapmak üzere &6Apricorn Bits&r ve boyaları &bBall Lid'lerle&r birleştirmek için &6Konuşlandırıcılar&r kullanabilirsin. "]
+	quest.3F769D575AF8C3CC.title: "&6Apricorn Bits"
+	quest.411EA1CAD3BF6D3C.quest_desc: ["&6Bit&r, Blank Lid ve bir blok miktarında külçe harcadıktan sonra Ball Lid'lerimizi üretebiliriz. \\n\\nBence en havalı görüneni &6Allthemodium&r olanı!"]
+	quest.411EA1CAD3BF6D3C.title: "&6&lAllthemodium&r Metal Lid'leri"
+	quest.427A28BB6FEAAC6C.quest_desc: ["Atıştırmalık ve &6&lAllTheModium&r Metal Lid'lerimizi üretmek için ideal, lokmalık &6Apricorn&r parçaları!"]
+	quest.427A28BB6FEAAC6C.title: "&6&lAllthemodium&r Metalinden &6Apricorn Bits"
+	quest.442227B0C475A142.quest_desc: ["Nasıl elde edersen et... 2 tane gerekir. \\n\\nÜzgünüm! Seni önceden uyarmalıydım."]
+	quest.442227B0C475A142.title: "&6&lAllthemodium&r Metalinden &7Ball Base'ler"
+	quest.46ABFEAF723C7057.quest_desc: ["&6Muhafazalı Fan&r, eğlenceli bir &6&lCreate&r makinesidir. \\n\\nSaat yönünde &dDönme Gücü&r verildiğinde eşyaları ve yaratıkları kendinden uzağa üfler. Saat yönünün tersine döndürüldüğünde ise onları kendine çeker. \\n\\nMerak etme, dahası da var! &6Muhafazalı Fan&r'ın önüne &9Su&r koyarak &6Fanın&r önüne bırakılan eşyaları yıkayabiliriz. \\n\\n&bBall Lid'lerimizi&r yapmak için &6Half Apricorn'larımızı&r yıkayabiliriz."]
+	quest.46ABFEAF723C7057.title: "Toplu Yıkama"
+	quest.4A4CD38007804B1C.quest_desc: ["&5Usta Topu&r'nu elde etmek için &6AllTheModium&r Metal &cPoké&r toplarına ihtiyacımız olacak. \\n\\n&6AllTheModium&r Metal &cPoké&r toplarını elde etmek için &6AllTheModium&r Metal &6Apricorn'lar&r gerekir. \\n\\nBunları elde etmek için de &b&lOther&r'ı ziyaret etmeliyiz."]
+	quest.4A4CD38007804B1C.quest_subtitle: "Other"
+	quest.4A4CD38007804B1C.title: "En iyi &cPoké&r toplarının başlangıcı"
+	quest.52B1A935EBCFA6D0.quest_desc: ["&bGreat Ball of Fire&r'ı yapmak için önceki &7Pressure Chamber&r'ımızı, &6Konuşlandırıcıları&r veya bir &cBirleştiriciyi&r kullanabiliriz. \\n\\n&7Pressure Chamber&r ve &6Konuşlandırıcılar&r hakkında bilgin var. \\n\\n&cBirleştiriciyi&r çalıştırmak için yanına 3 Makine Kasası 1x2x2 biçiminde yerleştirilmelidir. Ona güç verip eşyaları içine atman yeterlidir."]
+	quest.52B1A935EBCFA6D0.title: "Ateşli &cTopumuzu Yapmak"
+	quest.550464B5F7F4F699.quest_desc: ["&6Allthemodium Ball&r, her &cPokémonu&r yakalarken 4x çarpan sağlar. Hiçbir ek şart yok! &aHız Topu&f, &dAşk topu &fve &9Canavar Topu&r dışında çoğu &cPoké&r topunun ulaşabileceği en yüksek çarpan 4x'tir. \\n\\n&3Vibranium Ball&r, her &cPokémonu&r yakalarken 6x çarpan sağlar. Efsaneviler, &cPokémonların&r en iyileridir; elbette en nadirleridir de. \\n\\n&5Unobtainium Ball&r'un çarpanı 10x'tir ve efsanevilerde 30x'e çıkar. Daha iyi olan tek &cPoké topları&r, &4Origin Ball&r ve..."]
+	quest.550464B5F7F4F699.title: "&6Allthemodium &3Vibranium &fve &5Unobtainium&r Topları"
+	quest.5600FEC956AA3752.quest_desc: ["Merak etme, &9Ruh Lavı&r yakın tarihli güncellemelerde yer değiştirmedi! \\n\\n&b&lOther&r'ın yer altı derinliklerinde veya &b&lOther&r'daki Piglin Köylerinde ara."]
+	quest.5600FEC956AA3752.title: "&9Ruh Lavı"
+	quest.5EEEB61899F66962.quest_desc: ["Sevdiğimiz &cPoké&r toplarını yapmak istiyorsak &6&lCreate&r kullanmalıyız! \\n\\nHer şey &7Andezit Alaşımı&r ile başlar! \\n\\nModun nasıl çalıştığını daha iyi anlamak için &6&lCreate&r'ın kendi görev sayfasını takip et."]
+	quest.5EEEB61899F66962.title: "&cPoké&f Topları Yapmak"
+	quest.5F60D0E8559AADB8.quest_desc: ["Ancient Mechanism, normal Mechanism ile neredeyse tamamen aynı şekilde yapılır; tek fark, bir parça yerine bütün bir külçe gerektirmesidir. \\n\\nEvet, daha pahalılar! \\n\\nAncient &6Allthemodium&f, &3Vibranium &fve &5Unobtainium&r toplarını üretmenin tek yolu bunlardır."]
+	quest.60BF91B3640523A4.quest_desc: ["&6Tumblestone&r, &2&lDünyanın&r dört bir yanındaki belirli harabe yapılarında Şüpheli Kum veya Çakıl fırçalanarak bulunur. \\n\\nBiraz elde ettiğinde, &5Ametist&r gibi zamanla büyümesini sağlamak için &cLav &fveya &cMagma&r yanına yerleştirebilirsin. \\n\\nTomurcuklanır; daha büyük olanları hasat ettiğinde daha fazla &6Tumblestone&r düşürür. \\n\\nBazı tarifler &6Tumblestone Coating &fveya &6Dust&r ister. Bunları elde etmek için &6Tumblestone&r'u ezerek &6Tumblestone Dust&r yapmalısın. &6Tumblestone&r'u enjekte etmek için belirli makineleri kullanabilir veya &9Suyla&r bir karıştırıcıda karıştırarak &6Tumblestone Coating&r yapabilirsin."]
+	quest.60BF91B3640523A4.title: "&6Tumblestone"
+	quest.655FA86A410CE27B.quest_desc: ["Önceki görevlerdeki &9Blue Lid'lerimizden&r birini alarak &9Great Ball Lid&r yapabiliriz. \\n\\nBir &9Great Ball Lid&r yapmak için bu &9Blue Lid&r üzerine Konuşlandırıcıyla 2 &cRed Apricorn Bits&r yerleştir. \\n\\nElbette bunu &9Harika Top&r yapmak için kullanabiliriz; ama neden bundan da harika bir &cTop&r yapmayalım! \\n\\nGreater Ball'dan değil, &bGreat Ball of Fire&r'dan söz ediyorum..."]
+	quest.668E99B93D0BC405.title: "&cPoké&r Toplarımızı Bitirmek"
+	quest.68DFC9543F10B906.quest_desc: ["&6Ancient Allthemodium Ball&r'umuzu bir &5Atomic Forge&r, &7Pressure Chamber&r veya &6&lCreate&r fabrikasıyla yapabiliriz. \\n\\nBir &6Ancient Allthemodium Mechanism&r, &7Demir Çubuk&r, Apricorn Lid ve &6Ancient Allthemodium Lid&r gerekir. \\n\\n&7Pressure Chamber&r ile &cBirleştirici&r, bunları şekilsiz üretimle birleştirir; &6&lCreate&r fabrikası farklı çalışır. \\n\\n&6Ancient Allthemodium Mechanism&r ile başlarsın; ardından Konuşlandırıcıyla &6Ancient Allthemodium Lid&r'i, sonra Apricorn Lid'i ve son olarak &7Demir Çubuğu&r yerleştirirsin. "]
+	quest.68DFC9543F10B906.title: "&6Ancient Allthemodium Ball"
+	quest.6A6CD8024A4E9075.quest_desc: ["&b&lOther&r'da &6Apricorn Ağaçları&r bulursun; ancak bunların &6Apricorn&r türü farklıdır! \\n\\n&6Allthemodium &fve &3Vibranium&f &6Apricorn'lar&r! \\n\\n&6Ağaçlar&r normal &6Apricorn Ağaçları&r gibi davranır. Parlak &6Apricorn'ları &f&6Ağaçtan&r koparabilir, odunu için ağacı kesebilir ve daha fazla &6Apricorn Ağacı&r için yeniden dikebilirsin.\\n\\n&6Allthemodium &fve &3Vibranium&f &6Apricorn'lar&r topladıktan sonra, sonuncusu olan &5Unobtainium için bir Poké Mart Trader ile takas yapabilirsin."]
+	quest.6A6CD8024A4E9075.title: "&6&lAllthemodium&r Metalinden &6Apricorn'lar"
+	quest.6CA0AA9AD39EE0B1.quest_desc: ["&cAncient Origin Ball Lid&r, basit bir &cRed Pokeball Lid&r ile başlar. \\n\\n1. Konuşlandırıcıyla üzerine &cNetherit Hurdaları&r yerleştir. \\n2. Muslukla içine &cLav&r akıt. \\n3. Presle. \\n4. Muslukla içine &6Tumblestone&r akıt. \\n5. Muslukla içine &bLight Tumblestone&r akıt. \\n6. Muslukla içine &8Dense Tumblestone&r akıt. \\n\\nArdından işlemi bir kez daha tekrarla; &cLid&r'ini elde edeceksin!"]
+	quest.6CA0AA9AD39EE0B1.title: "&cAncient Origin Ball Lid"
+	quest.6CC2B540EE37079E.quest_desc: ["Damgala! \\n\\nRubber Stamp hakkında bilgi için bütün &cPoké&r toplarının görevlerine bak. \\n\\nRubber Stamp gibi bir eşyayı vermek için &6Konuşlandırıcının&r üstüne veya eline sağ tıklayabilirsin. Ardından çalışırken bu damgayı altındaki eşyalara uygular. \\n\\nDiğer bir seçenek de &7CNC Stamper&r! Aynı işi daha kolay yapmak için &cEnerji&r kullanan bir &5&lMekanism&r makinesidir."]
+	quest.6E2C4FCFC03BA63E.quest_desc: ["&d&lArs Nouveau&r büyüsüyle &5Unobtainium&r ve &6Allthemodium&r'u tek bir alaşım külçesinde birleştirebiliriz! \\n\\nBunun için birkaç &d&lArs&r bileşeni gerekir. Ritüeli tamamlamak için bir &dBüyüleyici Aparat&r ve 1000 &5Kaynak&r gereklidir. \\n\\nRitüelde ayrıca &9Su&f, &aToprak&f, &eHava &fve &cAteş&r Özleri gerekir. Bunların hepsi çeşitli &d&lArs&r eşyalarıyla üretilir. \\n\\n&ePiglich Kalpleri&r de gerekir. Artık &ePiglich'leri&r öldürmüyoruz; artık onlara &ePiglichu&r deniyor ve onları köle olarak yakalıyoruz. \\n\\nBir &ePiglichu&r'yu &cPoké&r topunda yakalayıp bir Pasture'a koy. Ardından rastgele &ePiglich Kalpleri&r üretir. \\n\\nSon eşyalarımız &5Unobtainium&r ve &6Allthemodium&r Külçeleri. Her şey hazır olduğunda bunları birleştirip alaşımımızı elde ederiz!"]
+	quest.6E2C4FCFC03BA63E.title: "&5Unobtainium&f-&6Allthemodium&r Alaşım Külçesi"
+	quest.71436F63681DC98D.quest_desc: ["&cPokémonun&r seviyesi, türü, nadirliği vb. ne olursa olsun &5&lUsta Topu&r onu yakalar (daha önce yakalanmamışsa). \\n\\n&6&lATM Yıldızı&r'nı üretmek için de vazgeçilmezdir!"]
+	quest.71436F63681DC98D.title: "&5&lUsta Topu"
+	quest.719739C46C9296DB.quest_desc: ["&bGreat Ball of Fire Lid&r'i yapmanın 3 yolu vardır. En basiti &6&lCreate&r kullanmaktır. \\n\\n&9Great Ball Lid&r'i bir &bMusluğun&r altına yerleştir; üzerine bir kova miktarında &9Ruh Lavı&r döksün. \\n\\nBir &dRafineri&r ve 9 Makine Kasasını vurgularla gösterilen düzende yerleştirerek &dRafineri&r de kurabiliriz. \\n\\nBaşlatmak için &dRafineriye&r sağ tıklaman yeterlidir. Ardından kabloyla &cEnerji&r, boruyla &9Ruh Lavı&r verip bir &9Great Ball Lid&r koyduğunda &bGreat Ball of Fire Lid&r'imizi yapabiliriz. \\n\\nBir kova miktarında sıvı ölçmek çok zorsa bunun yerine Pressure Chamber yap. Orada &bGreat Ball of Fire Lid&r yapmak için &9Ruh Lavı Kovası&r ile &9Great Ball Lid&r'i birleştirebilirsin."]
+	quest.719739C46C9296DB.title: "Yakmak: &9Great Ball Lid'imiz"
+	quest.738022A90A534871.quest_desc: [
+		"&bLid'lerimizi&r üretmek için Blank Lid, &6Apricorn Bits&r ve bir blok miktarında külçe gerekir. \\n\\nAyrıca önceki görevdeki &8Assembly Line&r'ı, &6&lCreate&r ile &bMuslukları&r ve &6Konuşlandırıcıları&r veya bir &7Pressure Chamber&r kullanmalıyız."
+		"{@pagebreak}"
+		"&6&lCreate&r ile, Blank Lid üzerine külçenin 810mB'lik miktarını dökmek için bir &bMusluk&r kullanmalıyız. Bu, 9 külçeye eşittir. \\n\\nArdından Lid'i yapmak için &6Konuşlandırıcıyla&r Lid üzerine &6Apricorn Bit&r yerleştir!"
+		"{@pagebreak}"
+		"&7Pressure Chamber&r, tıpkı &8Assembly Line&r gibi &8&lPneumatic Craft&r modundandır. \\n\\n&7Pressure Chamber&r çoklu blok bir makinedir. Büyük kısmını oluşturmak için Pressure Chamber Wall veya Glass kullanılır. Valve'lar basınç alırken Interface'ler envanterlerden eşya alıp çıkarır. \\nMavi yüz &7Pressure Chamber&r'ın dışındaysa giriş budur. Turuncuysa çıkıştır!"
+	]
+	quest.7988678881B034C2.quest_desc: ["&5Ancient Unobtainium Lid&r farklı yapılsa da &5Ball&r öyle değildir. \\n\\n&cBirleştirici&f, &7Pressure Chamber &fveya &6&lCreate&r! \\n\\n&5Ancient Mechanism&r, Lid'ler ve &7Demir Çubuk&r."]
+	quest.7988678881B034C2.title: "&5Ancient Unobtainium Ball"
+	quest.7BFF76B27D398E62.quest_desc: ["Çok tuhaf bir eşya seçkisiyle &8Rubber Stamp&r üretebiliriz! \\n\\nİşin komiği, onu üretmek için &6&lCreate&r gerekmez; yalnızca kullanmak için gerekir. \\n\\nAma eşyalara damgaladığımız sembolün ne olduğunu merak ediyorum..."]
+	quest.7DE2BE7BE664635D.quest_desc: ["Her &7Mechanism&r farklı bir kademe &cPoké&r topu yapar. \\n\\n&6Bakır&r, standart &cPoké&r topları ile &aSafari&r ve &dİyileşme Topu&r yapar. \\n\\n&7Demir&r, &9Harika Top&r ve &3Ağ&r ile &bDalış Topu&r gibi birkaç başka top yapar. \\n\\n&ePirinç&r, &eUltra Top&r, &dAşk&r ve &6Lüks Top&r ile birkaç top daha yapar. \\n\\n&5Sturdy Ball Mechanism&r ise &cRüya&r ve &9Canavar Topu&r yapar!"]
+	quest.7DE2BE7BE664635D.title: "&7Mechanism'ler"
+	task.0C5A61D2FABC7C9D.title: "Half Apricorn'lar"
+	task.0CA10BC8DFEC267E.title: "Testereler, Kesiciler vb."
+	task.0F92799F023ADC68.title: "Poké Topları"
+	task.1488109EDE4976CA.title: "Testereler, Kesiciler ve Atomic Forge'lar mı?"
+	task.193A87741AB9481E.title: "Great Ball Lid'imizi Yakmak"
+	task.2444CD1A3A139F25.title: "Allthemodium Metalinden Apricorn Bits"
+	task.288F69BFE9DBC8DD.title: "Allthemodium Metalinden Ball Base'ler"
+	task.29716E4C600DC1DE.title: "Testereler, Kesiciler vb."
+	task.2A53CCA1A4B2C0EB.title: "Presler, Matkaplar ve Atomic Forge mu?"
+	task.2D41E9AF59EC8761.title: "Allthemodium Metalinden Apricorn'lar"
+	task.2E6A83C5AAD05858.title: "Allthemodium Metal Lid'leri"
+	task.319EDB30E4661EBC.title: "Stamped Nugget'lar"
+	task.36E25BD0A9C9F256.title: "Ball Lid'ler"
+	task.3CF29F07EC67E0C3.title: "Hepsini Bir Araya Getirmenin Yolları"
+	task.3DB2FA49FDFC7C5C.title: "Birleştirme Yolları"
+	task.3DC690209559396D.title: "Hepsini Monte Etmenin Yolları"
+	task.407DD09AFFF17D63.title: "Mechanism'ler"
+	task.44EC46F0A12902A8.title: "Ball Base'ler"
+	task.4FAED006939CFA76.title: "Allthemodium Metalinden Half Apricorn'lar"
+	task.52DE3D85204A9E38.title: "Ancient Mechanism'ler"
+	task.6360546CFC9063DE.title: "Hepsini Monte Etmenin Yolları"
+	task.6806B1C9835081DC.title: "Testereler, Kesiciler vb."
+	task.689EBF2609425BBD.title: "Mechanism'ler"
+	task.6E044F505C894D55.title: "Damgalama Makineleri"
+	task.6EF7ED974421B69D.title: "Poké Toplarımızı Bitirmek"
+	task.707B96130E3A0026.title: "Allthemodium Metal Levhaları"
+	task.711831515BEC4995.title: "Allthemodium Metalleri"
+	task.72A812162203AFAE.title: "Apricorn Bits"
+	task.77F0DB74FE6EAF02.title: "Presler, Matkaplar ve Atomic Forge mu?"
+	task.7BFD456AF26F90D8.title: "Ateşli Topumuzu Yapmak"
+	quest.369913246ECA136C.quest_desc: [
+		"Levhalarının damgalanmış olup olmaması, hangi makineyi kullanabileceğini belirler. \\n\\nDamgalanmışlarsa &7Ball Base'leri&r yapmak için &6Mekanik Pres&r kullanabilirsin. \\n\\nDeğillerse bunları dene!"
+		"{@pagebreak}"
+		"&8Assembly Line&r, eşyaların işlenmesinde birlikte çalışmaları için farklı montaj makinelerini birbirine bağlar. \\n\\nAssembly Line'ımızı oluşturmak için Assembly Controller, Assembly Drill ve giriş ile çıkış birimlerini yerleştir. \\n\\nEşyalar için giriş ve çıkış birimlerinin yanına sandıklar da koyman gerekir. \\n\\nHazır olduğunda Assembly Controller'a biraz basınç ver; hemen çalışmaya başlayacaktır. "
+		"{@pagebreak}"
+		"&5Atomic Forge&r, oldukça gösterişli bir &6&lOritech&r makinesidir. \\n\\n&5Forge&r'u yerleştirip çevresini Makine Kasalarıyla sar. Ardından onu inşa etmek için &5Forge&r'a sağ tıkla. \\n\\n&5Atomic Forge&r normal bir yoldan &cEnerji&r almaz; neden kolay olsun ki? Bunun yerine &2Enderik Lazerler&r gerekir! \\n\\nBir &2Enderik Lazer&r kur, ona güç ver; ardından bir Hedef Belirleyiciyle hem &5Forge&r'a hem de &2Lazere&r Shift + sağ tıklayarak bağlantıyı ayarla."
+	]
+	quest.44F63C35341C3198.quest_desc: [
+		"&6Mekanik Testere&r çoğu &6&lCreate&r makinesi gibi çalışır. \\n\\nOna &dDönme Gücü&r ver; içinden geçen eşyalar ikiye kesilir."
+		"{@pagebreak}"
+		"&eBıçkı Fabrikası&r, &5&lMekanism&r modunun bir fabrika makinesidir. \\n\\nKullanımı çok kolaydır! Ona biraz &cEnerji&r ver, ardından &6Apricorn&r'u makineye koy; onu kesip &6Half Apricorn&r parçalarına ayıracaktır!"
+		"{@pagebreak}"
+		"&8Assembly Line&r'ı çalıştırmak için epey makine gerekir: Assembly Controller, Laser, Input Unit, Export Unit ve Assembly Platform. \\n\\nÇalışmaları için bütün makineler birbirine bitişik ve bağlı olmalıdır. \\n\\nBasıncı Controller alır. Input Unit'in eşya alacağı bir envanter yakında bulunmalıdır; Export Unit'in ise eşyaları koyacağı bir sandığa ihtiyacı vardır. Her şey yolundaysa çalıştığı belirtilir. Değilse Controller sorunu bildirir!"
+		"{@pagebreak}"
+		"&cParça Dövücü&r, bütün açgözlü &6&lOritech&r fabrikaları gibi, yapılmak için Makine Kasalarına ihtiyaç duyar. \\n\\nTam olarak 3 tane. 3 Makine Kasasını ve &cParça Dövücüyü&r yerleştirdikten sonra dövücüyü inşa etmek için ona sağ tıkla. \\n\\nSonrası çok daha kolaydır; ona güç ver ve &6Apricorn'larını&r içine at!"
+		"{@pagebreak}"
+		"Son seçenek &dKesmek Glifi&r. \\n\\nÖnce istediğin büyü biçimini kullan: Dokunmak, Ray, Mermi, Missile; hangisini istersen! \\n\\nArdından &dKesmek Glifi&r'ni seçip ona Hassas ekle. Böylece &dKesmek&r, yere bırakılmış eşyalarda çalışabilir. \\n\\nArtık &6Apricorn'larını&r yere atıp büyüyle vurabilir ve onları sihirli biçimde kesebilirsin."
+	]
+	quest.5B947A01CB2FA378.quest_desc: [
+		"Neredeyse diğer bütün adımlarda olduğu gibi, &7Mechanism'lerimizi&r oluşturmanın da birden fazla yolu vardır. \\n\\nBir &7Ball Base&r üzerine önce bir parça, sonra bir &8Şaft&r ve ardından diğer &7Ball Base&r'i yerleştirerek tam bir &7Mechanism&r oluşturmak için &6Konuşlandırıcılar&r kullanabilirsin. "
+		"{@pagebreak}"
+		"&8&lPneumaticCraft&r'ın &7Pressure Chamber&r'ı da var. \\n\\nBir Pressure Chamber Interface, 2 Valve ve Pressure Chamber Wall ya da Glass gerekir. \\n\\nPressure Chamber'a basıncı Interface ile aktarırsın; evet, onu üretmek için basınç gerekir. \\n\\nEşyalar Valve'larla içeri (mavi taraftan) girer ve dışarı (turuncu taraftan) çıkar. \\n\\nWall veya Glass, merkez dışında yapının geri kalanını doldurur. Merkezin boş olması gerekir."
+		"{@pagebreak}"
+		"&cBirleştirici&r (&8Assembly Line&r'dan farklıdır), ayrıntılı 2x2 üretim tariflerimiz için kusursuzdur. \\n\\nÖnce makinemizi yapmalıyız. &cBirleştiriciyi&r 3 Makine Kasasıyla birlikte 1x2x2 düzeninde yerleştir. Ardından onu monte etmek için &cBirleştiriciye&r sağ tıkla. \\n\\nArtık ona biraz &cEnerji&r verebiliriz; o da &7Mechanism'lerimizi&r üretir!"
+	]
+	quest.668E99B93D0BC405.quest_desc: ["&bLid'lerimiz&r ve &7Mechanism'lerimiz&r hazır; artık &cPoké&r toplarımızı yapalım! \\n\\nİhtiyacımız olan tek ek eşya bir Blank Lid ve bir &7Demir Çubuk&r. \\n\\nHepsini birleştirmek için &6Konuşlandırıcılar&r, bir &7Pressure Chamber&r veya bir &8Assembly Line&r kullanabiliriz. Hadi ama, artık bunları kullanmayı biliyor olmalısın!"]
+}

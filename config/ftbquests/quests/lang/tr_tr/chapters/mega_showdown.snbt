@@ -1,0 +1,61 @@
+{
+	quest.00E4E946891014D9.quest_desc: ["&5Terastallize&r etmek için izin almamız gerekiyor. Neden diye sorma; cevabını ben de bilmiyorum. \\n\\nBu izni bir &5Tera Orb&r takarak alıyoruz. \\n\\nOnu üretmen gerekecek. İşin komik yanı, yalnızca &2&lVanilla&r eşyalarıyla yapılıyor. \\n\\nTakmak için elindeyken sağ tıklayabilir veya aksesuar ekranını kullanabilirsin."]
+	quest.00E4E946891014D9.title: "&5Tera Orb"
+	quest.0CFF4E3560CFFB49.quest_desc: ["Her &cPokémonun&r &bMega&r hâline gelebilmesi için kendisine özel bir &bMega Stone&r gerekir. \\n\\nHangisinin kime ait olduğunu anlamak oldukça kolaydır; genellikle ilgili &cPokémonun&r adının sonuna \"ite\" eklenerek adlandırılırlar. \\n\\nHer biri için bir &bMega Stone&r, 2 Demir Külçesi, bir &bElmas&r ve ilgili &cPokémona&r özel bir eşya gerekir. \\n\\nAyrıca Charizard ve Mewtwo'nun X ve Y olmak üzere iki &bMega&r formu vardır."]
+	quest.0CFF4E3560CFFB49.title: "Belirli Pokémonlara Özel &bMega Stone'lar"
+	quest.117ADB40CE01CE07.quest_desc: ["Nedense &cPokémonlarımızın&r &eZ-Move&r kullanabilmesi için bizim özel &eZ-Ring'ler&r takmamız gerekiyor. \\n\\nNedenini bilmiyorum... Ama üretmek için bir Sparkling Stone ve birkaç başka eşya gerekecek. \\n\\n&eZ-Ring'in&r türü önemli değil; yalnızca görünüşünü değiştirir. En çok &dOlivia'nın Z-Ring'lerini&r seviyorum!"]
+	quest.117ADB40CE01CE07.title: "&eZ-Ring'ler"
+	quest.1690E9F6BBF820D1.quest_desc: ["&cPokémonları &5Terastallize etmek&r için çok sayıda &5Tera Shard&r gerekiyor. \\n\\nBir kese kullanarak çok sayıda &5Tera Shard&r taşımayı kolaylaştıralım! \\n\\nTera Pouch, her &5Tera Shard&r türünden bir yığın tutabilir."]
+	quest.16E0E86A19015F2A.quest_desc: ["&bMega Stone&r'u etkinleştirmek için bir &bMega Bracelet&r gerekiyor. \\n\\nTamam, tamam; hepsinin &bBracelet&r olmadığını biliyorum. \\n\\nBileklik, yüzük, taç; ne olursa! &bMega Slot&r'a uyduğu sürece tak."]
+	quest.16E0E86A19015F2A.title: "&bMega Bracelet'ler"
+	quest.1E01E377A2091AA6.quest_desc: ["Herhangi bir &cPokémon&r yenildiğinde &5Stellar Tera Shard&r düşme ihtimali %1'dir. \\n\\nBir &cPokémon&r üzerinde bunlardan 50 tane kullandığında &5Stellar türüne&r &5Terastallize olur&r. Bunu elde etmenin tek yolu budur. \\n\\n&5Stellar türü&r bütün saldırılar için bir güçlendirme alır! Ancak diğer &5Stellar türlerine&r karşı zayıftır. Neyse ki oldukça nadirdirler."]
+	quest.1E01E377A2091AA6.title: "&5Stellar Tera Shard'lar"
+	quest.23DBBEFCE729AEA3.quest_desc: ["\"Bir yıldıza dilek dilediğinde\" \\n\\n&cPokémonuna&r &cDynamax&r uygulayabileceksin! \\n\\n&cDynamax&r, savaşta &cPokémonunun&r hamlelerinin &cMax&r sürümlerini kullanmak için uygulanır. \\n\\nBoyutunu çok daha fazla büyütür, daha fazla sağlık kazandırır ve hamlelerini daha da güçlü hâle getirir!"]
+	quest.23DBBEFCE729AEA3.title: "Wishing Star"
+	quest.2C272D1D6DE6C0F1.quest_desc: ["Bir &5Tera Orb&r takılıyken aynı türden 50 &5Tera Shard&r'ı &cPokémonunun&r üzerinde kullanarak ona o türü verebilirsin. \\n\\nElbette tür, kullandığın &5Tera Shard'ların&r türüne bağlıdır. \\n\\nBu etki, &cPokémon&r savaşta olduğunda geçerli olur."]
+	quest.2C272D1D6DE6C0F1.title: "&5Terastallize Etme"
+	quest.2E6646301ACD332E.quest_desc: ["&eObservatory&r, içinden dev bir teleskop çıkan yüksek bir yapıdır. \\n\\nİlk katta bir sürü saksı, bir PC ve birkaç veri monitörü bulunur. \\n\\nİkinci katta Şifa Makineleri ve kuşların yaptığı gibi sürekli içinden yürümeye çalıştığım camlar vardır. \\n\\nÜçüncü katta sandıklar, variller ve bir..."]
+	quest.2E6646301ACD332E.title: "&eObservatory"
+	quest.33B301DB0637B6FC.quest_desc: ["Yerin derinliklerinde bir &bMegaroid&r ile karşılaşabilirsin! \\n\\nHayır, fiziksel güçlendirmelerle ilgisi yok... &cPokémonlar&r için olanlar hariç tabii. \\n\\nDemeye çalıştığım şu: Adındaki \"roid\", steroidlerden değil asteroitlerden geliyor! \\n\\n&bMega asteroitinin&r merkezinde Keystone Ore bulunur."]
+	quest.33B301DB0637B6FC.title: "&bMegaroid"
+	quest.3642AF6FE63B1C90.quest_desc: ["Kontrol listemizin üzerinden geçelim. \\n\\n&nPokémon kendi Mega Stone'unu tutuyor mu&r? &aTamam&r! \\n\\n&nSen bir Mega Bracelet takıyor musun&r? &aTamam&r! \\n\\nİkisi de tamamsa savaşta hamlelerinin altında &bMega Evolve&r yazan bir düğme görürsün. Etkinleştirmek için ona tıkla. \\n\\nArdından bir hamle seç; &cPokémonun&r dönüşecektir. \\n\\n&bMega Evolution&r ile birlikte &eZ-Move&r kullanmadığından emin ol; aynı anda yalnızca 1 tanesini kullanabilirsin."]
+	quest.3642AF6FE63B1C90.title: "&bMega Evolution"
+	quest.380C4222BDD65415.quest_desc: ["&cDynamax&r uygulamak için bir bileklik gerekiyor. \\n\\nBir &cDynamax Band&r. \\n\\nTak ki &cPokémonumuza &f&cDynamax&r uygulayabilelim."]
+	quest.380C4222BDD65415.title: "&cDynamax Band"
+	quest.3D6167F673BB5256.quest_desc: ["&bMega Crystal&r'ı bir &bElmas Kazma&r (veya daha iyisi) ile kazdığında bir &bMega Stone&r elde edersin! \\n\\nBunlar tek başına bir şey yapmaz; bunun yerine belirli bir &cPokémon&r için belirli bir &bMega Stone&r üretmekte kullanmamız gerekir. \\n\\nBütün &cPokémonlar&r &bMega&r olamaz; yalnızca bazıları olabilir. Her birinin kendisine özel &bMega Stone&r'a ihtiyacı vardır. Dolayısıyla birden fazla &bMega Pokémon&r istiyorsan birden fazla &bMega Site&r bulman gerekir."]
+	quest.3D6167F673BB5256.title: "&bMega Stone"
+	quest.3FACB48732D14A79.quest_desc: ["Yer altında nadiren bir &bMega Site&r bulabilirsin. \\n\\nAtmosferin çok daha fazla yıprattığı bir &bMegaroid&r'e benzer. \\n\\nİçinde cevherler ve &bMega Crystal&r bulursun."]
+	quest.3FACB48732D14A79.title: "&bMega Site"
+	quest.41CFA175B69E6639.quest_desc: ["&cWishing Weald&r, Well yani kuyu değil. Burada su yok; yalnızca ormanda bir yapı var. \\n\\nYapının merkezinde düşmüş bir yıldız bulunur. \\n\\nBir dilek dile! Ya da kristali bir &bElmas Kazma&r ile kaz."]
+	quest.41CFA175B69E6639.title: "&cWishing Weald"
+	quest.440B61C517B8BD09.quest_desc: ["Bir Fırçayla &eArcheological Site&r yapılarındaki Şüpheli Kumdan eşyalar çıkarabiliriz. \\n\\nElde edebileceğimiz iki nadir eşya Light Sparkling Stone ve Dark Sparkling Stone'dur. \\n\\nÜrettikleri &eZ-Ring'ler&r dışında aralarında fark yoktur. &eZ-Ring'ler&r yalnızca görünüşü değiştirir; etkiyi veya yeteneği değiştirmez."]
+	quest.490A35A715E8E20E.quest_desc: ["Karakterinde bir &cDynamax Band&r takılıysa, yakınında bir &cPower Spot&r varsa ve bir &cPokémonun&r savaşmaya hazırsa &cDynamax&r uygulayabiliriz! \\n\\nKullanabilmek için &cPokémonunun&r daha yüksek bir &cDynamax seviyesinde&r olması gerekmez; yüksek seviye yalnızca hamlesini daha da güçlendirir ve ona daha fazla sağlık verir. \\n\\nSavaşta hamlelerin altındaki &cDynamax&r düğmesini görebilirsin. Hamlelerimizi &cMax Move'lara&r dönüştürmek için ona tıkla!"]
+	quest.490A35A715E8E20E.title: "&cDynamax Uygulama"
+	quest.53A556F14187F399.quest_desc: ["Boş Z-Move! \\n\\nEvet, boş! \\n\\nBelirli bir &eZ-Move&r istiyorsak o &eZ-Move&r'u oluşturmak için onu birkaç eşyayla birlikte üretmemiz gerekir."]
+	quest.53C0C8BCCB804368.quest_desc: ["Artık farklı &eZ-Move'larımız&r var. \\n\\nBazıları yalnızca bir hamleyi daha da güçlendirir; bunlar genellikle Normalium-Z gibi türlerin adını alır. \\n\\nBazıları bir &cPokémonun&r hamlesini &ePikanium-Z&r gibi başka bir hamleye dönüştürür. \\n\\nBirkaçı ise &6Ultranecrozium-Z&r gibi sadece tuhaftır."]
+	quest.53C0C8BCCB804368.title: "&eZ-Move'lar"
+	quest.53F54C6A1EAB9574.quest_desc: ["&eZ-Move&f, &cDynamax&f, &bMega Evolution&f ve &5Terastallize&r kullanmak için 4 yuva doldurmaktan bıktın mı? \\n\\nO hâlde neden &bO&5m&en&ci&r Ring'i denemiyorsun! \\n\\nBu güzelliği o 4 yuvadan herhangi birine tak; &eZ-Ring&f, &cDynamax Band&f, &bMega Bracelet&f ve &5Tera Orb&r işlevlerini tek küçük pakette elde et."]
+	quest.53F54C6A1EAB9574.title: "&bO&5m&en&ci&r Ring"
+	quest.56F6B205855AF7F2.quest_desc: ["&cPokémonun&r yeterince büyük değil mi? Neden &cGigantamax&r kullanmıyorsun! \\n\\nYalnızca bazı &cPokémonlar&r kullanabilir (internette bir listesi var; Charizard ve Eevee de listede). \\n\\nOnlara bir &cMax Soup&r (Urshifu ise bir &cSweet Max Soup&r) yedir; böylece &cG-Max Move&r kullanabilecekler."]
+	quest.56F6B205855AF7F2.title: "&cGigantamax Uygulama"
+	quest.5C34376765740C16.quest_desc: ["&cMax Mushroom&r, yemyeşil mağaralarda yetişir. \\n\\n&cPower Spot&r için gereklidir; ayrıca &cPokémonlar&r için birkaç yiyecek eşyası da üretilebilir. \\n\\n&cDynamax Candy&r ilgili &cPokémonun Dynamax seviyesini&r yükseltir; &cMax Honey&r bir &cMax Move&r'u etkinleştirir; &cMax Soup&r ile de bir &cPokémona&r &cGigantamax&f uygulanır!"]
+	quest.5C34376765740C16.title: "&cMax Mushroom"
+	quest.6309224455079059.quest_desc: ["&5&lMega Showdown&r! &c&lCobble&fmon&r için bir eklenti; bize... bir, iki, üç, dört! &cPokémon&r savaşlarını renklendirmek için dört farklı yol sunuyor. \\n\\nSavaşırken &cPokémonlarımızı&r değiştiren &bMega formları&f, &5Terastallization&f ve &cDynamax&r var. Ayrıca &cPokémonlarımızın&r savaş hamlelerini değiştiren &eZ-Move'lar&r da var. \\n\\n&5Terastallization&r dışında hepsi için yapıları ziyaret etmemiz gerekiyor. \\n\\nBunları kullanmak için belirli aksesuarları da takmamız gerekir. Envanterine bak; sağ üstte karakter görünümünün gösterildiği yerde \"Aksesuar Ekranını Aç\" bulunur. İlgili eşyaları takmak için buraya yerleştireceksin."]
+	quest.6309224455079059.title: "&5&lMega Showdown!"
+	quest.658D2E531DDB116C.quest_desc: ["Güzel takılarını taktın mı? &cPokémonuna&r bir &eZ-Move&r ver; kullanmaya hazır olacağız! \\n\\nAyrıca &cPokémonunun&r ilgili hamleyi bildiğinden ve herhangi bir &bMega Evolution&r kullanmadığından emin ol. &bMega Evolution&r ile &eZ-Move&r birlikte kullanılamaz. \\n\\nSavaşa girdikten sonra hamlelerinin altında bir &eZ-Move&r kullanma seçeneği belirir! \\n\\nBu, hamlelerini güçlendirir veya değiştirir."]
+	quest.658D2E531DDB116C.title: "&eZ-Move'lar&r İş Başında"
+	quest.69B766907C1226C0.quest_desc: ["&cDynamax&r için savaştan en fazla 20 blok uzakta bir &cPower Spot&r gerekir. \\n\\nBunun sana, &cPokémonuna&r veya savaştığın şeye 20 blok mesafe mi olduğunu bilmiyorum... Emin olmak için hepsine yakın ol. \\n\\nBir tane üretmek için Wishing Star ve bir &cMax Mushroom&r gerekecek."]
+	quest.69B766907C1226C0.title: "&cPower Spot"
+	quest.6F59C939D62FA6C8.quest_desc: ["&5Tera Shard'lar&r, vahşi &cPokémonları&r yenerek elde edilen nadir düşen eşyalardır. \\n\\nDüşen eşyanın türünü &cPokémonun&r türü belirler; normal türdeki &cPokémonlar&r Normal Tera Shard, &cAteş türündeki Pokémonlar&r ise &cFire Tera Shard&r düşürür. \\n\\nHer &cPokémonun&r bunları düşürme ihtimali %10'dur. Ayrıca bütün &cPokémonların&r %1 ihtimalle bir &5Stellar Tera Shard&r düşürme olasılığı vardır."]
+	quest.6F59C939D62FA6C8.title: "&5Tera Shard'lar"
+	quest.747580F66BCFB9B0.quest_desc: ["Keystone, &bMegaroid&r'in merkezinde bulunur. Kazmak için bir &bElmas Kazma&r veya daha iyisi gerekir. \\n\\nHer biri yalnızca bir Keystone verir. Neyse ki daha fazlasına ihtiyacımız yok!"]
+	quest.7895490EEBDCF601.quest_desc: ["&eArcheological Site&r, şüpheli bloklarla dolu, kayalık ve oyulmuş bir alandır. \\n\\nGanimet için sandıklar ve saksılar da vardır ama şüpheli bloklar daha havalı!"]
+	quest.7895490EEBDCF601.title: "&eArcheological Site"
+	task.15B5242AD0DAF52A.title: "Tera Shard'lar"
+	task.1CBDF43B0961C245.title: "Belirli Pokémonlara Özel Mega Stone'lar"
+	task.217F7677258AF94F.title: "Z-Ring'ler"
+	task.2391300D60CC0D36.title: "Sparkling Stone'lar"
+	task.25A056981B7F62F0.title: "Mega Bracelet'ler"
+	task.5FEDBD789E019B8D.title: "Z-Move'lar"
+	task.7A4A898E67110B8E.title: "Tera Pouch"
+}

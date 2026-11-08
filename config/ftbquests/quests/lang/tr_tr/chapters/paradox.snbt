@@ -1,0 +1,99 @@
+{
+	quest.20198BF0436AC44B.quest_desc: ["Bu Görev, AllTheMods Modpaketlerinde kullanılmak üzere &6AllTheMods Ekibi&r veya &2Topluluktan bir katkıda bulunan&r tarafından hazırlanmıştır.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r kapsamında lisanslandığından, bu Görevin açık izin olmaksızın &6AllTheMods Ekibi&r tarafından yayınlanmayan hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev bilerek gizlenmiştir, eğer bunu görüyorsanız, düzenleme modundasınız demektir."]
+	task.187FE4187DF2BDAD.title: "Tüm hakları saklıdır"
+	task.40CA123359A44020.title: "Tüm hakları saklıdır"
+	quest.1E6F000000001257.quest_subtitle: "Paldea"
+	quest.1E6F000000001257.title: "Great Tusk"
+	quest.1E6F00000000125B.quest_subtitle: "Paldea"
+	quest.1E6F00000000125B.title: "Scream Tail"
+	quest.1E6F00000000125F.quest_subtitle: "Paldea"
+	quest.1E6F00000000125F.title: "Brute Bonnet"
+	quest.1E6F000000001263.quest_subtitle: "Paldea"
+	quest.1E6F000000001263.title: "Flutter Mane"
+	quest.1E6F000000001267.quest_subtitle: "Paldea"
+	quest.1E6F000000001267.title: "Slither Wing"
+	quest.1E6F00000000126B.quest_subtitle: "Paldea"
+	quest.1E6F00000000126B.title: "Sandy Shocks"
+	quest.1E6F00000000126F.quest_subtitle: "Paldea"
+	quest.1E6F00000000126F.title: "Roaring Moon"
+	quest.1E6F000000001273.quest_subtitle: "Paldea"
+	quest.1E6F000000001273.title: "Koraidon"
+	quest.1E6F000000001277.quest_subtitle: "Paldea"
+	quest.1E6F000000001277.title: "Walking Wake"
+	quest.1E6F00000000127B.quest_subtitle: "Paldea"
+	quest.1E6F00000000127B.title: "Gouging Fire"
+	quest.1E6F00000000127F.quest_subtitle: "Paldea"
+	quest.1E6F00000000127F.title: "Raging Bolt"
+	quest.1E6F000000001285.quest_subtitle: "Paldea"
+	quest.1E6F000000001285.title: "Iron Treads"
+	quest.1E6F000000001289.quest_subtitle: "Paldea"
+	quest.1E6F000000001289.title: "Iron Bundle"
+	quest.1E6F00000000128D.quest_subtitle: "Paldea"
+	quest.1E6F00000000128D.title: "Iron Hands"
+	quest.1E6F000000001291.quest_subtitle: "Paldea"
+	quest.1E6F000000001291.title: "Iron Jugulis"
+	quest.1E6F000000001295.quest_subtitle: "Paldea"
+	quest.1E6F000000001295.title: "Iron Moth"
+	quest.1E6F000000001299.quest_subtitle: "Paldea"
+	quest.1E6F000000001299.title: "Iron Thorns"
+	quest.1E6F00000000129D.quest_subtitle: "Paldea"
+	quest.1E6F00000000129D.title: "Iron Valiant"
+	quest.1E6F0000000012A1.quest_subtitle: "Paldea"
+	quest.1E6F0000000012A1.title: "Miraidon"
+	quest.1E6F0000000012A5.quest_subtitle: "Paldea"
+	quest.1E6F0000000012A5.title: "Iron Leaves"
+	quest.1E6F0000000012A9.quest_subtitle: "Paldea"
+	quest.1E6F0000000012A9.title: "Iron Boulder"
+	quest.1E6F0000000012AD.quest_subtitle: "Paldea"
+	quest.1E6F0000000012AD.title: "Iron Crown"
+	task.1E6F000000001258.title: "Bir Great Tusk Yakala"
+	task.1E6F00000000125C.title: "Bir Scream Tail Yakala"
+	task.1E6F000000001260.title: "Bir Brute Bonnet Yakala"
+	task.1E6F000000001264.title: "Bir Flutter Mane Yakala"
+	task.1E6F000000001268.title: "Bir Slither Wing Yakala"
+	task.1E6F00000000126C.title: "Bir Sandy Shocks Yakala"
+	task.1E6F000000001270.title: "Bir Roaring Moon Yakala"
+	task.1E6F000000001274.title: "Bir Koraidon Yakala"
+	task.1E6F000000001278.title: "Bir Walking Wake Yakala"
+	task.1E6F00000000127C.title: "Bir Gouging Fire Yakala"
+	task.1E6F000000001280.title: "Bir Raging Bolt Yakala"
+	task.1E6F000000001286.title: "Bir Iron Treads Yakala"
+	task.1E6F00000000128A.title: "Bir Iron Bundle Yakala"
+	task.1E6F00000000128E.title: "Bir Iron Hands Yakala"
+	task.1E6F000000001292.title: "Bir Iron Jugulis Yakala"
+	task.1E6F000000001296.title: "Bir Iron Moth Yakala"
+	task.1E6F00000000129A.title: "Bir Iron Thorns Yakala"
+	task.1E6F00000000129E.title: "Bir Iron Valiant Yakala"
+	task.1E6F0000000012A2.title: "Bir Miraidon Yakala"
+	task.1E6F0000000012A6.title: "Bir Iron Leaves Yakala"
+	task.1E6F0000000012AA.title: "Bir Iron Boulder Yakala"
+	task.1E6F0000000012AE.title: "Bir Iron Crown Yakala"
+	quest.1E6F000000001253.quest_desc: ["&8Other&r'ın derinliklerinde gerçeklik yıpranır; uzak geçmişten ve uzak gelecekten yaratıklar sızar.\\n\\nBirini ortaya çıkarmak için Pokémonlarından birine tutması için bir &dPika Star Chunk&r ver ve bir &7Paradox Machine&r tarafından oluşturulan, büyümekte olan bir &5Paradox Entity&r'nin yanına çıkar. Anomali tam boyutuna ulaşıp bu Pokémonu yuttuğunda dünya bükülür ve onun yerini var olmaması gereken bir şey alır. Kadim olanlar Other'da çağrıya cevap verir; mekanik yansımaları ise daha da derinde, Ötesi'nde bekler."]
+	quest.1E6F000000001253.title: "&5Paradox Pokémonlar"
+	quest.1E6F000000001255.quest_desc: ["&8Other&r geçmişle doludur. Buradaki Paradox Pokémonlar &ckadimdir&r; tanıdık türlerin çoktan yok olmuş bir dünyadan çıkarılmış ilkel ve vahşi biçimleridir.\\n\\nPokémonlarından birine tutması için bir Pika Star Chunk ver ve kadim olanları çağırmak için burada bir Paradox Entity'ye yedir."]
+	quest.1E6F000000001255.title: "&cOther - Kadim"
+	quest.1E6F000000001257.quest_desc: ["&cGreat Tusk&r, uzak geçmişten gelen, yeri sarsan vahşi bir yaratıktır. Sivri dişleri ve saf kas gücüyle Donphan'ın ilkel bir yansımasıdır.\\n\\nOnunla yüzleşmek için Other'da bir Paradox Entity'nin Donphan'ı emmesine izin ver."]
+	quest.1E6F00000000125B.quest_desc: ["&dScream Tail&r, kulakları sağır eden bir çığlığa sahip kadim bir Paradox Pokémon'dur. Jigglypuff'ın ilkel bir akrabasıdır ve yuvarlak görünüşünün düşündürdüğünden çok daha vahşidir.\\n\\nOther'da bir Paradox Entity aracılığıyla onunla karşılaş."]
+	quest.1E6F00000000125F.quest_desc: ["&8Brute Bonnet&r, kadim bir Paradox Pokémon'dur; yakınına yaklaşan her şeyin ruhunu tüketen iri ve saldırgan bir mantardır.\\n\\nAmoonguss'un kadim formudur."]
+	quest.1E6F000000001263.quest_desc: ["&dFlutter Mane&r, kadim bir Paradox Pokémon'dur; unutulmuş bir çağdaki Misdreavus'a benzediği söylenen ince, hayaletimsi bir varlıktır.\\n\\nOther'da bir Paradox Entity aracılığıyla onunla yüzleş."]
+	quest.1E6F000000001267.quest_desc: ["&cSlither Wing&r, kadim bir Paradox Pokémon'dur; yanan kanatlarıyla düşmanlarını döven, devasa bir güveye benzeyen vahşi bir yaratıktır.\\n\\nVolcarona'nın kadim formudur."]
+	quest.1E6F00000000126B.quest_desc: ["&eSandy Shocks&r, kadim bir Paradox Pokémon'dur; Magneton'un havada süzülen, demir tozundan oluşmuş ve statik elektrikle çıtırdayan bir yansımasıdır.\\n\\nOther'da onunla karşılaş."]
+	quest.1E6F00000000126F.quest_desc: ["&8Roaring Moon&r, korkutucu bir kadim Paradox Pokémon'dur; Salamence'in en vahşi hâlini yansıttığı söylenen ilkel bir ejderhadır.\\n\\nOther'da bu en üst düzey yırtıcıyı ortaya çıkar."]
+	quest.1E6F000000001273.quest_desc: ["&cKoraidon&r, kadim Paradox Pokémonların efsanevi hükümdarıdır; her türlü arazide hızla koşabilen kudretli bir ejderhadır.\\n\\nOther'daki en güçlü Paradox Entity'ler onun gelişini haber verir; Cyclizar'ı feda ederek geçmişin kralını yakala."]
+	quest.1E6F000000001277.quest_desc: ["&bWalking Wake&r, kadim bir Paradox Pokémon'dur; daha vahşi bir çağdaki Suicune'u hatırlatan, yılansı bir ejderhadır.\\n\\nOther'da onunla yüzleş."]
+	quest.1E6F00000000127B.quest_desc: ["&cGouging Fire&r, kadim bir Paradox Pokémon'dur; Entei'nin öfkesini yansıtan, alevler içindeki boynuzlu bir ejderhadır.\\n\\nOther'da bir Paradox Entity aracılığıyla onunla karşılaş."]
+	quest.1E6F00000000127F.quest_desc: ["&eRaging Bolt&r, kadim bir Paradox Pokémon'dur; eski çağların Raikou'su gibi gök gürültüsü çağıran, yüksek bir elektrik ejderhasıdır.\\n\\nOther'da onu ortaya çıkar."]
+	quest.1E6F000000001283.quest_desc: ["&bÖtesi&r geleceğe uzanır. Buradaki Paradox Pokémonlar &9makinelerdir&r; henüz var olacak yaratıkların soğuk, mekanik yansımalarıdır.\\n\\nEn derindeki Paradox Entity'ler yolu açar; bir Pokémona Pika Star Chunk tuttur ve makineleri çağırmak için birinin onu emmesine izin ver."]
+	quest.1E6F000000001283.title: "&bÖtesi - Gelecek"
+	quest.1E6F000000001285.quest_desc: ["&9Iron Treads&r, geleceğin bir Paradox Pokémon'udur; krom kaplı, uğuldayan çelikten bedeniyle Donphan'ı yansıtan, yuvarlanarak hareket eden bir makinedir.\\n\\nÖtesi'nde bir Paradox Entity'nin onu buraya çekmesine izin ver."]
+	quest.1E6F000000001289.quest_desc: ["&bIron Bundle&r, geleceğin bir Paradox Pokémon'udur; buzları acımasız bir isabetle fırlatan, Delibird'in mekanik bir yansımasıdır.\\n\\nÖtesi'nde onunla karşılaş."]
+	quest.1E6F00000000128D.quest_desc: ["&9Iron Hands&r, geleceğin bir Paradox Pokémon'udur; elektrik yüklü kavrayışıyla ezip geçen iri bir robot dövüşçüdür.\\n\\nHariyama'nın gelecekteki formudur."]
+	quest.1E6F000000001291.quest_desc: ["&9Iron Jugulis&r, geleceğin bir Paradox Pokémon'udur; her ağzından çıkan ışınlarla yeri tarayan, üç başlı uçan bir makinedir.\\n\\nHydreigon'un gelecekteki formudur."]
+	quest.1E6F000000001295.quest_desc: ["&9Iron Moth&r, geleceğin bir Paradox Pokémon'udur; uçarken yakıcı, zehirli pullar saçan mekanik bir güvedir.\\n\\nVolcarona'nın gelecekteki formudur."]
+	quest.1E6F000000001299.quest_desc: ["&9Iron Thorns&r, geleceğin bir Paradox Pokémon'udur; çelik çıkıntıları ve çıtırdayan elektrik akımıyla kaplı, Tyranitar'ı yansıtan, engebeli bir makinedir.\\n\\nÖtesi'nde onunla yüzleş."]
+	quest.1E6F00000000129D.quest_desc: ["&9Iron Valiant&r, geleceğin bir Paradox Pokémon'udur; Gardevoir ve Gallade'in zarafetini tek bir silahta birleştiren bıçaklı bir makinedir.\\n\\nÖtesi'nde onu ortaya çıkar."]
+	quest.1E6F0000000012A1.quest_desc: ["&9Miraidon&r, geleceğin Paradox Pokémonlarının efsanevi hükümdarıdır; biçimlendirilmiş enerji üzerinde süzülen ve hızla ilerleyen bir ejderha makinedir.\\n\\nÖtesi'ndeki en derin Paradox Entity'ler onun gelişini haber verir; Cyclizar'ı feda ederek geleceğin kralını yakala."]
+	quest.1E6F0000000012A5.quest_desc: ["&9Iron Leaves&r, geleceğin bir Paradox Pokémon'udur; Virizion'un bıçaksı zarafetini hatırlatan parlak bir makinedir.\\n\\nÖtesi'nde onunla karşılaş."]
+	quest.1E6F0000000012A9.quest_desc: ["&9Iron Boulder&r, geleceğin bir Paradox Pokémon'udur; Terrakion'un dönerek hareket eden, yoluna çıkan her şeyi parçalayan çelik bir yansımasıdır.\\n\\nÖtesi'nde onunla yüzleş."]
+	quest.1E6F0000000012AD.quest_desc: ["&9Iron Crown&r, geleceğin bir Paradox Pokémon'udur; Cobalion'u yansıtan, taçlı başıyla saf psişik gücü yönlendiren görkemli bir makinedir.\\n\\nÖtesi'nde onu ortaya çıkar."]
+}

@@ -1,112 +1,164 @@
 {
-	quest.010607466D565B53.quest_desc: ["Doğa Ana ile temasa geçmek dostum. \\n\\n&aRooted Boots&r ile doğa senin en iyi dostun! Çimenlerin üzerinde durduğunda Kalplerin Yenilenir. Ayrıca Çimen üzerinde dururken Yemek yediğinde sanki Kemik Tozuyla sağ tıklanmış gibi davranacaktır."]
-	quest.0A1D4228271DECA3.quest_desc: ["Nereye gittin?\\n\\nÖnceki boyutunun sadece yarısı kadar olmuşsun. 1 Blok boşluğa sığacak kadar küçük."]
-	quest.0A1D4228271DECA3.quest_subtitle: "Kolye"
-	quest.0E716B90E60C486B.quest_desc: ["Bazı zamanlar savaşmanın en iyi yolu savaşmamaktır... kaçınmaktır! \\n\\n&4Panic Necklace&r ile, vurulduğunda kısa bir süreliğine Hız Etkisi elde edersin. Kaçınmak için yeterli bir zaman!"]
-	quest.0E716B90E60C486B.quest_subtitle: "Kolye"
-	quest.11C5F17C6BB1237B.quest_desc: ["&5Withered Bracelet&r takılıyken Yakın Dövüş Saldırılarına Solma Etkisi verme ihtimali vardır.\\n\\nÜzgünüm Yay kullanıcıları!"]
-	quest.11C5F17C6BB1237B.quest_subtitle: "Bilekler (Eller)"
-	quest.122E6E7CABCB17E7.quest_desc: ["Bazı nedenlerden dolayı Creeper'lar Kedilerden korkarlar. Creeper'lar son derece gerzektir ve &7Slippers&r'ındaki Kedilerin gerçek olduğuna inanır. \\n\\nBu &7Slippers&r giyildiğinde tüm Creeper'lar senden kaçacak ve düşmanca davranmayacak. \\n\\nAyrıca hasar aldığında Kedi sesleri çıkarır! (Yine de her zaman Ayaklarının üzerine düşeceğini garanti edemem)."]
-	quest.145E7D1A88B83DDD.quest_desc: ["Nereye kayboldun?"]
-	quest.145E7D1A88B83DDD.quest_subtitle: "Atkı (Kolye)"
-	quest.161A90E134592D0E.quest_desc: ["Normal Çiğ İnek Eti gibi, &cEverlasting Beef&r'i de pişirerek &4Eternal Steak&r elde edebilirsin!\\n\\nTıpkı &cEverlasting Beef&r gibi çalışır. Ancak daha fazla Açlık Puanı ve Doygunluk verir."]
-	quest.161A90E134592D0E.quest_subtitle: "Benzersiz"
-	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r, &9Suya&r girdiğinde sana az miktarda Su Altında Nefes Alma etkisi verir. Kaplumbağa Kabuğuna benzer! Ama dikkatli ol, tükeniyor."]
-	quest.16255FB20F35A9D9.quest_subtitle: "Kafa"
-	quest.19B393433FB0C62F.quest_desc: ["Lavgezer'in &cLav&r üzerinde yürümesinin sırrı Bacaklarında. Bu yüzden Bacaklarını onlardan aldık ve onun yerine senin kullanmanı sağladık! \\n\\nEğilirken &cLav&r'ın üzerinde güvenle yürüyebilirsin! Eğilmeyi bıraktığında &cLav&r'ın içine düşeceksin. Bunlar, ayrıca Magma bloklarının ve diğer sıcak blokların üzerinde güvenle yürümene de izin verir!"]
-	quest.1E40ACF3E69A4100.quest_desc: ["İçmek zorunda mısın? Bilemiyorum, sadece orada kalır ve işe yarar...  \\n\\n&6Antidote Vessel&r ile negatif Etkilerin (Solma veya Zehir gibi) süreleri kısalır! Cadılar veya Wither İskeletleriyle karşılaştığında çok yardımcı olur."]
-	quest.1E40ACF3E69A4100.quest_subtitle: "Kemer"
-	quest.2215FB0777D7029D.quest_desc: ["Çiviler, Kramponlar, Kramponlar her neyse! \\n\\n&7Steadfast Boots&r, seni ayaklarının üzerinde sabit tutar. Saldırılardan etkilenmezsin ve artık buzda kaymazsın."]
-	quest.221C9EDA651144BA.quest_desc: ["Ne &9Suyu&r? \\n\\n&3Charm of Sinking&r ile &9Su&r içinde, sanki Havaymış gibi hareket edersin! Yine de suyun altında nefes alamazsın..."]
-	quest.221C9EDA651144BA.quest_subtitle: "Kolye"
-	quest.2607F3DC07049785.quest_desc: ["Hızlıca Yemek ve İçmek varken neden oturup güzel bir Ev Yemeği yemek için zaman harcayasın ki! \\n\\nBu çok şık &6Şapka&r ile, Yemek ve İçmek çok daha hızlı."]
-	quest.2607F3DC07049785.quest_subtitle: "Kafa"
-	quest.27E951F4F4F6F847.quest_desc: ["&aThorn Pendant&r'a benzer, sadece biraz daha sıcak. Hayır, daha sıcak! \\n\\n&cFlame Pendant&r sana saldıranları ateşe verme ihtimaline sahiptir! Onlar tutuştuğunda, &cPendant&r da sana Ateş Direnci kazandıracaktır."]
-	quest.27E951F4F4F6F847.quest_subtitle: "Kolye"
-	quest.29448D08C8777425.quest_desc: ["Bu gece Balıklara birlikte uyuyor olacak. \\n\\n&cAngler Hat&r, Balıkları Yemlemene yardımcı olur ve Nadir Eşya elde etme şansını artırır!"]
-	quest.29448D08C8777425.quest_subtitle: "Kafa"
-	quest.2AD78E22988A92D3.quest_desc: ["Seni görüyorum! \\n\\n&2Night Vision Goggles&r taktığında, karanlıkta görme yeteneğine sahip olursun! Başka bir şeye değil..."]
-	quest.2AD78E22988A92D3.quest_subtitle: "Kafa"
-	quest.321F16645640C462.quest_desc: ["Ender İnciler seyahat etmenin eğlenceli bir yolu! (Bumblezone için faydalı, acaba bu Mod için bir Görev bölümü elde edecek miyiz?) Ama Ender İncisini kullandıktan sonra tükenmesinden ve her kullanımda 2 Kalp hasar vermesinden sende rahatsız olmuyor musun? \\n\\n&9Warp Drive&r ile tüm bunlar ortadan kalkıyor ve Ender İncileri açıkça en iyi ulaşım aracı haline geliyor! Açlık, Ender İncileri yerine tüketilir ve artık Ender İncisi kullanıldığında hasar alınmaz. Tüm Açlık Çubukları tükendiğinde, Ender İncisi tüketmeye devam edecek."]
-	quest.321F16645640C462.quest_subtitle: "Kemer"
-	quest.3446803FB59D8875.quest_desc: ["Sana Dikenli özelliği verir. Zırhına değil, sana! Kirpi balığı gibi!"]
-	quest.3446803FB59D8875.quest_subtitle: "Kolye"
-	quest.3525D5DCC3A534D9.quest_desc: [
-		"Bunlar favorilerimden biri! \\n\\n&9Digging Claws&r;"
-		"1. Madencilik hızını artırır. Yani temelde tüm Kazmalardaki Verimlilik seviyesi"
-		"ve "
-		"2. Yumruklarının Taş Kazma gibi davranmasını sağlar! \\n\\nGenel olarak inşa etmek ve oynamak için süper yararlı!"
-	]
-	quest.3525D5DCC3A534D9.quest_subtitle: "Eller"
-	quest.3705D303CF423804.quest_desc: ["&aFeral Claws&r'ın diğer parçası. Bunları takmak, verdiğin Hasarı artırır."]
-	quest.3705D303CF423804.quest_subtitle: "Eller"
-	quest.3B3BD39BA02DCA13.quest_desc: ["&6Pocket Piston&r ile Saldırıların, Düşmanlarını çok daha uzağa fırlatacak! \\n\\nAcaba hangisi kazanır merak ediyorum. &6Pocket Piston&r mı yoksa &7Steadfast Boots&r mu?"]
-	quest.3B3BD39BA02DCA13.quest_subtitle: "Eller"
-	quest.3E0643EA9183CDAE.quest_desc: ["'O onun Şapkasıydı ama Bay Yengeç! O 1 Numaraydı!' \\n\\nNormal &6Drinking Hat&r ile aynı şeyi yapar. Sadece daha havalı görünüyor!"]
-	quest.3E0643EA9183CDAE.quest_subtitle: "Kafa"
-	quest.3E1A3BC8642390B3.quest_desc: ["'Hey, ben Marry Poppins'im!' \\n\\n&4Umbrella&r, &l&3Artifacts&r tarafından eklenen çok kullanışlı bir alettir! Sağ tıklayarak kalkan olarak kullanmak için önünde tutulabilir. Ya da sadece elinde tutarak düşüşünü yavaşlatmak için kullanılabilir! "]
-	quest.3E1A3BC8642390B3.quest_subtitle: "Benzersiz"
-	quest.3EC8A0B89788D079.quest_desc: ["Ellerim yok, &9Flippers&r'ım var. \\n\\n&9Flippers&r çok daha iyi bir Derin Koşucu gibi davranacaktır. &9Su&r içinde çok daha hızlı yüzebilir ve yürüyebilirsin!"]
-	quest.427014BDE06DE631.quest_desc: ["Vurduğum her şey, alev alev yanıyor!!!!!"]
-	quest.427014BDE06DE631.quest_subtitle: "Eller"
-	quest.436E4E3515BCCDE9.quest_desc: ["&bCloud in a Bottle&r takılıyken çift zıplamak için Boşluk Tuşuna iki kez basabilirsin! Parkur için çok faydalıdır! \\n\\nAyrıca &dBunny Hoppers&r gibi düşebileceğin yüksekliği de artırır!"]
-	quest.436E4E3515BCCDE9.quest_subtitle: "Kemer"
-	quest.4564B577CB4EC046.quest_desc: ["Yüzlerce İneği keserken Nadir bir İnek Etine rastlayabilirsin. Deli Dana Hastalığı olanlardan değil, &cEverlasting Beef&r'den bahsediyorum!\\n\\n&cEverlasting Beef&r, normal Çiğ İnek Eti gibi yenebilir ama tüketildiğinde kaybolmaz! Bunun yerine, tekrar yiyebilmen için bekleme süresi olur.\\n\\n(Otomatik beslemesi olan sırt çantaları ile de çalışır!)"]
-	quest.4564B577CB4EC046.quest_subtitle: "Benzersiz"
-	quest.4933CF4675E77D50.quest_desc: ["Alev Hasarından darbe aldıktan sonra, &5Obsidian Skull&r etkinleştirilerek sana bir süreliğine Ateş Direnci verir. Umarım alevlerden kaçmaya yetecek kadar uzun bir süredir!"]
-	quest.4933CF4675E77D50.quest_subtitle: "Kemer"
-	quest.4A7AEBEB87CEC274.quest_desc: ["Belirli bir &cKoşu Ayakkabısı&r markası kullanma iznim olduğunu sanmıyorum. Bu yüzden bunların hangisi olduğu konusunda hayal gücünü kullan.  \\n\\n&cRunning Shoes&r, Koşarken sana Hız Artışı sağlar. Böylece Koşarken daha da hızlı olursun! Ayrıca Koşarken otomatik zıplama sağlar..."]
-	quest.4D3379D38237F830.quest_desc: ["&bBunları&r Ayağına takarak bir mucize gerçekleştirebilirsin! &9Su&r üzerinde yürümek! \\n\\nAslında &9Su&r üzerinde koşmak. &9Su&r üzerinde koşabilmek için Koşuyor olman gerekir. Koşmayı bıraktığında Batmaya başlarsın."]
-	quest.5040B3D29F238BC0.quest_desc: ["Zıpla, Tavşancık. Zıpla, Tavşancık. Zıpla, Tavşancık.\\n\\n&dBunny Hoppers&r takılıyken iki kat daha yükseğe zıplayabilir ve normalde aldığın düşme hasarının yarısını alabilirsin! Bu seni Düşme Hasarına karşı yenilmez yapmaz, hâlâ ölebilirsin. Sadece daha zordur."]
-	quest.50A32AC6EDBC5854.quest_desc: ["Yemek tek başına oldukça sıkıcı olabilir. Ancak yemeğinin yanında bir garnitürün olduğunda çok daha iyi olur! Daha spesifik olarak biraz (bir) &6Onion Ring&r!\\n\\n&6Onion Ring&r'i taktığında, yediğin her şey sana biraz Acele verecek."]
-	quest.50A32AC6EDBC5854.quest_subtitle: "Eller"
-	quest.589F1D502F680075.quest_desc: ["Havuz Partileri için mükemmel! \\n\\nSevimli ve komik görünmesinin yanı sıra &dHelium Flamingo&r, Havada yüzmeni sağlar. Evet beni duydun!  Havada... Yüz... \\n\\nHavadayken, zıplamak gibi. Havada Yüzmeye başlamak için tekrar Zıplamaya basabilirsin. Tıpkı Suda olduğu gibi hareket edebilirsin: yukarı Yüz, aşağı Yüz, her tarafa Yüz!"]
-	quest.589F1D502F680075.quest_subtitle: "Kemer"
-	quest.5CE44C58A470E48E.quest_desc: ["&l&3Artifacts&r, Minecraft deneyimini çok daha kolay ve çok daha eğlenceli hale getirecek &l&3Eserler&r ekleyen harika bir Mod!\\n\\nTüm &l&3Eserler&r ya keşif yaparak, ya arkeolojiyle ya da Mimic'leri öldürerek bulunabilir!\\n\\nMimic'ler yer altındaki Kamp Alanlarında bulunur ve normal Sandıklar gibi görünürler! Ancak çok yaklaştığında saldırırlar!"]
-	quest.5DE7C4FD5FA29236.quest_desc: ["Tam bir Enderman'i öldürmek üzereyken ışınlanıp gitmesinden sen de rahatsız olmuyor musun? Rahatsız olmuyorsun, seviyorsun! Sadece kızgınsın çünkü kıskanıyorsun! Onu istiyorsun! \\n\\nVe &5Chorus Belt&r ile bunu elde edebilirsin! Seni öldürecek bir saldırıdan ışınlanarak uzaklaşacaksın."]
-	quest.5DE7C4FD5FA29236.quest_subtitle: "Kemer"
-	quest.5EB7CE3A1DCD3E9B.quest_desc: ["Bu bir &cMıknatıs&r."]
-	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Kemer"
-	quest.5F5E43B3F51CAE9E.quest_desc: ["'Sihirli bir şekilde lezzetliler!' \\n\\n&aSuperstitious Hat&r öldürdüğün Yaratıklar için sana fazladan Yağma seviyesi verir. \\n\\nBüyülerle birlikte istiflenir!"]
-	quest.5F5E43B3F51CAE9E.quest_subtitle: "Kafa"
-	quest.623796B1D7981E59.quest_desc: ["'Ayrıca Terraria'yı da dene!'\\n\\nTakıldığında fazladan 5 Kalp kazanacaksın! Ya da 10 tam Sağlık puanı! Varsayılan olarak 30 Can'a kadar eklenir."]
-	quest.623796B1D7981E59.quest_subtitle: "Kemer"
-	quest.62622137648A4F56.quest_desc: ["Cevherlerini bir Eşya ile kazıp diğer Eşya ile eritmek zorunda kalmaktan hoşlanmıyor musun? Artık &7Pickaxe Heater&r ile her zamankinden daha tembel olabilirsin!\\n\\n&7Pickaxe Heater&r takılıyken, Kazdığın Cevherler otomatik olarak Eritilecektir!\\n\\nCevher İşleme kurulumu istiyorsan dikkatli olmak isteyebilirsin."]
-	quest.62622137648A4F56.quest_subtitle: "Eller"
-	quest.6A452BFC8A967C39.quest_desc: ["Bu &aClaws&r'ı takınca kendini farklı hissediyorsun. Adrenalin pompalanıyor, düşünceler azalıyor, gücün başka hiçbir şeye benzemeyecek şekilde artıyor! \\n\\n&aFeral Claws&r ile Silahların ya da Yumruklarınla çok daha hızlı Saldıracaksın."]
-	quest.6A452BFC8A967C39.quest_subtitle: "Eller"
-	quest.6FBE5B5D5027B32C.quest_desc: ["Bu &7Şapka&r'yı takınca yaratıklar rüzgar gibi kaçışıyor! \\n\\nÇok da güzel görünüyor."]
-	quest.6FBE5B5D5027B32C.quest_subtitle: "Kafa"
-	quest.70C7D92844089DEB.quest_desc: ["Diğer Kolyeler gibi bunun da saldırganına zarar verme şansı var. Sadece Yıldırım ile! \\n\\nAyrıca, Yıldırım tarafından vurulacak kadar şanslıysan/şanslı değilsen. Sana zarar vermez."]
-	quest.70C7D92844089DEB.quest_subtitle: "Kolye"
-	quest.7188DC06A28AE30E.quest_desc: ["&eGolden Hook&r takmak, düşmanlardan elde edeceğin deneyimi artırır!"]
-	quest.7188DC06A28AE30E.quest_subtitle: "Eller"
-	quest.72D6265E35814927.quest_desc: [
-		"Sağlık ve Hasar sistemi olan çoğu oyunda Yenilmezlik Çerçeveleri vardır. Hasar aldıktan sonra birkaç Yenilmezlik Çerçeven olur. Böylece;"
-		"1. Basit bir saldırı ile anında ölmezsin ve"
-		"2. Karşılık vermek için zamanın olur. Sana en iyi şekilde savaşmak için zaman verir. \\n\\n&eCross Necklace&r ile birkaç Yenilmezlik Çerçevesi daha elde edersin. Bu da karşılık vermek için fazladan zaman demektir!"
-	]
-	quest.72D6265E35814927.quest_subtitle: "Kolye"
-	quest.73B73870B29DFAD9.quest_desc: ["Bizden biri! Bizden biri! \\n\\n&eVillager Hat&r, Köylüleri aynı Kasabadan olduğuna inandırır. Böylece Kasaba Dışı Vergisinden muaf olursun. Köylü Ticaretleri daha ucuzdur."]
-	quest.73B73870B29DFAD9.quest_subtitle: "Kafa"
-	quest.73FC51144FC2DA52.quest_desc: ["Bu &7Glove&r ile vurduğun tüm düşmanların canını alacaksın!\\n\\nOh evet üzgünüm unutmuşum... bleh bleh blehhh!"]
-	quest.73FC51144FC2DA52.quest_subtitle: "Eller"
-	quest.74B352457BF1541B.quest_desc: ["Eğer sende benim gibiysen ya da aklı başında biriysen Tozlaşmış Kar hoşuna gitmez. Neyse ki &l&3Artifacts&r bize bununla başa çıkmamız için bir alet veriyor! Snowshoes! \\n\\nSnowshoes, Deri Çizmelerin yaptığı gibi Tozlaşmış Kar üzerinde güvenle yürümeni sağlayacaktır. Ayrıca herhangi bir Kar üzerinde yürürken Hız artışı elde edeceksin!"]
-	quest.7503823ACDDB0491.quest_desc: ["Bu ve &aSuperstitious Hat&r sana ihtiyacın olabilecek tüm şans tılsımlarını verir!\\n&2Lucky Scarf&r, Kazmaların için ekstra bir Servet seviyesi sağlar."]
-	quest.7503823ACDDB0491.quest_subtitle: "Atkı (Kolye)"
+	quest.010607466D565B53.quest_desc: [" Toprağın üzerinden geçmek yerine onunla birlikte yürümek istediğimiz günler için &aKöklenmiş Çizmeleri&r saklarız. &2Çimenli Toprak&r üzerinde durduğumuz anda kökler ayaklarımızın altındaki toprağa uzanır ve besini doğrudan yerden çekmeye başlar.\\n\\n- &l1 Yeteneği vardır:&r\\n\\n &2Root Nourishment&r:\\n&2Çimenli Toprak&r üzerinde dururken &6Açlık&r ve &6Doygunluk&r puanı kazanmak için altımızdaki bloğu yavaşça tüketiriz. Blok, yeniden büyümeden önce kısa süreliğine Toprağa dönüşür. Çizmelere daha çok uyum sağladıkça kök salmışken yemek yemek biraz &cCanımızı&r da yeniler ve zaman zaman yakında büyüyen bitkilere kemik tozu uygular.\\n\\n- Toprakla savaşmak yerine onun tarafından beslenmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.0A1D4228271DECA3.quest_desc: [" Nereye gittiğimizden emin değiliz ama eskisinden kesinlikle daha küçüğüz. Artık tek blokluk bir boşluğun altından geçebilecek kadar küçüğüz. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &5Size Control&r:\\nKendi boyutumuzu istediğimiz gibi küçültebilir, büyütebilir veya sabitleyebiliriz. Küçüldükçe &7düşüşlerimiz&r yumuşar, daha fazla saldırı zarar vermeden yanımızdan geçer ve bizi avlayan yaratıkların görüşünden daha kolay kayboluruz.\\n\\n- Savaşarak kaçmak yerine ortadan kaybolmayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Boynumuzda küçültme büyüsü"
+	quest.0E716B90E60C486B.quest_desc: [" Bazen bir dövüşteki en akıllıca hamle, bizi dövüşten çıkaran hamledir. &4Panik Kolyesi&r darbe aldığımızı hissettiğinde içimizi kaçma dürtüsüyle doldurur. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &4Panic&r:\\nYakındaki, gözü üzerimizde olan her düşman yaratık için &bhareket hızımız&r artar. Bizi ne kadar çok yaratık izliyorsa o kadar hızlı hareket ederiz. Artık hiçbiri bizi göremediğinde sakinleştikçe hızımız normale döner; hiçbir şey bizi avlamıyorsa bu paniğin bir kısmı fazladan korumaya bile dönüşür.\\n\\n- Etrafımızın sarılmasını daha hızlı koşmak için bir bahaneye dönüştüren bir &6Eser&r."]
+	quest.0E716B90E60C486B.quest_subtitle: "Boynumuzda savaş ya da kaç dürtüsü"
+	quest.11C5F17C6BB1237B.quest_desc: [" &5Solmuş Bilekliği&r takarken yakın dövüş saldırılarımız, &5Solmanın&r vurduğumuz her şeyi yavaşça kemirdiği soğuk ve çürütücü bir güç taşır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &5Withering&r:\\nYakın dövüş darbelerimizin hedefe &5Solma&r uygulama olasılığı vardır. Verdiğimiz Solma hasarının her tiki bize &ciyileşme&r olarak geri aktarılabilir; hedef hâlâ solarken ölürse çürüme, yakında duran başka şeylere yayılabilir.\\n\\n- Üzgünüz yay kullanıcıları; bu yalnızca yakın dövüş için. \\n\\n- Yumruklarımızın sabrımızın başlattığı işi bitirmesini sağlayan bir &6Eser&r."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Bileklerimize sarılan çürüme"
+	quest.122E6E7CABCB17E7.quest_desc: [" Nedense &2Creeper'lar&r ve &8Kâbuslar&r kedilerden korkar; üstelik &7Kedi Terliklerimizin&r benzediği kedileri gerçek sanacak kadar aptaldırlar. \\n\\n- &l2 Yeteneği vardır:&r\\n\\n 1. &7Feline Aura&r:\\nYakındaki &2Creeper'lar&r ve &8Kâbuslar&r bizi görünce mesafelerini korur. Gizlice ilerlerken daha sessiz ve hafif hareket eder, daha yumuşak inişler yaparız. \\n\\n 2. &dNine Lives&r:\\nArada bir, bizi öldürmesi gereken bir darbe bunun yerine bizi 1 &cCanla&r hayata tutunmuş bırakır. Sonrasında bize yönelen ilk saldırının da tamamen ıskalama olasılığı oldukça iyidir. \\n\\n- Hasar aldığımızda kedi sesleri de çıkarır! (Yine de her zaman ayaklarımızın üzerine ineceğimize söz veremeyiz.) \\n\\n- Bulunmak yerine korkulmayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.145E7D1A88B83DDD.quest_desc: [" Nereye gittik?\\n\\n- &l1 Yeteneği vardır:&r\\n\\n &9Vanishing&r:\\nBirkaç saniye hareketsiz durursak &9Görünmezlik Atkısı&r bizi tamamen görünmez kılar. Hareket etmek, savaşmak veya etkileşime girmek bunu bozar; ancak ne kadar uzun saklı kalırsak saldırdığımızda o kadar ödüllendiriliriz: Görünmezken biraz &ciyileşme&r ve yeniden göründüğümüz anda daha güçlü bir ilk darbe.\\n\\n- Kimse geldiklerini görmediğinde en iyi savaşanlarımız için bir &6Eser&r."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Boynumuzda kaybolma numarası"
+	quest.161A90E134592D0E.quest_desc: [" Ateşle midemiz arasında bir yerde &4Ebedi Biftek&r ortaya çıkar; &cSonsuz Bifteğin&r daha dayanıklı, daha lezzetli ve gerçekten hiç bitmeyen kuzenidir. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &4Endless Meal&r:\\nOnu tekrar tekrar yiyebiliriz. Her lokma onu yok etmek yerine dayanıklılığından biraz harcar; bu dayanıklılık yavaşça kendi kendine yenilenir. Ona ne kadar çok güvenirsek bize o kadar iyi davranır: Bedelsiz yeme olasılığı, daha hızlı lokmalar ve her öğünde biraz fazladan &ciyileşme&r.\\n\\n- Aynı yemeği iki kez pişirmek istemeyenlerimiz için bir &6Eser&r."]
+	quest.161A90E134592D0E.quest_subtitle: "Hiç bitmeyen bir öğün"
+	quest.16255FB20F35A9D9.quest_desc: [" &3Şnorkel&r, &9Suyun&r altına indiğimiz anda yanımızda küçük bir hava cebi tutar; yüzümüze takılmış hafif bir Kaplumbağa Kabuğu gibi çalışır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &3Underwater Breathing&r:\\nYüzeye yakınken normal nefes alırız. Su altında ne kadar derine iner veya uzun kalırsak &3Şnorkel&r bizi ayakta tutmak için gizli &9Su Altında Nefes Alma&r rezervinden o kadar yararlanır. Aynı zamanda su altındaki bulanıklığı giderir; böylece nereye yüzdüğümüzü gerçekten görebiliriz.\\n\\n- Nefesini tutmak yerine derinlikleri keşfetmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Başımızda temiz hava"
+	quest.19B393433FB0C62F.quest_desc: [" Sırrı bir Lavgezerin bacaklarından alıp kendi ayaklarımıza taktık. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &4Lava Stride&r:\\nGizlice ilerlerken &4Lavın&r yüzeyinde, altımızda katılaşmış gibi güvenle yürüyebiliriz. İlk adımlar sallantılıdır, ama hareket etmeye devam ettikçe duruşumuz sağlamlaşır. Dik durursak ise doğrudan içine düşeriz. Bunlar bizi Magma Bloklarından ve diğer kavurucu zeminlerden de korur.\\n\\n- Zeminden çok kendi ayaklarına güvenenlerimiz için bir &6Eser&r."]
+	quest.1E40ACF3E69A4100.quest_desc: [" Bunu içmek zorunda mıyız? Açıkçası orada durup işini yapıyor... \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &6Antitoxin&r:\\n&6Panzehir Kabını&r taşırken üzerimizdeki her olumsuz etki, &5Solma&r, &2Zehir&r veya başka ne varsa, normalden daha hızlı sona erer. Direncimizi ne kadar uzun korursak o kadar karşılığını alırız: Her etkin kötü etki, yalnızca bize zarar vermek yerine gelen &chasarı&r da biraz azaltır. Cadılara ve Wither İskeletlerine karşı çok faydalıdır.\\n\\n- Zehrin kendilerini yavaşlatmasına izin vermeyenlerimiz için bir &6Eser&r."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Kemerimizde çalışan panzehir"
+	quest.2215FB0777D7029D.quest_desc: [" Diken, krampon, çivi; ne istersek diyelim! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &7Steadfastness&r:\\n&7Sarsılmaz Dikenleri&r taktığımız anda &7Savrulmaya&r direnç kazanır ve &bBuz&r üzerinde kaymayı bırakırız. Çömelip yerimizi koruyorsak doğrudan bir darbe dışında hiçbir şey bizi kıpırdatamaz. \\n\\n- Ayaklarını yere sağlam basıp hareket etmeyi reddedenlerimiz için bir &6Eser&r."]
+	quest.221C9EDA651144BA.quest_desc: [" Ne &9Suyu&r? \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &3Sinking&r:\\nSu altında dipte hareketsiz durduğumuz anda havamız tükenmeyi bırakır ve yeniden dolmaya başlar. Yeterince uzun yerimizde kalırsak &3Batma Nazarlığı&r, tekrar hareket edene kadar bize &eÖlümsüzlük&r bile verebilir. Yine de orada sonsuza dek nefes alamayız; ancak başımızın üzerindeki &9Su&r ne kadar derinse bize verdiği zarar o kadar azdır.\\n\\n- &9Suyun&r içinde &7Havaymış&r gibi hareket edenlerimiz için bir &6Eser&r."]
+	quest.221C9EDA651144BA.quest_subtitle: "Boynumuzda su büyüsü"
+	quest.2607F3DC07049785.quest_desc: [" Hareket hâlindeyken yiyip içebiliyorsak güzel bir ev yemeği için neden oturalım? \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &6Quick Sip&r:\\nBu çok şık &6Şapkayı&r takarken içtiğimiz her şey daha hızlı biter. Ona ne kadar çok güvenirsek o kadar geri verir: Her yudumda biraz yenilenmiş &6Açlık&r puanı, biraz &cCan&r, hatta bir nefes hava. \\n\\n- Hızlıca içip yoluna devam etmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.2607F3DC07049785.quest_subtitle: "Başımızda hızlı yudumlar"
+	quest.27E951F4F4F6F847.quest_desc: [" &aDiken Kolyesine&r benzer, yalnızca biraz daha sıcak. Yok, dur; çok daha sıcak! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &cRetaliatory Flame&r:\\nBir şey bize vurduğunda karşılığında onu &cAteşe Verme&r olasılığımız vardır. &cAlev Kolyesine&r ne kadar çok güvenirsek ateşten o kadar yararlanmamızı sağlar: Zaten yanan her şeye fazladan hasar ve biz de yanarken bize azar azar &ciyileşme&r.\\n\\n- Her darbeye bir kıvılcımla cevap verenlerimiz için bir &6Eser&r."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Boynumuzda asılı bir kıvılcım"
+	quest.29448D08C8777425.quest_desc: [" Bu geceye kadar oltamıza takılan her şey balıklarla uyuyacak. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &cLucky Catch&r:\\n&cBalıkçı Şapkamız&r balık tutarken Şansımızı ve Yemlememizi artırır; arada bir tek bir av, aynı anda birkaç ava çoğalır. Onu takarak ne kadar uzun balık tutarsak balıktan çok daha nadir bir şey çekme olasılığımız o kadar yükselir.\\n\\n- Sudan asla eli boş ayrılmayanlarımız için bir &6Eser&r."]
+	quest.29448D08C8777425.quest_subtitle: "Başımızda şanslı balıkçılık"
+	quest.2AD78E22988A92D3.quest_desc: [" Seni görebiliyoruz! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &2Night Vision&r:\\n&2Gece Görüş Gözlüğünü&r etkinleştirdiğimizde karanlık bizim için pek anlam ifade etmez. Gözlük etkin durumdayken karanlığın ne kadar derinine girersek o kadar sert vururuz ve bize yönelen saldırılar o kadar sık ıskalar. Gözlük bizi en çok, ışığın tam bittiği yerde ödüllendirir. \\n\\n- Karanlıktan korkmak yerine ona hükmetmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Başımızda ehlileşen karanlık"
+	quest.321F16645640C462.quest_desc: [" Ender İncileri seyahat etmenin eğlenceli bir yoludur! Ama kullanıldıklarında tüketilmelerinden ve her seferinde bize 2 kalplik &chasara&r mal olmalarından hepimiz nefret etmiyor muyuz? \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &9Transgression&r:\\n&9Warp Sürücüsü&r takılıyken Ender İncileri atıldıklarında tüketilmez; bunun yerine her atış onları kısa bir bekleme süresine sokar. Ona daha çok uyum sağladıkça ışınlanmanın hasarı da kaybolur ve vardığımız anda yakındaki herkes kısa bir süreliğine bizi gözden kaybeder.\\n\\n- Ender İncilerini tartışmasız en iyi seyahat yoluna dönüştüren bir &6Eser&r."]
+	quest.321F16645640C462.quest_subtitle: "Kemerimize iliştirilmiş bedelsiz seyahat"
+	quest.3446803FB59D8875.quest_desc: [" Bize Dikenli özelliği verir. Zırhımıza değil, bize! Bir Kirpi Balığı gibi! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &aPoisoned Thorns&r:\\nAldığımız &chasarın&r bir kısmı doğrudan bize vurana geri yansır. Ne kadar çok darbe alırsak yansıyan hasar o kadar &2Zehir&r taşımaya başlar; zaten zehirlenmiş her şeye daha sert vurur. \\n\\n- Acıyı yalnızca çekmek yerine paylaşmayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.3446803FB59D8875.quest_subtitle: "Boynumuzda asılı misilleme"
+	quest.3525D5DCC3A534D9.quest_desc: [" Açıkçası bunlar favorilerimizden biri. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &9Digger&r:\\n&9Kazma Pençelerimiz&r kazma hızımızı artırır ve çıplak yumruklarımızın blokları bir Taş Kazma gibi kırmasını sağlar. Onlarla ne kadar çok kazarsak ellerimiz ve aletlerimiz o kadar hızlanır; sonunda yumruklarımız bile kırdıklarımızdan biraz fazladan &6Servet&r elde etmeye başlar.\\n\\n- İnşaatta ve genel olarak oyun oynarken çok faydalıdır! \\n\\n- Bir kazma için yeniden durmak istemeyenlerimiz için bir &6Eser&r."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Ellerimizde daha hızlı kazma"
+	quest.3705D303CF423804.quest_desc: [" &aVahşi Pençelerin&r öteki yüzüdür; bu sefer önemli olan verdiğimiz &chasar&r, onu verme hızımız değil. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &ePower Strike&r:\\nBelirli sayıda darbeden sonra &eGüç Eldivenimiz&r depoladığı bütün kuvveti tek bir ezici darbeye aktarır. Onu yeterince uzun taktığımızda bu darbe, hedefin zırhının bir kısmını yok saymaya, kalkanları doğrudan aşmaya ve hedefi öldürürse bütün kuvvetini bir sonraki saldırımıza da taşımaya başlar.\\n\\n- Önemli olan tek bir darbeyi indirmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.3705D303CF423804.quest_subtitle: "Ellerimizde tek bir ağır darbe"
+	quest.3B3BD39BA02DCA13.quest_desc: [" &6Cep Pistonu&r ile saldırılarımız, kollarımızın erişebileceğinden çok daha uzağa ulaşır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &6Piston Impulse&r:\\nOnu takarken hem saldırı hem de blok etkileşim menzilimiz artar. Vurduğumuz hedef ne kadar uzaksa darbe o kadar sert iner ve biz de daha hızlı kazarız. Menzilimizin en uç noktasına yakın bir darbe indirirsek vurduğumuz şeyi sersemletebiliriz bile. \\n\\n- &6Cep Pistonu&r mu yoksa &7Sarsılmaz Dikenler&r mi kazanır, merak ediyoruz. \\n\\n- Hiç yaklaşmamayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Ellerimizde fazladan erişim"
+	quest.3E0643EA9183CDAE.quest_desc: [" 'Bu onun şapkasıydı, Bay Krabs! O 1 numaraydı!' \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &6Quick Sip&r:\\nNormal &6Plastik İçme Şapkası&r ile tamamen aynı işi yapar. Her içecek daha hızlı biter; onu kullandıkça her yudumda biraz &6Açlık&r puanı, &cCan&r ve hava yenilenir. Tek fark, başımızda çok daha havalı bir &9İlginç İçme Şapkası&r bulunmasıdır. \\n\\n- İşlev kadar görünüşe de önem verenlerimiz için bir &6Eser&r."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Başımızda tarz ve yudumlar"
+	quest.3E1A3BC8642390B3.quest_desc: [" 'Ben Mary Poppins'im, millet!' \\n\\n- &l2 Yeteneği vardır:&r\\n\\n 1. &4Gliding&r:\\n&4Şemsiyeyi&r elimizde tutmak düşüşümüzü yumuşak bir süzülüşe yavaşlatır. Yeterli refleksimiz varsa havanın kendisinden bile sekebiliriz: Düşerken saldırıya basmak bizi ters yöne fırlatır; yere değdiğimiz anda bir kullanım hakkı geri gelir. \\n\\n 2. &4Canopy Shield&r:\\nÖnümüzde tutunca tam bir &7Kalkana&r dönüşür; yeniden hazır olmak için beklemesi gerekene kadar art arda darbeleri engeller. Her başarılı blok, bize vuran şeyi geriye sendeletebilir. \\n\\n- Gökyüzünden biraz korunma olmadan asla seyahat etmeyenlerimiz için bir &6Eser&r."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Yanımızda taşıdığımız sığınak"
+	quest.3EC8A0B89788D079.quest_desc: [" Ellerimiz yok; &9Paletlerimiz&r var. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &9Swift Swim&r:\\nOnları taktığımız anda &byüzme hızımız&r yükselir; denediğimiz her Derin Koşucudan çok daha iyidir. Onlarla ne kadar çok yüzersek su altında o kadar az hava harcarız; sonunda yer çekimi bile bizi yüzeyin altında çekmeyi bırakır. Suya batmış durumdayken bize yönelen birkaç saldırı da şans eseri tamamen ıskalar.\\n\\n- Su altını ziyaret etmek yerine orada yaşamayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.427014BDE06DE631.quest_desc: [" Vurduğumuz her şey &cAlevlere&r boğulur! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &cScorching Flame&r:\\n&cAteş Eldiveni&r ile yaptığımız yakın dövüş saldırıları, temas anında hedefi &cAteşe Verir&r. Onu takarak ne kadar çok savaşırsak zaten yanan her şeye o kadar sert vururuz. Sonunda yanan bir hedef öldüğünde, yakında duranları da tutuşturan kıvılcımlar saçabilir.\\n\\n- Savaş alanını küller içinde bırakmayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.427014BDE06DE631.quest_subtitle: "Ellerimizde kıvılcımlanan alevler"
+	quest.436E4E3515BCCDE9.quest_desc: [" &bŞişedeki Bulut&r takılıyken çift zıplamak için havada zıplama tuşuna iki kez basabiliriz! Parkurda çok faydalıdır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &bAir Jump&r:\\nHavada fazladan bir zıplama kazanırız; ayrıca tıpkı &dTavşan Zıplayıcıları&r gibi güvenle düşebileceğimiz mesafeyi artırır. Ona daha çok güvendikçe art arda hava zıplamaları sırasında bir darbe indirmek zıplama haklarından birini geri verebilir. Zıplarken yukarı bakmak da bizi daha yükseğe uçurur.\\n\\n- Zeminin kendilerini yakalayacağına hiç tam güvenmeyenlerimiz için bir &6Eser&r."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "Kemerimizde fazladan bir zıplama"
+	quest.4564B577CB4EC046.quest_desc: [" Yeterince İnek kestiğimizde Deli Dana Hastalığından daha nadir bir şeyle karşılaşabiliriz: &cSonsuz Biftek&r! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &cEndless Meal&r:\\nOnu normal Çiğ İnek Eti gibi yiyebiliriz; yalnız gerçekten hiç kaybolmaz. Her lokma dayanıklılığından biraz harcar ve bu dayanıklılık yavaşça kendi kendine yenilenir. Ona yeterince uzun güvenirsek bizi daha da ödüllendirir: Bedelsiz yeme olasılığı, daha hızlı lokmalar ve her öğünde biraz fazladan &ciyileşme&r. \\n\\n- Otomatik besleyen sırt çantalarıyla da çalışır! \\n\\n- Akşam yemeği için iki kez avlanmak istemeyenlerimiz için bir &6Eser&r."]
+	quest.4564B577CB4EC046.quest_subtitle: "Hiç bitmeyen bir biftek"
+	quest.4933CF4675E77D50.quest_desc: [" &cAteş hasarı&r aldıktan sonra &5Obsidiyen Kafatası&r devreye girip bize bir süreliğine &cAteş Direnci&r verir. Umarız alevlerden kaçacak kadar uzun sürer. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &5Lava Resilience&r:\\nBir süre &4Lav&r içinde hasar almadan durabiliriz; bu süre lavdan çıkınca yavaşça yeniden dolar. &5Obsidiyen Kafatasını&r yeterince geliştirirsek &4Lav&r içinde kaldıkça daha hızlı hareket etmeye başlarız; bütün bu süre boyunca daha az hasar alırız ve doğrudan lavın içine inmekten asla düşme hasarı almayız.\\n\\n- Lavı ılık bir banyo gibi görenlerimiz için bir &6Eser&r."]
+	quest.4933CF4675E77D50.quest_subtitle: "Kemerimizde ateş direnci"
+	quest.4A7AEBEB87CEC274.quest_desc: [" Bu &cKoşu Ayakkabıları&r için belirli bir marka adını kullanma iznimiz olduğunu sanmıyoruz; hangi ayakkabılar olduklarını hayal gücüne bırakıyoruz. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &bAcceleration&r:\\nDüz bir çizgide ne kadar uzun süre koşarsak belirli bir üst sınıra kadar o kadar hızlanırız. Hareket etmeyi bırakınca bonus yavaşça kaybolur. Bu en yüksek hızın peşinde yeterince uzun koşarsak koşarken zıplamak hızı biriktirme sürecini hızlandırır; koşarken adım yüksekliğimiz de artar ve en yüksek hıza ulaşmak bize kısa bir &eÖlümsüzlük&r anı bile verebilir.\\n\\n- Koşarken otomatik zıplama da verir. \\n\\n- Bir kez koşmaya başladığında hiç durmayanlarımız için bir &6Eser&r."]
+	quest.4D3379D38237F830.quest_desc: [" Bunları ayaklarımıza takarken küçük bir mucize gerçekleştirebiliriz: &9Suyun&r üzerinde yürümek! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &bWater Run&r:\\nKoştuğumuz sürece &bSu Hızlandırıcıları&r suyun yüzeyini altımızda katı tutar. Suya attığımız ilk adımlar biraz yavaştır, ancak birkaç saniye içinde hızımız tamamen geri gelir. Koşmayı bırakırsak batmaya başlarız. Onlarla su üzerinde ne kadar çok koşarsak yüzeyde kalmak için o kadar az koşmaya ihtiyaç duyarız; yüzeyden yaptığımız zıplamalar daha yükseğe çıkar ve üzerinde hızla giderken mermiler içimizden geçebilir.\\n\\n- Yüzmeyi değil, yalnızca koşmayı öğrenmişlerimiz için bir &6Eser&r."]
+	quest.5040B3D29F238BC0.quest_desc: [" Tavşan, zıpla. Tavşan, zıpla. Tavşan, zıpla. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &dBunny Jump&r:\\n&dTavşan Zıplayıcıları&r takılıyken zıplama tuşunu basılı tutmak bizi daha uzun ve yüksek bir zıplamaya fırlatır. Sonrasındaki düşüşler de normalden daha az zarar verir. İnmeden önce ne kadar yükseğe çıktıysak sonraki darbelerimiz o kadar sert vurabilir. Büyük bir zıplamadan sonra iniş yapmak yakındaki düşmanları geri savurabilir; sonunda bu zıplamalardan &7Düşme Hasarı&r almayı tamamen bırakırız. \\n\\n- Bizi genel olarak düşme hasarına karşı yenilmez yapmaz. Kötü bir düşüşten hâlâ ölebiliriz; yalnızca bu daha zordur. \\n\\n- Yürümek yerine sekmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.50A32AC6EDBC5854.quest_desc: [" Yemek tek başına oldukça sıkıcı olabilir; ama yanında bir şey olduğunda çok daha güzel olur. Daha açık söyleyelim, biraz &6Soğan Halkası&r! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &6Hungry Drill&r:\\nSahip olduğumuz her &6Doygunluk&r puanı kazma hızımızı artırır; yani ne kadar toksak bloklar o kadar hızlı kırılır. Yemek yemek hemen ardından fazladan bir hız patlaması verir. Yeterince iyi beslenmek blokları anında kırabilir; arada bir kazdığımız bir blok bize bir &6Açlık&r puanı bile geri verir. \\n\\n- Tok karna en iyi kazı yapanlarımız için bir &6Eser&r."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Ellerimize güç veren açlık"
+	quest.589F1D502F680075.quest_desc: [" Havuz partileri için kusursuz! &dHelyum Flamingosu&r sevimli ve komik görünmesinin yanında havanın kendisinde yüzmemizi sağlar. Evet, doğru duydun; havada... yüzmek... \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &dAerial Swimming&r:\\nÇift zıplarsak yeniden dolması gerekene kadar bir süre serbestçe havada kalabiliriz. Tıpkı &9Suda&r olduğu gibi yukarı, aşağı ve her yöne hareket ederiz. Ne kadar çok havada kalırsak bizi o kadar güvenli ve güçlü yapar: Havadayken azaltılmış &chasar&r, yukarıdan daha güçlü menzilli darbeler ve sonunda neredeyse hareketsiz durmanın havada kalma süremizi hiç tüketmemesi. \\n\\n- Düşmek yerine süzülmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.589F1D502F680075.quest_subtitle: "Kemerimizden gelen havada süzülme"
+	quest.5CE44C58A470E48E.quest_desc: [" &l&3Artifacts&r, Minecraft'taki zamanımızı kolaylaştırıp çok daha eğlenceli hâle getiren onlarca benzersiz &l&3Eser&r sunan harika bir moddur! \\n\\n &l&3Reliquified Artifacts&r eklentisiyle bu &l&3Eserlerin&r her biri bizimle birlikte gelişir. Yalnızca onları kullanarak kazandığımız &eKalıntı Deneyimini&r harcayıp &6Araştırma Penceresinde&r (eşya üzerinde Shift tuşunu basılı tut) yeteneklerinin seviyesini yükseltebiliriz. Ne kadar çok oynarsak o kadar güçlü etkiler ve hatta eşyalar arasında Sinerjiler açılır. \\n\\n Bütün &l&3Eserlerimizi&r keşif yaparak, arkeolojiyle veya Taklitçileri öldürerek bulabiliriz! Taklitçiler yer altındaki kamp alanlarında sıradan sandıklara benzeyerek gizlenir; ta ki çok yaklaşıp saldırıya uğrayana kadar."]
+	quest.5DE7C4FD5FA29236.quest_desc: [" Bir &5Enderman&r'e öldürücü darbeyi indirmek üzereyken ışınlanıp gitmesinden hepimiz nefret etmiyor muyuz? Aslında nefret etmiyoruz, seviyoruz; yalnızca aynı şeyi yapamadığımız için biraz kıskanıyoruz. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &dChorus Bloom&r:\\nBir darbe bizi öldürecekken &dNakarat Totemi&r önce devreye girer ve bizi yakındaki güvenli bir yere ışınlar. Sonra tekrar tetiklenmeden önce bir süre bekler. Ona ne kadar çok güvenirsek bu kurtarış o kadar iyileşir: Hemen ardından &ciyileşmemiz&r daha iyi çalışır, yakındaki her şey kısa bir süre bizi gözden kaybeder ve vardığımızda tamamen görünmez bile olabiliriz.\\n\\n- Ölümü kabul etmek yerine onu kandırmayı tercih edenlerimiz için bir &6Eser&r."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "Kemerimizde son bir kaçış"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: [" Bu bir &cMıknatıs&r. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &cPolarity&r:\\n&cEvrensel Çekiciyi&r Pull ve Push arasında değiştir; yakındaki bütün eşyalar ya bize doğru akın etsin ya da uzağa dağılsın. Onu yeterince uzun kullandığımızda Pull modu, yerdeki &eDeneyim&r kürelerini de bizim için toplamaya başlar. Push modu ise düşman mermilerini havadan uzaklaştırabilir.\\n\\n- Ganimetlerin gözlerinin önünden ayrılmamasını isteyenlerimiz için bir &6Eser&r."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Kemerimize çekilen ganimetler"
+	quest.5F5E43B3F51CAE9E.quest_desc: [" 'Sihirli derecede lezzetliler!' \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &aSuperstitious Trophy&r:\\nÖldürdüğümüz her şeyin, zaten sahip olduğumuz seviyenin üzerine fazladan bir &2Ganimet&r seviyesi uygulama olasılığı vardır; bu, büyülerle de birleşir. Seriyi sürdürürsek hızlıca art arda yaptığımız her öldürme olasılığı daha da yükseltir. Hayvanlarda sabit bir bonus da bulunur ve bir aradan sonraki ilk öldürme her zaman biraz daha şanslıdır.\\n\\n- &6Hurafe Şapkanın&r gerçekten şanslı olduğuna inananlarımız için bir &6Eser&r."]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Başımızda taşınan şans"
+	quest.623796B1D7981E59.quest_desc: [" 'Terraria'yı da dene!' \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &4Crystal Reserve&r:\\n&4Kristal Kalbi&r takmak bize fazladan azami &cCan&r verir: 5 ek kalp, yani tam 10 puan; varsayılan olarak 30 Cana ulaşırız. Mevcut Canımız bu bonusun altına düşerse bonus kaybolur ve geri dönmeden önce bir süre bekler. Ona ne kadar uzun bağımlı kalırsak tam &cCanda&r olmak gelen hasarı azaltır, bonus eşiğinin altındayken iyileşme daha iyi çalışır ve tek bir yıkıcı darbe bize kısa bir &eÖlümsüzlük&r anı verebilir.\\n\\n- Daha fazla bahaneden ziyade daha fazla Can isteyenlerimiz için bir &6Eser&r."]
+	quest.623796B1D7981E59.quest_subtitle: "Kemerimizde fazladan kalpler"
+	quest.62622137648A4F56.quest_desc: [" Bir cevheri kazıp sonra ayrı olarak eritmek zorunda kalmaktan hepimiz nefret etmiyor muyuz? &7Kazma Isıtıcısı&r ile her zamankinden daha tembel olabiliriz. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &7Thermal Processing&r:\\nKazdığımız cevherlerin, kırdığımız anda kendi kendine erime olasılığı vardır. Bu olasılık gerçekleşmezse bir sonraki blok için artar. Kazmayla yaptığımız saldırılar vurduğumuz şeyi &cTutuşturabilir&r; arada bir eritme, fazladan bir &6Servet&r seviyesi de taşır. \\n\\n- Cevher işleme düzenekleri kuracaksak bunu kullanırken dikkatli olmak isteyebiliriz. \\n\\n- Aynı darbede kazıp eritenlerimiz için bir &6Eser&r."]
+	quest.62622137648A4F56.quest_subtitle: "Doğrudan ellerimizden eritme"
+	quest.6A452BFC8A967C39.quest_desc: [" Bu &aPençeleri&r takmak bize bambaşka hissettirir. Adrenalin yükselir, düşünceler susar, güç benzersiz biçimde artar. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &aPredatory Frenzy&r:\\n&aVahşi Pençelerle&r hızlıca art arda saldırmak, belirli bir üst sınıra kadar sonraki saldırılarımızı daha da hızlandıran yükler biriktirir. Darbeler arasında çok uzun duraksarsak yükler kaybolmaya başlar; ancak &chasar&r almak bu süreyi sıfırlayarak çılgınlığı sürdürmemiz için bize daha fazla zaman verir.\\n\\n- Dövüş uzadıkça daha hızlı savaşanlarımız için bir &6Eser&r."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Ellerimizde biriken çılgınlık"
+	quest.6FBE5B5D5027B32C.quest_desc: [" Şu &7Şapkayı&r takınca hayvanlarımız rüzgâr gibi koşuveriyor. Pek de güzel görünüyor. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &7Master's Saddle&r:\\n&7Kovboy Şapkasını&r takarken bindiğimiz her binek, istatistiklerine doğrudan bir bonus alır. Eyerde ne kadar uzun kalırsak o kadar karşılığını görürüz: Binek üzerindeyken saldırı ve blok etkileşiminde fazladan erişim, yalnızca binmekten gelen bir &bEmilim&r takviyesi ve sonunda evcilleştirdiğimiz her bineğin anında sakinleşmesi.\\n\\n- Koşmak yerine binmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Başımızda daha iyi binişler"
+	quest.70C7D92844089DEB.quest_desc: [" Diğer kolyeler gibi bunun da önce bize zarar verene zarar verme olasılığı vardır; yalnız bu sefer &bYıldırımla&r. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &bElectric Chain&r:\\nHasar almak, yakındaki hedefler arasında sıçrayıp dokunduğu her birine zarar veren bir elektrik şoku oluşturabilir. &bŞok Kolyesine&r ne kadar çok güvenirsek bu kıvılcım &9Suda&r veya yağmurda o kadar sert vurur. Ayrıca bizi gerçek &bYıldırım&r çarpmalarına karşı bağışık yapar.\\n\\n- Bir darbeye kendi kıvılcımıyla cevap vermeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.70C7D92844089DEB.quest_subtitle: "Boynumuzda kıvrılan yıldırım"
+	quest.7188DC06A28AE30E.quest_desc: [" Şu &eAltın Kancayı&r takmak, yaptığımız her öldürmeden kazandığımız &eDeneyimi&r artırır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &eMarauder's Hook&r:\\nHer öldürme bize normalden daha fazla &eDeneyim&r verir. Ona daha çok güvendikçe yakındaki Deneyim küreleri kendiliğinden bize doğru süzülmeye başlar; saldırmak diğer yaratıkları dövüşe biraz daha yaklaştırır ve arada bir düşmanın elindeki silahı bile düşürebilir.\\n\\n- Tek bir Deneyim puanını bile boşa harcamayanlarımız için bir &6Eser&r."]
+	quest.7188DC06A28AE30E.quest_subtitle: "Ellerimizde daha fazla deneyim"
+	quest.72D6265E35814927.quest_desc: [" Can ve hasar sistemi olan çoğu oyun, darbe aldıktan sonra bize bir hasar bağışıklığı süresi verir. Böylece anında ölmeyiz ve karşılık vermek için kısa bir fırsat buluruz. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &eHoly Protection&r:\\n&eHaç Kolyesini&r takarken hasar almak, hasar bağışıklığı süremizi uzatır. Onu ne kadar uzun taşırsak inananları o kadar korur: Bize saldıran yaşayan ölüler &cAteşe&r yakalanır, onlara verdiğimiz hasar artar ve arada bir bizi öldürmesi gereken bir darbe öldürmez.\\n\\n- Karşılık vermek için bize birkaç fırsat daha veren bir &6Eser&r."]
+	quest.72D6265E35814927.quest_subtitle: "Boynumuzda ikinci bir şans"
+	quest.73B73870B29DFAD9.quest_desc: [" Bizden biri! Bizden biri! \\n\\n- &l2 Yeteneği vardır:&r\\n\\n 1. &eTrading Instinct&r:\\n&eKöylü Şapkası&r bizi yeterince yerliye benzetir ve &aKöylüler&r fiyatlarını bizim için düşürür. Onu yeterince uzun taktığımızda tek bir takas aynı anda birden fazla sonuç verebilir; bazen Köylünün stokunu bile tüketmez. \\n\\n 2. &eGolem Guard&r:\\n&7Demir Golemler&r bizi tehdit olarak görmeyi bırakıp savunmamızda durmaya başlar. Yakındaki Golemler, bize yönelen hasarın bir kısmını bile üstlenebilir. \\n\\n- Korkulmak yerine güvenilmeyi tercih edenlerimiz için bir &6Eser&r."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Başımızda güvenilen yüzler"
+	quest.73FC51144FC2DA52.quest_desc: [" Bu &7Eldivenle&r vurduğumuz her düşmanın yaşamını çalarız. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &7Blooddrinker&r:\\n&7Vampir Eldiveni&r ile saldırılarımız, verdiğimiz &chasarın&r bir kısmı kadar bizi iyileştirir. Darbeleri birbirine yakın indirmeye devam ettikçe bu iyileşme güçlenir. Bir hedefi öldürmek, kendi azami &cCanımızın&r bir bölümünü yeniler; tam Canın ötesindeki her iyileşme de boşa gitmek yerine &bEmilime&r dönüşebilir. \\n\\n- Ah evet, üzgünüz, unuttuk... bleh bleh blehhh! \\n\\n- Başkasının Canıyla beslenince daha iyi savaşanlarımız için bir &6Eser&r."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Ellerimizin çaldığı yaşam"
+	quest.74B352457BF1541B.quest_desc: [" Aklı başında çoğu insan gibiysek Tozlaşmış Kardan nefret ederiz. Neyse ki &l&3Artifacts&r bununla başa çıkmak için bir araç sunar: Kar Ayakkabıları! \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &fSnowstride&r:\\n&fKar Ayakkabılarını&r takarken &bKar&r üzerindeki hareket hızımız artar. Yeterince uzun kar üzerinde kalırsak bu bonus, karın dışına çıktıktan sonra da birkaç saniye sürer. &fKar Ayakkabılarını&r yeterince uzun kullandığımızda donmaya karşı bağışık olur ve tıpkı Deri Çizmelerde olduğu gibi &bTozlaşmış Kar&r üzerinde güvenle yürüyebiliriz. \\n\\n- Kışın kendilerini yavaşlatmasını istemeyenlerimiz için bir &6Eser&r."]
+	quest.7503823ACDDB0491.quest_desc: [" Bu ve &aHurafe Şapka&r, ihtiyaç duyabileceğimiz bütün uğurları verir. &2Şanslı Atkı&r, Kazmalarımıza fazladan bir &6Servet&r seviyesi kazandırır. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &2Lucky Vein&r:\\nCevherleri ve Servetten etkilenen diğer blokları kazmanın, zaten sahip olduğumuz seviyenin üzerine fazladan bir &6Servet&r seviyesi uygulama olasılığı vardır. Şansımız sürdükçe bonus olmadan bir blok kazmak bir sonraki için olasılığı sessizce yükseltir. Aynı tür blokların hemen yanında kazmak da olasılığı daha fazla artırır.\\n\\n- Bir at nalından çok atkıya güvenenlerimiz için bir &6Eser&r."]
+	quest.7503823ACDDB0491.quest_subtitle: "Boynumuza sarılı servet"
 	quest.789AF6D0A6321945.quest_desc: [
-		"&l&3Eser&r'lerden tek ve en önemlisi! En güçlüsü! En tehlikeli olanı!"
+		"Hepsinin içindeki en önemli! En güçlü! En tehlikeli &l&3Eser&r!"
 		"{@pagebreak}"
-		"Ne işe yaradığını açıklamam gerektiğinden bile emin değilim, çok tehlikeli!"
+		"Ne yaptığını açıklamamız gerektiğinden bile emin değiliz; o kadar tehlikeli!"
 		"{@pagebreak}"
-		"Gücüyle başa çıkabileceğinden eminsen, belki de okumaya devam etmelisin..."
+		"Gücünü kontrol edebileceğimizden bu kadar eminsek belki okumaya devam etmeliyiz..."
 		"{@pagebreak}"
-		"Geri dönmek için geç değil!"
+		"Geri dönmek için hâlâ geç değil!"
 		"{@pagebreak}"
-		"Tamam, seni uyarmıştım..."
+		"Tamam, kendimizi uyardık..."
 		"{@pagebreak}"
-		"Osurma ihtimali için &dWhoopie Cushion&r takılıyken Shift tuşuna bas."
+		" &dWhoopee Minderi&r takılıyken gaz çıkarma olasılığı için Shift'e bas. \\n\\n- &l1 Yeteneği vardır:&r\\n\\n &dGas Burst&r:\\nGizlice ilerlemek bize kendine özgü sesini çıkarıp çevremizdeki her şeyi geriye itme olasılığı verir. Sonra toparlanması için kısa bir süre gerekir. Ona ne kadar çok güvenirsek darbe almak da misilleme olarak aynı Gas Burst'ü tetikleyebilir. Bazı patlamalar yakındaki hedefleri &7Felç Eder&r; arada bir, içinden geçen her şeyi &2Zehirleyen&r ve mide bulantısı veren kalıcı bir bulut da oluşur.\\n\\n- Mizahını çok ciddiye alanlarımız için bir &6Eser&r."
 	]
-	quest.789AF6D0A6321945.quest_subtitle: "Benzersiz"
-	task.68DC39876E14FC1B.title: "1 Mimic Öldür"
+	quest.789AF6D0A6321945.quest_subtitle: "Yanımızda taşıdığımız kaos"
+	task.68DC39876E14FC1B.title: "1 Taklitçi Öldür"
+	quest.5FD6A738754F6013.quest_desc: ["Bu görev, AllTheMods Modpack'lerinde kullanılmak üzere &6AllTheMods Ekibi&r veya bir &2Topluluk katılımcısı&r tarafından oluşturulmuştur.\\n\\nTüm &6AllTheMods&r paketleri &eTüm Hakları Saklıdır&r lisansına sahip olduğundan, bu görevin &6AllTheMods Ekibi&r tarafından yayınlanmayan veya açık bir izin verilmeyen hiçbir halka açık pakette kullanılmasına izin verilmez.\\n\\nBu görev kasıtlı olarak gizlenmiştir, eğer bunu görüyorsanız düzenleme modundasınız demektir."]
+	task.376652638B9221C9.title: "Tüm Hakları Saklıdır"
+	task.72E89066290E3040.title: "Tüm Hakları Saklıdır"
+	quest.0A1D4228271DECA3.title: "&5Küçülme Nazarlığı&r"
+	quest.0E716B90E60C486B.title: "&4Panik Kolyesi&r"
+	quest.11C5F17C6BB1237B.title: "&5Solmuş Bileklik&r"
+	quest.122E6E7CABCB17E7.title: "&7Kedi Terlikleri&r"
+	quest.145E7D1A88B83DDD.title: "&9Görünmezlik Atkısı&r"
+	quest.19B393433FB0C62F.title: "&4Lavgezer Çizmeleri&r"
+	quest.1E40ACF3E69A4100.title: "&6Panzehir Kabı&r"
+	quest.221C9EDA651144BA.title: "&3Batma Nazarlığı&r"
+	quest.321F16645640C462.title: "&9Warp Sürücüsü&r"
+	quest.3525D5DCC3A534D9.title: "&9Kazma Pençeleri&r"
+	quest.3705D303CF423804.title: "&eGüç Eldiveni&r"
+	quest.3B3BD39BA02DCA13.title: "&6Cep Pistonu&r"
+	quest.3E1A3BC8642390B3.title: "&4Şemsiye&r"
+	quest.3EC8A0B89788D079.title: "&9Paletler&r"
+	quest.427014BDE06DE631.title: "&cAteş Eldiveni&r"
+	quest.436E4E3515BCCDE9.title: "&bŞişedeki Bulut&r"
+	quest.4564B577CB4EC046.title: "&cSonsuz Biftek&r"
+	quest.4933CF4675E77D50.title: "&5Obsidiyen Kafatası&r"
+	quest.4A7AEBEB87CEC274.title: "&cKoşu Ayakkabıları&r"
+	quest.4D3379D38237F830.title: "&bSu Hızlandırıcıları&r"
+	quest.5040B3D29F238BC0.title: "&dTavşan Zıplayıcıları&r"
+	quest.50A32AC6EDBC5854.title: "&6Soğan Halkası&r"
+	quest.589F1D502F680075.title: "&dHelyum Flamingosu&r"
+	quest.5EB7CE3A1DCD3E9B.title: "&cEvrensel Çekici&r"
+	quest.623796B1D7981E59.title: "&4Kristal Kalp&r"
+	quest.62622137648A4F56.title: "&7Kazma Isıtıcısı&r"
+	quest.6A452BFC8A967C39.title: "&aVahşi Pençeler&r"
+	quest.7188DC06A28AE30E.title: "&eAltın Kanca&r"
+	quest.73FC51144FC2DA52.title: "&7Vampir Eldiveni&r"
+	quest.7503823ACDDB0491.title: "&2Şanslı Atkı&r"
+	quest.010607466D565B53.quest_subtitle: "Ayaklarımızın altında büyüyen kökler"
+	quest.010607466D565B53.title: "&aKöklenmiş Çizmeler&r"
+	quest.122E6E7CABCB17E7.quest_subtitle: "Ayaklarımızda dokuz can"
+	quest.161A90E134592D0E.title: "&4Ebedi Biftek&r"
+	quest.16255FB20F35A9D9.title: "&3Şnorkel&r"
+	quest.19B393433FB0C62F.quest_subtitle: "Ayaklarımızda ödünç Lavgezer bacakları"
+	quest.2215FB0777D7029D.quest_subtitle: "Ayaklarımızı hiç bırakmayan tutuş"
+	quest.2215FB0777D7029D.title: "&7Sarsılmaz Dikenler&r"
+	quest.2607F3DC07049785.title: "&6Plastik İçme Şapkası&r"
+	quest.27E951F4F4F6F847.title: "&cAlev Kolyesi&r"
+	quest.29448D08C8777425.title: "&cBalıkçı Şapkası&r"
+	quest.2AD78E22988A92D3.title: "&2Gece Görüş Gözlüğü&r"
+	quest.3446803FB59D8875.title: "&aDiken Kolyesi&r"
+	quest.3E0643EA9183CDAE.title: "&9İlginç İçme Şapkası&r"
+	quest.3EC8A0B89788D079.quest_subtitle: "Ayaklarımızda daha hızlı yüzüşler"
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Ayaklarımızda biriken hız"
+	quest.4D3379D38237F830.quest_subtitle: "Ayaklarımızla su üzerinde koşmak"
+	quest.5040B3D29F238BC0.quest_subtitle: "Ayaklarımızda daha yüksek zıplamalar"
+	quest.5CE44C58A470E48E.title: "&l&3Artifacts&r"
+	quest.5DE7C4FD5FA29236.title: "&dNakarat Totemi&r"
+	quest.5F5E43B3F51CAE9E.title: "&aHurafe Şapka&r"
+	quest.6FBE5B5D5027B32C.title: "&7Kovboy Şapkası&r"
+	quest.70C7D92844089DEB.title: "&bŞok Kolyesi&r"
+	quest.72D6265E35814927.title: "&eHaç Kolyesi&r"
+	quest.73B73870B29DFAD9.title: "&eKöylü Şapkası&r"
+	quest.74B352457BF1541B.quest_subtitle: "Ayaklarımızın ehlileştirdiği kış"
+	quest.74B352457BF1541B.title: "&fKar Ayakkabıları&r"
+	quest.789AF6D0A6321945.title: "&dWhoopee Minderi&r"
 }
