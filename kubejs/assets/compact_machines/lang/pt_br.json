@@ -1,10 +1,4 @@
-{
-  "machine.compactmachines.colossal": "Máquina Compacta (Colossal)",
-  "machine.compactmachines.giant": "Máquina Compacta (Gigante)",
-  "machine.compactmachines.large": "Máquina Compacta (Grande)",
-  "machine.compactmachines.normal": "Máquina Compacta (Normal)",
-  "machine.compactmachines.small": "Máquina Compacta (Pequena)",
-  "machine.compactmachines.tiny": "Máquina Compacta (Minúscula)",
+﻿{
   "machine.compactmachines.soaryn": "Máquina Compacta (Soaryn)",
   "machine.compactmachines.farming": "Máquina Compacta (de Cultivo)",
 
@@ -12,6 +6,19 @@
 
 
 
+  "itemGroup.compactmachines.main": "Compact Machines",
+
+
+
+
+
+
+  "machine.compactmachines.colossal": "Máquina Compacta (Colossal)",
+  "machine.compactmachines.giant": "Máquina Compacta (Gigante)",
+  "machine.compactmachines.large": "Máquina Compacta (Grande)",
+  "machine.compactmachines.normal": "Máquina Compacta (Normal)",
+  "machine.compactmachines.small": "Máquina Compacta (Pequena)",
+  "machine.compactmachines.tiny": "Máquina Compacta (Minúscula)",
   "advancement.compactmachines.foundations": "Fundações",
   "advancement.compactmachines.foundations.desc": "Obtenha um bloco de parede quebrável.",
   "advancement.compactmachines.got_shrinking_device": "Dispositivo Pessoal de Encolhimento",
@@ -51,7 +58,7 @@
   "item.compactmachines.enlarging_module": "Módulo de Ampliação de Átomos",
   "item.compactmachines.personal_shrinking_device": "Dispositivo Pessoal de Encolhimento",
   "item.compactmachines.shrinking_module": "Módulo de Encolhimento de Átomos",
-  "itemGroup.compactmachines.main": "Compact Machines",
+  "itemGroup.compactmachines.main": "Máquinas Compactas",
   "jei.compactmachines.machines": "As máquinas são usadas para criar dimensões de bolso. Fabrique uma máquina e coloque-a no mundo, depois use um Dispositivo Pessoal de Encolhimento para entrar.",
   "jei.compactmachines.shrinking_device": "Use o Dispositivo Pessoal de Encolhimento (PSD) em uma máquina para entrar em um espaço compacto.",
   "key.category.compactmachines.general": "Máquinas Compactas",

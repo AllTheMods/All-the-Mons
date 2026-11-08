@@ -101,7 +101,7 @@
 	quest.58006FC06C34F6CA.quest_desc: ["A &5Armadura de Zanita&r concede um total de 15 Pontos de Armadura. \\n\\nNada de especial sobre ela, é apenas Armadura!"]
 	quest.58006FC06C34F6CA.title: "&5Armadura de Zanita&r"
 	quest.5825892699A8DCB7.quest_desc: ["Uau, funcionou... \\n\\nBem-vindo(a) ao &e&lAether&r, um dos modpacks da infância de todos nós! E sim, é exatamente como nos lembramos! \\n\\nO &e&lAether&r é uma dimensão no céu, voando bem acima da &2&lSuperfície&r. Há ilhas flutuantes, estruturas e nuvens! Muitas e muitas nuvens. \\n\\nAqui você também encontrará novos itens, criaturas e até masmorras."]
-	quest.5825892699A8DCB7.title: "&l&eO Aether"
+	quest.5825892699A8DCB7.title: "&l&eThe Aether"
 	quest.5900ADCC247CD5F9.quest_desc: [
 		"A &eMasmorra de Prata&r é a masmorra mais fácil de encontrar porque fica acima do solo. \\n\\nE em nuvens enormes. \\n\\nE feita de &ePedra Angelical&r. \\n\\nEla tem o formato da arquitetura grega, o que é estranho porque as &eValquírias&r são nórdicas. \\n\\nPara encontrar a &e&lRainha Valquíria&r, você precisa ir ao último andar, encontrar a escadaria nos fundos e descer por ela. Depois de falar com ela, ela dirá para você obter 10 &eMedalhas da Vitória&r antes de poder lutar."
 		"{image:atm:textures/questpics/aether/aether_silver1.png width:200 height:100 align:center}"

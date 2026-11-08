@@ -13,7 +13,7 @@
     "item.rftoolsbase.dimensionalshard": "Fragmento Dimensional",
     "item.rftoolsbase.machine_frame": "Estrutura de Máquina",
     "item.rftoolsbase.machine_base": "Base de Máquina",
-    "item.rftoolsbase.crafting_card": "Cartão de Criação",
+    "item.rftoolsbase.crafting_card": "Cartão de Fabricação",
     "item.rftoolsbase.tablet": "Tablet (vazio)",
     "item.rftoolsbase.tablet_filled": "Tablet (preenchido)",
     "item.rftoolsbase.manual": "Guia de Tecnologia",
@@ -38,7 +38,7 @@
     "_comment": "Messages",
     "message.rftoolsbase.shiftmessage": "<Pressione Shift>",
 
-    "message.rftoolsbase.crafting_card.header": "Este item pode ser usado para criação. Ele armazena ingredientes e o resultado final de uma receita",
+    "message.rftoolsbase.crafting_card.header": "Este item pode ser usado para fabricação. Ele armazena ingredientes e o resultado final de uma receita",
     "message.rftoolsbase.crafting_card.info": "Item: ",
 
     "message.rftoolsbase.information_screen.header": "Coloque este bloco em uma powercell para exibir informações sobre essa célula. Clique com o botão direito com uma chave para mudar os modos",

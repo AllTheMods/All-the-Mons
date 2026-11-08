@@ -28,7 +28,7 @@
 	quest.30EB438C66324213.quest_desc: ["Uma Estrela do Nether fará o mesmo que os fragmentos de prismarinho, mas muito melhor. Os jogadores não precisam mais estar perto do gerador. Desde que o chunk esteja carregado, ele gerará criaturas."]
 	quest.30EB438C66324213.title: "Ignorar Jogadores"
 	quest.310969B8FE0A94DE.quest_desc: ["Outra mudança de jogo que o Apotheosis traz é nos geradores. Lembra de poder minerar geradores com Toque Suave? Bem, isso voltou graças ao Apotheosis! Há também muitas modificações novas que você pode adicionar aos geradores clicando com o botão direito com qualquer um destes itens."]
-	quest.310969B8FE0A94DE.title: "Geradores Apothic"
+	quest.310969B8FE0A94DE.title: "Apothic Spawners"
 	quest.321C15EBBE2D3D30.quest_desc: ["Quando você explode um gerador, ele se torna altamente instável, invocando uma grande quantidade de suas respectivas criaturas e deixando Correntes de Gerador para trás.\\n\\nQuantas correntes? Talvez esteja se perguntando. No momento, entre 48 e 57.\\n\\nVocê precisará dessas correntes para..."]
 	quest.321C15EBBE2D3D30.title: "Explodindo Geradores"
 	quest.39E822440E7D2E04.quest_desc: ["O Mob Grinding Utils é focado em farms de criaturas, então é claro que ele tem um gerador! O Gerador de Entidades! No entanto, ele precisa de 3 coisas para funcionar: um ovo gerador, gelatinas de EXP e um sinal de Redstone. Gelatinas de EXP são feitas processando EXP em um solidificador de EXP com o molde de gelatina de EXP. Elas podem ser comidas ou usadas como combustível no segundo slot. Assim que colocar o ovo gerador no slot superior, as gelatinas de EXP no segundo e fornecer um sinal de Redstone, ele começará a gerar criaturas!"]
@@ -46,7 +46,9 @@
 	quest.42D7C8CD8E6F5CD7.title: "Sem IA"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["Uma fogueira usada no gerador fará com que as criaturas surjam em chamas. Perfeito para obter bifes assados."]
 	quest.4F7F8F4ED1CA0550.title: "Em Chamas"
-	quest.503AC506720FC59E.quest_desc: ["Para modificações mais avançadas em geradores, você precisará &d&linfundir&r suas Runas de Gerador.\\n\\n\\Você precisará de pelo menos &a70 de Eterna&r, &c30% de Quanta&r e &550% de Arcana&r em uma &5Mesa de Encantamentos&r. \\n\\nPara obter isso, você pode usar uma das seguintes opções:\\n\\n14 &9Estantes das Profundezas&r que não estejam &9Inativas&r!\\n12 &4Estantes Infernais Brilhantes&r e 2 &9Estantes das Profundezas&r!\\n12 &bEstantes Marinhas Cristalinas&r e 2 &9Estantes das Profundezas&r!\\n\\nConfira o capítulo &5&lEncantamento Apócrifo&r para aprender mais sobre essas mecânicas."]
+	quest.503AC506720FC59E.quest_desc: [
+		"Para modificações mais avançadas nos Geradores, você precisará &d&lInfundir&r suas Runas de Gerador.\\n\\nPrecisaremos de pelo menos &a70 de Eterna&r, &c30% de Quanta&r e &550% de Arcana&r em uma &5Mesa de Encantamentos&r. \\n\\nPara isso, podemos usar qualquer uma das opções:\\n\\n14 &9Estantes das Profundezas&r, que não estejam &9Adormecidas&r!\\n13 &4Estantes Infernais Brilhantes&r e 2 &9Estantes das Profundezas&r!\\n12 &bEstantes Marinhas Cristalinas&r e 2 &9Estantes das Profundezas&r!\\n\\nConfira o capítulo &5&lApothic Enchanting&r para saber mais sobre essas mecânicas."
+	]
 	quest.503AC506720FC59E.quest_subtitle: "Modificações Avançadas"
 	quest.52FAF122466FDDC9.quest_desc: ["O Gerador Estabilizado é a versão de gerador do Draconic Evolution. Quando você usa um dos núcleos em um gerador, ele se torna um Gerador Estabilizado. Você pode trocar os núcleos, mas não poderá alterar os atributos, pois agora eles são definidos pelos núcleos. Quanto melhor o núcleo, mais criaturas são geradas e mais rápido."]
 	quest.52FAF122466FDDC9.quest_subtitle: "Gerador do Draconic Evolution"

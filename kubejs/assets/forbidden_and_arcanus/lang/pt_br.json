@@ -1,4 +1,12 @@
-{
+﻿{
+  "enchantment.forbidden_arcanus.soul_looting": "Pilhagem de Almas",
+  "item.forbidden_arcanus.corrupted_arcane_crystal": "Cristal Arcano de Sintonia Rúnica",
+
+
+
+
+
+
   "attribute.name.generic.aureal_regeneration": "Regeneração de Aureal",
   "block.forbidden_arcanus.arcane_crystal_block": "Bloco de Cristal Arcano",
   "block.forbidden_arcanus.arcane_crystal_obelisk": "Obelisco de Cristal Arcano",
@@ -126,7 +134,7 @@
   "block.forbidden_arcanus.yellow_orchid": "Orquídea Amarela",
   "container.forbidden_arcanus.clibano": "Clibano",
   "container.forbidden_arcanus.hephaestus_forge": "Forja de Hefesto",
-  "enchantment.forbidden_arcanus.soul_looting": "Pilhagem de Almas",
+  "enchantment.forbidden_arcanus.soul_looting": "Saque de Almas",
   "entity.forbidden_arcanus.corrupt_lost_soul": "Alma Perdida Corrompida",
   "entity.forbidden_arcanus.dark_trader": "Comerciante Sombrio",
   "entity.forbidden_arcanus.enchanted_lost_soul": "Alma Perdida Encantada",
@@ -167,7 +175,7 @@
   "item.forbidden_arcanus.brown_quantum_catcher": "Capturador Quântico Marrom",
   "item.forbidden_arcanus.cooked_tentacle": "Tentáculo Cozido",
   "item.forbidden_arcanus.corrupt_soul": "Alma Corrompida",
-  "item.forbidden_arcanus.corrupted_arcane_crystal": "Cristal Arcano de Sintonia Rúnica",
+  "item.forbidden_arcanus.corrupted_arcane_crystal": "Cristal Arcano Corrompido",
   "item.forbidden_arcanus.corrupti_dust": "Pó de Corrupto",
   "item.forbidden_arcanus.crescent_moon": "Lua Crescente",
   "item.forbidden_arcanus.crimson_stone": "Pedra Carmesim",

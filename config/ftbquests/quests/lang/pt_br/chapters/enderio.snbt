@@ -1,4 +1,4 @@
-{
+﻿{
 	quest.0061B0577B1C4AEF.quest_desc: [
 		"&7Começamos nossa jornada pelo &bEnder IO&7 atrás de um material estranho e brilhante."
 		"Os &6Grãos do Infinito&r são obtidos ao atearmos &cfogo&r na &7Rocha Matriz&r. Ao incendiarmos um Bloco de Rocha Matriz, existe uma pequena chance de ele deixar cair esse item."
@@ -20,7 +20,7 @@
 	quest.03EC3173343B11F5.title: "&7&lO Ender"
 	quest.0527CE6921ADB079.quest_desc: [
 		"&7O &5Vinculador de Almas&r consome energia &9µI&r e XP líquido para fabricar itens especiais, como vincular um &5Frasco de Alma&r preenchido a um &7Gerador Quebrado&r."
-		"Podemos abastecê-lo com experiência usando uma &7Vara de Experiência&r, ou canalizando &2XP Líquido&r até ele com um conduíte de fluidos."
+		"Podemos abastecê-lo com experiência usando uma &7Vara de Experiência&r, ou canalizando &2XP Líquido&r até ele com um condutor de fluidos."
 	]
 	quest.0527CE6921ADB079.quest_subtitle: "&7Onde a energia encontra a experiência líquida"
 	quest.0527CE6921ADB079.title: "&5&lVinculador de Almas"
@@ -71,7 +71,7 @@
 	quest.19456F38224A24DB.title: "&8&lTriturador SAG"
 	quest.1AF97F48B4C13020.quest_desc: [
 		"&7A &6Chave Yeta&r é nossa ferramenta favorita para interagir com blocos do Ender IO: clique com o botão direito para girar máquinas, ou agache e clique para pegá-las sem perder o inventário ou as melhorias."
-		"Ela também é essencial para configurar &bcondutes&r, permitindo definir os lados de entrada/saída e as cores, para que itens, energia e fluidos fluam exatamente para onde queremos."
+		"Ela também é essencial para configurar &bcondutores&r, permitindo definir os lados de entrada/saída e as cores, para que itens, energia e fluidos fluam exatamente para onde queremos."
 	]
 	quest.1AF97F48B4C13020.quest_subtitle: "&7Nossa ferramenta multiuso para máquinas e condutes"
 	quest.1AF97F48B4C13020.title: "&6&lChave Yeta"
@@ -88,8 +88,8 @@
 	quest.224BF0C9690FBEBF.quest_subtitle: "&7Aplicando livros de encantamento com energia"
 	quest.224BF0C9690FBEBF.title: "&5&lEncantador"
 	quest.262B331BB96336F5.quest_desc: [
-		"&7Depois que nossa base fica coberta de &bcondutes&r, tudo pode ficar bagunçado. A &fFachada de Condutor&r nos permite disfarçar qualquer conjunto de condutes com o bloco que quisermos."
-		"&aDica:&r Basta aplicar a fachada sobre um conduíte para que ele se misture visualmente com nossas construções, continuando a funcionar perfeitamente por dentro."
+		"&7Depois que nossa base fica coberta de &bcondutores&r, tudo pode ficar bagunçado. A &fFachada de Condutor&r nos permite disfarçar qualquer feixe de condutores com o bloco que quisermos."
+		"&aDica:&r Basta aplicar a fachada sobre um condutor para que ele se misture visualmente com nossas construções, continuando a funcionar perfeitamente por dentro."
 	]
 	quest.262B331BB96336F5.quest_subtitle: "&7Escondendo nossos condutes à vista de todos"
 	quest.262B331BB96336F5.title: "&f&lFachada de Condutor"
@@ -216,7 +216,7 @@
 	quest.726857C4BE6ADCDE.title: "&e&lCajado de Levitação"
 	quest.729B89CA30BE3B28.quest_desc: [
 		"&7O &eFunil de Impulso&r puxa itens derrubados e orbes de experiência próximos direto para seu inventário, funcionando como um aspirador para nossas fazendas e moedores de mobs."
-		"Podemos combiná-lo com um conduíte de itens para levar tudo o que ele coleta direto para nosso sistema de armazenamento."
+		"Podemos combiná-lo com um condutor de itens para levar tudo o que ele coleta direto para nosso sistema de armazenamento."
 	]
 	quest.729B89CA30BE3B28.quest_subtitle: "&7Sugando itens e XP do chão"
 	quest.729B89CA30BE3B28.title: "&e&lFunil de Impulso"

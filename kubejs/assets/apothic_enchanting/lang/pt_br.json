@@ -113,7 +113,7 @@
     "info.apothic_enchanting.limit": "[Limite: %s]",
 
     "enchantment.apothic_enchanting.infusion": "Infusão",
-    "enchantment.apothic_enchanting.infusion.desc": "Espaço reservado para Criação de Encantamentos",
+    "enchantment.apothic_enchanting.infusion.desc": "Espaço reservado para Fabricação de Encantamentos",
 
     "enchantment.apothic_enchanting.mounted_strike": "Golpe Montado",
     "enchantment.apothic_enchanting.mounted_strike.desc": "Causa dano extra quando em um cavalo.",
@@ -125,7 +125,7 @@
     "enchantment.apothic_enchanting.stable_footing.desc": "Anula a penalidade de velocidade de mineração por voar.",
 
     "enchantment.apothic_enchanting.scavenger": "Saqueador",
-    "enchantment.apothic_enchanting.scavenger.desc": "Criaturas mortas podem rolar suas tabelas de saques duas vezes.",
+    "enchantment.apothic_enchanting.scavenger.desc": "Criaturas mortas podem rolar suas tabelas de itens duas vezes.",
 
     "enchantment.apothic_enchanting.life_mending": "Remendo Vital",
     "enchantment.apothic_enchanting.life_mending.desc": "Consome a cura recebida para reparar itens.",
@@ -136,8 +136,8 @@
     "enchantment.apothic_enchanting.bane_of_illagers": "Perdição dos Illagers",
     "enchantment.apothic_enchanting.bane_of_illagers.desc": "Illagers recebem dano aumentado.",
 
-    "death.attack.apothic_enchanting:corrupted": "%s foi drenado por um encantamento corrompido.",
-    "death.attack.apothic_enchanting:corrupted.player": "%s foi corrompido por %s.",
+    "death.attack.apothic_enchanting:corrupted": "Um encantamento corrompido drenou %s.",
+    "death.attack.apothic_enchanting:corrupted.player": "%s sofreu corrupção por %s.",
 
     "item.apothic_enchanting.prismatic_web": "Teia de Aranha Prismática",
     "info.apothic_enchanting.prismatic_cobweb": "Pode ser usada para remover maldições.",
@@ -155,7 +155,7 @@
     "item.apothic_enchanting.scrap_tome": "Tomo da Desmontagem",
     "item.apothic_enchanting.improved_scrap_tome": "Tomo da Desmontagem Superior",
     "item.apothic_enchanting.extraction_tome": "Tomo de Extração",
-    "item.apothic_enchanting.warden_tendril": "Gavinha de Defensor",
+    "item.apothic_enchanting.warden_tendril": "Gavinha de Sentinela",
     "item.apothic_enchanting.infused_breath": "Bafo do Dragão Imbuído",
     "item.apothic_enchanting.flimsy_ender_lead": "Laço de Ender Frágil",
     "item.apothic_enchanting.flimsy_ender_lead.desc": "Pode capturar e mover animais",
@@ -209,7 +209,7 @@
     "enchantment.apothic_enchanting.berserkers_fury.desc": "Fica enfurecido ao receber dano. [⌛ 0:45]",
 
     "enchantment.apothic_enchanting.knowledge_of_the_ages": "Conhecimento das Eras",
-    "enchantment.apothic_enchanting.knowledge_of_the_ages.desc": "Itens soltos por inimigos são convertidos diretamente em experiência.",
+    "enchantment.apothic_enchanting.knowledge_of_the_ages.desc": "Itens largados por inimigos são convertidos diretamente em experiência.",
 
     "enchantment.apothic_enchanting.natures_blessing": "Bênção da Natureza",
     "enchantment.apothic_enchanting.natures_blessing.desc": "Enxadas podem ser usadas para usar farelo de osso em plantações.",
@@ -230,7 +230,7 @@
     "enchantment.apothic_enchanting.worker_exploitation.desc": "A lã recebida é dobrada, mas a ovelha recebe dano.",
 
     "enchantment.apothic_enchanting.growth_serum": "Soro de Crescimento",
-    "enchantment.apothic_enchanting.growth_serum.desc": "Ovelhas têm 50% de chance de regenerar instantaneamente sua lã.",
+    "enchantment.apothic_enchanting.growth_serum.desc": "Ovelhas têm 50% chance de regenerar instantaneamente sua lã.",
 
     "enchantment.apothic_enchanting.boon_of_the_earth": "Dádiva da Terra",
     "enchantment.apothic_enchanting.boon_of_the_earth.desc": "Minérios podem ser encontrados ao minerar pedra.",
@@ -315,7 +315,7 @@
     "advancements.apothic_enchanting.deepshelf.desc": "Ative uma Estante das Profundezas Adormecida.",
 
     "advancements.apothic_enchanting.sculkshelf": "Abraçando o Sculk",
-    "advancements.apothic_enchanting.sculkshelf.desc": "Fabrique uma Estante de Sculk usando uma Gavinha de Defensor.",
+    "advancements.apothic_enchanting.sculkshelf.desc": "Fabrique uma Estante de Sculk usando uma Gavinha de Sentinela.",
 
     "advancements.apothic_enchanting.endshelf": "Encantador Matador de Dragões",
     "advancements.apothic_enchanting.endshelf.desc": "Adquira Bafo do Dragão Imbuído e fabrique uma Estante do End.",
@@ -342,7 +342,7 @@
     "advancements.apothic_enchanting.altar.desc": "Fabrique um Altar dos Mares, que pode transformar itens encantados indesejados em um novo livro.",
 
     "advancements.apothic_enchanting.splitting": "Esmagador de Encantamentos",
-    "advancements.apothic_enchanting.splitting.desc": "Solte com sucesso uma bigorna encantada com Divisão em um livro encantado para dividi-lo",
+    "advancements.apothic_enchanting.splitting.desc": "Largue com sucesso uma bigorna encantada com Divisão em um livro encantado para dividi-lo",
 
     "advancements.apothic_enchanting.sharp10": "Afiadérrima",
     "advancements.apothic_enchanting.sharp10.desc": "Encante uma arma com Afiação X ou superior",
@@ -354,25 +354,25 @@
     "advancements.apothic_enchanting.enchanting_stats.desc": "Encante um item tendo pelo menos 10 de cada atributo.",
 
     "advancements.apothic_enchanting.quanta0": "Adeus, Fluxo",
-    "advancements.apothic_enchanting.quanta0.desc": "Encante um item com 0% de Quanta.",
+    "advancements.apothic_enchanting.quanta0.desc": "Encante um item com 0% Quanta.",
 
     "advancements.apothic_enchanting.quanta50": "Introdução ao Caos",
-    "advancements.apothic_enchanting.quanta50.desc": "Encante um item com 50% de Quanta.",
+    "advancements.apothic_enchanting.quanta50.desc": "Encante um item com 50% Quanta.",
 
     "advancements.apothic_enchanting.quanta100": "Jogando os Dados",
-    "advancements.apothic_enchanting.quanta100.desc": "Encante um item com 100% de Quanta.",
+    "advancements.apothic_enchanting.quanta100.desc": "Encante um item com 100% Quanta.",
 
     "advancements.apothic_enchanting.arcana50": "Energia Mágica",
-    "advancements.apothic_enchanting.arcana50.desc": "Encante um item com 50% de Arcana.",
+    "advancements.apothic_enchanting.arcana50.desc": "Encante um item com 50% Arcana.",
 
     "advancements.apothic_enchanting.arcana100": "Poder Arcano",
-    "advancements.apothic_enchanting.arcana100.desc": "Encante um item com 100% de Arcana.",
+    "advancements.apothic_enchanting.arcana100.desc": "Encante um item com 100% Arcana.",
 
     "advancements.apothic_enchanting.max_stats": "Força Máxima",
     "advancements.apothic_enchanting.max_stats.desc": "Encante um item tendo todos os atributos no máximo.",
 
     "advancements.apothic_enchanting.max_stable": "Poder Estável",
-    "advancements.apothic_enchanting.max_stable.desc": "Encante um item com Eterna e Arcana máximos, mas 0% de Quanta.",
+    "advancements.apothic_enchanting.max_stable.desc": "Encante um item com Eterna e Arcana máximos, mas 0% Quanta.",
 
     "advancements.apothic_enchanting.max_rectified": "Apenas o Melhor",
     "advancements.apothic_enchanting.max_rectified.desc": "Encante um item com atributos máximos e Estabilidade Quântica.",
@@ -387,9 +387,9 @@
     "text.apothic_enchanting.star_prefix": "🌟 ",
 
     "enchantment.level.0": "0",
-    "enchantment.level.11": "XI",
+    "enchantment.level.11": "X",
     "enchantment.level.12": "XII",
-    "enchantment.level.13": "XIII",
+    "enchantment.level.13": "IX",
     "enchantment.level.14": "XIV",
     "enchantment.level.15": "XV",
     "enchantment.level.16": "XVI",
@@ -476,7 +476,7 @@
     "enchantment.level.97": "XCVII",
     "enchantment.level.98": "XCVIII",
     "enchantment.level.99": "XCIX",
-    "enchantment.level.100": "C",
+    "enchantment.level.100": "F",
     "enchantment.level.101": "CI",
     "enchantment.level.102": "CII",
     "enchantment.level.103": "CIII",

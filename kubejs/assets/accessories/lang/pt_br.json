@@ -1,0 +1,373 @@
+{
+    "accessories.slot.tooltip.singular": "Espaço: ",
+    "accessories.slot.tooltip.plural": "Espaços: ",
+    "accessories.cosmetic_slot.tooltip.singular": "Espaço Cosmético: ",
+    "accessories.cosmetic_slot.tooltip.plural": "Espaços Cosméticos: ",
+    "accessories.slot.any": "Qualquer",
+    "accessories.slot.except": " exceto ",
+    "accessories.tooltip.attributes.any": "Quando Equipado:",
+    "accessories.tooltip.attributes.slot": "Quando Equipado em %s:",
+    "accessories.tooltip.currently_equipped_in": "Equipado em: ",
+    "accessories.slot.hat": "Chapéu",
+    "accessories.slot.face": "Rosto",
+    "accessories.slot.cape": "Capa",
+    "accessories.slot.necklace": "Colar",
+    "accessories.slot.back": "Costas",
+    "accessories.slot.hand": "Mão",
+    "accessories.slot.ring": "Anel",
+    "accessories.slot.wrist": "Pulso",
+    "accessories.slot.belt": "Cinto",
+    "accessories.slot.anklet": "Tornozeleira",
+    "accessories.slot.shoes": "Sapatos",
+    "accessories.slot.charm": "Amuleto",
+    "accessories.slot.accessories.head": "Cabeça",
+    "accessories.slot.accessories.chest": "Peito",
+    "accessories.slot.accessories.legs": "Pernas",
+    "accessories.slot.accessories.feet": "Pés",
+    "accessories.slot.accessories.animal_body": "Corpo",
+    "accessories.slot_group.misc": "Diversos",
+    "accessories.slot_group.head": "Cabeça",
+    "accessories.slot_group.chest": "Peito",
+    "accessories.slot_group.arm": "Braços",
+    "accessories.slot_group.leg": "Pernas",
+    "accessories.slot_group.feet": "Pés",
+    "accessories.slot_group.unsorted": "Não Classificado",
+    "accessories.key.category.accessories": "Acessórios",
+    "argument.livingEntities.nonLiving": "Apenas entidades vivas podem ser afetadas por este comando, mas o seletor fornecido inclui entidades não vivas",
+
+    "gamerule.accessories.keepAccessoryInventory": "Manter Inventário de Acessórios",
+
+    "#comment": "GUI Related Below",
+
+    "accessories.key.open_accessories_screen": "Abrir Tela de Acessórios",
+    "accessories.slot.cosmetics.toggle.show": "Mostrar Espaços Cosméticos",
+    "accessories.slot.cosmetics.toggle.hide": "Ocultar Espaços Cosméticos",
+    "accessories.display.toggle.show": "Mostrar Acessório",
+    "accessories.display.toggle.hide": "Ocultar Acessório",
+    "accessories.lines.toggle.show": "Mostrar Todas as Linhas",
+    "accessories.lines.toggle.hide": "Ocultar Todas as Linhas",
+    "accessories.unused_slots.toggle.show": "Mostrar Espaços Não Utilizados",
+    "accessories.unused_slots.toggle.hide": "Ocultar Espaços Não Utilizados",
+    "accessories.slot_cosmetics.toggle.enabled": "Mostrar Espaços de Acessórios",
+    "accessories.slot_cosmetics.toggle.disabled": "Mostrar Espaços Cosméticos",
+    "accessories.advanced_options.toggle.enabled": "❤",
+    "accessories.advanced_options.toggle.disabled": "⚗",
+    "accessories.advanced_options.toggle.enabled.tooltip": "Ocultar opções de Configuração de Tela Extras",
+    "accessories.advanced_options.toggle.disabled.tooltip": "Mostrar Opções de Configuração de Tela Extras",
+    "accessories.unused_slots.label": "Espaços Não Utilizados:",
+    "accessories.unused_slots.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "✔", "color": "#28FFBF"},
+    {"text": "]", "color": "gray"},
+    " Exibidos"
+  ],
+    "accessories.unused_slots.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "❌", "color": "#EB1D36"},
+    {"text": "]", "color": "gray"},
+    " Ocultos"
+  ],
+    "accessories.unused_slots.toggle.enabled.tooltip": "Ocultar todos os Espaços Não Utilizados",
+    "accessories.unused_slots.toggle.disabled.tooltip": "Mostrar todos os Espaços Não Utilizados",
+    "accessories.column_amount_slider.label": "Quantidade de Colunas:",
+    "accessories.column_amount_slider.tooltip": "Controle deslizante usado para ajustar a quantidade de Colunas para o Layout de Acessórios",
+    "accessories.widget_type.label": "Variante de Widget:",
+    "accessories.widget_type.paginated": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "☰", "color": "#347ecf"},
+    {"text": "]", "color": "gray"},
+    " Paginado"
+  ],
+    "accessories.widget_type.paginated.tooltip": "Um Layout Paginado para Espaços de Acessórios",
+    "accessories.widget_type.scrollable": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "⏷", "color": "#953abd"},
+    {"text": "]", "color": "gray"},
+    " Rolável"
+  ],
+    "accessories.main_widget_position.label": "Posição do Widget:",
+    "accessories.main_widget_position.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "←", "color": "#32a852"},
+    {"text": "]", "color": "gray"},
+    " Esquerda"
+  ],
+    "accessories.main_widget_position.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "→", "color": "#32a852"},
+    {"text": "]", "color": "gray"},
+    " Direita"
+  ],
+    "accessories.main_widget_position.toggle.enabled.tooltip": "Mover o Widget de Acessórios para a Direita",
+    "accessories.main_widget_position.toggle.disabled.tooltip": "Mover o Widget de Acessórios para a Esquerda",
+    "accessories.group_filter.label": "Filtros de Grupo:",
+    "accessories.group_filter.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "✔", "color": "#28FFBF"},
+    {"text": "]", "color": "gray"},
+    " Exibidos"
+  ],
+    "accessories.group_filter.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "❌", "color": "#EB1D36"},
+    {"text": "]", "color": "gray"},
+    " Ocultos"
+  ],
+    "accessories.group_filter.toggle.enabled.tooltip": "Ocultar widget de filtro de grupo",
+    "accessories.group_filter.toggle.disabled.tooltip": "Mostrar widget de filtro de grupo",
+    "accessories.side_widget_position.label": "Posição Lateral:",
+    "accessories.side_widget_position.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "()", "color": "#32a852"},
+    {"text": "]", "color": "gray"},
+    " Juntos"
+  ],
+    "accessories.side_widget_position.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "||", "color": "#32a852"},
+    {"text": "]", "color": "gray"},
+    " Separados"
+  ],
+    "accessories.side_widget_position.toggle.enabled.tooltip": "Mover Widget Lateral para ficar junto com o Widget de Acessórios",
+    "accessories.side_widget_position.toggle.disabled.tooltip": "Mover Widget Lateral para ficar oposto ao Widget de Acessórios",
+    "accessories.dark_mode_toggle.label": "Modo do Tema:",
+    "accessories.dark_mode_toggle.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "☽", "color": "#3d29c2"},
+    {"text": "]", "color": "gray"},
+    " Escuro"
+  ],
+    "accessories.dark_mode_toggle.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "☀", "color": "#bffa9b"},
+    {"text": "]", "color": "gray"},
+    " Claro"
+  ],
+    "accessories.dark_mode_toggle.toggle.enabled.tooltip": "Mudar tema para Modo Claro",
+    "accessories.dark_mode_toggle.toggle.disabled.tooltip": "Mudar tema para Modo Escuro",
+    "accessories.show_equipped_stack_slot_type.label": "Tipo Equipado:",
+    "accessories.show_equipped_stack_slot_type.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "✔", "color": "#28FFBF"},
+    {"text": "]", "color": "gray"},
+    " Exibidos"
+  ],
+    "accessories.show_equipped_stack_slot_type.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "❌", "color": "#EB1D36"},
+    {"text": "]", "color": "gray"},
+    " Oculto"
+  ],
+    "accessories.show_equipped_stack_slot_type.toggle.enabled.tooltip": "Ocultar o tipo de Espaço do item equipado",
+    "accessories.show_equipped_stack_slot_type.toggle.disabled.tooltip": "Mostrar o tipo de Espaço do item equipado",
+    "accessories.entity_look_at_cursor.label": "Olhar para o Mouse:",
+    "accessories.entity_look_at_cursor.toggle.enabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "✔", "color": "#28FFBF"},
+    {"text": "]", "color": "gray"},
+    " Habilitado"
+  ],
+    "accessories.entity_look_at_cursor.toggle.disabled": [
+    "",
+    {"text": "[", "color": "gray"},
+    {"text": "❌", "color": "#EB1D36"},
+    {"text": "]", "color": "gray"},
+    " Desabilitado"
+  ],
+    "accessories.entity_look_at_cursor.toggle.enabled.tooltip": "Desabilitar o olhar para o cursor",
+    "accessories.entity_look_at_cursor.toggle.disabled.tooltip": "Habilitar o olhar para o cursor",
+    "accessories.lines.toggle.enabled.tooltip": "Ocultar toda a Renderização de Linhas",
+    "accessories.lines.toggle.disabled.tooltip": "Mostrar toda a Renderização de Linhas",
+    "accessories.crafting_grid.toggle.enabled": "☒",
+    "accessories.crafting_grid.toggle.disabled": "☐",
+    "accessories.crafting_grid.toggle.enabled.tooltip": "Ocultar a pequena grade de fabricação",
+    "accessories.crafting_grid.toggle.disabled.tooltip": "Mostrar a pequena grade de fabricação",
+    "accessories.widget_type.scrollable.tooltip": "Um Layout Rolável para Espaços de Acessórios",
+    "accessories.selection_screen.message": [
+    "Abaixo está um conjunto de opções de tela que você \n",
+    "pode escolher dependendo do estilo do \n",
+    "Modpack ou do seu estilo de jogo. \n\n",
+    "Observe que você pode mudar isso na \n",
+    "Configuração de Acessórios se a opção dada não for \n",
+    "do seu agrado."
+  ],
+    "accessories.unique_slots.toggle.show": "Mostrar Espaços Únicos",
+    "accessories.unique_slots.toggle.hide": "Ocultar Espaços Únicos",
+    "accessories.back.screen": "Para a Tela Anterior",
+    "accessories.open.screen": "Abrir Tela de Acessórios",
+    "accessories.reset.group_filter": "Redefinir Filtros de Grupo",
+
+
+    "text.config.accessories.title": "Configuração de Acessórios",
+
+    "text.config.accessories.option.useExperimentalCaching": "Usar Cache Experimental",
+    "text.config.accessories.option.useExperimentalCaching.tooltip": [
+    "Tenta armazenar em cache várias buscas de ItemStack\n",
+    "para ser mais performático, mas pode causar problemas."
+  ],
+
+    "text.config.accessories.category.clientOptions": "Opções do Cliente",
+    "text.config.accessories.category.clientOptions.tooltip": [
+    "Contém opções mais genéricas do lado do cliente para renderização ou entrada do jogador"
+  ],
+
+    "text.config.accessories.option.clientOptions.forceNullRenderReplacement": "Forçar Substituição de Renderização Vazia",
+    "text.config.accessories.option.clientOptions.forceNullRenderReplacement.tooltip": [
+    "Força que qualquer renderizador registrado encontrado como sem\n",
+    "renderização use a renderização padrão em seu lugar."
+  ],
+
+    "text.config.accessories.option.clientOptions.disableEmptySlotScreenError": "Desabilitar erro de tela de espaço vazio",
+    "text.config.accessories.option.clientOptions.disableEmptySlotScreenError.tooltip": [
+    "Desabilita a mensagem de erro exibida se a tela de acessórios\n",
+    "for aberta e nenhum espaço usado for encontrado."
+  ],
+
+    "text.config.accessories.option.clientOptions.showCosmeticAccessories": "Mostrar renderização cosmética de item",
+    "text.config.accessories.option.clientOptions.showCosmeticAccessories.tooltip": [
+    "Habilita/Desabilita a renderização de variantes de itens cosméticos se equipados."
+  ],
+
+    "text.config.accessories.option.clientOptions.disabledDefaultRenders": "Renderizações padrão desabilitadas",
+    "text.config.accessories.option.clientOptions.disabledDefaultRenders.tooltip": [
+    "Desabilita a renderização padrão incluída dos itens se estiver sendo usada."
+  ],
+
+    "text.config.accessories.option.clientOptions.equipControl": "Modo de equipar rápido da mão",
+    "text.config.accessories.option.clientOptions.equipControl.tooltip": [
+    "Altera o modo usado para equipar rapidamente um item da sua mão."
+  ],
+
+    "text.config.accessories.enum.playerEquipControl.must_crouch": "Requer Agachar",
+    "text.config.accessories.enum.playerEquipControl.must_not_crouch": "Sem Agachar",
+    "text.config.accessories.enum.playerEquipControl.disabled": "Desabilitado",
+
+    "text.config.accessories.category.screenOptions": "Opções de Tela",
+    "text.config.accessories.category.screenOptions.tooltip": [
+    "Contém todas as opções de configuração de tela para todas as variantes e o deslocamento de botão injetado"
+  ],
+
+    "text.config.accessories.option.screenOptions.selectedScreenType": "Tipo de Tela Selecionado",
+    "text.config.accessories.option.screenOptions.selectedScreenType.tooltip": [
+    "Usado para ajustar qual tela será usada, 'none' (nenhum)\n",
+    "mostrará um prompt para seleção do usuário."
+  ],
+
+    "text.config.accessories.enum.screenType.none": "Não Decidido",
+    "text.config.accessories.enum.screenType.original": "Original",
+    "text.config.accessories.enum.screenType.experimental_v1": "Experimental",
+
+    "text.config.accessories.option.screenOptions.showUnusedSlots": "Mostrar Espaços Não Utilizados",
+    "text.config.accessories.option.screenOptions.showUnusedSlots.tooltip": "Alterna a filtragem de espaços não utilizados",
+
+    "text.config.accessories.option.screenOptions.allowSlotScrolling": "Permitir Rolagem de Espaços na Tela",
+    "text.config.accessories.option.screenOptions.allowSlotScrolling.tooltip": [
+    "Útil se o mod dado permitir rolagem de itens\n",
+    "causando problemas ao navegar pelos acessórios."
+  ],
+
+    "text.config.accessories.option.screenOptions.showEquippedStackSlotType": "Mostrar Tipo de Espaço dos Itens Equipados",
+    "text.config.accessories.option.screenOptions.showEquippedStackSlotType.tooltip": [
+    "Mostra o tipo de espaço em que o item está equipado dentro de sua dica."
+  ],
+
+    "text.config.accessories.option.screenOptions.entityLooksAtMouseCursor": "Fazer Entidade Seguir o Cursor do Mouse",
+    "text.config.accessories.option.screenOptions.entityLooksAtMouseCursor.tooltip": [
+    "Se habilitado, faz a entidade seguir o cursor do mouse\n",
+    "caso contrário, permite a rotação manual da entidade."
+  ],
+
+    "text.config.accessories.option.screenOptions.allowSideBarCraftingGrid": "Permitir Grade de Fabricação na Barra Lateral",
+    "text.config.accessories.option.screenOptions.allowSideBarCraftingGrid.tooltip": [
+    "Se os filtros de grupo não estiverem presentes, tentará colocar\n",
+    "a grade de criação na barra lateral em vez de abaixo."
+  ],
+
+    "text.config.accessories.section.button_offsets": "Deslocamentos de Botão Injetado",
+
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset": "Deslocamento do Botão do Inventário",
+
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset.x": "Deslocamento X",
+    "text.config.accessories.option.screenOptions.inventoryButtonOffset.y": "Deslocamento Y",
+
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset": "Deslocamento do Botão do Inventário Criativo",
+
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.x": "Deslocamento X",
+    "text.config.accessories.option.screenOptions.creativeInventoryButtonOffset.y": "Deslocamento Y",
+
+    "text.config.accessories.section.experimental": "Tela Experimental",
+
+    "text.config.accessories.option.screenOptions.isDarkMode": "Usar tema Modo Escuro",
+    "text.config.accessories.option.screenOptions.isDarkMode.tooltip": [
+    "Altera o tema da tela experimental para modo escuro."
+  ],
+
+    "text.config.accessories.section.legacy": "Tela Original",
+
+    "text.config.accessories.option.screenOptions.showGroupTabs": "Mostrar abas de grupo para busca rápida",
+    "text.config.accessories.option.screenOptions.showGroupTabs.tooltip": [
+    "Alterna a exibição das abas de grupo dentro da tela original."
+  ],
+
+    "text.config.accessories.section.hover": "Efeitos ao passar o mouse",
+
+    "text.config.accessories.category.screenOptions.hoveredOptions": "Opções ao passar o mouse",
+    "text.config.accessories.category.screenOptions.hoveredOptions.tooltip": [
+    "Opções para controlar os efeitos de renderização da entrada sob o cursor."
+  ],
+
+    "text.config.accessories.option.screenOptions.hoveredOptions.brightenHovered": "Clarear ao passar o mouse",
+    "text.config.accessories.option.screenOptions.hoveredOptions.cycleBrightness": "Alternar brilho",
+
+    "text.config.accessories.option.screenOptions.hoveredOptions.line": "Desenhar Linha",
+
+    "text.config.accessories.option.screenOptions.hoveredOptions.clickbait": "Caça-Cliques",
+
+    "text.config.accessories.category.screenOptions.unHoveredOptions": "Opções fora do cursor",
+    "text.config.accessories.category.screenOptions.unHoveredOptions.tooltip": [
+    "Opções para controlar os efeitos de renderização das entradas que não estão sob o cursor."
+  ],
+
+    "text.config.accessories.option.screenOptions.unHoveredOptions.renderUnHovered": "Renderizar fora do cursor",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenUnHovered": "Escurecer fora do cursor",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedBrightness": "Brilho escurecido",
+    "text.config.accessories.option.screenOptions.unHoveredOptions.darkenedOpacity": "Opacidade escurecida",
+
+    "text.config.accessories.option.disabledDefaultRenders": "Renderizadores Padrão Desabilitados",
+    "text.config.accessories.option.disabledDefaultRenders.tooltip": [
+    "Útil para desabilitar a renderização padrão para um determinado espaço, seja\n",
+    "especificamente para renderizações de bloco e/ou item"
+  ],
+
+    "text.config.accessories.option.clientOptions.disabledDefaultRenders.slotType": "Espaço",
+    "text.config.accessories.option.clientOptions.disabledDefaultRenders.targetType": "Tipo",
+
+    "text.config.accessories.enum.targetType.item": "Itens",
+    "text.config.accessories.enum.targetType.block": "Bloco",
+    "text.config.accessories.enum.targetType.all": "Todos",
+
+    "text.config.accessories.option.modifiers": "Modificadores de Quantidade de Espaço",
+    "text.config.accessories.option.modifiers.tooltip": [
+    "Útil para adicionar valores de deslocamento a um determinado tipo de espaço sem\n",
+    "a necessidade de um datapack, pois permite valores de deslocamento positivos ou\n",
+    "negativos."
+  ],
+
+    "text.config.accessories.option.modifiers.slotType": "Espaço",
+    "text.config.accessories.option.modifiers.amount": "Deslocamento"
+}

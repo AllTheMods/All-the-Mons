@@ -11,7 +11,7 @@
 	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r é um mod feito internamente para ajudar a unificar minérios.\\n\\nCom isso, vêm muitos blocos decorativos muito úteis!\\n\\n&dFluorita&r e &9Safira&r ambos parecem muito legais!"]
 	quest.034DB3C64F24C7B7.title: "&fBlocos de &l&6AllTheOres&r"
 	quest.0539AF15A10B2859.quest_desc: ["As &lMáquinas Compactas&r permitem que você entre em uma dimensão compactada. Depois de colocar uma &lMáquina Compacta&r, você pode entrar nela usando o Dispositivo de Encolhimento Pessoal.\\n\\nO tamanho da &lMáquina Compacta&r depende da receita, variando de 5x5x5 a 45x45x45!\\n\\nVocê não pode quebrar as paredes da &lMáquina Compacta&r, e pode sair clicando com o botão direito no Dispositivo de Encolhimento Pessoal."]
-	quest.0539AF15A10B2859.title: "&lMáquinas Compactas"
+	quest.0539AF15A10B2859.title: "&lCompact Machines"
 	quest.0596F6C70758EEC0.quest_desc: ["Apesar de serem os mais caros, também são os mais bonitos!\\n\\nE é isso que importa para as Construções!"]
 	quest.06FFBB12CFA87815.quest_desc: ["Os Troncos do &2Vanilla &lMinecraft&r, encontradas nos diferentes Biomas &2Vanilla&r!\\n\\nNão preciso explicar mais do que isso!"]
 	quest.06FFBB12CFA87815.title: "&fTroncos do &2Vanilla&r"
@@ -109,8 +109,8 @@
 	quest.6258F26293B9C1C1.title: "&9&lCrystalix"
 	quest.6607E5CDB3D17D67.quest_desc: ["Não se preocupe, estas não vão pegar fogo!"]
 	quest.6607E5CDB3D17D67.title: "Lã &l&bChipped&r"
-	quest.6B0D84B730C6C76C.quest_desc: ["As 16 Cores que o &2&lMinecraft&r te dá não são suficientes? \\n\\nBem, eu acho que você poderia ter mais 18! \\n\\n&l&cDy&6en&ea&ami&bcs&r nos dá mais 18 Corantes, todos os quais podem ser usados para os mesmos Itens e Blocos que os Corantes do &2&lMinecraft&r! \\n\\nVocê quer uma Vela &6Pêssego&r? Você pode ter uma! Você quer um Shulker &dBubblegum&r? Por que não! Você quer uma Cama &eFluorescente&r? Claro!"]
-	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
+	quest.6B0D84B730C6C76C.quest_desc: ["As 16 Cores que o &2&lMinecraft&r te dá não são suficientes? \\n\\nBem, eu acho que você poderia ter mais 18! \\n\\n&l&zDyenamics&r nos dá mais 18 Corantes, todos os quais podem ser usados para os mesmos Itens e Blocos que os Corantes do &2&lMinecraft&r! \\n\\nVocê quer uma Vela &6Pêssego&r? Você pode ter uma! Você quer um Shulker &dBubblegum&r? Por que não! Você quer uma Cama &eFluorescente&r? Claro!"]
+	quest.6B0D84B730C6C76C.title: "&l&zDyenamics&r"
 	quest.6BC78AF7C9D93F11.quest_desc: ["Até mesmo versões Esmaltadas!"]
 	quest.6BC78AF7C9D93F11.title: "Terracota &l&bLascasda&r"
 	quest.6F65216B13E9FFA9.quest_desc: ["Pegue um Bloco. Literalmente qualquer Bloco. \\n\\nTodo Jogador deveria saber que Blocos são os Blocos de construção da construção. Para realmente construir algo, você precisará de Blocos."]
@@ -123,7 +123,7 @@
 	quest.7CF13A4941F608E5.title: "&fVidro &l&bChipped&r"
 	quest.7DA8ACE06DE8097F.quest_desc: ["&6Cobre&r é o Minério mais abundante no &2&lMinecraft&r e seu uso principal é para decoração. \\n\\nJá existem muitas variantes diferentes adicionadas pelo &2&lMinecraft&r, mas &l&bChipped&r não achou que era bom o suficiente! Então temos mais! \\n\\nAté variantes para as versões oxidadas. \\n\\nVocê pode fazer &aBlocos de Esmeralda&r falsos."]
 	quest.7DA8ACE06DE8097F.title: "&6Cobre &l&bChipped"
-	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r é um Mod muito simples. Você gosta de Luzes Coloridas? Você pode ter Luzes Coloridas. \\n\\nElas são todas de uma cor, sem Textura, e podem vir em diferentes Formas como Escadas ou Lajes ou até Chapas de Pressão! \\n\\nElas até funcionam com &l&cDy&6en&ea&ami&bcs&r!"]
+	quest.7DABD82393713B5A.quest_desc: ["&c&lLuminax&r é um Mod muito simples. Você gosta de Luzes Coloridas? Você pode ter Luzes Coloridas. \\n\\nElas são todas de uma cor, sem Textura, e podem vir em diferentes Formas como Escadas ou Lajes ou até Chapas de Pressão! \\n\\nElas até funcionam com &l&zDyenamics&r!"]
 	quest.7DABD82393713B5A.title: "&l&cLuminax"
 	quest.7E49C985A0433B20.quest_desc: ["&d&lArs Nouveau&r é um Mod de magia muito divertido e com ele traz seu próprio conjunto de Madeira! \\n\\nArchwood vem em 5 cores diferentes de árvores que aparecem na maioria dos Biomas, mas principalmente em seu Bioma Archwood!"]
 	quest.7E49C985A0433B20.title: "&fTroncos de &d&lArs Nouveau&r"
@@ -155,7 +155,7 @@
 	task.3BE936F7D054FDDA.title: "Gravetos!"
 	task.3C16167530BEC231.title: "TodosOsDireitosReservados"
 	task.3C18AB7133946682.title: "Paxels"
-	task.3C4997133CCECBE0.title: "Handcrafted"
+	task.3C4997133CCECBE0.title: "Feito à Mão"
 	task.40B245AFD0DAB3A0.title: "Vidro do Railcraft"
 	task.41602F0D9097E74F.title: "Terracota Lascada"
 	task.41FF171C7D97B574.title: "Blocos de Gemas Lascadas"

@@ -5,7 +5,7 @@
     "block.restrictions.oneway_wall": "Parede de Sentido Único",
     "item.restrictions.glassboots": "Botas de Vidro",
 
-    "itemGroup.restrictions": "Restrictions",
+    "itemGroup.restrictions": "Restrições",
 
     "message.restrictions.shiftmessage": "<Pressione Shift>",
     "message.restrictions.glassboots.header": "Se você usar estas botas, o Atrator, Empurrador e Sentido Único não terão efeito sobre você",

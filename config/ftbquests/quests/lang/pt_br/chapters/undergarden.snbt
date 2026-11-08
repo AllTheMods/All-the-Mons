@@ -47,7 +47,7 @@
 		"&eBrutes&r surgem em alguns Biomas e são Neutros. \\n\\nSe atingidos, todos na área atacarão você. Semelhante aos Lobos ou Piglins Zumbificados. \\n\\nAo morrerem, eles podem deixar cair suas Presas, que podem servir como um substituto para Ossos!"
 		"{image:atm:textures/questpics/undergarden/undergarden_brute.png width:100 height:100 align:center}"
 	]
-	quest.119242549BD21764.title: "&eBrutes&r"
+	quest.119242549BD21764.title: "&eBrutos&r"
 	quest.130577AD1A1A8222.quest_desc: ["&7Cloggrum&r tem status um pouco piores do que a Armadura de Ferro, mas praticamente cresce em Árvores, então acho que é justo. \\n\\nAs Botas também ajudam a atravessar a Gosma de Scintling!"]
 	quest.130577AD1A1A8222.title: "Armadura de &7Cloggrum&r"
 	quest.141681FE9E524FB0.quest_desc: [
@@ -66,7 +66,7 @@
 		"&2Dwellers&r são as Vacas do &2&lUndergarden&r. \\n\\nEles são Pacíficos e deixarão cair Couro e Carne de Dweller ao morrerem. \\n\\nGraças a Deus eles não podem ser ordenhados, eu não quero nenhum leite que esses &2Dwellers&r produzem."
 		"{image:atm:textures/questpics/undergarden/undergarden_dweller.png width:100 height:100 align:center}"
 	]
-	quest.17C2C8F64B4AE6EE.title: "&2Dweller&r"
+	quest.17C2C8F64B4AE6EE.title: "&2Habitante&r"
 	quest.19862DBCE9305DE3.quest_desc: ["A &3Lança&r, a arma de escolha dos &7Denizens&r... junto com o Machado de Madeira. \\n\\nVocê precisará de 2 Gravetos e &3Rogdorium&r para fabricá-la. \\n\\nEla tem o mesmo Dano que uma &bEspada de Diamante&r, além de um Alcance maior! \\n\\nEla também pode ser arremessada como um Tridente."]
 	quest.19862DBCE9305DE3.title: "&3Lança"
 	quest.1A23BBF444D17A63.quest_desc: [
@@ -102,7 +102,7 @@
 	]
 	quest.24D38DA8E86DD897.title: "&cRotling&r"
 	quest.257893DD23BF5017.quest_desc: ["Para obter &3Rogdorium&r precisaremos visitar as Profundezas abaixo da Camada Y 0. Para isso, você precisará de uma &aPicareta de Esquecidos&r ou &6Picareta de Allthemodium&r. \\n\\nVocê também precisará da Picareta do mesmo Nível para minerar &3Minério de Rogdorium&r. Ele surge em qualquer lugar nas Profundezas. \\n\\nVocê também pode usar um &aMachado de Esquecido&r ou de &6Allthemodium&r para minerar uma &3Raiz Ancestral de Rogdoric&r. Estas são muito mais comuns, mas só darão uma &3Pepita de Rogdorium&r em comparação com a versão completa que o &3Minério&r fornece."]
-	quest.257893DD23BF5017.title: "&3Rogdorium"
+	quest.257893DD23BF5017.title: "&3Rogdório"
 	quest.278D34BBC13356DF.quest_desc: [
 		"Um Pântano roxo! \\n\\nEstes têm Cogumelos de Tinta e Virulent Mix por toda parte!"
 		"{image:atm:textures/questpics/undergarden/undergarden_ink.png width:200 height:100 align:center}"
@@ -112,7 +112,7 @@
 		"&7Denizens&r surgem nas Profundezas, que ficam abaixo da Camada Y 0. Você precisará de uma &aPicareta de Esquecido&r ou um Nível semelhante para minerar lá embaixo. \\n\\nOs &7Denizens&r parecem estranha e grosseiramente humanos, eles usam Máscaras Misteriosas e segurarão uma Lança ou um Machado de Madeira. \\n\\nOs &7Denizens&r vêm em tamanhos baixos e redondos ou altos e magros. Mas todos eles têm 10 Corações. \\n\\nEles não deixam cair nada, exceto talvez sua Arma."
 		"{image:atm:textures/questpics/undergarden/undergarden_denizens.png width:100 height:200 align:center}"
 	]
-	quest.2A2041098C069772.title: "&7Denizen"
+	quest.2A2041098C069772.title: "&7Cidadão"
 	quest.2C5A7E4CD8B57E08.quest_desc: ["Árvores de Grongle são árvores altas parecidas com as da Selva que só surgem em Biomas Gronglegrowth! \\n\\nEssas Árvores também são onde os &eGronglets&r surgem."]
 	quest.2E596B5A4EA2ABF4.quest_desc: [
 		"Aquela pedra está se movendo? Não, espere, é apenas um &3S'Mog&r! O primo próximo do &2Mog&r! \\n\\nEles agem exatamente como os &2Mogs&r, só que estes podem deixar cair Musgo-Mog Azul."
@@ -141,7 +141,7 @@
 	quest.3AF7446592D19FA6.quest_desc: ["&eRegalium&r é o equivalente à Esmeralda no &2&lUndergarden&r. \\n\\nNão pode ser transformado em Armadura ou Ferramentas, mas pode ser usado para trocar com &2Stoneborns&r por outros Itens."]
 	quest.3AF7446592D19FA6.title: "&eRegalium&r"
 	quest.4141EF8B8C316118.quest_desc: ["&7Cloggrum&r é o Ferro do &2&lUndergarden&r. \\n\\nEle é encontrado em todo lugar e é usado em dezenas de receitas diferentes. \\n\\nCaramba, até algumas Criaturas o deixam cair!"]
-	quest.4141EF8B8C316118.title: "&7Cloggrum&r"
+	quest.4141EF8B8C316118.title: "&7Obstrúmio&r"
 	quest.43A1BC20BB054A14.quest_desc: ["Glitterkelp cresce em Mares Anciões e Gelados. \\n\\nElas não fazem muito além de Brilhar e podem ser fabricadas em Torta!"]
 	quest.43FD4AEBB9548E57.quest_desc: [
 		"A Floresta de Smogstem é um Bioma vizinho aos Pântanos de Cogumelos Índigo. \\n\\nClaro que também é Azul e tem Cogumelos Índigo! Apenas tem Árvores de Smogstem maiores!"
@@ -221,7 +221,7 @@
 	quest.67A2347534269528.title: "&9Sploogie&r"
 	quest.6C4B93FE64BD418D.quest_desc: ["Chegar ao &2&lUndergarden&r é semelhante a chegar ao &c&lNether&r. Você precisará fabricar um Portal. \\n\\nTem a mesma forma e tamanho dos Portais do Nether, mas em vez de Obsidiana, você precisará de uma variante de Tijolos de Pedra. Tijolos de Pedra, Tijolos de Pedra Musgosa ou Tijolos de Ardosiabissal. \\n\\nUma vez formado, você pode ativá-lo usando o Catalyst nele. "]
 	quest.6C4B93FE64BD418D.quest_subtitle: "Fazendo o Portal"
-	quest.6C4B93FE64BD418D.title: "O Undergarden"
+	quest.6C4B93FE64BD418D.title: "The Undergarden"
 	quest.6D4FB6291CA8D1A6.quest_desc: ["As Árvores de Smogstem são muito mais grossas em suas metades inferiores, semelhantes aos Baobás na vida real! \\n\\nElas têm Folhas Azuis com Troncos Cinzas. \\nVocê pode encontrá-las em vários Biomas: Florestas de Smogstem, Florestas Densas e até mesmo em Pântanos de Cogumelos Índigo!"]
 	quest.6E7C8537D8A28833.quest_desc: [
 		"Abaixo da Camada Y 0 há dois Biomas, as Profundezas é um deles. \\n\\nPara chegar abaixo da Camada Y 0, você precisará minerar Dreadrock. Para minerar Dreadrock, você precisará de uma Picareta de Esquecido ou Picareta de Allthemodium. \\n\\nAqui surgirão Greater Dwellers, Denizens e Monstros Rot."

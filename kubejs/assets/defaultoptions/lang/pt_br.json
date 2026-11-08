@@ -1,0 +1,8 @@
+{
+    "defaultoptions.configuration.defaultDifficulty": "Dificuldade Padrão",
+    "defaultoptions.configuration.defaultDifficulty.tooltip": "A dificuldade padrão selecionada para mundos recém-criados.",
+    "defaultoptions.configuration.lockDifficulty": "Travar Dificuldade",
+    "defaultoptions.configuration.lockDifficulty.tooltip": "Defina como verdadeiro se a dificuldade de novos mundos deve ser travada no padrão específico. Isto não pode ser destravado pelos jogadores sem ferramentas externas! Provavelmente uma má ideia. Não recomendo. Por que estou adicionando esta opção?",
+    "defaultoptions.configuration.defaultResourcePacks": "Pacotes de Recursos Padrão",
+    "defaultoptions.configuration.defaultResourcePacks.tooltip": "IDs de pacotes de recursos a serem ativados por padrão na primeira execução."
+}

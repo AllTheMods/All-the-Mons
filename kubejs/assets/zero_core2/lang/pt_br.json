@@ -1,8 +1,6 @@
 {
     "_comment": "ZeroCore 2 Language File - English",
-
     "_comment": "@author ZeroNoRyouki, ABookFreak",
-
     "_comment": "-- please don't translate the _comment lines ! --",
 
     "zerocore:api.multiblock.validation.success": "A validação da máquina foi bem-sucedida.",
@@ -41,12 +39,12 @@
     "gui.zerocore.base.control.energybar.line2a": "  @0",
     "gui.zerocore.base.control.energybar.line2b": " / %1$s",
     "gui.zerocore.base.control.energybar.line3a": "  @1",
-    "gui.zerocore.base.control.energybar.line3b": "% cheio",
+    "gui.zerocore.base.control.energybar.line3b": "% full (cheio)",
     "gui.zerocore.base.control.fluidbar.line2": "  @0",
     "gui.zerocore.base.control.fluidbar.line3a": "  @1",
     "gui.zerocore.base.control.fluidbar.line3b": " / %1$s",
     "gui.zerocore.base.control.fluidbar.line4a": "  @2",
-    "gui.zerocore.base.control.fluidbar.line4b": "% cheio",
+    "gui.zerocore.base.control.fluidbar.line4b": "% full (cheio)",
 
     "gui.zerocore.base.redstone.sensortype.input": "Direção de sinal: entrada",
     "gui.zerocore.base.redstone.sensortype.output": "Direção de sinal: saída",

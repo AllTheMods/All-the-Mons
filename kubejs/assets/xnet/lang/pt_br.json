@@ -1,5 +1,4 @@
 {
-
     "item.xnet.xnet_manual": "Manual da XNet",
     "item.xnet.connector_upgrade": "Kit de Melhoria de Conector",
 
@@ -102,12 +101,12 @@
     "xnet.item.ext.count.tooltip": "Quantidade de itens a extrair|por operação",
     "xnet.item.count.tooltip.formatted": "Desativar %s se o inventário de destino|tiver itens em quantidade muito %s",
     "xnet.item.blacklist.label": "LN",
-    "xnet.item.blacklist.tooltip": "Ativar modo de lista negra",
-    "xnet.item.tags.label": "Tags",
+    "xnet.item.blacklist.tooltip": "Ativar modo de lista-negra",
+    "xnet.item.tags.label": "Marcações",
     "xnet.item.tags.tooltip": "Correspondência de tag",
     "xnet.item.meta.label": "Meta",
     "xnet.item.meta.tooltip": "Correspondência de metadados",
-    "xnet.item.nbt.label": "NBT",
+    "xnet.item.nbt.label": "Comparar Ddos",
     "xnet.item.nbt.tooltip": "Correspondência de NBT",
     "xnet.item.filter.index.tooltip": "Índice do Filtro",
     "xnet.item.filter.off": "<Desligado>",
@@ -194,7 +193,7 @@
 
     "xnet.enum.logic.sensormode.off": "Desl",
     "xnet.enum.logic.sensormode.off.tooltip": "Não utilizado",
-    "xnet.enum.logic.sensormode.item": "Item",
+    "xnet.enum.logic.sensormode.item": "Itens",
     "xnet.enum.logic.sensormode.item.tooltip": "Verifica o número de itens|no inventário conectado|O item alvo pode ser definido|no campo à direita",
     "xnet.enum.logic.sensormode.fluid": "Fluido",
     "xnet.enum.logic.sensormode.fluid.tooltip": "Verifica a quantidade de fluido|no bloco conectado (mB)",
