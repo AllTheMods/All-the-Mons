@@ -131,13 +131,6 @@ ServerEvents.tags('item', allthemods => {
         "zamega:tatsugirinite",
         "zamega:zeraorite",
         "zamega:zygardite"])
-
-    allthemods.add("mega_showdown:mega_stone", ["mega_showdown:darkranite",
-        "mega_showdown:heatranite",
-        "mega_showdown:magearnite",
-        "mega_showdown:tatsugirinite",
-        "mega_showdown:zeraorite",
-        "mega_showdown:zygardite"])
 })
 
 ServerEvents.tags('entity_type', allthemods => {
@@ -244,7 +237,6 @@ ServerEvents.tags('item', allthemods => {
     allthemods.add("c:drinks/milk", ["productivebees:milk_bottle"])
     allthemods.add("minecraft:signs", ["ars_nouveau:archwood_sign"])
     allthemods.add("minecraft:hanging_signs", ["ars_nouveau:archwood_hanging_sign"])
-    allthemods.add("mega_showdown:mega_stone", ["mega_showdown:abomasite"])
     // Dream String counts as String until LM tags it upstream
     allthemods.add("c:strings", ["legendarymonuments:dream_string"])
     allthemods.add("c:plates/plastic", ["industrialforegoing:plastic", "pneumaticcraft:plastic"])
