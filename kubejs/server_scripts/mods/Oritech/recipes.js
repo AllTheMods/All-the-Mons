@@ -86,10 +86,9 @@
           "results": [],
           "time": 120
         })
-        // Remove enchanting stuff
-        allthemods.remove({id: 'oritech:crafting/catalyst_alt'})
-        allthemods.remove({id: 'oritech:crafting/catalyst'})
-        allthemods.remove({id: 'oritech:crafting/enchanter'})
+        // Rebalance enchanting stuff
+        allthemods.replaceInput({id: 'oritech:crafting/catalyst_alt'}, 'minecraft:enchanting_table', 'apothic_enchanting:raven_enchanting_table')
+        allthemods.replaceInput({id: 'oritech:crafting/catalyst'}, 'minecraft:enchanting_table', 'apothic_enchanting:raven_enchanting_table')
 
         // Cheaty alloys
         allthemods.remove({id: 'oritech:crafting/alloy/steel'})
@@ -125,26 +124,6 @@
             "time": 120
         }).id(`mega_showdown:zygarde_cube`)
 
-    // Alternate Tainted Refinery Recipe
-		allthemods.custom({
-		  "type": "oritech:particle_collision",
-		  "ingredients": [
-			{
-			  "item": "oritech:refinery_block"
-			},
-			{
-			  "item": "deeperdarker:soul_crystal"
-			}
-		  ],
-		  "results": [
-			{
-			  "count": 1,
-			  "id": "oritech:tainted_refinery_block"
-			}
-		  ],
-		  "time": 6000
-		})
-		
 		// Immersive Engineering and The Undergarden both add their own items to #minecraft:coals, so the tag
 		// form of this recipe also crushes coal coke and ditchbulb paste into coal dust.
 		allthemods.remove({ id: 'oritech:crushing/compat/create/coal' })
