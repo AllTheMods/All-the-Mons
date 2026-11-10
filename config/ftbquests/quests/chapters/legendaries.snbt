@@ -3759,7 +3759,7 @@
 		}
 		{
 			dependencies: [
-				"1E6F0000000011D4"
+				"1E6F00000000106D"
 				"03F291F815FBF85A"
 			]
 			icon: {
@@ -3807,8 +3807,8 @@
 				id: "1E6F000000001210"
 				type: "advancement"
 			}]
-			x: -3.0d
-			y: -8.0d
+			x: 2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: [
