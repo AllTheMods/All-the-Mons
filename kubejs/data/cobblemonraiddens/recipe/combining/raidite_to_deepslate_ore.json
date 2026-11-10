@@ -1,0 +1,6 @@
+{
+  "type": "mekanism:combining",
+  "extra_input": { "count": 1, "tag": "c:cobblestones/deepslate" },
+  "main_input": { "count": 5, "item": "cobblemonraiddens:raidite" },
+  "output": { "count": 1, "id": "cobblemonraiddens:deepslate_raidite_ore" }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "mekanism:enriching",
+  "input": { "count": 1, "tag": "cobblemonraiddens:raidite_ores" },
+  "output": { "count": 2, "id": "cobblemonraiddens:raidite" }
+}
