@@ -220,7 +220,7 @@
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r is the Thunderclap Pokémon, racing on all fours fast enough to keep pace with a lightning bolt.\\n\\nChase it down in &6savannas&r under &eopen sky&r."]
 	quest.1E6F00000000120B.quest_subtitle: "Alola"
 	quest.1E6F00000000120B.title: "Zeraora"
-	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r is the Wushu Pokémon, a small bear that trains relentlessly to steel its body and spirit.\\n\\nFind it in &2jungles&r and &2bamboo jungles&r - raise it well and it evolves into the mighty &7Urshifu&r, master of a single devastating style."]
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r is the Wushu Pokémon, a small bear that trains relentlessly to steel its body and spirit.\\n\\nDefeat &6Grandmaster Mustard&r in the Grand Dojo of the &2Dyna Plains&r dojo village and he entrusts Kubfu to you. Raise it well and it evolves into the mighty &7Urshifu&r, master of a single devastating style."]
 	quest.1E6F00000000120F.quest_subtitle: "Galar"
 	quest.1E6F00000000120F.title: "Kubfu"
 	quest.1E6F000000001213.quest_desc: ["&2Zarude&r is the Rogue Monkey Pokémon, a fierce troop-dweller that swings through dense jungle on vine-like arms.\\n\\nSeek it deep in &2jungles&r and catch the jungle legend."]
@@ -243,16 +243,16 @@
 	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r is the youngest Sword of Justice, a colt that crosses any water at a gallop and proves its courage through battle.\\n\\nFollow its prints to the water's edge and serve a &bCurry of Justice&r to call the young swordsman out."]
 	quest.1E6F00000000123E.quest_subtitle: "Unova"
 	quest.1E6F00000000123E.title: "Keldeo"
-	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r is the volcano Pokémon, one of three legendary beasts reborn in the ashes of the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft an &cEntei Treat&r from a Poketreat Box and berries, then bring it to the Burned Tower to call the beast of fire and catch it."]
+	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r is the volcano Pokémon, one of three legendary beasts reborn in the ashes of the &6Burned Tower&r in the &ePagoda&r village.\\n\\nCraft an &cEntei Treat&r from a Poketreat Box and berries, then bring it to the Burned Tower to call the beast of fire and catch it."]
 	quest.1E6F0000000012C1.quest_subtitle: "Johto"
 	quest.1E6F0000000012C1.title: "Entei"
-	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r is the thunder Pokémon, a legendary beast that races like lightning and roars like a storm, reborn in the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft a &eRaikou Treat&r and bring it to the Burned Tower to summon it."]
+	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r is the thunder Pokémon, a legendary beast that races like lightning and roars like a storm, reborn in the &6Burned Tower&r in the &ePagoda&r village.\\n\\nCraft a &eRaikou Treat&r and bring it to the Burned Tower to summon it."]
 	quest.1E6F0000000012C7.quest_subtitle: "Johto"
 	quest.1E6F0000000012C7.title: "Raikou"
-	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r is the aurora Pokémon, the legendary beast of pure water that runs on the north wind, reborn in the &6Burned Tower&r at &eEcruteak Village&r.\\n\\nCraft a &bSuicune Treat&r and bring it to the Burned Tower to draw it out."]
+	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r is the aurora Pokémon, the legendary beast of pure water that runs on the north wind, reborn in the &6Burned Tower&r in the &ePagoda&r village.\\n\\nCraft a &bSuicune Treat&r and bring it to the Burned Tower to draw it out."]
 	quest.1E6F0000000012CD.quest_subtitle: "Johto"
 	quest.1E6F0000000012CD.title: "Suicune"
-	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r in the Ecruteak town structure, and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
+	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r is the rainbow Pokémon, said to roost atop the &eBell Tower&r in the &ePagoda&r village, and to bring eternal happiness to any who see it. Legend holds it gave life to the three beasts below.\\n\\nCombine the &cred&r, &bblue&r, and &eyellow&r feathers won from Entei, Suicune, and Raikou into a &6Rainbow Feather&r, then climb the Bell Tower to call Ho-Oh down."]
 	quest.1E6F0000000012D3.quest_subtitle: "Johto"
 	quest.1E6F0000000012D3.title: "Ho-Oh"
 	quest.1E6F0000000012E9.quest_desc: ["&dGalarian Articuno&r is the regal Galarian form of the legendary bird - a psychic flier whose serene gaze hides a cold and cruel streak.\\n\\nRaise the &bGalarian Urn of Frost&r in a similar way the Kantonian bird answered the Urn of Frost, except with 75 Psychic-type Pokémon, and the rival form sweeps in."]
@@ -405,7 +405,7 @@
 	task.1E6F000000001204.title: "Catch Tapu Fini"
 	task.1E6F000000001208.title: "Catch Magearna"
 	task.1E6F00000000120C.title: "Catch Zeraora"
-	task.1E6F000000001210.title: "Catch Kubfu"
+	task.1E6F000000001210.title: "Obtain Kubfu"
 	task.1E6F000000001214.title: "Catch Zarude"
 	task.1E6F000000001218.title: "Catch Ogerpon"
 	task.1E6F000000001231.title: "Catch Cobalion"

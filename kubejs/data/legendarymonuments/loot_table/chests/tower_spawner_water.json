@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "legendarymonuments:chests/tower_spawner",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sky_tumblestone",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:blue_apricorn",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:blue_apricorn_seed",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:passho_berry",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:swift_feather",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:tamato_berry",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_shell",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:water_stone",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

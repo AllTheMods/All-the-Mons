@@ -220,7 +220,7 @@
 	quest.1E6F00000000120B.quest_desc: ["&eZeraora&r é o Pokémon Trovão, correndo de quatro rápido o suficiente para acompanhar um raio.\\n\\nPersiga-o pelas &6savanas&r sob &ecéu aberto&r."]
 	quest.1E6F00000000120B.quest_subtitle: "Alola"
 	quest.1E6F00000000120B.title: "Zeraora"
-	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r é o Pokémon Wushu, um pequeno urso que treina incansavelmente para fortalecer seu corpo e espírito.\\n\\nEncontre-o em &2selvas&r e &2selvas de bambu&r - crie-o bem e ele evoluirá para o poderoso &7Urshifu&r, mestre de um único estilo devastador."]
+	quest.1E6F00000000120F.quest_desc: ["&7Kubfu&r é o Pokémon Wushu, um pequeno urso que treina incansavelmente para fortalecer seu corpo e espírito.\\n\\nDerrote o &6Grão-Mestre Mustard&r no Grande Dojo da vila do dojo nas &2Dyna Plains&r e ele confiará Kubfu a você. Crie-o bem e ele evoluirá para o poderoso &7Urshifu&r, mestre de um único estilo devastador."]
 	quest.1E6F00000000120F.quest_subtitle: "Galar"
 	quest.1E6F00000000120F.title: "Kubfu"
 	quest.1E6F000000001213.quest_desc: ["&2Zarude&r é o Pokémon Macaco Rebelde, um habitante feroz de bandos que se balança pela selva densa com braços em forma de cipó.\\n\\nBusque por ele nas profundezas das &2selvas&r e capture a lenda da selva."]
@@ -243,16 +243,16 @@
 	quest.1E6F00000000123E.quest_desc: ["&bKeldeo&r é o Espadachim da Justiça mais jovem, um potro que atravessa qualquer água a galope e prova sua coragem através da batalha.\\n\\nSiga suas pegadas até a beira da água e sirva um &bCurry da Justiça&r para chamar o jovem espadachim."]
 	quest.1E6F00000000123E.quest_subtitle: "Unova"
 	quest.1E6F00000000123E.title: "Keldeo"
-	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r é o Pokémon vulcão, uma das três feras lendárias renascidas nas cinzas da &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &cPetisco de Entei&r em uma Caixa de Petiscos e bagas, então leve-o à Torre Queimada para chamar a fera de fogo e capturá-la."]
+	quest.1E6F0000000012C1.quest_desc: ["&cEntei&r é o Pokémon vulcão, uma das três feras lendárias renascidas nas cinzas da &6Torre Queimada&r na &eVila do Pagode&r.\\n\\nFabrique um &cPetisco de Entei&r em uma Caixa de Petiscos e bagas, então leve-o à Torre Queimada para chamar a fera de fogo e capturá-la."]
 	quest.1E6F0000000012C1.quest_subtitle: "Johto"
 	quest.1E6F0000000012C1.title: "Entei"
-	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r é o Pokémon trovão, uma fera lendária que corre como um raio e ruge como uma tempestade, renascida na &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &ePetisco de Raikou&r e leve-o à Torre Queimada para invocá-lo."]
+	quest.1E6F0000000012C7.quest_desc: ["&eRaikou&r é o Pokémon trovão, uma fera lendária que corre como um raio e ruge como uma tempestade, renascida na &6Torre Queimada&r na &eVila do Pagode&r.\\n\\nFabrique um &ePetisco de Raikou&r e leve-o à Torre Queimada para invocá-lo."]
 	quest.1E6F0000000012C7.quest_subtitle: "Johto"
 	quest.1E6F0000000012C7.title: "Raikou"
-	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r é o Pokémon aurora, a fera lendária de água pura que corre sobre o vento norte, renascida na &6Torre Queimada&r na &eVila de Ecruteak&r.\\n\\nFabrique um &bPetisco de Suicune&r e leve-o à Torre Queimada para atraí-lo."]
+	quest.1E6F0000000012CD.quest_desc: ["&bSuicune&r é o Pokémon aurora, a fera lendária de água pura que corre sobre o vento norte, renascida na &6Torre Queimada&r na &eVila do Pagode&r.\\n\\nFabrique um &bPetisco de Suicune&r e leve-o à Torre Queimada para atraí-lo."]
 	quest.1E6F0000000012CD.quest_subtitle: "Johto"
 	quest.1E6F0000000012CD.title: "Suicune"
-	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r é o Pokémon arco-íris, que dizem habitar o topo da &eTorre do Sino&r em Ecruteak e trazer felicidade eterna a qualquer pessoa que o veja. A lenda diz que ele deu vida às três feras abaixo.\\n\\nCombine as penas &cvermelha&r, &bazul&r e &eamarela&r obtidas de Entei, Suicune e Raikou em uma &6Pena Arco-Íris&r, então suba a Torre do Sino para chamar Ho-Oh."]
+	quest.1E6F0000000012D3.quest_desc: ["&6Ho-Oh&r é o Pokémon arco-íris, que dizem habitar o topo da &eTorre do Sino&r na &eVila do Pagode&r e trazer felicidade eterna a qualquer pessoa que o veja. A lenda diz que ele deu vida às três feras abaixo.\\n\\nCombine as penas &cvermelha&r, &bazul&r e &eamarela&r obtidas de Entei, Suicune e Raikou em uma &6Pena Arco-Íris&r, então suba a Torre do Sino para chamar Ho-Oh."]
 	quest.1E6F0000000012D3.quest_subtitle: "Johto"
 	quest.1E6F0000000012D3.title: "Ho-Oh"
 	quest.1E6F0000000012E9.quest_desc: ["&dArticuno de Galar&r é a majestosa forma de Galar do pássaro lendário - um voador psíquico cujo olhar sereno esconde um lado frio e cruel.\\n\\nErga a &bUrna de Geada de Galar&r de forma semelhante à que a Ave de Kanto respondeu à Urna de Geada, mas com 75 Pokémon do tipo Psíquico, e a forma rival surgirá."]
@@ -405,7 +405,7 @@
 	task.1E6F000000001204.title: "Capture Tapu Fini"
 	task.1E6F000000001208.title: "Capture Magearna"
 	task.1E6F00000000120C.title: "Capture Zeraora"
-	task.1E6F000000001210.title: "Capture Kubfu"
+	task.1E6F000000001210.title: "Obtenha Kubfu"
 	task.1E6F000000001214.title: "Capture Zarude"
 	task.1E6F000000001218.title: "Capture Ogerpon"
 	task.1E6F000000001231.title: "Capture Cobalion"

@@ -2205,7 +2205,7 @@
 			tasks: [
 				{
 					id: "1E6F0000000012C2"
-					structure: "legendarymonuments:traditional_village/ecruteak"
+					structure: "legendarymonuments:traditional_village/pagoda"
 					type: "structure"
 				}
 				{
@@ -2268,7 +2268,7 @@
 			tasks: [
 				{
 					id: "1E6F0000000012C8"
-					structure: "legendarymonuments:traditional_village/ecruteak"
+					structure: "legendarymonuments:traditional_village/pagoda"
 					type: "structure"
 				}
 				{
@@ -2331,7 +2331,7 @@
 			tasks: [
 				{
 					id: "1E6F0000000012CE"
-					structure: "legendarymonuments:traditional_village/ecruteak"
+					structure: "legendarymonuments:traditional_village/pagoda"
 					type: "structure"
 				}
 				{
@@ -2944,7 +2944,7 @@
 			tasks: [
 				{
 					id: "1E6F0000000012D4"
-					structure: "legendarymonuments:traditional_village/ecruteak"
+					structure: "legendarymonuments:traditional_village/pagoda"
 					type: "structure"
 				}
 				{
@@ -3793,6 +3793,8 @@
 			]
 			size: 2.0d
 			tasks: [{
+				advancement: "legendarymonuments:lil_fighter"
+				criterion: ""
 				icon: {
 					components: {
 						"cobblemon:pokemon_item": {
@@ -3803,7 +3805,7 @@
 					id: "cobblemon:pokemon_model"
 				}
 				id: "1E6F000000001210"
-				type: "custom"
+				type: "advancement"
 			}]
 			x: -3.0d
 			y: -8.0d

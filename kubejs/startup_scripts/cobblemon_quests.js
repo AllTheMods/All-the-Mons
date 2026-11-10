@@ -140,7 +140,6 @@ global.catchBySpeciesTask = [
   { "1E6F000000001204": "tapufini" },
   { "1E6F000000001208": "magearna" },
   { "1E6F00000000120C": "zeraora" },
-  { "1E6F000000001210": "kubfu" },
   { "1E6F000000001214": "zarude" },
   { "1E6F000000001218": "ogerpon" },
   { "1E6F00000000131E": "necrozma" },

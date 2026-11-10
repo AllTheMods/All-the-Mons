@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "legendarymonuments:chests/tower_spawner",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_tumblestone",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_apricorn",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_apricorn_seed",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:colbur_berry",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:muscle_feather",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:kelpsy_berry",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:echo_shard",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dusk_stone",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:moon_stone",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}
