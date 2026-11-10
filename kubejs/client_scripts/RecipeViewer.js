@@ -62,6 +62,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
   allthemods.remove('farmersdelight:potato_crate')
   allthemods.remove('oritech:silicon_block')
   allthemods.remove('ars_elemental:glyph_nullify_defense')
+  allthemods.remove('functionalstorage:armory_cabinet')
 
   allthemods.remove('legendarymonuments:meltan_box')
   allthemods.remove('legendarymonuments:meltan_candy')
