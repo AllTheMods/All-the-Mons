@@ -300,9 +300,10 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				id: "25A59416BABF1227"
-				item: { count: 1, id: "allthemons:pika_star_chunk" }
-				type: "item"
+				advancement: "allthemons:paldean_pika_star"
+				criterion: ""
+				id: "35144D1FB1DD8A10"
+				type: "advancement"
 			}]
 			x: 0.0d
 			y: 0.0d
