@@ -1,4 +1,3 @@
-let $ItemHandler = Java.loadClass("net.neoforged.neoforge.capabilities.Capabilities$ItemHandler")
 let $ItemHandlerHelper = Java.loadClass("net.neoforged.neoforge.items.ItemHandlerHelper")
 let $MechanicalCrafterBlockEntity = Java.loadClass("com.simibubi.create.content.kinetics.crafter.MechanicalCrafterBlockEntity")
 let $EntityFollowProjectile = Java.loadClass("com.hollingsworth.arsnouveau.common.entity.EntityFollowProjectile")
@@ -61,16 +60,11 @@ function startImbuedPokemonEgg(/** @type {import("com.almostreliable.summoningri
         if (enoughSpeed) {
           enoughSpeed = Math.abs(be.getSpeed()) > 0
         }
-        let capability = level.getCapability($ItemHandler.BLOCK, pos, null)
-        if (capability != null) {
-          if (pos.equals(targetPos)) {
-            let item = event.recipeInfo.recipe.outputs().displayOutputs().getFirst()
-            inputStacks.add(item)
-          } else {
-            inputStacks.add(capability.getStackInSlot(0))
-          }
+        if (pos.equals(targetPos)) {
+          let item = event.recipeInfo.recipe.outputs().displayOutputs().getFirst()
+          inputStacks.add(item)
         } else {
-          inputStacks.add(Item.getEmpty())
+          inputStacks.add(be.getInventory().getStackInSlot(0))
         }
       } else {
         inputStacks.add(Item.getEmpty())
@@ -100,12 +94,12 @@ function completeImbuedPokemonEgg(/** @type {import("com.almostreliable.summonin
   let be = event.altar.level.getBlockEntity(event.altar.blockPos.offset(eggSlotOffset))
   if (be != null) {
     if (be instanceof $MechanicalCrafterBlockEntity) {
-      let capability = event.altar.level.getCapability($ItemHandler.BLOCK, be.blockPos, null)
-      if (capability != null) {
+      let inventory = be.getInventory()
+      if (inventory != null) {
         let output = Item.of('allthemons:imbued_pokemon_egg')
         $EntityFollowProjectile.spawn(event.altar.level, event.altar.blockPos.offset([0, 1, 0]), be.getBlockPos())
         setTimeout(() => {
-          let remainder = $ItemHandlerHelper.insertItem(capability, output.copy(), false);
+          let remainder = $ItemHandlerHelper.insertItem(inventory, output.copy(), false);
           if (remainder.count == output.count) {
             event.altar.spawnItemAboveAltar('allthemons:pokemon_egg[allthemons:features=["atm=true"],allthemons:species="cobblemon:staryu"]')
             event.altar.spawnItemAboveAltar('allthetweaks:patrick_star')
