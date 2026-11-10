@@ -4610,7 +4610,6 @@
 						id: "cobblemon:pokemon_model"
 					}
 					id: "1E6F000000001055"
-					optional_task: true
 					type: "custom"
 				}
 			]
@@ -5693,7 +5692,6 @@
 						id: "cobblemon:pokemon_model"
 					}
 					id: "5A94D921FBE617B9"
-					optional_task: true
 					type: "custom"
 				}
 			]

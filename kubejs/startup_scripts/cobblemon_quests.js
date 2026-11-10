@@ -53,6 +53,10 @@ global.catchBySpeciesTask = [
   // Tera Shift puts Terapagos in Terastal form when caught in battle (showdownId "terapagosterastal")
   { "1E6F000000001050": "terapagosterastal" },
   { "1E6F000000001055": "mewtwo" },
+  { "5A94D921FBE617B9": "zygarde" },
+  { "5A94D921FBE617B9": "zygarde10" },
+  { "5A94D921FBE617B9": "zygarde10c" },
+  { "5A94D921FBE617B9": "zygarde50c" },
   { "1E6F00000000105A": "pecharunt" },
   { "1E6F000000001334": "deoxys" },
   // Legendary Monuments
@@ -183,7 +187,34 @@ StartupEvents.postInit(allthemods => {
   $CobblemonEvents.EVOLUTION_ACCEPTED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonEvolutionAccepted(event))
   $CobblemonEvents.BATTLE_VICTORY["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.battleVictoryEvent(event))
   $CobblemonEvents.POKEMON_CAPTURED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonCaptured(event))
+  $CobblemonEvents.POKEMON_GAINED["subscribe(com.cobblemon.mod.common.api.Priority,java.util.function.Consumer)"]("LOWEST", (event) => global.pokemonGained(event))
 })
+
+global.completeSpeciesTasks = (player, pokemons) => {
+  let questFile = $FTBQuestsAPI.api().getQuestFile(false)
+  let teamDataOpt = questFile.getTeamData(player)
+  if (teamDataOpt.isEmpty()) return
+  let teamData = teamDataOpt.get()
+  let owned = {}
+  for (let pokemon of pokemons) {
+    owned[String(pokemon.showdownId())] = true
+  }
+  for (let taskObj of global.catchBySpeciesTask) {
+    for (let taskId in taskObj) {
+      if (!owned[taskObj[taskId]]) continue
+      let task = questFile.getTask(questFile.getID(taskId))
+      if (task == null || teamData.isCompleted(task)) continue
+      teamData.addProgress(task, 1)
+    }
+  }
+}
+
+global.pokemonGained = (pokemonGained) => {
+  let pokemon = pokemonGained.pokemon
+  let player = pokemon.getOwnerPlayer()
+  if (player == null || !player.getUUID().equals(pokemonGained.playerId)) return
+  global.completeSpeciesTasks(player, [pokemon])
+}
 
 global.pokemonLevelUp = (levelUpEvent) => {
   let questFile = $FTBQuestsAPI.api().getQuestFile(false)
@@ -253,18 +284,6 @@ global.pokemonCaptured = (pokemonCaptured) => {
   let teamDataOpt = questFile.getTeamData(player)
   if (teamDataOpt.isEmpty()) return
   let teamData = teamDataOpt.get()
-  // by species
-  for (let taskObj of global.catchBySpeciesTask) {
-    for (let taskId in taskObj) {
-      let taskLong = questFile.getID(taskId)
-      let task = questFile.getTask(taskLong)
-      if (teamData.isCompleted(task)) continue
-      if (pokemon.showdownId() == taskObj[taskId]) {
-        teamData.addProgress(task, 1)
-      }
-    }
-  }
-  // by type
   for (let taskObj of global.catchByTypeTask) {
     for (let taskId in taskObj) {
       let taskLong = questFile.getID(taskId)
