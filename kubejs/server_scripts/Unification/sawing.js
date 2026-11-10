@@ -39,6 +39,12 @@ ServerEvents.tags('item', allthemods => {
         'regions_unexplored:alpha_log'
     ])
 
+    allthemods.add('allthemods:apricorn_planks_sawing', [
+        'cobblemon:apricorn_log',
+        'cobblemon:apricorn_wood',
+        'cobblemon:stripped_apricorn_wood'
+    ])
+
     // completing #minecraft:logs
     allthemods.add('minecraft:logs', [
         '#integrateddynamics:menril_logs',
@@ -63,6 +69,9 @@ ServerEvents.recipes(allthemods => {
         if (mekSawmillRecipes.containsKey(output.id)) {
             // console.info("Already exists a mek recipe for " + output.id)
             return
+        }
+        if (output.id == 'cobblemon:apricorn_planks') {
+            input = {tag: 'allthemods:apricorn_planks_sawing'}
         }
         let recipe = {
             "type": "mekanism:sawing",
