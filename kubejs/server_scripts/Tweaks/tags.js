@@ -227,7 +227,8 @@ ServerEvents.tags('block_entity_type', allthemods => {
 ServerEvents.tags('item', allthemods => {
     allthemods.remove("minecraft:head_armor", ["pkgbadges:alians_scraf_helmet"])
     allthemods.add("minecraft:head_armor", ["pkgbadges:alians_scraf"])
-    allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot"]);
+    allthemods.add('cobblemon:recipe_filters/bait_seasoning', ["allthemodium:allthemodium_apple", "allthemodium:allthemodium_carrot", "allthemons:mythical_pecha_berry"]);
+    allthemods.add('cobblemon:recipe_filters/flavour_seasoning', ["allthemons:mythical_pecha_berry"]);
     allthemods.remove('minecraft:enchantable/crossbow',["allthemodium:unobtainium_crossbow"])
     allthemods.remove('minecraft:enchantable/bow',["allthemodium:allthemodium_bow"])
     allthemods.remove('minecraft:enchantable/equippable',["allthemodium:vibranium_shield"])
