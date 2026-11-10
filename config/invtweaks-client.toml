@@ -281,6 +281,18 @@
 	[[sorting.containerOverrides]]
 		containerClass = "net.pedroksl.advanced_ae.client.gui.*"
 		sortRange = ""
+	#Custom settings per GUI
+	#x = x-position of external sort button relative to GUI top left
+	#y = same as above except for the y-position
+	#Omit x and y to leave position unchanged
+	#sortRange = slots to sort
+	#E.g. sortRange = "5,0-2" sorts slots 5,0,1,2 in that order
+	#sortRange = "" disables sorting for that container
+	#Out-of-bound slots are ignored
+	#Omit sortRange to leave as default
+	[[sorting.containerOverrides]]
+		containerClass = "com.cobblemon.*"
+		sortRange = ""
 
 	#Categor(y/ies) for sorting
 	#
@@ -435,7 +447,7 @@
 	#3 = all buttons enabled (default)
 	# Default: 3
 	# Range: 0 ~ 3
-	enableButtons = 1
+	enableButtons = 3
 	#Enable auto-refill
 	autoRefill = true
 	#0 = disable sorting
