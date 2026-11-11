@@ -210,10 +210,14 @@ global.completeSpeciesTasks = (player, pokemons) => {
 }
 
 global.pokemonGained = (pokemonGained) => {
-  let pokemon = pokemonGained.pokemon
-  let player = pokemon.getOwnerPlayer()
-  if (player == null || !player.getUUID().equals(pokemonGained.playerId)) return
-  global.completeSpeciesTasks(player, [pokemon])
+  try {
+    let pokemon = pokemonGained.pokemon
+    let player = pokemon.getOwnerPlayer()
+    if (player == null || !pokemonGained.playerId.equals(pokemon.getOwnerUUID())) return
+    global.completeSpeciesTasks(player, [pokemon])
+  } catch (error) {
+    console.error(`[cobblemon_quests] species quest check failed: ${error}`)
+  }
 }
 
 global.pokemonLevelUp = (levelUpEvent) => {
