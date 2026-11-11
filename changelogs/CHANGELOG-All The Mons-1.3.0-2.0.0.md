@@ -35,7 +35,7 @@ NeoForge updated to 21.1.265.
 - Sort buttons are back on containers (LobsterJonn)
 - Disabled the Functional Storage Armory Cabinet (#772) (LobsterJonn)
 - Apricorn planks sawing no longer clashes with the apricorn ball lid recipe (#709) (LobsterJonn)
-- Resolved more recipe conflicts (LobsterJonn)
+- Removed Polymorph and its add-ons: recipe conflicts are resolved in the pack, so each crafting grid has one result (LobsterJonn)
 - Fixed the harvest tier of the Vibranium and Unobtainium Silent Gear materials (LobsterJonn)
 - Productive Farming seeds are sold at the Farming for Blockheads market instead of by villagers (LobsterJonn)
 - Disabled the Ars Nouveau Starbuncle plush message (LobsterJonn)
@@ -74,7 +74,7 @@ Added mods:
 </details>
 
 <details open>
-<summary>Updated (146)</summary>
+<summary>Updated (145)</summary>
 
 Updated mods:
 
@@ -97,11 +97,10 @@ Updated mods:
 - Ars Elemental (0.7.10.1 > 0.7.10.4)
 - Ars Nouveau (5.13.1 > 5.13.5)
 - Ars Ocultas (2.6.1 > 2.6.2)
-- Ars Polymorphia (1.0.3 > 1.0.4)
 - Ars Unification (1.2.21 > 1.2.23)
 - Artifacts (13.2.3 > 13.2.5)
 - Balm (21.0.65 > 21.0.67)
-- Baubley Heart Canisters (1.21.1-1.4.1 > 1.21.1-1.5.0)
+- Baubley Heart Canisters (1.21.1-1.4.1 > 1.21.1-1.6.0)
 - Berry Pouch (0.5.4-beta > 0.6.1-beta)
 - Building Gadgets 2 (1.3.9 > 21.1.1)
 - Camol (1.21.1-0.3.1 > 1.21.1-0.4.0)
@@ -117,8 +116,8 @@ Updated mods:
 - Cobblemon: Mega Showdown (1.9.9+1.7.3+1.21.1 > 1.3.3+1.8.4+1.21.1-release)
 - Cobblenav (2.3.3 > 2.4.2)
 - Colorwheel (1.2.9+mc1.21.1 > 1.3.2+mc1.21.1)
-- Complete Cobblemon Collection (2.1.0 > 1.8.4)
 - CommonCapabilities (2.11.5 > 2.11.6)
+- Complete Cobblemon Collection (2.1.0 > 1.8.4)
 - Connectivity Mod (7.6 > 7.7)
 - Create Crafts & Additions (1.7.0 > 1.7.2)
 - Create: Dragons Plus (1.11.8b > 1.11.9)
@@ -182,14 +181,13 @@ Updated mods:
 - Mystical Agradditions (8.0.14 > 8.0.15)
 - Mystical Agriculture (8.0.28 > 8.0.29)
 - Not Enough Glyphs (4.6.1 > 4.6.2)
-- Occultism (1.224.4 > 1.226.0)
+- Occultism (1.224.4 > 1.227.0)
 - OctoLib (0.6.2 > 0.6.3)
 - Oracle Index (1.3.1 > 1.4.1)
 - Oritech (1.2.12 > 1.2.13)
 - oωo (0.12.15.5-beta.1+1.21 > 0.12.15.6-beta.1+1.21)
 - Placebo (9.9.2 > 9.9.4)
 - PneumaticCraft: Repressurized (8.2.23 > 8.2.24)
-- Polymorph (1.1.0+1.21.1 > 1.2.0+1.21.1)
 - Productive Bees (1.21.1-13.13.5 > 1.21.1-13.14.0)
 - Productive Trees (1.21.1-1.1.0 > 1.21.1-1.1.1)
 - Puzzles Lib (21.1.56 > 21.1.66)
@@ -199,14 +197,15 @@ Updated mods:
 - Railcraft Reborn (1.2.10 > 1.2.17)
 - Rechiseled (1.2.5 > 1.2.6)
 - Relics (0.12.8 > 0.12.11)
-- Reliquary Reincarnations (2.0.80 > 2.0.84)
+- Reliquary Reincarnations (2.0.80 > 2.0.85)
 - Reliquified Artifacts (1.0.8 > 1.0.9)
 - RFToolsBuilder (1.21-7.0.6 > 1.21-7.0.8)
+- RFToolsUtility (1.21-7.0.12 > 1.21-7.0.13)
 - Roots Classic (1.21.1-1.5.9 > 1.21.1-1.5.10)
 - Sophisticated Backpacks (3.26.1 > 3.26.21)
 - Sophisticated Backpacks Create Integration (0.1.8 > 0.2.3)
-- Sophisticated Core (1.5.0 > 1.5.32)
-- Sophisticated Storage (1.5.91 > 1.6.16)
+- Sophisticated Core (1.5.0 > 1.5.33)
+- Sophisticated Storage (1.5.91 > 1.6.17)
 - Sophisticated Storage Create Integration (0.1.21 > 0.1.23)
 - Sophisticated Storage In Motion (0.10.34 > 0.10.38)
 - Starbunclemania (1.5.8 > 1.5.9)
@@ -228,10 +227,11 @@ Updated mods:
 </details>
 
 <details open>
-<summary>Removed (8)</summary>
+<summary>Removed (11)</summary>
 
 Removed mods:
 
+- Ars Polymorphia (1.0.3)
 - Cobweb (1.4.0)
 - Cristel Lib (3.1.7)
 - ExperienceLib (1.2.1)
@@ -239,6 +239,8 @@ Removed mods:
 - Just Enough Professions (JEP) (4.0.5)
 - Load My F***ing Tags (1.1.1+1.21.9)
 - Player Animator (2.0.4+1.21.1)
+- Polymorph (1.1.0+1.21.1)
+- Polymorphic Energistics (0.4.1)
 - SimpleTMs (2.3.3)
 
 </details>

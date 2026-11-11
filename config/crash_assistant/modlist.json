@@ -349,14 +349,6 @@
     "curseForgeHash": 3845965529,
     "modrinthHash": "de39ec2ee0503e3f938bb167565414d16314d26c"
   },
-  "ars_polymorphia-1.0.4.jar": {
-    "jarName": "ars_polymorphia-1.0.4.jar",
-    "modId": "ars_polymorphia",
-    "name": "Ars Polymorphia",
-    "version": "1.0.4",
-    "curseForgeHash": 3516234846,
-    "modrinthHash": "a846a4945c0a0b4cecf171f7d1b352d8a69f43c5"
-  },
   "ars_technica-1.21.1-2.7.6.jar": {
     "jarName": "ars_technica-1.21.1-2.7.6.jar",
     "modId": "ars_technica",
@@ -429,13 +421,13 @@
     "curseForgeHash": 3155297782,
     "modrinthHash": "68c95ca8a6a87d26199d43ff6978bc94949329e3"
   },
-  "baubley-heart-canisters-1.21.1-1.5.0.jar": {
-    "jarName": "baubley-heart-canisters-1.21.1-1.5.0.jar",
+  "baubley-heart-canisters-1.21.1-1.6.0.jar": {
+    "jarName": "baubley-heart-canisters-1.21.1-1.6.0.jar",
     "modId": "bhc",
     "name": "Baubley Heart Canisters",
-    "version": "1.21.1-1.5.0",
-    "curseForgeHash": 910633982,
-    "modrinthHash": "d630f8c48391933499194f87aa786cf8e824505a"
+    "version": "1.21.1-1.6.0",
+    "curseForgeHash": 3297782537,
+    "modrinthHash": "d48d76ecca9f28eb808a2a5eea9a807c4605f3a8"
   },
   "bellsandwhistles-0.4.7-1.21.1.jar": {
     "jarName": "bellsandwhistles-0.4.7-1.21.1.jar",
@@ -2207,13 +2199,13 @@
     "curseForgeHash": 1811166438,
     "modrinthHash": "e17417eee213aac8291ff8bad1c6a5f710636b72"
   },
-  "occultism-1.21.1-neoforge-1.226.0.jar": {
-    "jarName": "occultism-1.21.1-neoforge-1.226.0.jar",
+  "occultism-1.21.1-neoforge-1.227.0.jar": {
+    "jarName": "occultism-1.21.1-neoforge-1.227.0.jar",
     "modId": "occultism",
     "name": "Occultism",
-    "version": "1.226.0",
-    "curseForgeHash": 1958841846,
-    "modrinthHash": "e64edef739d711678097c40969f5f9718bfa453b"
+    "version": "1.227.0",
+    "curseForgeHash": 2769057124,
+    "modrinthHash": "ac94231b96a6dcf96bfea789099a59ea11ef25db"
   },
   "OctoLib-NEOFORGE-0.6.3-1.21.jar": {
     "jarName": "OctoLib-NEOFORGE-0.6.3-1.21.jar",
@@ -2335,14 +2327,6 @@
     "curseForgeHash": 391364998,
     "modrinthHash": "5240b7df92f0ec542947acf17a0bfc6b10bbe0f3"
   },
-  "polyeng-0.4.1.jar": {
-    "jarName": "polyeng-0.4.1.jar",
-    "modId": "polyeng",
-    "name": "Polymorphic Energistics",
-    "version": "0.4.1",
-    "curseForgeHash": 2107081304,
-    "modrinthHash": "4add4d9e854807ed2b10c0cabf972244f862b21f"
-  },
   "polylib-2100.1.0-build.183-neoforge.jar": {
     "jarName": "polylib-2100.1.0-build.183-neoforge.jar",
     "modId": "polylib",
@@ -2350,14 +2334,6 @@
     "version": "2100.1.0-build.183",
     "curseForgeHash": 68824125,
     "modrinthHash": "2e77cd8a795c3171d8327e6b1f1b6413565c8da1"
-  },
-  "polymorph-neoforge-1.2.0+1.21.1.jar": {
-    "jarName": "polymorph-neoforge-1.2.0+1.21.1.jar",
-    "modId": "polymorph",
-    "name": "Polymorph",
-    "version": "1.2.0+1.21.1",
-    "curseForgeHash": 995117117,
-    "modrinthHash": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df"
   },
   "ponderjs-neoforge-1.21.1-2.4.0.jar": {
     "jarName": "ponderjs-neoforge-1.21.1-2.4.0.jar",
@@ -2527,13 +2503,13 @@
     "curseForgeHash": 2170097220,
     "modrinthHash": "2a21b9d771375f8dca1dd43cc78f9ce05f804461"
   },
-  "reliquary-1.21.1-2.0.84.1593.jar": {
-    "jarName": "reliquary-1.21.1-2.0.84.1593.jar",
+  "reliquary-1.21.1-2.0.85.1599.jar": {
+    "jarName": "reliquary-1.21.1-2.0.85.1599.jar",
     "modId": "reliquary",
     "name": "Reliquary Reincarnations",
-    "version": "2.0.84",
-    "curseForgeHash": 398289743,
-    "modrinthHash": "f305fc100b1d78ff8fef5f7d77856322fcf022c4"
+    "version": "2.0.85",
+    "curseForgeHash": 4069486265,
+    "modrinthHash": "98a0992eb4f5e287af0e60caba8eaa85f8e50969"
   },
   "reliquified_artifacts-1.21.1-1.0.9.jar": {
     "jarName": "reliquified_artifacts-1.21.1-1.0.9.jar",
@@ -2607,13 +2583,13 @@
     "curseForgeHash": 212969594,
     "modrinthHash": "90334692c4f7efb1c17b5492bf00421100222b80"
   },
-  "rftoolsutility-1.21-7.0.12.jar": {
-    "jarName": "rftoolsutility-1.21-7.0.12.jar",
+  "rftoolsutility-1.21-7.0.13.jar": {
+    "jarName": "rftoolsutility-1.21-7.0.13.jar",
     "modId": "rftoolsutility",
     "name": "RFToolsUtility",
-    "version": "1.21-7.0.12",
-    "curseForgeHash": 2848372387,
-    "modrinthHash": "d82b4c55d7754176a59003098a0fe90667f0e52a"
+    "version": "1.21-7.0.13",
+    "curseForgeHash": 3954164859,
+    "modrinthHash": "6dfa91b68d741947780ef98844e20506c0916591"
   },
   "rhino-2101.2.8-build.91.jar": {
     "jarName": "rhino-2101.2.8-build.91.jar",
@@ -2772,21 +2748,21 @@
     "curseForgeHash": 2106822585,
     "modrinthHash": "6519e78e8aff212826d650b8d803f9a23e1dc1be"
   },
-  "sophisticatedcore-1.21.1-1.5.32.2464.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.5.32.2464.jar",
+  "sophisticatedcore-1.21.1-1.5.33.2470.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.5.33.2470.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.5.32",
-    "curseForgeHash": 1871546796,
-    "modrinthHash": "3e890ff3262fc18aeb288ddb523672f6827d77a9"
+    "version": "1.5.33",
+    "curseForgeHash": 1793548552,
+    "modrinthHash": "988c68ff99f6d288c6086b525005c3f3299f12c2"
   },
-  "sophisticatedstorage-1.21.1-1.6.16.2222.jar": {
-    "jarName": "sophisticatedstorage-1.21.1-1.6.16.2222.jar",
+  "sophisticatedstorage-1.21.1-1.6.17.2224.jar": {
+    "jarName": "sophisticatedstorage-1.21.1-1.6.17.2224.jar",
     "modId": "sophisticatedstorage",
     "name": "Sophisticated Storage",
-    "version": "1.6.16",
-    "curseForgeHash": 3564785416,
-    "modrinthHash": "4d297562bf63df7f89285fdf682857cdcf33db54"
+    "version": "1.6.17",
+    "curseForgeHash": 926115565,
+    "modrinthHash": "062d70c0101ba53b85265fd272f81338a10515c6"
   },
   "sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.jar": {
     "jarName": "sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.jar",
