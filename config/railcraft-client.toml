@@ -9,3 +9,13 @@ polarExpressEnabled = true
 locomotiveLightLevel = 14
 #Set to false to disable the message that informs you that you are using a beta version.
 showBetaMessage = false
+#Change to false to disable all the seasonal cart effects, including the ones set with the Seasons Crowbar
+seasonsEnabled = true
+#Controls whether Christmas mode is (0) enabled, (1) forced, or (2) disabled
+# Default: 0
+# Range: 0 ~ 2
+christmas = 0
+#Controls whether Halloween mode is (0) enabled, (1) forced, or (2) disabled
+# Default: 0
+# Range: 0 ~ 2
+halloween = 0

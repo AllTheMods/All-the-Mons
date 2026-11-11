@@ -5,3 +5,5 @@ ignoreInvalidKeyChecks = true
 clipMouseToMenu = false
 #If set to true, the keymapping hovered in a bundle menu will be automatically triggered (without needing a click) upon release of the bundle key
 triggerKeymappingOnRelease = false
+#If true, pressing a bundle key opens its menu until you press it again, pick an entry or open a screen. If false, the menu is only open while the key is held
+toggleMenu = false

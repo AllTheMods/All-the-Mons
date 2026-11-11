@@ -49,6 +49,12 @@
 		guiStorageScaleMediumColumns = 10
 		#If the automatic re-sorting of the storage terminal contents should be paused while the shift key is held down.
 		guiStoragePauseSortingWhileShifting = true
+		#For testing only: hold storage terminal clicks back by this many milliseconds, to imitate a server that is far away. 0 disables this.
+		guiStorageSimulatedLatency = 0
+		#If storage terminal interactions should be shown immediately, before the server confirms them.
+		guiStoragePredictInteractions = true
+		#If the tooltips in the storage terminal should indicate the channels in which ingredients are available when all channels are shown at once.
+		guiStorageTooltipChannels = true
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
@@ -65,8 +71,6 @@
 		versionChecker = false
 		#The limit for the number of leaves in a tree-based crafting plan after which it won't be sent to the client anymore.
 		terminalStorageMaxTreePlanSize = 64
-		#If crafting plans should default to the tree-based view. If false, it will default to the flattened view.
-		terminalStorageDefaultToCraftingPlanTree = false
 		#If client-received packets should be deserialized in a separate thread.
 		packetDeserializationEnableMultithreading = true
 		#If client-directed packets should be serialized in a separate thread.
@@ -75,3 +79,7 @@
 		terminalStorageEnderParticles = false
 		#If storage terminals can be ender-upgraded with an eye of ender to gain a tab with the player's ender chest contents.
 		terminalStorageTabEnderChestEnabled = true
+		#If crafting plans should default to the graph-based view. If false, it will default to the flattened view.
+		terminalStorageDefaultToCraftingPlanGraph = true
+		#If crafting plans can also be shown as a tree list, next to the graph and compact views.
+		terminalStorageCraftingPlanTreeListEnabled = false

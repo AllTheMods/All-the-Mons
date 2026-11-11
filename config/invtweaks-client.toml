@@ -17,6 +17,12 @@
 	#CATEGORY = /FROZEN has the effect of /LOCKED and, in addition, ignores slot in auto-refill
 	#CATEGORY = /OTHER covers all remaining items after other rules are exhausted
 	rules = ["D /LOCKED", "A1-C9 /OTHER"]
+	#Order of items within a category, in /OTHER slots and in containers
+	#CREATIVE = creative inventory tab order, then item name
+	#NAME = item name
+	#MOD = mod, then item name
+	#Allowed Values: CREATIVE, NAME, MOD
+	sortOrder = "CREATIVE"
 	#Custom settings per GUI
 	#x = x-position of external sort button relative to GUI top left
 	#y = same as above except for the y-position
@@ -459,5 +465,14 @@
 	enableSort = 3
 	#Enable a quick view of how many items that you're currently holding exists in your inventory by displaying it next your hotbar.
 	quickView = true
-	#Enable debug will log the name of the screens being opened
+	#Log the screen and menu class names whenever a GUI opens, for use in containerOverrides
 	enableDebug = false
+	#Show quick stack buttons next to the player and container inventories
+	#Clicking moves items into the other inventory, if that inventory already holds the same item
+	#Shift-clicking moves everything that fits
+	#/LOCKED and /FROZEN slots are left alone
+	quickStack = true
+	#Ctrl+Shift+drop key over an item throws every stack of that item from the same inventory
+	#/LOCKED and /FROZEN slots are left alone, except the stack under the cursor
+	#Inactive when Inventory Essentials is installed, which has its own bulk drop on the same keys
+	throwAll = true

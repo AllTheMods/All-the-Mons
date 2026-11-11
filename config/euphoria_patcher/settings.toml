@@ -1,0 +1,65 @@
+# This file stores configuration options for the Euphoria Patcher mod
+# Made for version 1.10.5
+# Thank you for using Euphoria Patches - SpacEagle17
+
+[display]
+	# Option for the sodium message popup logging.
+	# Default = true
+	doPopUpLogging = true
+
+	# Option that enables or disables the in-game shader messages, for example an update message made by the shader itself. Only works on Iris or Oculus
+	# Default = true
+	doDisplayShaderInGameMessage = true
+
+[updates]
+	# Option which determines what updates the update checker considers.
+	# Update checker mode: 'important' (critical or big updates only), 'all' (all updates), 'none' (disabled).
+	# Uses the Modrinth API to fetch update information.
+	# Default = important
+	doUpdateChecking = "none"
+
+[maintenance]
+	# Option that automatically renames outdated Euphoria Patches folders and config files to a new name.
+	# This makes it easier for users to identify which ones are outdated.
+	# Default = true
+	doRenameOldShaderFiles = true
+
+	# Option that automatically deletes outdated Euphoria Patches folders and config files.
+	# Default = false
+	doDeleteOldShaderFiles = false
+
+[debug]
+	# Option that enables or disables debug logging. Alternatively, one can also set the JVM argument -DebugEP=true/false which takes priority over this setting.
+	# Default = false
+	doDebugLogging = false
+
+[advanced]
+	# Here one can set alternative Shader Names which will also be generated alongside the normal one.
+	# This is useful if you want multiple different settings you can quickly switch between
+	# Default = Empty String, which means no alternative names will be generated.
+	# In case of multiple names, separate them with a comma
+	# You can also use {baseVersion} or {patchVersion} in names to insert the base shader or Euphoria Patches version.
+	# Example: Euphoria Saturated, Comp_{baseVersion} + EP_{patchVersion} Dark Settings, EP High Performance, etc...
+	alternativeShaderNames = ""
+
+	# Option that controls embedding the current shaderpack's settings into screenshots you take with that shader, invisibly.
+	# (yes, it is guaranteed 100% invisible to the human eye in 'enabled' mode, done via LSB steganography in the pixel data).
+	# This lets a screenshot double as a shareable settings file - dropping it onto the Iris/Oculus shader options screen imports the embedded settings, same as dropping a regular settings .txt file.
+	# Modes: 'enabled' (embeds invisibly), 'disabled' (no embedding), 'debug' (embeds normally and saves a visual -debug screenshot to verify bit placement. Purely a visual check, no extra data stored).
+	# Default = enabled
+	doEmbedShaderSettingsInScreenshots = "enabled"
+
+	# Number of extra shader copies to keep in RAM per dimension. Prevents long reload times when switching between dimensions.
+	# Uses ~50 MB RAM per extra dimension. Lower if there is limited memory available.
+	# It only caches the extra dimension(s) once visited.
+	# If more dimensions than this threshold are visited, the oldest cached dimension will be removed.
+	# 0 = rebuild on every change (slower but no extra ram usage), 2 = two extra dimensions apart from the current one can be cached. Increase if frequently visiting more modded dimensions or decrease if you have limited memory.
+	# Default = 2
+	extraDimensionShaderCacheSize = 2
+
+	# Option that enables or disables automatic merging of the fragmented block.properties files into the main block.properties file.
+	# The properties files inside "Euphoria Patches/shaders/properties/" will be merged into a single block.properties file at the specified interval if any of them have changed.
+	# This helps organizing the files, reduces the number of entries in a single file and improves speed while editing them.
+	# Since they are merged automatically into the final block.properties file, the individual files can be edited without worrying about merge conflicts or losing changes.
+	# Default = false
+	autoMergeBlockProperties = false

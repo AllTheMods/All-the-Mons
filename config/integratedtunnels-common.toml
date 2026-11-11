@@ -73,3 +73,5 @@
 		inventoryUnchangedTickCount = 3
 		#A list of regex patterns for block id's that should not be importable by world block importers. Example patterns: 'minecraft:bedrock', 'minecraft:.*_portal.*', '.*:end_.*'
 		blockImporterBlacklist = []
+		#The maximum network item transfer rate.
+		itemRateLimit = 64

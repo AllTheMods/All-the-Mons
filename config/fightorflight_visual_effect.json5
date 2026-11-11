@@ -56,5 +56,11 @@
 	// Set the horizontal position of the move indicator.(0-1,0 is the left side, 1 is the right side)
 	"move_indicator_x_relative": 0.8999999761581421,
 	// Set the horizontal position of the move indicator.(0-1,0 is the top, 1 is the bottom)
-	"move_indicator_y_relative": 0.8999999761581421
+	"move_indicator_y_relative": 0.8999999761581421,
+	// If this is set to true, the server side can send packet to the client side to the player can receive the switch move notification.
+	"show_switch_move_msg_server": true,
+	// If this is set to true, the client side will handle the packet and show them on screen.
+	"show_switch_move_msg_client": true,
+	// Dark mode for the notification bar, if you use the Minecraft's team or something that changes the color of the Pokemon entity name, you might need that.
+	"notification_bar_dark_mode": false
 }

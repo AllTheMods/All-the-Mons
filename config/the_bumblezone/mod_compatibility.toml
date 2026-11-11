@@ -239,3 +239,10 @@
 	# Allow Honey and Royal Jelly fluids to spawn Create's Limestone when they touch Lava.
 	#
 	allowCreateLimestoneForHoneyLavaCompat = true
+
+["Forestry Compat"]
+	#----------------------------
+	#
+	# Allow loading of internal Forestry Compat Datapack
+	#
+	allowForestryCompat = true

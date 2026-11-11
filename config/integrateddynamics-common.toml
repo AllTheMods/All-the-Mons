@@ -127,6 +127,14 @@
 		disableCableCollision = false
 		#The maximum values that Part Offset items will have when dropped from a broken part.
 		enchancementOffsetPartDropValue = 4
+		#If encoded values may be decoded, by the Decode Value element of the Logic Programmer and by the Decode operator.
+		valueDecodingEnabled = true
+		#The maximum length of the text of an expression in the logic programmer.
+		expressionMaxLength = 8192
+		#The maximum length of an uncompressed encoded value, both when encoding and when decoding.
+		valueEncodingMaxLength = 65536
+		#The maximum nesting depth of an encoded value, both when encoding and when decoding.
+		valueEncodingMaxDepth = 512
 
 	[machine.cable]
 		#If cable shapes should be determined dynamically. Disable this if FPS issues would occur.

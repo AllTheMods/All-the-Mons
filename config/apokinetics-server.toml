@@ -93,6 +93,25 @@
 		# Range: 0.0 ~ 1000000.0
 		generatorMaximumBonus = 1000000.0
 
+	[processing.accumulator]
+		#Extra accumulator capacity per effective Extension point, applied to the socketed block's base capacity.
+		#0.01 gives +1% per point; one unrotated highest-purity gem gives +16%.
+		# Default: 0.01
+		# Range: 0.0 ~ 1000000.0
+		extensionCapacityScale = 0.01
+		#Maximum extra capacity per accumulator block. 1.0 means +100%.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		extensionMaximumBonus = 1.0
+		#Scales Flowing's energy input/output bonus at the socketed accumulator block's ports.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		flowingTransferScale = 1.0
+		#Maximum extra accumulator input/output rate per port. 1.0 means +100%.
+		# Default: 1.0
+		# Range: 0.0 ~ 1000000.0
+		flowingMaximumBonus = 1.0
+
 [performance]
 	#Ticks to cache unchanged generator gem calculations. Zero disables time-based caching.
 	# Default: 20

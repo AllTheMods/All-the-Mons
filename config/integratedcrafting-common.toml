@@ -11,6 +11,14 @@
 		craftingInterfaceRecipeDurationMaxAge = 144000
 		#The maximum number of recipes that a crafting interface remembers crafting durations for, which are used to estimate the duration of crafting jobs. Set to 0 to disable recipe-specific estimations.
 		craftingInterfaceRecipeDurationEntries = 32
+		#The maximum number of recipes that will be read from a list inside an enumerated crafting interface. Set to 0 for no limit.
+		maxCraftingInterfaceEnumeratedRecipes = 4096
+		#The minimal update frequency in ticks to use for enumerated crafting interfaces.
+		minCraftingInterfaceEnumeratedUpdateFreq = 20
+		#The minimal number of ticks between two recipe list reloads in enumerated crafting interfaces, which happen when the list variable changes. Reading a list of recipes is more expensive than reading a single recipe, so this defaults higher than the update frequency.
+		minCraftingInterfaceEnumeratedRecipeReloadFreq = 20
+		#The minimal update frequency in ticks to use for attuned crafting interfaces.
+		minCraftingInterfaceAttunedUpdateFreq = 5
 
 	[general.general]
 		#The base energy usage for the crafting interface per crafting job being processed.
@@ -19,6 +27,8 @@
 		craftingWriterBaseConsumption = 1
 		#The base energy usage for the attuned crafting interface per crafting job being processed.
 		interfaceCraftingAttunedBaseConsumption = 10
+		#The base energy usage for the enumerated crafting interface per crafting job being processed.
+		interfaceCraftingEnumeratedBaseConsumption = 10
 
 	[core.general]
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
