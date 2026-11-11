@@ -54,7 +54,6 @@ A new Team Rocket Volcano structure has been added, along with a bunch of legend
 <details open>
 <summary>Updated (67)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - allthemons (0.1.6 > 0.1.7)

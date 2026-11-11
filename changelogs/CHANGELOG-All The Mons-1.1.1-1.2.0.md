@@ -60,7 +60,6 @@ NeoForge updated to 21.1.248.
 <details open>
 <summary>Added (3)</summary>
 
-Mod list changes after the latest successful launch:
 Added mods:
 
 - apokinetics (1.0.4)
@@ -72,7 +71,6 @@ Added mods:
 <details open>
 <summary>Updated (75)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - advanced_ae (1.6.11-1.21.1 > 1.6.12-1.21.1)

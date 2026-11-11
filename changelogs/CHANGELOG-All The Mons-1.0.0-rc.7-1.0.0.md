@@ -65,7 +65,6 @@ If a reset is not in the cards for you then you can also just travel to fresh ch
 <details open>
 <summary>Updated (73)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - actuallyadditions (1.3.25 > 1.3.26)

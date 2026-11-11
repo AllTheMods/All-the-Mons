@@ -68,7 +68,6 @@ NeoForge updated to 21.1.249.
 <details open>
 <summary>Added (1)</summary>
 
-Mod list changes after the latest successful launch:
 Added mods:
 
 - Better Advanced Tooltips (2101.1.0-build.5)
@@ -78,7 +77,6 @@ Added mods:
 <details open>
 <summary>Updated (92)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - AE2 Import Export Card (1.21.1-1.5.0 > 1.21.1-1.6.0)
@@ -179,7 +177,6 @@ Updated mods:
 <details open>
 <summary>Removed (1)</summary>
 
-Mod list changes after the latest successful launch:
 Removed mods:
 
 - Reap Mod (1.21.1-1.1.2)

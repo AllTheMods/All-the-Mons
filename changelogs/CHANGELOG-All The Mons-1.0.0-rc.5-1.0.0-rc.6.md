@@ -33,7 +33,6 @@ Cobblemon Extra Structures now have respawnable mons in their structures. Only f
 <details open>
 <summary>Updated (28)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - alltheleaks (1.1.8+1.21.1-neoforge > 1.1.9+1.21.1-neoforge)

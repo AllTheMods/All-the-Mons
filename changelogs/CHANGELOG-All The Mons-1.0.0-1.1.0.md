@@ -51,7 +51,6 @@
 <details open>
 <summary>Updated (42)</summary>
 
-Mod list changes after the latest successful launch:
 Updated mods:
 
 - aeinfinitybooster (1.21.1-1.0.0.54 > 1.21.1-1.0.0.58)
