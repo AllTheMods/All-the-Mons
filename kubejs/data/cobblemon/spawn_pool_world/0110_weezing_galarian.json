@@ -1,0 +1,36 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "ccc-weezing-galarian-1",
+      "pokemon": "weezing galarian",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "35-50",
+      "weight": 0.1,
+      "weightMultiplier": {
+        "multiplier": 5.0,
+        "condition": {
+          "timeRange": "night"
+        }
+      },
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ],
+        "structures": [
+          "#cobblemon:spawns/is_illager_structure"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#minecraft:woodland_mansion"
+        ]
+      }
+    }
+  ]
+}
