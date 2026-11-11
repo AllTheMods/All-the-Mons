@@ -40,6 +40,7 @@ NeoForge updated to 21.1.265.
 - Productive Farming seeds are sold at the Farming for Blockheads market instead of by villagers (LobsterJonn)
 - Disabled the Ars Nouveau Starbuncle plush message (LobsterJonn)
 - Discord Rich Presence is enabled, showing your Pokédex progress, with a Shiny Pika Star badge once you own one (LobsterJonn)
+- Pokémon icons on the JourneyMap minimap are readable again, and alphas and other forms show their species icon instead of a smudge (LobsterJonn)
 - Restored and rebalanced Oritech enchanting (#783) (item4)
 - Removed duplicate silver processing recipes from Mekanism: More Machine (#753, #764) (item4)
 - Added a Draconic Dragon Heart drop to Hostile Neural Networks (#777) (item4)
