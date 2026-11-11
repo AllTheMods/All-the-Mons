@@ -51,7 +51,6 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"naturesaura:multiblock_maker"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"mininggadgets:upgrade_battery_creative"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"immersiveengineering:capacitor_creative"},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"hyperbox:hyperbox"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:dirty_iron","type":"mekanism.api.chemical.ChemicalStack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_iron","type":"mekanism.api.chemical.ChemicalStack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":"mekanism:clean_gold","type":"mekanism.api.chemical.ChemicalStack"}},
