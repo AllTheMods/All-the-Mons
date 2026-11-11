@@ -25,6 +25,32 @@
           "chance": 0.273
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "functions": [
+            {
+              "components": {
+                "cobblemon:tm_move": {
+                  "move": "grasspledge"
+                }
+              },
+              "function": "minecraft:set_components"
+            }
+          ],
+          "name": "cobblemon:technical_machine",
+          "type": "minecraft:item"
+        }
+      ],
+      "conditions": [
+        {
+          "chance": 0.45,
+          "condition": "minecraft:random_chance"
+        }
+      ]
     }
   ]
 }
