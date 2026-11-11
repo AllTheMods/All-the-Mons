@@ -27,7 +27,7 @@
 		idle_messages = ["Getting coffee", "Making a sandwich", "Reading the changelog", "Looking for the right button", "Doomscrolling"]
 		#Asset key or image URL for the main image on the card
 		#Leave blank to take it from the packmode profile
-		large_image = ""
+		large_image = "https://raw.githubusercontent.com/AllTheMods/All-the-Mons/main/kubejs/assets/allthemons/textures/rpc/allthemons_logo.png"
 		#Discord application the Rich Presence connects to
 		#Leave at 0 to take it from the packmode profile
 		# Default: 0
