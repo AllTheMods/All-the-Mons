@@ -1,0 +1,21 @@
+{
+  "portraitScale": 2.1,
+  "portraitTranslation": [-0.53, -0.33, 0],
+  "profileScale": 0.9,
+  "profileTranslation": [0, 0.4, 0],
+  "rootBone": "growlithe",
+  "head": "head",
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "FLOAT", "PORTRAIT", "PROFILE"],
+      "animations": ["q.look('head')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.quadruped_walk(0.66, 1.4, 'left_shoulder', 'right_shoulder', 'left_thigh', 'right_thigh')"
+      ]
+    }
+  }
+}
