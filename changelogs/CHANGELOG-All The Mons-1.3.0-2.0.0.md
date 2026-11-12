@@ -22,7 +22,6 @@ NeoForge updated to 21.1.265.
 - Luck no longer multiplies the loot Cobblemon and CobbleNav add to vanilla chests and fishing, which flooded high-luck chests with Link Cables (LobsterJonn)
 - New spawnNotificationRadius config so other nearby players also get spawn notifications (LobsterJonn)
 - Setting replaceAnimalSpawn to false now leaves vanilla animals alone instead of deleting them without a replacement (LobsterJonn)
-- Squid spawn again, they were being removed on spawn with nothing in their place (LobsterJonn)
 - Removed SimpleTMs, Cobblemon 1.8 provides its own TMs (LobsterJonn)
 - Pokémon quests complete when you obtain the Pokémon, not only when you catch it, and Pokémon already in your party or PC count when you log in (#766, #770) (LobsterJonn)
 - The paradox chapter is gated on the Paldean Pika Star alone (#770) (LobsterJonn)

@@ -1,0 +1,36 @@
+for_each(t.loser, c.npc_losers, {
+  !q.is_blank(t.loser.npc) ? {
+    !q.is_blank(t.loser.npc.config.quest_update_on_player_wins) ? {
+      for_each(t.player_winner, c.player_winners, {
+        v.player = t.player_winner.player;
+        v.npc = t.loser.npc;
+        q.set_query('player', t.player_winner.player);
+        q.set_query('npc', t.loser.npc);
+        q.run_molang(t.loser.npc.config.quest_update_on_player_wins);
+      });
+    };
+
+    !t.loser.npc.config.toggle_battle_repeat ? {
+      for_each(t.player_winner, c.player_winners, {
+        v.player = t.player_winner.player;
+        v.npc = t.loser.npc;
+        q.set_query('player', t.player_winner.player);
+        q.set_query('npc', t.loser.npc);
+
+        q.player.set_npc_variable(t.loser.npc, 'defeated', 1.0);
+        q.player.save_data();
+      });
+    };
+
+    t.loser.npc.config.toggle_zinnia_battle_reward ? {
+      for_each(t.player_winner, c.player_winners, {
+        v.player = t.player_winner.player;
+        v.npc = t.loser.npc;
+        q.set_query('player', t.player_winner.player);
+        q.set_query('npc', t.loser.npc);
+        q.run_command('clear ' + q.player.username + ' legendarymonuments:green_orb_inactive 1');
+        q.run_command('loot give ' + q.player.username + ' loot legendarymonuments:zinnia_rewards');
+      });
+    };
+  };
+});
