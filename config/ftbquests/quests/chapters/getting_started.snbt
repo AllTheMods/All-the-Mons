@@ -185,7 +185,7 @@
 			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
-				advancement: "cobblemon:first_catch"
+				advancement: "cobblemon:catching/first_catch"
 				criterion: ""
 				id: "754C96E14EF29755"
 				type: "advancement"

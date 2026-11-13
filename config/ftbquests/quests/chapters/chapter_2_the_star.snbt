@@ -3694,7 +3694,7 @@
 			shape: "rsquare"
 			size: 2.0d
 			tasks: [{
-				advancement: "cobblemon:first_catch"
+				advancement: "cobblemon:catching/first_catch"
 				criterion: ""
 				id: "50A9A9BD3114EE45"
 				type: "advancement"

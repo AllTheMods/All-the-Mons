@@ -700,7 +700,7 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				advancement: "cobblemon:first_catch"
+				advancement: "cobblemon:catching/first_catch"
 				criterion: ""
 				id: "6FEB3AA7532A8E9E"
 				type: "advancement"
