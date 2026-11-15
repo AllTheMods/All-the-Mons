@@ -333,6 +333,7 @@
 	candle_holder = true
 	fire_pit = true
 	wicker_fence = true
+	redstone_lantern = true
 
 	[building.sconce]
 		enabled = true
@@ -514,7 +515,6 @@
 
 [tools]
 	candy = true
-	stasis = true
 	altimeter = true
 	confetti_popper = true
 
@@ -674,6 +674,17 @@
 	[tools.antique_ink]
 		enabled = true
 
+	[tools.enchantments]
+		#Slingshot projectiles ignore gravity
+		stasis = true
+		#Quivers and lunch baskets pick a random slot
+		whimsy = true
+		#Quivers and lunch baskets cycle to the next slot
+		carousel = true
+
+	[tools.orichalcum]
+		enabled = true
+
 [general]
 	#Enable Creative Tab
 	creative_tab = false
@@ -803,6 +814,12 @@
 		# Default: 0.15
 		# Range: 0.0 ~ 1.0
 		chance_per_slime_size = 0.15
+		#Makes Environmental mud balls apply a muddy version of the slimed effect (Environmental only)
+		environmental_mud_ball_compat = true
+		#Duration of the muddy effect in ticks. Longer than slimed since mud balls fly shorter
+		# Default: 600
+		# Range: 0 ~ 2000
+		mud_ball_duration = 600
 
 	[tweaks.ai_tweaks]
 		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well

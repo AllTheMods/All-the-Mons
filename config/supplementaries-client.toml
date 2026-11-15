@@ -90,6 +90,8 @@
 		fanciness = "FABULOUS"
 		#Makes flags render as sideways banner. Ignores many of the previously defined configs
 		render_as_banner = false
+		#Makes flags have no thickness
+		render_2d = false
 
 	[blocks.captured_mobs]
 		#A list of mobs that can be ticked on client side when inside jars. Mainly used for stuff that has particles. Can cause issues and side effects so use with care
@@ -153,6 +155,14 @@
 	configs_button_opens_mod_list = true
 	#Outline the config button with a rainbow when hovered
 	configs_button_rainbow_outline = true
+
+	[general.configs_button_position]
+		# Default: -1
+		# Range: -1 ~ 10000
+		x = -1
+		# Default: -1
+		# Range: -1 ~ 10000
+		y = -1
 
 [tweaks]
 	#Adds an overlay to projectile weapons in gui displaying currently selected ammo

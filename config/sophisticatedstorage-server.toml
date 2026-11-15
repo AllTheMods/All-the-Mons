@@ -12,6 +12,12 @@
 	# Default: 15
 	# Range: 4 ~ 64
 	controllerRange = 15
+	#Mod IDs matched against the registry namespace of the resolved planks used for generic wood storage variants. Only affects automatically discovered generic woods.
+	#Disabled woods still work as crafting ingredients, but produce the recipe's default storage variant. Existing storages keep their wood appearance.
+	genericWoodStorageModIds = []
+	#If true, only woods from listed mods get generic storage variants. If false, woods from listed mods are blocked and all other compatible woods are enabled.
+	#An empty allow list disables all generic wood variants; an empty block list enables all compatible generic woods.
+	genericWoodStorageModIdsIsAllowList = false
 
 	#Wood Barrel Settings
 	[server.WoodBarrel]
@@ -859,3 +865,69 @@
 		# Default: 8
 		# Range: 1 ~ 20
 		filterSlots = 8
+
+	#Wood Tank Settings
+	[server.WoodTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 8000
+		# Range: > 1
+		capacity = 8000
+		#Number of upgrade slots in the tank
+		# Default: 1
+		# Range: 0 ~ 10
+		upgradeSlotCount = 1
+
+	#Copper Tank Settings
+	[server.CopperTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 12000
+		# Range: > 1
+		capacity = 12000
+		#Number of upgrade slots in the tank
+		# Default: 1
+		# Range: 0 ~ 10
+		upgradeSlotCount = 1
+
+	#Iron Tank Settings
+	[server.IronTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 16000
+		# Range: > 1
+		capacity = 16000
+		#Number of upgrade slots in the tank
+		# Default: 2
+		# Range: 0 ~ 10
+		upgradeSlotCount = 2
+
+	#Gold Tank Settings
+	[server.GoldTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 32000
+		# Range: > 1
+		capacity = 32000
+		#Number of upgrade slots in the tank
+		# Default: 3
+		# Range: 0 ~ 10
+		upgradeSlotCount = 3
+
+	#Diamond Tank Settings
+	[server.DiamondTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 64000
+		# Range: > 1
+		capacity = 64000
+		#Number of upgrade slots in the tank
+		# Default: 4
+		# Range: 0 ~ 10
+		upgradeSlotCount = 4
+
+	#Netherite Tank Settings
+	[server.NetheriteTank]
+		#Fluid capacity in mB per tank block; tank height and stack upgrades multiply this capacity
+		# Default: 128000
+		# Range: > 1
+		capacity = 128000
+		#Number of upgrade slots in the tank
+		# Default: 5
+		# Range: 0 ~ 10
+		upgradeSlotCount = 5

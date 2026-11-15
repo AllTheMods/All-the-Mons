@@ -81,8 +81,6 @@
 	preferJourneyMapIntegrationMod = true
 	#If enabled, Waystones will add markers for waystones and sharestones to Dynmap.
 	dynmap = true
-	#Set to true to apply Waystones' entity teleport packet fix to all entity teleports, including vanilla and other mods.
-	fixVanillaTeleportBug = false
 
 [blueMap]
 	#Controls whether Waystones' BlueMap integration should be loaded
