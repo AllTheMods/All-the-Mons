@@ -20,6 +20,9 @@ ServerEvents.recipes(allthemods => {
 
     allthemods.shapeless('pkgbadges:the_earth_badge', ['pkgbadges:the_rising_badge'])
         .id('allthemons:rising_badge_to_indigo')
+
+    allthemods.shapeless('cobblemon:blank_tm', ['cobblemon:technical_machine', 'supplementaries:soap'])
+        .id('allthemons:recycle_technical_machine')
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
