@@ -1,0 +1,50 @@
+{
+  "type": "neoforge:add_table",
+  "table": "allthemons:pickup/technical_machine",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "cobblemon:pokemon"
+      }
+    },
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_ancient_held_item"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_common_pokeball"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_evo_stone"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_exp_candy"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_natural_heal_item"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_type_gem"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "cobblemon:sets/any_apricorn_seed"
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.054
+    }
+  ]
+}
