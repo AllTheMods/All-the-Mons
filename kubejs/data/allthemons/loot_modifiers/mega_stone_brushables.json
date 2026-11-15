@@ -1,0 +1,30 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "mega_showdown:mega_stone"
+  },
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "mega_showdown:archaeology/observatory_sus"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "mega_showdown:archaeological_site/archaeological_site"
+        },
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "mega_showdown:archaeological_site/archaeological_site_rare"
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.1
+    }
+  ]
+}

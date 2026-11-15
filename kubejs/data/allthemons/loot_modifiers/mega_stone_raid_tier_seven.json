@@ -1,0 +1,17 @@
+{
+  "type": "productivelib:item_modifier",
+  "addition": {
+    "count": 1,
+    "id": "mega_showdown:mega_stone"
+  },
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "cobblemonraiddens:raid/tier/tier_seven"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.45
+    }
+  ]
+}
