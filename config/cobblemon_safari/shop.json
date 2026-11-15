@@ -1,0 +1,695 @@
+{
+  "configVersion": 4,
+  "enabled": true,
+  "defaults": {},
+  "tabs": [
+    {
+      "id": "pokemon",
+      "name": "",
+      "icon": "cobblemon:poke_ball",
+      "fixed": [
+        {
+          "pokemon": "tauros level=45",
+          "price": 200,
+          "limit": {
+            "max": 1,
+            "lifetime": true
+          }
+        }
+      ],
+      "rotatingPokemon": {
+        "enabled": true,
+        "count": 15,
+        "rarities": {
+          "common": {
+            "allowed": true,
+            "price": 250,
+            "weight": 10
+          },
+          "uncommon": {
+            "allowed": true,
+            "price": 500,
+            "weight": 6
+          },
+          "rare": {
+            "allowed": true,
+            "price": 1000,
+            "weight": 3
+          },
+          "ultra-rare": {
+            "allowed": false,
+            "price": 2500,
+            "weight": 1
+          }
+        },
+        "categories": {
+          "legendary": {
+            "allowed": false,
+            "price": 20000,
+            "maxPerRotation": 1,
+            "limit": {
+              "max": 1
+            }
+          },
+          "mythical": {
+            "allowed": false,
+            "price": 20000,
+            "maxPerRotation": 1,
+            "limit": {
+              "max": 1
+            }
+          },
+          "ultraBeast": {
+            "allowed": false,
+            "price": 8000,
+            "maxPerRotation": 1,
+            "limit": {
+              "max": 1
+            }
+          },
+          "paradox": {
+            "allowed": false,
+            "price": 5000,
+            "maxPerRotation": 2,
+            "limit": {
+              "max": 1
+            }
+          }
+        },
+        "level": {
+          "mode": "spawn",
+          "min": 5,
+          "max": 30
+        },
+        "modifiers": {
+          "shinyChance": 0.01,
+          "shinyPriceMultiplier": 3.0
+        },
+        "excludeFeatured": true,
+        "excludeList": []
+      }
+    },
+    {
+      "id": "items",
+      "name": "",
+      "icon": "cobblemon:rare_candy",
+      "fixed": [
+        {
+          "item": "cobblemon:rare_candy",
+          "count": 1,
+          "price": 60
+        },
+        {
+          "item": "cobblemon:exp_candy_m",
+          "count": 3,
+          "price": 40
+        },
+        {
+          "item": "cobblemon:ability_capsule",
+          "count": 1,
+          "price": 400
+        }
+      ],
+      "rotatingItems": {
+        "enabled": true,
+        "count": 8,
+        "always": [],
+        "excluded": [
+          "cobblemon:ability_patch",
+          "#cobblemon:teapots",
+          "#cobblemon:teacups",
+          "minecraft:bone",
+          "minecraft:snowball"
+        ],
+        "prices": [
+          {
+            "item": "cobblemon:full_restore",
+            "count": 1,
+            "price": 200
+          },
+          {
+            "item": "cobblemon:max_potion",
+            "count": 1,
+            "price": 150
+          },
+          {
+            "item": "cobblemon:hyper_potion",
+            "count": 2,
+            "price": 120
+          },
+          {
+            "item": "cobblemon:super_potion",
+            "count": 3,
+            "price": 90
+          },
+          {
+            "item": "#cobblemon:potions",
+            "count": 5,
+            "price": 50
+          },
+          {
+            "item": "cobblemon:max_revive",
+            "count": 1,
+            "price": 300
+          },
+          {
+            "item": "#cobblemon:revives",
+            "count": 1,
+            "price": 150
+          },
+          {
+            "item": "cobblemon:full_heal",
+            "count": 2,
+            "price": 100
+          },
+          {
+            "item": "#cobblemon:restores",
+            "count": 3,
+            "price": 60
+          },
+          {
+            "item": "#cobblemon:remedies",
+            "count": 3,
+            "price": 30
+          },
+          {
+            "item": "cobblemon:max_elixir",
+            "count": 1,
+            "price": 400
+          },
+          {
+            "item": "cobblemon:elixir",
+            "count": 1,
+            "price": 250
+          },
+          {
+            "item": "cobblemon:max_ether",
+            "count": 1,
+            "price": 200
+          },
+          {
+            "item": "#cobblemon:ethers",
+            "count": 1,
+            "price": 100
+          },
+          {
+            "item": "cobblemon:rare_candy",
+            "count": 1,
+            "price": 150
+          },
+          {
+            "item": "cobblemon:exp_candy_xl",
+            "count": 1,
+            "price": 400
+          },
+          {
+            "item": "cobblemon:exp_candy_l",
+            "count": 1,
+            "price": 200
+          },
+          {
+            "item": "cobblemon:exp_candy_m",
+            "count": 2,
+            "price": 150
+          },
+          {
+            "item": "cobblemon:exp_candy_s",
+            "count": 3,
+            "price": 100
+          },
+          {
+            "item": "cobblemon:exp_candy_xs",
+            "count": 5,
+            "price": 75
+          },
+          {
+            "item": "#cobblemon:iv_candies",
+            "count": 1,
+            "price": 300
+          },
+          {
+            "item": "#cobblemon:mochis",
+            "count": 1,
+            "price": 250
+          },
+          {
+            "item": "#cobblemon:mints",
+            "count": 1,
+            "price": 400
+          },
+          {
+            "item": "#cobblemon:ability_changers",
+            "count": 1,
+            "price": 800
+          },
+          {
+            "item": "#cobblemon:battle_items",
+            "count": 3,
+            "price": 100
+          },
+          {
+            "item": "#cobblemon:type_gems",
+            "count": 1,
+            "price": 150
+          },
+          {
+            "item": "#cobblemon:evolution_stones",
+            "count": 1,
+            "price": 300
+          },
+          {
+            "item": "#cobblemon:evolution_items",
+            "count": 1,
+            "price": 500
+          },
+          {
+            "item": "#cobblemon:held/is_held_item",
+            "count": 1,
+            "price": 600
+          }
+        ]
+      }
+    },
+    {
+      "id": "balls",
+      "name": "",
+      "icon": "cobblemon:great_ball",
+      "fixed": [
+        {
+          "item": "cobblemon:safari_ball",
+          "count": 32,
+          "price": 0,
+          "limit": {
+            "cooldownHours": 24
+          }
+        },
+        {
+          "item": "cobblemon:poke_ball",
+          "count": 10,
+          "price": 20
+        },
+        {
+          "item": "cobblemon:great_ball",
+          "count": 5,
+          "price": 40
+        },
+        {
+          "item": "cobblemon:ultra_ball",
+          "count": 5,
+          "price": 80
+        }
+      ],
+      "rotatingItems": {
+        "enabled": true,
+        "count": 6,
+        "always": [
+          "cobblemon:safari_ball"
+        ],
+        "excluded": [
+          "#cobblemon:tier_5_poke_balls",
+          "cobblemon:cherish_ball"
+        ],
+        "prices": [
+          {
+            "item": "cobblemon:safari_ball",
+            "count": 10,
+            "price": 150
+          },
+          {
+            "item": "#cobblemon:tier_1_poke_balls",
+            "count": 10,
+            "price": 50
+          },
+          {
+            "item": "#cobblemon:tier_2_poke_balls",
+            "count": 5,
+            "price": 100
+          },
+          {
+            "item": "#cobblemon:tier_3_poke_balls",
+            "count": 5,
+            "price": 200
+          },
+          {
+            "item": "#cobblemon:tier_4_poke_balls",
+            "count": 1,
+            "price": 400
+          }
+        ]
+      }
+    },
+    {
+      "id": "cooking",
+      "name": "",
+      "icon": "cobblemon:campfire_pot_red",
+      "sections": [
+        {
+          "name": "prepared",
+          "fixed": [
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": []
+              },
+              "price": 150,
+              "limit": {
+                "max": 3
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:passho_berry",
+                  "cobblemon:aspear_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:occa_berry",
+                  "cobblemon:rawst_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:rindo_berry",
+                  "cobblemon:cheri_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:wacan_berry",
+                  "cobblemon:chilan_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:coba_berry",
+                  "cobblemon:chesto_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:tanga_berry",
+                  "cobblemon:pecha_berry"
+                ]
+              },
+              "price": 300,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:charti_berry",
+                  "cobblemon:shuca_berry",
+                  "cobblemon:persim_berry"
+                ]
+              },
+              "price": 375,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:kasib_berry",
+                  "cobblemon:payapa_berry",
+                  "cobblemon:colbur_berry"
+                ]
+              },
+              "price": 375,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:haban_berry",
+                  "cobblemon:lum_berry"
+                ]
+              },
+              "price": 450,
+              "limit": {
+                "max": 2
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:enigma_berry"
+                ]
+              },
+              "price": 1200,
+              "limit": {
+                "max": 1
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_snack",
+                "seasonings": [
+                  "cobblemon:starf_berry"
+                ]
+              },
+              "price": 2000,
+              "limit": {
+                "max": 1
+              }
+            },
+            {
+              "snack": {
+                "base": "cobblemon:poke_cake",
+                "seasonings": [
+                  "cobblemon:razz_berry"
+                ]
+              },
+              "price": 500,
+              "limit": {
+                "max": 1
+              }
+            }
+          ],
+          "rotatingSnacks": {
+            "enabled": true,
+            "count": 2,
+            "base": "cobblemon:poke_snack",
+            "seasonings": {
+              "pool": [
+                "#cobblemon:berries"
+              ],
+              "min": 1,
+              "max": 3
+            },
+            "price": {
+              "base": 150,
+              "perSeasoning": 75
+            },
+            "limit": {
+              "max": 1
+            }
+          }
+        },
+        {
+          "name": "ingredients",
+          "fixed": [
+            {
+              "item": "cobblemon:hearty_grains",
+              "count": 8,
+              "price": 40
+            },
+            {
+              "item": "cobblemon:vivichoke",
+              "count": 2,
+              "price": 60
+            },
+            {
+              "item": "cobblemon:medicinal_leek",
+              "count": 4,
+              "price": 40
+            },
+            {
+              "item": "cobblemon:tasty_tail",
+              "count": 1,
+              "price": 80
+            },
+            {
+              "item": "cobblemon:galarica_nuts",
+              "count": 4,
+              "price": 60
+            },
+            {
+              "item": "cobblemon:pep_up_flower",
+              "count": 4,
+              "price": 40
+            },
+            {
+              "item": "cobblemon:energy_root",
+              "count": 2,
+              "price": 60
+            },
+            {
+              "item": "cobblemon:big_root",
+              "count": 2,
+              "price": 50
+            },
+            {
+              "item": "cobblemon:revival_herb",
+              "count": 1,
+              "price": 120
+            },
+            {
+              "item": "cobblemon:moomoo_milk",
+              "count": 2,
+              "price": 40
+            },
+            {
+              "item": "minecraft:honey_bottle",
+              "count": 4,
+              "price": 30
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 16,
+              "price": 20
+            },
+            {
+              "item": "minecraft:egg",
+              "count": 8,
+              "price": 20
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 16,
+              "price": 20
+            },
+            {
+              "item": "minecraft:milk_bucket",
+              "count": 1,
+              "price": 20
+            }
+          ],
+          "rotatingItems": {
+            "enabled": true,
+            "count": 6,
+            "always": [],
+            "excluded": [],
+            "prices": [
+              {
+                "item": "#cobblemon:berries",
+                "count": 4,
+                "price": 30
+              }
+            ]
+          }
+        }
+      ],
+      "fixed": []
+    },
+    {
+      "id": "tickets",
+      "name": "",
+      "icon": "cobblemon_safari:safari_ticket",
+      "fixed": [
+        {
+          "item": "cobblemon_safari:safari_ticket",
+          "count": 1,
+          "price": 0,
+          "cost": [
+            {
+              "item": "#cobblemon:apricorns",
+              "count": 16
+            }
+          ],
+          "limit": {
+            "max": 1
+          }
+        },
+        {
+          "item": "cobblemon_safari:safari_ticket",
+          "count": 1,
+          "price": 0,
+          "cost": [
+            {
+              "item": "#cobblemon:berries",
+              "count": 24
+            }
+          ],
+          "limit": {
+            "max": 1
+          }
+        },
+        {
+          "item": "cobblemon_safari:safari_ticket",
+          "count": 1,
+          "price": 0,
+          "cost": [
+            {
+              "item": "#cobblemon:evolution_stones",
+              "count": 1
+            }
+          ],
+          "limit": {
+            "max": 1
+          }
+        },
+        {
+          "item": "cobblemon_safari:safari_ticket",
+          "count": 1,
+          "price": 0,
+          "cost": [
+            {
+              "item": "#cobblemon:fossils",
+              "count": 1
+            }
+          ],
+          "limit": {
+            "max": 1
+          }
+        }
+      ]
+    }
+  ]
+}

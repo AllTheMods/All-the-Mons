@@ -1,0 +1,530 @@
+{
+  "configVersion": 17,
+  "hunt": {
+    "maxDurationSeconds": 7200,
+    "timer": {
+      "pauseWhileOffline": true,
+      "pauseInRestHouses": true,
+      "pauseDuringTravel": true
+    },
+    "warningsAtSeconds": [
+      900,
+      600,
+      300,
+      60,
+      30,
+      10
+    ],
+    "exitDestination": "RETURN_POINT",
+    "exemptCreativeAndSpectator": true
+  },
+  "tickets": {
+    "defaultDurationSeconds": 1800,
+    "minAddedSeconds": 1200,
+    "addToCurrentHunt": true,
+    "maxBankedSeconds": 14400,
+    "refundUnusedTimeOnLeave": true,
+    "loot": {
+      "enabled": true,
+      "sources": [
+        {
+          "table": "minecraft:chests/village/",
+          "chance": 0.04
+        },
+        {
+          "table": "minecraft:chests/village/village_savanna_house",
+          "chance": 0.1
+        },
+        {
+          "table": "minecraft:chests/desert_pyramid",
+          "chance": 0.12
+        },
+        {
+          "table": "minecraft:chests/jungle_temple",
+          "chance": 0.12
+        },
+        {
+          "table": "cobblemon:ruins/common/",
+          "chance": 0.18
+        }
+      ]
+    }
+  },
+  "gate": {
+    "allowEntry": true,
+    "spawnWarden": true,
+    "companions": [
+      "kangaskhan level=30",
+      "tauros level=30",
+      "chansey level=30"
+    ],
+    "roamRadius": 8
+  },
+  "balls": {
+    "allowed": [
+      "cobblemon:safari_ball",
+      "cobblemon:master_ball"
+    ],
+    "loan": {
+      "count": 0,
+      "ballItem": "cobblemon:safari_ball"
+    }
+  },
+  "battles": {
+    "enabled": true,
+    "fishingStartsBattle": false,
+    "graceSeconds": 120
+  },
+  "capture": {
+    "safariBallOutOfBattleMultiplier": 3.0,
+    "marks": {
+      "safari": true,
+      "special": true,
+      "swarm": true,
+      "fullMoon": true,
+      "downpour": true,
+      "storm": true,
+      "aurora": true,
+      "angler": true,
+      "nest": true
+    },
+    "flee": {
+      "enabled": true,
+      "perFailedBall": 0.05,
+      "maxChance": 0.35,
+      "shinies": false,
+      "rarities": {
+        "common": {
+          "enabled": true,
+          "chance": 0.05
+        },
+        "uncommon": {
+          "enabled": true,
+          "chance": 0.08
+        },
+        "rare": {
+          "enabled": true,
+          "chance": 0.1
+        },
+        "ultraRare": {
+          "enabled": true,
+          "chance": 0.12
+        },
+        "legendary": {
+          "enabled": false,
+          "chance": 0.25
+        },
+        "mythical": {
+          "enabled": false,
+          "chance": 0.25
+        },
+        "ultraBeast": {
+          "enabled": false,
+          "chance": 0.2
+        },
+        "paradox": {
+          "enabled": false,
+          "chance": 0.18
+        }
+      }
+    }
+  },
+  "protection": {
+    "invulnerablePlayers": true,
+    "invulnerablePokemon": true,
+    "hunger": false,
+    "protectBlocks": true,
+    "placeableBlocks": [
+      "cobblemon:poke_cake",
+      "cobblemon:poke_snack"
+    ],
+    "interact": {
+      "berries": true,
+      "apricorns": true,
+      "galaricaNuts": true,
+      "mints": false,
+      "revivalHerbs": false,
+      "medicinalLeeks": false,
+      "vivichokes": false,
+      "heartyGrains": false,
+      "bugwort": false,
+      "roots": false
+    }
+  },
+  "spawns": {
+    "nativeSpawns": true,
+    "maxSameSpeciesNearby": 4,
+    "spawnRateMultiplier": 2.0,
+    "pokemonPerChunkMultiplier": 2.0,
+    "caughtSpeciesWeight": 0.3,
+    "snackClearRadius": 16,
+    "snackDensityMultiplier": 1.5,
+    "legendary": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "mythical": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "ultraBeast": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "paradox": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 0
+    },
+    "excludedSpecies": []
+  },
+  "specials": {
+    "enabled": true,
+    "rotationMinutes": 240,
+    "slots": {
+      "common": 0,
+      "uncommon": 1,
+      "rare": 2,
+      "ultraRare": 3
+    },
+    "spawn": {
+      "checkEverySeconds": 15,
+      "chance": 0.35,
+      "maxAroundPlayer": 2,
+      "weights": {
+        "common": 0,
+        "uncommon": 10,
+        "rare": 4,
+        "ultraRare": 1
+      }
+    },
+    "legendary": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "mythical": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "ultraBeast": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 1
+    },
+    "paradox": {
+      "allowSpawn": false,
+      "maxSpawnPerPokemon": 0
+    },
+    "excludedSpecies": []
+  },
+  "events": {
+    "swarm": {
+      "enabled": true,
+      "chance": 0.5,
+      "buckets": [
+        "uncommon",
+        "rare",
+        "ultra-rare"
+      ],
+      "rarities": {
+        "legendary": {
+          "allowSpawn": false,
+          "maxSpawnPerPokemon": 0
+        },
+        "mythical": {
+          "allowSpawn": false,
+          "maxSpawnPerPokemon": 0
+        },
+        "ultraBeast": {
+          "allowSpawn": false,
+          "maxSpawnPerPokemon": 0
+        },
+        "paradox": {
+          "allowSpawn": false,
+          "maxSpawnPerPokemon": 0
+        }
+      },
+      "weights": {
+        "common": 0,
+        "uncommon": 10,
+        "rare": 4,
+        "ultraRare": 1
+      },
+      "excludeList": [],
+      "weightMultiplier": 10.0,
+      "maxNearby": 10,
+      "minNearby": 4,
+      "checkEverySeconds": 5
+    },
+    "fullMoon": {
+      "enabled": true,
+      "types": [
+        "fairy",
+        "ghost",
+        "dark",
+        "psychic"
+      ],
+      "weightMultiplier": 3.0
+    },
+    "downpour": {
+      "enabled": true,
+      "chance": 0.15,
+      "minDurationMinutes": 5,
+      "maxDurationMinutes": 10,
+      "types": [
+        "water",
+        "electric"
+      ],
+      "weightMultiplier": 2.0
+    },
+    "storm": {
+      "enabled": true,
+      "chance": 0.5,
+      "minDurationMinutes": 3,
+      "maxDurationMinutes": 8,
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "excludeList": [],
+      "habitats": [
+        "cobblemon_safari:peaks",
+        "cobblemon_safari:rocky_hills",
+        "cobblemon_safari:volcanic"
+      ],
+      "minAltitudeAboveSea": 45,
+      "checkEverySeconds": 15,
+      "spawnChance": 0.25,
+      "maxNearby": 2,
+      "lightning": true,
+      "lightningCooldownSeconds": 30
+    },
+    "heatwave": {
+      "enabled": true,
+      "chance": 0.15,
+      "minDurationMinutes": 4,
+      "maxDurationMinutes": 8,
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "habitats": [
+        "cobblemon_safari:dunes",
+        "cobblemon_safari:volcanic",
+        "cobblemon_safari:badlands",
+        "cobblemon_safari:savanna"
+      ],
+      "weightMultiplier": 2.0
+    },
+    "aurora": {
+      "enabled": true,
+      "chance": 0.1,
+      "minDurationMinutes": 3,
+      "maxDurationMinutes": 6,
+      "frozenTypes": [
+        "ice"
+      ],
+      "otherTypes": [
+        "psychic",
+        "fairy"
+      ],
+      "shinyChanceMultiplier": 4.0,
+      "excludeList": [],
+      "frozenHabitats": [
+        "cobblemon_safari:glacier",
+        "cobblemon_safari:snowfield",
+        "cobblemon_safari:taiga"
+      ],
+      "glowSeconds": 20
+    },
+    "eggNests": {
+      "enabled": true,
+      "checkEverySeconds": 30,
+      "spawnChance": 0.05,
+      "minDistance": 24,
+      "maxDistance": 48,
+      "exclusionRadius": 128,
+      "lifetimeMinutes": 20,
+      "firstComeFirstServed": true,
+      "excludedEggGroups": [
+        "undiscovered"
+      ],
+      "rarities": {
+        "legendary": false,
+        "mythical": false,
+        "ultraBeast": false,
+        "paradox": false
+      },
+      "excludeList": [],
+      "hatchMinutes": 10,
+      "hatchSpeedAbilities": [
+        "flamebody"
+      ],
+      "hatchSpeedMultiplier": 2.0
+    }
+  },
+  "points": {
+    "enabled": true,
+    "perCatch": {
+      "common": 10,
+      "uncommon": 20,
+      "rare": 50,
+      "ultraRare": 120
+    },
+    "specialBonus": 50,
+    "shinyBonus": 250
+  },
+  "restHouses": {
+    "prebuild": true,
+    "travel": {
+      "guide": true,
+      "cooldownSeconds": 30,
+      "cinematicSeconds": 3
+    }
+  },
+  "escapeRope": {
+    "enabled": true,
+    "toRestHouse": true
+  },
+  "reset": {
+    "enabled": true,
+    "hour": 4,
+    "timeZone": "",
+    "relief": "GENTLE",
+    "mode": "LIVE",
+    "maxWaitMinutes": 60,
+    "countdownSeconds": 300
+  },
+  "missions": {
+    "enabled": true,
+    "count": 3,
+    "allowedKinds": [
+      "SPECIES",
+      "TYPE",
+      "SPECIAL",
+      "HABITAT",
+      "ANY",
+      "DIFFERENT",
+      "OUT_OF_BATTLE",
+      "NIGHT",
+      "EVOLVED",
+      "LEVEL",
+      "FISHING"
+    ],
+    "allMissionsBonusPoints": 200,
+    "kinds": {
+      "species": {
+        "commonCount": 2,
+        "uncommonCount": 1,
+        "rareCount": 1,
+        "weight": 3,
+        "minCount": 1,
+        "maxCount": 2,
+        "rewardPoints": 120,
+        "pointsPerCatch": 0
+      },
+      "type": {
+        "weight": 3,
+        "minCount": 3,
+        "maxCount": 5,
+        "rewardPoints": 0,
+        "pointsPerCatch": 30
+      },
+      "special": {
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 1,
+        "rewardPoints": 250,
+        "pointsPerCatch": 0
+      },
+      "habitat": {
+        "weight": 2,
+        "minCount": 3,
+        "maxCount": 4,
+        "rewardPoints": 0,
+        "pointsPerCatch": 25
+      },
+      "any": {
+        "weight": 1,
+        "minCount": 5,
+        "maxCount": 8,
+        "rewardPoints": 0,
+        "pointsPerCatch": 15
+      },
+      "different": {
+        "weight": 2,
+        "minCount": 3,
+        "maxCount": 5,
+        "rewardPoints": 0,
+        "pointsPerCatch": 30
+      },
+      "outOfBattle": {
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 4,
+        "rewardPoints": 0,
+        "pointsPerCatch": 30
+      },
+      "night": {
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 3,
+        "rewardPoints": 0,
+        "pointsPerCatch": 40
+      },
+      "evolved": {
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 2,
+        "rewardPoints": 0,
+        "pointsPerCatch": 80
+      },
+      "level": {
+        "minLevel": 20,
+        "maxLevel": 40,
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "rewardPoints": 120,
+        "pointsPerCatch": 0
+      },
+      "hiddenAbility": {
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "rewardPoints": 400,
+        "pointsPerCatch": 0
+      },
+      "shiny": {
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "rewardPoints": 1000,
+        "pointsPerCatch": 0
+      },
+      "fishing": {
+        "weight": 2,
+        "minCount": 2,
+        "maxCount": 3,
+        "rewardPoints": 0,
+        "pointsPerCatch": 45
+      }
+    },
+    "speciesFilter": {
+      "rarities": [
+        "common",
+        "uncommon",
+        "rare"
+      ],
+      "excludedSpecies": [],
+      "excludedTypes": [],
+      "allowWater": false,
+      "allowCaves": true,
+      "allowTimeRestricted": false,
+      "allowWeatherRestricted": false
+    },
+    "swap": {
+      "enabled": true,
+      "cost": 50,
+      "perRotation": 1
+    }
+  }
+}
