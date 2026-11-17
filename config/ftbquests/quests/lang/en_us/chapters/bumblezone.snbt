@@ -214,6 +214,7 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_phantasm.png width:200 height:100 align:center}"
 	]
 	quest.4F144E5F70932C7D.title: "Phantasm Aviary"
+	quest.50150380043F97F9.quest_subtitle: "Any Bumblezone music disc"
 	quest.50150380043F97F9.title: "Flight of the Bumblebee"
 	quest.513060836057E5B7.quest_desc: [
 		"&e&lPollinated Fields&r are... ACHEW... like the Plains Biome but full of &ePollen&r! ACHEW... &ePollen&r places like layered Snow, it... ACHEW... stacks on top of other &ePollen&r and falls with Gravity... ACHEW. It will slow you down when walking through it, similar to... ACHEW... Powdered Snow.\\n"

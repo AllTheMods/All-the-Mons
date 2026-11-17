@@ -5403,7 +5403,7 @@
 			shape: "diamond"
 			tasks: [{
 				id: "538D51FC8321C046"
-				item: { count: 1, id: "mysticalagriculture:copper_alloy_seeds" }
+				item: { count: 1, id: "mysticalagriculture:conductive_alloy_seeds" }
 				type: "item"
 			}]
 			x: 19.5d

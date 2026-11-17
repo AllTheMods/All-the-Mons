@@ -2532,6 +2532,9 @@
 			y: 3.0d
 		}
 		{
+			icon: {
+				id: "the_bumblezone:music_disc_hive_speed_beepop"
+			}
 			id: "50150380043F97F9"
 			rewards: [
 				{
@@ -2548,7 +2551,7 @@
 			]
 			tasks: [{
 				id: "0EE3B383AFFEFC94"
-				item: { count: 1, id: "the_bumblezone:music_disc_flight_of_the_bumblebee_rimsky_korsakov" }
+				item: { components: { "ftbfiltersystem:filter": "item_tag(the_bumblezone:music_discs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -2.5d

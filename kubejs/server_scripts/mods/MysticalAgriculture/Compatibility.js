@@ -32,7 +32,6 @@ const useBlocks = [
   {resource:"fluix", essence:"imperium", block:"ae2:fluix_block"},
   {resource:"soularium", essence:"imperium"},
   {resource:"conductive_alloy", essence:"tertium"},
-  {resource:"copper_alloy", essence:"tertium"},
   {resource:"end_steel", essence:"supremium"},
   {resource:"redstone_alloy", essence:"tertium"},
   {resource:"vibrant_alloy", essence:"supremium"},

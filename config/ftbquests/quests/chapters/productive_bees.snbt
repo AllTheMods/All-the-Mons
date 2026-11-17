@@ -4844,7 +4844,7 @@
 			}]
 			tasks: [{
 				id: "52213CAAC7B43162"
-				item: { components: { "productivebees:bee_type": "productivebees:copper_alloy" }, count: 1, id: "productivebees:configurable_honeycomb" }
+				item: { components: { "productivebees:bee_type": "productivebees:conductive_alloy" }, count: 1, id: "productivebees:configurable_honeycomb" }
 				match_components: "fuzzy"
 				type: "item"
 			}]
